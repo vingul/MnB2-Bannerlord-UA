@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Українська">
+  <LanguageFile xml_path="UA/CustomBattle/std_custombattlecharacters_xml.xml" />
+  <LanguageFile xml_path="UA/CustomBattle/std_custom_battle_scenes_xml.xml" />
+  <LanguageFile xml_path="UA/CustomBattle/std_TaleWorlds_MountAndBlade_CustomBattle.xml" />
+</LanguageData>
