@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData id="Українська">
+  <LanguageFile xml_path="UA/StoryMode/std_story_mode_location_complex_templates_xml.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_module_strings_xml.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_StoryMode.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_story_mode_characters_xml.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_StoryMode_GauntletUI.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_StoryMode_View.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_story_mode_items_xml.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_story_mode_settlements_xml.xml" />
+</LanguageData>
