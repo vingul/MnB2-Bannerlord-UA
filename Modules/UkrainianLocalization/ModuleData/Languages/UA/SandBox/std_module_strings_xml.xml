@@ -61,7 +61,7 @@
     <string id="EhELIf65" text="Teruin"/>
     <string id="fbaQp3ox" text="Enable auto allocation of perks for members in your clan."/>
     <string id="fDQuQ8Ph" text="Prisoners Recruited"/>
-    <string id="FiRWs5vF" text="Ironman mode limits you to a single save file and automatically saves when you quit the game."/>
+    <string id="FiRWs5vF" text="В режимі «Залізна воля» у вас є тільки один файл збереження, який автоматично перезаписується при виході з гри."/>
     <string id="freebooterdifficulty" text="Freebooter"/>
     <string id="GbSZ3ZXh" text="Denars earned from Caravans"/>
     <string id="GCqWwDWg" text="Baladir"/>
@@ -141,7 +141,7 @@
     <string id="uG2Alcat" text="Game Difficulty"/>
     <string id="veterandifficulty" text="Veteran"/>
     <string id="vGF5S2hE" text="Leaderboard"/>
-    <string id="vNLVkLT5" text="Ironman Mode"/>
+    <string id="vNLVkLT5" text="Залізна воля"/>
     <string id="vOgACpuD" text="Companions"/>
     <string id="VRSsxx1g" text="Issues Solved"/>
     <string id="WBkmgu69" text="Troops Recruited from Towns and Villages"/>
