@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="sf_menu_storymode_new_game" text="New Campaign"/>
+    <string id="sf_menu_storymode_new_game" text="Нова кампанія"/>
     <string id="V8BXjyYq" text="Disabled during installation."/>
   </strings>
 </base>
