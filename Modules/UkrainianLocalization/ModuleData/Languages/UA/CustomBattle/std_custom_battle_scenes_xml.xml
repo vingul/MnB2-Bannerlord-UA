@@ -11,7 +11,7 @@
     <string id="0p1Xuz4D" text="Нижні Дріатські гори (рівнина)"/>
     <string id="1hIKR8Sa" text="Окс {.MI}Холл{.nn}"/>
     <string id="1nWa3qgb" text="Арка Бог Бета (рівнина)"/>
-    <string id="1rG1qcKN" text="Узбережжя Медені (пустиня)"/>
+    <string id="1rG1qcKN" text="Узбережжя Медені (пустеля)"/>
     <string id="2hIl3Pld" text="Кар {.MI}Бансет{.nn}"/>
     <string id="2JJHMZa8" text="Річка Озу (степ)"/>
     <string id="2ritKG4l" text="Русло Тіагиса (степ)"/>
@@ -37,7 +37,7 @@
     <string id="7t4rSHJF" text="Верхів'я річки Транд (рівнина)"/>
     <string id="7vn2VRP0" text="{.MI}Марейвен"/>
     <string id="843GVedi" text="{.FI}Корсія"/>
-    <string id="8nAcLLnQ" text="Берег Вінели (рівнина)"/>
+    <string id="8nAcLLnQ" text="Узбережжя Вінели (рівнина)"/>
     <string id="8txiTiHl" text="{.MI}Фрегіан"/>
     <string id="8vI0Twwn" text="{.MI}Омор"/>
     <string id="990Fhxcw" text="Пен {.MI}Кеннок{.nn}"/>
@@ -56,7 +56,7 @@
     <string id="b33aHvbC" text="{.MI}Жакулан"/>
     <string id="B6EMyA1v" text="{.MI}Марунат"/>
     <string id="b9maTDoe" text="Улоговина Веалоса (рівнина)"/>
-    <string id="bFXvvRDp" text="Пустельна стежка Бір-Сеіф (пустиня)"/>
+    <string id="bFXvvRDp" text="Пустельна стежка Бір-Сеіф (пустеля)"/>
     <string id="bGvPtKc3" text="{.FI}Зестея"/>
     <string id="bQVkbPpU" text="{.MI}Джерак"/>
     <string id="bskXLff6" text="{.FI}Діатма"/>
@@ -71,7 +71,7 @@
     <string id="dah9IZxv" text="{.MI}Родобас"/>
     <string id="dAqn04iR" text="{.MI}Авалипс"/>
     <string id="dBlbWtZR" text="Бір-{.MI}Сеіф{.nn}"/>
-    <string id="DDzuJuFC" text="Берег Смарагдового моря (пустиня)"/>
+    <string id="DDzuJuFC" text="Узбережжя Смарагдового моря (пустеля)"/>
     <string id="Dga5nleS" text="Долина Самафи (рівнина)"/>
     <string id="diY4gxkG" text="{.MI}Верександ"/>
     <string id="eEqUBFb3" text="{.FI}Епікротея"/>
@@ -85,10 +85,10 @@
     <string id="FQ0sIVLT" text="{.MI}Прімесс"/>
     <string id="fQhG6WJA" text="Гори на краю Іркарського лісу (рівнина)"/>
     <string id="FtAQwVpt" text="Долина Зестеї (рівнина)"/>
-    <string id="fXaZ3CG4" text="Пустки Барс-Дагу (степ)"/>
+    <string id="fXaZ3CG4" text="Пустища Барс-Дагу (степ)"/>
     <string id="Fy68tN4M" text="{.MI}Асмаіт"/>
     <string id="FY9WBGWk" text="{.MI}Мажадан"/>
-    <string id="gdPguBbF" text="Низини Джарджари (пустиня)"/>
+    <string id="gdPguBbF" text="Низини Джарджари (пустеля)"/>
     <string id="gKHzk2U0" text="Ет {.MI}Кафал{.nn}"/>
     <string id="glewzQmU" text="{.FI}Моренія"/>
     <string id="GnaHLFY1" text="Ільтанське болото (рівнина)"/>
@@ -97,7 +97,7 @@
     <string id="HcX4VAOW" text="{.FI}Попсія"/>
     <string id="HfHfODCq" text="{.FI}Епіноза"/>
     <string id="hndY2L5P" text="{.MI}Вадар"/>
-    <string id="ho6w9wbi" text="Захід Смарагдового моря (пустиня)"/>
+    <string id="ho6w9wbi" text="Захід Смарагдового моря (пустеля)"/>
     <string id="HOSVm9Av" text="Басейн річки Мірон (рівнина)"/>
     <string id="HSanKfUO" text="{.MI}Гаос"/>
     <string id="I7QRokP0" text="{.MI}Кріос"/>
@@ -106,7 +106,7 @@
     <string id="IjRalhdI" text="Ухаліонський ліс (рівнина)"/>
     <string id="IMqEmnPb" text="Міронські ліси (рівнина)"/>
     <string id="IPbMskbi" text="{.MI}Замок{.nn} Устокол"/>
-    <string id="iRJx70Q7" text="Південні пустоші (пустиня)"/>
+    <string id="iRJx70Q7" text="Південні пустища (пустеля)"/>
     <string id="IvJd7Nbr" text="Бог {.MI}Бет{.nn}"/>
     <string id="IyuoDcuP" text="{.MI}Ремтойл"/>
     <string id="IZ1b77Ma" text="{.MI}Амітатис"/>
@@ -126,132 +126,132 @@
     <string id="Jwo98TB7" text="{.MI}Форін"/>
     <string id="jZyyJMqF" text="{.MI}Мот"/>
     <string id="K0JCdjQd" text="{.MI}Порос"/>
-    <string id="K2NeKiuO" text="Ortysia"/>
-    <string id="K5RYhaN1" text="Melion"/>
-    <string id="ka2XFasQ" text="Bukits"/>
-    <string id="KfHLVdry" text="Iyakis"/>
-    <string id="KirQzyQV" text="Caleus Castle"/>
-    <string id="Ku2aoyjk" text="Bryn glas"/>
-    <string id="kx9W7aUN" text="Ornion Plateau (Plain)"/>
-    <string id="kygtIpwm" text="Pendraic Prairie (Plain)"/>
-    <string id="Lac7Lb0P" text="Uqba"/>
-    <string id="LACC0MNV" text="Aminys Bridges (Plain)"/>
-    <string id="lfGlDXu2" text="Goleryn"/>
-    <string id="lmaUNOay" text="Jabal Ashab Desert (Desert)"/>
-    <string id="Luj9oWEl" text="Lageta"/>
-    <string id="LZPV5OV6" text="Damar River (Steppe)"/>
-    <string id="mJV8DyC1" text="Nogrent"/>
-    <string id="MQQy8Ufb" text="Bay of Tirby Woods (Plain)"/>
-    <string id="mVnh3kqF" text="Devseg Plateau (Steppe)"/>
-    <string id="MysnepcM" text="Ircara Forest (Plain)"/>
-    <string id="n1pZuP9U" text="Tripotamia Valley (Plain)"/>
-    <string id="N7tngupZ" text="Swenryn Plains (Plain)"/>
-    <string id="NlrfibI9" text="Remental"/>
-    <string id="NQKWCA6m" text="Calsa Wastes (Plain)"/>
-    <string id="NWDzoBvg" text="Tasheba Coast (Steppe)"/>
-    <string id="nx8dPxlY" text="Chaikand"/>
-    <string id="NzQVLsOH" text="Calsa River (Plain)"/>
-    <string id="O3GrNfIR" text="Vesin Coast (Plain)"/>
-    <string id="O6hUb0PH" text="Laconis Shores (Plain)"/>
-    <string id="OcQDxfnH" text="Revyl"/>
-    <string id="oifHnpLh" text="Gamardan Forest (Plain)"/>
-    <string id="OLrhkKUo" text="Ain Baliq Castle"/>
-    <string id="OSv0n6Eq" text="Rhesos"/>
-    <string id="ov9jrNqP" text="Ormanfard"/>
-    <string id="oxSVeo6J" text="Seonon"/>
-    <string id="p0tSofNV" text="Palisont Valley (Plain)"/>
-    <string id="P6TPNvWz" text="Galend"/>
-    <string id="p7X1aLIP" text="Samatha"/>
-    <string id="PF1ohppa" text="Mazhadan Castle"/>
-    <string id="PMf8vgt1" text="Askar"/>
-    <string id="PnfGEvfu" text="Canterion"/>
-    <string id="PYggrg9m" text="Palisont"/>
-    <string id="q0JVAZjz" text="Rhotae"/>
-    <string id="Q1FSLwaw" text="Vargornis"/>
-    <string id="q8eVTV1M" text="Aris Lowlands (Plain)"/>
-    <string id="qaoM6HL6" text="Tyal"/>
-    <string id="QRioHPAs" text="Bergum"/>
-    <string id="Qtskr0Fg" text="Shapeshte"/>
-    <string id="QuLrXJoP" text="Jogurys Castle"/>
-    <string id="qumw7GQb" text="Dinar"/>
-    <string id="qxtk8aub" text="Imlagh Forest (Plain)"/>
-    <string id="r2cvi5pi" text="Hongard Castle"/>
-    <string id="RdMsvNec" text="Tor Melina"/>
-    <string id="RdWjsx6Y" text="Ismilkorg Woods (Plain)"/>
-    <string id="RgO750Ca" text="Usanc Castle"/>
-    <string id="rk7xneq9" text="Razih"/>
-    <string id="RKLVUpGR" text="Kvol Woods (Plain)"/>
-    <string id="RQ37o2Yu" text="Baltakhand"/>
-    <string id="rtiVr8Nm" text="Sestadaim Castle"/>
-    <string id="RY3L0QLA" text="Tismil Wastes (Steppe)"/>
-    <string id="S9xlDnPL" text="Dalmengus Coast (Plain)"/>
-    <string id="SdKNB1JO" text="Sargot"/>
-    <string id="SDoABuDm" text="Ab Comer Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN6" text="Ataconia Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN9" text="Mecalovea Castle"/>
-    <string id="Settlements.Settlement.name.town_A6" text="Sanala"/>
-    <string id="ShP2XUV7" text="Varcheg"/>
-    <string id="Sk1x6LZK" text="Barihal Castle"/>
-    <string id="Sm9T9Qwi" text="Myzea"/>
-    <string id="snbaIFOU" text="Veron Castle"/>
-    <string id="sVurp04I" text="Potamis Woods (Plain)"/>
-    <string id="SxGXPdms" text="Tevea"/>
-    <string id="SZ3fWeNn" text="Gamardan"/>
-    <string id="t3t5XL2b" text="Chornobas"/>
-    <string id="TapuitFC" text="Onira"/>
-    <string id="tBZ507q1" text="Vladiv Forest (Plain)"/>
-    <string id="tFkhbulg" text="Akkan Hill Pass (Steppe)"/>
-    <string id="TGPsNCI5" text="Varnovapol"/>
-    <string id="TiUvsxPP" text="Abba Basin (Desert)"/>
-    <string id="tJtC25tG" text="Husn Fulq"/>
-    <string id="tLLrL2po" text="Kvol"/>
-    <string id="tPS2xGZN" text="Kuruluk"/>
-    <string id="TufwCXsb" text="East Dunglanys (Plain)"/>
-    <string id="TWmYlcCZ" text="Quyaz"/>
-    <string id="txX7q3OL" text="Talivel Castle"/>
-    <string id="uADa8Bmy" text="Lycaron"/>
-    <string id="UBbTKSsa" text="Zeonica"/>
-    <string id="UcwyFba8" text="Kiraz"/>
-    <string id="udfsSBuj" text="Kachyar Valley (Plain)"/>
-    <string id="UL5Ebxfq" text="Goleryn Basin (Plain)"/>
-    <string id="umUUXGom" text="Jabal Tamar Desert (Desert)"/>
-    <string id="ur24SWTb" text="Odokh"/>
-    <string id="UYl1t6jl" text="Wadar Desert (Desert)"/>
-    <string id="v8anZHEq" text="Erzenur"/>
-    <string id="VA7hpaye" text="Mossom"/>
-    <string id="varCZlso" text="Balgard"/>
-    <string id="VARi169Z" text="Trand River Valley (Plain)"/>
-    <string id="vITP9z1Z" text="Ortongard"/>
-    <string id="vK8aRweu" text="Jamayeh Castle"/>
-    <string id="vN32HHek" text="Hubyar"/>
-    <string id="vXqCDtR6" text="Vathea"/>
-    <string id="VZJF1eXu" text="Takor Castle"/>
-    <string id="w7ImuzEs" text="Pravend"/>
-    <string id="wj01G6Mw" text="Vesin"/>
-    <string id="wKYM4OQY" text="Nahr Al-Kals Plateau (Steppe)"/>
-    <string id="wL4VPMJY" text="Damar Bridge (Desert)"/>
-    <string id="wwITudGq" text="Agalmon"/>
-    <string id="WxSfaOM1" text="Medeni Castle"/>
-    <string id="x4tYsDgI" text="Nutyuk"/>
-    <string id="xDOAD5f6" text="Liwas Desert (Desert)"/>
-    <string id="xdYXz0PY" text="Jogurys"/>
-    <string id="XI0Tct5W" text="Tismil"/>
-    <string id="XJAEaQHv" text="Sulun Dag Wastes (Steppe)"/>
-    <string id="XOj46kua" text="Drapand Cliffs (Plain)"/>
-    <string id="XOThK6JN" text="Bay of West Vlandia (Plain)"/>
-    <string id="XyYl7ito" text="Upper Sethys River (Plain)"/>
-    <string id="y0QUAVsw" text="Gersegos"/>
-    <string id="Y3Ava3iD" text="Saneopa"/>
-    <string id="y4pFeCFr" text="Morihig"/>
-    <string id="YbKvMKr3" text="Leblenion"/>
-    <string id="YeWZBSx8" text="Jalmarys"/>
-    <string id="YgQ7rtND" text="Deir Hawa"/>
-    <string id="YJpAgpco" text="Nevys Valley (Steppe)"/>
-    <string id="yKvr7MEB" text="West Llyn Tywal (Plain)"/>
-    <string id="ylK7UJp9" text="Carphenion"/>
-    <string id="YqnN2sbr" text="Calsea Swamps (Plain)"/>
-    <string id="zRbhAwyr" text="Vostrum"/>
-    <string id="zuYafrkj" text="Visibrot"/>
-    <string id="ZY5hwSyO" text="Takor Mountains (Steppe)"/>
+    <string id="K2NeKiuO" text="{.FI}Ортисія"/>
+    <string id="K5RYhaN1" text="{.MI}Меліон"/>
+    <string id="ka2XFasQ" text="{.MI}Букіц"/>
+    <string id="KfHLVdry" text="{.MI}Іякіс"/>
+    <string id="KirQzyQV" text="{.MI}Замок{.nn} Калеус"/>
+    <string id="Ku2aoyjk" text="Брин {.MI}Глес{.nn}"/>
+    <string id="kx9W7aUN" text="Орніонське плато (рівнина)"/>
+    <string id="kygtIpwm" text="Пендраїкська прерія (рівнина)"/>
+    <string id="Lac7Lb0P" text="{.FI}Укба"/>
+    <string id="LACC0MNV" text="Мости Аміниса (рівнина)"/>
+    <string id="lfGlDXu2" text="{.MI}Голерин"/>
+    <string id="lmaUNOay" text="Пустеля Джебаль-Ашаб (пустеля)"/>
+    <string id="Luj9oWEl" text="{.FI}Лагета"/>
+    <string id="LZPV5OV6" text="Річка Дамар (степ)"/>
+    <string id="mJV8DyC1" text="{.MI}Ногрент"/>
+    <string id="MQQy8Ufb" text="Ліси затоки Тірбі (рівнина)"/>
+    <string id="mVnh3kqF" text="Плато Девсег (степ)"/>
+    <string id="MysnepcM" text="Іркарський ліс (рівнина)"/>
+    <string id="n1pZuP9U" text="Долина Трипотамії (рівнина)"/>
+    <string id="N7tngupZ" text="Свенринські рівнини (рівнина)"/>
+    <string id="NlrfibI9" text="{.MI}Ременталь"/>
+    <string id="NQKWCA6m" text="Пустища Кальси (рівнина)"/>
+    <string id="NWDzoBvg" text="Ташебське узбережжя (степ)"/>
+    <string id="nx8dPxlY" text="{.MI}Чайканд"/>
+    <string id="NzQVLsOH" text="Річка Кальса (рівнина)"/>
+    <string id="O3GrNfIR" text="Весінське узбережжя (рівнина)"/>
+    <string id="O6hUb0PH" text="Береги Лаконіса (рівнина)"/>
+    <string id="OcQDxfnH" text="{.MI}Ревиль"/>
+    <string id="oifHnpLh" text="Гамарданський ліс (рівнина)"/>
+    <string id="OLrhkKUo" text="{.MI}Замок{.nn} Айн-Балік"/>
+    <string id="OSv0n6Eq" text="{.MI}Рез"/>
+    <string id="ov9jrNqP" text="{.MI}Орманфард"/>
+    <string id="oxSVeo6J" text="{.MI}Сеонон"/>
+    <string id="p0tSofNV" text="Долина Палісонта (рівнина)"/>
+    <string id="P6TPNvWz" text="{.MI}Галенд"/>
+    <string id="p7X1aLIP" text="{.FI}Самафа"/>
+    <string id="PF1ohppa" text="{.MI}Замок{.nn} Мажадан"/>
+    <string id="PMf8vgt1" text="{.MI}Аскар"/>
+    <string id="PnfGEvfu" text="{.MI}Кантеріон"/>
+    <string id="PYggrg9m" text="{.MI}Палісонт"/>
+    <string id="q0JVAZjz" text="{.NI}Ротай"/>
+    <string id="Q1FSLwaw" text="{.MI}Варгоніс"/>
+    <string id="q8eVTV1M" text="Низини Аріса (рівнина)"/>
+    <string id="qaoM6HL6" text="{.MI}Т'ял"/>
+    <string id="QRioHPAs" text="{.MI}Бергум"/>
+    <string id="Qtskr0Fg" text="Шапеште"/>
+    <string id="QuLrXJoP" text="{.MI}Замок{.nn} Джогурис"/>
+    <string id="qumw7GQb" text="{.MI}Дінар"/>
+    <string id="qxtk8aub" text="Імлагський ліс (рівнина)"/>
+    <string id="r2cvi5pi" text="{.MI}Замок{.nn} Хонгард"/>
+    <string id="RdMsvNec" text="Тор {.FI}Меліна{.nn}"/>
+    <string id="RdWjsx6Y" text="Ліси Ісмілкорга (рівнина)"/>
+    <string id="RgO750Ca" text="{.MI}Замок{.nn} Усанк"/>
+    <string id="rk7xneq9" text="{.NI}Разі"/>
+    <string id="RKLVUpGR" text="Ліси Квола (рівнина)"/>
+    <string id="RQ37o2Yu" text="{.MI}Балтаханд"/>
+    <string id="rtiVr8Nm" text="{.MI}Замок{.nn} Сестадайм"/>
+    <string id="RY3L0QLA" text="Пустища Тісміла (степ)"/>
+    <string id="S9xlDnPL" text="Узбережжя Дальменгуса (рівнина)"/>
+    <string id="SdKNB1JO" text="{.MI}Саргот"/>
+    <string id="SDoABuDm" text="{.MI}Замок{.nn} Аб Комер"/>
+    <string id="Settlements.Settlement.name.castle_EN6" text="{.MI}Замок{.nn} Атаконія"/>
+    <string id="Settlements.Settlement.name.castle_EN9" text="{.MI}Замок{.nn} Мекаловія"/>
+    <string id="Settlements.Settlement.name.town_A6" text="{.FI}Санала"/>
+    <string id="ShP2XUV7" text="{.MI}Варчег"/>
+    <string id="Sk1x6LZK" text="{.MI}Замок{.nn} Баріхаль"/>
+    <string id="Sm9T9Qwi" text="{.FI}Мизея"/>
+    <string id="snbaIFOU" text="{.MI}Замок{.nn} Верон"/>
+    <string id="sVurp04I" text="Ліси Потаміса (рівнина)"/>
+    <string id="SxGXPdms" text="{.FI}Тевея"/>
+    <string id="SZ3fWeNn" text="{.MI}Гамардан"/>
+    <string id="t3t5XL2b" text="{.MI}Чорнобас"/>
+    <string id="TapuitFC" text="{.FI}Оніра"/>
+    <string id="tBZ507q1" text="Владівський ліс (рівнина)"/>
+    <string id="tFkhbulg" text="Прохід в Акканських пагорбах (степ)"/>
+    <string id="TGPsNCI5" text="{.MI}Варноваполь"/>
+    <string id="TiUvsxPP" text="Улоговина Абби (пустеля)"/>
+    <string id="tJtC25tG" text="Хусн-{.MI}Фульк{.nn}"/>
+    <string id="tLLrL2po" text="{.MI}Квол"/>
+    <string id="tPS2xGZN" text="{.MI}Курулук"/>
+    <string id="TufwCXsb" text="Схід Дунгланиса (рівнина)"/>
+    <string id="TWmYlcCZ" text="{.MI}Кайяз"/>
+    <string id="txX7q3OL" text="{.MI}Замок{.nn} Талівел"/>
+    <string id="uADa8Bmy" text="{.MI}Ликарон"/>
+    <string id="UBbTKSsa" text="{.FI}Зеоніка"/>
+    <string id="UcwyFba8" text="{.MI}Кіраз"/>
+    <string id="udfsSBuj" text="Ках'ярська долина (рівнина)"/>
+    <string id="UL5Ebxfq" text="Голеринська улоговина (рівнина)"/>
+    <string id="umUUXGom" text="Пустеля Джебаль-Тамар (пустеля)"/>
+    <string id="ur24SWTb" text="{.MI}Одох"/>
+    <string id="UYl1t6jl" text="Вадарська пустеля (пустеля)"/>
+    <string id="v8anZHEq" text="{.MI}Ерзенур"/>
+    <string id="VA7hpaye" text="{.MI}Моссом"/>
+    <string id="varCZlso" text="{.MI}Бальгард"/>
+    <string id="VARi169Z" text="Долина річки Транд (рівнина)"/>
+    <string id="vITP9z1Z" text="{.MI}Ортонгард"/>
+    <string id="vK8aRweu" text="{.MI}Замок{.nn} Джамає"/>
+    <string id="vN32HHek" text="{.MI}Хуб'яр"/>
+    <string id="vXqCDtR6" text="{.FI}Вафея"/>
+    <string id="VZJF1eXu" text="{.MI}Замок{.nn} Такор"/>
+    <string id="w7ImuzEs" text="{.MI}Правенд"/>
+    <string id="wj01G6Mw" text="{.MI}Везін"/>
+    <string id="wKYM4OQY" text="Плато Нахр-аль-Кальс (степ)"/>
+    <string id="wL4VPMJY" text="Дамарський міст (пустеля)"/>
+    <string id="wwITudGq" text="{.MI}Агалмон"/>
+    <string id="WxSfaOM1" text="{.MI}Замок{.nn} Медені"/>
+    <string id="x4tYsDgI" text="{.MI}Нутюк"/>
+    <string id="xDOAD5f6" text="Ліваська пустеля (пустеля)"/>
+    <string id="xdYXz0PY" text="{.MI}Джогурис"/>
+    <string id="XI0Tct5W" text="{.MI}Тісміл"/>
+    <string id="XJAEaQHv" text="Пустища Сулун-Дага (степ)"/>
+    <string id="XOj46kua" text="Скелі Драпанда (рівнина)"/>
+    <string id="XOThK6JN" text="Затока в західній Вландії (рівнина)"/>
+    <string id="XyYl7ito" text="Верхів'я річки Сетис (рівнина)"/>
+    <string id="y0QUAVsw" text="{.MI}Герсег"/>
+    <string id="Y3Ava3iD" text="{.FI}Санеопа"/>
+    <string id="y4pFeCFr" text="{.MI}Моріхіг"/>
+    <string id="YbKvMKr3" text="{.MI}Лебленіон"/>
+    <string id="YeWZBSx8" text="{.MI}Джалмарис"/>
+    <string id="YgQ7rtND" text="Деір-{.FI}Хава{.nn}"/>
+    <string id="YJpAgpco" text="Долина Невиса (степ)"/>
+    <string id="yKvr7MEB" text="Захід Ллин Тивала (рівнина)"/>
+    <string id="ylK7UJp9" text="{.MI}Карфеніон"/>
+    <string id="YqnN2sbr" text="Кальзейське болото (рівнина)"/>
+    <string id="zRbhAwyr" text="{.MI}Вострум"/>
+    <string id="zuYafrkj" text="{.MI}Вісіброт"/>
+    <string id="ZY5hwSyO" text="Такорські гори (степ)"/>
   </strings>
 </base>
