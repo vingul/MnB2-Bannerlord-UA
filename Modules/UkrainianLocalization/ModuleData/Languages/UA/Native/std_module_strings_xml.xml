@@ -1224,7 +1224,7 @@
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})"/>
     <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}"/>
     <string id="NPJRmNAY" text="Can not be crafted."/>
-    <string id="NqarFr4P" text="Options"/>
+    <string id="NqarFr4P" text="Налаштування"/>
     <string id="NQbqtEqP" text="Cost: {COUNT}"/>
     <string id="NqSLYe6b" text="Renown:"/>
     <string id="NqtTPVzn" text="Attributes"/>
