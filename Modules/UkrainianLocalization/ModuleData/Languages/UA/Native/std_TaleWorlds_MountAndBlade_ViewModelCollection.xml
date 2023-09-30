@@ -244,21 +244,21 @@
     <string id="HH7LDwlK" text="Увімкнути перемотування часу"/>
     <string id="hiKTvBgF" text="Ви впевнені, що хочете скинути внесені на цій вкладці зміни? Внесені вами зміни будуть втрачені."/>
     <string id="hometab" text="Головна"/>
-    <string id="hPbppi6E" text="Not At The Lobby"/>
-    <string id="HUndnpNw" text="Demoted!"/>
+    <string id="hPbppi6E" text="Не в лобі"/>
+    <string id="HUndnpNw" text="Пониження!"/>
     <string id="HXWpxvgT" text="{ACTION} ({SECONDS})"/>
-    <string id="HXxNfncd" text="End of Battle"/>
-    <string id="i0esOr2l" text="Commander is not mounted!"/>
-    <string id="i0OEsfLt" text="Custom Battle Disabled"/>
-    <string id="i28Kjuay" text="Move Character"/>
-    <string id="i2mNBaxE" text="Obtain"/>
-    <string id="i3dJSlD0" text="No team had the upper hand at timeout"/>
-    <string id="i4Oo6aoM" text="Downloading Content..."/>
-    <string id="iCaRFZpG" text="along with these players"/>
-    <string id="Ie9I2Bha" text="Thrust Dmg."/>
-    <string id="iKtIhlbo" text="Rounds"/>
-    <string id="imUnCFgZ" text="Reset preview"/>
-    <string id="iNqucBor" text="Logging In"/>
+    <string id="HXxNfncd" text="Кінець битви"/>
+    <string id="i0esOr2l" text="Командир не в сідлі!"/>
+    <string id="i0OEsfLt" text="Створення битв відключено"/>
+    <string id="i28Kjuay" text="Пересування персонажа"/>
+    <string id="i2mNBaxE" text="Отримати"/>
+    <string id="i3dJSlD0" text="Час вийшов, жодна команда не перемогла"/>
+    <string id="i4Oo6aoM" text="Завантаження вмісту..."/>
+    <string id="iCaRFZpG" text="разом з цими гравцями:"/>
+    <string id="Ie9I2Bha" text="Шкода від поштовху"/>
+    <string id="iKtIhlbo" text="Раунди"/>
+    <string id="imUnCFgZ" text="Скинути попередній перегляд"/>
+    <string id="iNqucBor" text="Вхід у гру"/>
     <string id="iPx4jep6" text="Exposure"/>
     <string id="IS4SifJG" text="Won"/>
     <string id="Ise5gWw3" text="{PLAYED_GAMES} / {TOTAL_GAMES} Evaluation matches played"/>
