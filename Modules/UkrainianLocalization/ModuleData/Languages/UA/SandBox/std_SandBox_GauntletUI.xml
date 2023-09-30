@@ -4,19 +4,19 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="312lNJTM" text="Customize your personal banner by choosing your clan's sigil"/>
-    <string id="3CpNUnVl" text="Cancel"/>
-    <string id="3ZO5cMLu" text="Customize your banner's sigil"/>
-    <string id="9NuttOBC" text="Load"/>
-    <string id="AbEh2y8o" text="Save And Exit"/>
-    <string id="bV75iwKa" text="Save"/>
-    <string id="e0KdfaNe" text="Save As"/>
-    <string id="lBQXP6Wj" text="Start Game"/>
-    <string id="NqarFr4P" text="Options"/>
-    <string id="PXT6aA4J" text="Campaign Options"/>
-    <string id="RamV6yLM" text="Exit to Main Menu"/>
-    <string id="Rvr1bcu8" text="Next"/>
-    <string id="UAD5gWKK" text="Return to Education"/>
-    <string id="WiNRdfsm" text="Done"/>
+    <string id="312lNJTM" text="Налаштуйте свій особистий прапор, вибравши символ свого клану"/>
+    <string id="3CpNUnVl" text="Скасувати"/>
+    <string id="3ZO5cMLu" text="Налаштуйте символ свого прапору"/>
+    <string id="9NuttOBC" text="Завантажити"/>
+    <string id="AbEh2y8o" text="Зберегти і вийти"/>
+    <string id="bV75iwKa" text="Зберегти"/>
+    <string id="e0KdfaNe" text="Зберегти як"/>
+    <string id="lBQXP6Wj" text="Почати гру"/>
+    <string id="NqarFr4P" text="Налаштування"/>
+    <string id="PXT6aA4J" text="Налаштування кампанії"/>
+    <string id="RamV6yLM" text="Вийти в головне меню"/>
+    <string id="Rvr1bcu8" text="Далі"/>
+    <string id="UAD5gWKK" text="Повернутися до навчання"/>
+    <string id="WiNRdfsm" text="Готово"/>
   </strings>
 </base>
