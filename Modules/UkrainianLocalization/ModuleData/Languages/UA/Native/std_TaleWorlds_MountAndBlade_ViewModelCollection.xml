@@ -4,123 +4,123 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="0647tsif" text="Profile"/>
-    <string id="08KLQa3P" text="Waiting For Party Members"/>
-    <string id="0af2iQvw" text="Clan doesn't have any announcements"/>
-    <string id="0B27RrYJ" text="Battania"/>
-    <string id="0DnHFlia" text="Not In a Clan"/>
-    <string id="0FVlAbbJ" text="Gold III"/>
-    <string id="0Itt3bZM" text="Current keybind document version is outdated. Keybinds have been reverted to defaults."/>
-    <string id="0tUYng4e" text="Leveled Up!"/>
-    <string id="18yFEEIL" text="Estimated wait time"/>
-    <string id="1A1t1naG" text="You have left a ranked game in progress. Please reconnect to the game."/>
-    <string id="1Bm1Wk1v" text="Infantry"/>
-    <string id="1hlaGzGI" text="Look"/>
-    <string id="1hnq3Kb1" text="Are you sure want to reset all properties? Your changes will be lost."/>
-    <string id="1imGhhZl" text="Assists"/>
-    <string id="1JlzQIXE" text="Disabled"/>
-    <string id="1pwQgr04" text="Matchmaking Request"/>
-    <string id="1UaxKbn6" text="Returning to the Lobby..."/>
-    <string id="2AGvFYk9" text="To start the mission, you need to have at least one formation with {FORMATION_CLASS} class."/>
-    <string id="2baWg4Gq" text="Host"/>
-    <string id="2faDtaGz" text="Gold I"/>
-    <string id="2FaZ6E1k" text="Kill Death Ratio"/>
-    <string id="2KZLf51A" text="Evaluation Matches Finished"/>
-    <string id="2YIVRuRa" text="Remove From Friends"/>
-    <string id="2zcrC0h1" text="Gameplay"/>
-    <string id="3CpNUnVl" text="Cancel"/>
-    <string id="3CsACce8" text="Exit"/>
-    <string id="3sRdGQou" text="Leave"/>
-    <string id="3VosbFR0" text="Vlandian Champion"/>
-    <string id="4Dd2xgPm" text="Weight"/>
-    <string id="4dRTWSN3" text="Points"/>
-    <string id="4gCU2ykB" text="Reset all keys to default"/>
+    <string id="0647tsif" text="Профіль"/>
+    <string id="08KLQa3P" text="Очікуємо членів загону"/>
+    <string id="0af2iQvw" text="У клану немає ніяких оголошень"/>
+    <string id="0B27RrYJ" text="{.FI}Баттанія"/>
+    <string id="0DnHFlia" text="Не в клані"/>
+    <string id="0FVlAbbJ" text="Золото III"/>
+    <string id="0Itt3bZM" text="Файл з налаштуванням прив'язок клавіш застарів. Прив'язки були повернуті до значень за замовчуванням."/>
+    <string id="0tUYng4e" text="Рівень підвищено!"/>
+    <string id="18yFEEIL" text="Розрахунковий час очікування"/>
+    <string id="1A1t1naG" text="Ви залишили рейтингову гру. Будь ласка, під'єднайтеся знову до гри."/>
+    <string id="1Bm1Wk1v" text="Піхота"/>
+    <string id="1hlaGzGI" text="Дивитися"/>
+    <string id="1hnq3Kb1" text="Ви впевнені, що хочете скинути всі параметри? Всі внесені вами зміни будуть втрачені."/>
+    <string id="1imGhhZl" text="Допомога у вбивствах"/>
+    <string id="1JlzQIXE" text="Відключено"/>
+    <string id="1pwQgr04" text="Запит на створення гри"/>
+    <string id="1UaxKbn6" text="Повернення в лобі..."/>
+    <string id="2AGvFYk9" text="Щоб почати завдання, вам потрібен хоча б один підрозділ класу {FORMATION_CLASS}."/>
+    <string id="2baWg4Gq" text="Хост"/>
+    <string id="2faDtaGz" text="Золото I"/>
+    <string id="2FaZ6E1k" text="Співвідношення вбивств до смертей"/>
+    <string id="2KZLf51A" text="Оцінювальні матчі завершені"/>
+    <string id="2YIVRuRa" text="Видалити з друзів"/>
+    <string id="2zcrC0h1" text="Ігролад"/>
+    <string id="3CpNUnVl" text="Скасувати"/>
+    <string id="3CsACce8" text="Вихід"/>
+    <string id="3sRdGQou" text="Вийти"/>
+    <string id="3VosbFR0" text="Вландійський чемпіон"/>
+    <string id="4Dd2xgPm" text="Вага"/>
+    <string id="4dRTWSN3" text="Бали"/>
+    <string id="4gCU2ykB" text="Скинути всі клавіші до значень за замовчуванням"/>
     <string id="4NaOKslb" text="-"/>
-    <string id="4nr9Km6t" text="Losses"/>
-    <string id="4PrfimcK" text="Badge"/>
-    <string id="4ZE6i9nW" text="Leave Clan"/>
-    <string id="56FyokuX" text="Game mode is casual"/>
-    <string id="5baU17n0" text="Matchmaking feature is currently disabled"/>
-    <string id="5coyTZOI" text="Game is starting!"/>
-    <string id="5gGyaTPL" text="Reconnect"/>
-    <string id="5Ixsvn3s" text="Toggle scoreboard"/>
-    <string id="5k4dxUEJ" text="Troops"/>
-    <string id="5Pea977J" text="Faction: "/>
-    <string id="5tbWdY1j" text="Avatar"/>
-    <string id="5Xoilj6r" text="Shout"/>
-    <string id="5Z0pvuNL" text="Level {LEVEL}"/>
-    <string id="5zNfxZ7B" text="War Prince"/>
-    <string id="61isYVW0" text="Player {USER_NAME} is not found"/>
-    <string id="65oGXBYQ" text="Create"/>
-    <string id="67hsZZor" text="Are you sure want to leave your clan?"/>
-    <string id="6GSXsdeX" text="Speed"/>
-    <string id="6MQaCah5" text="Join a Game"/>
-    <string id="6mZymVS8" text="You are at the final rank"/>
-    <string id="6syoutpV" text="From {WHISPER_TARGET}"/>
-    <string id="6zYeU0VO" text="Disconnected from a match"/>
-    <string id="74PKmRWJ" text="Flip Hair"/>
-    <string id="76HlhP7r" text="You have to give leadership to another member to leave"/>
-    <string id="76VR5o8h" text="You must wait {SECONDS} seconds before sending another message."/>
-    <string id="77jmd4QF" text="Mute Permanently"/>
-    <string id="7APa598U" text="Kills With a Siege Engine"/>
-    <string id="7gQkFJqA" text="{RATING} points remaining to next rank"/>
-    <string id="7jhe9cT9" text="You need to have at least one more formation of this type to change this formation's type."/>
-    <string id="7jMnNlXG" text="Change Arena Preference"/>
-    <string id="7qySRF2T" text="Ping"/>
-    <string id="7R0i82Nw" text="Change Sigil"/>
-    <string id="7uILxbP5" text="You will obtain this item"/>
-    <string id="7vbGaapv" text="Your Loot: {LOOT}"/>
-    <string id="7XtICVeZ" text="Field of View"/>
-    <string id="82LuSDnd" text="Fast Cursor Move Left"/>
-    <string id="8byRf9zO" text="General"/>
-    <string id="8eZFlPVu" text="Deaths"/>
-    <string id="8nJFaJio" text="Password"/>
-    <string id="8OkPHu4f" text="No"/>
-    <string id="942B3LfA" text="Decline Friend Request"/>
-    <string id="9ET13VOe" text="Average Score"/>
-    <string id="9FSk2daF" text="Captains Killed"/>
-    <string id="9hJtoWot" text="Gold II"/>
-    <string id="9M4G8DDd" text="Your team was wiped out"/>
-    <string id="9P0VL49j" text="You don't have access to multiplayer."/>
-    <string id="9pgOGq7X" text="Log"/>
-    <string id="9w9JsBYP" text="Leave party"/>
-    <string id="a9TcHtVw" text="Faction B"/>
-    <string id="AaAcmalE" text="You've been invited to join a party by"/>
-    <string id="aalbxe7z" text="Army Size"/>
-    <string id="ab2cbidI" text="Total Score"/>
-    <string id="aB4Md0if" text="Has players"/>
-    <string id="aBCi76ig" text="Show More"/>
-    <string id="abxndmIh" text="Social"/>
-    <string id="ADKHovtz" text="Reset Deployment"/>
-    <string id="ADPaaX8R" text="Best Players of This Battle"/>
-    <string id="aeouhelq" text="Yes"/>
-    <string id="aGGq9lJT" text="Change Culture"/>
-    <string id="Agtv9l7S" text="This Name Already Exists"/>
-    <string id="AGUXiN8u" text="Voivode"/>
-    <string id="ahiBhAqU" text="Armor"/>
-    <string id="aO3avkK9" text="Matchmaking Disabled"/>
+    <string id="4nr9Km6t" text="Втрати"/>
+    <string id="4PrfimcK" text="Значок"/>
+    <string id="4ZE6i9nW" text="Залишити клан"/>
+    <string id="56FyokuX" text="Режим гри - казуальний"/>
+    <string id="5baU17n0" text="Функція створення ігор наразі відключена"/>
+    <string id="5coyTZOI" text="Гра починається!"/>
+    <string id="5gGyaTPL" text="Повторне підключення"/>
+    <string id="5Ixsvn3s" text="Показати/приховати таблицю результатів"/>
+    <string id="5k4dxUEJ" text="Війська"/>
+    <string id="5Pea977J" text="Фракція: "/>
+    <string id="5tbWdY1j" text="Аватар"/>
+    <string id="5Xoilj6r" text="Кричати"/>
+    <string id="5Z0pvuNL" text="Рівень {LEVEL}"/>
+    <string id="5zNfxZ7B" text="Принц війни"/>
+    <string id="61isYVW0" text="Гравець {USER_NAME} не знайдений"/>
+    <string id="65oGXBYQ" text="Створити"/>
+    <string id="67hsZZor" text="Ви точно хочете піти зі свого клану?"/>
+    <string id="6GSXsdeX" text="Швидкість"/>
+    <string id="6MQaCah5" text="Приєднатися до гри"/>
+    <string id="6mZymVS8" text="Ви досягли фінального рангу"/>
+    <string id="6syoutpV" text="Від гравця {WHISPER_TARGET}"/>
+    <string id="6zYeU0VO" text="Відключено від матчу"/>
+    <string id="74PKmRWJ" text="Перевернути зачіску"/>
+    <string id="76HlhP7r" text="Ви повинні передати лідерство іншому учаснику, щоб піти"/>
+    <string id="76VR5o8h" text="Перш ніж надіслати інше повідомлення, зачекайте {SECONDS} секунд."/>
+    <string id="77jmd4QF" text="Вимкнути звук назавжди"/>
+    <string id="7APa598U" text="Вбито за допомогою облогової машини"/>
+    <string id="7gQkFJqA" text="Балів до наступного рангу: {RATING}"/>
+    <string id="7jhe9cT9" text="Щоб змінити тип цієї формації, потрібно мати ще принаймні одну формацію цього типу."/>
+    <string id="7jMnNlXG" text="Змінити вподобання арени"/>
+    <string id="7qySRF2T" text="Пінг"/>
+    <string id="7R0i82Nw" text="Змінити герб"/>
+    <string id="7uILxbP5" text="Ви отримаєте цей предмет"/>
+    <string id="7vbGaapv" text="Ваша здобич: {LOOT}"/>
+    <string id="7XtICVeZ" text="Поле зору"/>
+    <string id="82LuSDnd" text="Швидке переміщення курсору ліворуч"/>
+    <string id="8byRf9zO" text="Генерал"/>
+    <string id="8eZFlPVu" text="Смерті"/>
+    <string id="8nJFaJio" text="Пароль"/>
+    <string id="8OkPHu4f" text="Ні"/>
+    <string id="942B3LfA" text="Відхилити запит на дружбу"/>
+    <string id="9ET13VOe" text="Середній рахунок"/>
+    <string id="9FSk2daF" text="Капітанів убито"/>
+    <string id="9hJtoWot" text="Золото II"/>
+    <string id="9M4G8DDd" text="Ваша команда була знищена"/>
+    <string id="9P0VL49j" text="Ви не маєте доступу до багатокористувацької гри."/>
+    <string id="9pgOGq7X" text="Журнал"/>
+    <string id="9w9JsBYP" text="Покинути групу"/>
+    <string id="a9TcHtVw" text="Фракція B"/>
+    <string id="AaAcmalE" text="Вас запросили приєднатися до команди"/>
+    <string id="aalbxe7z" text="Розмір армії"/>
+    <string id="ab2cbidI" text="Загальний рахунок"/>
+    <string id="aB4Md0if" text="Є гравці"/>
+    <string id="aBCi76ig" text="Показати більше"/>
+    <string id="abxndmIh" text="Спілкування"/>
+    <string id="ADKHovtz" text="Скинути розгортання"/>
+    <string id="ADPaaX8R" text="Найкращі гравці цієї битви"/>
+    <string id="aeouhelq" text="Так"/>
+    <string id="aGGq9lJT" text="Змінити національність"/>
+    <string id="Agtv9l7S" text="Ця назва вже існує"/>
+    <string id="AGUXiN8u" text="Воєвода"/>
+    <string id="ahiBhAqU" text="Броня"/>
+    <string id="aO3avkK9" text="Створення матчів вимкнено"/>
     <string id="ApD0xQXT" text="{STR1}: {STR2}"/>
-    <string id="aRzlp5XH" text="CREATE"/>
-    <string id="aseraifaction" text="Aserai"/>
-    <string id="atUHbDeM" text="Map Camera Rotate"/>
-    <string id="aVixswW5" text="Team Selection"/>
-    <string id="aVNXGUQI" text="There are currently no players with {MAX_RANK} rank."/>
-    <string id="aWzdkfvn" text="Currently you are not a member of a clan or you don't own a clan. You need to create a party from non-clan member players to form your own clan."/>
-    <string id="aZnS9ECC" text="Invite"/>
-    <string id="AZSbwcG5" text="Mute All"/>
-    <string id="b1DHZsaH" text="Cannot issue order right now."/>
-    <string id="B1KQ4i9q" text="Badge is not earned yet. Please check conditions."/>
-    <string id="b2aqL7T2" text="Lost"/>
-    <string id="b31ITmm0" text="Stack Amnt."/>
-    <string id="B5bcj3pC" text="Owned"/>
-    <string id="Ba50zU7Z" text="Change"/>
-    <string id="BAaS5Dkc" text="Apply"/>
-    <string id="BANC61K5" text="Previous Character"/>
-    <string id="BBmEESTT" text="This server allows optional modules."/>
-    <string id="bD8nTS86" text="Rarity"/>
-    <string id="bExIl1A2" text="Name Length Is Invalid"/>
-    <string id="bfQLwMUp" text="Clans"/>
-    <string id="bhQiSzOU" text="Profile is not available"/>
+    <string id="aRzlp5XH" text="СТВОРИТИ"/>
+    <string id="aseraifaction" text="{.MI}Султанат{.nn} асераїв"/>
+    <string id="atUHbDeM" text="Обертання камери на карті"/>
+    <string id="aVixswW5" text="Вибір команди"/>
+    <string id="aVNXGUQI" text="Наразі немає гравців з рангом {MAX_RANK}."/>
+    <string id="aWzdkfvn" text="Наразі ви не перебуваєте в клані чи не володієте кланом. Вам потрібно створити команду з гравців, які не є членами жодного клану, щоб сформувати свій власний клан."/>
+    <string id="aZnS9ECC" text="Запросити"/>
+    <string id="AZSbwcG5" text="Вимкнути всі звуки"/>
+    <string id="b1DHZsaH" text="Зараз не можливо віддати наказ."/>
+    <string id="B1KQ4i9q" text="Значок ще не отримано. Будь ласка, перевірте умови."/>
+    <string id="b2aqL7T2" text="Програш"/>
+    <string id="b31ITmm0" text="Кількість в стеку."/>
+    <string id="B5bcj3pC" text="У власності"/>
+    <string id="Ba50zU7Z" text="Змінити"/>
+    <string id="BAaS5Dkc" text="Застосувати"/>
+    <string id="BANC61K5" text="Попередній персонаж"/>
+    <string id="BBmEESTT" text="Цей сервер дозволяє використовувати необов'язкові модулі."/>
+    <string id="bD8nTS86" text="Рідкість"/>
+    <string id="bExIl1A2" text="Неприпустима довжина імені"/>
+    <string id="bfQLwMUp" text="Клани"/>
+    <string id="bhQiSzOU" text="Профіль недоступний"/>
     <string id="bIcFZT6L" text="Eyebrow Type"/>
     <string id="bjJkW9dO" text="View Profile"/>
     <string id="bLPSaLNv" text="Fast Cursor Move Right"/>
