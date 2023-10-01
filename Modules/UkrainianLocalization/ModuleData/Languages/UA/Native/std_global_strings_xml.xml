@@ -9,20 +9,20 @@
     <string id="08oulGov" text="Drop your equipped weapon."/>
     <string id="0BwwHF1s" text="Move map camera to left in campaign map."/>
     <string id="0EDGnl1C" text="Ranged Only"/>
-    <string id="0fLpwDzk" text="Sets the window mode.{newline}Windowed: Runs the game on a window.{newline}Fullscreen: Runs the game in full screen.{newline}Borderless Fullscreen: Runs the game on a borderless maximized window."/>
+    <string id="0fLpwDzk" text="Задає режим виводу.{newline}Віконний: гра запускається у вікні.{newline}Повноекранний: гра запускається на весь екран.{newline}Віконний без рамок: гра запускається у розгорнутому вікні без рамок."/>
     <string id="0ftxDUQU" text="Map Toggle Fast Forward"/>
     <string id="0HNrwVGG" text="By Movement"/>
     <string id="0MvDMsEl" text="Occlusion Method"/>
     <string id="0ot0eBzv" text="Turn Camera With Horse In First Person"/>
     <string id="0YV6wbsq" text="Pause time in campaign map."/>
-    <string id="16EUzfcH" text="Adjust the exposure level according to your preference using the slider."/>
+    <string id="16EUzfcH" text="Налаштуйте рівень експозиції відповідно до ваших уподобань за допомогою повзунка."/>
     <string id="1awQTVqN" text="Number Of Ragdolls"/>
     <string id="1CLLOxAt" text="Show generic names for players. This will replace all of the players' names with generic names."/>
     <string id="1dQFNvhQ" text="Numpad +"/>
     <string id="1ebaa1Wf" text="Toggle Walk/Run Mode"/>
     <string id="1JlzQIXE" text="Disabled"/>
-    <string id="1uCaibsd" text="Full"/>
-    <string id="1WsmBXkN" text="Frame Limiter"/>
+    <string id="1uCaibsd" text="Повна"/>
+    <string id="1WsmBXkN" text="Обмеження кадрів"/>
     <string id="22o7UHXL" text="Select Group 1."/>
     <string id="23Tcbb4W" text="Strafe Right"/>
     <string id="25KihbcP" text="Sets the number of reinforcement waves that will be spawned in a combat mission. A higher value generally means longer mission duration. On settings lower than unlimited, sieges might be resolved without all troops participating in the fight."/>
@@ -37,13 +37,13 @@
     <string id="2p3Llq2x" text="Enable Network Alert Icons"/>
     <string id="2xO6VDCj" text="This option is disabled because dynamic resolution is disabled."/>
     <string id="2ZJQylWo" text="Switch between run and walk modes."/>
-    <string id="3awgWrma" text="Benchmark"/>
+    <string id="3awgWrma" text="Тест продуктивності"/>
     <string id="3CN7LUCf" text="Toggle Cursor Visibility."/>
     <string id="3CsACce8" text="Exit"/>
     <string id="3Dngsvya" text="Move Forward"/>
     <string id="3Gb7tKgJ" text="{LEFT} and {RIGHT}"/>
     <string id="3nTeojbI" text="="/>
-    <string id="3oUbmqJY" text="Synchronizes the game to the monitor's refresh rate. Eliminates tearing artifacts."/>
+    <string id="3oUbmqJY" text="Синхронізує гру з частотою оновлення монітору. Усуває розриви зображення на екрані."/>
     <string id="3P7eDKEY" text="Equip Item 4"/>
     <string id="3sRdGQou" text="Leave"/>
     <string id="3sULxlX1" text="Hold to send your voice."/>
@@ -59,7 +59,7 @@
     <string id="4NaOKslb" text="-"/>
     <string id="4Nw1hF2R" text="Kick your enemies to break their guard when not attacking or defending. Bash your enemies with your equipment while defending."/>
     <string id="4Q9pzbqM" text="Enable the controller vibration effect."/>
-    <string id="4R4shVxp" text="Sharpen Amount"/>
+    <string id="4R4shVxp" text="Різкість"/>
     <string id="4x1wGwW9" text="Select Order 7"/>
     <string id="54c9cZO4" text="Toggle Characters."/>
     <string id="5B3ptxje" text="Character Developer"/>
@@ -68,12 +68,12 @@
     <string id="5jxcNYlU" text="Numpad 6"/>
     <string id="5QfcrJ5r" text="Night Mode"/>
     <string id="5QpTaCa0" text="W"/>
-    <string id="5siWUJPw" text="Fullscreen"/>
+    <string id="5siWUJPw" text="Повноекранний"/>
     <string id="5TYDm7Vv" text="Camera Follow Mode"/>
     <string id="5Unqsx3N" text="Confirm"/>
     <string id="5WDQLWCk" text="Campaign AI"/>
     <string id="5Xoilj6r" text="Shout"/>
-    <string id="6AnHiJGR" text="Selected Monitor"/>
+    <string id="6AnHiJGR" text="Вибраний монітор"/>
     <string id="6CeL6iOp" text="Select Group 1"/>
     <string id="6d56kv7p" text="Vertical Movement Scale for Direction Gestures"/>
     <string id="6g0y182U" text="Environment Detail"/>
@@ -113,7 +113,7 @@
     <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon."/>
     <string id="9F323ez4" text="Trilinear"/>
     <string id="9gAVbJAR" text="Resume Time"/>
-    <string id="9HdllyAZ" text="Start the Bannerlord Benchmark."/>
+    <string id="9HdllyAZ" text="Запустити тест продуктивності, щоб оцінити швидкодію гри при поточних налаштуваннях."/>
     <string id="9hRcH7kV" text="Sun Shafts"/>
     <string id="9N0zXegH" text="Enable chat log."/>
     <string id="9OHGqgjH" text="Zoom in to aim at enemies or to look further."/>
@@ -125,7 +125,7 @@
     <string id="9zns14aF" text="Choose how to perform blocks. Auto will default to &quot;By Look Direction&quot; in Multiplayer."/>
     <string id="A0bqGRQc" text="F"/>
     <string id="a5l0tTLE" text="Enable Event Log"/>
-    <string id="a8MvWaSN" text="Force VSync in Menus (i.e. Lobby, Inventory, Party, Character, Quest etc.)"/>
+    <string id="a8MvWaSN" text="Примусово включати V-Sync також і в інтерфейсі (наприклад, на екранах лобі, інвентарю, загону, персонажа, завдань тощо)"/>
     <string id="Aa2Yokz3" text="Numpad *"/>
     <string id="aAaF9FWC" text="Right Control"/>
     <string id="aAAl11qM" text="Switch between locking and unlocking the view to the enemy currently focused at. Press longer to see the detailed display."/>
@@ -136,14 +136,14 @@
     <string id="aGb5H9Ni" text="Muffles the sound sources behind obstacles. Forced ON in Multiplayer."/>
     <string id="AhrWBKx9" text="Equip Item 1"/>
     <string id="aIwUX5EF" text="Press {CONSOLE_KEY_NAME} to continue"/>
-    <string id="AJFpx99v" text="Exposure Adjustment"/>
+    <string id="AJFpx99v" text="Налаштування експозиції"/>
     <string id="ajKnHI1s" text="Take Picture"/>
     <string id="aJxmDbur" text="Hold to leave an area. "/>
     <string id="altgamekey" text="Alt"/>
     <string id="aMCChr97" text="Move map camera downward in campaign map."/>
     <string id="amdYLZ6o" text="Quests Window"/>
     <string id="an5aw1wc" text="Some of the options you changed won't take effect until you leave and open a new mission."/>
-    <string id="aombIn07" text="Set the exposure amount."/>
+    <string id="aombIn07" text="Задати значення експозиції."/>
     <string id="ap1wEfdW" text="V"/>
     <string id="AP9bKYTb" text="Toggle Cursor"/>
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
@@ -181,7 +181,7 @@
     <string id="bGZeJJAH" text="Roll the Camera Left (Counterclockwise)."/>
     <string id="bih4MD9a" text="Pause Menu"/>
     <string id="BKeTUf9V" text="Move Camera"/>
-    <string id="Bl8cKwhL" text="Display Calibration"/>
+    <string id="Bl8cKwhL" text="Калібрування дисплею"/>
     <string id="bmpagYCb" text="Equip your shield or change to the next one."/>
     <string id="BPiWCOco" text="Select Order 7."/>
     <string id="bqb2K5b1" text="Move Right"/>
@@ -234,7 +234,7 @@
     <string id="DiK2cKUi" text="Sound Device"/>
     <string id="dkLG4JC4" text="Enter"/>
     <string id="dkYmFAk2" text="Track Attacked Settlements"/>
-    <string id="DqFxOjTp" text="Screen Resolution"/>
+    <string id="DqFxOjTp" text="Роздільна здатність"/>
     <string id="drbgOAqx" text="Enable reports for experience gain."/>
     <string id="drG1OL8d" text="Mouse Scroll Up"/>
     <string id="DTSHoHbu" text="Inventory Window"/>
@@ -264,7 +264,7 @@
     <string id="ffHX9L80" text="Numpad 0"/>
     <string id="FHBoO2sp" text="6"/>
     <string id="fJnqJx8m" text="Character Window"/>
-    <string id="fldPHfP6" text="Sets the refresh rate of the game."/>
+    <string id="fldPHfP6" text="Задає частоту оновлення гри."/>
     <string id="FLLnblfP" text="Report Casualties"/>
     <string id="fM9E7frB" text="Performance"/>
     <string id="fMSYE6Ii" text="Default"/>
@@ -272,7 +272,7 @@
     <string id="FqvJUBRn" text="Very Low"/>
     <string id="fsI2wuHa" text="Group 2 Hear"/>
     <string id="G17kWzwi" text="Very High (600)"/>
-    <string id="G2e8xucc" text="If the checkered patterns are not visible inside the frames, try moving the sliders.{newline}Adjust the sliders to the point where patterns are barely visible."/>
+    <string id="G2e8xucc" text="Якщо ви не бачите картаті візерунки, спробуйте пересунути повзунки. {newline}Налаштуйте контрастність за допомогою повзунків так, щоб візерунки були ледь помітні."/>
     <string id="g4Iq82iw" text="Open team chat."/>
     <string id="g4VjAbMG" text="J"/>
     <string id="G8ug5Bwx" text="Chat"/>
@@ -281,7 +281,7 @@
     <string id="gCDjIGB6" text="Show Blood"/>
     <string id="Gd2iUUHa" text="Sets the quality of particles. A higher value means more detailed particles."/>
     <string id="gIsqhwTs" text="First Person Field of View"/>
-    <string id="Gl2S6WEW" text="Sets the monitor that the game window will be displayed."/>
+    <string id="Gl2S6WEW" text="Задає монітор, на який буде виводитися зображення гри."/>
     <string id="Gl7wgtPQ" text="Move Party Up"/>
     <string id="goodCampaignAI" text="Good"/>
     <string id="goodCombatAI" text="Good"/>
@@ -303,10 +303,10 @@
     <string id="HH7LDwlK" text="Toggle Fast Forward"/>
     <string id="hHxSj7tY" text="SelectOrder3"/>
     <string id="Hiv0420V" text="Select Group 6."/>
-    <string id="Hj1bsSbW" text="Force VSync in Menus"/>
+    <string id="Hj1bsSbW" text="V-Sync в інтерфейсі"/>
     <string id="hjsLo4ri" text="View orders."/>
     <string id="hkiuDcb6" text="Select Group 5."/>
-    <string id="HmgPBPeq" text="Desktop Resolution"/>
+    <string id="HmgPBPeq" text="Як у робочого столу"/>
     <string id="HNTCnUYY" text="Party Window"/>
     <string id="homekey" text="Home"/>
     <string id="Hs1CYfbc" text="Equip Next Weapon"/>
@@ -342,7 +342,7 @@
     <string id="iljRgsvP" text="Order Layout Type"/>
     <string id="invalidkey" text="-"/>
     <string id="IOZ4aWVp" text="Select Group 8"/>
-    <string id="iPx4jep6" text="Exposure"/>
+    <string id="iPx4jep6" text="Експозиція"/>
     <string id="Irhxad7u" text="Water Quality"/>
     <string id="iUFgqwkA" text="Medium (256)"/>
     <string id="iuQk8map" text="Voice-over Volume"/>
@@ -374,7 +374,7 @@
     <string id="Js1lhJkk" text="Language"/>
     <string id="js6LONvV" text="Move Backward"/>
     <string id="Ju6btXsv" text="Control Attack Direction"/>
-    <string id="jvOYgHOe" text="Custom"/>
+    <string id="jvOYgHOe" text="Користувацька"/>
     <string id="JXdwIX8Q" text="Set thickness for trails of weapons."/>
     <string id="jy9orOJz" text="Play"/>
     <string id="JZFXI1LK" text="UI Scale"/>
@@ -389,12 +389,12 @@
     <string id="kCXjabff" text="Shows chat log. Starts typing to Team Chat in Multiplayer."/>
     <string id="ke34iiXU" text="Slow Down While Giving Orders"/>
     <string id="kG4051e5" text="SelectOrder7"/>
-    <string id="KGaaYZi1" text="Refresh Rate"/>
+    <string id="KGaaYZi1" text="Частота оновлення"/>
     <string id="Kh8qRccB" text="Reset changes."/>
     <string id="KHbdmIfF" text="Static Only"/>
     <string id="khHVSEiK" text="Move map camera upward in campaign map."/>
     <string id="KiY5M2uk" text="Save data successfully created."/>
-    <string id="KjZas5Xs" text="Sets the display adapter that the game will run on."/>
+    <string id="KjZas5Xs" text="Задає відеокарту, на якій буде працювати гра."/>
     <string id="kKg8oyGu" text="F19"/>
     <string id="KKNmozPI" text="Left Arrow"/>
     <string id="Kksv0KyL" text="Select Group 7."/>
@@ -402,12 +402,12 @@
     <string id="kNpWwJcc" text="High (500)"/>
     <string id="KO5zuUvN" text="Action"/>
     <string id="KONClayU" text="\"/>
-    <string id="koX9okuG" text="None"/>
+    <string id="koX9okuG" text="Виключено"/>
     <string id="KShlkb9M" text="Rotate map camera to left."/>
-    <string id="KtYtBnvP" text="Sets the frame limiter."/>
+    <string id="KtYtBnvP" text="Задає обмеження кількості кадрів."/>
     <string id="KUEHAD4U" text="Quests"/>
     <string id="KUGomrhD" text="Don't Show Again"/>
-    <string id="KwNTg7BT" text="Display Mode"/>
+    <string id="KwNTg7BT" text="Режим виводу"/>
     <string id="l4ex8t6l" text="5 waves"/>
     <string id="l5aKnGy3" text="Initiate Chat"/>
     <string id="l7Rfaa8f" text="Select Group 8."/>
@@ -440,7 +440,7 @@
     <string id="Mf5qVgAv" text="Equip Item 3"/>
     <string id="MFbBFDqx" text="Map Fast Move"/>
     <string id="MfsNAPh6" text="Enables the subsurface scattering."/>
-    <string id="MfunBOxF" text="Calibrate contrast levels."/>
+    <string id="MfunBOxF" text="Налаштувати рівень контрастності."/>
     <string id="mG4rCrfE" text="0"/>
     <string id="Mja6xKiX" text="Order Visuals Type"/>
     <string id="MkKL3Y4P" text="Numpad 7"/>
@@ -468,7 +468,7 @@
     <string id="o2wElwi5" text="Homogeneous"/>
     <string id="o8WjGqS4" text="Z"/>
     <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box."/>
-    <string id="ocNVbyPJ" text="Borderless Fullscreen"/>
+    <string id="ocNVbyPJ" text="Віконний без рамок"/>
     <string id="oCtaP2tZ" text="This option is disabled because DLSS is enabled."/>
     <string id="odsVjkbO" text="Open Inventory."/>
     <string id="oEdTBobd" text="Anisotropic 2X"/>
@@ -576,7 +576,7 @@
     <string id="rKvjSSri" text="F14"/>
     <string id="rNiESgEo" text="]"/>
     <string id="ro0NhUnJ" text="Set field of view for first person camera."/>
-    <string id="roJLc9oH" text="Half"/>
+    <string id="roJLc9oH" text="Часткова"/>
     <string id="rP058aIm" text="Equip the item in your first slot."/>
     <string id="rs0wImmD" text="Cannot create save data."/>
     <string id="rS6nO0wb" text="Toggle Vignette"/>
@@ -589,9 +589,9 @@
     <string id="s4r1xdg0" text="Group 6 Hear"/>
     <string id="s533kEjf" text="Music Volume"/>
     <string id="s5EnYLUp" text="Cheer on click. Open Cheer wheel on hold."/>
-    <string id="s7yWjpeB" text="Selected Adapter"/>
+    <string id="s7yWjpeB" text="Вибрана відеокарта"/>
     <string id="sAa2SIgO" text="You can switch between different mix modes better suited to your speaker configuration."/>
-    <string id="sAoWNAwZ" text="Windowed"/>
+    <string id="sAoWNAwZ" text="Віконний"/>
     <string id="sbUBtOTb" text="Report Damage"/>
     <string id="sCjtEbTF" text="These modules have been removed from the game:"/>
     <string id="SEucYSln" text="Numpad 2"/>
@@ -640,7 +640,7 @@
     <string id="U5xKAHGi" text="Bloom"/>
     <string id="u6QCWQvu" text="Four Part"/>
     <string id="u7FkCtRN" text="Group 0 Hear"/>
-    <string id="U8NaF1bo" text="Calibrate"/>
+    <string id="U8NaF1bo" text="Відкалібрувати"/>
     <string id="Uaae1eBV" text="Right Double Press: Sudden Right"/>
     <string id="UboDNGJw" text="Select Group 7"/>
     <string id="uBRn8Je8" text="3"/>
@@ -656,7 +656,7 @@
     <string id="UoxjMhfJ" text="SelectOrder1"/>
     <string id="UqB9zKfE" text="Equip Primary Weapon"/>
     <string id="uQfDuGem" text="Character Zoom Out"/>
-    <string id="urbLiiQJ" text="Configure Exposure"/>
+    <string id="urbLiiQJ" text="Налаштувати експозицію"/>
     <string id="uRXlSUVh" text="N"/>
     <string id="uSGPBRFS" text="Zoom"/>
     <string id="UTU6yVsp" text="Resume time in campaign map."/>
@@ -730,7 +730,7 @@
     <string id="xboxRightStickUp" text="Right Stick Up"/>
     <string id="xboxRightTrigger" text="right trigger"/>
     <string id="xboxStartButton" text="Menu Button"/>
-    <string id="XCB1SGxZ" text="Start Benchmark"/>
+    <string id="XCB1SGxZ" text="Запустити тест продуктивності"/>
     <string id="xEquRfRF" text="10"/>
     <string id="xikMYwty" text="DLSS Ultra Performance"/>
     <string id="xJpOH8DU" text="Open Encyclopedia"/>
@@ -753,7 +753,7 @@
     <string id="yfMN8wWN" text="Anisotropic 4X"/>
     <string id="Yg2jHH1M" text="Numpad /"/>
     <string id="YirOUaIV" text="Decrease Camera Focus."/>
-    <string id="yLCSTuBw" text="Sets the resolution of the game. Higher resolution requires a more powerful display adapter."/>
+    <string id="yLCSTuBw" text="Задає роздільну здатність гри. Вища роздільна здатність вимагає потужнішої відеокарти."/>
     <string id="Yn8bh0qT" text="Equip Next Shield"/>
     <string id="yruQv3th" text="3 waves"/>
     <string id="YT6ljA5V" text="Map Move Forward"/>
