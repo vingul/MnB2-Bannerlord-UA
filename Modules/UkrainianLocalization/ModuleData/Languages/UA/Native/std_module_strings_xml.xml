@@ -92,7 +92,7 @@
     <string id="33ghdWWi" text="Other Policies"/>
     <string id="33hHRM8r" text="Opponent's Turn"/>
     <string id="36hbMBhb" text="On {DAY_OF_YEAR}, {YEAR}, the {FORMAL_NAME} was destroyed. It will not fulfil its destiny to {?PLAYER_WANTS_RESTORE}restore{?}destroy{\?} the Empire as you had hoped."/>
-    <string id="3CpNUnVl" text="Cancel"/>
+    <string id="3CpNUnVl" text="Скасувати"/>
     <string id="3CsACce8" text="Exit"/>
     <string id="3cTKRX1M" text="Never seen before"/>
     <string id="3Ds5ARHL" text="Merchant"/>
@@ -1735,7 +1735,7 @@
     <string id="wifefatherinlaw" text="father-in-law"/>
     <string id="wifemotherinlaw" text="mother-in-law"/>
     <string id="wifesisterinlaw" text="sister-in-law"/>
-    <string id="WiNRdfsm" text="Done"/>
+    <string id="WiNRdfsm" text="Готово"/>
     <string id="wjb4tZDX" text="Level: {LEVEL}"/>
     <string id="wjuieMsE" text="Your opponent gained 1 point for the hit!"/>
     <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the siege tower."/>
