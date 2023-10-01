@@ -89,7 +89,7 @@
     <string id="7fnNx8uP" text="Rotate map camera to right."/>
     <string id="7hytmlkz" text="Enable Generic Avatars"/>
     <string id="7MU008BT" text="F11"/>
-    <string id="7phVPcDc" text="Sets the quality of shaders. A higher value means better graphical effects."/>
+    <string id="7phVPcDc" text="Задає якість шейдерів. Вище значення означає кращі графічні ефекти."/>
     <string id="7QKjVON8" text="Jump"/>
     <string id="7S1aCWFa" text="Jump while on foot or mounted."/>
     <string id="7SSytk7Z" text="U"/>
@@ -130,7 +130,7 @@
     <string id="aAaF9FWC" text="Right Control"/>
     <string id="aAAl11qM" text="Switch between locking and unlocking the view to the enemy currently focused at. Press longer to see the detailed display."/>
     <string id="aAXqgbDv" text="Cannot create config data. Config limit reached."/>
-    <string id="accbLVWL" text="Sets the anti-aliasing technique. "/>
+    <string id="accbLVWL" text="Задає техніку згладжування."/>
     <string id="acqAYxhr" text=","/>
     <string id="AD4phxAT" text="Auto (Only in SP)"/>
     <string id="aGb5H9Ni" text="Muffles the sound sources behind obstacles. Forced ON in Multiplayer."/>
@@ -374,7 +374,7 @@
     <string id="Js1lhJkk" text="Language"/>
     <string id="js6LONvV" text="Move Backward"/>
     <string id="Ju6btXsv" text="Control Attack Direction"/>
-    <string id="jvOYgHOe" text="Користувацька"/>
+    <string id="jvOYgHOe" text="Користув."/>
     <string id="JXdwIX8Q" text="Set thickness for trails of weapons."/>
     <string id="jy9orOJz" text="Play"/>
     <string id="JZFXI1LK" text="UI Scale"/>
@@ -488,7 +488,7 @@
     <string id="owS8kqZs" text="Determine unit spawn prioritization.{newline}Default: Units spawn according to their position in the party roster.{newline}High Level: High level units will spawn first.{newline}Low Level: Low level units will spawn first.{newline}Homogeneous: Spawn units homogeneously based on their troop types rather than their levels. This option will try to fill the ranks with each type of unit at the same ratio and ignore their tiers while doing it.{newline}The settings above apply only to the player's starting composition. The AI is not affected."/>
     <string id="OYaqdNAI" text="Select Order 2"/>
     <string id="P4rblFQN" text="Map Zoom Out"/>
-    <string id="P5x1HU1u" text="Anti-aliasing"/>
+    <string id="P5x1HU1u" text="Згладжування"/>
     <string id="P7E3rS3m" text="Music volume level."/>
     <string id="pa8A2VG3" text="Enable the red border around the screen when the player takes damage."/>
     <string id="PACe9VHN" text="&lt;"/>
@@ -661,7 +661,7 @@
     <string id="uSGPBRFS" text="Zoom"/>
     <string id="UTU6yVsp" text="Resume time in campaign map."/>
     <string id="uUHUfeQr" text="Select Group 6"/>
-    <string id="UwJIMaRi" text="Shader Quality"/>
+    <string id="UwJIMaRi" text="Якість шейдерів"/>
     <string id="UwuYCgIU" text="Caution"/>
     <string id="v2me5eP1" text="Toggle Vignette."/>
     <string id="V5ltCcw0" text="High (125)"/>
