@@ -12,11 +12,11 @@
     <string id="0fLpwDzk" text="Задає режим виводу.{newline}Віконний: гра запускається у вікні.{newline}Повноекранний: гра запускається на весь екран.{newline}Віконний без рамок: гра запускається у розгорнутому вікні без рамок."/>
     <string id="0ftxDUQU" text="Map Toggle Fast Forward"/>
     <string id="0HNrwVGG" text="By Movement"/>
-    <string id="0MvDMsEl" text="Occlusion Method"/>
+    <string id="0MvDMsEl" text="Метод затінення"/>
     <string id="0ot0eBzv" text="Turn Camera With Horse In First Person"/>
     <string id="0YV6wbsq" text="Pause time in campaign map."/>
     <string id="16EUzfcH" text="Налаштуйте рівень експозиції відповідно до ваших уподобань за допомогою повзунка."/>
-    <string id="1awQTVqN" text="Number Of Ragdolls"/>
+    <string id="1awQTVqN" text="Кількість ragdoll-ів"/>
     <string id="1CLLOxAt" text="Show generic names for players. This will replace all of the players' names with generic names."/>
     <string id="1dQFNvhQ" text="Numpad +"/>
     <string id="1ebaa1Wf" text="Toggle Walk/Run Mode"/>
@@ -76,7 +76,7 @@
     <string id="6AnHiJGR" text="Вибраний монітор"/>
     <string id="6CeL6iOp" text="Select Group 1"/>
     <string id="6d56kv7p" text="Vertical Movement Scale for Direction Gestures"/>
-    <string id="6g0y182U" text="Environment Detail"/>
+    <string id="6g0y182U" text="Деталізація оточення"/>
     <string id="6HJxnF3G" text="Save Failed!"/>
     <string id="6ibNX7Rr" text="Graphics Mode"/>
     <string id="6Jcchu9g" text="Enable cursor while scoreboard is open."/>
@@ -95,26 +95,26 @@
     <string id="7SSytk7Z" text="U"/>
     <string id="7tYiV9Vw" text="Anisotropic 8X"/>
     <string id="7vl1ebVZ" text="Left Control"/>
-    <string id="7X6fZ5kQ" text="Enables the screen space reflections."/>
+    <string id="7X6fZ5kQ" text="Вмикає відбиття в екранному просторі. Техніка дозволяє отримати реалістичне відображення дзеркальних матеріалів."/>
     <string id="7XmaJYuh" text="Move your party to right in campaign map."/>
     <string id="7ZmtmleI" text="Sets the resolution scale. Lower values can increase performance. {newline}{newline}Uses AMD's &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Does not affect UI Quality"/>
     <string id="8AiDqTFB" text="Map Move Backward"/>
-    <string id="8b45xcyL" text="Sets the quality of trees and grass."/>
+    <string id="8b45xcyL" text="Задає якість дерев та трави."/>
     <string id="8BdF6a4j" text="{LEFT} - {RIGHT}"/>
     <string id="8FbEybTx" text="Enable network alert icons.{newline}1. Latency{newline}2. Packet Loss{newline}3. Poor Server Performance"/>
     <string id="8fYfD6Uw" text="Select Order 8."/>
     <string id="8hArJQWf" text="Show Targeting Reticle"/>
     <string id="8iwie5KL" text="SelectOrder5"/>
-    <string id="8kO2jDVf" text="Affects the quality of textures."/>
+    <string id="8kO2jDVf" text="Впливає на якість текстур."/>
     <string id="8t4KDZfU" text="E"/>
     <string id="8WrQ9fnb" text="C"/>
     <string id="929oYf3G" text="Zoom Out"/>
-    <string id="92ZztgDd" text="Decal Quality"/>
+    <string id="92ZztgDd" text="Якість декалів"/>
     <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon."/>
     <string id="9F323ez4" text="Trilinear"/>
     <string id="9gAVbJAR" text="Resume Time"/>
     <string id="9HdllyAZ" text="Запустити тест продуктивності, щоб оцінити швидкодію гри при поточних налаштуваннях."/>
-    <string id="9hRcH7kV" text="Sun Shafts"/>
+    <string id="9hRcH7kV" text="Сонячні промені"/>
     <string id="9N0zXegH" text="Enable chat log."/>
     <string id="9OHGqgjH" text="Zoom in to aim at enemies or to look further."/>
     <string id="9pEc15Sb" text="S"/>
@@ -150,7 +150,7 @@
     <string id="asrbFBbn" text="Order Menu"/>
     <string id="asYEb2j7" text="Very High (250)"/>
     <string id="au7tXcD1" text="Stereo"/>
-    <string id="aufrcNmq" text="Particle Detail"/>
+    <string id="aufrcNmq" text="Деталізація частинок"/>
     <string id="AuwOJ4Oz" text="Mission Restart Required"/>
     <string id="aVcBbuKJ" text="F22"/>
     <string id="avDb6Y66" text="Middle Mouse Button"/>
@@ -162,7 +162,7 @@
     <string id="ayYYRfPP" text="Report Personal Damage"/>
     <string id="Az084VJK" text="Defend"/>
     <string id="b00385oX" text="Map Open Encyclopedia"/>
-    <string id="b1OtYhnF" text="Texture Filtering"/>
+    <string id="b1OtYhnF" text="Фільтрація текстур"/>
     <string id="b7cHW5DS" text="Shows chat log. Starts typing to All Chat in Multiplayer."/>
     <string id="B8aTbaQo" text="Select Group 4."/>
     <string id="b9rDOY21" text="SelectOrder2"/>
@@ -170,12 +170,12 @@
     <string id="bdJv9dcm" text="Character Zoom In"/>
     <string id="BDSEgN41" text="Задає загальний пресет налаштувань продуктивності."/>
     <string id="BDSLNk4Q" text="Map Rotate Left"/>
-    <string id="bEJsGiBK" text="Foliage Quality"/>
+    <string id="bEJsGiBK" text="Якість рослинності"/>
     <string id="BfebVHWv" text="Show Scoreboard"/>
     <string id="bfis1Rqj" text="Enable death location indicators that show where your teammates die."/>
     <string id="bfxMfZrk" text="Allow the render resolution to be scaled down to maintain the targeted frame rate.{newline}{newline}Uses AMD's &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Does not affect UI Quality"/>
     <string id="bGbIRSmD" text="."/>
-    <string id="BgjaAUNf" text="Sets the quality of water. A higher value means more detailed water simulation."/>
+    <string id="BgjaAUNf" text="Задає якість води. Вище значення означає більш детальну симуляцію води."/>
     <string id="BGKHITSN" text="Stop the game when the focus is lost to the game window."/>
     <string id="bgwA4Pd8" text="2"/>
     <string id="bGZeJJAH" text="Roll the Camera Left (Counterclockwise)."/>
@@ -185,7 +185,7 @@
     <string id="bmpagYCb" text="Equip your shield or change to the next one."/>
     <string id="BPiWCOco" text="Select Order 7."/>
     <string id="bqb2K5b1" text="Move Right"/>
-    <string id="bqUsNucg" text="Sets the render quality of particles. A higher value means sharper particles."/>
+    <string id="bqUsNucg" text="Задає якість візуалізації частинок. Чим вище значення, тим чіткіші частинки."/>
     <string id="BSdIYN9F" text="P"/>
     <string id="bT77aWti" text="Switch Weapon Usage"/>
     <string id="bubp5ys1" text="Take Picture."/>
@@ -199,7 +199,7 @@
     <string id="C7zwur4k" text="Escape"/>
     <string id="cAkgnVr5" text="Num Lock"/>
     <string id="CBwEl28t" text="Enable Death Location Indicator"/>
-    <string id="CbwmI1JY" text="Enables the depth of field."/>
+    <string id="CbwmI1JY" text="Вмикає глибину різкості. Даний ефект впливає на розмиття об'єктів в залежності від їх віддаленості від точки фокусування."/>
     <string id="CfjTvLNl" text="Finalize Chat"/>
     <string id="CLpUemXL" text="Stop Game On Focus Lost"/>
     <string id="CNjxn3eB" text="Speakers"/>
@@ -226,7 +226,7 @@
     <string id="dB6cFDmz" text="/"/>
     <string id="dbkFMtJw" text="Map Zoom In"/>
     <string id="DbpgZxxK" text="Third Person Camera Distance"/>
-    <string id="dC1MBjrO" text="Affects the size of the texture streaming cache. A higher value requires more video memory but provides a smoother experience."/>
+    <string id="dC1MBjrO" text="Впливає на розмір кешу для потоку текстур. Більше значення вимагає більше відеопам'яті, але текстури будуть завантажуватися швидше."/>
     <string id="deletekey" text="Delete"/>
     <string id="Dg0SKmCS" text="Combat Speed DESC"/>
     <string id="dg6yQU6z" text="Send Message To Team"/>
@@ -240,11 +240,11 @@
     <string id="DTSHoHbu" text="Inventory Window"/>
     <string id="dTyINo1B" text="Lock target"/>
     <string id="dV5ar9eP" text="Max (1000)"/>
-    <string id="Dw58UUua" text="Subsurface Scattering"/>
+    <string id="Dw58UUua" text="Підповерхневе розсіювання"/>
     <string id="DxgwxziA" text="Initiate Chat (Secondary)"/>
     <string id="DYcLYL6E" text="Bar"/>
     <string id="dzR8cr1m" text="Sound Preset"/>
-    <string id="E5xbXlLB" text="Enables the sun shafts."/>
+    <string id="E5xbXlLB" text="Вмикає сонячне проміння."/>
     <string id="ea8kNj32" text="Your preferred sound output device."/>
     <string id="EaOcWkH3" text="Open Encyclopedia."/>
     <string id="eDRzvYz5" text="Enable auto tracking settlements when attacked."/>
@@ -279,7 +279,7 @@
     <string id="G9oAjFL7" text="Very Low (200)"/>
     <string id="GaZ6W7MD" text="Select Order 2."/>
     <string id="gCDjIGB6" text="Show Blood"/>
-    <string id="Gd2iUUHa" text="Sets the quality of particles. A higher value means more detailed particles."/>
+    <string id="Gd2iUUHa" text="Задає якість частинок. Більше значення означає більш деталізовані частинки."/>
     <string id="gIsqhwTs" text="First Person Field of View"/>
     <string id="Gl2S6WEW" text="Задає монітор, на який буде виводитися зображення гри."/>
     <string id="Gl7wgtPQ" text="Move Party Up"/>
@@ -292,7 +292,7 @@
     <string id="GzICf27a" text="Rotate"/>
     <string id="gzMIzYTF" text="Game Log Window"/>
     <string id="H1kB8qEb" text="Select Order 6."/>
-    <string id="h6wUbray" text="Number Of Corpses"/>
+    <string id="h6wUbray" text="Кількість трупів"/>
     <string id="haLX0kbG" text="Click to continue"/>
     <string id="haX0xRHa" text="Camera Speed Up"/>
     <string id="HC2sdqca" text="Enable Tutorial Hints"/>
@@ -317,17 +317,17 @@
     <string id="hwzQGpYa" text="Sound Occlusion"/>
     <string id="HxIqxjmk" text="Select Everyone"/>
     <string id="hZEAeoCk" text="Move your party to left in campaign map."/>
-    <string id="I3eooo5c" text="Sets the terrain quality."/>
-    <string id="I3rTzBae" text="Character Detail"/>
+    <string id="I3eooo5c" text="Задає якість ландшафту."/>
+    <string id="I3rTzBae" text="Деталізація персонажів"/>
     <string id="i5xbEcE3" text="Resume or pause time in campaign map."/>
     <string id="I6OJtaMT" text="Never"/>
     <string id="I9PN1qny" text="Numpad Enter"/>
     <string id="IahiWHHW" text="K"/>
     <string id="Iam02fhz" text="Low (300)"/>
-    <string id="IaoVYeZi" text="Enables the tesselation."/>
+    <string id="IaoVYeZi" text="Вмикає теселяцію."/>
     <string id="iazKqdH1" text="Report Shouts"/>
     <string id="iblHebbT" text="F1"/>
-    <string id="IcEPmXxM" text="Sets the ambient occlusion technique."/>
+    <string id="IcEPmXxM" text="Задає метод самозатінення у навколишньому середовищі. Включення даного параметру додає об'єму тіням."/>
     <string id="ICgda8Is" text="Up Double Press: Charge Forward"/>
     <string id="ID9lG6xg" text="View Orders"/>
     <string id="igGLkaf6" text="Equip Item 2"/>
@@ -335,15 +335,15 @@
     <string id="ihAadMd5" text="Open Encyclopedia on the campaign map"/>
     <string id="IjhCSwNn" text="Move camera further from your character in third person view."/>
     <string id="IjLcnwpz" text="Increase Camera Focus."/>
-    <string id="IjRHUbbN" text="Tesselation"/>
+    <string id="IjRHUbbN" text="Теселяція"/>
     <string id="ikbBAZtA" text="Export Buffer Visualizations."/>
-    <string id="IKjxVh2N" text="Motion Blur"/>
+    <string id="IKjxVh2N" text="Розмиття в русі"/>
     <string id="ikoUJQyl" text="Enables the bloom effect."/>
     <string id="iljRgsvP" text="Order Layout Type"/>
     <string id="invalidkey" text="-"/>
     <string id="IOZ4aWVp" text="Select Group 8"/>
     <string id="iPx4jep6" text="Експозиція"/>
-    <string id="Irhxad7u" text="Water Quality"/>
+    <string id="Irhxad7u" text="Якість води"/>
     <string id="iUFgqwkA" text="Medium (256)"/>
     <string id="iuQk8map" text="Voice-over Volume"/>
     <string id="iwO3g6Rz" text="Select how challenging the combat AI will be."/>
@@ -354,12 +354,12 @@
     <string id="IYLn67Xm" text="X"/>
     <string id="Iz2vu6xM" text="Mouse Scroll Down"/>
     <string id="iZAwcZSV" text="Track Settlement"/>
-    <string id="j2g8BSOF" text="Static and Dynamic"/>
+    <string id="j2g8BSOF" text="Статичні та динамічні"/>
     <string id="J2pcA6KR" text="View Character"/>
-    <string id="j3k8PiPo" text="Enables the deformable grass."/>
+    <string id="j3k8PiPo" text="Вмикає деформацію трави."/>
     <string id="j4F7tTzy" text="Clan"/>
     <string id="jaeLYPIG" text="Pause Time"/>
-    <string id="jafcz97A" text="Shadow Quality"/>
+    <string id="jafcz97A" text="Якість тіней"/>
     <string id="JAzv5xYY" text="Enable text reports for damage dealt."/>
     <string id="jbLwdd6z" text="Headphones"/>
     <string id="jd9ZG2CI" text="R"/>
@@ -391,7 +391,7 @@
     <string id="kG4051e5" text="SelectOrder7"/>
     <string id="KGaaYZi1" text="Частота оновлення"/>
     <string id="Kh8qRccB" text="Reset changes."/>
-    <string id="KHbdmIfF" text="Static Only"/>
+    <string id="KHbdmIfF" text="Тільки статичні"/>
     <string id="khHVSEiK" text="Move map camera upward in campaign map."/>
     <string id="KiY5M2uk" text="Save data successfully created."/>
     <string id="KjZas5Xs" text="Задає відеокарту, на якій буде працювати гра."/>
@@ -418,7 +418,7 @@
     <string id="lgOBD6MF" text="Enable marks for direction of attack."/>
     <string id="lgzmPG6K" text="Crouch"/>
     <string id="LjNnWa7R" text="F10"/>
-    <string id="LJZAvH8f" text="Texture Quality"/>
+    <string id="LJZAvH8f" text="Якість текстур"/>
     <string id="ll2iP8yo" text="Using more than your available GPU memory can result in serious performance drops and stability issues. Proceed with caution."/>
     <string id="Lm5Wj9ty" text="Voice Chat Volume"/>
     <string id="Lo0bRwYO" text="Cannot create save data. Save data is corrupted."/>
@@ -430,23 +430,23 @@
     <string id="LTxU2AST" text="Sets the interval of time between autosaves. Value is in minutes."/>
     <string id="Lu1sjJKR" text="Dynamic Resolution Scaling"/>
     <string id="m1PinhQd" text="Open Party Screen."/>
-    <string id="M1ZFZR5I" text="Terrain Quality"/>
+    <string id="M1ZFZR5I" text="Якість ландшафту"/>
     <string id="M3bY9bLu" text="Enable informative messages."/>
     <string id="m4Lketfz" text="Invert Y Axis for camera control."/>
-    <string id="m7B471Hw" text="Sets the lighting quality."/>
+    <string id="m7B471Hw" text="Задає якість освітлення."/>
     <string id="m7IunCRL" text="Open Banner Editor screen."/>
     <string id="mAxXKaXp" text="Reset"/>
     <string id="mBYYRzog" text="Enable Voice Chat"/>
     <string id="Mf5qVgAv" text="Equip Item 3"/>
     <string id="MFbBFDqx" text="Map Fast Move"/>
-    <string id="MfsNAPh6" text="Enables the subsurface scattering."/>
+    <string id="MfsNAPh6" text="Вмикає підповерхневе розсіювання. Впливає на більш реалістичне відображення шкіри людини."/>
     <string id="MfunBOxF" text="Налаштувати рівень контрастності."/>
     <string id="mG4rCrfE" text="0"/>
     <string id="Mja6xKiX" text="Order Visuals Type"/>
     <string id="MkKL3Y4P" text="Numpad 7"/>
     <string id="mkQiThTA" text="Config data successfully created."/>
     <string id="mLtHlKzD" text="Right Alt"/>
-    <string id="MNsKxGzK" text="Texture Streaming Budget"/>
+    <string id="MNsKxGzK" text="Ресурси для потоку текстур"/>
     <string id="mueocuFG" text="Show Indicators"/>
     <string id="mWnA4X5D" text="Select Order 6"/>
     <string id="mWT9b9ZM" text="Medium (75)"/>
@@ -473,7 +473,7 @@
     <string id="odsVjkbO" text="Open Inventory."/>
     <string id="oEdTBobd" text="Anisotropic 2X"/>
     <string id="OeJ53VmM" text="Target framerate to be maintained by the &quot;Dynamic Resolution Scaling&quot; setting.{newline}{newline}It is advised that you set it to the lowest framerate you're comfortable playing with. Setting a value that's too high will cause unnecessary resolution drops."/>
-    <string id="OgXnrvcA" text="Enables the cloth simulation. Uses GPU resources."/>
+    <string id="OgXnrvcA" text="Вмикає симуляцію одягу. Використовує ресурси відеокарти."/>
     <string id="oHaWR73d" text="Ok"/>
     <string id="oI1gktYa" text="Sound effects volume level."/>
     <string id="OiB50fga" text="Map Select"/>
@@ -483,7 +483,7 @@
     <string id="Oo7wQbfG" text="X2 Mouse Button"/>
     <string id="Op68a8dO" text="Menu Shortcuts"/>
     <string id="opGK2hO0" text="Hides battle UI elements while the player is in a mission."/>
-    <string id="otHjiYlN" text="Particle Quality"/>
+    <string id="otHjiYlN" text="Якість частинок"/>
     <string id="OtS4DYD1" text="T"/>
     <string id="owS8kqZs" text="Determine unit spawn prioritization.{newline}Default: Units spawn according to their position in the party roster.{newline}High Level: High level units will spawn first.{newline}Low Level: Low level units will spawn first.{newline}Homogeneous: Spawn units homogeneously based on their troop types rather than their levels. This option will try to fill the ranks with each type of unit at the same ratio and ignore their tiers while doing it.{newline}The settings above apply only to the player's starting composition. The AI is not affected."/>
     <string id="OYaqdNAI" text="Select Order 2"/>
@@ -559,8 +559,8 @@
     <string id="qS0z458V" text="~"/>
     <string id="QsdUafoH" text="Select Order 5"/>
     <string id="qSJZyoro" text="F2"/>
-    <string id="qsrqjK0B" text="Sets the detail level of environment props."/>
-    <string id="qtgBKzY8" text="Sets the number of visible corpses."/>
+    <string id="qsrqjK0B" text="Задає рівень деталізації елементів оточення."/>
+    <string id="qtgBKzY8" text="Задає максимальну кількість трупів видимих на полі бою."/>
     <string id="qvaJYO9c" text="Anisotropic 16X"/>
     <string id="qW1FWX0C" text="Down Arrow"/>
     <string id="r4wEESkT" text="Enable event log in campaign map and missions."/>
@@ -571,7 +571,7 @@
     <string id="rbz1Bwbv" text="Inventory"/>
     <string id="Rh7aDJ3n" text="Banner Window"/>
     <string id="rHeu8Ndg" text="Open Face Generation."/>
-    <string id="Rhl5E2ut" text="Sets the type of shadows."/>
+    <string id="Rhl5E2ut" text="Задає тип тіней."/>
     <string id="RhUd5Y2T" text="Accept Current Running Poll."/>
     <string id="rKvjSSri" text="F14"/>
     <string id="rNiESgEo" text="]"/>
@@ -646,13 +646,13 @@
     <string id="uBRn8Je8" text="3"/>
     <string id="Uc1n5MRj" text="NVIDIA DLSS"/>
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
-    <string id="UFHqkvah" text="Interactive Grass"/>
+    <string id="UFHqkvah" text="Інтерактивна трава"/>
     <string id="uGEcLaqw" text="Roll Camera Right"/>
     <string id="UItoMdHh" text="Cannot create config data. Not enough space."/>
     <string id="UixNc11t" text="Defend attacks with your weapon or shield."/>
     <string id="ukw0Zi1X" text="["/>
     <string id="UNmUcizM" text="Select Order 3"/>
-    <string id="Uojm77jP" text="Lighting Quality"/>
+    <string id="Uojm77jP" text="Якість освітлення"/>
     <string id="UoxjMhfJ" text="SelectOrder1"/>
     <string id="UqB9zKfE" text="Equip Primary Weapon"/>
     <string id="uQfDuGem" text="Character Zoom Out"/>
@@ -670,8 +670,8 @@
     <string id="VasVb9DK" text="Equip your weapon or change to the next one."/>
     <string id="VAtNIoKC" text="L"/>
     <string id="VdGuZAoK" text="Hide the User Inferface."/>
-    <string id="Ve99pCSo" text="Cloth Simulation"/>
-    <string id="VE9TavSl" text="Sets the decal quality."/>
+    <string id="Ve99pCSo" text="Симуляція одягу"/>
+    <string id="VE9TavSl" text="Задає якість декалів."/>
     <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom."/>
     <string id="vJ41v8zh" text="Friendly Troops Banner Opacity"/>
     <string id="vJDxgaOZ" text="These modules' versions are different:"/>
@@ -681,19 +681,19 @@
     <string id="vOVdr24b" text="Select Order 4."/>
     <string id="vT3yIxmO" text="Numpad 4"/>
     <string id="vvKU6wTA" text="Voice-over volume level."/>
-    <string id="vXvmeGhm" text="Shadow Type"/>
+    <string id="vXvmeGhm" text="Тип тіней"/>
     <string id="VzSerzva" text="Right Shift"/>
     <string id="W3NRW1d4" text="Choose the layout of orders (i.e. order categories and keys){newline}Default: The default order layout.{newline}Legacy: The order layout used in the earlier versions of the game."/>
     <string id="w4l8xA2Q" text="Map Move Left"/>
-    <string id="waNCurZY" text="Enables the motion blur."/>
-    <string id="wb84GjZw" text="Shadow Filtering"/>
-    <string id="WBVMg0bd" text="Sets the texture filtering technique. A higher value means more detailed and sharp textures."/>
+    <string id="waNCurZY" text="Вмикає розмиття під час руху."/>
+    <string id="wb84GjZw" text="Фільтрація тіней"/>
+    <string id="WBVMg0bd" text="Задає техніку фільтрації текстур. Вище значення означає більш деталізовані та чіткі текстури."/>
     <string id="wg5YeO4k" text="Campaign Map"/>
     <string id="wGa1SUop" text="Equip the item in your second slot."/>
-    <string id="whn4v32E" text="Sets the resolution of shadows."/>
+    <string id="whn4v32E" text="Задає роздільну здатність тіней."/>
     <string id="WiBlu6mE" text="SelectOrder9"/>
     <string id="wJWICbOg" text="Your preferred game language."/>
-    <string id="WldVAZhy" text="Sets the detail level of character models."/>
+    <string id="WldVAZhy" text="Задає рівень деталізації моделей персонажів."/>
     <string id="wMe5p2HG" text="7"/>
     <string id="WMmGH9yp" text="Get camera further from campaign map."/>
     <string id="WOubRnjm" text="Report Experience"/>
@@ -702,7 +702,7 @@
     <string id="Wr2DX9Go" text="F23"/>
     <string id="wubDWOlh" text="Select Profile"/>
     <string id="WVpVmbzC" text="These modules are new in the game:"/>
-    <string id="wWDHH5FK" text="Depth of Field"/>
+    <string id="wWDHH5FK" text="Глибина різкості"/>
     <string id="wygub2sh" text="F15"/>
     <string id="wYicqUa9" text="Map Time Normal"/>
     <string id="X1nFnomy" text="Medium (400)"/>
@@ -760,15 +760,15 @@
     <string id="YTXLLaEN" text="High Level"/>
     <string id="yV64UCaW" text="Zoom In"/>
     <string id="YZv1752W" text="D"/>
-    <string id="yZvw7EQb" text="Screen Space Reflection"/>
+    <string id="yZvw7EQb" text="Відображення в екранному просторі"/>
     <string id="z5Kbb4pC" text="DLSS Balanced"/>
     <string id="z6ezjlkX" text="Shift"/>
     <string id="z8XjxODK" text="Change to alternative usage for a weapon. Melee or ranged, one handed or two handed."/>
     <string id="ZaaPPemL" text="SelectOrder8"/>
-    <string id="ZeIsxhk4" text="Sets the shadow filtering technique."/>
+    <string id="ZeIsxhk4" text="Задає техніку фільтрації тіней."/>
     <string id="ZewnkWoO" text="G"/>
     <string id="Zgs47DHB" text="Caps Lock"/>
-    <string id="ZIKuUbUG" text="Sets the number of simultaneous ragdoll simulations."/>
+    <string id="ZIKuUbUG" text="Задає максимальну кількість одночасних ragdoll-симуляцій."/>
     <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops."/>
     <string id="ZlcrmFvl" text="Switch to Next Tab"/>
     <string id="znSZmZvV" text="Map Move Right"/>
