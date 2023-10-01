@@ -285,18 +285,18 @@
     <string id="kftE5nvv" text="Броня коня"/>
     <string id="kG0xuyfE" text="Арсенал"/>
     <string id="klkYFik9" text="Ви вже відправляли скаргу на цього гравця."/>
-    <string id="KOVHgkVq" text="Voting Ends In:"/>
-    <string id="koX9okuG" text="None"/>
-    <string id="kVII0pqT" text="Show Gamercard"/>
-    <string id="Kvqb1lQR" text="{SCORE} Score"/>
-    <string id="l2CNxPXG" text="Teeth Type"/>
-    <string id="L3DJHTdY" text="Enter Bannerlord ID"/>
-    <string id="L6eaNe2q" text="Are you sure want to kick {MEMBER_NAME} from clan?"/>
-    <string id="lBn2pSBL" text="Members"/>
-    <string id="lGbrWyEe" text="Cancel Friend Request"/>
-    <string id="LlrlE199" text="You can still deploy siege engines.\nBegin anyway?"/>
-    <string id="lO1hok44" text="Name Has Invalid Characters In It"/>
-    <string id="LrE2cUnG" text="Currently Disabled"/>
+    <string id="KOVHgkVq" text="Голосування закінчиться через:"/>
+    <string id="koX9okuG" text="Пусто"/>
+    <string id="kVII0pqT" text="Показати картку гравця"/>
+    <string id="Kvqb1lQR" text="Рахунок: {SCORE}"/>
+    <string id="l2CNxPXG" text="Тип зубів"/>
+    <string id="L3DJHTdY" text="Введіть Bannerlord ID"/>
+    <string id="L6eaNe2q" text="Ви впевнені у тому, що хочете вигнати гравця {MEMBER_NAME} з клану?"/>
+    <string id="lBn2pSBL" text="Учасники"/>
+    <string id="lGbrWyEe" text="Скасувати запит в друзі"/>
+    <string id="LlrlE199" text="У вас ще є облогові машини, які можна розгорнути.\nВсе одно розпочати?"/>
+    <string id="lO1hok44" text="Назва містить неприпустимі символи"/>
+    <string id="LrE2cUnG" text="Наразі відключено"/>
     <string id="lugGPVOb" text="Login"/>
     <string id="lWDq0Uss" text="JOIN"/>
     <string id="lX9Qx7Wo" text="Next Game Starts In:"/>
