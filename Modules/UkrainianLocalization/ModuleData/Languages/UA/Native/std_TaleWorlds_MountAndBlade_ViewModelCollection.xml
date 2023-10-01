@@ -259,32 +259,32 @@
     <string id="iKtIhlbo" text="Раунди"/>
     <string id="imUnCFgZ" text="Скинути попередній перегляд"/>
     <string id="iNqucBor" text="Вхід у гру"/>
-    <string id="iPx4jep6" text="Exposure"/>
-    <string id="IS4SifJG" text="Won"/>
-    <string id="Ise5gWw3" text="{PLAYED_GAMES} / {TOTAL_GAMES} Evaluation matches played"/>
-    <string id="Iu2eFSsh" text="Infantry Wins"/>
-    <string id="J0vjDOFO" text="Thrust Spd."/>
-    <string id="J2wEawTl" text="Category"/>
-    <string id="j4F7tTzy" text="Clan"/>
-    <string id="j5pLIV91" text="Focus Start"/>
+    <string id="iPx4jep6" text="Експозиція"/>
+    <string id="IS4SifJG" text="Перемоги"/>
+    <string id="Ise5gWw3" text="Завершено оцінювальних матчів: {PLAYED_GAMES} / {TOTAL_GAMES}"/>
+    <string id="Iu2eFSsh" text="Перемоги піхоти"/>
+    <string id="J0vjDOFO" text="Швидкість випаду"/>
+    <string id="J2wEawTl" text="Категорія"/>
+    <string id="j4F7tTzy" text="Клан"/>
+    <string id="j5pLIV91" text="Початок фокусування"/>
     <string id="J5rb5YVV" text="/ {SCORE}"/>
-    <string id="JdEiK70R" text="Clan Leaderboard"/>
-    <string id="JPimShCw" text="Game Type"/>
-    <string id="jPXglGWT" text="Enemy team was wiped out"/>
-    <string id="jR237DSU" text="Commander is mounted!"/>
-    <string id="jS5rrX8M" text="There are no changes to apply."/>
-    <string id="JTMegIk4" text="Accepted"/>
-    <string id="JXyxj1J5" text="Modules"/>
-    <string id="JY2pBVHQ" text="Announcements"/>
-    <string id="JYIURZLb" text="+{LOOT} from match"/>
-    <string id="jyJXcOLe" text="Tag Should Not Contain Offensive Words"/>
-    <string id="K1Gb5a5Q" text="You need to run the game with Anti-cheat"/>
-    <string id="k7fJ7TF0" text="Has to be at least"/>
-    <string id="K8CGzQYL" text="Received Requests"/>
-    <string id="kF3b8cH1" text="Create Your Clan"/>
-    <string id="kftE5nvv" text="Horse Armor"/>
-    <string id="kG0xuyfE" text="Armory"/>
-    <string id="klkYFik9" text="You've already reported this player."/>
+    <string id="JdEiK70R" text="Таблиця рейтингу кланів"/>
+    <string id="JPimShCw" text="Тип гри"/>
+    <string id="jPXglGWT" text="Ворожа команда була знищена"/>
+    <string id="jR237DSU" text="Командир в сідлі!"/>
+    <string id="jS5rrX8M" text="Нема змін для підтвердження."/>
+    <string id="JTMegIk4" text="Прийнято"/>
+    <string id="JXyxj1J5" text="Модулі"/>
+    <string id="JY2pBVHQ" text="Оголошення"/>
+    <string id="JYIURZLb" text="+{LOOT} за матч"/>
+    <string id="jyJXcOLe" text="Тег не повинен містити образливі слова"/>
+    <string id="K1Gb5a5Q" text="Вам потрібно запустити гру з античітом"/>
+    <string id="k7fJ7TF0" text="Повинно бути, як мінімум"/>
+    <string id="K8CGzQYL" text="Отримано запитів"/>
+    <string id="kF3b8cH1" text="Створити власний клан"/>
+    <string id="kftE5nvv" text="Броня коня"/>
+    <string id="kG0xuyfE" text="Арсенал"/>
+    <string id="klkYFik9" text="Ви вже відправляли скаргу на цього гравця."/>
     <string id="KOVHgkVq" text="Voting Ends In:"/>
     <string id="koX9okuG" text="None"/>
     <string id="kVII0pqT" text="Show Gamercard"/>
