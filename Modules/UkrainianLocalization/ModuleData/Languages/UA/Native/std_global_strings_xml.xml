@@ -27,7 +27,7 @@
     <string id="23Tcbb4W" text="Strafe Right"/>
     <string id="25KihbcP" text="Sets the number of reinforcement waves that will be spawned in a combat mission. A higher value generally means longer mission duration. On settings lower than unlimited, sieges might be resolved without all troops participating in the fight."/>
     <string id="2Ao5DCb6" text="Move Party Down"/>
-    <string id="2AyPP3rw" text="High"/>
+    <string id="2AyPP3rw" text="Висок."/>
     <string id="2bPTx7So" text="Your character goes to crouching state."/>
     <string id="2cVkbPYO" text="Unit Spawn Prioritization"/>
     <string id="2e8wI3EM" text="Equip Weapon 2"/>
@@ -50,10 +50,10 @@
     <string id="3y9Q1m1n" text="Your preferred voice over language."/>
     <string id="3YwMXbAT" text="Fastforward time in campaign map."/>
     <string id="44akzqlm" text="Right Arrow"/>
-    <string id="45yEpDdE" text="Resolution Scale"/>
+    <string id="45yEpDdE" text="Масштаб роздільної здатності"/>
     <string id="46vWdakp" text="Y"/>
     <string id="48faf387" text="Roll Camera Left"/>
-    <string id="4aAvY4yO" text="Low"/>
+    <string id="4aAvY4yO" text="Низьк."/>
     <string id="4e0ycN1Q" text="Everyone Hear"/>
     <string id="4Gdng2Tt" text="Hold for faster camera sliding on campaign map."/>
     <string id="4NaOKslb" text="-"/>
@@ -93,11 +93,11 @@
     <string id="7QKjVON8" text="Jump"/>
     <string id="7S1aCWFa" text="Jump while on foot or mounted."/>
     <string id="7SSytk7Z" text="U"/>
-    <string id="7tYiV9Vw" text="Anisotropic 8X"/>
+    <string id="7tYiV9Vw" text="Анізотропна 8Х"/>
     <string id="7vl1ebVZ" text="Left Control"/>
     <string id="7X6fZ5kQ" text="Вмикає відбиття в екранному просторі. Техніка дозволяє отримати реалістичне відображення дзеркальних матеріалів."/>
     <string id="7XmaJYuh" text="Move your party to right in campaign map."/>
-    <string id="7ZmtmleI" text="Sets the resolution scale. Lower values can increase performance. {newline}{newline}Uses AMD's &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Does not affect UI Quality"/>
+    <string id="7ZmtmleI" text="Задає масштаб роздільної здатності. Менші значення можуть збільшити продуктивність. {newline}{newline}Використовує &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Не впливає на якість графічного інтерфейсу"/>
     <string id="8AiDqTFB" text="Map Move Backward"/>
     <string id="8b45xcyL" text="Задає якість дерев та трави."/>
     <string id="8BdF6a4j" text="{LEFT} - {RIGHT}"/>
@@ -111,7 +111,7 @@
     <string id="929oYf3G" text="Zoom Out"/>
     <string id="92ZztgDd" text="Якість декалів"/>
     <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon."/>
-    <string id="9F323ez4" text="Trilinear"/>
+    <string id="9F323ez4" text="Трилінійн."/>
     <string id="9gAVbJAR" text="Resume Time"/>
     <string id="9HdllyAZ" text="Запустити тест продуктивності, щоб оцінити швидкодію гри при поточних налаштуваннях."/>
     <string id="9hRcH7kV" text="Сонячні промені"/>
@@ -148,7 +148,7 @@
     <string id="AP9bKYTb" text="Toggle Cursor"/>
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
     <string id="asrbFBbn" text="Order Menu"/>
-    <string id="asYEb2j7" text="Very High (250)"/>
+    <string id="asYEb2j7" text="Дуже висок. (250)"/>
     <string id="au7tXcD1" text="Stereo"/>
     <string id="aufrcNmq" text="Деталізація частинок"/>
     <string id="AuwOJ4Oz" text="Mission Restart Required"/>
@@ -158,7 +158,7 @@
     <string id="averageCombatAI" text="Average"/>
     <string id="aWDfG0RO" text="F3"/>
     <string id="AXnSAaoi" text="Enable Generic Names"/>
-    <string id="aydCb7WA" text="Medium"/>
+    <string id="aydCb7WA" text="Серед."/>
     <string id="ayYYRfPP" text="Report Personal Damage"/>
     <string id="Az084VJK" text="Defend"/>
     <string id="b00385oX" text="Map Open Encyclopedia"/>
@@ -173,7 +173,7 @@
     <string id="bEJsGiBK" text="Якість рослинності"/>
     <string id="BfebVHWv" text="Show Scoreboard"/>
     <string id="bfis1Rqj" text="Enable death location indicators that show where your teammates die."/>
-    <string id="bfxMfZrk" text="Allow the render resolution to be scaled down to maintain the targeted frame rate.{newline}{newline}Uses AMD's &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Does not affect UI Quality"/>
+    <string id="bfxMfZrk" text="Дозволяє зменшувати роздільну здатність при малюванні кадру, щоб зберегти частоту кадрів на заданому рівні.{newline}{newline}Використовує &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Не впливає на якість інтерфейсу"/>
     <string id="bGbIRSmD" text="."/>
     <string id="BgjaAUNf" text="Задає якість води. Вище значення означає більш детальну симуляцію води."/>
     <string id="BGKHITSN" text="Stop the game when the focus is lost to the game window."/>
@@ -195,7 +195,7 @@
     <string id="byOZcjuE" text="Voice Language"/>
     <string id="bYwwY9qh" text="Numpad 5"/>
     <string id="c3I1AjcF" text="Enable {?IS_PLAYSTATION}Wireless {?}{\?}Controller Vibration"/>
-    <string id="c49AY7yF" text="Low (128)"/>
+    <string id="c49AY7yF" text="Низьк. (128)"/>
     <string id="C7zwur4k" text="Escape"/>
     <string id="cAkgnVr5" text="Num Lock"/>
     <string id="CBwEl28t" text="Enable Death Location Indicator"/>
@@ -213,7 +213,7 @@
     <string id="CsEtp6Az" text="Group 3 Hear"/>
     <string id="ct0coyrR" text="A"/>
     <string id="CTiemsyh" text="Numpad 3"/>
-    <string id="Cvdaadvs" text="Very High"/>
+    <string id="Cvdaadvs" text="Дуже висок."/>
     <string id="cvhQOE38" text="Show Attack Direction"/>
     <string id="cWRA5VVr" text="Left Alt"/>
     <string id="czYbd1vo" text="H"/>
@@ -221,7 +221,7 @@
     <string id="D0Ps9ddi" text="Hide UI"/>
     <string id="d5a3QdBR" text="Cannot access save folder."/>
     <string id="d6DkPU2b" text="Пресет налаштувань"/>
-    <string id="d75b5uSL" text="Bilinear"/>
+    <string id="d75b5uSL" text="Білінійн."/>
     <string id="d7YTtqlO" text="Map Move Down"/>
     <string id="dB6cFDmz" text="/"/>
     <string id="dbkFMtJw" text="Map Zoom In"/>
@@ -239,7 +239,7 @@
     <string id="drG1OL8d" text="Mouse Scroll Up"/>
     <string id="DTSHoHbu" text="Inventory Window"/>
     <string id="dTyINo1B" text="Lock target"/>
-    <string id="dV5ar9eP" text="Max (1000)"/>
+    <string id="dV5ar9eP" text="Макс. (1000)"/>
     <string id="Dw58UUua" text="Підповерхневе розсіювання"/>
     <string id="DxgwxziA" text="Initiate Chat (Secondary)"/>
     <string id="DYcLYL6E" text="Bar"/>
@@ -269,14 +269,14 @@
     <string id="fM9E7frB" text="Продуктивність"/>
     <string id="fMSYE6Ii" text="Default"/>
     <string id="fpYTcwqI" text="F24"/>
-    <string id="FqvJUBRn" text="Very Low"/>
+    <string id="FqvJUBRn" text="Дуже низьк."/>
     <string id="fsI2wuHa" text="Group 2 Hear"/>
-    <string id="G17kWzwi" text="Very High (600)"/>
+    <string id="G17kWzwi" text="Дуже висок. (600)"/>
     <string id="G2e8xucc" text="Якщо ви не бачите картаті візерунки, спробуйте пересунути повзунки. {newline}Налаштуйте контрастність за допомогою повзунків так, щоб візерунки були ледь помітні."/>
     <string id="g4Iq82iw" text="Open team chat."/>
     <string id="g4VjAbMG" text="J"/>
     <string id="G8ug5Bwx" text="Chat"/>
-    <string id="G9oAjFL7" text="Very Low (200)"/>
+    <string id="G9oAjFL7" text="Дуже низьк. (200)"/>
     <string id="GaZ6W7MD" text="Select Order 2."/>
     <string id="gCDjIGB6" text="Show Blood"/>
     <string id="Gd2iUUHa" text="Задає якість частинок. Більше значення означає більш деталізовані частинки."/>
@@ -297,7 +297,7 @@
     <string id="haX0xRHa" text="Camera Speed Up"/>
     <string id="HC2sdqca" text="Enable Tutorial Hints"/>
     <string id="hdbb0Jjp" text="Encyclopedia Window"/>
-    <string id="hdLs35aB" text="Low (25)"/>
+    <string id="hdLs35aB" text="Низьк. (25)"/>
     <string id="HDV63kra" text="4"/>
     <string id="HeCR9aex" text="Enable text reports for shouts."/>
     <string id="HH7LDwlK" text="Toggle Fast Forward"/>
@@ -312,7 +312,7 @@
     <string id="Hs1CYfbc" text="Equip Next Weapon"/>
     <string id="hS4wYBa8" text="Reverse Order Group"/>
     <string id="HsljR1NL" text="Equip Weapon 1"/>
-    <string id="hUyPaplJ" text="Battle Size"/>
+    <string id="hUyPaplJ" text="Розмір битви"/>
     <string id="HVa0okoe" text="F9"/>
     <string id="hwzQGpYa" text="Sound Occlusion"/>
     <string id="HxIqxjmk" text="Select Everyone"/>
@@ -323,7 +323,7 @@
     <string id="I6OJtaMT" text="Never"/>
     <string id="I9PN1qny" text="Numpad Enter"/>
     <string id="IahiWHHW" text="K"/>
-    <string id="Iam02fhz" text="Low (300)"/>
+    <string id="Iam02fhz" text="Низьк. (300)"/>
     <string id="IaoVYeZi" text="Вмикає теселяцію."/>
     <string id="iazKqdH1" text="Report Shouts"/>
     <string id="iblHebbT" text="F1"/>
@@ -338,19 +338,19 @@
     <string id="IjRHUbbN" text="Теселяція"/>
     <string id="ikbBAZtA" text="Export Buffer Visualizations."/>
     <string id="IKjxVh2N" text="Розмиття в русі"/>
-    <string id="ikoUJQyl" text="Enables the bloom effect."/>
+    <string id="ikoUJQyl" text="Вмикає ефекти світіння."/>
     <string id="iljRgsvP" text="Order Layout Type"/>
     <string id="invalidkey" text="-"/>
     <string id="IOZ4aWVp" text="Select Group 8"/>
     <string id="iPx4jep6" text="Експозиція"/>
     <string id="Irhxad7u" text="Якість води"/>
-    <string id="iUFgqwkA" text="Medium (256)"/>
+    <string id="iUFgqwkA" text="Середн. (256)"/>
     <string id="iuQk8map" text="Voice-over Volume"/>
     <string id="iwO3g6Rz" text="Select how challenging the combat AI will be."/>
     <string id="ixHHmobT" text="Enable being able to lock onto enemies while using a melee weapon."/>
     <string id="ixTwtPt0" text="4 waves"/>
     <string id="IxzTvJH9" text="Sound in Background"/>
-    <string id="IyenJVb1" text="Affects the animation sampling frame rate. A higher value requires more CPU resource but provides smoother animations."/>
+    <string id="IyenJVb1" text="Впливає на частоту кадрів анімації. Більше значення забезпечує кращу плавність анімації, але вимагає більше ресурсів процесора."/>
     <string id="IYLn67Xm" text="X"/>
     <string id="Iz2vu6xM" text="Mouse Scroll Down"/>
     <string id="iZAwcZSV" text="Track Settlement"/>
@@ -378,7 +378,7 @@
     <string id="JXdwIX8Q" text="Set thickness for trails of weapons."/>
     <string id="jy9orOJz" text="Play"/>
     <string id="JZFXI1LK" text="UI Scale"/>
-    <string id="jZs8I1Uq" text="Enables the film grain."/>
+    <string id="jZs8I1Uq" text="Вмикає ефект зернистості."/>
     <string id="JZYQGUF3" text="Down Double Press: Sudden Break"/>
     <string id="k0nSlwe9" text="Auto Save Interval"/>
     <string id="k3LajvfJ" text="Banner Editor"/>
@@ -399,10 +399,10 @@
     <string id="KKNmozPI" text="Left Arrow"/>
     <string id="Kksv0KyL" text="Select Group 7."/>
     <string id="KL8cGTao" text="Radial"/>
-    <string id="kNpWwJcc" text="High (500)"/>
+    <string id="kNpWwJcc" text="Висок. (500)"/>
     <string id="KO5zuUvN" text="Action"/>
     <string id="KONClayU" text="\"/>
-    <string id="koX9okuG" text="Виключено"/>
+    <string id="koX9okuG" text="Нема"/>
     <string id="KShlkb9M" text="Rotate map camera to left."/>
     <string id="KtYtBnvP" text="Задає обмеження кількості кадрів."/>
     <string id="KUEHAD4U" text="Quests"/>
@@ -412,7 +412,7 @@
     <string id="l5aKnGy3" text="Initiate Chat"/>
     <string id="l7Rfaa8f" text="Select Group 8."/>
     <string id="L992LXVF" text="Toggle Camera Follow Mode. Toggle between &quot;Focus on player&quot; or &quot;Free cam&quot;."/>
-    <string id="lC5xsoSh" text="Unlimited"/>
+    <string id="lC5xsoSh" text="Без обмежень"/>
     <string id="lCucoVwJ" text="Estimated GPU Memory Usage"/>
     <string id="lG7AlfxK" text="Map Track Settlement"/>
     <string id="lgOBD6MF" text="Enable marks for direction of attack."/>
@@ -428,7 +428,7 @@
     <string id="LsX8rTwl" text="Open Character Development screen."/>
     <string id="lsxqkhy6" text="O"/>
     <string id="LTxU2AST" text="Sets the interval of time between autosaves. Value is in minutes."/>
-    <string id="Lu1sjJKR" text="Dynamic Resolution Scaling"/>
+    <string id="Lu1sjJKR" text="Динамічне масштабування роздільної здатності"/>
     <string id="m1PinhQd" text="Open Party Screen."/>
     <string id="M1ZFZR5I" text="Якість ландшафту"/>
     <string id="M3bY9bLu" text="Enable informative messages."/>
@@ -449,7 +449,7 @@
     <string id="MNsKxGzK" text="Ресурси для потоку текстур"/>
     <string id="mueocuFG" text="Show Indicators"/>
     <string id="mWnA4X5D" text="Select Order 6"/>
-    <string id="mWT9b9ZM" text="Medium (75)"/>
+    <string id="mWT9b9ZM" text="Середн. (75)"/>
     <string id="MXHkvySm" text="F7"/>
     <string id="MxmOWsHj" text="Encyclopedia"/>
     <string id="Mxnj08mB" text="Move Party Right"/>
@@ -457,9 +457,9 @@
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="nbXC9aIe" text="120 Hz Mode"/>
     <string id="nD11hOsQ" text="Open Quest Log."/>
-    <string id="nDjFBDvE" text="Sets the maximum number of units on battles. A higher value requires better CPU and GPU."/>
+    <string id="nDjFBDvE" text="Задає максимальну кількість юнітів у боях. Вище значення вимагає кращих процесора і відеокарти."/>
     <string id="nLhH8JhZ" text="Voice chat volume level."/>
-    <string id="NMP6nR8C" text="DLSS Performance"/>
+    <string id="NMP6nR8C" text="DLSS: Продуктивність"/>
     <string id="NN7DHB1A" text="Group 1 Hear"/>
     <string id="noYzJpKr" text="Toggle Zoom"/>
     <string id="NSSsxBHV" text="Randomize"/>
@@ -469,10 +469,10 @@
     <string id="o8WjGqS4" text="Z"/>
     <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box."/>
     <string id="ocNVbyPJ" text="Віконний без рамок"/>
-    <string id="oCtaP2tZ" text="This option is disabled because DLSS is enabled."/>
+    <string id="oCtaP2tZ" text="Цей параметр вимкнено, оскільки DLSS увімкнено."/>
     <string id="odsVjkbO" text="Open Inventory."/>
-    <string id="oEdTBobd" text="Anisotropic 2X"/>
-    <string id="OeJ53VmM" text="Target framerate to be maintained by the &quot;Dynamic Resolution Scaling&quot; setting.{newline}{newline}It is advised that you set it to the lowest framerate you're comfortable playing with. Setting a value that's too high will cause unnecessary resolution drops."/>
+    <string id="oEdTBobd" text="Анізотропна 2Х"/>
+    <string id="OeJ53VmM" text="Цільова частота кадрів для параметра &quot;Динамічне масштабування роздільної здатності&quot;.{newline}{newline}Даний параметр рекомендується встановити на рівні найменшої частоту кадрів з якою вам комфортно грати. Встановлення занадто високого значення може призвести до падіння роздільної здатності до небажаного рівня."/>
     <string id="OgXnrvcA" text="Вмикає симуляцію одягу. Використовує ресурси відеокарти."/>
     <string id="oHaWR73d" text="Ok"/>
     <string id="oI1gktYa" text="Sound effects volume level."/>
@@ -540,28 +540,28 @@
     <string id="QaMie1KY" text="Melee Only"/>
     <string id="Qbz9VJGw" text="{Modifier} + {KEY}"/>
     <string id="QBzjt1c4" text="Extended Key 1"/>
-    <string id="QcNaK9xX" text="Animation Sampling Quality"/>
+    <string id="QcNaK9xX" text="Якість анімації"/>
     <string id="qDhDbZKh" text="Track Settlement currently hovered over settlement"/>
     <string id="qDVoGsb9" text="Hold to give orders with a gamepad."/>
-    <string id="QfsXhxOI" text="Ultra (800)"/>
+    <string id="QfsXhxOI" text="Ультра (800)"/>
     <string id="qggjceRq" text="Sound Output"/>
     <string id="QiYy3Ja4" text="Select Order Return"/>
     <string id="QKy9a176" text="Strafe Left"/>
     <string id="qmplQd0Q" text="Three Part"/>
-    <string id="qNPmVDmU" text="Sets the NVIDIA DLSS method if applicable. "/>
+    <string id="qNPmVDmU" text="Задає метод NVIDIA DLSS, якщо технологія доступна."/>
     <string id="qnxJYAs7" text="Party"/>
     <string id="QObLf5jh" text="Select on Map"/>
     <string id="qOcw1xap" text="Page Down"/>
     <string id="QoGjzEwI" text="Move Back"/>
     <string id="Qp3i4PrW" text="TV"/>
     <string id="QpUkFQnj" text="Locks the framerate to 40 Hz on the Fidelity Mode and unlocks it on the Performance Mode."/>
-    <string id="qR4S6PeD" text="DLSS Quality"/>
+    <string id="qR4S6PeD" text="DLSS: Якість"/>
     <string id="qS0z458V" text="~"/>
     <string id="QsdUafoH" text="Select Order 5"/>
     <string id="qSJZyoro" text="F2"/>
     <string id="qsrqjK0B" text="Задає рівень деталізації елементів оточення."/>
     <string id="qtgBKzY8" text="Задає максимальну кількість трупів видимих на полі бою."/>
-    <string id="qvaJYO9c" text="Anisotropic 16X"/>
+    <string id="qvaJYO9c" text="Анізотропна 16Х"/>
     <string id="qW1FWX0C" text="Down Arrow"/>
     <string id="r4wEESkT" text="Enable event log in campaign map and missions."/>
     <string id="r5onpWZW" text="Always"/>
@@ -632,12 +632,12 @@
     <string id="TvGJqPGp" text="Enable reports for deaths and knock outs."/>
     <string id="tw5Wxv3b" text="Numpad ."/>
     <string id="TWbbfaUu" text="Move map camera to right in campaign map."/>
-    <string id="TybJcG0A" text="Very Low (64) "/>
+    <string id="TybJcG0A" text="Дуже низьк. (64)"/>
     <string id="tZGftbOD" text="Push To Talk"/>
     <string id="TzpULeDH" text="Select Order Return."/>
     <string id="u2dQaVY2" text="Equip the item in your third slot."/>
     <string id="U58amXO0" text="Hold to show equipment switching menu."/>
-    <string id="U5xKAHGi" text="Bloom"/>
+    <string id="U5xKAHGi" text="Світіння"/>
     <string id="u6QCWQvu" text="Four Part"/>
     <string id="u7FkCtRN" text="Group 0 Hear"/>
     <string id="U8NaF1bo" text="Відкалібрувати"/>
@@ -664,7 +664,7 @@
     <string id="UwJIMaRi" text="Якість шейдерів"/>
     <string id="UwuYCgIU" text="Caution"/>
     <string id="v2me5eP1" text="Toggle Vignette."/>
-    <string id="V5ltCcw0" text="High (125)"/>
+    <string id="V5ltCcw0" text="Висок. (125)"/>
     <string id="v8GIxASM" text="V-Sync"/>
     <string id="vAnlshLW" text="9"/>
     <string id="VasVb9DK" text="Equip your weapon or change to the next one."/>
@@ -705,7 +705,7 @@
     <string id="wWDHH5FK" text="Глибина різкості"/>
     <string id="wygub2sh" text="F15"/>
     <string id="wYicqUa9" text="Map Time Normal"/>
-    <string id="X1nFnomy" text="Medium (400)"/>
+    <string id="X1nFnomy" text="Середн. (400)"/>
     <string id="X2CbgcZ9" text="By Look Direction"/>
     <string id="X5cSNxHf" text="5"/>
     <string id="x7kYOUfi" text="Effects Volume"/>
@@ -732,7 +732,7 @@
     <string id="xboxStartButton" text="Menu Button"/>
     <string id="XCB1SGxZ" text="Запустити тест продуктивності"/>
     <string id="xEquRfRF" text="10"/>
-    <string id="xikMYwty" text="DLSS Ultra Performance"/>
+    <string id="xikMYwty" text="DLSS: Ультрапродуктивність"/>
     <string id="xJpOH8DU" text="Open Encyclopedia"/>
     <string id="XldS0fkN" text="Change Camera Follow Mode"/>
     <string id="xlxTJuJ9" text="Select Everyone."/>
@@ -743,14 +743,14 @@
     <string id="XrUGC7H4" text="Backspace"/>
     <string id="XtiGbj0W" text="Show Cursor"/>
     <string id="xuOz73hl" text="Choose whether blood is visible in battles."/>
-    <string id="xZ84ujuu" text="How many sounds could be played at once. Lower values will lower your CPU usage while higher values delivers better atmosphere."/>
+    <string id="xZ84ujuu" text="Скільки звуків буде відтворитись одночасно. Чим нижчі значення, тим менше навантаження на процесор, але вищі значення додаватимуть грі атмосферності."/>
     <string id="y5FGfFdf" text="F17"/>
     <string id="y7dx24ih" text="Turn camera as you change direction on a horse in first person view."/>
     <string id="Y94H6XnK" text="Accept"/>
     <string id="YAHs7wBa" text="Select Order 8"/>
     <string id="YDccwh2x" text="Master Volume"/>
     <string id="yDr2HCFR" text="Switch to 360 degree view mode around your character."/>
-    <string id="yfMN8wWN" text="Anisotropic 4X"/>
+    <string id="yfMN8wWN" text="Анізотропна 4Х"/>
     <string id="Yg2jHH1M" text="Numpad /"/>
     <string id="YirOUaIV" text="Decrease Camera Focus."/>
     <string id="yLCSTuBw" text="Задає роздільну здатність гри. Вища роздільна здатність вимагає потужнішої відеокарти."/>
@@ -761,7 +761,7 @@
     <string id="yV64UCaW" text="Zoom In"/>
     <string id="YZv1752W" text="D"/>
     <string id="yZvw7EQb" text="Відображення в екранному просторі"/>
-    <string id="z5Kbb4pC" text="DLSS Balanced"/>
+    <string id="z5Kbb4pC" text="DLSS: Баланс"/>
     <string id="z6ezjlkX" text="Shift"/>
     <string id="z8XjxODK" text="Change to alternative usage for a weapon. Melee or ranged, one handed or two handed."/>
     <string id="ZaaPPemL" text="SelectOrder8"/>
@@ -777,9 +777,9 @@
     <string id="zofULNb8" text="Equip Secondary Weapon"/>
     <string id="ZOUxmamu" text="Set sensitivity for cursor movement and camera control."/>
     <string id="ZP1tLaa1" text="Numpad 9"/>
-    <string id="ZtDJrNz9" text="Film Grain"/>
+    <string id="ZtDJrNz9" text="Зернистість"/>
     <string id="zTFbqJ6R" text="'"/>
-    <string id="ZtxvyzjY" text="Sound Channels"/>
+    <string id="ZtxvyzjY" text="Звукові канали"/>
     <string id="ZUGXXsGj" text="Reinforcement Wave Count"/>
     <string id="zUXxshZK" text="F12"/>
     <string id="zvD48rVQ" text="Quick Save"/>
@@ -787,10 +787,10 @@
     <string id="ZVLr4CMO" text="X1 Mouse Button"/>
     <string id="ZvtKqPt3" text="Left Double Press: Sudden Left"/>
     <string id="zwL5NFAr" text="Insert"/>
-    <string id="ZX8TLWzd" text="DLSS is not available for this system."/>
+    <string id="ZX8TLWzd" text="DLSS для цієї системи недоступний."/>
     <string id="zxMOqlhs" text="Attack"/>
-    <string id="zXUB15lX" text="Dynamic Resolution FPS Target"/>
+    <string id="zXUB15lX" text="Цільовий FPS динамічної роздільної здатності"/>
     <string id="zyR3jbj2" text="Faster Camera"/>
-    <string id="zzonsjpL" text="High (512)"/>
+    <string id="zzonsjpL" text="Висок. (512)"/>
   </strings>
 </base>
