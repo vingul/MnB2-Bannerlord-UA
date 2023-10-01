@@ -168,7 +168,7 @@
     <string id="b9rDOY21" text="SelectOrder2"/>
     <string id="bbxpBzPr" text="Sheathe Weapon"/>
     <string id="bdJv9dcm" text="Character Zoom In"/>
-    <string id="BDSEgN41" text="Sets the overall graphics quality preset."/>
+    <string id="BDSEgN41" text="Задає загальний пресет налаштувань продуктивності."/>
     <string id="BDSLNk4Q" text="Map Rotate Left"/>
     <string id="bEJsGiBK" text="Foliage Quality"/>
     <string id="BfebVHWv" text="Show Scoreboard"/>
@@ -220,7 +220,7 @@
     <string id="D008gyKC" text="Select Order 1"/>
     <string id="D0Ps9ddi" text="Hide UI"/>
     <string id="d5a3QdBR" text="Cannot access save folder."/>
-    <string id="d6DkPU2b" text="Overall"/>
+    <string id="d6DkPU2b" text="Пресет налаштувань"/>
     <string id="d75b5uSL" text="Bilinear"/>
     <string id="d7YTtqlO" text="Map Move Down"/>
     <string id="dB6cFDmz" text="/"/>
@@ -266,7 +266,7 @@
     <string id="fJnqJx8m" text="Character Window"/>
     <string id="fldPHfP6" text="Задає частоту оновлення гри."/>
     <string id="FLLnblfP" text="Report Casualties"/>
-    <string id="fM9E7frB" text="Performance"/>
+    <string id="fM9E7frB" text="Продуктивність"/>
     <string id="fMSYE6Ii" text="Default"/>
     <string id="fpYTcwqI" text="F24"/>
     <string id="FqvJUBRn" text="Very Low"/>
