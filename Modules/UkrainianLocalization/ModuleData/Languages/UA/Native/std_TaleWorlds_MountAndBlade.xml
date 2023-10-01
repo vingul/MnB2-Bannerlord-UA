@@ -8,7 +8,7 @@
     <string id="1cnJtNTt" text="{KEY} Pull"/>
     <string id="1CPdu9K0" text="Stone"/>
     <string id="1nKa4pQX" text="Rest of the game content has been downloaded."/>
-    <string id="2zcrC0h1" text="Gameplay"/>
+    <string id="2zcrC0h1" text="Ігролад"/>
     <string id="3PP01vFv" text="Keep away from that weapon."/>
     <string id="4FVIuqsl" text="{ALIVE}/{TOTAL}"/>
     <string id="4Skg9QhO" text="Trebuchet"/>
@@ -69,7 +69,7 @@
     <string id="qaPgbwZv" text="Low Tier"/>
     <string id="RN6zHak0" text="Player"/>
     <string id="rwZAZSvX" text="{KEY} Move"/>
-    <string id="sRTd3RI5" text="Graphics"/>
+    <string id="sRTd3RI5" text="Графіка"/>
     <string id="sZLd6VHi" text="Khuzait"/>
     <string id="TJj71hPO" text="{KEY} Close"/>
     <string id="uNrXwGzr" text="Only practice matches are allowed with your current party. All members should be in the same clan for a clan match."/>
@@ -81,7 +81,7 @@
     <string id="w7Yrbi5t" text="Unset"/>
     <string id="WRMyiiYJ" text="User Interface"/>
     <string id="wY1qP2qj" text="{KEY} Select"/>
-    <string id="xebFLnH2" text="Audio"/>
+    <string id="xebFLnH2" text="Аудіо"/>
     <string id="XvSRoOzM" text="Recently Played Players"/>
     <string id="YNkPy4ta" text="Clan Match"/>
     <string id="yS7PvrTD" text="OK"/>
