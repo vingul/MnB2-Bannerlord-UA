@@ -743,7 +743,7 @@
     <string id="XrUGC7H4" text="Backspace"/>
     <string id="XtiGbj0W" text="Show Cursor"/>
     <string id="xuOz73hl" text="Choose whether blood is visible in battles."/>
-    <string id="xZ84ujuu" text="Скільки звуків буде відтворитись одночасно. Чим нижчі значення, тим менше навантаження на процесор, але вищі значення додаватимуть грі атмосферності."/>
+    <string id="xZ84ujuu" text="Задає максимальну кількість звуків, яка може відтворюватись одночасно. Чим нижчі значення, тим менше навантаження на процесор, але вищі значення додаватимуть грі атмосферності."/>
     <string id="y5FGfFdf" text="F17"/>
     <string id="y7dx24ih" text="Turn camera as you change direction on a horse in first person view."/>
     <string id="Y94H6XnK" text="Accept"/>
