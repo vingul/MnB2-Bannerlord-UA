@@ -122,7 +122,7 @@
     <string id="9scrSz4i" text="Sets the graphics mode.{newline}Performance: Runs the game at 60 frames per second with dynamic resolution, lower quality settings and less units on battles.{newline}Fidelity: Runs the game at 30 frames per second at the native resolution, higher quality settings and more units on battles."/>
     <string id="9TrnHXRG" text="Fidelity"/>
     <string id="9xKCz9BE" text="Switch between first and third person view."/>
-    <string id="9zns14aF" text="Виберіть спосіб виконання блоків. Якщо вибрано &quot;Авто&quot;, то в багатокористувацькій грі буде вибрано &quot;За напрямком погляду &quot;."/>
+    <string id="9zns14aF" text="Виберіть спосіб виконання блоків. Якщо вибрано &quot;Автоматично&quot;, то в багатокористувацькій грі буде вибрано &quot;За напрямком погляду &quot;."/>
     <string id="A0bqGRQc" text="F"/>
     <string id="a5l0tTLE" text="Enable Event Log"/>
     <string id="a8MvWaSN" text="Примусово включати V-Sync також і в інтерфейсі (наприклад, на екранах лобі, інвентарю, загону, персонажа, завдань тощо)"/>
