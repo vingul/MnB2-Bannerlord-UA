@@ -111,7 +111,7 @@
     <string id="929oYf3G" text="Zoom Out"/>
     <string id="92ZztgDd" text="Якість декалів"/>
     <string id="9bHr3oNj" text="Crosshair that shows when using a ranged weapon."/>
-    <string id="9F323ez4" text="Трилінійн."/>
+    <string id="9F323ez4" text="Трилінійна"/>
     <string id="9gAVbJAR" text="Resume Time"/>
     <string id="9HdllyAZ" text="Запустити тест продуктивності, щоб оцінити швидкодію гри при поточних налаштуваннях."/>
     <string id="9hRcH7kV" text="Сонячні промені"/>
@@ -148,7 +148,7 @@
     <string id="AP9bKYTb" text="Toggle Cursor"/>
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
     <string id="asrbFBbn" text="Order Menu"/>
-    <string id="asYEb2j7" text="Дуже висок. (250)"/>
+    <string id="asYEb2j7" text="Дуже велика (250)"/>
     <string id="au7tXcD1" text="Stereo"/>
     <string id="aufrcNmq" text="Деталізація частинок"/>
     <string id="AuwOJ4Oz" text="Mission Restart Required"/>
@@ -158,7 +158,7 @@
     <string id="averageCombatAI" text="Average"/>
     <string id="aWDfG0RO" text="F3"/>
     <string id="AXnSAaoi" text="Enable Generic Names"/>
-    <string id="aydCb7WA" text="Серед."/>
+    <string id="aydCb7WA" text="Середн."/>
     <string id="ayYYRfPP" text="Report Personal Damage"/>
     <string id="Az084VJK" text="Defend"/>
     <string id="b00385oX" text="Map Open Encyclopedia"/>
@@ -195,7 +195,7 @@
     <string id="byOZcjuE" text="Voice Language"/>
     <string id="bYwwY9qh" text="Numpad 5"/>
     <string id="c3I1AjcF" text="Enable {?IS_PLAYSTATION}Wireless {?}{\?}Controller Vibration"/>
-    <string id="c49AY7yF" text="Низьк. (128)"/>
+    <string id="c49AY7yF" text="Мала (128)"/>
     <string id="C7zwur4k" text="Escape"/>
     <string id="cAkgnVr5" text="Num Lock"/>
     <string id="CBwEl28t" text="Enable Death Location Indicator"/>
@@ -221,7 +221,7 @@
     <string id="D0Ps9ddi" text="Hide UI"/>
     <string id="d5a3QdBR" text="Cannot access save folder."/>
     <string id="d6DkPU2b" text="Пресет налаштувань"/>
-    <string id="d75b5uSL" text="Білінійн."/>
+    <string id="d75b5uSL" text="Білінійна"/>
     <string id="d7YTtqlO" text="Map Move Down"/>
     <string id="dB6cFDmz" text="/"/>
     <string id="dbkFMtJw" text="Map Zoom In"/>
@@ -239,7 +239,7 @@
     <string id="drG1OL8d" text="Mouse Scroll Up"/>
     <string id="DTSHoHbu" text="Inventory Window"/>
     <string id="dTyINo1B" text="Lock target"/>
-    <string id="dV5ar9eP" text="Макс. (1000)"/>
+    <string id="dV5ar9eP" text="Максимальний (1000)"/>
     <string id="Dw58UUua" text="Підповерхневе розсіювання"/>
     <string id="DxgwxziA" text="Initiate Chat (Secondary)"/>
     <string id="DYcLYL6E" text="Bar"/>
@@ -271,12 +271,12 @@
     <string id="fpYTcwqI" text="F24"/>
     <string id="FqvJUBRn" text="Дуже низьк."/>
     <string id="fsI2wuHa" text="Group 2 Hear"/>
-    <string id="G17kWzwi" text="Дуже висок. (600)"/>
+    <string id="G17kWzwi" text="Дуже великий (600)"/>
     <string id="G2e8xucc" text="Якщо ви не бачите картаті візерунки, спробуйте пересунути повзунки. {newline}Налаштуйте контрастність за допомогою повзунків так, щоб візерунки були ледь помітні."/>
     <string id="g4Iq82iw" text="Open team chat."/>
     <string id="g4VjAbMG" text="J"/>
     <string id="G8ug5Bwx" text="Chat"/>
-    <string id="G9oAjFL7" text="Дуже низьк. (200)"/>
+    <string id="G9oAjFL7" text="Дуже малий (200)"/>
     <string id="GaZ6W7MD" text="Select Order 2."/>
     <string id="gCDjIGB6" text="Show Blood"/>
     <string id="Gd2iUUHa" text="Задає якість частинок. Більше значення означає більш деталізовані частинки."/>
@@ -297,7 +297,7 @@
     <string id="haX0xRHa" text="Camera Speed Up"/>
     <string id="HC2sdqca" text="Enable Tutorial Hints"/>
     <string id="hdbb0Jjp" text="Encyclopedia Window"/>
-    <string id="hdLs35aB" text="Низьк. (25)"/>
+    <string id="hdLs35aB" text="Мала (25)"/>
     <string id="HDV63kra" text="4"/>
     <string id="HeCR9aex" text="Enable text reports for shouts."/>
     <string id="HH7LDwlK" text="Toggle Fast Forward"/>
@@ -323,7 +323,7 @@
     <string id="I6OJtaMT" text="Never"/>
     <string id="I9PN1qny" text="Numpad Enter"/>
     <string id="IahiWHHW" text="K"/>
-    <string id="Iam02fhz" text="Низьк. (300)"/>
+    <string id="Iam02fhz" text="Малий (300)"/>
     <string id="IaoVYeZi" text="Вмикає теселяцію."/>
     <string id="iazKqdH1" text="Report Shouts"/>
     <string id="iblHebbT" text="F1"/>
@@ -344,7 +344,7 @@
     <string id="IOZ4aWVp" text="Select Group 8"/>
     <string id="iPx4jep6" text="Експозиція"/>
     <string id="Irhxad7u" text="Якість води"/>
-    <string id="iUFgqwkA" text="Середн. (256)"/>
+    <string id="iUFgqwkA" text="Середня (256)"/>
     <string id="iuQk8map" text="Voice-over Volume"/>
     <string id="iwO3g6Rz" text="Select how challenging the combat AI will be."/>
     <string id="ixHHmobT" text="Enable being able to lock onto enemies while using a melee weapon."/>
@@ -399,7 +399,7 @@
     <string id="KKNmozPI" text="Left Arrow"/>
     <string id="Kksv0KyL" text="Select Group 7."/>
     <string id="KL8cGTao" text="Radial"/>
-    <string id="kNpWwJcc" text="Висок. (500)"/>
+    <string id="kNpWwJcc" text="Великий (500)"/>
     <string id="KO5zuUvN" text="Action"/>
     <string id="KONClayU" text="\"/>
     <string id="koX9okuG" text="Нема"/>
@@ -449,7 +449,7 @@
     <string id="MNsKxGzK" text="Ресурси для потоку текстур"/>
     <string id="mueocuFG" text="Show Indicators"/>
     <string id="mWnA4X5D" text="Select Order 6"/>
-    <string id="mWT9b9ZM" text="Середн. (75)"/>
+    <string id="mWT9b9ZM" text="Середня (75)"/>
     <string id="MXHkvySm" text="F7"/>
     <string id="MxmOWsHj" text="Encyclopedia"/>
     <string id="Mxnj08mB" text="Move Party Right"/>
@@ -632,7 +632,7 @@
     <string id="TvGJqPGp" text="Enable reports for deaths and knock outs."/>
     <string id="tw5Wxv3b" text="Numpad ."/>
     <string id="TWbbfaUu" text="Move map camera to right in campaign map."/>
-    <string id="TybJcG0A" text="Дуже низьк. (64)"/>
+    <string id="TybJcG0A" text="Дуже мала (64)"/>
     <string id="tZGftbOD" text="Push To Talk"/>
     <string id="TzpULeDH" text="Select Order Return."/>
     <string id="u2dQaVY2" text="Equip the item in your third slot."/>
@@ -664,7 +664,7 @@
     <string id="UwJIMaRi" text="Якість шейдерів"/>
     <string id="UwuYCgIU" text="Caution"/>
     <string id="v2me5eP1" text="Toggle Vignette."/>
-    <string id="V5ltCcw0" text="Висок. (125)"/>
+    <string id="V5ltCcw0" text="Велика (125)"/>
     <string id="v8GIxASM" text="V-Sync"/>
     <string id="vAnlshLW" text="9"/>
     <string id="VasVb9DK" text="Equip your weapon or change to the next one."/>
@@ -705,7 +705,7 @@
     <string id="wWDHH5FK" text="Глибина різкості"/>
     <string id="wygub2sh" text="F15"/>
     <string id="wYicqUa9" text="Map Time Normal"/>
-    <string id="X1nFnomy" text="Середн. (400)"/>
+    <string id="X1nFnomy" text="Середній (400)"/>
     <string id="X2CbgcZ9" text="By Look Direction"/>
     <string id="X5cSNxHf" text="5"/>
     <string id="x7kYOUfi" text="Effects Volume"/>
@@ -779,7 +779,7 @@
     <string id="ZP1tLaa1" text="Numpad 9"/>
     <string id="ZtDJrNz9" text="Зернистість"/>
     <string id="zTFbqJ6R" text="'"/>
-    <string id="ZtxvyzjY" text="Звукові канали"/>
+    <string id="ZtxvyzjY" text="Кількість джерел звуку"/>
     <string id="ZUGXXsGj" text="Reinforcement Wave Count"/>
     <string id="zUXxshZK" text="F12"/>
     <string id="zvD48rVQ" text="Quick Save"/>
@@ -791,6 +791,6 @@
     <string id="zxMOqlhs" text="Attack"/>
     <string id="zXUB15lX" text="Цільовий FPS динамічної роздільної здатності"/>
     <string id="zyR3jbj2" text="Faster Camera"/>
-    <string id="zzonsjpL" text="Висок. (512)"/>
+    <string id="zzonsjpL" text="Велика (512)"/>
   </strings>
 </base>
