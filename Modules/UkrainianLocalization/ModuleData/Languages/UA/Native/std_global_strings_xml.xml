@@ -198,7 +198,7 @@
     <string id="c49AY7yF" text="Мала (128)"/>
     <string id="C7zwur4k" text="Esc"/>
     <string id="cAkgnVr5" text="Num Lock"/>
-    <string id="CBwEl28t" text="Увімкнути індикатор місця смерті"/>
+    <string id="CBwEl28t" text="Увімкнути позначки смертей"/>
     <string id="CbwmI1JY" text="Вмикає глибину різкості. Даний ефект впливає на розмиття об'єктів в залежності від їх віддаленості від точки фокусування."/>
     <string id="CfjTvLNl" text="Finalize Chat"/>
     <string id="CLpUemXL" text="Stop Game On Focus Lost"/>
@@ -215,7 +215,7 @@
     <string id="CTiemsyh" text="Numpad 3"/>
     <string id="Cvdaadvs" text="Дуже висок."/>
     <string id="cvhQOE38" text="Show Attack Direction"/>
-    <string id="cWRA5VVr" text="Left Alt"/>
+    <string id="cWRA5VVr" text="Лівий Alt"/>
     <string id="czYbd1vo" text="H"/>
     <string id="D008gyKC" text="Обрати наказ 1"/>
     <string id="D0Ps9ddi" text="Hide UI"/>
@@ -763,7 +763,7 @@
     <string id="yZvw7EQb" text="Відображення в екранному просторі"/>
     <string id="z5Kbb4pC" text="DLSS: Баланс"/>
     <string id="z6ezjlkX" text="Shift"/>
-    <string id="z8XjxODK" text="Change to alternative usage for a weapon. Melee or ranged, one handed or two handed."/>
+    <string id="z8XjxODK" text="Перехід на альтернативний варіант використання зброї. Ближній або дальній бій, одноручне або дворучне."/>
     <string id="ZaaPPemL" text="Обрати наказ 8"/>
     <string id="ZeIsxhk4" text="Задає техніку фільтрації тіней."/>
     <string id="ZewnkWoO" text="G"/>
