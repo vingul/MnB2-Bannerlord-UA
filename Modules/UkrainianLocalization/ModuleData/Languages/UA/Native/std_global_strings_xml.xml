@@ -157,48 +157,48 @@
     <string id="averageCampaignAI" text="Средн."/>
     <string id="averageCombatAI" text="Средн."/>
     <string id="aWDfG0RO" text="F3"/>
-    <string id="AXnSAaoi" text="Enable Generic Names"/>
+    <string id="AXnSAaoi" text="Увімкнути стандартні імена"/>
     <string id="aydCb7WA" text="Середн."/>
-    <string id="ayYYRfPP" text="Report Personal Damage"/>
-    <string id="Az084VJK" text="Defend"/>
-    <string id="b00385oX" text="Map Open Encyclopedia"/>
+    <string id="ayYYRfPP" text="Повідомляти про особисту шкоду"/>
+    <string id="Az084VJK" text="Блокувати"/>
+    <string id="b00385oX" text="Карта: відкрити енциклопедію"/>
     <string id="b1OtYhnF" text="Фільтрація текстур"/>
-    <string id="b7cHW5DS" text="Shows chat log. Starts typing to All Chat in Multiplayer."/>
-    <string id="B8aTbaQo" text="Select Group 4."/>
-    <string id="b9rDOY21" text="SelectOrder2"/>
-    <string id="bbxpBzPr" text="Sheathe Weapon"/>
-    <string id="bdJv9dcm" text="Character Zoom In"/>
+    <string id="b7cHW5DS" text="Показує чат. Дозволяє писати в загальний чат в багатокористувацькій грі."/>
+    <string id="B8aTbaQo" text="Обрати групу 4."/>
+    <string id="b9rDOY21" text="Обрати наказ 2"/>
+    <string id="bbxpBzPr" text="Прибрати зброю"/>
+    <string id="bdJv9dcm" text="Наблизити до персонажа"/>
     <string id="BDSEgN41" text="Задає загальний пресет налаштувань продуктивності."/>
-    <string id="BDSLNk4Q" text="Map Rotate Left"/>
+    <string id="BDSLNk4Q" text="Повернути карту ліворуч"/>
     <string id="bEJsGiBK" text="Якість рослинності"/>
-    <string id="BfebVHWv" text="Show Scoreboard"/>
-    <string id="bfis1Rqj" text="Enable death location indicators that show where your teammates die."/>
+    <string id="BfebVHWv" text="Показати таблицю результатів"/>
+    <string id="bfis1Rqj" text="Вмикає позначки смертей, які показують де загинули члени вашої команди."/>
     <string id="bfxMfZrk" text="Дозволяє динамічно зменшувати роздільну здатність, щоб зберегти задану частоту кадрів (бажана частота задається наступним параметром).{newline}{newline}Використовує &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Не впливає на якість інтерфейсу"/>
     <string id="bGbIRSmD" text="."/>
     <string id="BgjaAUNf" text="Задає якість води. Вище значення означає більш детальну симуляцію води."/>
-    <string id="BGKHITSN" text="Stop the game when the focus is lost to the game window."/>
+    <string id="BGKHITSN" text="Ставить гру на паузу, коли вікно гри неактивне."/>
     <string id="bgwA4Pd8" text="2"/>
     <string id="bGZeJJAH" text="Нахилити камеру ліворуч (Проти годинникової стрілки)."/>
-    <string id="bih4MD9a" text="Pause Menu"/>
-    <string id="BKeTUf9V" text="Move Camera"/>
+    <string id="bih4MD9a" text="Меню паузи"/>
+    <string id="BKeTUf9V" text="Перемістити камеру"/>
     <string id="Bl8cKwhL" text="Калібрування дисплею"/>
-    <string id="bmpagYCb" text="Equip your shield or change to the next one."/>
-    <string id="BPiWCOco" text="Select Order 7."/>
-    <string id="bqb2K5b1" text="Move Right"/>
+    <string id="bmpagYCb" text="Спорядити щит або замінити на наступний."/>
+    <string id="BPiWCOco" text="Обрати наказ 7."/>
+    <string id="bqb2K5b1" text="Рухатися вправо"/>
     <string id="bqUsNucg" text="Задає якість візуалізації частинок. Чим вище значення, тим чіткіші частинки."/>
     <string id="BSdIYN9F" text="P"/>
-    <string id="bT77aWti" text="Switch Weapon Usage"/>
-    <string id="bubp5ys1" text="Take Picture."/>
-    <string id="bvJUmRBd" text="Select Group 2"/>
-    <string id="bW2urPqE" text="SelectOrder6"/>
-    <string id="Bw6fZdOh" text="This option is disabled because dynamic resolution is enabled."/>
+    <string id="bT77aWti" text="Перемкнути режим використання"/>
+    <string id="bubp5ys1" text="Зробити знімок."/>
+    <string id="bvJUmRBd" text="Обрати групу 2"/>
+    <string id="bW2urPqE" text="Обрати наказ 6"/>
+    <string id="Bw6fZdOh" text="Цей параметр вимкнено, оскільки динамічна роздільна здатність увімкнена."/>
     <string id="byOZcjuE" text="Мова озвучування"/>
     <string id="bYwwY9qh" text="Numpad 5"/>
-    <string id="c3I1AjcF" text="Enable {?IS_PLAYSTATION}Wireless {?}{\?}Controller Vibration"/>
+    <string id="c3I1AjcF" text="Включити вібрацію {?IS_PLAYSTATION}бездротового контролера {?}геймпаду{\?}"/>
     <string id="c49AY7yF" text="Мала (128)"/>
-    <string id="C7zwur4k" text="Escape"/>
+    <string id="C7zwur4k" text="Esc"/>
     <string id="cAkgnVr5" text="Num Lock"/>
-    <string id="CBwEl28t" text="Enable Death Location Indicator"/>
+    <string id="CBwEl28t" text="Увімкнути індикатор місця смерті"/>
     <string id="CbwmI1JY" text="Вмикає глибину різкості. Даний ефект впливає на розмиття об'єктів в залежності від їх віддаленості від точки фокусування."/>
     <string id="CfjTvLNl" text="Finalize Chat"/>
     <string id="CLpUemXL" text="Stop Game On Focus Lost"/>
@@ -217,7 +217,7 @@
     <string id="cvhQOE38" text="Show Attack Direction"/>
     <string id="cWRA5VVr" text="Left Alt"/>
     <string id="czYbd1vo" text="H"/>
-    <string id="D008gyKC" text="Select Order 1"/>
+    <string id="D008gyKC" text="Обрати наказ 1"/>
     <string id="D0Ps9ddi" text="Hide UI"/>
     <string id="d5a3QdBR" text="Cannot access save folder."/>
     <string id="d6DkPU2b" text="Пресет налаштувань"/>
@@ -277,7 +277,7 @@
     <string id="g4VjAbMG" text="J"/>
     <string id="G8ug5Bwx" text="Chat"/>
     <string id="G9oAjFL7" text="Дуже малий (200)"/>
-    <string id="GaZ6W7MD" text="Select Order 2."/>
+    <string id="GaZ6W7MD" text="Обрати наказ 2."/>
     <string id="gCDjIGB6" text="Show Blood"/>
     <string id="Gd2iUUHa" text="Задає якість частинок. Більше значення означає більш деталізовані частинки."/>
     <string id="gIsqhwTs" text="First Person Field of View"/>
@@ -288,10 +288,10 @@
     <string id="grNuIieh" text="Cursor/Camera Sensitivity"/>
     <string id="gu2JU5zq" text="Crosshair Type"/>
     <string id="GxHV8b1b" text="Numpad 1"/>
-    <string id="gxTsIPaS" text="Select Order 3."/>
+    <string id="gxTsIPaS" text="Обрати наказ 3."/>
     <string id="GzICf27a" text="Rotate"/>
     <string id="gzMIzYTF" text="Game Log Window"/>
-    <string id="H1kB8qEb" text="Select Order 6."/>
+    <string id="H1kB8qEb" text="Обрати наказ 6."/>
     <string id="h6wUbray" text="Кількість трупів"/>
     <string id="haLX0kbG" text="Click to continue"/>
     <string id="haX0xRHa" text="Camera Speed Up"/>
@@ -301,7 +301,7 @@
     <string id="HDV63kra" text="4"/>
     <string id="HeCR9aex" text="Enable text reports for shouts."/>
     <string id="HH7LDwlK" text="Toggle Fast Forward"/>
-    <string id="hHxSj7tY" text="SelectOrder3"/>
+    <string id="hHxSj7tY" text="Обрати наказ 3"/>
     <string id="Hiv0420V" text="Select Group 6."/>
     <string id="Hj1bsSbW" text="V-Sync в інтерфейсі"/>
     <string id="hjsLo4ri" text="View orders."/>
@@ -330,7 +330,7 @@
     <string id="IcEPmXxM" text="Задає метод самозатінення у навколишньому середовищі. Включення даного параметру додає об'єму тіням."/>
     <string id="ICgda8Is" text="Up Double Press: Charge Forward"/>
     <string id="ID9lG6xg" text="View Orders"/>
-    <string id="igGLkaf6" text="Equip Item 2"/>
+    <string id="igGLkaf6" text="Спорядити предмет 2"/>
     <string id="iGi5HsGS" text="Left Shift"/>
     <string id="ihAadMd5" text="Open Encyclopedia on the campaign map"/>
     <string id="IjhCSwNn" text="Move camera further from your character in third person view."/>
@@ -388,7 +388,7 @@
     <string id="kak4GxOh" text="F6"/>
     <string id="kCXjabff" text="Shows chat log. Starts typing to Team Chat in Multiplayer."/>
     <string id="ke34iiXU" text="Slow Down While Giving Orders"/>
-    <string id="kG4051e5" text="SelectOrder7"/>
+    <string id="kG4051e5" text="Обрати наказ 7"/>
     <string id="KGaaYZi1" text="Частота оновлення"/>
     <string id="Kh8qRccB" text="Reset changes."/>
     <string id="KHbdmIfF" text="Тільки статичні"/>
@@ -437,7 +437,7 @@
     <string id="m7IunCRL" text="Open Banner Editor screen."/>
     <string id="mAxXKaXp" text="Reset"/>
     <string id="mBYYRzog" text="Enable Voice Chat"/>
-    <string id="Mf5qVgAv" text="Equip Item 3"/>
+    <string id="Mf5qVgAv" text="Спорядити предмет 3"/>
     <string id="MFbBFDqx" text="Map Fast Move"/>
     <string id="MfsNAPh6" text="Вмикає підповерхневе розсіювання. Впливає на більш реалістичне відображення шкіри людини."/>
     <string id="MfunBOxF" text="Налаштувати рівень контрастності."/>
@@ -448,7 +448,7 @@
     <string id="mLtHlKzD" text="Right Alt"/>
     <string id="MNsKxGzK" text="Ресурси для потоку текстур"/>
     <string id="mueocuFG" text="Show Indicators"/>
-    <string id="mWnA4X5D" text="Select Order 6"/>
+    <string id="mWnA4X5D" text="Обрати наказ 6"/>
     <string id="mWT9b9ZM" text="Середня (75)"/>
     <string id="MXHkvySm" text="F7"/>
     <string id="MxmOWsHj" text="Encyclopedia"/>
@@ -486,7 +486,7 @@
     <string id="otHjiYlN" text="Якість частинок"/>
     <string id="OtS4DYD1" text="T"/>
     <string id="owS8kqZs" text="Визначає пріоритет вибору воїнів для битви.{newline}За замовчуванням: воїни підбираються згідно зі своїм місцем у списку загону.{newline}Високорівневі: воїни високого рівня вибираються першими.{newline}Низькорівневі: воїни низького рівня вибираються першими.{newline}Пропорційно: під час вибору воїнів враховуються лише їхні види. Система прагне забезпечити присутність усіх видів воїнів у рівних пропорціях незалежно від їхніх рівнів.{newline}Дія вищеописаних параметрів поширюється тільки на стартовий склад військ гравця і не поширюється на ШІ."/>
-    <string id="OYaqdNAI" text="Select Order 2"/>
+    <string id="OYaqdNAI" text="Обрати наказ 2"/>
     <string id="P4rblFQN" text="Map Zoom Out"/>
     <string id="P5x1HU1u" text="Згладжування"/>
     <string id="P7E3rS3m" text="Рівень гучності музики."/>
@@ -557,7 +557,7 @@
     <string id="QpUkFQnj" text="Locks the framerate to 40 Hz on the Fidelity Mode and unlocks it on the Performance Mode."/>
     <string id="qR4S6PeD" text="DLSS: Якість"/>
     <string id="qS0z458V" text="~"/>
-    <string id="QsdUafoH" text="Select Order 5"/>
+    <string id="QsdUafoH" text="Обрати наказ 5"/>
     <string id="qSJZyoro" text="F2"/>
     <string id="qsrqjK0B" text="Задає рівень деталізації елементів оточення."/>
     <string id="qtgBKzY8" text="Задає максимальну кількість трупів видимих на полі бою."/>
@@ -601,7 +601,7 @@
     <string id="StaoHYba" text="Group 4 Hear"/>
     <string id="sTlHHQPs" text="You will need to restart Bannerlord for this setting to take effect"/>
     <string id="SuYh3GtG" text="Toggle Weapon Mode"/>
-    <string id="SWDHaFCK" text="SelectOrder4"/>
+    <string id="SWDHaFCK" text="Обрати наказ 4"/>
     <string id="swdKFkfu" text="F21"/>
     <string id="SWk141EO" text="Sheathe your equipped weapon."/>
     <string id="sxFsZAeC" text="1"/>
@@ -616,14 +616,14 @@
     <string id="TEuOMadV" text="Tab"/>
     <string id="tewykKdc" text="Керування напрямком блоку"/>
     <string id="tFZspabL" text="Switch to Previous Tab"/>
-    <string id="TgIAHPHs" text="Select Order 4"/>
+    <string id="TgIAHPHs" text="Обрати наказ 4"/>
     <string id="tifiQGTa" text="Open Kingdom Screen."/>
     <string id="TIYrYxpr" text="Select Group 5"/>
     <string id="tkCbjgfx" text="Numpad -"/>
     <string id="TlpNyR2U" text="Низькорівневі"/>
     <string id="tlR1jGNH" text="Toggle Pause Menu"/>
     <string id="TOebahlA" text="Map Time Fast Forward"/>
-    <string id="toHFqO2G" text="Select Order 5."/>
+    <string id="toHFqO2G" text="Обрати наказ 5."/>
     <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode."/>
     <string id="tsPjK1Ke" text="Enabled"/>
     <string id="ttCcMbwO" text="Up Arrow"/>
@@ -651,9 +651,9 @@
     <string id="UItoMdHh" text="Cannot create config data. Not enough space."/>
     <string id="UixNc11t" text="Defend attacks with your weapon or shield."/>
     <string id="ukw0Zi1X" text="["/>
-    <string id="UNmUcizM" text="Select Order 3"/>
+    <string id="UNmUcizM" text="Обрати наказ 3"/>
     <string id="Uojm77jP" text="Якість освітлення"/>
-    <string id="UoxjMhfJ" text="SelectOrder1"/>
+    <string id="UoxjMhfJ" text="Обрати наказ 1"/>
     <string id="UqB9zKfE" text="Equip Primary Weapon"/>
     <string id="uQfDuGem" text="Character Zoom Out"/>
     <string id="urbLiiQJ" text="Налаштувати експозицію"/>
@@ -677,8 +677,8 @@
     <string id="vJDxgaOZ" text="These modules' versions are different:"/>
     <string id="VklN5Wm6" text="Photo Mode"/>
     <string id="VLxclitg" text="Enable Chat Log"/>
-    <string id="vOanWRQi" text="Select Order 1."/>
-    <string id="vOVdr24b" text="Select Order 4."/>
+    <string id="vOanWRQi" text="Обрати наказ 1."/>
+    <string id="vOVdr24b" text="Обрати наказ 4."/>
     <string id="vT3yIxmO" text="Numpad 4"/>
     <string id="vvKU6wTA" text="Рівень гучності голосів персонажів."/>
     <string id="vXvmeGhm" text="Тип тіней"/>
@@ -691,7 +691,7 @@
     <string id="wg5YeO4k" text="Campaign Map"/>
     <string id="wGa1SUop" text="Equip the item in your second slot."/>
     <string id="whn4v32E" text="Задає роздільну здатність тіней."/>
-    <string id="WiBlu6mE" text="SelectOrder9"/>
+    <string id="WiBlu6mE" text="Обрати наказ 9"/>
     <string id="wJWICbOg" text="Бажана мова гри."/>
     <string id="WldVAZhy" text="Задає рівень деталізації моделей персонажів."/>
     <string id="wMe5p2HG" text="7"/>
@@ -747,7 +747,7 @@
     <string id="y5FGfFdf" text="F17"/>
     <string id="y7dx24ih" text="Turn camera as you change direction on a horse in first person view."/>
     <string id="Y94H6XnK" text="Accept"/>
-    <string id="YAHs7wBa" text="Select Order 8"/>
+    <string id="YAHs7wBa" text="Обрати наказ 8"/>
     <string id="YDccwh2x" text="Загальна гучність"/>
     <string id="yDr2HCFR" text="Switch to 360 degree view mode around your character."/>
     <string id="yfMN8wWN" text="Анізотропна 4Х"/>
@@ -764,7 +764,7 @@
     <string id="z5Kbb4pC" text="DLSS: Баланс"/>
     <string id="z6ezjlkX" text="Shift"/>
     <string id="z8XjxODK" text="Change to alternative usage for a weapon. Melee or ranged, one handed or two handed."/>
-    <string id="ZaaPPemL" text="SelectOrder8"/>
+    <string id="ZaaPPemL" text="Обрати наказ 8"/>
     <string id="ZeIsxhk4" text="Задає техніку фільтрації тіней."/>
     <string id="ZewnkWoO" text="G"/>
     <string id="Zgs47DHB" text="Caps Lock"/>
