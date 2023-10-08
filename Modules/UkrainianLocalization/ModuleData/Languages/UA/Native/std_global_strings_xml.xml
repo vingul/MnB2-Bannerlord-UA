@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="02Qqpama" text="Roll the Camera Right (Clockwise)."/>
+    <string id="02Qqpama" text="Нахилити камеру праворуч (За годинниковою стрілкою)."/>
     <string id="03mPaWum" text="Kingdom"/>
     <string id="08oulGov" text="Drop your equipped weapon."/>
     <string id="0BwwHF1s" text="Move map camera to left in campaign map."/>
@@ -178,7 +178,7 @@
     <string id="BgjaAUNf" text="Задає якість води. Вище значення означає більш детальну симуляцію води."/>
     <string id="BGKHITSN" text="Stop the game when the focus is lost to the game window."/>
     <string id="bgwA4Pd8" text="2"/>
-    <string id="bGZeJJAH" text="Roll the Camera Left (Counterclockwise)."/>
+    <string id="bGZeJJAH" text="Нахилити камеру ліворуч (Проти годинникової стрілки)."/>
     <string id="bih4MD9a" text="Pause Menu"/>
     <string id="BKeTUf9V" text="Move Camera"/>
     <string id="Bl8cKwhL" text="Калібрування дисплею"/>
