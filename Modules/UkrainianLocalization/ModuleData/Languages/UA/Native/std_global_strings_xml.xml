@@ -250,10 +250,10 @@
     <string id="eDRzvYz5" text="Enable auto tracking settlements when attacked."/>
     <string id="eHb2U0dA" text="Show generic avatars for players. This will replace all of the players' avatars with generic avatars."/>
     <string id="EkzORIiZ" text="Open all chat."/>
-    <string id="EMzCDjIR" text="Select Group 2."/>
+    <string id="EMzCDjIR" text="Обрати групу 2."/>
     <string id="ETxm7IBL" text="F18"/>
     <string id="evc8yBIy" text="M"/>
-    <string id="EvOLbiqM" text="Select Group 3"/>
+    <string id="EvOLbiqM" text="Обрати групу 3"/>
     <string id="evzb1cmP" text="Equip the item in your fourth slot."/>
     <string id="eXa0p5uN" text="Cannot create config data."/>
     <string id="EyYqpm5b" text="Задає співвідношення впливу вертикального переміщення до горизонтального для вибору напрямку з допомогою жестів. Параметр не впливає на переміщення камери."/>
@@ -302,16 +302,16 @@
     <string id="HeCR9aex" text="Enable text reports for shouts."/>
     <string id="HH7LDwlK" text="Toggle Fast Forward"/>
     <string id="hHxSj7tY" text="Обрати наказ 3"/>
-    <string id="Hiv0420V" text="Select Group 6."/>
+    <string id="Hiv0420V" text="Обрати групу 6."/>
     <string id="Hj1bsSbW" text="V-Sync в інтерфейсі"/>
     <string id="hjsLo4ri" text="View orders."/>
-    <string id="hkiuDcb6" text="Select Group 5."/>
+    <string id="hkiuDcb6" text="Обрати групу 5."/>
     <string id="HmgPBPeq" text="Як у робочого столу"/>
     <string id="HNTCnUYY" text="Party Window"/>
     <string id="homekey" text="Home"/>
     <string id="Hs1CYfbc" text="Equip Next Weapon"/>
     <string id="hS4wYBa8" text="Reverse Order Group"/>
-    <string id="HsljR1NL" text="Equip Weapon 1"/>
+    <string id="HsljR1NL" text="Спорядити зброю 1"/>
     <string id="hUyPaplJ" text="Розмір битви"/>
     <string id="HVa0okoe" text="F9"/>
     <string id="hwzQGpYa" text="Приглушення звуків"/>
@@ -331,7 +331,7 @@
     <string id="ICgda8Is" text="Up Double Press: Charge Forward"/>
     <string id="ID9lG6xg" text="View Orders"/>
     <string id="igGLkaf6" text="Спорядити предмет 2"/>
-    <string id="iGi5HsGS" text="Left Shift"/>
+    <string id="iGi5HsGS" text="Лівий Shift"/>
     <string id="ihAadMd5" text="Open Encyclopedia on the campaign map"/>
     <string id="IjhCSwNn" text="Move camera further from your character in third person view."/>
     <string id="IjLcnwpz" text="Increase Camera Focus."/>
@@ -341,7 +341,7 @@
     <string id="ikoUJQyl" text="Вмикає ефекти світіння."/>
     <string id="iljRgsvP" text="Order Layout Type"/>
     <string id="invalidkey" text="-"/>
-    <string id="IOZ4aWVp" text="Select Group 8"/>
+    <string id="IOZ4aWVp" text="Обрати групу 8"/>
     <string id="iPx4jep6" text="Експозиція"/>
     <string id="Irhxad7u" text="Якість води"/>
     <string id="iUFgqwkA" text="Середня (256)"/>
@@ -370,7 +370,7 @@
     <string id="JLtTANZg" text="Move Left"/>
     <string id="JmvywkK6" text="Map Move Up"/>
     <string id="jOGbGqOC" text="Enable Vertical Aim Correction"/>
-    <string id="JP1y1i0A" text="Equip Weapon 4"/>
+    <string id="JP1y1i0A" text="Спорядити зброю 4"/>
     <string id="Js1lhJkk" text="Мова"/>
     <string id="js6LONvV" text="Move Backward"/>
     <string id="Ju6btXsv" text="Керування напрямком атаки"/>
@@ -396,8 +396,8 @@
     <string id="KiY5M2uk" text="Save data successfully created."/>
     <string id="KjZas5Xs" text="Задає відеокарту, на якій буде працювати гра."/>
     <string id="kKg8oyGu" text="F19"/>
-    <string id="KKNmozPI" text="Left Arrow"/>
-    <string id="Kksv0KyL" text="Select Group 7."/>
+    <string id="KKNmozPI" text="Стрілка вліво"/>
+    <string id="Kksv0KyL" text="Обрати групу 7."/>
     <string id="KL8cGTao" text="Radial"/>
     <string id="kNpWwJcc" text="Великий (500)"/>
     <string id="KO5zuUvN" text="Action"/>
@@ -410,7 +410,7 @@
     <string id="KwNTg7BT" text="Режим виводу"/>
     <string id="l4ex8t6l" text="5 хвиль"/>
     <string id="l5aKnGy3" text="Initiate Chat"/>
-    <string id="l7Rfaa8f" text="Select Group 8."/>
+    <string id="l7Rfaa8f" text="Обрати групу 8."/>
     <string id="L992LXVF" text="Toggle Camera Follow Mode. Toggle between &quot;Focus on player&quot; or &quot;Free cam&quot;."/>
     <string id="lC5xsoSh" text="Без обмежень"/>
     <string id="lCucoVwJ" text="Estimated GPU Memory Usage"/>
@@ -445,7 +445,7 @@
     <string id="Mja6xKiX" text="Order Visuals Type"/>
     <string id="MkKL3Y4P" text="Numpad 7"/>
     <string id="mkQiThTA" text="Config data successfully created."/>
-    <string id="mLtHlKzD" text="Right Alt"/>
+    <string id="mLtHlKzD" text="Правий Alt"/>
     <string id="MNsKxGzK" text="Ресурси для потоку текстур"/>
     <string id="mueocuFG" text="Show Indicators"/>
     <string id="mWnA4X5D" text="Обрати наказ 6"/>
@@ -496,7 +496,7 @@
     <string id="PBzbWfGF" text="Lock Target"/>
     <string id="PC77pnRB" text="Leader Only"/>
     <string id="pialOblr" text="Order Hold"/>
-    <string id="PksJtzwJ" text="Space"/>
+    <string id="PksJtzwJ" text="Пробіл"/>
     <string id="Pkw17hO0" text="Combat Speed"/>
     <string id="PmbKYDON" text="Cheer"/>
     <string id="pnEeRPAk" text="Group 7 Hear"/>
@@ -535,7 +535,7 @@
     <string id="PtI8voo3" text="F8"/>
     <string id="PvNGaexX" text="Hold to show marks for important people, places, nameplates etc."/>
     <string id="pVrv5hnp" text="B"/>
-    <string id="py0auN0A" text="{ESTIMATED} MB / {TOTAL} MB"/>
+    <string id="py0auN0A" text="{ESTIMATED} Мб / {TOTAL} Мб"/>
     <string id="Q1kAeH3b" text="F16"/>
     <string id="QaMie1KY" text="Тільки для рукопашної зброї"/>
     <string id="Qbz9VJGw" text="{Modifier} + {KEY}"/>
@@ -562,7 +562,7 @@
     <string id="qsrqjK0B" text="Задає рівень деталізації елементів оточення."/>
     <string id="qtgBKzY8" text="Задає максимальну кількість трупів видимих на полі бою."/>
     <string id="qvaJYO9c" text="Анізотропна 16Х"/>
-    <string id="qW1FWX0C" text="Down Arrow"/>
+    <string id="qW1FWX0C" text="Стрілка вниз"/>
     <string id="r4wEESkT" text="Enable event log in campaign map and missions."/>
     <string id="r5onpWZW" text="Завжди"/>
     <string id="R9cQCadq" text="Виберіть спосіб виконання атаки."/>
@@ -595,7 +595,7 @@
     <string id="sbUBtOTb" text="Report Damage"/>
     <string id="sCjtEbTF" text="These modules have been removed from the game:"/>
     <string id="SEucYSln" text="Numpad 2"/>
-    <string id="ShDZ4GgG" text="Equip Weapon 3"/>
+    <string id="ShDZ4GgG" text="Спорядити зброю 3"/>
     <string id="sPqkglTv" text="Hide Battle UI"/>
     <string id="sQCP8t0U" text="Map Wait"/>
     <string id="StaoHYba" text="Group 4 Hear"/>
@@ -611,14 +611,14 @@
     <string id="T6IJg6wq" text="Map Camera Follow Mode"/>
     <string id="TbCbHxeF" text="Toggle Group Selection"/>
     <string id="tbGol5PT" text="F4"/>
-    <string id="tbwhjsqS" text="Right Mouse Button"/>
+    <string id="tbwhjsqS" text="ПКМ"/>
     <string id="Tdf5AbRp" text="Open Clan Screen."/>
     <string id="TEuOMadV" text="Tab"/>
     <string id="tewykKdc" text="Керування напрямком блоку"/>
     <string id="tFZspabL" text="Switch to Previous Tab"/>
     <string id="TgIAHPHs" text="Обрати наказ 4"/>
     <string id="tifiQGTa" text="Open Kingdom Screen."/>
-    <string id="TIYrYxpr" text="Select Group 5"/>
+    <string id="TIYrYxpr" text="Обрати групу 5"/>
     <string id="tkCbjgfx" text="Numpad -"/>
     <string id="TlpNyR2U" text="Низькорівневі"/>
     <string id="tlR1jGNH" text="Toggle Pause Menu"/>
@@ -626,7 +626,7 @@
     <string id="toHFqO2G" text="Обрати наказ 5."/>
     <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode."/>
     <string id="tsPjK1Ke" text="Enabled"/>
-    <string id="ttCcMbwO" text="Up Arrow"/>
+    <string id="ttCcMbwO" text="Стрілка вверх"/>
     <string id="TtWjblNo" text="Toggle Show"/>
     <string id="TUWeNFOv" text="Take Screenshot"/>
     <string id="TvGJqPGp" text="Enable reports for deaths and knock outs."/>
@@ -642,7 +642,7 @@
     <string id="u7FkCtRN" text="Group 0 Hear"/>
     <string id="U8NaF1bo" text="Відкалібрувати"/>
     <string id="Uaae1eBV" text="Right Double Press: Sudden Right"/>
-    <string id="UboDNGJw" text="Select Group 7"/>
+    <string id="UboDNGJw" text="Обрати групу 7"/>
     <string id="uBRn8Je8" text="3"/>
     <string id="Uc1n5MRj" text="NVIDIA DLSS"/>
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
@@ -660,7 +660,7 @@
     <string id="uRXlSUVh" text="N"/>
     <string id="uSGPBRFS" text="Zoom"/>
     <string id="UTU6yVsp" text="Resume time in campaign map."/>
-    <string id="uUHUfeQr" text="Select Group 6"/>
+    <string id="uUHUfeQr" text="Обрати групу 6"/>
     <string id="UwJIMaRi" text="Якість шейдерів"/>
     <string id="UwuYCgIU" text="Caution"/>
     <string id="v2me5eP1" text="Toggle Vignette."/>
@@ -682,7 +682,7 @@
     <string id="vT3yIxmO" text="Numpad 4"/>
     <string id="vvKU6wTA" text="Рівень гучності голосів персонажів."/>
     <string id="vXvmeGhm" text="Тип тіней"/>
-    <string id="VzSerzva" text="Right Shift"/>
+    <string id="VzSerzva" text="Правий Shift"/>
     <string id="W3NRW1d4" text="Choose the layout of orders (i.e. order categories and keys){newline}Default: The default order layout.{newline}Legacy: The order layout used in the earlier versions of the game."/>
     <string id="w4l8xA2Q" text="Map Move Left"/>
     <string id="waNCurZY" text="Вмикає розмиття під час руху."/>
