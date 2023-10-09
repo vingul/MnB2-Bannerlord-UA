@@ -253,7 +253,7 @@
     <string id="893hzVCQ" text="&lt;b&gt;Fire Mangonel&lt;/b&gt;{NEWLINE}Throws jars filled with Greek fire, combines the already deadly power of mangonels with fire."/>
     <string id="8apwrVjc" text="Additional Clan Party"/>
     <string id="8B7V0qdT" text="You have lost the battle!"/>
-    <string id="8bSHlWBL" text="There is no tournament currently in this town."/>
+    <string id="8bSHlWBL" text="В місті на цей момент нема турнірів."/>
     <string id="8c8NDpAd" text="{HERO.NAME} has gained {TRAIT_NAME} trait."/>
     <string id="8cY08v3s" text="The village is of average wealth. Humans and animals alike look well-fed. Villagers busily attend to the tasks of the seasons."/>
     <string id="8fLMcFFG" text="On {DAY_OF_YEAR}, {YEAR}, you unfurled the dragon banner and proclaimed your mission to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
@@ -1256,7 +1256,7 @@
     <string id="OBXNbvkK" text="As you attempt to force the villagers to give you goods, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
     <string id="OCGaTxac" text="Tournament Prize"/>
     <string id="OdFPHvtE" text="Rebels are attacking this settlement. Do you want to interfere?"/>
-    <string id="ODQmOrIw" text="Credits"/>
+    <string id="ODQmOrIw" text="Титри"/>
     <string id="OEax2Y9c" text="Raid caravans. Recruit and lead bandit troops. Infiltrate enemy towns. Give bribes. Escape from captivity."/>
     <string id="oGflu1jV" text="Use murder hole"/>
     <string id="OGjq7rpg" text="We are taking our products to the market at {TOWN}."/>
@@ -1643,7 +1643,7 @@
     <string id="UP6yVQ7b" text="Supporter Of"/>
     <string id="uPZH31zw" text="Uncle"/>
     <string id="uQgNPJnc" text="Manage Troops"/>
-    <string id="ur8kO8iM" text="Game Tips"/>
+    <string id="ur8kO8iM" text="Ігрові поради"/>
     <string id="UtQhRvS8" text="husband"/>
     <string id="Uu0wzNj3" text="Clan Tier: {TIER} "/>
     <string id="uUlO8l6M" text="Heard you got into a fight with some of the people working for {COMMON_AREA_OWNER}. Well, that's no business of mine."/>
