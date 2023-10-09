@@ -233,7 +233,7 @@
     <string id="DGRmXCg4" text="Тільки іконки (лише в одиночній грі)"/>
     <string id="DiK2cKUi" text="Звуковий пристрій"/>
     <string id="dkLG4JC4" text="Enter"/>
-    <string id="dkYmFAk2" text="Track Attacked Settlements"/>
+    <string id="dkYmFAk2" text="Відстежувати атаковані поселення"/>
     <string id="DqFxOjTp" text="Роздільна здатність"/>
     <string id="drbgOAqx" text="Вмикає повідомлення про отримання досвіду."/>
     <string id="drG1OL8d" text="Mouse Scroll Up"/>
@@ -247,7 +247,7 @@
     <string id="E5xbXlLB" text="Вмикає сонячне проміння."/>
     <string id="ea8kNj32" text="Бажаний пристрій виводу звуку."/>
     <string id="EaOcWkH3" text="Open Encyclopedia."/>
-    <string id="eDRzvYz5" text="Enable auto tracking settlements when attacked."/>
+    <string id="eDRzvYz5" text="Увімкнути автоматичне відстеження атакованих поселень."/>
     <string id="eHb2U0dA" text="Show generic avatars for players. This will replace all of the players' avatars with generic avatars."/>
     <string id="EkzORIiZ" text="Open all chat."/>
     <string id="EMzCDjIR" text="Обрати групу 2."/>
@@ -295,7 +295,7 @@
     <string id="h6wUbray" text="Кількість трупів"/>
     <string id="haLX0kbG" text="Click to continue"/>
     <string id="haX0xRHa" text="Camera Speed Up"/>
-    <string id="HC2sdqca" text="Enable Tutorial Hints"/>
+    <string id="HC2sdqca" text="Увімкнути навчальні підказки"/>
     <string id="hdbb0Jjp" text="Encyclopedia Window"/>
     <string id="hdLs35aB" text="Мала (25)"/>
     <string id="HDV63kra" text="4"/>
@@ -380,7 +380,7 @@
     <string id="JZFXI1LK" text="Масштаб інтерфейсу"/>
     <string id="jZs8I1Uq" text="Вмикає ефект зернистості."/>
     <string id="JZYQGUF3" text="Down Double Press: Sudden Break"/>
-    <string id="k0nSlwe9" text="Auto Save Interval"/>
+    <string id="k0nSlwe9" text="Інтервал автозбереження"/>
     <string id="k3LajvfJ" text="Banner Editor"/>
     <string id="k4E1gylQ" text="Задає силу ефекту різкості."/>
     <string id="k7gJYLLj" text="Numpad 8"/>
@@ -413,7 +413,7 @@
     <string id="l7Rfaa8f" text="Обрати групу 8."/>
     <string id="L992LXVF" text="Toggle Camera Follow Mode. Toggle between &quot;Focus on player&quot; or &quot;Free cam&quot;."/>
     <string id="lC5xsoSh" text="Без обмежень"/>
-    <string id="lCucoVwJ" text="Estimated GPU Memory Usage"/>
+    <string id="lCucoVwJ" text="Приблизне використання пам'яті GPU"/>
     <string id="lG7AlfxK" text="Map Track Settlement"/>
     <string id="lgOBD6MF" text="Вмикає позначки, які показують напрямок атаки."/>
     <string id="lgzmPG6K" text="Crouch"/>
@@ -427,11 +427,11 @@
     <string id="lsQ1kFLn" text="Equipment Switch Menu"/>
     <string id="LsX8rTwl" text="Open Character Development screen."/>
     <string id="lsxqkhy6" text="O"/>
-    <string id="LTxU2AST" text="Sets the interval of time between autosaves. Value is in minutes."/>
+    <string id="LTxU2AST" text="Встановлює інтервал часу (у хвилинах) між автозбереженнями."/>
     <string id="Lu1sjJKR" text="Динамічне масштабування роздільної здатності"/>
     <string id="m1PinhQd" text="Open Party Screen."/>
     <string id="M1ZFZR5I" text="Якість ландшафту"/>
-    <string id="M3bY9bLu" text="Enable informative messages."/>
+    <string id="M3bY9bLu" text="Увімкнути інформаційні повідомлення."/>
     <string id="m4Lketfz" text="Інвертувати вісь Y при керуванні камерою."/>
     <string id="m7B471Hw" text="Задає якість освітлення."/>
     <string id="m7IunCRL" text="Open Banner Editor screen."/>
@@ -482,7 +482,7 @@
     <string id="oMaTg568" text="Get camera closer to campaign map."/>
     <string id="Oo7wQbfG" text="X2 Mouse Button"/>
     <string id="Op68a8dO" text="Menu Shortcuts"/>
-    <string id="opGK2hO0" text="Hides battle UI elements while the player is in a mission."/>
+    <string id="opGK2hO0" text="Приховує елементи бойового інтерфейсу під час виконання місії гравцем."/>
     <string id="otHjiYlN" text="Якість частинок"/>
     <string id="OtS4DYD1" text="T"/>
     <string id="owS8kqZs" text="Визначає пріоритет вибору воїнів для битви.{newline}За замовчуванням: воїни підбираються згідно зі своїм місцем у списку загону.{newline}Високорівневі: воїни високого рівня вибираються першими.{newline}Низькорівневі: воїни низького рівня вибираються першими.{newline}Пропорційно: під час вибору воїнів враховуються лише їхні види. Система прагне забезпечити присутність усіх видів воїнів у рівних пропорціях незалежно від їхніх рівнів.{newline}Дія вищеописаних параметрів поширюється тільки на стартовий склад військ гравця і не поширюється на ШІ."/>
@@ -490,11 +490,11 @@
     <string id="P4rblFQN" text="Map Zoom Out"/>
     <string id="P5x1HU1u" text="Згладжування"/>
     <string id="P7E3rS3m" text="Рівень гучності музики."/>
-    <string id="pa8A2VG3" text="Enable the red border around the screen when the player takes damage."/>
+    <string id="pa8A2VG3" text="Вмикає показ червоної рамки навколо екрану, коли гравець отримує шкоду."/>
     <string id="PACe9VHN" text="&lt;"/>
     <string id="PADeKaAu" text="Map Context Menu"/>
     <string id="PBzbWfGF" text="Зафіксувати ціль"/>
-    <string id="PC77pnRB" text="Leader Only"/>
+    <string id="PC77pnRB" text="Тільки лідер"/>
     <string id="pialOblr" text="Order Hold"/>
     <string id="PksJtzwJ" text="Пробіл"/>
     <string id="Pkw17hO0" text="Combat Speed"/>
@@ -563,7 +563,7 @@
     <string id="qtgBKzY8" text="Задає максимальну кількість трупів видимих на полі бою."/>
     <string id="qvaJYO9c" text="Анізотропна 16Х"/>
     <string id="qW1FWX0C" text="Стрілка вниз"/>
-    <string id="r4wEESkT" text="Enable event log in campaign map and missions."/>
+    <string id="r4wEESkT" text="Увімкнути журнал подій на карті кампанії та в місіях."/>
     <string id="r5onpWZW" text="Завжди"/>
     <string id="R9cQCadq" text="Виберіть спосіб виконання атаки."/>
     <string id="r9tGsO4Z" text="Game Restart Required"/>
@@ -596,7 +596,7 @@
     <string id="sCjtEbTF" text="These modules have been removed from the game:"/>
     <string id="SEucYSln" text="Numpad 2"/>
     <string id="ShDZ4GgG" text="Спорядити зброю 3"/>
-    <string id="sPqkglTv" text="Hide Battle UI"/>
+    <string id="sPqkglTv" text="Приховати бойовий інтерфейс"/>
     <string id="sQCP8t0U" text="Map Wait"/>
     <string id="StaoHYba" text="Звернутися до групи 4"/>
     <string id="sTlHHQPs" text="You will need to restart Bannerlord for this setting to take effect"/>
