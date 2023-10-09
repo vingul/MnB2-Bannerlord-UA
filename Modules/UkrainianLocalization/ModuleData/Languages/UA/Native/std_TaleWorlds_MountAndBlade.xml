@@ -15,9 +15,9 @@
     <string id="5oozsaIb" text="{KEY} Open"/>
     <string id="5wx4BF5h" text="{KEY} Rotate"/>
     <string id="6wZUG0ev" text="Gate"/>
-    <string id="8OkPHu4f" text="No"/>
+    <string id="8OkPHu4f" text="Ні"/>
     <string id="abbALYlp" text="Ballista"/>
-    <string id="aeouhelq" text="Yes"/>
+    <string id="aeouhelq" text="Так"/>
     <string id="aseraifaction" text="Aserai"/>
     <string id="aXjlMBiE" text="Siege Tower"/>
     <string id="BFhMw4bl" text="Rest of the game content has been downloaded. Do you want to return to the main menu?"/>
@@ -37,7 +37,7 @@
     <string id="FjwRsf1C" text="Vlandia"/>
     <string id="FNLfNWH3" text="Cavalry and Horse Archer"/>
     <string id="G0AWk1rX" text="Ladder"/>
-    <string id="gAfbULHM" text="Camera"/>
+    <string id="gAfbULHM" text="Камера"/>
     <string id="gqQPSAQZ" text="{KEY} Leave Area"/>
     <string id="H5tiRTya" text="Practice"/>
     <string id="hvQSOi79" text="Bot"/>
@@ -74,18 +74,18 @@
     <string id="TJj71hPO" text="{KEY} Close"/>
     <string id="uNrXwGzr" text="Only practice matches are allowed with your current party. All members should be in the same clan for a clan match."/>
     <string id="ush8OHIw" text="Give preference to troops with Heavy Armors"/>
-    <string id="uZ6q4Qs2" text="Visuals"/>
+    <string id="uZ6q4Qs2" text="Візуальні ефекти"/>
     <string id="v5EqMSlD" text="Can't change arena preference while in duel."/>
     <string id="vBkrw5VV" text="Random"/>
     <string id="vDMe8SCV" text="Масштабування"/>
     <string id="w7Yrbi5t" text="Unset"/>
-    <string id="WRMyiiYJ" text="User Interface"/>
+    <string id="WRMyiiYJ" text="Інтерфейс користувача"/>
     <string id="wY1qP2qj" text="{KEY} Select"/>
     <string id="xebFLnH2" text="Аудіо"/>
     <string id="XvSRoOzM" text="Recently Played Players"/>
     <string id="YNkPy4ta" text="Clan Match"/>
     <string id="yS7PvrTD" text="OK"/>
-    <string id="ys9baYiQ" text="Campaign"/>
+    <string id="ys9baYiQ" text="Кампанія"/>
     <string id="zbpCRmuJ" text="Give preference to troops at lower tiers"/>
   </strings>
 </base>
