@@ -177,7 +177,7 @@
     <string id="flxDkoMh" text="Stage Complete"/>
     <string id="fpE7BQ7f" text="You don't have any upgradable troops."/>
     <string id="FYJC7cDD" text="Trait(s)"/>
-    <string id="fz2kQjFS" text="Choose your character's culture:"/>
+    <string id="fz2kQjFS" text="Виберіть національність свого персонажа:"/>
     <string id="FzbeSkBb" text="One of your alleys has lost its leader or is lacking troops. It will be abandoned after {DAYS} days have passed. You can assign a new clan member from the clan screen or travel to the alley to add more troops, if you wish to keep it. Any troops left in the alley will be lost when it is abandoned."/>
     <string id="g08mptth" text="Moving to a party to be the new leader"/>
     <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom."/>
@@ -279,7 +279,7 @@
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}"/>
     <string id="LxWVtDF0" text="Manage Workshop"/>
     <string id="m1Yynagz" text="Page {NUMBER}"/>
-    <string id="MaHMOzL2" text="Character Culture"/>
+    <string id="MaHMOzL2" text="Національність персонажа"/>
     <string id="mapbardenarvalue" text="{DENAR_AMOUNT}{VALUE_ABBREVIATION}"/>
     <string id="McJjNM50" text="Cost: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Max. Hit Points"/>
