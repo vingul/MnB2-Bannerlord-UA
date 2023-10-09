@@ -259,7 +259,7 @@
     <string id="8fLMcFFG" text="On {DAY_OF_YEAR}, {YEAR}, you unfurled the dragon banner and proclaimed your mission to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
     <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: "/>
     <string id="8Gh3Waa3" text="wife"/>
-    <string id="8HMyTKF6" text="Vlandians"/>
+    <string id="8HMyTKF6" text="{.FI}Вландія"/>
     <string id="8iONwXCz" text="twenty-second"/>
     <string id="8J7ABQhb" text="Noble Mount"/>
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} cohesion)"/>
@@ -374,8 +374,8 @@
     <string id="ARQY0vAz" text="Can't manage the army during an encounter"/>
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines."/>
     <string id="aS3xHcD4" text="Son"/>
-    <string id="aseraifaction" text="Aserai"/>
-    <string id="aseraimembers" text="Aserai"/>
+    <string id="aseraifaction" text="{.MI}Султанат{.nn} асераїв"/>
+    <string id="aseraimembers" text="{.MI}Султанат{.nn} асераїв"/>
     <string id="asHzEWnG" text="We shall stain the sands with your blood, then."/>
     <string id="AT5aTROe" text="seventh"/>
     <string id="ATsEQh7m" text="{SEASON} {?SEASON_IS_PLURAL}seasons{?}season{\?}"/>
@@ -433,7 +433,7 @@
     <string id="bg6x6Hbv" text="Helm"/>
     <string id="Bg83jhCR" text="The town is clearly going through hard times. People look malnourished and buildings are poorly maintained."/>
     <string id="bg8co4he" text="Slaughter{newline}You will not be able to undo this action."/>
-    <string id="bgjiFSHZ" text="Battanians"/>
+    <string id="bgjiFSHZ" text="{.FI}Баттанія"/>
     <string id="bGyrPe8c" text="Production"/>
     <string id="bh2v8n4K" text="Garment{@Plural}loads of garment{\@}"/>
     <string id="bh9U2fsZ" text="Son-in-law"/>
@@ -496,7 +496,7 @@
     <string id="c3cdHImi" text="Capture your opponent's pawns by surrounding them on both sides. If a pawn moves in between two opposing pawns, it does not get captured.{newline}In the first two images, white pawns get captured by the black pawns. In the last two, there are no captures."/>
     <string id="C4n1rgBC" text="Seega"/>
     <string id="c4Pmtkle" text="Mounts&amp;Saddles"/>
-    <string id="C4qjBqLO" text="Sturgians"/>
+    <string id="C4qjBqLO" text="{.FI}Стургія"/>
     <string id="c6Ei8Fqh" text="Vassal of {FACTION}"/>
     <string id="C6n2tZlQ" text="my ally {REFERING_HERO.LINK}"/>
     <string id="c7bVbjD7" text="As you wish. From now on, we fight for you."/>
@@ -629,7 +629,7 @@
     <string id="elhSbQfW" text="my kinsman {REFERING_HERO.LINK}"/>
     <string id="ELsDFwAD" text="Wine{@Plural}amphorae of wine{\@}"/>
     <string id="EMCISbYJ" text="Battle Outfit"/>
-    <string id="empiremembers" text="Empire"/>
+    <string id="empiremembers" text="{.MA}Імперці{.nnp}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
     <string id="EMVLtu5L" text="{HERO.LINK} gained {?PLURAL}{GAINED_POINTS} skill points{?}a skill point{\?} in {SKILL_NAME} and is now {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
@@ -826,7 +826,7 @@
     <string id="hbeUbpEA" text="Are you sure you want to cancel?"/>
     <string id="HcAV8x7p" text="Party Member"/>
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
-    <string id="HD2wzAxz" text="Sturgians are the descendants of the foreign tribes of northern Calradia. As the empire expanded into their cold forests, they found a ready market for the luxurious furs of woodland animals whom they traditionally hunted and trapped. Sturgian chieftains became princes, vying for pre-eminence with the help of Nord mercenaries who migrated into their realm. They are good hunters and wanderers, travelling far in search of opportunities both for trade and for plunder."/>
+    <string id="HD2wzAxz" text="Стургійці - нащадки чужоземних племен північної Кальрадії. Коли Імперія захопила їхні холодні ліси, у них з'явився ринок збуту розкішного хутра тварин, на яких вони здавна полювали. Стургійські полководці стали князями і почали боротися за владу за допомогою найманців з півночі, які переселялися в їхні володіння. Стургійці - витривалі мандрівники й мисливці, які звикли подорожувати на далекі відстані як заради торгівлі, так і заради грабежу."/>
     <string id="hDktLs4a" text="You have acted wisely and with respect. You may go."/>
     <string id="HdTVkcII" text="Improve relations with people. Socialize with nobles. Do Barters."/>
     <string id="hdyQFP2Z" text="You've been killed by a stray {MOUNT_NAME}!"/>
@@ -1357,7 +1357,7 @@
     <string id="pSWt8NXH" text="Raiding {SETTLEMENT_NAME} ({RAIDING_PROCESS}%)"/>
     <string id="pSz4xSqO" text="Hero's {SKILL_NAME} skill needs to be {MIN_SKILL_AMOUNT} or higher."/>
     <string id="pT9TZehy" text="Camp"/>
-    <string id="PUjDWe5j" text="Culture"/>
+    <string id="PUjDWe5j" text="Національність"/>
     <string id="puwXJDa9" text="Prosperity:"/>
     <string id="PVidxUQ8" text="Food Stocks"/>
     <string id="pVkchhqX" text="{VICTIM.NAME} was lost."/>
@@ -1682,7 +1682,7 @@
     <string id="vIpFgbU6" text="Light Armor"/>
     <string id="ViYdZUbQ" text="Disband Army"/>
     <string id="VJNJsdif" text="{COMPANION.LINK} joined your party."/>
-    <string id="vJOWy1QF" text="Khuzaits"/>
+    <string id="vJOWy1QF" text="{.NI}Хузаїтський{.aj} {.NI}ханство{.nn}"/>
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vmMqs3Ck" text="Noble"/>
     <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>
@@ -1911,7 +1911,7 @@
     <string id="znxbib0f" text="Show stats for this usage"/>
     <string id="zo5hQfll" text="The wolves win if they can remove 5 sheep from the board.{newline}{newline}The sheep win if they can block the wolves so they can't make any more moves."/>
     <string id="zpaLDTI4" text="Pay, and you may pass."/>
-    <string id="ZPaw3WuO" text="The Vlandians are the descendants of adventurers from the west who lived under the Empire for centuries before forming an independent kingdom. With the decline of imperial authority, they have evolved into a well organised feudal society led by a caste of warlike nobles who prefer to fight with spears and lances on horseback."/>
+    <string id="ZPaw3WuO" text="Вландійці - нащадки шукачів пригод із заходу, які століттями жили під владою Імперії, поки не створили власне незалежне королівство. Із занепадом імперської влади вони перетворилися на добре організоване феодальне суспільство, кероване войовничими шляхетними лордами, які вважають за краще битися на конях зі списами і піками в руках."/>
     <string id="zqihwKAs" text="&lt;b&gt;Ballista&lt;/b&gt;{NEWLINE}Shoots bolts at deadly effect. Effective against soldiers."/>
     <string id="ZqWOb1jM" text="You are outside the town of {SETTLEMENT_NAME}. You cannot enter because you are wanted by the {FACTION_TERM}."/>
     <string id="ZR2bAa1p" text="Light Cavalry"/>
