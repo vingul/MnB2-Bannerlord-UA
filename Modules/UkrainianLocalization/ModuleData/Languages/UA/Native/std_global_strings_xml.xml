@@ -200,7 +200,7 @@
     <string id="cAkgnVr5" text="Num Lock"/>
     <string id="CBwEl28t" text="Увімкнути позначки смертей"/>
     <string id="CbwmI1JY" text="Вмикає глибину різкості. Даний ефект впливає на розмиття об'єктів в залежності від їх віддаленості від точки фокусування."/>
-    <string id="CfjTvLNl" text="Finalize Chat"/>
+    <string id="CfjTvLNl" text="Відправити повідомлення"/>
     <string id="CLpUemXL" text="Зупинити гру при втраті фокусу"/>
     <string id="CNjxn3eB" text="Динаміки"/>
     <string id="Co9aqFIB" text="Перемкнути режим слідування камери"/>
@@ -241,7 +241,7 @@
     <string id="dTyINo1B" text="Фіксація цілі"/>
     <string id="dV5ar9eP" text="Максимальний (1000)"/>
     <string id="Dw58UUua" text="Підповерхневе розсіювання"/>
-    <string id="DxgwxziA" text="Initiate Chat (Secondary)"/>
+    <string id="DxgwxziA" text="Почати чат (додатково)"/>
     <string id="DYcLYL6E" text="Панель"/>
     <string id="dzR8cr1m" text="Sound Preset"/>
     <string id="E5xbXlLB" text="Вмикає сонячне проміння."/>
@@ -275,7 +275,7 @@
     <string id="G2e8xucc" text="Якщо ви не бачите картаті візерунки, спробуйте пересунути повзунки. {newline}Налаштуйте контрастність за допомогою повзунків так, щоб візерунки були ледь помітні."/>
     <string id="g4Iq82iw" text="Open team chat."/>
     <string id="g4VjAbMG" text="J"/>
-    <string id="G8ug5Bwx" text="Chat"/>
+    <string id="G8ug5Bwx" text="Чат"/>
     <string id="G9oAjFL7" text="Дуже малий (200)"/>
     <string id="GaZ6W7MD" text="Обрати наказ 2."/>
     <string id="gCDjIGB6" text="Показувати кров"/>
@@ -386,7 +386,7 @@
     <string id="k7gJYLLj" text="Numpad 8"/>
     <string id="K80z5onY" text="Визначає, як далеко буде камера в режимі від третьої особи."/>
     <string id="kak4GxOh" text="F6"/>
-    <string id="kCXjabff" text="Shows chat log. Starts typing to Team Chat in Multiplayer."/>
+    <string id="kCXjabff" text="Показує чат. Дозволяє писати в чат видимий тільки союзникам в багатокористувацькій грі."/>
     <string id="ke34iiXU" text="Уповільнення під час віддачі наказів"/>
     <string id="kG4051e5" text="Обрати наказ 7"/>
     <string id="KGaaYZi1" text="Частота оновлення"/>
@@ -409,7 +409,7 @@
     <string id="KUGomrhD" text="Don't Show Again"/>
     <string id="KwNTg7BT" text="Режим виводу"/>
     <string id="l4ex8t6l" text="5 хвиль"/>
-    <string id="l5aKnGy3" text="Initiate Chat"/>
+    <string id="l5aKnGy3" text="Почати чат"/>
     <string id="l7Rfaa8f" text="Обрати групу 8."/>
     <string id="L992LXVF" text="Перемкнути режим слідування камери. Перемикання між &quot;Фокусування на гравцеві&quot; або &quot;Вільна камера&quot;."/>
     <string id="lC5xsoSh" text="Без обмежень"/>
@@ -467,7 +467,7 @@
     <string id="o0QPZODk" text="Перемістити загін ліворуч"/>
     <string id="o2wElwi5" text="Пропорційно"/>
     <string id="o8WjGqS4" text="Z"/>
-    <string id="O9ed2AWr" text="Finalize message if chat box is active. Otherwise, activate chat box."/>
+    <string id="O9ed2AWr" text="Відправляє повідомлення, якщо вікно чату активне. Якщо ні - активує чат."/>
     <string id="ocNVbyPJ" text="Віконний без рамок"/>
     <string id="oCtaP2tZ" text="Цей параметр вимкнено, оскільки DLSS увімкнено."/>
     <string id="odsVjkbO" text="Відкрити інвентар."/>
