@@ -13,7 +13,7 @@
     <string id="0ftxDUQU" text="Перемотування часу на карті"/>
     <string id="0HNrwVGG" text="За рухом"/>
     <string id="0MvDMsEl" text="Метод затінення"/>
-    <string id="0ot0eBzv" text="Повертати камеру разом з конем в режимі від першої особи"/>
+    <string id="0ot0eBzv" text="Повертати камеру разом з конем"/>
     <string id="0YV6wbsq" text="Призупинення часу на карті кампанії."/>
     <string id="16EUzfcH" text="Налаштуйте рівень експозиції відповідно до ваших уподобань за допомогою повзунка."/>
     <string id="1awQTVqN" text="Кількість ragdoll-ів"/>
@@ -201,7 +201,7 @@
     <string id="CBwEl28t" text="Увімкнути позначки смертей"/>
     <string id="CbwmI1JY" text="Вмикає глибину різкості. Даний ефект впливає на розмиття об'єктів в залежності від їх віддаленості від точки фокусування."/>
     <string id="CfjTvLNl" text="Finalize Chat"/>
-    <string id="CLpUemXL" text="Stop Game On Focus Lost"/>
+    <string id="CLpUemXL" text="Зупинити гру при втраті фокусу"/>
     <string id="CNjxn3eB" text="Speakers"/>
     <string id="Co9aqFIB" text="Toggle Camera Follow Mode"/>
     <string id="cOgmdp9e" text="Decline"/>
@@ -209,7 +209,7 @@
     <string id="controlgamekey" text="Control"/>
     <string id="cp80Mq2W" text=";"/>
     <string id="Crf6Z1S5" text="Page Up"/>
-    <string id="cryvNnsO" text="Order visuals that are visible while giving orders in battles."/>
+    <string id="cryvNnsO" text="Візуальне зображення наказів під час командування військами в битвах."/>
     <string id="CsEtp6Az" text="Group 3 Hear"/>
     <string id="ct0coyrR" text="A"/>
     <string id="CTiemsyh" text="Numpad 3"/>
@@ -225,7 +225,7 @@
     <string id="d7YTtqlO" text="Map Move Down"/>
     <string id="dB6cFDmz" text="/"/>
     <string id="dbkFMtJw" text="Map Zoom In"/>
-    <string id="DbpgZxxK" text="Third Person Camera Distance"/>
+    <string id="DbpgZxxK" text="Дистанція до камери від третьої особи"/>
     <string id="dC1MBjrO" text="Впливає на розмір кешу для потоку текстур. Більше значення вимагає більше відеопам'яті, але текстури будуть завантажуватися швидше."/>
     <string id="deletekey" text="Delete"/>
     <string id="Dg0SKmCS" text="Combat Speed DESC"/>
@@ -238,7 +238,7 @@
     <string id="drbgOAqx" text="Enable reports for experience gain."/>
     <string id="drG1OL8d" text="Mouse Scroll Up"/>
     <string id="DTSHoHbu" text="Inventory Window"/>
-    <string id="dTyINo1B" text="Lock target"/>
+    <string id="dTyINo1B" text="Фіксація цілі"/>
     <string id="dV5ar9eP" text="Максимальний (1000)"/>
     <string id="Dw58UUua" text="Підповерхневе розсіювання"/>
     <string id="DxgwxziA" text="Initiate Chat (Secondary)"/>
@@ -278,15 +278,15 @@
     <string id="G8ug5Bwx" text="Chat"/>
     <string id="G9oAjFL7" text="Дуже малий (200)"/>
     <string id="GaZ6W7MD" text="Обрати наказ 2."/>
-    <string id="gCDjIGB6" text="Show Blood"/>
+    <string id="gCDjIGB6" text="Показувати кров"/>
     <string id="Gd2iUUHa" text="Задає якість частинок. Більше значення означає більш деталізовані частинки."/>
-    <string id="gIsqhwTs" text="First Person Field of View"/>
+    <string id="gIsqhwTs" text="Кут огляду від першої особи"/>
     <string id="Gl2S6WEW" text="Задає монітор, на який буде виводитися зображення гри."/>
     <string id="Gl7wgtPQ" text="Move Party Up"/>
     <string id="goodCampaignAI" text="Good"/>
     <string id="goodCombatAI" text="Good"/>
-    <string id="grNuIieh" text="Cursor/Camera Sensitivity"/>
-    <string id="gu2JU5zq" text="Crosshair Type"/>
+    <string id="grNuIieh" text="Чутливість курсора/камери"/>
+    <string id="gu2JU5zq" text="Тип прицілу"/>
     <string id="GxHV8b1b" text="Numpad 1"/>
     <string id="gxTsIPaS" text="Обрати наказ 3."/>
     <string id="GzICf27a" text="Rotate"/>
@@ -347,7 +347,7 @@
     <string id="iUFgqwkA" text="Середня (256)"/>
     <string id="iuQk8map" text="Гучність голосів"/>
     <string id="iwO3g6Rz" text="Select how challenging the combat AI will be."/>
-    <string id="ixHHmobT" text="Enable being able to lock onto enemies while using a melee weapon."/>
+    <string id="ixHHmobT" text="Увімкнути можливість зафіксувати камеру на ворогах під час використання зброї ближнього бою."/>
     <string id="ixTwtPt0" text="4 хвилі"/>
     <string id="IxzTvJH9" text="Звук у фоні"/>
     <string id="IyenJVb1" text="Впливає на частоту кадрів анімації. Більше значення забезпечує кращу плавність анімації, але вимагає більше ресурсів процесора."/>
@@ -369,13 +369,13 @@
     <string id="JLqe3lrb" text="Combat AI Difficulty"/>
     <string id="JLtTANZg" text="Move Left"/>
     <string id="JmvywkK6" text="Map Move Up"/>
-    <string id="jOGbGqOC" text="Enable Vertical Aim Correction"/>
+    <string id="jOGbGqOC" text="Увімкнути вертикальну корекцію прицілювання"/>
     <string id="JP1y1i0A" text="Спорядити зброю 4"/>
     <string id="Js1lhJkk" text="Мова"/>
     <string id="js6LONvV" text="Move Backward"/>
     <string id="Ju6btXsv" text="Керування напрямком атаки"/>
     <string id="jvOYgHOe" text="Користув."/>
-    <string id="JXdwIX8Q" text="Set thickness for trails of weapons."/>
+    <string id="JXdwIX8Q" text="Задає товщину шлейфу від зброї."/>
     <string id="jy9orOJz" text="Play"/>
     <string id="JZFXI1LK" text="UI Scale"/>
     <string id="jZs8I1Uq" text="Вмикає ефект зернистості."/>
@@ -384,10 +384,10 @@
     <string id="k3LajvfJ" text="Banner Editor"/>
     <string id="k4E1gylQ" text="Задає силу ефекту різкості."/>
     <string id="k7gJYLLj" text="Numpad 8"/>
-    <string id="K80z5onY" text="Determines how far will the camera be in third-person."/>
+    <string id="K80z5onY" text="Визначає, як далеко буде камера в режимі від третьої особи."/>
     <string id="kak4GxOh" text="F6"/>
     <string id="kCXjabff" text="Shows chat log. Starts typing to Team Chat in Multiplayer."/>
-    <string id="ke34iiXU" text="Slow Down While Giving Orders"/>
+    <string id="ke34iiXU" text="Уповільнення під час віддачі наказів"/>
     <string id="kG4051e5" text="Обрати наказ 7"/>
     <string id="KGaaYZi1" text="Частота оновлення"/>
     <string id="Kh8qRccB" text="Reset changes."/>
@@ -423,7 +423,7 @@
     <string id="Lm5Wj9ty" text="Voice Chat Volume"/>
     <string id="Lo0bRwYO" text="Cannot create save data. Save data is corrupted."/>
     <string id="Lp0byzGQ" text="I"/>
-    <string id="LroTz1rL" text="Enable slowing down the game while the player is giving orders."/>
+    <string id="LroTz1rL" text="Вмикає уповільнення гри, під час віддачі наказів гравцем."/>
     <string id="lsQ1kFLn" text="Equipment Switch Menu"/>
     <string id="LsX8rTwl" text="Open Character Development screen."/>
     <string id="lsxqkhy6" text="O"/>
@@ -432,7 +432,7 @@
     <string id="m1PinhQd" text="Open Party Screen."/>
     <string id="M1ZFZR5I" text="Якість ландшафту"/>
     <string id="M3bY9bLu" text="Enable informative messages."/>
-    <string id="m4Lketfz" text="Invert Y Axis for camera control."/>
+    <string id="m4Lketfz" text="Інвертувати вісь Y при керуванні камерою."/>
     <string id="m7B471Hw" text="Задає якість освітлення."/>
     <string id="m7IunCRL" text="Open Banner Editor screen."/>
     <string id="mAxXKaXp" text="Reset"/>
@@ -442,7 +442,7 @@
     <string id="MfsNAPh6" text="Вмикає підповерхневе розсіювання. Впливає на більш реалістичне відображення шкіри людини."/>
     <string id="MfunBOxF" text="Налаштувати рівень контрастності."/>
     <string id="mG4rCrfE" text="0"/>
-    <string id="Mja6xKiX" text="Order Visuals Type"/>
+    <string id="Mja6xKiX" text="Тип індикаторів наказів"/>
     <string id="MkKL3Y4P" text="Numpad 7"/>
     <string id="mkQiThTA" text="Config data successfully created."/>
     <string id="mLtHlKzD" text="Правий Alt"/>
@@ -493,7 +493,7 @@
     <string id="pa8A2VG3" text="Enable the red border around the screen when the player takes damage."/>
     <string id="PACe9VHN" text="&lt;"/>
     <string id="PADeKaAu" text="Map Context Menu"/>
-    <string id="PBzbWfGF" text="Lock Target"/>
+    <string id="PBzbWfGF" text="Зафіксувати ціль"/>
     <string id="PC77pnRB" text="Leader Only"/>
     <string id="pialOblr" text="Order Hold"/>
     <string id="PksJtzwJ" text="Пробіл"/>
@@ -503,13 +503,13 @@
     <string id="pNocZkrx" text="Enable Damage Taken Visuals"/>
     <string id="poorCampaignAI" text="Poor"/>
     <string id="poorCombatAI" text="Poor"/>
-    <string id="pQLVaBuN" text="Invert Camera Y Axis"/>
+    <string id="pQLVaBuN" text="Інвертувати камеру по вісі Y"/>
     <string id="pQVSwtfn" text="Move camera closer to your character in third person view."/>
     <string id="PRsSB9B8" text="Interact with weapons, mounts, doors, people etc."/>
     <string id="ps103cxD" text="Perform an attack with your weapon."/>
     <string id="psCircleButton" text="circle button"/>
     <string id="psDownDirectionButton" text="down button"/>
-    <string id="pshodFff" text="Weapon Trail Visibility"/>
+    <string id="pshodFff" text="Шлейф від зброї"/>
     <string id="psL1Button" text="L1 button"/>
     <string id="psL2Button" text="L2 button"/>
     <string id="psLeftDirectionButton" text="left button"/>
@@ -547,7 +547,7 @@
     <string id="qggjceRq" text="Вивід звуку"/>
     <string id="QiYy3Ja4" text="Select Order Return"/>
     <string id="QKy9a176" text="Strafe Left"/>
-    <string id="qmplQd0Q" text="Three Part"/>
+    <string id="qmplQd0Q" text="Три промені"/>
     <string id="qNPmVDmU" text="Задає метод NVIDIA DLSS, якщо технологія доступна."/>
     <string id="qnxJYAs7" text="Party"/>
     <string id="QObLf5jh" text="Select on Map"/>
@@ -575,7 +575,7 @@
     <string id="RhUd5Y2T" text="Accept Current Running Poll."/>
     <string id="rKvjSSri" text="F14"/>
     <string id="rNiESgEo" text="]"/>
-    <string id="ro0NhUnJ" text="Set field of view for first person camera."/>
+    <string id="ro0NhUnJ" text="Задає кут огляду в режимі від першої особи."/>
     <string id="roJLc9oH" text="Часткова"/>
     <string id="rP058aIm" text="Equip the item in your first slot."/>
     <string id="rs0wImmD" text="Cannot create save data."/>
@@ -624,7 +624,7 @@
     <string id="tlR1jGNH" text="Toggle Pause Menu"/>
     <string id="TOebahlA" text="Map Time Fast Forward"/>
     <string id="toHFqO2G" text="Обрати наказ 5."/>
-    <string id="TRmaxjal" text="Enable vertical aim correction while in third person mode."/>
+    <string id="TRmaxjal" text="Вмикає вертикальну корекцію прицілювання в режимі від третьої особи."/>
     <string id="tsPjK1Ke" text="Enabled"/>
     <string id="ttCcMbwO" text="Стрілка вверх"/>
     <string id="TtWjblNo" text="Toggle Show"/>
@@ -638,7 +638,7 @@
     <string id="u2dQaVY2" text="Equip the item in your third slot."/>
     <string id="U58amXO0" text="Hold to show equipment switching menu."/>
     <string id="U5xKAHGi" text="Світіння"/>
-    <string id="u6QCWQvu" text="Four Part"/>
+    <string id="u6QCWQvu" text="Чотири промені"/>
     <string id="u7FkCtRN" text="Group 0 Hear"/>
     <string id="U8NaF1bo" text="Відкалібрувати"/>
     <string id="Uaae1eBV" text="Right Double Press: Sudden Right"/>
@@ -673,7 +673,7 @@
     <string id="Ve99pCSo" text="Симуляція одягу"/>
     <string id="VE9TavSl" text="Задає якість декалів."/>
     <string id="Vea6bRUO" text="Enable interface elements that report players damage and casualities in center bottom."/>
-    <string id="vJ41v8zh" text="Friendly Troops Banner Opacity"/>
+    <string id="vJ41v8zh" text="Прозорість прапорів дружніх військ"/>
     <string id="vJDxgaOZ" text="These modules' versions are different:"/>
     <string id="VklN5Wm6" text="Photo Mode"/>
     <string id="VLxclitg" text="Enable Chat Log"/>
@@ -742,10 +742,10 @@
     <string id="xnulLUFX" text="Save your game quickly with a shortcut."/>
     <string id="XrUGC7H4" text="Backspace"/>
     <string id="XtiGbj0W" text="Show Cursor"/>
-    <string id="xuOz73hl" text="Choose whether blood is visible in battles."/>
+    <string id="xuOz73hl" text="Увімкніть, якщо бажаєте, щоб в битвах була видна кров."/>
     <string id="xZ84ujuu" text="Задає максимальну кількість звуків, яка може відтворюватись одночасно. Чим нижчі значення, тим менше навантаження на процесор, але вищі значення додаватимуть грі атмосферності."/>
     <string id="y5FGfFdf" text="F17"/>
-    <string id="y7dx24ih" text="Turn camera as you change direction on a horse in first person view."/>
+    <string id="y7dx24ih" text="Повертати камеру слідом за зміною напрямку руху коня в режимі від першої особи."/>
     <string id="Y94H6XnK" text="Accept"/>
     <string id="YAHs7wBa" text="Обрати наказ 8"/>
     <string id="YDccwh2x" text="Загальна гучність"/>
@@ -769,13 +769,13 @@
     <string id="ZewnkWoO" text="G"/>
     <string id="Zgs47DHB" text="Caps Lock"/>
     <string id="ZIKuUbUG" text="Задає максимальну кількість одночасних ragdoll-симуляцій."/>
-    <string id="ZKg3DqbQ" text="Determines the opacity of the banners shown on top of the friendly troops."/>
+    <string id="ZKg3DqbQ" text="Визначає прозорість прапорів, які показуються над дружніми військами."/>
     <string id="ZlcrmFvl" text="Switch to Next Tab"/>
     <string id="znSZmZvV" text="Map Move Right"/>
     <string id="Zo2ngsUk" text="Face Generation"/>
     <string id="ZoDugJHP" text="Select Previous Group"/>
     <string id="zofULNb8" text="Equip Secondary Weapon"/>
-    <string id="ZOUxmamu" text="Set sensitivity for cursor movement and camera control."/>
+    <string id="ZOUxmamu" text="Задає чутливість при переміщенні курсора і керування камерою."/>
     <string id="ZP1tLaa1" text="Numpad 9"/>
     <string id="ZtDJrNz9" text="Зернистість"/>
     <string id="zTFbqJ6R" text="'"/>
