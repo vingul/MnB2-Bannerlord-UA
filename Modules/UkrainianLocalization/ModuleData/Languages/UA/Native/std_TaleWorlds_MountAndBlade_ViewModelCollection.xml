@@ -83,9 +83,9 @@
     <string id="9M4G8DDd" text="Ваша команда була знищена"/>
     <string id="9P0VL49j" text="Ви не маєте доступу до багатокористувацької гри."/>
     <string id="9pgOGq7X" text="Журнал"/>
-    <string id="9w9JsBYP" text="Покинути групу"/>
+    <string id="9w9JsBYP" text="Покинути загін"/>
     <string id="a9TcHtVw" text="Фракція B"/>
-    <string id="AaAcmalE" text="Вас запросили приєднатися до команди"/>
+    <string id="AaAcmalE" text="Вас запросили приєднатися до загону"/>
     <string id="aalbxe7z" text="Розмір армії"/>
     <string id="ab2cbidI" text="Загальний рахунок"/>
     <string id="aB4Md0if" text="Є гравці"/>
@@ -105,7 +105,7 @@
     <string id="atUHbDeM" text="Обертання камери на карті"/>
     <string id="aVixswW5" text="Вибір команди"/>
     <string id="aVNXGUQI" text="Наразі немає гравців з рангом {MAX_RANK}."/>
-    <string id="aWzdkfvn" text="Наразі ви не перебуваєте в клані чи не володієте кланом. Вам потрібно створити команду з гравців, які не є членами жодного клану, щоб сформувати свій власний клан."/>
+    <string id="aWzdkfvn" text="Наразі ви не перебуваєте в клані чи не володієте кланом. Вам потрібно створити загін з гравців, які не є членами жодного клану, щоб сформувати свій власний клан."/>
     <string id="aZnS9ECC" text="Запросити"/>
     <string id="AZSbwcG5" text="Вимкнути всі звуки"/>
     <string id="b1DHZsaH" text="Зараз не можливо віддати наказ."/>
@@ -133,11 +133,11 @@
     <string id="BUOtUW1u" text="Бали: {RATING}"/>
     <string id="bXAIlBHv" text="Не може містити образливу лексику"/>
     <string id="BXI1ObU8" text="Підвищити до офіцера клану"/>
-    <string id="bynNUfSr" text="У вашій команді недостатньо учасників для створення клану."/>
+    <string id="bynNUfSr" text="У вашому загоні недостатньо учасників для створення клану."/>
     <string id="BZcFB1My" text="Зачекайте, будь ласка, повторного під'єднання до гри"/>
     <string id="c0ZdKSkn" text="Очікування"/>
     <string id="c6c9eYrD" text="У ворожої команди закінчився бойовий дух"/>
-    <string id="C7OHivNl" text="Ваш друг &lt;a style=&quot;Strong&quot;&gt;&lt;b&gt;{PLAYER_NAME}&lt;/b&gt;&lt;/a&gt; хоче, щоб ви запросили гравця нижче до вашої команди."/>
+    <string id="C7OHivNl" text="Ваш друг &lt;a style=&quot;Strong&quot;&gt;&lt;b&gt;{PLAYER_NAME}&lt;/b&gt;&lt;/a&gt; хоче, щоб ви запросили гравця нижче до вашого загону."/>
     <string id="CacPs8hA" text="Бронза I"/>
     <string id="CCBcdzGa" text="Це скине УСІ параметри цієї категорії до значень за замовчуванням. Ви не зможете скасувати цю дію. {newline} {newline}Ви впевнені?"/>
     <string id="cDzWYQrz" text="Скинути до налаштувань за замовчуванням?"/>
@@ -338,7 +338,7 @@
     <string id="oFWcihyW" text="Розпустити клан"/>
     <string id="oHaWR73d" text="ОК"/>
     <string id="oibdTnXP" text="Поводження"/>
-    <string id="OiWquyWY" text="Ви повинні бути лідером команди, щоб створити клан"/>
+    <string id="OiWquyWY" text="Ви повинні бути лідером загону, щоб створити клан"/>
     <string id="OJbpmlXu" text="Воїни дальнього бою"/>
     <string id="OKUTPdaa" text="Рівень"/>
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
@@ -358,7 +358,7 @@
     <string id="P1MybNr7" text="Видалити оголошення"/>
     <string id="P3IWytsr" text="В підрозділ ніхто не призначений"/>
     <string id="P5Z9owOy" text="Герб"/>
-    <string id="P7moPm3F" text="Призначити лідером команди"/>
+    <string id="P7moPm3F" text="Призначити лідером загону"/>
     <string id="p83IO9ls" text="Треба вибрати національність"/>
     <string id="partykick" text="Вигнати"/>
     <string id="PDdh1sBj" text="Назва"/>
@@ -379,14 +379,14 @@
     <string id="Q50X65NB" text="Класи"/>
     <string id="q7VcSSbp" text="Обрати герб"/>
     <string id="qa9aOxLm" text="Хочете приєднатися до цього клану?"/>
-    <string id="QDNcl3DH" text="Запрошення до команди"/>
+    <string id="QDNcl3DH" text="Запрошення до загону"/>
     <string id="qe46yXVJ" text="ЗАБЛОКОВАНО ДЛЯ БАЛАНСУ"/>
     <string id="qFPBhVh4" text="Оновити"/>
     <string id="QfTt7YRB" text="Швидкість стрільби"/>
     <string id="qipBkhys" text="Перемоги кавалерії"/>
     <string id="qmNeO8FG" text="Призначення клавіш"/>
     <string id="QndVFTbx" text="Зняти"/>
-    <string id="qnxJYAs7" text="Команда"/>
+    <string id="qnxJYAs7" text="Загін"/>
     <string id="qTYsYJ9V" text="Надіслати"/>
     <string id="QvDxB57o" text="{STR1} | {STR2}"/>
     <string id="QwbVdMLi" text="Надіслані запити"/>
@@ -410,7 +410,7 @@
     <string id="Rvr1bcu8" text="Далі"/>
     <string id="rWm5udCd" text="Ви повинні ввести дійсний Bannerlord ID"/>
     <string id="rx18kyZb" text="Журнал бою"/>
-    <string id="RzROgBkv" text="Запросити до команди"/>
+    <string id="RzROgBkv" text="Запросити до загону"/>
     <string id="S2bKbhTc" text="АВТОПОШУК ГРИ"/>
     <string id="s31DnnAf" text="Шкода"/>
     <string id="s6qslcQY" text="{PERCENTAGE} ({TROOP_COUNT}/{TOTAL_TROOP_COUNT})"/>
@@ -427,7 +427,7 @@
     <string id="SQpGQzTI" text="Контролер"/>
     <string id="SrfYbg3x" text="Лідер"/>
     <string id="SS5WyUWR" text="Виграно дуелей"/>
-    <string id="suyl7WWa" text="Прапор не обрано"/>
+    <string id="suyl7WWa" text="Стяг не обрано"/>
     <string id="sWnQva5O" text="Поточний ранг"/>
     <string id="SwSaXwQg" text="дос"/>
     <string id="SyklU5aP" text="Інформація"/>
@@ -464,7 +464,7 @@
     <string id="v4hVLpap" text="Запросити гравців в клан"/>
     <string id="v6J8ILV3" text="Без пароля"/>
     <string id="vBkrw5VV" text="Випадково"/>
-    <string id="VFqoa6vD" text="Хочете запросити цього гравця у свою команду?"/>
+    <string id="VFqoa6vD" text="Хочете запросити цього гравця у свій загін?"/>
     <string id="vGF5S2hE" text="Рейтингова таблиця"/>
     <string id="vlACTion" text="Ви отримали всі значки!"/>
     <string id="vW1VgmaP" text="Ви впевнені, що хочете розформувати свій клан?"/>
@@ -521,7 +521,7 @@
     <string id="zBld61ck" text="Вага:"/>
     <string id="zEMWM4h3" text="Вже в клані"/>
     <string id="ZixS1b4u" text="Ви не керуєте військом в цій битві."/>
-    <string id="zjcZZgUY" text="Ефект прапору"/>
+    <string id="zjcZZgUY" text="Ефект стягу"/>
     <string id="znKxunbQ" text="Наступний воїн"/>
     <string id="zpAamvDv" text="Срібло II"/>
     <string id="zravuI1b" text="Введіть інформацію про клан"/>
