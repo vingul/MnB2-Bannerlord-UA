@@ -381,7 +381,7 @@
     <string id="jZs8I1Uq" text="Вмикає ефект зернистості."/>
     <string id="JZYQGUF3" text="Подвійне натискання даної клавіші: різка зупинка."/>
     <string id="k0nSlwe9" text="Інтервал автозбереження"/>
-    <string id="k3LajvfJ" text="Редактор прапору"/>
+    <string id="k3LajvfJ" text="Редактор стягу"/>
     <string id="k4E1gylQ" text="Задає силу ефекту різкості."/>
     <string id="k7gJYLLj" text="Numpad 8"/>
     <string id="K80z5onY" text="Визначає, як далеко буде камера в режимі від третьої особи."/>
@@ -434,7 +434,7 @@
     <string id="M3bY9bLu" text="Увімкнути інформаційні повідомлення."/>
     <string id="m4Lketfz" text="Інвертувати вісь Y при керуванні камерою."/>
     <string id="m7B471Hw" text="Задає якість освітлення."/>
-    <string id="m7IunCRL" text="Відкрити вікно редактора прапора."/>
+    <string id="m7IunCRL" text="Відкрити вікно редактора стягу."/>
     <string id="mAxXKaXp" text="Скидання"/>
     <string id="mBYYRzog" text="Увімкнути голосовий чат"/>
     <string id="Mf5qVgAv" text="Спорядити предмет 3"/>
@@ -569,7 +569,7 @@
     <string id="r9tGsO4Z" text="Потрібно перезапустити гру"/>
     <string id="RaijrIxP" text="Взаємодіяти"/>
     <string id="rbz1Bwbv" text="Інвентар"/>
-    <string id="Rh7aDJ3n" text="Вікно прапора"/>
+    <string id="Rh7aDJ3n" text="Вікно стягу"/>
     <string id="rHeu8Ndg" text="Відкрити вікно генератора обличчя."/>
     <string id="Rhl5E2ut" text="Задає тип тіней."/>
     <string id="RhUd5Y2T" text="Взяти участь в поточному голосуванні."/>
@@ -673,7 +673,7 @@
     <string id="Ve99pCSo" text="Симуляція одягу"/>
     <string id="VE9TavSl" text="Задає якість декалів."/>
     <string id="Vea6bRUO" text="Вмикає елементи інтерфейсу в центрі внизу, які будуть повідомляти про шкоду гравця (нанесену та отриману) і втрати."/>
-    <string id="vJ41v8zh" text="Прозорість прапорів дружніх військ"/>
+    <string id="vJ41v8zh" text="Прозорість стягу союзних військ"/>
     <string id="vJDxgaOZ" text="Версії цих модулів відрізняються:"/>
     <string id="VklN5Wm6" text="Фоторежим"/>
     <string id="VLxclitg" text="Увімкнути журнал чату"/>
@@ -769,7 +769,7 @@
     <string id="ZewnkWoO" text="G"/>
     <string id="Zgs47DHB" text="Caps Lock"/>
     <string id="ZIKuUbUG" text="Задає максимальну кількість одночасних ragdoll-симуляцій."/>
-    <string id="ZKg3DqbQ" text="Визначає прозорість прапорів, які показуються над дружніми військами."/>
+    <string id="ZKg3DqbQ" text="Визначає прозорість стягу, який показується над дружніми військами."/>
     <string id="ZlcrmFvl" text="Перейти на наступну вкладку"/>
     <string id="znSZmZvV" text="Переміститись вправо по карті"/>
     <string id="Zo2ngsUk" text="Генератор обличчя"/>
