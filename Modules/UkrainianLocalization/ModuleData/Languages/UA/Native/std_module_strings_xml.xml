@@ -268,7 +268,7 @@
     <string id="8LhfzIQE" text="w"/>
     <string id="8mBT44QK" text="Noble of {FACTION}"/>
     <string id="8oaVYIlk" text="You are outside of {SETTLEMENT_NAME}. You cannot enter because the castle belongs to the enemy."/>
-    <string id="8OkPHu4f" text="No"/>
+    <string id="8OkPHu4f" text="Ні"/>
     <string id="8Rkxc5jE" text="No Food"/>
     <string id="8rzcgCO5" text="Sort By"/>
     <string id="8UBfIenN" text="Normal"/>
@@ -287,7 +287,7 @@
     <string id="9EgIraI1" text="Active Policies"/>
     <string id="9esIWdDC" text="Afraid we'll need to make an example out of you, then. Don't bother begging for mercy.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="9FhdRKWu" text="Throwing Knife"/>
-    <string id="9gNjg4P0" text="This will not save your game and return you the the Main Menu. Are you sure you want to exit?"/>
+    <string id="9gNjg4P0" text="Ви повернетесь до головного меню без збереження гри. Ви впевнені, що хочете вийти?"/>
     <string id="9iycVtyV" text="Learning Rate: x {COUNT}"/>
     <string id="9Lhd2zVW" text="On {DAY_OF_YEAR}, {YEAR}, you found a third piece of the Dragon Banner. You are ready to unfurl it once again."/>
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})"/>
@@ -330,7 +330,7 @@
     <string id="adtqbbGU" text="Distance to Army Leader"/>
     <string id="aebVkHyA" text="Give up the fight?"/>
     <string id="aECQrlkM" text="Destroy enemy siege engines!"/>
-    <string id="aeouhelq" text="Yes"/>
+    <string id="aeouhelq" text="Так"/>
     <string id="aepux62p" text="You can not annex a settlement until ownership decision is complete."/>
     <string id="af4G3RYV" text=" (battle)"/>
     <string id="agIbuP9a" text="Heh! That's quite the bruise you're sporting. But don't worry; everybody gets trounced once in a while. The important thing is to pick yourself up, dust yourself off and keep fighting. That's what champions do."/>
@@ -872,7 +872,7 @@
     <string id="hzflo2kJ" text="Again you save our necks, {PLAYER.LINK}! Truly, you are the best of friends."/>
     <string id="i0H8WLRx" text="You cannot expel a ruling clan."/>
     <string id="I2YhWaIt" text="Goods"/>
-    <string id="i30TCtj2" text="PAUSED"/>
+    <string id="i30TCtj2" text="ПАУЗА"/>
     <string id="I3Vfk5mz" text="twentieth"/>
     <string id="I42QtISB" text="Cannot kick main hero from clan."/>
     <string id="I4BbOX46" text="You are in {ARMY_LEADER}{.o} army."/>
