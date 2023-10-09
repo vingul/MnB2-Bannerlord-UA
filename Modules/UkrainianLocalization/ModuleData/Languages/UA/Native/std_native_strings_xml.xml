@@ -92,7 +92,7 @@
     <string id="a8nb5HVc" text="Brow Middle Height"/>
     <string id="aAD1iOuH" text="Top Mouth Size"/>
     <string id="aALNy4Es" text="Streets of Syllianon"/>
-    <string id="AbEh2y8o" text="Save And Exit"/>
+    <string id="AbEh2y8o" text="Зберегти та вийти"/>
     <string id="aDabgVpn" text="Character Customization"/>
     <string id="adyGICWc" text="Chamber Blocked!"/>
     <string id="AEcTBnkz" text="Change Clothing"/>
@@ -124,7 +124,7 @@
     <string id="brk0f05B" text="Head Scaling"/>
     <string id="bTpn4bZ8" text="Brow Inner Height"/>
     <string id="BuLdsBpQ" text="Free For All"/>
-    <string id="bV75iwKa" text="Save"/>
+    <string id="bV75iwKa" text="Зберегти"/>
     <string id="bwmlWKa2" text="Limit To {LIMIT_VALUE}"/>
     <string id="bXIrqxKc" text="Min Number Of Players To Start Game"/>
     <string id="bY9U7w1Q" text="Sword"/>
@@ -154,8 +154,8 @@
     <string id="dxlkHhw5" text="Games Won"/>
     <string id="Dxmq32qW" text="Charge"/>
     <string id="dZ4xp6Lu" text="Temple Width"/>
-    <string id="e0KdfaNe" text="Save As"/>
-    <string id="e139gKZc" text="Return to the Game"/>
+    <string id="e0KdfaNe" text="Зберегти як"/>
+    <string id="e139gKZc" text="Повернутися в гру"/>
     <string id="E3tCWX7w" text="Square"/>
     <string id="eALf5d30" text="Thanks!"/>
     <string id="ecUwABe2" text="Desert"/>
