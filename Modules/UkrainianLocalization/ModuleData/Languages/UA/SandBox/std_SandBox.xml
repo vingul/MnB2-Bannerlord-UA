@@ -251,7 +251,7 @@
     <string id="9O8a1Yz8" text="I heard in the market that {NOTABLE.LINK} is hiring at {?NOTABLE.GENDER}her{?}his{\?} {.%}{SHOP_TYPE}{.%}. Treats {?NOTABLE.GENDER}her{?}his{\?} workers well, they say."/>
     <string id="9P3atGKL" text="Only a faction leader can grant vassalhood. Your relationship with that leader must be at least {RELATION} and you need a Clan Tier of {TIER}."/>
     <string id="9PBA2OJz" text="Here {?HERO.GENDER}she{?}he{\?} is."/>
-    <string id="9pg3qc6N" text="Practice fight"/>
+    <string id="9pg3qc6N" text="Тренувальна битва"/>
     <string id="9pgOGq7X" text="Log"/>
     <string id="9pTkQ5o2" text="It would be in your interest to let this young nobleman go..."/>
     <string id="9PUvbZzD" text="{GAME_NAME} is a traditional game within the {CULTURE_NAME}. It is a game of calm strategy. You start by placing your pieces on the board, crafting a trap for your enemy to fall into. Then you battle across the board, capturing and eliminating your oponent."/>
