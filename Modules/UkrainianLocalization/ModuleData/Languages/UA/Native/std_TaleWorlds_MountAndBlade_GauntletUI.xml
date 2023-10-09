@@ -21,7 +21,7 @@
     <string id="controllerDisconnectedTitlePS" text="Wireless Controller Disconnected"/>
     <string id="controllerDisconnectedTitleXB" text="Controller Disconnected"/>
     <string id="dismissnotification" text="Dismiss"/>
-    <string id="e139gKZc" text="Return to the Game"/>
+    <string id="e139gKZc" text="Повернутися в гру"/>
     <string id="EzeFJo65" text="You have been disconnected from server!"/>
     <string id="hvaDkG4w" text="Press any key."/>
     <string id="HzWaGn3y" text="Not all players are running the game with Anti-cheat"/>
@@ -44,7 +44,7 @@
     <string id="NqarFr4P" text="Налаштування"/>
     <string id="O1bGoaE8" text="Server state could not be retrieved. Please try again."/>
     <string id="OhF7NqSb" text="You are banned from game by poll"/>
-    <string id="RamV6yLM" text="Exit to Main Menu"/>
+    <string id="RamV6yLM" text="Вийти в головне меню"/>
     <string id="RGzyUTzm" text="Formation arrangement switching to {ARRANGEMENT_ORDER}"/>
     <string id="rZSjkCpw" text="Cannot use photo mode during deployment."/>
     <string id="srAJw3Tg" text="Player is banned from server"/>
