@@ -98,7 +98,7 @@
     <string id="7X6fZ5kQ" text="Вмикає відбиття в екранному просторі. Техніка дозволяє отримати реалістичне відображення дзеркальних матеріалів."/>
     <string id="7XmaJYuh" text="Перемістити свій загін вправо на карті кампанії."/>
     <string id="7ZmtmleI" text="Задає масштаб роздільної здатності. Менші значення можуть збільшити продуктивність. {newline}{newline}Використовує &quot;FidelityFX Super Resolution 1.0&quot;{newline}{newline}Не впливає на якість графічного інтерфейсу"/>
-    <string id="8AiDqTFB" text="Перемістити карту назад"/>
+    <string id="8AiDqTFB" text="Переміститись назад по карті"/>
     <string id="8b45xcyL" text="Задає якість дерев та трави."/>
     <string id="8BdF6a4j" text="{LEFT} - {RIGHT}"/>
     <string id="8FbEybTx" text="Показувати значки проблем з мережею. {newline}1. Затримка сигналу {newline}2. Втрата пакетів {newline}3. Низька продуктивність сервера"/>
@@ -572,20 +572,20 @@
     <string id="Rh7aDJ3n" text="Вікно прапора"/>
     <string id="rHeu8Ndg" text="Відкрити вікно генератора обличчя."/>
     <string id="Rhl5E2ut" text="Задає тип тіней."/>
-    <string id="RhUd5Y2T" text="Accept Current Running Poll."/>
+    <string id="RhUd5Y2T" text="Взяти участь в поточному голосуванні."/>
     <string id="rKvjSSri" text="F14"/>
     <string id="rNiESgEo" text="]"/>
     <string id="ro0NhUnJ" text="Задає кут огляду в режимі від першої особи."/>
     <string id="roJLc9oH" text="Часткова"/>
     <string id="rP058aIm" text="Спорядити предмет з першого слота."/>
-    <string id="rs0wImmD" text="Cannot create save data."/>
+    <string id="rs0wImmD" text="Неможливо створити дані збереження."/>
     <string id="rS6nO0wb" text="Затемнення країв"/>
     <string id="RSmsn6mb" text="Запустити/призупинити час"/>
     <string id="RX76Kfa8" text="Перемкнути вид"/>
     <string id="rXftSOjn" text="Повернути карту праворуч"/>
     <string id="rxTqpENB" text="F20"/>
     <string id="rYCYUZu5" text="Звернутися до групи 5"/>
-    <string id="RZ1x41t2" text="Enable incoming voice chat messages from players in your team."/>
+    <string id="RZ1x41t2" text="Увімкнути вхідні голосові повідомлення від гравців вашої команди."/>
     <string id="s4r1xdg0" text="Звернутися до групи 6"/>
     <string id="s533kEjf" text="Гучність музики"/>
     <string id="s5EnYLUp" text="Натиснення клавіші - переможний клич. Утримання клавіші - меню вибору реакцій."/>
@@ -593,42 +593,42 @@
     <string id="sAa2SIgO" text="Ви можете перемикатися між різними режимами, які краще підходять під конфігурацію ваших динаміків."/>
     <string id="sAoWNAwZ" text="Віконний"/>
     <string id="sbUBtOTb" text="Повідомлення про шкоду"/>
-    <string id="sCjtEbTF" text="These modules have been removed from the game:"/>
+    <string id="sCjtEbTF" text="Ці модулі були вилучені з гри:"/>
     <string id="SEucYSln" text="Numpad 2"/>
     <string id="ShDZ4GgG" text="Спорядити зброю 3"/>
     <string id="sPqkglTv" text="Приховати бойовий інтерфейс"/>
-    <string id="sQCP8t0U" text="Map Wait"/>
+    <string id="sQCP8t0U" text="Очікування"/>
     <string id="StaoHYba" text="Звернутися до групи 4"/>
-    <string id="sTlHHQPs" text="You will need to restart Bannerlord for this setting to take effect"/>
-    <string id="SuYh3GtG" text="Toggle Weapon Mode"/>
+    <string id="sTlHHQPs" text="Потрібно перезапустити гру, щоб це налаштування набуло чинності"/>
+    <string id="SuYh3GtG" text="Перемикання режиму зброї"/>
     <string id="SWDHaFCK" text="Обрати наказ 4"/>
     <string id="swdKFkfu" text="F21"/>
     <string id="SWk141EO" text="Сховати споряджену зброю."/>
     <string id="sxFsZAeC" text="1"/>
     <string id="sxIWNefq" text="Класичний"/>
-    <string id="t0vgSn7D" text="Select Next Group"/>
+    <string id="t0vgSn7D" text="Вибрати наступну групу"/>
     <string id="T3Ex0K1p" text="End"/>
-    <string id="T6IJg6wq" text="Map Camera Follow Mode"/>
-    <string id="TbCbHxeF" text="Toggle Group Selection"/>
+    <string id="T6IJg6wq" text="Режим слідування камери на карті"/>
+    <string id="TbCbHxeF" text="Перемкнути вибір групи"/>
     <string id="tbGol5PT" text="F4"/>
     <string id="tbwhjsqS" text="Права кнопка миші"/>
     <string id="Tdf5AbRp" text="Відкрити екран клану."/>
     <string id="TEuOMadV" text="Tab"/>
     <string id="tewykKdc" text="Керування напрямком блоку"/>
-    <string id="tFZspabL" text="Switch to Previous Tab"/>
+    <string id="tFZspabL" text="Перейти на попередню вкладку"/>
     <string id="TgIAHPHs" text="Обрати наказ 4"/>
     <string id="tifiQGTa" text="Відкрити екран королівства."/>
     <string id="TIYrYxpr" text="Обрати групу 5"/>
     <string id="tkCbjgfx" text="Numpad -"/>
     <string id="TlpNyR2U" text="Низькорівневі"/>
-    <string id="tlR1jGNH" text="Toggle Pause Menu"/>
-    <string id="TOebahlA" text="Map Time Fast Forward"/>
+    <string id="tlR1jGNH" text="Увімкнути меню паузи"/>
+    <string id="TOebahlA" text="Прискорити час на карті"/>
     <string id="toHFqO2G" text="Обрати наказ 5."/>
     <string id="TRmaxjal" text="Вмикає вертикальну корекцію прицілювання в режимі від третьої особи."/>
     <string id="tsPjK1Ke" text="Увімкнено"/>
     <string id="ttCcMbwO" text="Стрілка вверх"/>
-    <string id="TtWjblNo" text="Toggle Show"/>
-    <string id="TUWeNFOv" text="Take Screenshot"/>
+    <string id="TtWjblNo" text="Переключити вид"/>
+    <string id="TUWeNFOv" text="Зробити знімок екрану"/>
     <string id="TvGJqPGp" text="Вмикає повідомлення про смерті та оглушення."/>
     <string id="tw5Wxv3b" text="Numpad ."/>
     <string id="TWbbfaUu" text="Перемістити камеру вправо на карті кампанії."/>
@@ -648,13 +648,13 @@
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
     <string id="UFHqkvah" text="Інтерактивна трава"/>
     <string id="uGEcLaqw" text="Нахилити камеру праворуч"/>
-    <string id="UItoMdHh" text="Cannot create config data. Not enough space."/>
+    <string id="UItoMdHh" text="Не вдалося створити дані налаштувань. Недостатньо місця."/>
     <string id="UixNc11t" text="Блокувати атаки за допомоги зброї або щита."/>
     <string id="ukw0Zi1X" text="["/>
     <string id="UNmUcizM" text="Обрати наказ 3"/>
     <string id="Uojm77jP" text="Якість освітлення"/>
     <string id="UoxjMhfJ" text="Обрати наказ 1"/>
-    <string id="UqB9zKfE" text="Equip Primary Weapon"/>
+    <string id="UqB9zKfE" text="Спорядити основну зброю"/>
     <string id="uQfDuGem" text="Віддалити від персонажа"/>
     <string id="urbLiiQJ" text="Налаштувати експозицію"/>
     <string id="uRXlSUVh" text="N"/>
@@ -662,7 +662,7 @@
     <string id="UTU6yVsp" text="Відновити плин часу на карті кампанії."/>
     <string id="uUHUfeQr" text="Обрати групу 6"/>
     <string id="UwJIMaRi" text="Якість шейдерів"/>
-    <string id="UwuYCgIU" text="Caution"/>
+    <string id="UwuYCgIU" text="Попередження"/>
     <string id="v2me5eP1" text="Ввімкнути/вимкнути затемнення країв (віньєтування)."/>
     <string id="V5ltCcw0" text="Велика (125)"/>
     <string id="v8GIxASM" text="V-Sync"/>
@@ -674,9 +674,9 @@
     <string id="VE9TavSl" text="Задає якість декалів."/>
     <string id="Vea6bRUO" text="Вмикає елементи інтерфейсу в центрі внизу, які будуть повідомляти про шкоду гравця (нанесену та отриману) і втрати."/>
     <string id="vJ41v8zh" text="Прозорість прапорів дружніх військ"/>
-    <string id="vJDxgaOZ" text="These modules' versions are different:"/>
+    <string id="vJDxgaOZ" text="Версії цих модулів відрізняються:"/>
     <string id="VklN5Wm6" text="Фоторежим"/>
-    <string id="VLxclitg" text="Enable Chat Log"/>
+    <string id="VLxclitg" text="Увімкнути журнал чату"/>
     <string id="vOanWRQi" text="Обрати наказ 1."/>
     <string id="vOVdr24b" text="Обрати наказ 4."/>
     <string id="vT3yIxmO" text="Numpad 4"/>
@@ -697,44 +697,44 @@
     <string id="wMe5p2HG" text="7"/>
     <string id="WMmGH9yp" text="Віддалити камеру на карті кампанії."/>
     <string id="WOubRnjm" text="Повідомлення про досвід"/>
-    <string id="WP4bYHK2" text="Polls"/>
+    <string id="WP4bYHK2" text="Голосування"/>
     <string id="WP6GEbYa" text="Не вимикати звуки гри, коли її вікно знаходиться не в фокусі."/>
     <string id="Wr2DX9Go" text="F23"/>
-    <string id="wubDWOlh" text="Select Profile"/>
-    <string id="WVpVmbzC" text="These modules are new in the game:"/>
+    <string id="wubDWOlh" text="Вибрати профіль"/>
+    <string id="WVpVmbzC" text="Ці модулі нові в грі:"/>
     <string id="wWDHH5FK" text="Глибина різкості"/>
     <string id="wygub2sh" text="F15"/>
-    <string id="wYicqUa9" text="Map Time Normal"/>
+    <string id="wYicqUa9" text="Звичайна швидкість часу"/>
     <string id="X1nFnomy" text="Середній (400)"/>
     <string id="X2CbgcZ9" text="За напрямком погляду"/>
     <string id="X5cSNxHf" text="5"/>
     <string id="x7kYOUfi" text="Гучність ефектів"/>
     <string id="x7qfk550" text="Q"/>
-    <string id="xboxBackButton" text="View Button"/>
-    <string id="xboxDpadDown" text="D-pad Down"/>
-    <string id="xboxDpadLeft" text="D-pad Left"/>
-    <string id="xboxDpadRight" text="D-pad Right"/>
-    <string id="xboxDpadUp" text="D-pad Up"/>
-    <string id="xboxLeftBumper" text="left bumper"/>
-    <string id="xboxLeftStick" text="Left Stick"/>
-    <string id="xboxLeftStickDown" text="Left Stick Down"/>
-    <string id="xboxLeftStickLeft" text="Left Stick Left"/>
-    <string id="xboxLeftStickRight" text="Left Stick Right"/>
-    <string id="xboxLeftStickUp" text="Left Stick Up"/>
-    <string id="xboxLeftTrigger" text="left trigger"/>
-    <string id="xboxRightBumper" text="right bumper"/>
-    <string id="xboxRightStick" text="Right Stick"/>
-    <string id="xboxRightStickDown" text="Right Stick Down"/>
-    <string id="xboxRightStickLeft" text="Right Stick Left"/>
-    <string id="xboxRightStickRight" text="Right Stick Right"/>
-    <string id="xboxRightStickUp" text="Right Stick Up"/>
-    <string id="xboxRightTrigger" text="right trigger"/>
-    <string id="xboxStartButton" text="Menu Button"/>
+    <string id="xboxBackButton" text="Кнопка «Перегляд»"/>
+    <string id="xboxDpadDown" text="D-pad вниз"/>
+    <string id="xboxDpadLeft" text="D-pad вліво"/>
+    <string id="xboxDpadRight" text="D-Pad вправо"/>
+    <string id="xboxDpadUp" text="D-Pad вверх"/>
+    <string id="xboxLeftBumper" text="лівий бампер"/>
+    <string id="xboxLeftStick" text="Лівий джойстик"/>
+    <string id="xboxLeftStickDown" text="Лівий джойстик вниз"/>
+    <string id="xboxLeftStickLeft" text="Лівий джойстик вліво"/>
+    <string id="xboxLeftStickRight" text="Лівий джойстик вправо"/>
+    <string id="xboxLeftStickUp" text="Лівий джойстик вверх"/>
+    <string id="xboxLeftTrigger" text="лівий тригер"/>
+    <string id="xboxRightBumper" text="правий бампер"/>
+    <string id="xboxRightStick" text="Правий джойстик"/>
+    <string id="xboxRightStickDown" text="Правий джойстик вниз"/>
+    <string id="xboxRightStickLeft" text="Правий джойстик вліво"/>
+    <string id="xboxRightStickRight" text="Правий джойстик вправо"/>
+    <string id="xboxRightStickUp" text="Правий джойстик вверх"/>
+    <string id="xboxRightTrigger" text="правий тригер"/>
+    <string id="xboxStartButton" text="Кнопка «Меню»"/>
     <string id="XCB1SGxZ" text="Запустити тест продуктивності"/>
     <string id="xEquRfRF" text="10"/>
     <string id="xikMYwty" text="DLSS: Ультрапродуктивність"/>
-    <string id="xJpOH8DU" text="Open Encyclopedia"/>
-    <string id="XldS0fkN" text="Change Camera Follow Mode"/>
+    <string id="xJpOH8DU" text="Відкрити енциклопедію"/>
+    <string id="XldS0fkN" text="Змінити режим слідування камери"/>
     <string id="xlxTJuJ9" text="Обрати всіх."/>
     <string id="xMoqTFkZ" text="За зворотним напрямком погляду"/>
     <string id="XnhBdHnS" text="Об'ємний звук"/>
@@ -746,17 +746,17 @@
     <string id="xZ84ujuu" text="Задає максимальну кількість звуків, яка може відтворюватись одночасно. Чим нижчі значення, тим менше навантаження на процесор, але вищі значення додаватимуть грі атмосферності."/>
     <string id="y5FGfFdf" text="F17"/>
     <string id="y7dx24ih" text="Повертати камеру слідом за зміною напрямку руху коня в режимі від першої особи."/>
-    <string id="Y94H6XnK" text="Accept"/>
+    <string id="Y94H6XnK" text="Прийняти"/>
     <string id="YAHs7wBa" text="Обрати наказ 8"/>
     <string id="YDccwh2x" text="Загальна гучність"/>
     <string id="yDr2HCFR" text="Перемикнутися в режим 360-градусного огляду вашого персонажа."/>
     <string id="yfMN8wWN" text="Анізотропна 4Х"/>
     <string id="Yg2jHH1M" text="Numpad /"/>
-    <string id="YirOUaIV" text="Decrease Camera Focus."/>
+    <string id="YirOUaIV" text="Зменшення фокусування камери."/>
     <string id="yLCSTuBw" text="Задає роздільну здатність гри. Вища роздільна здатність вимагає потужнішої відеокарти."/>
     <string id="Yn8bh0qT" text="Спорядити наступний щит"/>
     <string id="yruQv3th" text="3 хвилі"/>
-    <string id="YT6ljA5V" text="Map Move Forward"/>
+    <string id="YT6ljA5V" text="Переміститись вперед по карті"/>
     <string id="YTXLLaEN" text="Високорівневі"/>
     <string id="yV64UCaW" text="Наблизити"/>
     <string id="YZv1752W" text="D"/>
@@ -770,11 +770,11 @@
     <string id="Zgs47DHB" text="Caps Lock"/>
     <string id="ZIKuUbUG" text="Задає максимальну кількість одночасних ragdoll-симуляцій."/>
     <string id="ZKg3DqbQ" text="Визначає прозорість прапорів, які показуються над дружніми військами."/>
-    <string id="ZlcrmFvl" text="Switch to Next Tab"/>
+    <string id="ZlcrmFvl" text="Перейти на наступну вкладку"/>
     <string id="znSZmZvV" text="Переміститись вправо по карті"/>
     <string id="Zo2ngsUk" text="Генератор обличчя"/>
-    <string id="ZoDugJHP" text="Select Previous Group"/>
-    <string id="zofULNb8" text="Equip Secondary Weapon"/>
+    <string id="ZoDugJHP" text="Вибрати попередню групу"/>
+    <string id="zofULNb8" text="Спорядити вторинну зброю"/>
     <string id="ZOUxmamu" text="Задає чутливість при переміщенні курсора і керування камерою."/>
     <string id="ZP1tLaa1" text="Numpad 9"/>
     <string id="ZtDJrNz9" text="Зернистість"/>
@@ -783,14 +783,14 @@
     <string id="ZUGXXsGj" text="Кількість хвиль підкріплення"/>
     <string id="zUXxshZK" text="F12"/>
     <string id="zvD48rVQ" text="Швидке збереження"/>
-    <string id="ZvjfAm7H" text="Cannot create save data. Not enough space."/>
-    <string id="ZVLr4CMO" text="X1 Mouse Button"/>
+    <string id="ZvjfAm7H" text="Не вдалося створити дані для збереження. Недостатньо місця."/>
+    <string id="ZVLr4CMO" text="Кнопка миші Х1"/>
     <string id="ZvtKqPt3" text="Подвійне натискання даної клавіші: різкий поворот вліво."/>
     <string id="zwL5NFAr" text="Insert"/>
     <string id="ZX8TLWzd" text="DLSS для цієї системи недоступний."/>
     <string id="zxMOqlhs" text="Атакувати"/>
     <string id="zXUB15lX" text="Цільовий FPS динамічної роздільної здатності"/>
-    <string id="zyR3jbj2" text="Faster Camera"/>
+    <string id="zyR3jbj2" text="Пришвидшена камера"/>
     <string id="zzonsjpL" text="Велика (512)"/>
   </strings>
 </base>
