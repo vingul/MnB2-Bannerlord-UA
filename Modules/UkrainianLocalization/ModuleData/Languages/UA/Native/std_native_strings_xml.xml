@@ -13,7 +13,7 @@
     <string id="0HTNYQz2" text="Toggle"/>
     <string id="0P89VyAQ" text="Асиметрія обличчя"/>
     <string id="0WHQKap4" text="Equipment Selection Time Limit (seconds)"/>
-    <string id="0xJ3qIlJ" text="Jaw Line"/>
+    <string id="0xJ3qIlJ" text="Ширина щелепи"/>
     <string id="180DfbQU" text="Proving Grounds"/>
     <string id="1fFnE9Vk" text="Europe"/>
     <string id="1GFrsDRm" text="Poll Accept Threshold"/>
@@ -27,9 +27,9 @@
     <string id="22MOa4Fc" text="Зовнішня висота очей"/>
     <string id="23INS6nf" text="Password Required"/>
     <string id="26SJhCRD" text="Replace With"/>
-    <string id="2blpQ3OQ" text="Markings"/>
+    <string id="2blpQ3OQ" text="Відмітки на обличчі"/>
     <string id="2d0H47C8" text="Відстань між очима"/>
-    <string id="2G3QpSDk" text="Lips concave/convex"/>
+    <string id="2G3QpSDk" text="Повнота губ"/>
     <string id="2QzgefNF" text="Повнота обличчя"/>
     <string id="2Rf2ChRD" text="Глибина брів"/>
     <string id="2uynGJbP" text="Transfering Troops"/>
@@ -38,7 +38,7 @@
     <string id="3aX5gXmJ" text="Колір шкіри"/>
     <string id="3EbTklMi" text="You earned a new badge: {BADGE_NAME}."/>
     <string id="3Kkya96j" text="Leg"/>
-    <string id="3kqFHkZz" text="Lip Thickness"/>
+    <string id="3kqFHkZz" text="Товщина губ"/>
     <string id="3syV6ymi" text="Blunt"/>
     <string id="3ydKbDmI" text="{PLAY_TIME} minutes"/>
     <string id="3ZzxddkE" text="Game Password"/>
@@ -57,7 +57,7 @@
     <string id="52YN6m2B" text="Delivered braced polearm damage!"/>
     <string id="5IR8g3YL" text="Captain Statistics"/>
     <string id="5LpufKs7" text="Follow Me"/>
-    <string id="5mSKBidd" text="Nose Shape"/>
+    <string id="5mSKBidd" text="Форма носа"/>
     <string id="5odwu8qB" text="Ranked"/>
     <string id="5rj7xQE4" text="Bow"/>
     <string id="5tbWdY1j" text="Avatar"/>
@@ -70,7 +70,7 @@
     <string id="6yZnboe6" text="Розмір очниць"/>
     <string id="74tYdiOb" text="Select your troops wisely according to your team's needs. Troop counts are determined by troop strength."/>
     <string id="77arWi0m" text="Внутрішня висота очей"/>
-    <string id="7BlOJvyo" text="Mouth Width"/>
+    <string id="7BlOJvyo" text="Ширина рота"/>
     <string id="7lvexPjZ" text="Plain"/>
     <string id="7MkoLtWC" text="Axe"/>
     <string id="7nLM1z2V" text="Minimum Score To Win Duel"/>
@@ -105,10 +105,10 @@
     <string id="Ayrvf5yp" text="Kill"/>
     <string id="aZVxHbwH" text="Killed by {TROOP_NAME}"/>
     <string id="b0L0jbIa" text="Положення очей"/>
-    <string id="b74zosgq" text="Nose Size"/>
+    <string id="b74zosgq" text="Розмір носа"/>
     <string id="bAPQFzcW" text="Projectile Damage"/>
     <string id="BBKp1Ajq" text="Enable Mission Recording"/>
-    <string id="bbYwqrvo" text="Jaw Shape"/>
+    <string id="bbYwqrvo" text="Форма щелепи"/>
     <string id="bdljU1ig" text="Team Deathmatch Statistics"/>
     <string id="BFWD0pCE" text="Friendly Fire Ranged Damage Friend"/>
     <string id="bgwo3QpS" text="Offensive Content"/>
@@ -117,7 +117,7 @@
     <string id="bjJkW9dO" text="View Profile"/>
     <string id="BJMPBcDn" text="Second Assist"/>
     <string id="bkysJj7F" text="Siege Weapon"/>
-    <string id="BMPrnHpK" text="Nostril Size"/>
+    <string id="BMPrnHpK" text="Розмір ніздрів"/>
     <string id="bnfUdx3O" text="Висота центру"/>
     <string id="BQzP1ivS" text="Пропорції обличчя"/>
     <string id="BrjpmaJH" text="Games Lost"/>
@@ -145,10 +145,10 @@
     <string id="cPbHqGrI" text="Kick Player"/>
     <string id="cSui4APH" text="Objective Destroyed"/>
     <string id="d1ogH1v1" text="Tsagaan Castle"/>
-    <string id="d3RJm2zW" text="Jaw Height"/>
+    <string id="d3RJm2zW" text="Висота щелепи"/>
     <string id="DHlVSaZW" text="Relative movement speed: {SPEED} m/s"/>
     <string id="DKqLY1aJ" text="Equip"/>
-    <string id="dojUqbv8" text="Nose Length"/>
+    <string id="dojUqbv8" text="Довжина носа"/>
     <string id="dRlTmdKR" text="System"/>
     <string id="DU9SofaW" text="Cut"/>
     <string id="dxlkHhw5" text="Games Won"/>
@@ -174,17 +174,17 @@
     <string id="FFNJTsDL" text="Kick a player"/>
     <string id="fGFMqlGz" text="Стать"/>
     <string id="FgJpTBp1" text="Friendly Fire Ranged Damage Self"/>
-    <string id="fjD2tRXW" text="Chin Forward"/>
+    <string id="fjD2tRXW" text="Глибина підборіддя"/>
     <string id="fJHsYtKu" text="Echerion"/>
     <string id="fJqJiJvl" text="Use Realistic Blocking"/>
-    <string id="fnJQO5Os" text="Nose Tip Height"/>
+    <string id="fnJQO5Os" text="Висота кінчика носа"/>
     <string id="FoSTFipC" text="{PLAYER_NAME} is now un-muted."/>
-    <string id="FzJnNNam" text="Nose Asymmetry"/>
+    <string id="FzJnNNam" text="Асиметрія носа"/>
     <string id="G1HobbjU" text="Captain Battle"/>
     <string id="g6cHDWJF" text="Head"/>
     <string id="GaF4CvmX" text="Різкість рис обличчя"/>
     <string id="GcosVDAt" text="Assist Count"/>
-    <string id="GnKCsV44" text="Chin Length"/>
+    <string id="GnKCsV44" text="Висота підборіддя"/>
     <string id="GoEo27il" text="Attackers Respawn Period"/>
     <string id="goodConnection" text="Good"/>
     <string id="gQLDkSrf" text="This option is disabled due to an ongoing conversation."/>
@@ -194,7 +194,7 @@
     <string id="GY4NaieE" text="Pure"/>
     <string id="GYc0Dcbn" text="North America East"/>
     <string id="H4PrQzvN" text="This option is disabled due to unfinished education of a clan member."/>
-    <string id="h5OsTOFM" text="Lips Concave/Convex"/>
+    <string id="h5OsTOFM" text="Повнота губ"/>
     <string id="H7YWqwq6" text="Round Start Spawning Duration"/>
     <string id="HgpdpYuK" text="Тіло"/>
     <string id="HjqcmY6X" text="Ban"/>
@@ -209,7 +209,7 @@
     <string id="ig0lsiwY" text="Soldiers"/>
     <string id="iJXH3841" text="Loose"/>
     <string id="IKn1YxU2" text="Gold Gain Percentage Attackers"/>
-    <string id="ImWyFyld" text="Mouth Position"/>
+    <string id="ImWyFyld" text="Положення рота"/>
     <string id="irGCyJaY" text="Kill Count"/>
     <string id="ItmPmlWH" text="·   Buy one spawn using gold{newline}·   Hold control points on the map to deplete enemy morale{newline}·   Kill the entire enemy team or exhaust their morale to win"/>
     <string id="jaaQijQs" text="Age"/>
@@ -240,7 +240,7 @@
     <string id="L0lGQWt5" text="Number Of Bots Team 2"/>
     <string id="L3tY2kTE" text="Friendly fire!"/>
     <string id="L9xEQ5b2" text="Select Item to Replace"/>
-    <string id="LaaA8U4W" text="Nose Angle"/>
+    <string id="LaaA8U4W" text="Вигнутість носа"/>
     <string id="laIfauZH" text="Eyebump"/>
     <string id="lauXoy6d" text="Number Of Bots Per Formation"/>
     <string id="lclQSt39" text="Round Time Limit (seconds)"/>
@@ -285,7 +285,7 @@
     <string id="Oud3W58w" text="Hold {KEY} {ACTION}"/>
     <string id="OVcoYxj1" text="Server Name"/>
     <string id="ox8XcxfR" text="Форма вух"/>
-    <string id="OZHFucP5" text="Frown/Smile"/>
+    <string id="OZHFucP5" text="Похмурість/Посмішка"/>
     <string id="pa4yXyDa" text="{PLAYER_COUNT} vs {PLAYER_COUNT}"/>
     <string id="pagmdsCK" text="Висота повік"/>
     <string id="PbLuHcJg" text="Absorbed damage: {ABSORBED_DAMAGE}"/>
@@ -301,7 +301,7 @@
     <string id="pnUSAxzf" text="Add Official Game Server List"/>
     <string id="poiKV9sJ" text="Affirmative!"/>
     <string id="poorConnection" text="Poor"/>
-    <string id="pQibMlbA" text="Nose Bump"/>
+    <string id="pQibMlbA" text="Горбинка носа"/>
     <string id="psynaDsM" text="Facing"/>
     <string id="PuX1G0h3" text="Riding Skill Not Adequate To Mount"/>
     <string id="PY6VznGu" text="Ширина обличчя"/>
@@ -321,7 +321,7 @@
     <string id="R3BwLVmT" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage."/>
     <string id="R4Gqskgq" text="Victory"/>
     <string id="R9DiQfax" text="Battle"/>
-    <string id="rbYITcao" text="Mouth"/>
+    <string id="rbYITcao" text="Рот"/>
     <string id="rbz1Bwbv" text="Inventory"/>
     <string id="RDsOaEtS" text="Extra damage from skills, perks and effects: {MODIFIED_DAMAGE}"/>
     <string id="Ri6KKhfy" text="Zendyar"/>
@@ -334,7 +334,7 @@
     <string id="Sbna6UGb" text="Kid Face"/>
     <string id="sBU9vyF1" text="Head shot!"/>
     <string id="scoreboardkick" text="Kick"/>
-    <string id="SdxEH6b1" text="Bottom Lip Shape"/>
+    <string id="SdxEH6b1" text="Форма нижньої губи"/>
     <string id="siegemultiplayergametype" text="Siege"/>
     <string id="sisK3HPI" text="You are muted."/>
     <string id="SN2ojCFr" text="Full Skin"/>
@@ -366,17 +366,17 @@
     <string id="tqESV37j" text="Defend!"/>
     <string id="TSoS5HJZ" text="Skolder Hideout"/>
     <string id="TTWL7RLe" text="Crossbow"/>
-    <string id="TuAP5xXV" text="Nostril Height"/>
+    <string id="TuAP5xXV" text="Висота ніздрів"/>
     <string id="tUETZiIp" text="Helmet"/>
     <string id="tvDuF1vU" text="Siege Tower Speed (percentage)"/>
     <string id="tvHQcaC1" text="Висота вилиць"/>
     <string id="tYuSNFuD" text="Badges"/>
     <string id="U1em3vrJ" text="Shoulder"/>
     <string id="U3LxBtL0" text="Enter password"/>
-    <string id="U4xlUBHg" text="Nose Width"/>
+    <string id="U4xlUBHg" text="Ширина носа"/>
     <string id="U6h8eatq" text="Team Deathmatch"/>
     <string id="u8j8nN5U" text="Face Enemy"/>
-    <string id="UbMCCh8L" text="Nose Bridge"/>
+    <string id="UbMCCh8L" text="Перенісся"/>
     <string id="uCrIJ8D4" text="Sharis"/>
     <string id="uCyQNvq1" text="Skein"/>
     <string id="UEmw71kN" text="{REQUESTER} sent you a friend request."/>
@@ -400,11 +400,11 @@
     <string id="vkEzdL3k" text="Change game type or scene"/>
     <string id="vLjgcdgB" text="Snow"/>
     <string id="vM7CssWE" text="Ruins of Jawwali"/>
-    <string id="vo5NpcUS" text="Top Lip Shape"/>
+    <string id="vo5NpcUS" text="Форма верхньої губи"/>
     <string id="vqao3Z2N" text="Battering Ram Speed (percentage)"/>
     <string id="VRdy76RQ" text="Skirmish"/>
     <string id="VwyBNTs3" text="Обличчя"/>
-    <string id="W1nzgCTY" text="Mouth Forward"/>
+    <string id="W1nzgCTY" text="Глибина рота"/>
     <string id="W3OXv9Tx" text="Force Minimum Armor"/>
     <string id="W73My5KO" text="Death"/>
     <string id="w9Jf0FeQ" text="Lock To Any Agent"/>
@@ -412,7 +412,7 @@
     <string id="wBn6eVGS" text="Shallow River"/>
     <string id="WfwkVjTA" text="Work alongside your teammates in this fast-paced, tactical PvP game mode. Manage your gold wisely to buy classes and respawns while attempting to break the enemy team's morale or destroy their forces completely."/>
     <string id="WhUoF9Mw" text="Fallback"/>
-    <string id="wIgbfqQR" text="Hair"/>
+    <string id="wIgbfqQR" text="Волосся"/>
     <string id="wk4bgkCt" text="Dismount"/>
     <string id="Wl5xazIU" text="Extend/Shrink Map Bar"/>
     <string id="WlVa7XwJ" text="Received {DAMAGE} fall damage."/>
@@ -435,7 +435,7 @@
     <string id="xuo8gmaL" text="·   Buy respawns using gold{newline}·   Earn gold by killing enemies and assisting teammates{newline}·   Outkill the enemy team to win the game"/>
     <string id="xXQN7Go6" text="Розріз очей"/>
     <string id="ycCmfxhJ" text="Fifth Kill"/>
-    <string id="yClOSxT8" text="Nose Definition"/>
+    <string id="yClOSxT8" text="Рельєф носа"/>
     <string id="yekjRMT1" text="Duel Statistics"/>
     <string id="yfa7tpbK" text="All"/>
     <string id="YhDDXj0I" text="Canyon"/>
@@ -451,7 +451,7 @@
     <string id="YtSQB7rg" text="Choose your desired class at the start of the round and for the further respawns by using gold."/>
     <string id="Yvjap05b" text="Movement Speed"/>
     <string id="YvK6gI6q" text="Town Outskirts"/>
-    <string id="yyJejJbO" text="Chin Shape"/>
+    <string id="yyJejJbO" text="Форма підборіддя"/>
     <string id="Z27nSqNt" text="Help!"/>
     <string id="zatDiaEI" text="Delegate Command On"/>
     <string id="Zc2f5bhh" text="Kill all enemies or deplete the enemy team's morale or have the most morale when the round time expires."/>
