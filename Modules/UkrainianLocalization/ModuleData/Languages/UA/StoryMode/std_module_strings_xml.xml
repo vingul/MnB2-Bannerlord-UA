@@ -170,7 +170,7 @@
     <string id="xj0MgUO0" text="Crime"/>
     <string id="xORASoex" text="You can click on &quot;+&quot; button to add 10 cohesion. Be aware that boosting it costs some influence."/>
     <string id="Xr50xGhr" text=" ({TIME_SCORE} seconds)"/>
-    <string id="yCEMiKjB" text="Choose your {SELECTION}"/>
+    <string id="yCEMiKjB" text="Виберіть: {SELECTION}"/>
     <string id="yF9agd1M" text="Fog of War"/>
     <string id="yhTaDeLf" text="You can create new formations to divide your troops into smaller groups to have finer control. You can also determine what percentage of the selected troop type should start the battle in these formations by manipulating the sliders inside the formation cards.{newline}{newline}Try creating a new formation by selecting its type and adjust a formation's troop weight."/>
     <string id="yrlPHYpa" text="Choosing Perk Upgrades"/>
