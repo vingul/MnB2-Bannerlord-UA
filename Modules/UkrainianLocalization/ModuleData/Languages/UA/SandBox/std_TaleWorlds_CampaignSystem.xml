@@ -859,7 +859,7 @@
     <string id="AdkSktd2" text="You have to send {NUMBER} {?MOUNTED}cavalry {?}{\?}troops to this quest."/>
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} asks you to scout {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}."/>
     <string id="aDQcIGfH" text="High Morale"/>
-    <string id="AeBzTj6w" text="Healers"/>
+    <string id="AeBzTj6w" text="Цілителів"/>
     <string id="aeceOwWb" text="{VALUE}% shared experience for cavalry troops."/>
     <string id="aeK3ykbL" text="{VALUE}% track detection chance."/>
     <string id="aeKdXKnO" text="{ISSUE_GIVER.LINK}, an artisan from {SETTLEMENT}, has told you that a local merchant {COUNTER_OFFER.LINK} is asking ridiculous amounts of money for raw materials which {?ISSUE_GIVER.GENDER}she{?}he{\?} needs to continue {?ISSUE_GIVER.GENDER}her{?}his{\?} work. {?ISSUE_GIVER.GENDER}She{?}He{\?} is willing to pay {REWARD_AMOUNT}{GOLD_ICON} for help obtaining the needed goods.{newline}You asked {COMPANION.LINK} to stay with {?ISSUE_GIVER.GENDER}her{?}him{\?} and try to solve {?ISSUE_GIVER.GENDER}her{?}his{\?} problems. You expect {COMPANION.LINK} to report back to you in {RETURN_DAYS} days."/>
@@ -1942,7 +1942,7 @@
     <string id="GEBRuVcZ" text="Why change sides now? Once one declares oneself a rebel, there is usually no going back."/>
     <string id="gEHEQazX" text="You're heavily wounded and not fit for the fight. Come back when you're ready."/>
     <string id="GeJobcre" text="Sinor"/>
-    <string id="GeNKQlHR" text="Members of the chieftain's hearthguard"/>
+    <string id="GeNKQlHR" text="Особистих охоронців вождя"/>
     <string id="GeoTk5b9" text="Your captors engage in a battle and they lost, you are released after battle."/>
     <string id="GEYzLuwb" text="your way with people."/>
     <string id="gfmU4wiM" text="A {?INQUIRY_COMPANION.GENDER}woman{?}man{\?} named {INQUIRY_COMPANION.LINK} is staying at my tavern. You may want to talk with him."/>
@@ -2343,7 +2343,7 @@
     <string id="J4yakjtP" text="Splendid. You have served me well. Take your well-earned reward."/>
     <string id="j5fS9zaa" text="Yes, there is something. I have been on campaign for much of this year, and I have not been able to go around to my estates collecting the rents that are owed to me and the taxes that are owed to the realm. I need some help collecting these revenues."/>
     <string id="j5OqFCa6" text="After painful days of being dragged about as a prisoner, suddenly one of your captors comes near you with an offer; he proposes to free you in return for {MONEY_AMOUNT}{GOLD_ICON} of your hidden wealth. You decide to..."/>
-    <string id="j6py5Rv5" text="Your parents were healers who gathered herbs and treated the sick. As a living reservoir of Battanian tradition, they were also asked to adjudicate many disputes between the clans."/>
+    <string id="j6py5Rv5" text="Ваші батьки були цілителями, збирали трави та лікували хворих. За старою баттанською традицією на їх плечі також лягало вирішення численних суперечок між кланами."/>
     <string id="j7bZRFxc" text="Return to {SETTLEMENT}."/>
     <string id="j7inOz04" text="{VALUE}% recruitment cost of tier 2+ troops."/>
     <string id="J7JaXZm8" text="{VALUE}% effect from forums, marketplaces, arenas, temples and festivals"/>
@@ -4535,7 +4535,7 @@
     <string id="XgA2JgVR" text="You are brought to the town square to face judgment."/>
     <string id="XGa8MkbJ" text="{QUEST_GIVER.NAME} has marked the hideout on your map"/>
     <string id="XGcST2dB" text="Vote to disavow {POLICY_NAME}"/>
-    <string id="XgFU1pCx" text="You were born into a family of..."/>
+    <string id="XgFU1pCx" text="Ви народилися в сім'ї..."/>
     <string id="xgO3cCgR" text="Overburdened"/>
     <string id="xgPNGOa8" text="Перебуваючи в армії, отримуєте на 25% більше впливу."/>
     <string id="XGuDyJMZ" text="{KINGDOM_NAME} will decide who will bear the crown as the next ruler. You can pick your stance regarding this decision."/>
