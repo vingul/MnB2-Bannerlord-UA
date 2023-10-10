@@ -275,7 +275,7 @@
     <string id="3FzBTb3w" text="Thank you for this information. It was {COMPANION_INQUIRY_COST} denars well spent."/>
     <string id="3gbgjJfZ" text="Candidly, what do you think of your liege, {FIRST_NAME}?"/>
     <string id="3GHIb7YX" text="We Pledge our Swords"/>
-    <string id="3GsZXXOi" text="10% production bonus to villages that are bound to castles."/>
+    <string id="3GsZXXOi" text="+10% до виробництва в селах, пов'язаних із замками."/>
     <string id="3hffzsoK" text="Imposing Stature"/>
     <string id="3hFT34l1" text="{?PLAYER_CHILD}Your{?}The{\?} child helps out the local physician, binding and cleaning wounds and, when the master is absent, prescribing remedies."/>
     <string id="3hzSmrMw" text="Great Leader"/>
@@ -1330,7 +1330,7 @@
     <string id="ciCQnAj6" text="{VALUE}% damage againts shields by troops in your formation."/>
     <string id="ciELES5v" text="Swift Strike"/>
     <string id="CITG915d" text="joined a commander's staff."/>
-    <string id="CJ5pLHaL" text="Recruiting and upgrading infantry troops are 25% cheaper."/>
+    <string id="CJ5pLHaL" text="Вартість найму та підвищення піших воїнів на 25% менша."/>
     <string id="CJB5HCsI" text="{VALUE}% wages in your party."/>
     <string id="cJEbenVQ" text="{VALUE}% throwing weapon damage to cavalry by troops in your formation."/>
     <string id="CjLuIEgh" text="{VALUE} experience per day to each troop in garrison in the governed settlement."/>
@@ -3093,7 +3093,7 @@
     <string id="NZynd8vT" text="&quot;This weapon is worthless. I'm not giving you a dime!&quot;"/>
     <string id="o0qwDa0q" text="Your relation increased by {RELATION_VALUE} with nearby notables."/>
     <string id="o1pZHZOF" text="{ATTACK_TEXT}!"/>
-    <string id="O1XCNeZr" text="Recruiting lords to armies costs 20% more influence."/>
+    <string id="O1XCNeZr" text="Для найняття лорда у свою армію необхідно на 20% більше впливу."/>
     <string id="o27lTMD4" text="Some villagers tried to resist. In the brawl, {WOUNDED_NUMBER} of your men got wounded."/>
     <string id="O3sh2iws" text="{VALUE}% food consumption in the governed settlement while under siege."/>
     <string id="O4cknzhW" text="Irrigation"/>
@@ -3313,7 +3313,7 @@
     <string id="POp8DAZD" text="{VALUE} prisoner limit."/>
     <string id="Pp3koSqA" text="This time you'll have to fight for it!"/>
     <string id="PP8VeNiC" text="I swear that you are my {?LORD.GENDER}khatun{?}khan{\?}, my {?LORD.GENDER}mother{?}father{\?}, my protector..."/>
-    <string id="ppdrgOL8" text="5% more renown from the battles, 15% more income while serving as a mercenary."/>
+    <string id="ppdrgOL8" text="+5% до слави за битви, +15% до доходу під час служби найманцем."/>
     <string id="ppi6eVos" text="As you wish."/>
     <string id="ppO0hoT6" text="I'll deliver {GRAIN_AMOUNT} sacks of grain as soon as possible {?QUEST_GIVER.GENDER}lady{?}sir{\?}, and try to find some livestock and wine as you requested."/>
     <string id="PpuRM82X" text="The sword is the weapon of the noble warrior. It is useful both in the battlefield and in court, where it symbolizes a wearer's willingness to fight to protect {?CHILD.GENDER}her{?}his{\?} honor."/>
@@ -3449,7 +3449,7 @@
     <string id="qI4cicQz" text="It is a disgrace to keep paying tribute to the  {ENEMY_KINGDOM_INFORMAL_NAME}."/>
     <string id="qIAgh9VL" text="Not Married"/>
     <string id="QIDr1cTd" text="{VALUE}% fall damage taken and +100% kick damage dealt."/>
-    <string id="QiHaWd75" text="Armies lose 20% less daily cohesion."/>
+    <string id="QiHaWd75" text="Армії втрачають на 20% менше щоденної згуртованості."/>
     <string id="qItLTWR2" text="{VALUE}% recruitment rate of tier 4+ prisoners."/>
     <string id="qiTtJyHE" text="Gala"/>
     <string id="QiZfTNWJ" text="{VALUE}% damage bonus from speed while on foot."/>
