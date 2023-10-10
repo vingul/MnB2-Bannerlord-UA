@@ -396,7 +396,7 @@
     <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Days{?}Day{\?}"/>
     <string id="b1Ra7gHa" text="Ranged Weapons II"/>
     <string id="b1vtY2yU" text="Expected"/>
-    <string id="b4lDDcli" text="Family"/>
+    <string id="b4lDDcli" text="{.FI}Сім'я"/>
     <string id="b5DWVsOZ" text="{HERO.NAME} has died in battle."/>
     <string id="B5J6DbpG" text="Remaining Days With Food: {REMAINING_DAYS}{newline}{newline}Total Food: {TOTAL_FOOD_AMOUNT}{newline}Daily Consumption: {DAILY_FOOD_CONSUMPTION}"/>
     <string id="b5t34yLX" text="Horse Harness"/>
@@ -1824,7 +1824,7 @@
     <string id="YbB2IpTR" text="Your relation is decreased by {MAGNITUDE} to {VALUE} with {HERO.NAME}."/>
     <string id="yBnwGiuB" text="Lord"/>
     <string id="Yc4xzip6" text="Do you want to execute {NAME}?"/>
-    <string id="yCEMiKjB" text="Choose your {SELECTION}"/>
+    <string id="yCEMiKjB" text="Виберіть: {SELECTION}"/>
     <string id="YCYwPPlJ" text="Disable All Tutorials"/>
     <string id="YDYnuBmC" text="Multiplayer"/>
     <string id="YeaFZzXS" text="On {DAY_OF_YEAR}, {YEAR}, {LEADER_NAME} declared the creation of a new realm, the {KINGDOM_NAME}."/>
