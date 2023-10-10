@@ -259,7 +259,7 @@
     <string id="8fLMcFFG" text="On {DAY_OF_YEAR}, {YEAR}, you unfurled the dragon banner and proclaimed your mission to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
     <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: "/>
     <string id="8Gh3Waa3" text="wife"/>
-    <string id="8HMyTKF6" text="{.FI}Вландія"/>
+    <string id="8HMyTKF6" text="Вландійці"/>
     <string id="8iONwXCz" text="twenty-second"/>
     <string id="8J7ABQhb" text="Noble Mount"/>
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} cohesion)"/>
@@ -375,7 +375,7 @@
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines."/>
     <string id="aS3xHcD4" text="Son"/>
     <string id="aseraifaction" text="{.MI}Султанат{.nn} асераїв"/>
-    <string id="aseraimembers" text="{.MI}Султанат{.nn} асераїв"/>
+    <string id="aseraimembers" text="Асераїв"/>
     <string id="asHzEWnG" text="We shall stain the sands with your blood, then."/>
     <string id="AT5aTROe" text="seventh"/>
     <string id="ATsEQh7m" text="{SEASON} {?SEASON_IS_PLURAL}seasons{?}season{\?}"/>
@@ -433,7 +433,7 @@
     <string id="bg6x6Hbv" text="Helm"/>
     <string id="Bg83jhCR" text="The town is clearly going through hard times. People look malnourished and buildings are poorly maintained."/>
     <string id="bg8co4he" text="Slaughter{newline}You will not be able to undo this action."/>
-    <string id="bgjiFSHZ" text="{.FI}Баттанія"/>
+    <string id="bgjiFSHZ" text="Баттанці"/>
     <string id="bGyrPe8c" text="Production"/>
     <string id="bh2v8n4K" text="Garment{@Plural}loads of garment{\@}"/>
     <string id="bh9U2fsZ" text="Son-in-law"/>
@@ -490,13 +490,13 @@
     <string id="bZJs2AQX" text="Here's our money: {MONEY}{GOLD_ICON}. And here's our wares: {ITEM_LIST}. Just take them and let us live, {?PLAYER.GENDER}madam{?}sir{\?}."/>
     <string id="bzrOHiS8" text="People openly curse the authorities, as though they feel they have nothing to lose."/>
     <string id="C0llOApK" text="{HERO}{.o} Army"/>
-    <string id="c1Ag8YJS" text="The Battanians still remember the olden days when the woods stretched across northern Calradia, and the Empire and its cities had yet to violate their sanctity. The fierce warriors remain loyal to their traditional ways. They paint their faces when going to battle and even their noblemen prefer to fight on foot while using great axes and two-handed swords with deadly efficiency."/>
+    <string id="c1Ag8YJS" text="Баттанці ще пам'ятають ті часи, коли вся північна Кальрадія була вкрита лісами, а Імперія з її містами ще не порушила їхню первозданну красу. Ці грізні воїни зберігають вірність своїм традиціям. Вони розфарбовують обличчя, коли йдуть на війну, і навіть їхні вельможі воліють битися пішим строєм, використовують величезні сокири і смертоносні дворучні мечі."/>
     <string id="c1g7MC9D" text="Clan Tier Bonus"/>
     <string id="c2pdihCB" text="Caravans"/>
     <string id="c3cdHImi" text="Capture your opponent's pawns by surrounding them on both sides. If a pawn moves in between two opposing pawns, it does not get captured.{newline}In the first two images, white pawns get captured by the black pawns. In the last two, there are no captures."/>
     <string id="C4n1rgBC" text="Seega"/>
     <string id="c4Pmtkle" text="Mounts&amp;Saddles"/>
-    <string id="C4qjBqLO" text="{.FI}Стургія"/>
+    <string id="C4qjBqLO" text="Стургійці"/>
     <string id="c6Ei8Fqh" text="Vassal of {FACTION}"/>
     <string id="C6n2tZlQ" text="my ally {REFERING_HERO.LINK}"/>
     <string id="c7bVbjD7" text="As you wish. From now on, we fight for you."/>
@@ -838,7 +838,7 @@
     <string id="hJypvWMR" text="Refine"/>
     <string id="HkfY3Ds5" text="Body Armor"/>
     <string id="HKrCB1Pa" text="Can Crush Through"/>
-    <string id="HkZ4E94O" text="The Khuzait confederation of steppe tribes used to live a nomadic life, but have recently settled in the eastern frontier of the Empire and are slowly transitioning into an agrarian society with permanent town centers. Despite this, they still retain many aspects of their nomadic life, including their affinity with horses. They are masters of mounted archery, shooting and then galloping out of reach."/>
+    <string id="HkZ4E94O" text="Степові племена хузаїтської конфедерації раніше вели кочовий спосіб життя, але нещодавно вони осіли на східному кордоні Імперії і повільно перетворюються на землеробів, згуртовуючись навколо міст. Незважаючи на це, вони все ще дотримуються деяких звичаїв колишнього кочового життя. Зокрема проявляють традиційну спритність у поводженні з кіньми. Їхні кінні лучники прекрасно навчені тактиці набігів на армію супротивника."/>
     <string id="hL3JIQbd" text="Lead this formation to battle."/>
     <string id="Hlusn1gG" text="Clan name has invalid characters."/>
     <string id="HmbvM9Na" text="Do you want to skip current match?"/>
@@ -904,7 +904,7 @@
     <string id="iKzyJHiD" text="Sorry, I don't know of any good trading tips at present."/>
     <string id="iLcfZ71B" text="Persuasion"/>
     <string id="iLD5Lkto" text="Fire Onager"/>
-    <string id="iLEhyGI8" text="The Calradian Empire is in decline. Even before the suspicious death of the Emperor Arenicos, the once united realm was torn by political rivalries. Today, those factions are in open war. Yet Calradians endure. Their methodical study of defensive strategy, in which garrison cities slow down invading forces until mobile field armies can come to their rescue, helps hold their neighbors at bay."/>
+    <string id="iLEhyGI8" text="Кальрадійська імперія занепадає. Навіть ще до підозрілої смерті імператора Ареніка цю колись єдину державу вже розривала політична ворожнеча. Сьогодні багато фракцій ведуть відкриту війну. Проте Кальрадія жива. Імперські полководці - визнані майстри оборони, і це дає змогу гарнізонам міст стримувати ворога біля стін, допоки не прибудуть основні сили і не відженуть знахабнілих сусідів."/>
     <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing on mount."/>
     <string id="ImJ4hdke" text="Propose New Policy"/>
     <string id="iNDKwJYJ" text="Troop Upgrade XP Cost"/>
@@ -1019,7 +1019,7 @@
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}"/>
     <string id="kHC5EjDJ" text="Town Bonus"/>
     <string id="kHC5EjEJ" text="Minor Faction Bonus"/>
-    <string id="Khr5yETv" text="The Aserai are the inhabitants of the Nahasa desert, a mixture of nomadic bedouin and settled oasis farmers. They are famous for their horsemanship and their knowledge of the learning of many lands, especially medicine, gained from lying on some of the continent's most lucrative trade routes. Each clan is fiercely proud of its lineage and often jealous of the others, but when united by a charismatic leader, they become a major force in the south."/>
+    <string id="Khr5yETv" text="Асераї живуть у пустелі Нахаза. Серед них є кочівники-бедуїни й осілі фермери оазисів. Вони славляться своїм мистецтвом верхової їзди і багатим зібранням знань з усього світу, а особливо - в галузі медицини. Всю цю інформацію вони змогли зібрати, тому що живуть на найприбутковіших торгових шляхах усього континенту. Кожен клан пишається своїм родоводом і нерідко заздрить іншим. Але коли народ асераїв об'єднує гідний правитель, вони стають найбільшою силою південних земель."/>
     <string id="ki5DqTtC" text="+{BONUS_AMOUNT} increase to settlement prosperity."/>
     <string id="KiJd6Xik" text="Movement"/>
     <string id="KiVCv1Bx" text="Besieging {SETTLEMENT_NAME}"/>
@@ -1357,7 +1357,7 @@
     <string id="pSWt8NXH" text="Raiding {SETTLEMENT_NAME} ({RAIDING_PROCESS}%)"/>
     <string id="pSz4xSqO" text="Hero's {SKILL_NAME} skill needs to be {MIN_SKILL_AMOUNT} or higher."/>
     <string id="pT9TZehy" text="Camp"/>
-    <string id="PUjDWe5j" text="Національність"/>
+    <string id="PUjDWe5j" text="Народність"/>
     <string id="puwXJDa9" text="Prosperity:"/>
     <string id="PVidxUQ8" text="Food Stocks"/>
     <string id="pVkchhqX" text="{VICTIM.NAME} was lost."/>
@@ -1682,7 +1682,7 @@
     <string id="vIpFgbU6" text="Light Armor"/>
     <string id="ViYdZUbQ" text="Disband Army"/>
     <string id="VJNJsdif" text="{COMPANION.LINK} joined your party."/>
-    <string id="vJOWy1QF" text="{.NI}Хузаїтський{.aj} {.NI}ханство{.nn}"/>
+    <string id="vJOWy1QF" text="Хузаїти"/>
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vmMqs3Ck" text="Noble"/>
     <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>
