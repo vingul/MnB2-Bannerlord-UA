@@ -259,7 +259,7 @@
     <string id="36ZmyM8V" text="{FIRSTNAME} of the Harvest"/>
     <string id="38dcXWzq" text="{newline} • Notable Powers: {NOTABLE_POWER_LOST_AMOUNT}%"/>
     <string id="38DvG2ba" text="Yeah? What is it now?"/>
-    <string id="38W2WloI" text="50% less speed penalty and 15% sight range bonus in forests."/>
+    <string id="38W2WloI" text="-50% штрафу до швидкості та +15% до радіуса огляду в лісах."/>
     <string id="3a6tmImq" text="{VALUE}% recruitment cost of infantry."/>
     <string id="3aOIY6wl" text="Salt Mine"/>
     <string id="3ApJ6LaX" text="You have transferred the recruits to {QUEST_GIVER.LINK} as promised."/>
@@ -498,7 +498,7 @@
     <string id="665JbYIC" text="{VALUE}% production rate to villages bound to the governed settlement."/>
     <string id="68rmPu7Z" text="Your health is too low to fight."/>
     <string id="68ye0NpS" text="{VALUE}% caravan guard wages."/>
-    <string id="6aFTN1Nb" text="No speed penalty on desert."/>
+    <string id="6aFTN1Nb" text="Немає штрафу до швидкості переміщення в пустелі."/>
     <string id="6ALN43LY" text="{FIRSTNAME} of the Bell"/>
     <string id="6apaXF8k" text="You wanted this child to learn most from those who worked with their hands for a living. You asked an artisan in your employ to teach {?CHILD.GENDER}her{?}him{\?}..."/>
     <string id="6ba4n9n6" text="We are waiting for your good news {?PLAYER.GENDER}my lady{?}sir{\?}."/>
@@ -611,7 +611,7 @@
     <string id="7jBroUUQ" text="Your family had little land of their own, so they earned their living from the woods, hunting and trapping. They taught you from an early age that skills like finding game trails and killing an animal with one shot could make the difference between eating and starvation."/>
     <string id="7JoiyH1Y" text="You heard that {CHILD.NAME} could put an arrow through an arm ring from 100 paces away, but you didn't believe it until you saw it."/>
     <string id="7K0BqbFG" text="{VALUE}% advantage against bandits when troops are sent to confront the enemy."/>
-    <string id="7kGGgkro" text="Caravans are 30% cheaper to build. 10% less trade penalty."/>
+    <string id="7kGGgkro" text="Вартість формування каравану на 30% дешевше. На 10% менше торгового штрафу."/>
     <string id="7kNxogN8" text="appointing independent elders to uphold the law"/>
     <string id="7KshRCtM" text="Excellent. I'll have the goods delivered to you right away."/>
     <string id="7ldEMGn6" text="I don't like running away from a battle like that."/>
@@ -701,7 +701,7 @@
     <string id="8nwZXNTk" text="About the task {QUEST_GIVER.LINK} gave me..."/>
     <string id="8pjMAqOg" text="Senate"/>
     <string id="8POWjrr6" text="Steed Killer"/>
-    <string id="8PsaGhI8" text="20% less tax income from towns."/>
+    <string id="8PsaGhI8" text="На 20% менше податкових надходжень з міст."/>
     <string id="8PV1oB9W" text="I wish to focus on {SKILL_NAME}."/>
     <string id="8PwNj5tR" text="Yes... Yes. We should, em, discuss this."/>
     <string id="8q4vzfbH" text="{VALUE}% damage against destructible objects by troops in your formation."/>
@@ -796,7 +796,7 @@
     <string id="a1PPbzbi" text="focused on the big picture."/>
     <string id="a2ajWcI3" text="Viria"/>
     <string id="a2dJDUoL" text="My sword is my dowry. The gold and land will follow."/>
-    <string id="a2eM0QUb" text="20% less garrison troop wage."/>
+    <string id="a2eM0QUb" text="Платня гарнізонним військам менша на 20%."/>
     <string id="A2ju7YTZ" text="I don't know... They look treacherous."/>
     <string id="A310vHqJ" text="Healing rate increase for troops +{a0}%"/>
     <string id="a37zTVVe" text="Believe me, I'll be generous to those who came to me early. Perhaps not as generous to those who came late."/>
@@ -1782,7 +1782,7 @@
     <string id="FAuoq2gT" text="While I am honored, I must decline your offer."/>
     <string id="fAxjyMt5" text="Night"/>
     <string id="faZuFQUF" text="You are accused in {SETTLEMENT} of a crime, and {QUEST_GIVER.LINK} no longer wants your help."/>
-    <string id="fB7kS9Cx" text="20% more relationship penalty from kingdom decisions."/>
+    <string id="fB7kS9Cx" text="Погіршення відносин через державні рішення збільшується на 20%."/>
     <string id="FbAGhzbI" text="{VALUE} recruitment level from urban notables."/>
     <string id="FbLOFO88" text="Select troops for mission"/>
     <string id="FbowXAC0" text="There are no available products right now."/>
@@ -1805,7 +1805,7 @@
     <string id="FfNwXtii" text="If the wolf pup gang of your early childhood had an alpha, it was definitely you. All the other kids followed your lead as you decided what to play and where to play, and led them in games and mischief."/>
     <string id="ffoqz6yP" text="You have delivered {DELIVERED_ITEM_COUNT} units of goods from {QUEST_GIVER.NAME}."/>
     <string id="FfZpLoVD" text="dabble in intrigue."/>
-    <string id="fGFMqlGz" text="Gender"/>
+    <string id="fGFMqlGz" text="Стать"/>
     <string id="fghweLqW" text="Leader Perks"/>
     <string id="fGmpS0Dr" text="Gandarina"/>
     <string id="FGVzQUao" text="Congratulations, and may the Heavens bless you."/>
@@ -1926,7 +1926,7 @@
     <string id="g9qLrEb4" text="Great Investor"/>
     <string id="g9VIbA9s" text="Sergeant"/>
     <string id="gAc8SWDt" text="There {?(PRISONER_COUNT &gt; 1)}are {PRISONER_COUNT} prisoners{?}is 1 prisoner{\?} here."/>
-    <string id="GacrZ1Jl" text="Daily wages of troops in the party are increased by 5%."/>
+    <string id="GacrZ1Jl" text="Щоденні витрати на утримання воїнів у загоні збільшуються на 5%."/>
     <string id="GAh1gNYn" text="Enemies are already engaged in battle."/>
     <string id="GARAmzFT" text="To thrive you must learn to travel faster, work longer, and fight harder than anyone who stands against you."/>
     <string id="GaXEmoFy" text="Sold {.%}{SELECTED_ITEM}{.%} amount:"/>
@@ -2462,7 +2462,7 @@
     <string id="jukOfT2Z" text="Outside events also intruded on {CHILD.NAME}'s adolescence. You believe {?CHILD.GENDER}she{?}he{\?} was particularly shaped by {RANDOM_OUTCOME}. This event increased {?CHILD.GENDER}her{?}his{\?} skills in {SKILL_1} and {SKILL_2}."/>
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
     <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
-    <string id="JUpZuals" text="Recruiting and upgrading mounted troops are 10% cheaper."/>
+    <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
     <string id="JUSHAPnu" text="You were quick on your feet and attentive to what was going on around you. Usually you could run away from trouble, though you could give a good account of yourself in a fight with other children if cornered."/>
     <string id="JuwBb2Yg" text="Disorganized"/>
     <string id="Jvf6K7TZ" text="Your family numbered among the many poor migrants living in the slums that grow up outside the walls of imperial cities, making whatever money they could from a variety of odd jobs. Sometimes they did service for one of the Empire's many criminal gangs, and you had an early look at the dark side of life."/>
@@ -3687,7 +3687,7 @@
     <string id="RUEfCZBG" text="{VALUE}% sight range during daytime in campaign map."/>
     <string id="RuHaC2Ck" text="Scutage Tax"/>
     <string id="RUjPcZhF" text="{?PLAYER_CHILD}Your{?}The{\?} child is rarely even winded after {?CHILD.GENDER}her{?}his{\?} daily exercises."/>
-    <string id="ruP9jbSq" text="10% slower build rate for town projects in settlements."/>
+    <string id="ruP9jbSq" text="Швидкість будівництва міських проєктів у поселеннях знижується на 10%."/>
     <string id="rutgr1VF" text="Or if you can assign a companion for a while, they can stay here and train the men... I will also give you some provisions and money for their expenses and your trouble."/>
     <string id="ruU70rFl" text="You disperse into the shrubs and bushes. The enemies halt and seem to hesitate for a while before resuming their pursuit. {CASUALTIES_AND_LOST_BAGGAGE}"/>
     <string id="rUvnbDi2" text="Encurion"/>
@@ -4152,7 +4152,7 @@
     <string id="uW38UtSH" text="Eupitor"/>
     <string id="UwbhGhGw" text="I shall stand by your side and not foresake you, and fight until my life leaves my body..."/>
     <string id="UwEbBanm" text="These are the laws of our town. The artisans don't complain when the laws require us to buy tools from them."/>
-    <string id="UWiqIFUb" text="Village hearths increase 20% less."/>
+    <string id="UWiqIFUb" text="Кількість сільських будинків зростає на 20% повільніше."/>
     <string id="uwjjqEob" text="{QUEST_GIVER.LINK}, a gang leader from {QUEST_GIVER_SETTLEMENT}, has offered you to sell {STOLEN_GOOD_AMOUNT} units of stolen {.%}{STOLEN_GOOD}{.%} for half the normal price. {?QUEST_GIVER.GENDER}She{?}He{\?} says once you go to another town, selling them won't be an issue. You agreed to buy."/>
     <string id="uwmfgcM3" text="We need {REQUESTED_ITEM_COUNT} {.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%} in {NUMBER_OF_DAYS} days. The village is short on denars so we can make the payment in kind - with {?NUMBER_OF_EXCHANGE_ITEM &gt; 1}{NUMBER_OF_EXCHANGE_ITEM} {._}{PLURAL(EXCHANGE_ITEM)}{?}one {._}{EXCHANGE_ITEM}{\?}. What do you say?"/>
     <string id="uwmHjy7z" text="You cannot pillage a settlement that has your faction culture.{newline}"/>
@@ -4495,7 +4495,7 @@
     <string id="xaNpQsjh" text="The child seems to never tire, running {?CHILD.GENDER}her{?}his{\?} caretakers ragged, and is rarely cranky."/>
     <string id="XaPMUJV0" text="Whatever you have, I'm taking it. Surrender or die!"/>
     <string id="XAvwP3Ce" text="Break in to help the defenders"/>
-    <string id="Xaw2CoCG" text="25% production bonus to horse, mule, cow and sheep in villages owned by Khuzait rulers."/>
+    <string id="Xaw2CoCG" text="Приріст коней, мулів, корів і овець у селах хузаїтів підвищується на 25%."/>
     <string id="xAWvm25T" text="Effects settlement's loyalty."/>
     <string id="XaZyU3Cn" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} chose not to go to war with the {KINGDOM} despite the wishes of {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council."/>
     <string id="XB1HSxLX" text="For kingdom decisions, Tier 4+ clan choices have double effect{newline}Influence cost of the ruler overriding the popular decision outcome is doubled"/>
@@ -4537,7 +4537,7 @@
     <string id="XGcST2dB" text="Vote to disavow {POLICY_NAME}"/>
     <string id="XgFU1pCx" text="You were born into a family of..."/>
     <string id="xgO3cCgR" text="Overburdened"/>
-    <string id="xgPNGOa8" text="Being in army brings 25% more influence."/>
+    <string id="xgPNGOa8" text="Перебуваючи в армії, отримуєте на 25% більше впливу."/>
     <string id="XGuDyJMZ" text="{KINGDOM_NAME} will decide who will bear the crown as the next ruler. You can pick your stance regarding this decision."/>
     <string id="XH66Leg5" text="Greetings, my {?PLAYER.GENDER}lady{?}lord{\?}. I have heard much of your deeds. Thank you for agreeing to train me. I hope I won't disappoint you."/>
     <string id="XHmmbnbB" text="Iron{@Plural}loads of iron{\@}"/>
