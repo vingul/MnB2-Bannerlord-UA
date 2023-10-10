@@ -831,7 +831,7 @@
     <string id="HdTVkcII" text="Improve relations with people. Socialize with nobles. Do Barters."/>
     <string id="hdyQFP2Z" text="You've been killed by a stray {MOUNT_NAME}!"/>
     <string id="hE4XvvXv" text="Sort by:"/>
-    <string id="HEQ2zEei" text="Undo"/>
+    <string id="HEQ2zEei" text="Відмінити"/>
     <string id="hEWuE0Ch" text="You're the commander. You will be able to order all formations during the battle."/>
     <string id="hfSW9FTN" text="Ranged Weapons V"/>
     <string id="HiSzYWeh" text="Beer{@Plural}casks of beer{\@}"/>
@@ -929,7 +929,7 @@
     <string id="itvLr7dL" text="Pick up"/>
     <string id="iUTXqFmm" text=" and the nearby {?VILLAGE_COUNT}villages{?}village{\?}s of {VILLAGE_NAMES}"/>
     <string id="IuWu5Bu7" text="Generosity"/>
-    <string id="IUxlDj4s" text="Randomize All"/>
+    <string id="IUxlDj4s" text="Випадково все"/>
     <string id="iVEZrZzs" text="Ride in vanguard"/>
     <string id="IvrBQHRp" text="Melee Weapons"/>
     <string id="IwpFM2CJ" text="The tournament will be a horse race."/>
@@ -1558,7 +1558,7 @@
     <string id="tDA5dhn3" text="empress"/>
     <string id="TDQId8c9" text="You've constructed a barrier against your opponent, and have more pawns left. You win the game!"/>
     <string id="tDy1TfDq" text="Return To Hero"/>
-    <string id="tdYB3Tzc" text="Redo"/>
+    <string id="tdYB3Tzc" text="Повторити"/>
     <string id="tE1VwKTZ" text="Throwing Axe"/>
     <string id="TeWnL9bh" text="my husband {REFERING_HERO.LINK}"/>
     <string id="TgtdcMGS" text="A fly that wiggles and struggles a bit - we can handle that.."/>
@@ -1604,7 +1604,7 @@
     <string id="U7Z7f7ZT" text="Spouse"/>
     <string id="U8TPlwW9" text="Well met {PLAYER.LINK}. I am in your debt for what you just did. I hope one day I will find a way to repay it."/>
     <string id="U8VHRdwF" text="Leg Armor: "/>
-    <string id="ua15BlYh" text="Reset All"/>
+    <string id="ua15BlYh" text="Скинути все"/>
     <string id="uAL3bCfN" text="Encumbrance{newline}Total equipped armor and weapon weight.{newline}High encumbrance will slow down your on foot movement speed."/>
     <string id="UaN2lfwi" text="Weaponsmith"/>
     <string id="UaV0JT87" text="This hero can not craft this item."/>
