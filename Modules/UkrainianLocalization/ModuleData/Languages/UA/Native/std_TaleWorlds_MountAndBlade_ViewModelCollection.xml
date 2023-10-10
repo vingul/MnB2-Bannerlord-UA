@@ -94,7 +94,7 @@
     <string id="ADKHovtz" text="Скинути розгортання"/>
     <string id="ADPaaX8R" text="Найкращі гравці цієї битви"/>
     <string id="aeouhelq" text="Так"/>
-    <string id="aGGq9lJT" text="Змінити національність"/>
+    <string id="aGGq9lJT" text="Змінити народність"/>
     <string id="Agtv9l7S" text="Ця назва вже існує"/>
     <string id="AGUXiN8u" text="Воєвода"/>
     <string id="ahiBhAqU" text="Броня"/>
@@ -223,7 +223,7 @@
     <string id="Gcs49qcC" text="Карта ({MAP_NAME}), яка використовується на цьому сервері, відсутня або відрізняється у цього клієнта."/>
     <string id="gGa3ZhqN" text="Цей гравець буде автоматично заглушений."/>
     <string id="GGseMDd3" text="Міцність"/>
-    <string id="ghjSIyIL" text="Вибрати національність"/>
+    <string id="ghjSIyIL" text="Вибрати народність"/>
     <string id="gk5dCG1j" text="вигнати"/>
     <string id="GMhOZGnb" text="Мертві не можуть віддавати накази."/>
     <string id="GmU1to3Y" text="Статистика"/>
@@ -334,7 +334,7 @@
     <string id="nWJGjCgy" text="персонажі"/>
     <string id="oBbiVeKE" text="Очки здоров'я"/>
     <string id="oeSrXaKt" text="Вам потрібно забрати звання в одного з офіцерів"/>
-    <string id="oF27vprQ" text="Проголосувати за наступну національність"/>
+    <string id="oF27vprQ" text="Проголосувати за наступну народність"/>
     <string id="oFWcihyW" text="Розпустити клан"/>
     <string id="oHaWR73d" text="ОК"/>
     <string id="oibdTnXP" text="Поводження"/>
@@ -359,7 +359,7 @@
     <string id="P3IWytsr" text="В підрозділ ніхто не призначений"/>
     <string id="P5Z9owOy" text="Герб"/>
     <string id="P7moPm3F" text="Призначити лідером загону"/>
-    <string id="p83IO9ls" text="Треба вибрати національність"/>
+    <string id="p83IO9ls" text="Треба вибрати народність"/>
     <string id="partykick" text="Вигнати"/>
     <string id="PDdh1sBj" text="Назва"/>
     <string id="PE5LqC9O" text="Командні матчі"/>
@@ -373,7 +373,7 @@
     <string id="Po8jNaXb" text="Може містити лише літери"/>
     <string id="pSb1P6ZA" text="Ви впевнені, що хочете забрати звання офіцера клану в гравця {MEMBER_NAME}?"/>
     <string id="pSheKLB4" text="Глядач"/>
-    <string id="PUjDWe5j" text="Національність"/>
+    <string id="PUjDWe5j" text="Народність"/>
     <string id="Pwi1YCjH" text="Скопіювати Bannerlord ID"/>
     <string id="q2Y7aHSF" text="Прохання запросити"/>
     <string id="Q50X65NB" text="Класи"/>
@@ -509,7 +509,7 @@
     <string id="YLPJWgqF" text="Викликати"/>
     <string id="YLZV7dxI" text="Цей тип арени вже обраний як бажаний."/>
     <string id="YNkPy4ta" text="Клановий матч"/>
-    <string id="yQ0p8Glo" text="Обрати національність"/>
+    <string id="yQ0p8Glo" text="Обрати народність"/>
     <string id="yQtzabbe" text="Закрити"/>
     <string id="yRIPADWl" text="{TROOP_COUNT}/{TOTAL_TROOP_COUNT}"/>
     <string id="yS7PvrTD" text="OK"/>
