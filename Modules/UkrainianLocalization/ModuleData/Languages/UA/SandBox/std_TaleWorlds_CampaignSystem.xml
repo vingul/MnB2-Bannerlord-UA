@@ -237,7 +237,7 @@
     <string id="2s6cH2kE" text="Even the finest swordsman can perish if his lord is ignorant of the difference between necessary risks and reckless, unnecessary ones."/>
     <string id="2SDWhGmQ" text="Your family numbered among the poor migrants living in the slums that grow up outside the walls of the river cities, making whatever money they could from a variety of odd jobs. Sometimes they did services for one of the region's many criminal gangs."/>
     <string id="2sQQh02s" text="{ATTRIBUTE1} and {ATTRIBUTE2} are increased by {NUMBER_AP}."/>
-    <string id="2TptWc4m" text="Свитою барона"/>
+    <string id="2TptWc4m" text="Свита барона"/>
     <string id="2v0eQ755" text="Sorry, not interested."/>
     <string id="2vcfifbb" text="I yield"/>
     <string id="2WC42D5D" text="{VALUE}% build speed to non-ranged siege engines."/>
@@ -492,7 +492,7 @@
     <string id="64bH4bUo" text="No, thank you. But perhaps one of the other lords of our clan would be interested."/>
     <string id="64RFlBFr" text="Very well. Don't worry, all your expenses will be covered. "/>
     <string id="64rWqBLN" text="You avoided service with one of the main forces of your realm's armies, but followed instead in the train - the troops' wives, lovers and servants, and those who make their living by caring for, entertaining, or cheating the soldiery."/>
-    <string id="651FhzdR" text="Urban merchants"/>
+    <string id="651FhzdR" text="Міські торговці"/>
     <string id="65b6daHW" text="{VALUE}% hit point renegeration while traveling."/>
     <string id="65BTaOl8" text="{QUEST_GIVER.LINK} died and your mission is canceled."/>
     <string id="665JbYIC" text="{VALUE}% production rate to villages bound to the governed settlement."/>
@@ -1942,7 +1942,7 @@
     <string id="GEBRuVcZ" text="Why change sides now? Once one declares oneself a rebel, there is usually no going back."/>
     <string id="gEHEQazX" text="You're heavily wounded and not fit for the fight. Come back when you're ready."/>
     <string id="GeJobcre" text="Sinor"/>
-    <string id="GeNKQlHR" text="Особистих охоронців вождя"/>
+    <string id="GeNKQlHR" text="Особисті охоронці вождя"/>
     <string id="GeoTk5b9" text="Your captors engage in a battle and they lost, you are released after battle."/>
     <string id="GEYzLuwb" text="your way with people."/>
     <string id="gfmU4wiM" text="A {?INQUIRY_COMPANION.GENDER}woman{?}man{\?} named {INQUIRY_COMPANION.LINK} is staying at my tavern. You may want to talk with him."/>
@@ -2275,7 +2275,7 @@
     <string id="IPg30HIs" text="You told {ISSUE_OWNER.LINK} that instead of her request, the next tournament held will be held in her honor."/>
     <string id="IPLyqdVX" text="I hear we're running low on food. We should watch our stocks better."/>
     <string id="IpnQP7A1" text="Better to die fighting for a just ruler than to live under an unjust one."/>
-    <string id="ipQP6aVi" text="Mercenaries"/>
+    <string id="ipQP6aVi" text="Найманці"/>
     <string id="ipwU1JT3" text="Morning Exercise"/>
     <string id="iq3yEuO9" text="All right. I will bring your animals by myself."/>
     <string id="iQadPYNe" text="Charcoal{@Plural}loads of charcoal{\@}"/>
@@ -3212,7 +3212,7 @@
     <string id="p1buAbOQ" text="The harvest has been poor, and rats have eaten much of our stores. We can eat less and tighten our belts, but if we don't have seed grain left over to plant, we'll starve next year."/>
     <string id="p1Y3EU5O" text="Train Militia"/>
     <string id="P2eOw2sQ" text="{VALUE} relation with the nearest settlement owner clan when you clear a hideout. +1 town loyalty if it is your clan."/>
-    <string id="p2KIhGbE" text="Urban blacksmith"/>
+    <string id="p2KIhGbE" text="Міські ковалі"/>
     <string id="p2rTaKo8" text="You have no claim to the throne. Even in the unlikely case that others follow you, another usurper will just rise up to defeat you."/>
     <string id="P2VNGJDa" text="Extortion by Deserters at {SETTLEMENT}"/>
     <string id="p2WPU1CU" text="Very good then. Now I know whom I slay."/>
@@ -3598,7 +3598,7 @@
     <string id="rd229FYG" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM} with the support of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="Rd3m5kyk" text="You have attacked the caravan."/>
     <string id="RdbLbpgO" text="Castle upgrade costs are reduced by 20%"/>
-    <string id="RDfXuVxT" text="Yeomen"/>
+    <string id="RDfXuVxT" text="Дрібні землевласники"/>
     <string id="redwEIlW" text="Quartermaster"/>
     <string id="REWGj2ge" text="a rising new clan"/>
     <string id="REZyGJGH" text="{VALUE} daily prosperity while building a project in the governed settlement."/>
@@ -4535,7 +4535,7 @@
     <string id="XgA2JgVR" text="You are brought to the town square to face judgment."/>
     <string id="XGa8MkbJ" text="{QUEST_GIVER.NAME} has marked the hideout on your map"/>
     <string id="XGcST2dB" text="Vote to disavow {POLICY_NAME}"/>
-    <string id="XgFU1pCx" text="Ваша родина була..."/>
+    <string id="XgFU1pCx" text="Ваші батьки:"/>
     <string id="xgO3cCgR" text="Overburdened"/>
     <string id="xgPNGOa8" text="Перебуваючи в армії, отримуєте на 25% більше впливу."/>
     <string id="XGuDyJMZ" text="{KINGDOM_NAME} will decide who will bear the crown as the next ruler. You can pick your stance regarding this decision."/>
@@ -4688,7 +4688,7 @@
     <string id="YCC0hPuC" text="Ah, no. Slavers are rare these days. It used to be that, when the Empire and its neighbors made war upon each other, the defeated were usually taken as slaves. That helped pay for the war, you see! But today, for better or for worse, that is not practical. What with the frontiers broken and raiders crossing this way and that, there are far too many opportunities for captives to escape. But that does not mean that war cannot be profitable! Indeed it still can!"/>
     <string id="yccVH4KD" text="Thank you for listening to the voice of reason."/>
     <string id="YcdQ1MWq" text="Well.. It seems we have a fair amount in common."/>
-    <string id="YcnK0Thk" text="Hunters"/>
+    <string id="YcnK0Thk" text="Мисливці"/>
     <string id="ydbVysqv" text="You are waiting in {CURRENT_SETTLEMENT}."/>
     <string id="yDomN9L2" text="Property Effect"/>
     <string id="ydspCDIy" text="Low Morale"/>
