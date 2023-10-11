@@ -1569,7 +1569,7 @@
     <string id="dtzKfkrh" text="We never agreed on this. I am not paying you any more than {GATHERED_DENARS}{GOLD_ICON}, and you cannot force me."/>
     <string id="dU7haWkI" text="Braced"/>
     <string id="DUB6zfSe" text="I have a bit of a dispute with {TARGET_SETTLEMENT}. I recently purchased the right to graze cattle in the nearby pastures from a landowner there. But now some of the herders are making problems."/>
-    <string id="DuQvj7zd" text="\n+{VALUE} to {TRAIT_NAME}"/>
+    <string id="DuQvj7zd" text="{NEWLINE}+{VALUE} до риси «{TRAIT_NAME}»"/>
     <string id="DV2kW53e" text="Your caravans gather trade rumors."/>
     <string id="dv2ZNazN" text="Go to the lord's hall"/>
     <string id="dvEkfaab" text="recognizing the common folk in the realm as full citizens"/>
@@ -1753,7 +1753,7 @@
     <string id="F16k4H7R" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the animals are delivered. You asked your {COMPANION.LINK} and {ALTERNATIVE_TROOP_AMOUNT} of your men to deliver {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} to {QUEST_GIVER.LINK}. They will rejoin your party in {RETURN_DAYS} days."/>
     <string id="F1CJo2wX" text="{VALUE}% shield hitpoints."/>
     <string id="f1etg9oL" text="Think of something else."/>
-    <string id="F1syZDs4" text="\n+{VALUE} to {TRAIT_NAME_ONE} and {TRAIT_NAME_TWO}"/>
+    <string id="F1syZDs4" text="{NEWLINE}+{VALUE} до рис «{TRAIT_NAME_ONE}» і «{TRAIT_NAME_TWO}»"/>
     <string id="F2bgujPo" text="were a chieftain's servant."/>
     <string id="F2H2lZJ4" text="{VALUE}% armor to foot troops in your formation."/>
     <string id="f3hTGKIP" text="Garitops"/>
@@ -2178,7 +2178,7 @@
     <string id="I0StkXlK" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? Me and {?PLURAL}{MERCENARY_COUNT} of my mates{?}one of my mates{\?} are looking for a master. You might call us mercenaries, like. We'll join you for {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="I0ZG4tIj" text="{TOWN_NAME} has fallen to your troops. You may station a garrison here to defend it against enemies who may try to recapture it."/>
     <string id="I1CMeL9R" text="Mounted Archers"/>
-    <string id="i20baAus" text="\n+{VALUE} to {TRAIT_NAME_ONE}, {TRAIT_NAME_TWO} and {TRAIT_NAME_THREE}"/>
+    <string id="i20baAus" text="{NEWLINE}+{VALUE} до рис «{TRAIT_NAME_ONE}», «{TRAIT_NAME_TWO}» і «{TRAIT_NAME_THREE}»"/>
     <string id="i2FwKPmC" text="Yes, I wanted to talk about something else.."/>
     <string id="i2qOUBF4" text="The child will win any game that involves throwing and aiming, and the local crows have learned to keep their distance lest they want to be hit by a stone."/>
     <string id="I2thb8VU" text="Sorry. I don't need any other men right now."/>
@@ -2623,7 +2623,7 @@
     <string id="kwJBLl00" text="Yes {?PLAYER.GENDER}madam{?}sir{\?}. Our mutual friend {QUEST_GIVER.LINK} sent word to us. {?QUEST_GIVER.GENDER}She{?}He{\?} told us to expect you with {?QUEST_GIVER.GENDER}her{?}his{\?} {HERD_AMOUNT} {.%}{?HERD_AMOUNT &gt; 1}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%}."/>
     <string id="kWruAXaF" text="Well... You know as long as those bandits remain there, no traveller is safe."/>
     <string id="kWZ3cskl" text="What? That's a breach of contract. {QUEST_GIVER.LINK} will certainly hear about this..."/>
-    <string id="KXtaJNo4" text="\n+{VALUE} renown"/>
+    <string id="KXtaJNo4" text="{newline}+{VALUE} слави"/>
     <string id="kXVHwjoV" text="You have arrived at your fief of {SETTLEMENT_LINK}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="kxvnA811" text="All right, I will send you someone from my party who fits your bill."/>
     <string id="Ky03jg94" text="Fight"/>
@@ -4677,7 +4677,7 @@
     <string id="YbioVwyr" text="{VALUE}% tariff revenue in the governed settlement."/>
     <string id="yBL3TzXw" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with the support of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="YBmzuIbm" text="{VALUE} relationship with a random notable of your kingdom when an enemy lord is defeated."/>
-    <string id="YBqmnNGv" text="\n+{VALUE} gold"/>
+    <string id="YBqmnNGv" text="{NEWLINE}+{VALUE} золота"/>
     <string id="YbsVaZkb" text="Yes commander, I have brought your grain and livestock as you requested."/>
     <string id="ybXgaKEv" text="a glass of local wine"/>
     <string id="ybzBF59f" text="Break out of {SETTLEMENT}."/>
