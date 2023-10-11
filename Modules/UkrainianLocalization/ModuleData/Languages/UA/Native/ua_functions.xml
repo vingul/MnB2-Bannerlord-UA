@@ -27,5 +27,17 @@
 		<function functionName="demonstrativeAccusativePlural" functionBody="{?$0!.MA}цих{:?$0!.FA}цих{:}ці{\?}"/>
 		<function functionName="adjectiveGenderCreator" functionBody="{?$0!.MA}{.MACreator}{:?$0!.MI}{.MICreator}{:?$0!.FA}{.FACreator}{:?$0!.FI}{.FICreator}{:?$0!.NI}{.NICreator}{:}{.NACreator}{\?}"/>
 		<function functionName="IS_PLURAL_WORD_GROUP" functionBody="{?$0!.ajp}1{:?$0!.nnp}1{:?$0!.aj}0{:?$0!.nn}0{:}0{\?}"/>
+		<!--
+			GET_PLURAL_VALUE повертає:
+			0: якщо число закінчується на 1 (але не на 11, наприклад, для 211 поверне 2)
+			1: якщо число закінчується на 2, 3 або 4 (але не на 12, 13 або 14, в цих випадках поверне 2)
+			2: в усіх інших випадках
+
+			Приклад використання (для правильного закінчення однини/множини):
+			{#GET_PLURAL_VALUE(TRADE_AMOUNT)}динар{#}динари{#}динарів{\#}
+			Можна також (для коротшого запису):
+			динар{#GET_PLURAL_VALUE(TRADE_AMOUNT)}{#}и{#}ів{\#}
+		-->
+		<function functionName="GET_PLURAL_VALUE" functionBody="{?($0 - ($0 / 100 * 100)) / 10 == 1}2{:?($0 - ($0 / 10 * 10)) == 0}2{:?($0 - ($0 / 10 * 10)) == 1}0{:?($0 - ($0 / 10 * 10)) &lt; 5}1{:}2{\?}"/>
 	</functions>
 </base>
