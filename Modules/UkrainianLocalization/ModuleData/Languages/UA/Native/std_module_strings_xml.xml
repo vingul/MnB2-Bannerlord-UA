@@ -170,7 +170,7 @@
     <string id="5lT70YJY" text="On {DAY_OF_YEAR}, {YEAR}, you heard rumors of a secret pact being forged between the rival imperial factions so that they can combine their forces against the enemies of the empire."/>
     <string id="5pGjYBFn" text="Tribute Received"/>
     <string id="5QN7SFNW" text="III"/>
-    <string id="5rj7xQE4" text="Bow"/>
+    <string id="5rj7xQE4" text="{.MI}Лук"/>
     <string id="5S1zPgTm" text="imperial"/>
     <string id="5siAbi69" text="Mu Torere"/>
     <string id="5sMBbn7y" text="Calculating"/>
@@ -820,7 +820,7 @@
     <string id="h6AJXR2e" text="Are you sure to retreat your party?"/>
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election"/>
     <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; each time."/>
-    <string id="haax8kMa" text="Polearm"/>
+    <string id="haax8kMa" text="Древкове"/>
     <string id="hAgZBZP8" text="Forfeit"/>
     <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
     <string id="hbeUbpEA" text="Are you sure you want to cancel?"/>
@@ -1330,7 +1330,7 @@
     <string id="PHkC8Gia" text="Sell"/>
     <string id="PhoKHbhd" text="Battle won. Press {leave_key} to view results"/>
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}."/>
-    <string id="PiHpR4QL" text="One Handed"/>
+    <string id="PiHpR4QL" text="Одноручне"/>
     <string id="PitdvCJI" text="Change Governor"/>
     <string id="pJBz7hhl" text="Gather your men, we have another job to do!"/>
     <string id="PJEuE208" text="Militia:"/>
@@ -1549,7 +1549,7 @@
     <string id="t6NXmyoF" text="{.a} {STR}"/>
     <string id="t6sgwieR" text="Crafted Value"/>
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rf:convo_bemused]"/>
-    <string id="t78atYqH" text="Two Handed"/>
+    <string id="t78atYqH" text="Дворучне"/>
     <string id="T8w5VRAy" text="Enemy troops are falling back to the castle."/>
     <string id="taaNCsVZ" text="You win the tournament by beating {TOURNAMENT_FINAL_OPPONENT} in the final round."/>
     <string id="tAMBVG9B" text="third"/>
@@ -1586,7 +1586,7 @@
     <string id="Tsn6bCft" text="Generous"/>
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="TSWen983" text="Active Quest"/>
-    <string id="TTWL7RLe" text="Crossbow"/>
+    <string id="TTWL7RLe" text="{.MI}Арбалет"/>
     <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using siege weapons."/>
     <string id="TVcqGJ1r" text="Main hero is imprisoned!"/>
     <string id="TvmDFK6o" text="{REWARD}"/>
