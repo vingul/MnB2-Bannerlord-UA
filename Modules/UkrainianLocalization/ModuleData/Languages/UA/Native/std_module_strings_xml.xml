@@ -85,7 +85,7 @@
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (tax)"/>
     <string id="2UCptBFi" text="the Sturgians"/>
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus"/>
-    <string id="2wclahIJ" text="Throwing"/>
+    <string id="2wclahIJ" text="Метання"/>
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% bonus to taxes"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}days {?}day {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}hours{?}hour{\?}{\?}"/>
     <string id="300TAI7u" text="Sell All"/>
@@ -396,7 +396,7 @@
     <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Days{?}Day{\?}"/>
     <string id="b1Ra7gHa" text="Ranged Weapons II"/>
     <string id="b1vtY2yU" text="Expected"/>
-    <string id="b4lDDcli" text="{.FI}Сім'я"/>
+    <string id="b4lDDcli" text="{.FI}Родина"/>
     <string id="b5DWVsOZ" text="{HERO.NAME} has died in battle."/>
     <string id="B5J6DbpG" text="Remaining Days With Food: {REMAINING_DAYS}{newline}{newline}Total Food: {TOTAL_FOOD_AMOUNT}{newline}Daily Consumption: {DAILY_FOOD_CONSUMPTION}"/>
     <string id="b5t34yLX" text="Horse Harness"/>
@@ -820,7 +820,7 @@
     <string id="h6AJXR2e" text="Are you sure to retreat your party?"/>
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election"/>
     <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; each time."/>
-    <string id="haax8kMa" text="Древкове"/>
+    <string id="haax8kMa" text="Древкова зброя"/>
     <string id="hAgZBZP8" text="Forfeit"/>
     <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
     <string id="hbeUbpEA" text="Are you sure you want to cancel?"/>
@@ -1330,7 +1330,7 @@
     <string id="PHkC8Gia" text="Sell"/>
     <string id="PhoKHbhd" text="Battle won. Press {leave_key} to view results"/>
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}."/>
-    <string id="PiHpR4QL" text="Одноручне"/>
+    <string id="PiHpR4QL" text="Одноручна зброя"/>
     <string id="PitdvCJI" text="Change Governor"/>
     <string id="pJBz7hhl" text="Gather your men, we have another job to do!"/>
     <string id="PJEuE208" text="Militia:"/>
@@ -1549,7 +1549,7 @@
     <string id="t6NXmyoF" text="{.a} {STR}"/>
     <string id="t6sgwieR" text="Crafted Value"/>
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rf:convo_bemused]"/>
-    <string id="t78atYqH" text="Дворучне"/>
+    <string id="t78atYqH" text="Дворучна зброя"/>
     <string id="T8w5VRAy" text="Enemy troops are falling back to the castle."/>
     <string id="taaNCsVZ" text="You win the tournament by beating {TOURNAMENT_FINAL_OPPONENT} in the final round."/>
     <string id="tAMBVG9B" text="third"/>
