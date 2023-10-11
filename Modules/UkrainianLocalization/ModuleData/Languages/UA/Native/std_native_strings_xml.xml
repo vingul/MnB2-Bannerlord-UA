@@ -294,7 +294,7 @@
     <string id="PDdh1sBj" text="Name"/>
     <string id="Ph6PhUwX" text="Distance: {DISTANCE} m"/>
     <string id="pHaRIFa8" text="First Ranged Kill"/>
-    <string id="PiHpR4QL" text="Одноручне"/>
+    <string id="PiHpR4QL" text="Одноручна зброя"/>
     <string id="PiLml6Nl" text="Attackers hold the keep flag for 90 seconds before morale or time runs out. Capturing flags will increase morale.{newline}Defenders defend the castle until enemy morale runs out."/>
     <string id="Pkw17hO0" text="Combat Speed"/>
     <string id="pMmmfvkN" text="Inappropriate Play"/>
@@ -349,7 +349,7 @@
     <string id="t1bNrw95" text="Skirmish Statistics"/>
     <string id="T1JTpYXL" text="Mute Voice"/>
     <string id="t2Oh6uty" text="Welcome Message"/>
-    <string id="t78atYqH" text="Дворучне"/>
+    <string id="t78atYqH" text="Дворучна зброя"/>
     <string id="t8lAbdCk" text="Isle of Deriad (Winter)"/>
     <string id="tAb8KAQb" text="You've left the party."/>
     <string id="tAeflOpj" text="Received {DAMAGE} {DAMAGE_TYPE} damage."/>
@@ -365,7 +365,7 @@
     <string id="tp6B2QGw" text="East Asia"/>
     <string id="tqESV37j" text="Defend!"/>
     <string id="TSoS5HJZ" text="Skolder Hideout"/>
-    <string id="TTWL7RLe" text="Crossbow"/>
+    <string id="TTWL7RLe" text="{.MI}Арбалет"/>
     <string id="TuAP5xXV" text="Висота ніздрів"/>
     <string id="tUETZiIp" text="Helmet"/>
     <string id="tvDuF1vU" text="Siege Tower Speed (percentage)"/>
