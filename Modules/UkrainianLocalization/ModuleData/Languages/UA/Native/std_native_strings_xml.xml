@@ -59,7 +59,7 @@
     <string id="5LpufKs7" text="Follow Me"/>
     <string id="5mSKBidd" text="Форма носа"/>
     <string id="5odwu8qB" text="Ranked"/>
-    <string id="5rj7xQE4" text="Bow"/>
+    <string id="5rj7xQE4" text="Лук"/>
     <string id="5tbWdY1j" text="Avatar"/>
     <string id="5vZW8IJ5" text="Swap with {ITEM_NAME}"/>
     <string id="621DbiOw" text="Nose Asymetry"/>
@@ -294,7 +294,7 @@
     <string id="PDdh1sBj" text="Name"/>
     <string id="Ph6PhUwX" text="Distance: {DISTANCE} m"/>
     <string id="pHaRIFa8" text="First Ranged Kill"/>
-    <string id="PiHpR4QL" text="One Handed"/>
+    <string id="PiHpR4QL" text="Одноручне"/>
     <string id="PiLml6Nl" text="Attackers hold the keep flag for 90 seconds before morale or time runs out. Capturing flags will increase morale.{newline}Defenders defend the castle until enemy morale runs out."/>
     <string id="Pkw17hO0" text="Combat Speed"/>
     <string id="pMmmfvkN" text="Inappropriate Play"/>
@@ -349,7 +349,7 @@
     <string id="t1bNrw95" text="Skirmish Statistics"/>
     <string id="T1JTpYXL" text="Mute Voice"/>
     <string id="t2Oh6uty" text="Welcome Message"/>
-    <string id="t78atYqH" text="Two Handed"/>
+    <string id="t78atYqH" text="Дворучне"/>
     <string id="t8lAbdCk" text="Isle of Deriad (Winter)"/>
     <string id="tAb8KAQb" text="You've left the party."/>
     <string id="tAeflOpj" text="Received {DAMAGE} {DAMAGE_TYPE} damage."/>
