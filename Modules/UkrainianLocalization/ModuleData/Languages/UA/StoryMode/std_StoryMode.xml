@@ -31,7 +31,7 @@
     <string id="2h7IlBmv" text="Not yet, I'm working on it..."/>
     <string id="2NHnVb9b" text="So Nimr went, and fought, and won glory, but also got a number of men killed, especially those of the Banu Qild. And he became boastful, and arrogant. And then... Well, that is the beginning of the great feud between Sarranis and Qildis, but the rest of the story I should perhaps leave for someone else."/>
     <string id="2SDWhGmQ" text="Your family numbered among the poor migrants living in the slums that grow up outside the walls of the river cities, making whatever money they could from a variety of odd jobs. Sometimes they did services for one of the region's many criminal gangs."/>
-    <string id="2TptWc4m" text="Свитою барона"/>
+    <string id="2TptWc4m" text="Свита барона"/>
     <string id="2XhW49TX" text="you drove them off with arrows."/>
     <string id="2YYRyrOO" text="Leave..."/>
     <string id="3BjIb3CG" text="Or perhaps it was just Raganvad. He was stewing in his anger when up comes the Battanian king, Caladog. The Battanians had taken their time stripping the bodies of the imperial vanguard and the Sturgians were angry at them, so Raganvad called him a coward. Caladog sneers at him and walks off."/>
@@ -75,7 +75,7 @@
     <string id="5UHbg6D0" text="So. What brings you to me?"/>
     <string id="63TAYbkx" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile weapons, especially useful during sieges."/>
     <string id="64rWqBLN" text="You avoided service with one of the main forces of your realm's armies, but followed instead in the train - the troops' wives, lovers and servants, and those who make their living by caring for, entertaining, or cheating the soldiery."/>
-    <string id="651FhzdR" text="Urban merchants"/>
+    <string id="651FhzdR" text="Міські торговці"/>
     <string id="6aDiS9eP" text="I am {CONVERSATION_HERO.FIRSTNAME}. You probably already know that, though. Once I wielded great power, but now... Anyway, I am most curious what you might want with me."/>
     <string id="6bUSbsKC" text="Your father worked for a fitiwi, one of the strongmen who keep order in the poorer quarters of the oasis towns. He resolved disputes over land, dice and insults, imposing his authority with the fitiwi's traditional staff."/>
     <string id="6Dd3Pa07" text="You managed to thwart the conspiracy."/>
@@ -364,7 +364,7 @@
     <string id="ImLQNYWC" text="Very well - I'll duel you."/>
     <string id="InN5ZZt3" text="A landlord's retainers"/>
     <string id="IPP6MKfy" text="{MENTOR.LINK} notified you about a weapons caravan that will supply conspirators with weapons and armour."/>
-    <string id="ipQP6aVi" text="Mercenaries"/>
+    <string id="ipQP6aVi" text="Найманці"/>
     <string id="iQeMllr8" text="When it was just us fighting the horse archers, we were winning.. A man on foot can shoot as well or better than a man on horseback, all things being equal, and there were a lot more of us. So they started to go down and galloped off. The knights of course pursued, and that's when the problems started."/>
     <string id="iQrwsvb1" text="We had no choice but to go to war. Anyone who tells you they would have done otherwise is either a liar or a coward or both. The Sturgians attacked us, and needed to be chastised. We lost an army and a banner. But we did not lose our honor, and without honor the Empire would be finished."/>
     <string id="iR4QCTxv" text="Weaken Empire"/>
@@ -495,7 +495,7 @@
     <string id="OwcgxRXB" text="Weakened by the war, the {FACTION} has collapsed and its clans have defected to surrounding kingdoms."/>
     <string id="oX2aoilb" text="{MENTOR.NAME} knows of the rise of your {KINGDOM_NAME}. Rumors say {MENTOR.NAME} is planning to undo your progress. Be ready!"/>
     <string id="p0fmZY5r" text="The headman here can probably help us. Let's try to find him..."/>
-    <string id="p2KIhGbE" text="Urban blacksmith"/>
+    <string id="p2KIhGbE" text="Міські ковалі"/>
     <string id="p3Kia1OO" text="I'll take them to the nearest fortress immediately. They will be safe there."/>
     <string id="p4qJ4KSm" text="If you want more information, there are two people you might try to speak to. {IMPERIAL_MENTOR.NAME} worked as a sort of unofficial spymaster for Neretzes. She lives near {IMPERIAL_MENTOR_SETTLEMENT}."/>
     <string id="pa9LrHln" text="We're here, I guess. So... We need food, and after that, maybe some men to come with us."/>
@@ -547,7 +547,7 @@
     <string id="RbXiEdXk" text="Reach Clan Tier 1"/>
     <string id="rcoueCmk" text="Adolescence"/>
     <string id="rCX81DDR" text="The Empire has been destroyed!"/>
-    <string id="RDfXuVxT" text="Yeomen"/>
+    <string id="RDfXuVxT" text="Дрібні землевласники"/>
     <string id="rDuegB1L" text="You've finally arrived! I have a few things to say before we attack.[ib:confident][if:convo_nonchalant]"/>
     <string id="RefpTQpr" text="Maybe. Goodbye, {RADAGOS.NAME}..."/>
     <string id="RF3NoR3d" text="He seemed to be controlling more than one band raiding around this area. If this lot has your kin, then I think he'd be the one to know.[ib:demure]"/>
@@ -695,7 +695,7 @@
     <string id="XEuhxpCX" text="Now, the Empire uses tricks and traps in war. No Battanian fears to meet an imperial soldier, man-to-man, but we thought it would be a good laugh to use their tricks against them. So we laid an ambush, on both sides of a wooded pass, and wouldn't you know? They marched right into it."/>
     <string id="Xg6jhfPt" text="Nimr returned, in well-deserved glory. A daughter of the Banu Qild took an interest in him, and they had a secret affair, as the youth sometimes do. As heroes do. But Nimr's acts wounded the Qildi's pride. They kidnapped him, slew him and hung him in a cage in their market. We will forgive the Empire and the Vlandians. The Qildis... better not ask me that."/>
     <string id="xGdoz9Pn" text="Well, we last saw him a few days ago. He was carrying some sort of chest, which he was very mysterious about. He was on some sort of 'quest', he said, though wouldn't tell us more."/>
-    <string id="XgFU1pCx" text="Ваша родина була..."/>
+    <string id="XgFU1pCx" text="Ваші батьки:"/>
     <string id="XIIISsIg" text="There was never a prouder moment for the Bani Sarran."/>
     <string id="xjduipCO" text="Of course our glorious armies have been defeated many times, but I guess those commanders and emperors were not 'true sons.' Clever little legend. A child could see through it, if she tried, but of course people never try to see through the noble lies that bind us together. Thank Heaven for that."/>
     <string id="xjk4hNXD" text="I did not fight in the battle. I stood on a hill telling my commanders where to go and who to attack. And we did rather well, I think you've heard. Still, we took losses - heavy losses, and gained little. And for this the barons blamed me, even though it was their idea to fight. I learned that day that a king should always lead, never follow. But it was a bitter lesson."/>
@@ -723,7 +723,7 @@
     <string id="Y94H6XnK" text="Accept"/>
     <string id="ya8eMCpj" text="Unify the Empire"/>
     <string id="YAWCkOYa" text="The tracks look fresh, and I've seen some smoke on the horizon. They can't move too quickly if they're still looting and raiding. No, I'm pretty sure we'll be able to rescue the little ones... or die trying."/>
-    <string id="YcnK0Thk" text="Hunters"/>
+    <string id="YcnK0Thk" text="Мисливці"/>
     <string id="yCzcfKNM" text="Firstly, your clan must be independent. You cannot be pledged to an existing realm."/>
     <string id="YEeb0B1V" text="I am {HEADMAN.FIRSTNAME}, headman of this village. What brings you here?"/>
     <string id="YJxCbbpd" text="Conspiracy is activated!"/>
