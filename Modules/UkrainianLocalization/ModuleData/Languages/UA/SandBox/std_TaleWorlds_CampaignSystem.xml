@@ -444,7 +444,7 @@
     <string id="5IQriov5" text="You avoided critical failure because of {PERK_NAME}."/>
     <string id="5JaGVr0U" text="While traveling by a low range of hills, you see what appears to be the remains of a campsite in a stream gully."/>
     <string id="5jAH0VV7" text="Heir Come of Age"/>
-    <string id="5JTEvvaO" text="{EXP_VALUE} {?IS_PLURAL_SKILL}рівні(в){?}рівень{\?} навику та {FOCUS_VALUE} {?IS_PLURAL_FOCUS}бали(ів){?}бал{\?} фокусу: {SKILL_ONE} і {SKILL_TWO}{NEWLINE}{ATTR_VALUE} {?IS_PLURAL_ATR}бали(ів){?}бал{\?} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
+    <string id="5JTEvvaO" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}бал{#}бали{#}балів{\#} фокусу: {SKILL_ONE} і {SKILL_TWO}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}бал{#}бали{#}балів{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
     <string id="5k4dxUEJ" text="Troops"/>
     <string id="5kbeAC7k" text="In wartorn Calradia, especially in frontier or tribal areas, some women as well as men learn to fight from an early age. You..."/>
     <string id="5kxDhBWk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are not high enough but can be useful with sufficient garrison support."/>
@@ -2378,7 +2378,7 @@
     <string id="JeL0aUOa" text="You could stop them with a decree, my {?PLAYER.GENDER}lady{?}lord{\?}. All the craftsmen here would be very grateful."/>
     <string id="jeljPTgV" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. I knew we could reach an agreement."/>
     <string id="JEuZoV1E" text="{ISSUE_OWNER.LINK} asks you to raid enemy villages to distract enemy war parties."/>
-    <string id="jeWV2uV3" text="{EXP_VALUE} {?IS_PLURAL_SKILL}рівні(в){?}рівень{\?} навику та {FOCUS_VALUE} {?IS_PLURAL_FOCUS}бали(ів){?}бал{\?} фокусу: {SKILL_ONE}, {SKILL_TWO} і {SKILL_THREE}{NEWLINE}{ATTR_VALUE} {?IS_PLURAL_ATR}бали(ів){?}бал{\?} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
+    <string id="jeWV2uV3" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}бал{#}бали{#}балів{\#} фокусу: {SKILL_ONE}, {SKILL_TWO} і {SKILL_THREE}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}бал{#}бали{#}балів{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
     <string id="jF4Nl8Au" text="{NPC_LIEGE.NAME}, {LIEGE_RELATIONSHIP}? Long may {?NPC_LIEGE.GENDER}she{?}he{\?} live."/>
     <string id="JfBTbsX2" text="{EFFECT_DESCRIPTION}{NEW_LINE_1}{SKILL_DESCRIPTION}{NEW_LINE_2}{ATTRIBUTE_DESCRIPTION}"/>
     <string id="jFOva44m" text="{FACTION_LEADER} proposes the policy of {POLICY_NAME}. You can pick your stance regarding this decision."/>
@@ -4148,7 +4148,7 @@
     <string id="uuyso3mg" text="Income from Parties"/>
     <string id="uvjOVy5P" text="Dead"/>
     <string id="UW1roOES" text="You should discuss this issue with {REDIRECT_HERO_RELATIONSHIP}, who speaks for our family."/>
-    <string id="uw2kKrQk" text="{EXP_VALUE} {?IS_PLURAL_SKILL}рівні(в){?}рівень{\?} навику та {FOCUS_VALUE} {?IS_PLURAL_FOCUS}бали(ів){?}бал{\?} фокусу: {SKILL_ONE}{NEWLINE}{ATTR_VALUE} {?IS_PLURAL_ATR}бали(ів){?}бал{\?} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
+    <string id="uw2kKrQk" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}бал{#}бали{#}балів{\#} фокусу: {SKILL_ONE}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}бал{#}бали{#}балів{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
     <string id="uW38UtSH" text="Eupitor"/>
     <string id="UwbhGhGw" text="I shall stand by your side and not foresake you, and fight until my life leaves my body..."/>
     <string id="UwEbBanm" text="These are the laws of our town. The artisans don't complain when the laws require us to buy tools from them."/>
