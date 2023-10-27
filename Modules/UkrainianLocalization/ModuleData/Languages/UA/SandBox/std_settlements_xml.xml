@@ -56,70 +56,70 @@
     <string id="Settlements.Settlement.name.castle_A7" text="{.m}Замок{.R_n22_u} Укба"/>
     <string id="Settlements.Settlement.name.castle_A8" text="{.m}Замок{.R_n22_u} Тамну"/>
     <string id="Settlements.Settlement.name.castle_A9" text="{.m}Замок{.R_n22_u} Баріхаль"/>
-    <string id="Settlements.Settlement.name.castle_B1" text="Ab Comer Castle"/>
-    <string id="Settlements.Settlement.name.castle_B2" text="Llanoc Hen Castle"/>
-    <string id="Settlements.Settlement.name.castle_B3" text="Druimmor Castle"/>
-    <string id="Settlements.Settlement.name.castle_B4" text="Pendraic Castle"/>
-    <string id="Settlements.Settlement.name.castle_B5" text="Rhemtoil Castle"/>
-    <string id="Settlements.Settlement.name.castle_B6" text="Flintolg Castle"/>
-    <string id="Settlements.Settlement.name.castle_B7" text="Aster Castle"/>
-    <string id="Settlements.Settlement.name.castle_B8" text="Uthelaim Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN1" text="Varagos Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN2" text="Lochana Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN3" text="Rhesos Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN4" text="Gaos Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN5" text="Atrion Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN6" text="Ataconia Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN7" text="Epinosa Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN8" text="Syratos Castle"/>
-    <string id="Settlements.Settlement.name.castle_EN9" text="Mecalovea Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES1" text="Odrysa Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES2" text="Corenia Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES3" text="Melion Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES4" text="Lavenia Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES5" text="Morenia Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES6" text="Sestadaim Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES7" text="Jogurys Castle"/>
-    <string id="Settlements.Settlement.name.castle_ES8" text="Chanopsis Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW1" text="Garontor Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW2" text="Thorios Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW3" text="Onica Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW4" text="Thractorae Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW5" text="Veron Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW6" text="Hertogea Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW7" text="Oristocorys Castle"/>
-    <string id="Settlements.Settlement.name.castle_EW8" text="Gersegos Castle"/>
-    <string id="Settlements.Settlement.name.castle_K1" text="Usek Castle"/>
-    <string id="Settlements.Settlement.name.castle_K2" text="Akiser Castle"/>
-    <string id="Settlements.Settlement.name.castle_K3" text="Hakkun Castle"/>
-    <string id="Settlements.Settlement.name.castle_K4" text="Tepes Castle"/>
-    <string id="Settlements.Settlement.name.castle_K5" text="Khimli Castle"/>
-    <string id="Settlements.Settlement.name.castle_K6" text="Dinar Castle"/>
-    <string id="Settlements.Settlement.name.castle_K7" text="Simira Castle"/>
-    <string id="Settlements.Settlement.name.castle_K8" text="Erzenur Castle"/>
-    <string id="Settlements.Settlement.name.castle_K9" text="Kaysar Castle"/>
-    <string id="Settlements.Settlement.name.castle_S1" text="Ustokol Castle"/>
-    <string id="Settlements.Settlement.name.castle_S2" text="Mazhadan Castle"/>
-    <string id="Settlements.Settlement.name.castle_S3" text="Nevyansk Castle"/>
-    <string id="Settlements.Settlement.name.castle_S4" text="Kranirog Castle"/>
-    <string id="Settlements.Settlement.name.castle_S5" text="Ov Castle"/>
-    <string id="Settlements.Settlement.name.castle_S6" text="Takor Castle"/>
-    <string id="Settlements.Settlement.name.castle_S7" text="Urikskala Castle"/>
-    <string id="Settlements.Settlement.name.castle_S8" text="Vladiv Castle"/>
-    <string id="Settlements.Settlement.name.castle_V1" text="Usanc Castle"/>
-    <string id="Settlements.Settlement.name.castle_V2" text="Hongard Castle"/>
-    <string id="Settlements.Settlement.name.castle_V3" text="Drapand Castle"/>
-    <string id="Settlements.Settlement.name.castle_V4" text="Ormanfard Castle"/>
-    <string id="Settlements.Settlement.name.castle_V5" text="Tirby Castle"/>
-    <string id="Settlements.Settlement.name.castle_V6" text="Caleus Castle"/>
-    <string id="Settlements.Settlement.name.castle_V7" text="Talivel Castle"/>
-    <string id="Settlements.Settlement.name.castle_V8" text="Verecsand Castle"/>
-    <string id="Settlements.Settlement.name.castle_village_A1_1" text="Tubilis"/>
-    <string id="Settlements.Settlement.name.castle_village_A1_2" text="Fanab"/>
-    <string id="Settlements.Settlement.name.castle_village_A2_1" text="Sahel"/>
-    <string id="Settlements.Settlement.name.castle_village_A2_2" text="Asmait"/>
-    <string id="Settlements.Settlement.name.castle_village_A3_1" text="Ain Baliq"/>
-    <string id="Settlements.Settlement.name.castle_village_A3_2" text="Deir Hawa"/>
+    <string id="Settlements.Settlement.name.castle_B1" text="{.m}Замок{.R_n22_u} Аб Комер"/>
+    <string id="Settlements.Settlement.name.castle_B2" text="{.m}Замок{.R_n22_u} Лланок Хен"/>
+    <string id="Settlements.Settlement.name.castle_B3" text="{.m}Замок{.R_n22_u} Друімор"/>
+    <string id="Settlements.Settlement.name.castle_B4" text="{.m}Замок{.R_n22_u} Пендраік"/>
+    <string id="Settlements.Settlement.name.castle_B5" text="{.m}Замок{.R_n22_u} Ремтоіл"/>
+    <string id="Settlements.Settlement.name.castle_B6" text="{.m}Замок{.R_n22_u} Флінтолг"/>
+    <string id="Settlements.Settlement.name.castle_B7" text="{.m}Замок{.R_n22_u} Астер"/>
+    <string id="Settlements.Settlement.name.castle_B8" text="{.m}Замок{.R_n22_u} Утелайм"/>
+    <string id="Settlements.Settlement.name.castle_EN1" text="{.m}Замок{.R_n22_u} Варагос"/>
+    <string id="Settlements.Settlement.name.castle_EN2" text="{.m}Замок{.R_n22_u} Локана"/>
+    <string id="Settlements.Settlement.name.castle_EN3" text="{.m}Замок{.R_n22_u} Ресос"/>
+    <string id="Settlements.Settlement.name.castle_EN4" text="{.m}Замок{.R_n22_u} Гаос"/>
+    <string id="Settlements.Settlement.name.castle_EN5" text="{.m}Замок{.R_n22_u} Атріон"/>
+    <string id="Settlements.Settlement.name.castle_EN6" text="{.m}Замок{.R_n22_u} Атаконія"/>
+    <string id="Settlements.Settlement.name.castle_EN7" text="{.m}Замок{.R_n22_u} Епіноза"/>
+    <string id="Settlements.Settlement.name.castle_EN8" text="{.m}Замок{.R_n22_u} Сіратос"/>
+    <string id="Settlements.Settlement.name.castle_EN9" text="{.m}Замок{.R_n22_u} Мекаловея"/>
+    <string id="Settlements.Settlement.name.castle_ES1" text="{.m}Замок{.R_n22_u} Одриса"/>
+    <string id="Settlements.Settlement.name.castle_ES2" text="{.m}Замок{.R_n22_u} Коренія"/>
+    <string id="Settlements.Settlement.name.castle_ES3" text="{.m}Замок{.R_n22_u} Меліон"/>
+    <string id="Settlements.Settlement.name.castle_ES4" text="{.m}Замок{.R_n22_u} Лавенія"/>
+    <string id="Settlements.Settlement.name.castle_ES5" text="{.m}Замок{.R_n22_u} Моренія"/>
+    <string id="Settlements.Settlement.name.castle_ES6" text="{.m}Замок{.R_n22_u} Сестадайм"/>
+    <string id="Settlements.Settlement.name.castle_ES7" text="{.m}Замок{.R_n22_u} Джогурис"/>
+    <string id="Settlements.Settlement.name.castle_ES8" text="{.m}Замок{.R_n22_u} Чанопсіс"/>
+    <string id="Settlements.Settlement.name.castle_EW1" text="{.m}Замок{.R_n22_u} Гаронтор"/>
+    <string id="Settlements.Settlement.name.castle_EW2" text="{.m}Замок{.R_n22_u} Торіос"/>
+    <string id="Settlements.Settlement.name.castle_EW3" text="{.m}Замок{.R_n22_u} Оніка"/>
+    <string id="Settlements.Settlement.name.castle_EW4" text="{.m}Замок{.R_n22_u} Фракторея"/>
+    <string id="Settlements.Settlement.name.castle_EW5" text="{.m}Замок{.R_n22_u} Верон"/>
+    <string id="Settlements.Settlement.name.castle_EW6" text="{.m}Замок{.R_n22_u} Хертогея"/>
+    <string id="Settlements.Settlement.name.castle_EW7" text="{.m}Замок{.R_n22_u} Орістокоріс"/>
+    <string id="Settlements.Settlement.name.castle_EW8" text="{.m}Замок{.R_n22_u} Герсегос"/>
+    <string id="Settlements.Settlement.name.castle_K1" text="{.m}Замок{.R_n22_u} Усек"/>
+    <string id="Settlements.Settlement.name.castle_K2" text="{.m}Замок{.R_n22_u} Акісер"/>
+    <string id="Settlements.Settlement.name.castle_K3" text="{.m}Замок{.R_n22_u} Хаккун"/>
+    <string id="Settlements.Settlement.name.castle_K4" text="{.m}Замок{.R_n22_u} Тепес"/>
+    <string id="Settlements.Settlement.name.castle_K5" text="{.m}Замок{.R_n22_u} Хімлі"/>
+    <string id="Settlements.Settlement.name.castle_K6" text="{.m}Замок{.R_n22_u} Дінар"/>
+    <string id="Settlements.Settlement.name.castle_K7" text="{.m}Замок{.R_n22_u} Сіміра"/>
+    <string id="Settlements.Settlement.name.castle_K8" text="{.m}Замок{.R_n22_u} Ерзенур"/>
+    <string id="Settlements.Settlement.name.castle_K9" text="{.m}Замок{.R_n22_u} Кайсар"/>
+    <string id="Settlements.Settlement.name.castle_S1" text="{.m}Замок{.R_n22_u} Устокол"/>
+    <string id="Settlements.Settlement.name.castle_S2" text="{.m}Замок{.R_n22_u} Мажадан"/>
+    <string id="Settlements.Settlement.name.castle_S3" text="{.m}Замок{.R_n22_u} Нев'янськ"/>
+    <string id="Settlements.Settlement.name.castle_S4" text="{.m}Замок{.R_n22_u} Кранірог"/>
+    <string id="Settlements.Settlement.name.castle_S5" text="{.m}Замок{.R_n22_u} Ов"/>
+    <string id="Settlements.Settlement.name.castle_S6" text="{.m}Замок{.R_n22_u} Такор"/>
+    <string id="Settlements.Settlement.name.castle_S7" text="{.m}Замок{.R_n22_u} Урікскала"/>
+    <string id="Settlements.Settlement.name.castle_S8" text="{.m}Замок{.R_n22_u} Владів"/>
+    <string id="Settlements.Settlement.name.castle_V1" text="{.m}Замок{.R_n22_u} Усанк"/>
+    <string id="Settlements.Settlement.name.castle_V2" text="{.m}Замок{.R_n22_u} Хонгард"/>
+    <string id="Settlements.Settlement.name.castle_V3" text="{.m}Замок{.R_n22_u} Драпанд"/>
+    <string id="Settlements.Settlement.name.castle_V4" text="{.m}Замок{.R_n22_u} Орманфард"/>
+    <string id="Settlements.Settlement.name.castle_V5" text="{.m}Замок{.R_n22_u} Тірбі"/>
+    <string id="Settlements.Settlement.name.castle_V6" text="{.m}Замок{.R_n22_u} Калеус"/>
+    <string id="Settlements.Settlement.name.castle_V7" text="{.m}Замок{.R_n22_u} Талівел"/>
+    <string id="Settlements.Settlement.name.castle_V8" text="{.m}Замок{.R_n22_u} Верександ"/>
+    <string id="Settlements.Settlement.name.castle_village_A1_1" text="{.m}Тубіліс{.R_n20_u_ke}"/>
+    <string id="Settlements.Settlement.name.castle_village_A1_2" text="{.m}Фанаб{.R_n20_u_ke}"/>
+    <string id="Settlements.Settlement.name.castle_village_A2_1" text="{.m}Сахель{.R_n20_u}"/>
+    <string id="Settlements.Settlement.name.castle_village_A2_2" text="{.m}Асмаіт{.R_n20_u_ke}"/>
+    <string id="Settlements.Settlement.name.castle_village_A3_1" text="{.m}Айн-Балік{.R_n20_u}"/>
+    <string id="Settlements.Settlement.name.castle_village_A3_2" text="{.f}Дейр-Хава{.R_n10}"/>
     <string id="Settlements.Settlement.name.castle_village_A4_1" text="Medeni"/>
     <string id="Settlements.Settlement.name.castle_village_A4_2" text="Qidnar"/>
     <string id="Settlements.Settlement.name.castle_village_A5_1" text="Jamayeh"/>
