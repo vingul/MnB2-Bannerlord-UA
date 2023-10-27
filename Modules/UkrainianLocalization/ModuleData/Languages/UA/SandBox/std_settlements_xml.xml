@@ -47,15 +47,15 @@
     <string id="RL2vacqv" text="Phycaon sits at the head of the Sethys valley, one of the main grain-producing regions of the central Empire. Once the largest of the Palaic cities, its leaders led a league of the tribes against imperial encroachment into the region. But when the empire's victory looked inevitable, they made their peace. The population, now thoroughly Calradicized, have a reputation for being serious, respectable and trade-minded, dependable if a bit humorless."/>
     <string id="Rr1cy5Sk" text="Waterfront"/>
     <string id="rX8oGVvV" text="The Palaic chieftain of Amitatys had a particularly grim reputation, a tyrant who slaughtered innocents to appease the gods of the underworld in the hope they would grant him immortality. Inevitably, he fell into conflict with the Empire, and during the siege an earthquake crumbled his walls and allowed imperial troops into the city. More died in the ensuing sack than the tyrant had ever killed, but it was war, and the outcome - attributed to the wrath of Heaven - was a staple of imperial propaganda as they expanded their foothold in the region."/>
-    <string id="Settlements.Settlement.name.castle_A1" text="Tubilis Castle"/>
-    <string id="Settlements.Settlement.name.castle_A2" text="Sahel Castle"/>
-    <string id="Settlements.Settlement.name.castle_A3" text="Ain Baliq Castle"/>
-    <string id="Settlements.Settlement.name.castle_A4" text="Medeni Castle"/>
-    <string id="Settlements.Settlement.name.castle_A5" text="Jamayeh Castle"/>
-    <string id="Settlements.Settlement.name.castle_A6" text="Shibal Zumr Castle"/>
-    <string id="Settlements.Settlement.name.castle_A7" text="Uqba Castle"/>
-    <string id="Settlements.Settlement.name.castle_A8" text="Tamnuh Castle"/>
-    <string id="Settlements.Settlement.name.castle_A9" text="Barihal Castle"/>
+    <string id="Settlements.Settlement.name.castle_A1" text="{.m}Замок{.R_n22_u} Тубіліс"/>
+    <string id="Settlements.Settlement.name.castle_A2" text="{.m}Замок{.R_n22_u} Сахель"/>
+    <string id="Settlements.Settlement.name.castle_A3" text="{.m}Замок{.R_n22_u} Айн Балік"/>
+    <string id="Settlements.Settlement.name.castle_A4" text="{.m}Замок{.R_n22_u} Медені"/>
+    <string id="Settlements.Settlement.name.castle_A5" text="{.m}Замок{.R_n22_u} Джамає"/>
+    <string id="Settlements.Settlement.name.castle_A6" text="{.m}Замок{.R_n22_u} Шібал Зумр"/>
+    <string id="Settlements.Settlement.name.castle_A7" text="{.m}Замок{.R_n22_u} Укба"/>
+    <string id="Settlements.Settlement.name.castle_A8" text="{.m}Замок{.R_n22_u} Тамну"/>
+    <string id="Settlements.Settlement.name.castle_A9" text="{.m}Замок{.R_n22_u} Баріхаль"/>
     <string id="Settlements.Settlement.name.castle_B1" text="Ab Comer Castle"/>
     <string id="Settlements.Settlement.name.castle_B2" text="Llanoc Hen Castle"/>
     <string id="Settlements.Settlement.name.castle_B3" text="Druimmor Castle"/>
