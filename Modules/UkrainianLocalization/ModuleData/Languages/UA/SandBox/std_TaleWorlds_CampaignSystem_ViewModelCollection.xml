@@ -12,7 +12,7 @@
     <string id="0TauthlH" text="Never ({PERCENTAGE}%)"/>
     <string id="13wo3QQB" text="Secondary"/>
     <string id="154a34f8caccfc833238cc89d38861e8" text="Requires: "/>
-    <string id="1Bm1Wk1v" text="Infantry"/>
+    <string id="1Bm1Wk1v" text="Піхота"/>
     <string id="1CXlqb2U" text="Pick:"/>
     <string id="1qm74K2t" text="Successful raids by {FACTION}"/>
     <string id="1UbocG5B" text="Denounce your rights and responsibilities from this fief by giving it back to the realm."/>
@@ -40,14 +40,14 @@
     <string id="5bzk75Ql" text="Engaging {TARGET_PARTY}."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Accuracy: "/>
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
-    <string id="5k4dxUEJ" text="Troops"/>
+    <string id="5k4dxUEJ" text="Воїни"/>
     <string id="5tbWdY1j" text="Avatar"/>
     <string id="5Unqsx3N" text="Confirm"/>
     <string id="63Ic1Ahe" text="Cost: {UPGRADE_COST} (You don't have)"/>
     <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop."/>
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: "/>
     <string id="6bx9IhpD" text="Upgrades"/>
-    <string id="6GSXsdeX" text="Speed"/>
+    <string id="6GSXsdeX" text="Швидкість"/>
     <string id="6QoSHiWC" text="An alley without a leader"/>
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: "/>
     <string id="7h6cXdW7" text="Engineer"/>
@@ -158,7 +158,7 @@
     <string id="EkFDvG7z" text="Settlement Food Stocks"/>
     <string id="eoVW9z54" text="Average Morale"/>
     <string id="ePmSvu1s" text="{AMOUNT}{GOLD_ICON}"/>
-    <string id="EQHq3bHM" text="Travelling to {TARGET_PARTY}"/>
+    <string id="EQHq3bHM" text="Прямує до {TARGET_PARTY}{.v_rod}"/>
     <string id="ErnykQEH" text="Outputs"/>
     <string id="eTw2aNV5" text="+"/>
     <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
@@ -376,7 +376,7 @@
     <string id="QMNWbmao" text="Clear Selection"/>
     <string id="QPoA6vvx" text="Income"/>
     <string id="QQ03J6sf" text="Item name can not be empty."/>
-    <string id="qRqnrtdX" text="Owner"/>
+    <string id="qRqnrtdX" text="Власник"/>
     <string id="qSi4DlT4" text="Food"/>
     <string id="QSPrSsHv" text="No Saddle!"/>
     <string id="QXBf26Rv" text="Unknown Behavior"/>
@@ -388,7 +388,7 @@
     <string id="R8vuwKaf" text="Running from {TARGET_PARTY} to ally party."/>
     <string id="Ra17aK4e" text="Current Capital"/>
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}"/>
-    <string id="rba7kgwS" text="Travelling to {TARGET_SETTLEMENT}."/>
+    <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
     <string id="RClxLG6N" text="Holding"/>
     <string id="recruitVerb" text="Recruit"/>
     <string id="redwEIlW" text="Quartermaster"/>
@@ -513,7 +513,7 @@
     <string id="ysireFjT" text="Sell This Workshop for {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="YT9giTet" text="Learning Limit"/>
     <string id="yUVv3z5V" text="Patrolling around {TARGET_SETTLEMENT}."/>
-    <string id="YVGtcLHF" text="Cavalry"/>
+    <string id="YVGtcLHF" text="Кавалерія"/>
     <string id="z2Slmx4N" text="There are still some room for more soldiers. Do you want to proceed?"/>
     <string id="z3Xg0IaG" text="Castles owned by {FACTION}"/>
     <string id="z8h0BRAb" text="Keep all holdings"/>
