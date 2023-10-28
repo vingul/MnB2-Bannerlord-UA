@@ -104,7 +104,7 @@
     <string id="1bbsq6uw" text="We should award this fief to a new clan"/>
     <string id="1be7OEQB" text="{VALUE}% armor while on foot."/>
     <string id="1BFk0wAV" text="defeats an enemy."/>
-    <string id="1Bm1Wk1v" text="Infantry"/>
+    <string id="1Bm1Wk1v" text="Піхота"/>
     <string id="1bw2uw8H" text="Wind Winder"/>
     <string id="1cKxsHSh" text="Penton"/>
     <string id="1cMS6415" text="Pay {FINE}{INFLUENCE_ICON}"/>
@@ -445,7 +445,7 @@
     <string id="5JaGVr0U" text="While traveling by a low range of hills, you see what appears to be the remains of a campsite in a stream gully."/>
     <string id="5jAH0VV7" text="Heir Come of Age"/>
     <string id="5JTEvvaO" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}бал{#}бали{#}балів{\#} фокусу: {SKILL_ONE} і {SKILL_TWO}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}бал{#}бали{#}балів{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
-    <string id="5k4dxUEJ" text="Troops"/>
+    <string id="5k4dxUEJ" text="Воїни"/>
     <string id="5kbeAC7k" text="In wartorn Calradia, especially in frontier or tribal areas, some women as well as men learn to fight from an early age. You..."/>
     <string id="5kxDhBWk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are not high enough but can be useful with sufficient garrison support."/>
     <string id="5ky3voFY" text="You have rejected handing over the revenue to the {QUEST_GIVER.LINK}. The {?QUEST_GIVER.GENDER}lady{?}lord{\?} is deeply disappointed in you."/>
@@ -4010,7 +4010,7 @@
     <string id="tZw45isr" text="Tell the villagers that they made their point and that you're leaving"/>
     <string id="u0Dc5g4Z" text="You are in your town of {SETTLEMENT_LINK}. {KEEP_INFO}"/>
     <string id="U0UoayfA" text="Good, good. Thank you again."/>
-    <string id="u12ocP9f" text="Hold '{EXTEND_KEY}' for more info."/>
+    <string id="u12ocP9f" text="Утримуйте '{EXTEND_KEY}', щоб дізнатись більше."/>
     <string id="u1lTJoPO" text="Nemos"/>
     <string id="u1Pkt4HC" text="Raiders"/>
     <string id="U2buPiec" text="Logistician"/>
@@ -4771,7 +4771,7 @@
     <string id="ytqqEyFw" text="You brought {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {ITEM} to {?QUEST_GIVER.GENDER}her{?}him{\?} as promised."/>
     <string id="yub5GWVq" text="What are you saying, exactly?[if:convo_thinking]"/>
     <string id="yuqLzmL9" text="I should remind you that I expect to be paid as you had promised."/>
-    <string id="YVGtcLHF" text="Cavalry"/>
+    <string id="YVGtcLHF" text="Кавалерія"/>
     <string id="Yvk8a2tb" text="Footwork"/>
     <string id="YVNZaVCA" text="What action do you have in mind?"/>
     <string id="yvXNvh2B" text="Yes, I brought your tools."/>
