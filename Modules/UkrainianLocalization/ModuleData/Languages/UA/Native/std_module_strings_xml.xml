@@ -27,14 +27,14 @@
     <string id="0RkO7oHP" text="captain"/>
     <string id="0rsySqR6" text="On {DAY_OF_YEAR}, {YEAR}, you heard of a conspiracy working in the shadows to forge the enemies of the Empire into an alliance."/>
     <string id="0T3bP5r6" text="{DAY} {?PLURAL_DAYS}days{?}day{\?}"/>
-    <string id="0V4jIIju" text="Travelling to {SETTLEMENT_NAME} to besiege."/>
+    <string id="0V4jIIju" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для облоги."/>
     <string id="0zNzaDGq" text="Blade"/>
     <string id="0zz1iDMY" text="a chieftain"/>
     <string id="11aiaODt" text="Foot Armor"/>
     <string id="13q8IRfZ" text="my sister {REFERING_HERO.LINK}"/>
     <string id="1AcoIQVl" text="You have arrived at {SETTLEMENT} to raid it. Some of the residents have gathered to resist you. Raiding this village will cause a war with the {KINGDOM}."/>
     <string id="1asbVsat" text="Capturing is done by surrounding an opposing pawn from both sides with your own pawns.{newline}Pawns can also be captured by blocking them against the center tile. This works for both players."/>
-    <string id="1Bm1Wk1v" text="Infantry"/>
+    <string id="1Bm1Wk1v" text="Піхота"/>
     <string id="1BSSOa8a" text="Ultra Armor"/>
     <string id="1cd6u0qn" text="Open the gates and sally out!"/>
     <string id="1CPdu9K0" text="Stone"/>
@@ -164,7 +164,7 @@
     <string id="5H0cDmm1" text="Gain a total of {SKILL_LEVEL_FOR_LEVEL_UP} skill points to level up this character."/>
     <string id="5IOct2ob" text="Order Requirement"/>
     <string id="5jVYwNCQ" text="Unpaid Wages"/>
-    <string id="5k4dxUEJ" text="Troops"/>
+    <string id="5k4dxUEJ" text="Воїни"/>
     <string id="5kS1qjZL" text="There is already an unresolved decision on this settlement."/>
     <string id="5lDYh7wJ" text="You've constructed a barrier against your opponent, but have fewer pawns left. You lost the game!"/>
     <string id="5lT70YJY" text="On {DAY_OF_YEAR}, {YEAR}, you heard rumors of a secret pact being forged between the rival imperial factions so that they can combine their forces against the enemies of the empire."/>
@@ -192,7 +192,7 @@
     <string id="6dNTZdPf" text="Stop there, in the name of the free men of the mountain! Now, what have you got for us?"/>
     <string id="6e82kCVB" text="Low-Grip Polearm"/>
     <string id="6GmsZ7AG" text="You gave {COUNT} {ITEM} to {PARTY_NAME}."/>
-    <string id="6GSXsdeX" text="Speed"/>
+    <string id="6GSXsdeX" text="Швидкість"/>
     <string id="6jp724SU" text="Enemies"/>
     <string id="6Jx6qbZn" text="Defend{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} walls"/>
     <string id="6kqK0kUn" text="There is no need to stay on the defense. Patrol the area."/>
@@ -475,7 +475,7 @@
     <string id="Btglp7Ij" text="You cannot expel your own clan."/>
     <string id="btil6Rdb" text="What have we here? Looks like the mountain spirits have answered our prayers, and granted us success in the hunt."/>
     <string id="BtnJh0j4" text="At War"/>
-    <string id="buQvCDbP" text="Travelling to {SETTLEMENT_NAME} to defend."/>
+    <string id="buQvCDbP" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для захисту."/>
     <string id="BVaXBAr9" text="Roll Dice"/>
     <string id="bWcpv1ou" text="No Settlement Selected"/>
     <string id="bWVG2s2h" text="You can only move a pawn that has an opposing pawn next to it, to the center tile.{newline}Every pawn can freely be moved one tile along the outer edge.{newline}A pawn on the center tile can move to any available tile."/>
@@ -633,7 +633,7 @@
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
     <string id="EMVLtu5L" text="{HERO.LINK} gained {?PLURAL}{GAINED_POINTS} skill points{?}a skill point{\?} in {SKILL_NAME} and is now {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
-    <string id="enhza8zr" text="Faction"/>
+    <string id="enhza8zr" text="Фракція"/>
     <string id="eNQgzubm" text="Fight on foot. Move on map on foot."/>
     <string id="entirestackdiscarditems" text="Hold [{KEY_NAME}] to do all"/>
     <string id="entirestackrecruitunits" text="Hold [{KEY_NAME}] to do all"/>
@@ -1013,7 +1013,7 @@
     <string id="KE9rdUhD" text="- {HERO_NAME}"/>
     <string id="keqS2dGa" text="???"/>
     <string id="kftE5nvv" text="Horse Armor"/>
-    <string id="KGH8rjOP" text="Travelling to {SETTLEMENT_NAME} to raid."/>
+    <string id="KGH8rjOP" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для набігу."/>
     <string id="KGHlXL8H" text="Very well - we shall cleanse this land with your blood."/>
     <string id="KGjFnVsR" text="Concepts"/>
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}"/>
@@ -1315,7 +1315,7 @@
     <string id="Pc0zpaGa" text="Aye, what have we here? There's a tax for passage in these parts, traveler, paid either in coin or in blood.[if:convo_bared_teeth]"/>
     <string id="pcy8IXDf" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}"/>
     <string id="PDdh1sBj" text="Name"/>
-    <string id="PdXqoa2W" text="Travelling to {SETTLEMENT_NAME}."/>
+    <string id="PdXqoa2W" text="Прямує до {SETTLEMENT_NAME}{.v_rod}."/>
     <string id="PE4nuMc7" text="This page explains the game concepts in Bannerlord"/>
     <string id="PEKxMxal" text="You can now escape."/>
     <string id="pEm60xEX" text="Your opponent captures a pawn."/>
@@ -1421,7 +1421,7 @@
     <string id="QPoA6vvx" text="Income"/>
     <string id="qQLh6S2w" text="SP {CURRENTAMOUNT}/{TARGETAMOUNT}"/>
     <string id="qR0s1VvE" text="You hear some complaints about prices, shortages and greedy merchants, but no more than normal."/>
-    <string id="qRqnrtdX" text="Owner"/>
+    <string id="qRqnrtdX" text="Власник"/>
     <string id="qSC0t1lY" text="On {DAY_OF_YEAR}, {YEAR}, {FIRST_HERO} married {SECOND_HERO}."/>
     <string id="qsh0I4Rm" text="Your opponent rolls a {DICE_ROLL}."/>
     <string id="qSi4DlT4" text="Food"/>
@@ -1445,7 +1445,7 @@
     <string id="R7v2UD8b" text="You move a pawn."/>
     <string id="R9DiQfax" text="Battle"/>
     <string id="RaAnj4On" text="Defenders"/>
-    <string id="rangedtroop" text="Ranged"/>
+    <string id="rangedtroop" text="Воїни дальнього бою"/>
     <string id="ranksign" text="#"/>
     <string id="rBieLPA7" text="You're over your troops limit.{newline}You will temporarily keep your troops but after some time they will quickly abandon your party. You will also slow down.{newline}Are you sure?"/>
     <string id="Rbn9l507" text="Rebel settlement bonus"/>
@@ -1534,7 +1534,7 @@
     <string id="Svtb9MQv" text="Duel"/>
     <string id="SwY4YLMY" text="The Dragon Banner stands tall once again."/>
     <string id="SydDh9jf" text="You received {COUNT} {ITEM} from {HERO.NAME}."/>
-    <string id="SyklU5aP" text="Information"/>
+    <string id="SyklU5aP" text="Інформація"/>
     <string id="SYm7rgCX" text="{COMPANION.LINK} has left your party."/>
     <string id="sZLd6VHi" text="Khuzait"/>
     <string id="szSjkkyl" text="We should choose our next object."/>
@@ -1597,7 +1597,7 @@
     <string id="TxeKpK3Y" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {HERO.NAME}."/>
     <string id="tXl9REtA" text="Militia of {SETTLEMENT_NAME}"/>
     <string id="Tyc4aAdz" text="Join the battle without leading any men."/>
-    <string id="u12ocP9f" text="Hold '{EXTEND_KEY}' for more info."/>
+    <string id="u12ocP9f" text="Утримуйте '{EXTEND_KEY}', щоб дізнатись більше."/>
     <string id="u3c9M8vx" text="an archoness"/>
     <string id="U7er3V9s" text="Items"/>
     <string id="U7etPQA2" text="{FIRSTNAME} the {JOB_NAME}"/>
@@ -1689,7 +1689,7 @@
     <string id="vnmy8Bjl" text="Total Expenses "/>
     <string id="vo867CHX" text="Completed quests in the last year"/>
     <string id="vOgACpuD" text="Companions"/>
-    <string id="VOYhAyJh" text="Press '{MODIFIER_KEY}' + '{CLICK_KEY}' to follow."/>
+    <string id="VOYhAyJh" text="Натисніть {MODIFIER_KEY}' + '{CLICK_KEY}', щоб слідувати."/>
     <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}"/>
     <string id="VpCa9ATa" text="Right. You're dead.[ib:aggressive][if:convo_insulted]"/>
     <string id="VpKIzJxz" text="Well there, traveller. We've just made landfall in these lands, hoping for a bit of luck with the raiding and pillaging, and aren't you a sight for sore eyes?[rf:convo_mocking_revenge]"/>
@@ -1813,7 +1813,7 @@
     <string id="y3cP8Etv" text="Quest Canceled: {QUEST_TITLE}"/>
     <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from infantry cover."/>
     <string id="Y4fht2kI" text="Notable Characters"/>
-    <string id="y4MiEr0H" text="Troop Types"/>
+    <string id="y4MiEr0H" text="Типи воїнів"/>
     <string id="Y5byltUT" text="sultan"/>
     <string id="y8Catvvn" text="Ranged Weapons III"/>
     <string id="y8tOrlnJ" text="eleventh"/>
@@ -1865,7 +1865,7 @@
     <string id="ytYPOCZ8" text="{NUMBER}% Completed"/>
     <string id="YukbQgHJ" text="Missile Speed: "/>
     <string id="yUo269Us" text="Thanks for your help, stranger. We haven't met properly yet, have we? What is your name?"/>
-    <string id="YVGtcLHF" text="Cavalry"/>
+    <string id="YVGtcLHF" text="Кавалерія"/>
     <string id="yVLv2Q23" text="Proceed"/>
     <string id="YvwQL9aa" text="Weight: "/>
     <string id="yWD4Nwy2" text="We should help our allies."/>
