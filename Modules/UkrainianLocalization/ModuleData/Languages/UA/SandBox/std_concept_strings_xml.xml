@@ -6,7 +6,7 @@
   <strings>
     <string id="0oGz5rVx" text="Honor"/>
     <string id="0TJMEsbl" text="Calculation"/>
-    <string id="1Bm1Wk1v" text="Infantry"/>
+    <string id="1Bm1Wk1v" text="Піхота"/>
     <string id="1z581Cap" text="Death and Inheritance"/>
     <string id="2aMyr5AK" text="Trade Goods"/>
     <string id="2I2uKJlw" text="Mercy"/>
@@ -94,7 +94,7 @@
     <string id="xh3ThwRz" text="Castles are {SETTLEMENTS_LINK} that represent a fortress, with minimal civilian population. Like {TOWNS_LINK}, castles control {VILLAGES_LINK}, but do not themselves produce or consume goods. "/>
     <string id="xj0MgUO0" text="Crime"/>
     <string id="yKLlvPqu" text="Army cohesion"/>
-    <string id="YVGtcLHF" text="Cavalry"/>
+    <string id="YVGtcLHF" text="Кавалерія"/>
     <string id="zeJHD2qj" text="Villages are {SETTLEMENTS_LINK} that represent the center of a rural district, a medium-sized community surrounded by outlying farms and hamlets. They are not fortified, and instead are bound to nearby {TOWNS_LINK} or {CASTLES_LINK}, and are conquered when that town or castle is conquered. They produce food and raw materials, which they send to the nearest town in exchange for manufactured goods. They are home to headmen, rich or charismatic peasants who speak for the others, as well as landowners, who own property and employ many of the other villagers as tenants. Villages have Hearths, a measure of their size and economic output."/>
   </strings>
 </base>
