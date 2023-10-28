@@ -60,7 +60,7 @@
     <string id="4WZ9zJbF" text="I do not know where the other pieces are, you may need to keep searching for them."/>
     <string id="5D5lOHSL" text="When you have recovered all pieces, return to me and I'll help you put them to use."/>
     <string id="5g9ZFGrN" text="You are at a training field. You can learn the basics of combat here."/>
-    <string id="5HXS8HEY" text="your brawn."/>
+    <string id="5HXS8HEY" text="винятковою силою."/>
     <string id="5j6qvGAF" text="Excellent work! When you unfurl this banner, and men see what they thought was lost, it will make a powerful impression."/>
     <string id="5K4wvz3w" text="Find and meet {HERO.LINK} to learn more about Neretzes' Banner. He is currently in {SETTLEMENT}."/>
     <string id="5kbeAC7k" text="In wartorn Calradia, especially in frontier or tribal areas, some women as well as men learn to fight from an early age. You..."/>
@@ -106,7 +106,7 @@
     <string id="8GCW5IRO" text="I was trying to find out more about it, but, as I say, I've had all my urge for travelling flogged out of me. Right now I don't think I'd venture more than 20 paces from a well as long as I live.[ib:demure]"/>
     <string id="8OIwHZF1" text="Hideout"/>
     <string id="8QX1QHAJ" text="Attack from left."/>
-    <string id="8Yiwt1z6" text="Early Childhood"/>
+    <string id="8Yiwt1z6" text="Раннє дитинство"/>
     <string id="9aoQYpZs" text="Your family's clan never pledged its loyalty to the khan and never settled down, preferring to live out in the deep steppe away from his authority. They remain some of the finest trackers and scouts in the grasslands, as the ability to spot an enemy coming and move quickly is often all that protects their herds from their neighbors' predations."/>
     <string id="9aRqqx3U" text="The caravan has delivered its supplies to the conspirators. A stronger adversary awaits us..."/>
     <string id="9aY0ifwi" text="We shall meet again..."/>
@@ -168,7 +168,7 @@
     <string id="bjVMtW3W" text="Your family were merchants who lived in one of Sturgia's great river ports, organizing the shipment of the north's bounty of furs, honey and other goods to faraway lands."/>
     <string id="bkZFbCRx" text="We're looking for two children captured by the raiders. Can you tell us anything?"/>
     <string id="BleybhsD" text="Imperial cataphracts showed up, armored head to foot and their horses too, so they just ignored our shooting and tore right through us. I was swept away in the retreat and saw no more of the battle. King Derthert had a good enough plan but the barons - Ingalther, Aldric, that lot - ignored him, as they always do."/>
-    <string id="BLZ4mdhb" text="Ваша сім'я була дрібними землевласниками, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
+    <string id="BLZ4mdhb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
     <string id="bmitHhDt" text="Our dear old beloved King Aeril, a wonderful man but with a heart perhaps just a might too tender, did not wish for us to go off to war. But then he disappeared and I, his son-in-law, ascended to the kingship. The clans cried out for war! They had a hundred years of crimes against them to avenge. I, a father to my people, gave them what they wanted."/>
     <string id="bNcGO33Q" text="We think they've gone north. I reckon there are a few folk around here who'll join you in going after them if you'll pay for their gear."/>
     <string id="bNqLQKQS" text="You are out of food. There is a village called {VILLAGE_NAME} north of here where you can buy provisions and find some help."/>
@@ -200,7 +200,7 @@
     <string id="CEqKkY3m" text="Defend from up."/>
     <string id="cfTiiEEM" text="The Empire has a genius for destruction - the destruction of languages, traditions, gods. It takes our fortresses, slaughters our men, and turns our children into its own children."/>
     <string id="ch9f3A1e" text="Greetings, {?PLAYER.GENDER}madam{?}sir{\?}. Why did you stop our caravan? I trust you are not robbing us."/>
-    <string id="character_creation_content_16" text="As a child you were noted for..."/>
+    <string id="character_creation_content_16" text="У дитинстві ви вирізнялися за..."/>
     <string id="CITG915d" text="joined a commander's staff."/>
     <string id="Cl4xi6Be" text="Finally, you need a capital. Any settlement will do, so long as the inhabitants speak the imperial language."/>
     <string id="cLZWjrZP" text="They have moved to another hiding place."/>
@@ -276,7 +276,7 @@
     <string id="fBJRdxh2" text="Try again."/>
     <string id="FBp2ranI" text="So, can you help me find a buyer for it?"/>
     <string id="fC60rYwy" text="Attack from right."/>
-    <string id="FfNwXtii" text="If the wolf pup gang of your early childhood had an alpha, it was definitely you. All the other kids followed your lead as you decided what to play and where to play, and led them in games and mischief."/>
+    <string id="FfNwXtii" text="Якщо у дитинстві у вашій зграї вовченят і був лідер, то це, безумовно, були ви. Всі інші діти йшли за вами, оскільки ви вирішували, у що і де грати. Ви керували ними в цих іграх і різного роду бешкетах."/>
     <string id="Fgta5mF6" text="Before I answer, you and I need to know more about each other. I don't know what you know about me.  I was a citizen of the Empire. I was a commander in the imperial armies. But I am not imperial."/>
     <string id="FHM5GcHW" text="Good. Then I will tell you what I know. I heard about one other piece."/>
     <string id="FhZPjhli" text="Your hometown was briefly placed under siege, and you were called to defend the walls. Everyone did their part to repulse the enemy assault, and everyone is justly proud of what they endured."/>
@@ -305,7 +305,7 @@
     <string id="gdgbaMOP" text="I am not sure I share your views."/>
     <string id="GDNXavAl" text="There's nothing special about our Empire. Any one of these petty kings and khans and sultans could probably get lucky and conquer Calradia and do as good a job ruling it as we did. But the point is - we already did it. Our greatest crimes are in the past. Let us not undo what has already been done."/>
     <string id="GeNKQlHR" text="Members of the chieftain's hearthguard"/>
-    <string id="GEYzLuwb" text="your way with people."/>
+    <string id="GEYzLuwb" text="товариськістю."/>
     <string id="GFUggps8" text="marched with the camp followers."/>
     <string id="GGfM1HKn" text="Welcome to MBII Bannerlord"/>
     <string id="Ghz90npw" text="Your family owned a few horses at the town stables and you took charge of their care. Many evenings you would take them out beyond the walls and gallup through the fields, racing other youth."/>
@@ -408,7 +408,7 @@
     <string id="kIklPYto" text="Are you ready to leave here?"/>
     <string id="kJwV17Jx" text="Yes. We will never forget that day... The day we learned that the old men who claimed they had the right to rule us were doddering incompetents."/>
     <string id="kJxPtbHo" text="At the end of the day, what have we gained? The Sturgians hate us worse than ever. The Vlandians too. The Empire, I suppose, is shattered. What can I say... I believe that wars should have a goal. But I am a minority, it seems, among our people."/>
-    <string id="kmM68Qx4" text="your leadership skills."/>
+    <string id="kmM68Qx4" text="лідерськими здібностями."/>
     <string id="kNXet6Um" text="you had a famous escapade in town."/>
     <string id="kqj1Wp0f" text="You have decided to keep the Dragon Banner within the kingdom you are ruling."/>
     <string id="kTaYz2mo" text="You talked with {HERO.NAME}."/>
@@ -443,7 +443,7 @@
     <string id="mc78FEbA" text="A boyar's companions"/>
     <string id="Mcd3ZyKq" text="Your family had just enough land to feed themselves and make a small profit. People like them were the pillars of the kingdom's economy, as well as the backbone of the levy."/>
     <string id="MDtTC5j5" text="Don't hurt us![ib:weary][if:convo_confused_annoyed]"/>
-    <string id="MEgLE2kj" text="your skill with horses."/>
+    <string id="MEgLE2kj" text="майстерністю поводження з кіньми."/>
     <string id="MfczTFxp" text="This looks like an old training field for the legions. Perhaps we can spare some time and brush up on our skills. The practice could come in handy when we catch up with the raiders."/>
     <string id="mfRbx5KE" text="reading and studying."/>
     <string id="MFrIHJZM" text="Your family was from a smaller offshoot of an emir's tribe. Your father's land gave him enough income to afford a horse but he was not quite wealthy enough to buy the armor needed to join the heavier cavalry. He fought as one of the light horsemen for which the desert is famous."/>
@@ -534,7 +534,7 @@
     <string id="QOVLkdTp" text="A conspiracy war party is now patrolling around {SETTLEMENT}."/>
     <string id="qp2zYfua" text="I was hoping to find more treasure here, but I think business wasn't going too well for {RADAGOS.NAME} and his gang."/>
     <string id="qPg3IDiq" text="Your family came from one of the merchant clans that dominated the cities in eastern Calradia before the Khuzait conquest. They adjusted quickly to their new masters, keeping the caravan routes running and ensuring that the tariff revenues that once went into imperial coffers now flowed to the khanate."/>
-    <string id="QrYjPUEf" text="your attention to detail."/>
+    <string id="QrYjPUEf" text="увагою до деталей."/>
     <string id="qV1e0x8i" text="What is 'Neretzes' Folly'?"/>
     <string id="QVkuaezc" text="Hunt the conspiracy war party"/>
     <string id="QxeKZ3nE" text="Reach Clan Tier {CLAN_TIER}"/>
@@ -715,7 +715,7 @@
     <string id="Xx94UrYe" text="I might be. What are you carrying? Honest goods, or weapons? How about you let us have a look."/>
     <string id="y150haHv" text="Disrupt Supply Lines"/>
     <string id="y3fn2vWY" text="Recruit Troops"/>
-    <string id="Y3UcaX74" text="your aptitude for numbers."/>
+    <string id="Y3UcaX74" text="математичним здібностями."/>
     <string id="y6j1bJTH" text="You were apprenticed to the local smith. You learned how to heat and forge metal, hammering for hours at a time until your muscles ached."/>
     <string id="Y6OJHdMH" text="I am a busy man, but there is always time to talk about the blessed battle of Pendraic."/>
     <string id="Y6SqyQwn" text="Meet with {HERO.NAME}"/>
@@ -737,7 +737,7 @@
     <string id="yS7PvrTD" text="OK"/>
     <string id="ysRVZiA6" text="As you explore Calradia, you can learn more about your artifact and its importance by asking any lord or lady about the Empire's recent history."/>
     <string id="yub8ZSFP" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {IMPERIAL_MENTOR.LINK} and take {?IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}."/>
-    <string id="yYhX6JQC" text="Your father joined one of Vlandia's many mercenary companies, composed of men who got such a taste for war in their lord's service that they never took well to peace. Their crossbowmen were much valued across Calradia. Your mother was a camp follower, taking you along in the wake of bloody campaigns."/>
+    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів найманців Вландії, що складався з людей, які так сильно звикли до війни, служачи своєму пану, що вже не мислили мирного життя для себе. Їхні арбалетники високо цінувалися по всій Калрадії. Ваша мати була прибічницею життя в таборі і брала вас із собою у криваві походи."/>
     <string id="z3VamNrX" text="Send in your troops."/>
     <string id="Z54ZrDG9" text="Until next time, then."/>
     <string id="z8LQn2Uh" text="You have arrived at the hideout."/>
