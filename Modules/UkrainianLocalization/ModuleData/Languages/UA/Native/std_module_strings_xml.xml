@@ -1445,7 +1445,7 @@
     <string id="R7v2UD8b" text="You move a pawn."/>
     <string id="R9DiQfax" text="Battle"/>
     <string id="RaAnj4On" text="Defenders"/>
-    <string id="rangedtroop" text="Воїни дальнього бою"/>
+    <string id="rangedtroop" text="Стрільці"/>
     <string id="ranksign" text="#"/>
     <string id="rBieLPA7" text="You're over your troops limit.{newline}You will temporarily keep your troops but after some time they will quickly abandon your party. You will also slow down.{newline}Are you sure?"/>
     <string id="Rbn9l507" text="Rebel settlement bonus"/>
@@ -1689,7 +1689,7 @@
     <string id="vnmy8Bjl" text="Total Expenses "/>
     <string id="vo867CHX" text="Completed quests in the last year"/>
     <string id="vOgACpuD" text="Companions"/>
-    <string id="VOYhAyJh" text="Натисніть {MODIFIER_KEY}' + '{CLICK_KEY}', щоб слідувати."/>
+    <string id="VOYhAyJh" text="Натисніть '{MODIFIER_KEY}' + '{CLICK_KEY}', щоб слідувати."/>
     <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}"/>
     <string id="VpCa9ATa" text="Right. You're dead.[ib:aggressive][if:convo_insulted]"/>
     <string id="VpKIzJxz" text="Well there, traveller. We've just made landfall in these lands, hoping for a bit of luck with the raiding and pillaging, and aren't you a sight for sore eyes?[rf:convo_mocking_revenge]"/>
