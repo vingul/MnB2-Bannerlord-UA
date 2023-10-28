@@ -7,7 +7,7 @@
     <string id="0647tsif" text="Профіль"/>
     <string id="08KLQa3P" text="Очікуємо членів загону"/>
     <string id="0af2iQvw" text="У клану немає ніяких оголошень"/>
-    <string id="0B27RrYJ" text="{.FI}Баттанія"/>
+    <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
     <string id="0DnHFlia" text="Не в клані"/>
     <string id="0FVlAbbJ" text="Золото III"/>
     <string id="0Itt3bZM" text="Файл з налаштуванням прив'язок клавіш застарів. Прив'язки були повернуті до значень за замовчуванням."/>
@@ -101,7 +101,7 @@
     <string id="aO3avkK9" text="Створення матчів вимкнено"/>
     <string id="ApD0xQXT" text="{STR1}: {STR2}"/>
     <string id="aRzlp5XH" text="СТВОРИТИ"/>
-    <string id="aseraifaction" text="{.MI}Султанат{.nn} асераїв"/>
+    <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
     <string id="atUHbDeM" text="Обертання камери на карті"/>
     <string id="aVixswW5" text="Вибір команди"/>
     <string id="aVNXGUQI" text="Наразі немає гравців з рангом {MAX_RANK}."/>
@@ -153,7 +153,7 @@
     <string id="cZNA5Z6l" text="Формування {NUMBER}"/>
     <string id="D0TbQm4r" text="ПРОЛОМ"/>
     <string id="d1tCz15N" text="Утримуйте, щоб кинути"/>
-    <string id="d5SNB0HV" text="Взяти {._}{ITEM_NAME}{.a}"/>
+    <string id="d5SNB0HV" text="Взяти {._}{ITEM_NAME}{.v_zna}"/>
     <string id="d7ysGcsN" text="Видалити друга"/>
     <string id="D9zIAw9y" text="Запросити в клан"/>
     <string id="DAVb2Pzg" text="Шкода від заряду"/>
@@ -182,7 +182,7 @@
     <string id="EFU3uo0y" text="Ви отримали {POINTS} балів"/>
     <string id="eGuQKRhb" text="Ви покидаєте цю область!"/>
     <string id="ehkVpzpa" text="Неможливо отримати інформацію про косметичний предмет"/>
-    <string id="empirefaction" text="{.FI}Імперія"/>
+    <string id="empirefaction" text="{.f}Імперія{.R_n10_p1}"/>
     <string id="EmVbbIUc" text="Повернутися"/>
     <string id="EQAjujjO" text="Неможливо отримати інформацію про створення клану"/>
     <string id="eQPSEUml" text="Покинутий"/>
@@ -202,7 +202,7 @@
     <string id="FgFUsncP" text="За спаданням"/>
     <string id="FhnKJODX" text="Фракція A"/>
     <string id="FjmxNxZJ" text="Тег містить невірні символи"/>
-    <string id="FjwRsf1C" text="{.FI}Вландія"/>
+    <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
     <string id="FKe05WtJ" text="Вбито"/>
     <string id="fLddxLjh" text="Запросити в клан"/>
     <string id="fM9E7frB" text="Продуктивність"/>
@@ -366,7 +366,7 @@
     <string id="peUP9ZZj" text="Ви впевнені? Внесені вами зміни будуть втрачені."/>
     <string id="pguhTmXw" text="Результати битви"/>
     <string id="photomodefocus" text="Фокусування"/>
-    <string id="PjO7oY16" text="{.FI}Стургія"/>
+    <string id="PjO7oY16" text="{.f}Стургія{.R_n10}"/>
     <string id="pK4EyTZC" text="Ви хочете зберегти ці налаштування?"/>
     <string id="playgame" text="Грати"/>
     <string id="PmbKYDON" text="Радіти"/>
@@ -432,7 +432,7 @@
     <string id="SwSaXwQg" text="дос"/>
     <string id="SyklU5aP" text="Інформація"/>
     <string id="SYYOSOoa" text="Готово"/>
-    <string id="sZLd6VHi" text="{.NI}Хузаїтське{.aj} {.NI}ханство{.nn}"/>
+    <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="SzRVIPeZ" text="Увімкнути всі звуки"/>
     <string id="TAnabTdy" text="Точність"/>
     <string id="tC9C8TLi" text="Додати друга"/>
