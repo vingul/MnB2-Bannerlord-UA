@@ -1149,7 +1149,7 @@
     <string id="bLRGix1b" text="Yes, I have them with me."/>
     <string id="BLrwIj7s" text="More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more..."/>
     <string id="BlVjIlZF" text="{FACTION_LEADER} will decide if the {KINGDOM_CONSIDERING_PEACE_NAME} will make peace with the {KINGDOM_NAME} by paying {TRIBUTE_PERCENTAGE} percent of the kingdom's income as tribute. You can pick your stance regarding this decision."/>
-    <string id="BLZ4mdhb" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the kingdom's economy, as well as the backbone of the levy."/>
+    <string id="BLZ4mdhb" text="Ваша сім'я була дрібними землевласниками, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
     <string id="bm2DzxEl" text="{ATTRIBUTE1} is increased by {NUMBER_AP}."/>
     <string id="bm3eSbBD" text="{VALUE}% stun duration for kicking."/>
     <string id="Bm7U7TgG" text="If you're going to keep pestering us, traveller, we might need to take a bit more coin from you."/>
@@ -1221,7 +1221,7 @@
     <string id="bteVVFh0" text="{VALUE} gold for each caravan visiting the governed settlement."/>
     <string id="bTj16PqR" text="Every well-born youth wants to see the center of it all, where the lords and ladies gather in splendor to converse and connive. You invited the child to see the spectacle first hand, and provided the elegant clothes {?CHILD.GENDER}she{?}he{\?}'d need to be part of it. "/>
     <string id="bTKiN0hr" text="worked in the village smithy."/>
-    <string id="btsMpRcA" text="Your family owned a smithy in a city. Your father played an active if minor role in the town council, and also served in the militia."/>
+    <string id="btsMpRcA" text="Ваша сім'я володіла кузнею в місті. Батько мав вплив, хоч і незначний, у міській раді, а також служив в ополченні."/>
     <string id="bu2rmgY1" text="{FIRSTNAME} of the Willow-Tree"/>
     <string id="bue9AShm" text="I swear to fight your enemies and give shelter and water to your friends..."/>
     <string id="BUf9WeyN" text="I don't think you can help me. You should rest for a while and let your wounds heal."/>
@@ -3478,7 +3478,7 @@
     <string id="qNSOb7pJ" text="Once again, this is not something I'm happy with..."/>
     <string id="QNV1b5s5" text="Are those poachers still in business?"/>
     <string id="qNxdWLFY" text="So you want me to hunt them down?"/>
-    <string id="qNZFkxJb" text="Your family were merchants in one of the main cities of the kingdom. They organized caravans to nearby towns and were active in the local merchant's guild."/>
+    <string id="qNZFkxJb" text="Ваша родина була купцями в одному з головних міст королівства. Вони організовували каравани до сусідніх міст і мали вплив у місцевій гільдії купців."/>
     <string id="QO0EX2O3" text="Sure. I can order one of my companions and {TROOP_AMOUNT} men to escort your herds to pasture in {TARGET_SETTLEMENT}."/>
     <string id="qObicX7y" text="I swear to heed your judgements according to the laws of the Aserai, and ensure that my kinfolk heed them as well..."/>
     <string id="qOhDHFyH" text="Are you another one of {QUEST_GIVER.NAME}'s lackeys? Did {?QUEST_GIVER.GENDER}she{?}he{\?} send you to hunt me like an animal? Well, I think you've found you've caught not a hare but a lion."/>
