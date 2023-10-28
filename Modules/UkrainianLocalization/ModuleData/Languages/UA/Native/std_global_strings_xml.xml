@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="02Qqpama" text="Нахилити камеру праворуч (За годинниковою стрілкою)."/>
-    <string id="03mPaWum" text="{.NI}Королівство"/>
+    <string id="03mPaWum" text="{.n}Королівство{.R_n2n_p1}"/>
     <string id="08oulGov" text="Викинути споряджену зброю."/>
     <string id="0BwwHF1s" text="Перемістити камеру вліво на карті кампанії."/>
     <string id="0EDGnl1C" text="Тільки для далекобійної зброї"/>
