@@ -93,7 +93,7 @@
     <string id="qoLWSdRE" text="fen Eingal"/>
     <string id="RWOYui01" text="The Jawwal, or “Roamers,” are the main bedouin confederacy in the Nahasa desert. They wander from highland to lowland grazing grounds, declaring huge swathes of the desert their “territory” in which any caravan must offer protection money. They compose poems of their deeds and mock other clans of the Banu Asera for having given up the “freedom” of black wool tents for stone houses in the oases. The other clans consider them boastful nuisances, though grudgingly respecting them as protectors of the old Aserai ways."/>
     <string id="s0AVQCbJ" text="Togaroving"/>
-    <string id="sAbjtZbB" text="Forest Bandits"/>
+    <string id="sAbjtZbB" text="{.p}Лісовий{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="SCTf5cay" text="Vatatzes"/>
     <string id="Ssl38GEF" text="Legion"/>
     <string id="tA3IRBgv" text="Impestores"/>
