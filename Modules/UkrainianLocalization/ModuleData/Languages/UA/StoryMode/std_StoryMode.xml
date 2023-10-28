@@ -737,7 +737,7 @@
     <string id="yS7PvrTD" text="OK"/>
     <string id="ysRVZiA6" text="As you explore Calradia, you can learn more about your artifact and its importance by asking any lord or lady about the Empire's recent history."/>
     <string id="yub8ZSFP" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {IMPERIAL_MENTOR.LINK} and take {?IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}."/>
-    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів найманців Вландії, що складався з людей, які так сильно звикли до війни, служачи своєму пану, що вже не мислили мирного життя для себе. Їхні арбалетники високо цінувалися по всій Калрадії. Ваша мати була прибічницею життя в таборі і брала вас із собою у криваві походи."/>
+    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів найманців Вландії, що складався з людей, які так сильно звикли до війни, служачи своєму пану, що вже не мислили мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і брала вас із собою у криваві походи."/>
     <string id="z3VamNrX" text="Send in your troops."/>
     <string id="Z54ZrDG9" text="Until next time, then."/>
     <string id="z8LQn2Uh" text="You have arrived at the hideout."/>
