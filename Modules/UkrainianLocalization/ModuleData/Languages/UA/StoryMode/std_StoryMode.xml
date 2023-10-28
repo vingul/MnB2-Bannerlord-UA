@@ -221,7 +221,7 @@
     <string id="dDmcqTzb" text="Yours wasn't the kind of reputation that local legends are made of, but it was the kind that wins you respect among those around you. You were consistently fair and honest in your business dealings and helpful to those in trouble. In doing so, you got a sense of what made people tick."/>
     <string id="dE2ufxte" text="Before we do anything else... We're low on food. There's a village north of here where we can buy provisions and find some help. You're a better rider than I am so I'll let you lead the way..."/>
     <string id="DfiACGay" text="Destroy Raiders"/>
-    <string id="DFidSjIf" text="Most children around you had only the most rudimentary education, but you lingered after class to study letters and mathematics. You were fascinated by the marketplace - weights and measures, tallies and accounts, the chatter about profits and losses."/>
+    <string id="DFidSjIf" text="Більшість дітей навколо вас мали лише базову освіту, але ви затримувалися після уроків, щоб вчитись читати та рахувати. Вас зачаровував ринок - ваги та міри, списки та рахунки, розмови про доходи та видатки."/>
     <string id="Dfmg8stq" text="Eliminate {FACTION}"/>
     <string id="Dgdopl1b" text="How can I create my own imperial kingdom?"/>
     <string id="DIgsfYfz" text="You took your family's goods to the nearest town to sell your produce and buy supplies. It was hard work, but you enjoyed the hubbub of the marketplace."/>
@@ -389,7 +389,7 @@
     <string id="joRHKCkm" text="Your family needed someone trustworthy to take a caravan to a neighboring town. You organized supplies, ensured a constant watch to keep away bandits, and brought it safely to its destination."/>
     <string id="jPKIN2r4" text="One more thing. When you are talking to nobles and other people of importance, make sure you present yourself as someone from a distant but distinguished family."/>
     <string id="JTPmw3cb" text="You couldn't complete the quest in time."/>
-    <string id="JUSHAPnu" text="You were quick on your feet and attentive to what was going on around you. Usually you could run away from trouble, though you could give a good account of yourself in a fight with other children if cornered."/>
+    <string id="JUSHAPnu" text="Ви були дуже прудким та пильно стежили за всім навколо. Зазвичай це давало вам можливість уникати будь-яких неприємностей, але ви також могли постояти за себе в бійці з іншими дітьми, якщо були загнані в кут."/>
     <string id="Jvf6K7TZ" text="Your family numbered among the many poor migrants living in the slums that grow up outside the walls of imperial cities, making whatever money they could from a variety of odd jobs. Sometimes they did service for one of the Empire's many criminal gangs, and you had an early look at the dark side of life."/>
     <string id="JVkPkbdg" text="You could not weaken the Empire."/>
     <string id="JWLBKIkR" text="Headman {HEADMAN.FIRSTNAME}"/>
@@ -465,7 +465,7 @@
     <string id="N5Qg5ick" text="You told {MENTOR.LINK} that you will create your own imperial faction. You can do that by speaking to one of your governors once you fulfill the requirements. {?MENTOR.GENDER}She{?}He{\?} expects to talk to you once you succeed."/>
     <string id="n8pmVHNn" text="Yes, I am ready."/>
     <string id="NdkqUnXb" text="To have a chance as an imperial contender, you must fullfil some conditions."/>
-    <string id="ngazFofr" text="You were always drawn to animals, and spent as much time as possible hanging out in the village stables. You could calm horses, and were sometimes called upon to break in new colts. You learned the basics of veterinary arts, much of which is applicable to humans as well."/>
+    <string id="ngazFofr" text="Вас завжди тягнуло до тварин, тому найбільше часу ви проводили в сільській стайні. Ви вміли заспокоювати коней і через це вам іноді доручали об'їжджати молодих жеребців. Ви вивчили основи ветеринарного мистецтва, тому за потреби навіть могли лікувати людей."/>
     <string id="NGbgfPoP" text="I was there. Many of the Khuzaits went. Mostly the Khergit clan, who were hungry for glory, but I was also young and hungry for glory so I went along as well."/>
     <string id="ngFVgwDD" text="Warrior-slaves"/>
     <string id="NItH4oL6" text="Well, if they're still pillaging they may have split up into smaller groups. Hopefully we won't need to take them all on at once. But it would help if we could hire or persuade some people to join us."/>
@@ -660,7 +660,7 @@
     <string id="VN4ctHIU" text="Buy products"/>
     <string id="vxDVCK3n" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again."/>
     <string id="w0CUaEU7" text="You haven't cut my throat yet, which was a wise move. I'm sure I can find a way to be worth more to you alive than dead."/>
-    <string id="w2TEQq26" text="You were always attentive to other people, good at guessing their motivations. You studied how individuals were swayed, and tried out what you learned from adults on your friends."/>
+    <string id="w2TEQq26" text="Ви завжди були уважними до інших людей, вміли добре вгадувати їхні мотиви. Ви вивчали, як саме можна впливати на людей, і те, що ви дізнавалися від дорослих, випробовували на своїх друзях."/>
     <string id="W49eUmpT" text="You can dismount from horse with {CROUCH_KEY}, or {ACTION_KEY} while looking at the horse."/>
     <string id="w6Wa3lSL" text="Retreated"/>
     <string id="W7hi7jS4" text="Eh, well, I dared to hope, I suppose. All right then, I'm not going to grovel to you, so get it over with."/>
@@ -715,7 +715,7 @@
     <string id="Xx94UrYe" text="I might be. What are you carrying? Honest goods, or weapons? How about you let us have a look."/>
     <string id="y150haHv" text="Disrupt Supply Lines"/>
     <string id="y3fn2vWY" text="Recruit Troops"/>
-    <string id="Y3UcaX74" text="математичним здібностями."/>
+    <string id="Y3UcaX74" text="математичними здібностями."/>
     <string id="y6j1bJTH" text="You were apprenticed to the local smith. You learned how to heat and forge metal, hammering for hours at a time until your muscles ached."/>
     <string id="Y6OJHdMH" text="I am a busy man, but there is always time to talk about the blessed battle of Pendraic."/>
     <string id="Y6SqyQwn" text="Meet with {HERO.NAME}"/>
@@ -727,7 +727,7 @@
     <string id="yCzcfKNM" text="Firstly, your clan must be independent. You cannot be pledged to an existing realm."/>
     <string id="YEeb0B1V" text="I am {HEADMAN.FIRSTNAME}, headman of this village. What brings you here?"/>
     <string id="YJxCbbpd" text="Conspiracy is activated!"/>
-    <string id="YKzuGc54" text="You were big, and other children looked to have you around in any scrap with children from a neighboring village. You pushed a plough and threw an axe like an adult."/>
+    <string id="YKzuGc54" text="Ви були досить великим як на свій вік і тому інші діти завжди намагалися взяти вас із собою, коли збирались на бійку з хлопцями із сусіднього села. Ви могли тягнути плуг і кидати сокиру не гірше дорослого."/>
     <string id="yNcBDr9j" text="You talked with {IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {ANTI_IMPERIAL_MENTOR.LINK} and take {?ANTI_IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?ANTI_IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}."/>
     <string id="ypDmy5Rn" text="Uh, how can we possibly trust each other?"/>
     <string id="Yqm0Dics" text="you treated people well."/>
