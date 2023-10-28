@@ -59,7 +59,7 @@
     <string id="5LpufKs7" text="Follow Me"/>
     <string id="5mSKBidd" text="Форма носа"/>
     <string id="5odwu8qB" text="Ranked"/>
-    <string id="5rj7xQE4" text="Лук"/>
+    <string id="5rj7xQE4" text="{.m}Лук{.R_n20_u_zi_p}"/>
     <string id="5tbWdY1j" text="Avatar"/>
     <string id="5vZW8IJ5" text="Swap with {ITEM_NAME}"/>
     <string id="621DbiOw" text="Асиметрія носа"/>
@@ -365,7 +365,7 @@
     <string id="tp6B2QGw" text="East Asia"/>
     <string id="tqESV37j" text="Defend!"/>
     <string id="TSoS5HJZ" text="Skolder Hideout"/>
-    <string id="TTWL7RLe" text="{.MI}Арбалет"/>
+    <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="TuAP5xXV" text="Висота ніздрів"/>
     <string id="tUETZiIp" text="Helmet"/>
     <string id="tvDuF1vU" text="Siege Tower Speed (percentage)"/>
