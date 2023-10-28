@@ -73,7 +73,7 @@
     <string id="T79exjaP" text="Знижено шкоду по щиту"/>
     <string id="TeUtEGV0" text="Інтелект відповідає за здатність до читання і теоретичного навчання."/>
     <string id="tH6Ooj0P" text="ХИТ"/>
-    <string id="TTWL7RLe" text="{.MI}Арбалет"/>
+    <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="unaWKloT" text="Підвищена шкода в ближньому бою"/>
     <string id="Uz1HHeKg" text="Створена випадкова зброя"/>
     <string id="uZhHh7pm" text="{CURR_TEMPLATE_NAME} (створено)"/>
