@@ -168,7 +168,7 @@
     <string id="bjVMtW3W" text="Your family were merchants who lived in one of Sturgia's great river ports, organizing the shipment of the north's bounty of furs, honey and other goods to faraway lands."/>
     <string id="bkZFbCRx" text="We're looking for two children captured by the raiders. Can you tell us anything?"/>
     <string id="BleybhsD" text="Imperial cataphracts showed up, armored head to foot and their horses too, so they just ignored our shooting and tore right through us. I was swept away in the retreat and saw no more of the battle. King Derthert had a good enough plan but the barons - Ingalther, Aldric, that lot - ignored him, as they always do."/>
-    <string id="BLZ4mdhb" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the kingdom's economy, as well as the backbone of the levy."/>
+    <string id="BLZ4mdhb" text="Ваша сім'я була дрібними землевласниками, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
     <string id="bmitHhDt" text="Our dear old beloved King Aeril, a wonderful man but with a heart perhaps just a might too tender, did not wish for us to go off to war. But then he disappeared and I, his son-in-law, ascended to the kingship. The clans cried out for war! They had a hundred years of crimes against them to avenge. I, a father to my people, gave them what they wanted."/>
     <string id="bNcGO33Q" text="We think they've gone north. I reckon there are a few folk around here who'll join you in going after them if you'll pay for their gear."/>
     <string id="bNqLQKQS" text="You are out of food. There is a village called {VILLAGE_NAME} north of here where you can buy provisions and find some help."/>
@@ -180,7 +180,7 @@
     <string id="bT9yspaQ" text="You have lost the battle against the conspiracy's caravan. A stronger adversary awaits us..."/>
     <string id="btAV7mmq" text="You are defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="bTKiN0hr" text="worked in the village smithy."/>
-    <string id="btsMpRcA" text="Your family owned a smithy in a city. Your father played an active if minor role in the town council, and also served in the militia."/>
+    <string id="btsMpRcA" text="Ваша сім'я володіла кузнею в місті. Батько мав вплив, хоч і незначний, у міській раді, а також служив в ополченні."/>
     <string id="BTY2aZCt" text="Enter a training area."/>
     <string id="bWdsH2Ls" text="This is what I learned from a lifetime in politics: There is nothing worse than disorder. Suffice to say that I know better than anyone about the lies and cruelty that kept the Empire alive. But all the murders I ever committed in 10 years of serving Neretzes do not amount to the death toll in a single hour when an army storms a town."/>
     <string id="bWlmGDf3" text="When a sudden storm caused the local stream to rise suddenly, your neighbors needed quick-thinking leadership. You provided it, directing them to build levees to save their homes."/>
@@ -529,7 +529,7 @@
     <string id="qMUfOtyk" text="You talked with {HERO.LINK}."/>
     <string id="qnqdEJOv" text="You watched the town's watch practice shooting and perfect their plans to defend the walls in case of a siege."/>
     <string id="qNR8WKcX" text="You should join a kingdom before supporting it with the Dragon Banner."/>
-    <string id="qNZFkxJb" text="Your family were merchants in one of the main cities of the kingdom. They organized caravans to nearby towns and were active in the local merchant's guild."/>
+    <string id="qNZFkxJb" text="Ваша родина була купцями в одному з головних міст королівства. Вони організовували каравани до сусідніх міст і мали вплив у місцевій гільдії купців."/>
     <string id="qoA4UPly" text="Nothing can bring the Palaic people back. They are now imperial. But it is an insult to our name, to our gods, to our memory, that the state which destroyed our shrines and fortresses should last and thrive."/>
     <string id="QOVLkdTp" text="A conspiracy war party is now patrolling around {SETTLEMENT}."/>
     <string id="qp2zYfua" text="I was hoping to find more treasure here, but I think business wasn't going too well for {RADAGOS.NAME} and his gang."/>
@@ -741,7 +741,7 @@
     <string id="z3VamNrX" text="Send in your troops."/>
     <string id="Z54ZrDG9" text="Until next time, then."/>
     <string id="z8LQn2Uh" text="You have arrived at the hideout."/>
-    <string id="Z9mcDuDi" text="Achievements are disabled!"/>
+    <string id="Z9mcDuDi" text="Досягнення вимкнені!"/>
     <string id="ZAGR6PYc" text="When a sudden blaze broke out in a back alley, your neighbors needed quick-thinking leadership and you provided it. You organized a bucket line to the nearest well, putting the fire out before any homes were lost."/>
     <string id="Zb1uFhsY" text="Go to trainer."/>
     <string id="ZDEcFXIm" text="You may have one piece of the banner, but it's of little use in itself. You'll have to find the other parts. But once you can bring together the pieces, you'll have something of tremendous value."/>
