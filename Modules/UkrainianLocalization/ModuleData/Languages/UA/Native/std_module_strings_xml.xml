@@ -170,7 +170,7 @@
     <string id="5lT70YJY" text="On {DAY_OF_YEAR}, {YEAR}, you heard rumors of a secret pact being forged between the rival imperial factions so that they can combine their forces against the enemies of the empire."/>
     <string id="5pGjYBFn" text="Tribute Received"/>
     <string id="5QN7SFNW" text="III"/>
-    <string id="5rj7xQE4" text="{.MI}Лук"/>
+    <string id="5rj7xQE4" text="{.m}Лук{.R_n20_u_zi_p}"/>
     <string id="5S1zPgTm" text="imperial"/>
     <string id="5siAbi69" text="Mu Torere"/>
     <string id="5sMBbn7y" text="Calculating"/>
@@ -374,8 +374,8 @@
     <string id="ARQY0vAz" text="Can't manage the army during an encounter"/>
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines."/>
     <string id="aS3xHcD4" text="Son"/>
-    <string id="aseraifaction" text="{.MI}Султанат{.nn} асераїв"/>
-    <string id="aseraimembers" text="Асераї"/>
+    <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
+    <string id="aseraimembers" text="{.p}Асерай{.R_n20_p}"/>
     <string id="asHzEWnG" text="We shall stain the sands with your blood, then."/>
     <string id="AT5aTROe" text="seventh"/>
     <string id="ATsEQh7m" text="{SEASON} {?SEASON_IS_PLURAL}seasons{?}season{\?}"/>
@@ -396,7 +396,7 @@
     <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Days{?}Day{\?}"/>
     <string id="b1Ra7gHa" text="Ranged Weapons II"/>
     <string id="b1vtY2yU" text="Expected"/>
-    <string id="b4lDDcli" text="{.FI}Родина"/>
+    <string id="b4lDDcli" text="{.f}Родина{.R_n10_ko_p1}"/>
     <string id="b5DWVsOZ" text="{HERO.NAME} has died in battle."/>
     <string id="B5J6DbpG" text="Remaining Days With Food: {REMAINING_DAYS}{newline}{newline}Total Food: {TOTAL_FOOD_AMOUNT}{newline}Daily Consumption: {DAILY_FOOD_CONSUMPTION}"/>
     <string id="b5t34yLX" text="Horse Harness"/>
@@ -433,7 +433,7 @@
     <string id="bg6x6Hbv" text="Helm"/>
     <string id="Bg83jhCR" text="The town is clearly going through hard times. People look malnourished and buildings are poorly maintained."/>
     <string id="bg8co4he" text="Slaughter{newline}You will not be able to undo this action."/>
-    <string id="bgjiFSHZ" text="Баттанці"/>
+    <string id="bgjiFSHZ" text="{.p}Баттанець{.R_n22_p}"/>
     <string id="bGyrPe8c" text="Production"/>
     <string id="bh2v8n4K" text="Garment{@Plural}loads of garment{\@}"/>
     <string id="bh9U2fsZ" text="Son-in-law"/>
@@ -496,7 +496,7 @@
     <string id="c3cdHImi" text="Capture your opponent's pawns by surrounding them on both sides. If a pawn moves in between two opposing pawns, it does not get captured.{newline}In the first two images, white pawns get captured by the black pawns. In the last two, there are no captures."/>
     <string id="C4n1rgBC" text="Seega"/>
     <string id="c4Pmtkle" text="Mounts&amp;Saddles"/>
-    <string id="C4qjBqLO" text="Стургійці"/>
+    <string id="C4qjBqLO" text="{.p}Стургієць{.R_n22_p}"/>
     <string id="c6Ei8Fqh" text="Vassal of {FACTION}"/>
     <string id="C6n2tZlQ" text="my ally {REFERING_HERO.LINK}"/>
     <string id="c7bVbjD7" text="As you wish. From now on, we fight for you."/>
@@ -629,7 +629,7 @@
     <string id="elhSbQfW" text="my kinsman {REFERING_HERO.LINK}"/>
     <string id="ELsDFwAD" text="Wine{@Plural}amphorae of wine{\@}"/>
     <string id="EMCISbYJ" text="Battle Outfit"/>
-    <string id="empiremembers" text="{.MA}Імперці{.nnp}"/>
+    <string id="empiremembers" text="{.p}Імперець{.R_n22_p}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
     <string id="EMVLtu5L" text="{HERO.LINK} gained {?PLURAL}{GAINED_POINTS} skill points{?}a skill point{\?} in {SKILL_NAME} and is now {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
@@ -678,7 +678,7 @@
     <string id="EZLs7hLL" text="You! Stop! Give us your silver. We're not playing games.[if:convo_angry]"/>
     <string id="EzrK2tnA" text="You cannot manage your army while in battle"/>
     <string id="F3U9AtmF" text="ninth"/>
-    <string id="F4RMyaR5" text="You have encountered {PARTY}."/>
+    <string id="F4RMyaR5" text="Ви зіткнулись з {._}{PARTY}{.v_oru}."/>
     <string id="F5UPr9jh" text="Take All"/>
     <string id="F6GhrriD" text="Create Kingdom"/>
     <string id="f6gSyvnC" text="Shoot enemies with a bow and arrows. Perform difficult shots from a long distance."/>
@@ -1586,7 +1586,7 @@
     <string id="Tsn6bCft" text="Generous"/>
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="TSWen983" text="Active Quest"/>
-    <string id="TTWL7RLe" text="{.MI}Арбалет"/>
+    <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using siege weapons."/>
     <string id="TVcqGJ1r" text="Main hero is imprisoned!"/>
     <string id="TvmDFK6o" text="{REWARD}"/>
@@ -1682,7 +1682,7 @@
     <string id="vIpFgbU6" text="Light Armor"/>
     <string id="ViYdZUbQ" text="Disband Army"/>
     <string id="VJNJsdif" text="{COMPANION.LINK} joined your party."/>
-    <string id="vJOWy1QF" text="Хузаїти"/>
+    <string id="vJOWy1QF" text="{.p}Хузаїт{.R_n20_p}"/>
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vmMqs3Ck" text="Noble"/>
     <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>
