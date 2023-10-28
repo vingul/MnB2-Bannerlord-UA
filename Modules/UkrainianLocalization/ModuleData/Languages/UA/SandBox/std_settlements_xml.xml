@@ -345,15 +345,15 @@
     <string id="Settlements.Settlement.name.hideout_steppe_7" text="{.n}Укриття{.R_n2n}"/>
     <string id="Settlements.Settlement.name.hideout_steppe_8" text="{.n}Укриття{.R_n2n}"/>
     <string id="Settlements.Settlement.name.hideout_steppe_9" text="{.n}Укриття{.R_n2n}"/>
-    <string id="Settlements.Settlement.name.town_A1" text="Quyaz"/>
-    <string id="Settlements.Settlement.name.town_A2" text="Husn Fulq"/>
-    <string id="Settlements.Settlement.name.town_A3" text="Iyakis"/>
-    <string id="Settlements.Settlement.name.town_A4" text="Razih"/>
-    <string id="Settlements.Settlement.name.town_A5" text="Hubyar"/>
-    <string id="Settlements.Settlement.name.town_A6" text="Sanala"/>
-    <string id="Settlements.Settlement.name.town_A7" text="Askar"/>
-    <string id="Settlements.Settlement.name.town_A8" text="Qasira"/>
-    <string id="Settlements.Settlement.name.town_B1" text="Marunath"/>
+    <string id="Settlements.Settlement.name.town_A1" text="{.m}Каяз{.R_n20_a}"/>
+    <string id="Settlements.Settlement.name.town_A2" text="{.m}Хасн-Фальк{.R_n20_a}"/>
+    <string id="Settlements.Settlement.name.town_A3" text="{.m}Іякіс{.R_n20_u}"/>
+    <string id="Settlements.Settlement.name.town_A4" text="{.f}Разі"/>
+    <string id="Settlements.Settlement.name.town_A5" text="{.m}Хаб'яр{.R_n20_u}"/>
+    <string id="Settlements.Settlement.name.town_A6" text="{.f}Санала{.R_n10}"/>
+    <string id="Settlements.Settlement.name.town_A7" text="{.m}Аскар{.R_n20_u}"/>
+    <string id="Settlements.Settlement.name.town_A8" text="{.f}Касіра{.R_n10}"/>
+    <string id="Settlements.Settlement.name.town_B1" text="{.m}Марунат{.R_n20_u}"/>
     <string id="Settlements.Settlement.name.town_B2" text="Dunglanys"/>
     <string id="Settlements.Settlement.name.town_B3" text="Car Banseth"/>
     <string id="Settlements.Settlement.name.town_B4" text="Seonon"/>
