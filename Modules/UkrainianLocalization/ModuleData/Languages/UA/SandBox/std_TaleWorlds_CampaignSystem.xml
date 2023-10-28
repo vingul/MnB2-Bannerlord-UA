@@ -439,7 +439,7 @@
     <string id="5GSrvawr" text="{VICTIM.NAME} died of old age. {?VICTIM.GENDER}Her{?}His{\?} family and friends will remember {?VICTIM.GENDER}her{?}him{\?}."/>
     <string id="5hgc03yZ" text="While your men were collecting revenues, a headman came and told you that most of the villagers couldn't afford to pay what they owe. They offered to pay the rest with their products."/>
     <string id="5hTautJo" text="{VALUE}% defense against mount charge damage to troops in your formation."/>
-    <string id="5HXS8HEY" text="your brawn."/>
+    <string id="5HXS8HEY" text="винятковою силою."/>
     <string id="5id9mGrc" text="Ви поруч з ареною. {ADDITIONAL_STRING}"/>
     <string id="5IQriov5" text="You avoided critical failure because of {PERK_NAME}."/>
     <string id="5JaGVr0U" text="While traveling by a low range of hills, you see what appears to be the remains of a campsite in a stream gully."/>
@@ -722,7 +722,7 @@
     <string id="8XpTvx1i" text="You have collected enough grains that the army commander requested. Return to army and deliver the supplies"/>
     <string id="8xxeNK0o" text="Make Them Pay"/>
     <string id="8Yb3IVvb" text="Settlement Buildings"/>
-    <string id="8Yiwt1z6" text="Early Childhood"/>
+    <string id="8Yiwt1z6" text="Раннє дитинство"/>
     <string id="8ym6UvxE" text="I'm of a mind to send out a new caravan but I fear it will be plundered before it can turn a profit. So I am looking for some good fighters who can escort it until it finds its footing and visits a couple of settlements."/>
     <string id="8yPqbZmm" text="You best back off. There's dozens more of us hiding, just waiting for our signal."/>
     <string id="8Z4vlcib" text="Your clan is now at war with the {ISSUE_GIVER.LINK}'s lord. Your agreement with {ISSUE_GIVER.LINK} was canceled."/>
@@ -1149,7 +1149,7 @@
     <string id="bLRGix1b" text="Yes, I have them with me."/>
     <string id="BLrwIj7s" text="More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more..."/>
     <string id="BlVjIlZF" text="{FACTION_LEADER} will decide if the {KINGDOM_CONSIDERING_PEACE_NAME} will make peace with the {KINGDOM_NAME} by paying {TRIBUTE_PERCENTAGE} percent of the kingdom's income as tribute. You can pick your stance regarding this decision."/>
-    <string id="BLZ4mdhb" text="Ваша сім'я була дрібними землевласниками, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
+    <string id="BLZ4mdhb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
     <string id="bm2DzxEl" text="{ATTRIBUTE1} is increased by {NUMBER_AP}."/>
     <string id="bm3eSbBD" text="{VALUE}% stun duration for kicking."/>
     <string id="Bm7U7TgG" text="If you're going to keep pestering us, traveller, we might need to take a bit more coin from you."/>
@@ -1322,7 +1322,7 @@
     <string id="cH0iAEfq" text="Please take care of this as quickly as you can. I need those animals."/>
     <string id="ch6zCk2w" text="You know me as someone who seeks to avoid bloodshed."/>
     <string id="CH7b5LaX" text="I have changed my mind."/>
-    <string id="character_creation_content_16" text="As a child you were noted for..."/>
+    <string id="character_creation_content_16" text="У дитинстві ви вирізнялися за..."/>
     <string id="cHgLxbbc" text="Pre Battle Maneuvers"/>
     <string id="chiIHo4b" text="Mangy {FIRSTNAME}"/>
     <string id="ChUDSiJw" text="Garrison and Party Expense"/>
@@ -1802,7 +1802,7 @@
     <string id="fF2BdOy9" text="I don't need anything now."/>
     <string id="FF3dQKc1" text="Nethor"/>
     <string id="fFNNeqxu" text="{VALUE}% damage and longer stun duration with shield bashes."/>
-    <string id="FfNwXtii" text="If the wolf pup gang of your early childhood had an alpha, it was definitely you. All the other kids followed your lead as you decided what to play and where to play, and led them in games and mischief."/>
+    <string id="FfNwXtii" text="Якщо у дитинстві у вашій зграї вовченят і був лідер, то це, безумовно, були ви. Всі інші діти йшли за вами, оскільки ви вирішували, у що і де грати. Ви керували ними в цих іграх і різного роду бешкетах."/>
     <string id="ffoqz6yP" text="You have delivered {DELIVERED_ITEM_COUNT} units of goods from {QUEST_GIVER.NAME}."/>
     <string id="FfZpLoVD" text="dabble in intrigue."/>
     <string id="fGFMqlGz" text="Стать"/>
@@ -1944,7 +1944,7 @@
     <string id="GeJobcre" text="Sinor"/>
     <string id="GeNKQlHR" text="Особисті охоронці вождя"/>
     <string id="GeoTk5b9" text="Your captors engage in a battle and they lost, you are released after battle."/>
-    <string id="GEYzLuwb" text="your way with people."/>
+    <string id="GEYzLuwb" text="товариськістю."/>
     <string id="gfmU4wiM" text="A {?INQUIRY_COMPANION.GENDER}woman{?}man{\?} named {INQUIRY_COMPANION.LINK} is staying at my tavern. You may want to talk with him."/>
     <string id="GFnqIuxy" text="encouraging lords to appoint bailiffs in their fiefs"/>
     <string id="gfoqoGTn" text="The way we ran away back there... I may have told you that I hoped one day the poets would write odes about me. I had intended that they would praise my heroism, not my ability to scamper to safety."/>
@@ -2576,7 +2576,7 @@
     <string id="kLVpYR0z" text="{VALUE}% damage with bows to mounts."/>
     <string id="KLWn6yZQ" text="{HIDEOUT_DESCRIPTION} The remains of a fire suggest that it's been recently occupied, but its residents - whoever they are - are well-hidden for now."/>
     <string id="kmdxvkEV" text="{VALUE}% starting battle morale to ranged troops in your party."/>
-    <string id="kmM68Qx4" text="your leadership skills."/>
+    <string id="kmM68Qx4" text="лідерськими здібностями."/>
     <string id="KMmAG5bk" text="{VALUE}% food consumption while your party is in a siege camp."/>
     <string id="kmsNUfbA" text="Donate prisoners"/>
     <string id="KN6khbSl" text="Clan Influence"/>
@@ -2836,7 +2836,7 @@
     <string id="MdjZ56VR" text="{?CHILD.GENDER}She{?}He{\?} sits on the saddle so comfortably, like {?CHILD.GENDER}she{?}he{\?} was born on it."/>
     <string id="mdNRYlfS" text="Never mind."/>
     <string id="ME5hmllb" text="Your relation with notables in some of your settlements increased due to high security"/>
-    <string id="MEgLE2kj" text="your skill with horses."/>
+    <string id="MEgLE2kj" text="майстерністю поводження з кіньми."/>
     <string id="MEr2aoeC" text="{VALUE} armor to mounted troops in your formation."/>
     <string id="mEsaiLOR" text="Very well then. If you happen to have any more prisoners, you know where to find me."/>
     <string id="MesU0nGW" text="{VALUE}% more loot when villagers comply to your hostile actions."/>
@@ -3509,7 +3509,7 @@
     <string id="qRoQuHe4" text="{VALUE} renown and influence for each issue resolved"/>
     <string id="QRRgXOrN" text="As expected, your veterans have really sharpened up our boys. Please pass on my thanks to them, {?PLAYER.GENDER}madam{?}sir{\?}."/>
     <string id="QRwaQIbm" text="Is in Kingdom"/>
-    <string id="QrYjPUEf" text="your attention to detail."/>
+    <string id="QrYjPUEf" text="увагою до деталей."/>
     <string id="Qs7qs3b0" text="You are the shield of our people against the wolves of the forest, the steppe and the sea."/>
     <string id="QSaufZ9i" text="One of your parties has lost its leader. It will disband after a day has passed. You can assign a new clan member to lead it, if you wish to keep the party."/>
     <string id="qSi4DlT4" text="Food"/>
@@ -4641,7 +4641,7 @@
     <string id="y2aLOwOs" text="Effects the influence of clan."/>
     <string id="Y2Z6F5Fj" text="Support level of {MALE_LESSER_NOBLE_NAME}"/>
     <string id="Y3lGJT8H" text="{PARTY} Won't attack {FACTION} for {DURATION} {?DURATION&gt;1}days{?}day{\?}."/>
-    <string id="Y3UcaX74" text="your aptitude for numbers."/>
+    <string id="Y3UcaX74" text="математичним здібностями."/>
     <string id="y3xguaCc" text="Put your interests and the good of the realm first. There's too much at stake for that."/>
     <string id="y4vyNZxg" text="{FIRSTNAME} Sourwine"/>
     <string id="y52Zz7U9" text="{VALUE}% army cohesion loss to commanded armies."/>
@@ -4798,7 +4798,7 @@
     <string id="YxtiyxSf" text="Yes... As you no doubt know, this is rough work, and I've lost a lot of good lads recently. I haven't had much luck replacing them. I need men who understand how things work in our business, and that's not always easy to find. I could use bandits and looters. They usually know their stuff. But if I take them in as prisoners, they'll just slip away as soon as I get the chance. I need volunteers..."/>
     <string id="yxwuGcDo" text="{COMPANION.LINK} has failed to resolve the matter. Out of {NUMBER1} troops you sent {NUMBER2} troops came back safe and sound."/>
     <string id="yY5iDvAb" text="Fleet Footed"/>
-    <string id="yYhX6JQC" text="Your father joined one of Vlandia's many mercenary companies, composed of men who got such a taste for war in their lord's service that they never took well to peace. Their crossbowmen were much valued across Calradia. Your mother was a camp follower, taking you along in the wake of bloody campaigns."/>
+    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів найманців Вландії, що складався з людей, які так сильно звикли до війни, служачи своєму пану, що вже не мислили мирного життя для себе. Їхні арбалетники високо цінувалися по всій Калрадії. Ваша мати була прибічницею життя в таборі і брала вас із собою у криваві походи."/>
     <string id="YYl1W2jU" text="Forester"/>
     <string id="yym5kCG5" text="After a particularly hard winter your tenants began to murmur about rising up and seizing your granaries. {CHILD.NAME} convinced them to be patient and wait for relief."/>
     <string id="yYTotiqW" text="Talk to..."/>
