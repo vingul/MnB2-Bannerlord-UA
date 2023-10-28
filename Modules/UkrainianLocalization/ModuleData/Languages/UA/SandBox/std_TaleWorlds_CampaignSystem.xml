@@ -1481,7 +1481,7 @@
     <string id="dEXpZOlC" text="{QUEST_GIVER}{.o} informants reported that {MALE_LESSER_NOBLE_NAME}{.o} party has been seen near {VILLAGE}."/>
     <string id="DfbYtRyj" text="You had second thoughts about giving {?PLAYER_CHILD}your{?}the{\?} child such a spirited animal, but {?CHILD.GENDER}she{?}he{\?} lept upon its back and galloped like the wind across your pastures."/>
     <string id="dFcgXnQq" text="Break out"/>
-    <string id="DFidSjIf" text="Most children around you had only the most rudimentary education, but you lingered after class to study letters and mathematics. You were fascinated by the marketplace - weights and measures, tallies and accounts, the chatter about profits and losses."/>
+    <string id="DFidSjIf" text="Більшість дітей навколо вас мали лише базову освіту, але ви затримувалися після уроків, щоб вчитись читати та рахувати. Вас зачаровував ринок - ваги та міри, списки та рахунки, розмови про доходи та видатки."/>
     <string id="DFkzQHRQ" text="'For all the silks of the Padishah \n For all the Emperor's gold \n For all the spice in the distance East...'"/>
     <string id="Dfl5WJfN" text="Enough talking. Now march."/>
     <string id="DFMsbFrB" text="{VALUE}% damage by mounted archers in your party."/>
@@ -2463,7 +2463,7 @@
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
     <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
-    <string id="JUSHAPnu" text="You were quick on your feet and attentive to what was going on around you. Usually you could run away from trouble, though you could give a good account of yourself in a fight with other children if cornered."/>
+    <string id="JUSHAPnu" text="Ви були дуже прудким та пильно стежили за всім навколо. Зазвичай це давало вам можливість уникати будь-яких неприємностей, але ви також могли постояти за себе в бійці з іншими дітьми, якщо були загнані в кут."/>
     <string id="JuwBb2Yg" text="Disorganized"/>
     <string id="Jvf6K7TZ" text="Your family numbered among the many poor migrants living in the slums that grow up outside the walls of imperial cities, making whatever money they could from a variety of odd jobs. Sometimes they did service for one of the Empire's many criminal gangs, and you had an early look at the dark side of life."/>
     <string id="jWavM9AD" text="You've been around in the world. You know that mercenaries aren't saints."/>
@@ -3000,7 +3000,7 @@
     <string id="NeTp63aU" text="{HERO.NAME} has devastated {SETTLEMENT}."/>
     <string id="nFl0ufe3" text="A party without a leader"/>
     <string id="nG750jQB" text="Grain will solve our problems. If we had {GRAIN_AMOUNT} bushels, we could use it to sow our fields. But I doubt that {NEARBY_TOWN} has so much to sell at this time of the year. {GRAIN_AMOUNT} bushels of grain costs around {DENAR_AMOUNT}{GOLD_ICON} in the markets, and we don't have that!"/>
-    <string id="ngazFofr" text="You were always drawn to animals, and spent as much time as possible hanging out in the village stables. You could calm horses, and were sometimes called upon to break in new colts. You learned the basics of veterinary arts, much of which is applicable to humans as well."/>
+    <string id="ngazFofr" text="Вас завжди тягнуло до тварин, тому найбільше часу ви проводили в сільській стайні. Ви вміли заспокоювати коней і через це вам іноді доручали об'їжджати молодих жеребців. Ви вивчили основи ветеринарного мистецтва, тому за потреби навіть могли лікувати людей."/>
     <string id="NGcKLV88" text="A good engineer could help construct siege engines and new buildings in towns."/>
     <string id="NGFbn4Qx" text="{VALUE}% chance of increasing the siege bombardment casualties per hit by 1."/>
     <string id="ngFVgwDD" text="Warrior-slaves"/>
@@ -4337,7 +4337,7 @@
     <string id="w1rVTUIs" text="This seems like a simple errand. Would your offer still stand if I get someone else to do it for me?"/>
     <string id="W1uwgvAQ" text="Arion"/>
     <string id="w290a2DV" text="{FIRSTNAME} the {?IMPERIAL}Sutler{?}Goodstrader{\?}"/>
-    <string id="w2TEQq26" text="You were always attentive to other people, good at guessing their motivations. You studied how individuals were swayed, and tried out what you learned from adults on your friends."/>
+    <string id="w2TEQq26" text="Ви завжди були уважними до інших людей, вміли добре вгадувати їхні мотиви. Ви вивчали, як саме можна впливати на людей, і те, що ви дізнавалися від дорослих, випробовували на своїх друзях."/>
     <string id="W2vV5jzj" text="I'll go back to my family. I will remember your help..."/>
     <string id="W2WXkiAh" text="Ransom Broker"/>
     <string id="w3GIUD3u" text="allowing the ruler to collect special tariffs"/>
@@ -4641,7 +4641,7 @@
     <string id="y2aLOwOs" text="Effects the influence of clan."/>
     <string id="Y2Z6F5Fj" text="Support level of {MALE_LESSER_NOBLE_NAME}"/>
     <string id="Y3lGJT8H" text="{PARTY} Won't attack {FACTION} for {DURATION} {?DURATION&gt;1}days{?}day{\?}."/>
-    <string id="Y3UcaX74" text="математичним здібностями."/>
+    <string id="Y3UcaX74" text="математичними здібностями."/>
     <string id="y3xguaCc" text="Put your interests and the good of the realm first. There's too much at stake for that."/>
     <string id="y4vyNZxg" text="{FIRSTNAME} Sourwine"/>
     <string id="y52Zz7U9" text="{VALUE}% army cohesion loss to commanded armies."/>
@@ -4720,7 +4720,7 @@
     <string id="Yk3xrawy" text="When {?CHILD.GENDER}she{?}he{\?} returns, {CHILD.NAME} tells you the story of how {?CHILD.GENDER}she{?}he{\?} {RANDOM_OUTCOME} That event increased {?CHILD.GENDER}her{?}his{\?} skill in {SKILL}."/>
     <string id="yKz5e5H4" text="Yes. I have the goods right here. I brought {REQUESTED_AMOUNT} {.%}{?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%} as we agreed."/>
     <string id="YkZKXsIn" text="Main party wages"/>
-    <string id="YKzuGc54" text="You were big, and other children looked to have you around in any scrap with children from a neighboring village. You pushed a plough and threw an axe like an adult."/>
+    <string id="YKzuGc54" text="Ви були досить великим як на свій вік і тому інші діти завжди намагалися взяти вас із собою, коли збирались на бійку з хлопцями із сусіднього села. Ви могли тягнути плуг і кидати сокиру не гірше дорослого."/>
     <string id="YLjksPbk" text="You're a kind {?PLAYER.GENDER}woman, madam{?}man, sir{\?}. You understand what poor folk like us are up against."/>
     <string id="yLqDHZv9" text="Thank you. I hope your men deal with them as soon as possible."/>
     <string id="yLuzvTtd" text="You had promised to deliver {MOUNT_COUNT} {PLURAL(MOUNT_NAME)} to {QUEST_GIVER.LINK}. But you've failed to complete this task. {QUEST_GIVER.LINK} was displeased."/>
