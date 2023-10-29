@@ -14,7 +14,18 @@
 		<DependedModule Id="Sandbox" DependentVersion="v1.1.6"/>
 		<DependedModule Id="StoryMode" DependentVersion="v1.1.6"/>
 	</DependedModules>
-	<SubModules/>
+	<SubModules>
+        <SubModule>
+            <Name value="CustomTextProcessor"/>
+            <DLLName value="CustomTextProcessor.dll"/>
+            <SubModuleClassType value="CustomTextProcessor.UkrTextProcessorLoader"/>
+            <Tags />
+                <!--<Tag key="DedicatedServerType" value="none" />
+                <Tag key="IsNoRenderModeElement" value="true" />
+            </Tags>-->
+        </SubModule>
+    </SubModules>
+    <!--<SubModules/>-->
 	<Xmls> 
 	</Xmls>
 </Module>

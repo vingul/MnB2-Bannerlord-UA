@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<LanguageData id="Українська" name="Українська" subtitle_extension="ua" supported_iso="ua,ukr,ua-ua" text_processor="TaleWorlds.Localization.TextProcessor.LanguageProcessors.RussianTextProcessor" under_development="false">
+<LanguageData id="Українська" name="Українська" subtitle_extension="ua" supported_iso="ua,ukr,ua-ua" text_processor="CustomTextProcessor.UkrainianTextProcessor, CustomTextProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" under_development="false">
   <LanguageFile xml_path="UA/Native/ua_functions.xml" />
   <LanguageFile xml_path="UA/Native/std_crafting_pieces_xml.xml" />
   <LanguageFile xml_path="UA/Native/std_Credits_xml.xml" />
