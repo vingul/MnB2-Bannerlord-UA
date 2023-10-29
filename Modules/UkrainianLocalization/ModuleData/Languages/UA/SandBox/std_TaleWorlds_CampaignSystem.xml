@@ -126,7 +126,7 @@
     <string id="1Hd19nq5" text="You are not in command of this siege."/>
     <string id="1hOPCf8I" text="But I'm sure you won't disappoint me. Enjoy your riches![if:happy][ib:demure]"/>
     <string id="1hpeeCJD" text="Have you found any good men?"/>
-    <string id="1IEroJKs" text="Not everyone who musters for the levy marches to war, and not everyone who goes on campaign sees action. You did both, and you also took down an enemy warrior in direct one-to-one combat, in the full view of your comrades."/>
+    <string id="1IEroJKs" text="Не всі, хто записується в армію, йдуть на війну та ще менше тих, хто бере участь в справжніх битвах. Ви зробили і те, і інше. І вам навіть вдалося вбити ворожого воїна в прямому бою сам на сам, на очах у своїх побратимів."/>
     <string id="1IJouNaM" text="Carry on, then. Farewell."/>
     <string id="1IYP1wHc" text="{VALUE}% chance per day to increase relation with a notable by 1 when you enter a town."/>
     <string id="1KWhhurv" text="Your tutor throws up his hands in the air at {CHILD.NAME}'s ability to lie {?CHILD.GENDER}her{?}his{\?} way out of trouble, but can't help but admire it a little."/>
@@ -351,7 +351,7 @@
     <string id="4CSaYB8H" text="{VALUE}% battle morale to Tier 1 to 3 troops"/>
     <string id="4CuMDzvd" text="You asked your best warrior to take {?CHILD.GENDER}her{?}him{\?} under his wings and make sure {?CHILD.GENDER}she{?}he{\?} gets the taste of battle without being seriously harmed."/>
     <string id="4ElA7gRS" text="Decisive Battle"/>
-    <string id="4f5xwzX0" text="When your community needed to organize a posse to pursue horse thieves, you were the obvious choice. You hunted down the raiders, surrounded them and forced their surrender, and took back your stolen property."/>
+    <string id="4f5xwzX0" text="Коли було необхідно організувати загін, щоб наздогнати конокрадів, ваша громада звернулася до вас, оскільки ви були очевидним вибором. Ви вистежили викрадачів, оточили їх, змусили здатися і повернути вкрадене."/>
     <string id="4FdtVyj1" text="Aid Corps"/>
     <string id="4fXpOe4N" text="A courier arrives from the {CLAN_NAME}. They hold {CAPTIVE_HERO.NAME} and are demanding {GOLD_AMOUNT}{GOLD_ICON} in ransom."/>
     <string id="4G3Aeqna" text="{KING.NAME}"/>
@@ -1290,7 +1290,7 @@
     <string id="CbapENnw" text="Tell your men that the headman is probably lying, and to go ahead and collect the revenues."/>
     <string id="cBAVR7e8" text="granting high-ranking nobles the right to summon large armies"/>
     <string id="CBBPWMZd" text="Thanks to you, my mines are full {?PLAYER.GENDER}madam{?}sir{\?}. I will only buy {X} more then we're done."/>
-    <string id="cbF9jdQo" text="Your parents didn't give you much money, but they did leave just enough for you to purchase a plot of unused land at the edge of the village. You cleared away rocks and dug an irrigation ditch, raised a few seasons of crops, than sold it for a considerable profit."/>
+    <string id="cbF9jdQo" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли купити ділянку невикористаної землі на краю села. Ви очистили землю від каменів і вирили зрошувальну канаву, виростили кілька урожаїв, а потім продали його зі значним прибутком."/>
     <string id="cBO49V5b" text="Fear not. I will find the right market for your {PLURAL(SELECTED_ITEM)} myself."/>
     <string id="CBSDuOmp" text="{VALUE} daily renown from every profiting workshop."/>
     <string id="CBVfPRRe" text="{VALUE} extra arrow per quiver to troops in your formation."/>
@@ -2185,7 +2185,7 @@
     <string id="i36Gg6mW" text="{VALUE}% experience gained to ranged troops in your party."/>
     <string id="i3eT3Zjb" text="Efficient Iron Maker"/>
     <string id="I3GUAb9a" text="I understand your concern, Headman, but I made an agreement. How about I share the profit with you and your people?"/>
-    <string id="I3PcdaaL" text="Wolves, bears are a constant menace to the flocks of northern Calradia, while hyenas and leopards trouble the south. You went with a group of your fellow villagers and fired the missile that brought down the beast."/>
+    <string id="I3PcdaaL" text="Вовки і ведмеді на півночі та гієни і леопарди на півдні Кальрадії є постійними загрозами для сільської худоби. Ви разом з групою односельців вирушили, щоб усунути одну з таких загроз. І саме ваша стріла виявилась фатальною для звіра."/>
     <string id="i4GboakR" text="{VALUE}% security provided by ranged troops in the garrison of the governed settlement."/>
     <string id="I4SjNT6Y" text="This will cost you {BRIBE_COST}{GOLD_ICON}.{?ENOUGH_GOLD}{?} You don't have enough money.{\?}"/>
     <string id="I5f6Xg3a" text="You must have heard of my deeds. I speak to you as one warrior to another."/>
@@ -3366,7 +3366,7 @@
     <string id="pYgl86Cr" text="Your clan had entered a war with the {QUEST_GIVER.LINK}'s faction. Your agreement was canceled. You can no longer deliver the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
     <string id="PyjCZGlG" text="This town has laws about unauthorized trade. Turn over the goods to me now."/>
     <string id="PypPEj5Z" text="I will be your loyal {?PLAYER.GENDER}follower{?}man{\?} as long as my breath remains..."/>
-    <string id="PyVqDLBu" text="Your parents didn't give you much money, but they did leave just enough for you to secure a loan against a larger amount to build a small workshop. You paid back what you borrowed, and sold your enterprise for a profit."/>
+    <string id="PyVqDLBu" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли взяти кредит і побудувати невелику майстерню. Ви виплатили борг і продали свою справу, отримавши хороший прибуток."/>
     <string id="PZb8JrMH" text="{VALUE}% daily chance to recover a lame horse."/>
     <string id="PZfR7hEK" text="What do you want? I have a tournament to prepare for."/>
     <string id="PZI9Smv3" text="{QUEST_GIVER.LINK}, a gang leader in {SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs recruits for {?QUEST_GIVER.GENDER}her{?}his{\?} gang. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to recruit {NEEDED_RECRUIT_AMOUNT} looters or bandits into your party, then transfer them to {?QUEST_GIVER.GENDER}her{?}him{\?}. You will be paid for the recruits depending on their experience."/>
