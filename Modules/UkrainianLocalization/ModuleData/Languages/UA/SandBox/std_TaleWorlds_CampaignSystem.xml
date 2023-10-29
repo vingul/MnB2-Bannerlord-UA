@@ -1813,7 +1813,7 @@
     <string id="fhAsNPoE" text="{ISSUE_GIVER.LINK}, lord of {SETTLEMENT}, says that a {MALE_LESSER_NOBLE_TITLE} named {MALE_LESSER_NOBLE_NAME} is stirring up unrest in the countryside. You asked your companion to deal with {MALE_LESSER_NOBLE_NAME}'s band. They should rejoin your party in {RETURN_DAYS} days"/>
     <string id="FHeJ8bsX" text="We will see about that."/>
     <string id="FHjM62IY" text="{LORD.FIRSTNAME} is a member of the {CLAN_NAME}, a rising new clan. {?LORD.GENDER}She{?}He{\?} is still making {?LORD.GENDER}her{?}his{\?} reputation."/>
-    <string id="FhZPjhli" text="Ваше рідне місто на короткий час потрапило в облогу, і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки, і тепер по праву пишається тим, що показав себе справжнім воїном."/>
+    <string id="FhZPjhli" text="Ваше рідне місто на короткий час потрапило в облогу і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки і тепер по праву пишається тим, що показав себе справжнім воїном."/>
     <string id="FILG5eZD" text="Leave {SETTLEMENT}."/>
     <string id="fiLWg11t" text="Neither am I, if you surrender. Otherwise..."/>
     <string id="FirEOQaI" text="Talk to the garrison commander"/>
