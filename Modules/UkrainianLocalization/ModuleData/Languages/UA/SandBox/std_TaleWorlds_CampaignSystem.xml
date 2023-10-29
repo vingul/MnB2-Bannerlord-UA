@@ -491,7 +491,7 @@
     <string id="63TAYbkx" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
     <string id="64bH4bUo" text="No, thank you. But perhaps one of the other lords of our clan would be interested."/>
     <string id="64RFlBFr" text="Very well. Don't worry, all your expenses will be covered. "/>
-    <string id="64rWqBLN" text="You avoided service with one of the main forces of your realm's armies, but followed instead in the train - the troops' wives, lovers and servants, and those who make their living by caring for, entertaining, or cheating the soldiery."/>
+    <string id="64rWqBLN" text="Ви уникнули служби в одному з головних армійських підрозділів вашого королівства, замість цього, ви приєднались до його обозу, в якому перевозили дружин, коханок і слуг, а також тих, хто заробляє собі на життя турботою, розвагою або обманом солдатів."/>
     <string id="651FhzdR" text="Міські торговці"/>
     <string id="65b6daHW" text="{VALUE}% hit point renegeration while traveling."/>
     <string id="65BTaOl8" text="{QUEST_GIVER.LINK} died and your mission is canceled."/>
@@ -669,7 +669,7 @@
     <string id="8bfzW0np" text="Many captives are still taken, and their families will pay to have them back. Men such as I criss-cross the Empire and the outer kingdoms, acquiring prisoners, and contacting their kin for a suitable ransom."/>
     <string id="8bLwh9yy" text="Excuse me, {?CONVERSATION_NPC.GENDER}my lady{?}sir{\?}. But I feel I need to think about this."/>
     <string id="8BnWa83o" text="I'm just honored to have fought alongside comrades who thought nothing of shedding their blood to keep me alive."/>
-    <string id="8bwpVpgy" text="перемога над ворога в бою."/>
+    <string id="8bwpVpgy" text="перемога над ворогом в бою."/>
     <string id="8DTKXbKw" text="Hard Knock"/>
     <string id="8DWTTnpP" text="My comrade will help your smith to produce what you need."/>
     <string id="8EtK0F1K" text="{VALUE}% sight range while traveling on steppes and plains."/>
@@ -1244,7 +1244,7 @@
     <string id="bWbcuOji" text="Yes. That is a lot but yes I can pay that. Thank you {?PLAYER.GENDER}milady{?}my Lord{\?}. I knew we could reach an agreement."/>
     <string id="BWhVhZPn" text="{VALUE}% garrison maintanance cost."/>
     <string id="BwIT8F0k" text="I don't mind, brigand. Surrender or die!"/>
-    <string id="bWlmGDf3" text="When a sudden storm caused the local stream to rise suddenly, your neighbors needed quick-thinking leadership. You provided it, directing them to build levees to save their homes."/>
+    <string id="bWlmGDf3" text="Коли раптовий шторм спричинив різке підняття рівня води в місцевій річці, вашим сусідам знадобився кмітливий лідер. І ви проявили себе, швидко організувавши будівництво греблі для порятунку власних домівок."/>
     <string id="bWpLYiEg" text="Did you ever find a way to handle those mercenaries?"/>
     <string id="bwuawgrW" text="As the highest tactics skilled member {HIGHEST_TACTICS_SKILLED_MEMBER} ({HIGHEST_TACTICS_SKILL}) devise a plan to disperse into the wilderness to break away from your enemies. You and most men may escape with your lives, but as many as {NEEEDED_MEN_COUNT} {SOLDIER_OR_SOLDIERS} may be lost and part of your baggage could be captured."/>
     <string id="bwWdGLDv" text="I have seen great good and great evil, but I can only hope the good outweights the evil in most people's hearts."/>
@@ -1384,7 +1384,7 @@
     <string id="CrzFdo2H" text="Yes. It's about the war with the {ENEMYFACTION_INFORMALNAME}. We need to tie up some of their forces. A relatively small force moving quickly through their lands and raiding their villages should be a good distraction. Their lords will need to chase the raiders and won't be able to threaten us elsewhere. You seem to be the right {?PLAYER.GENDER}warrior{?}man{\?} for the job. What do you say? You'll have my gratitude and you'll be well rewarded if you succeed."/>
     <string id="CSqaF7tz" text="There's been a real surge of banditry around here recently. I don't know if it's because the lords are away fighting or something else, but it's a miracle if a traveler can make three leagues beyond the gates without being set upon by highwaymen."/>
     <string id="cSt26auo" text="Increase garrison size by +{a0}"/>
-    <string id="csUq1RCC" text="You were employed as a hired hand at the town's stables. The overseers recognized that you had a knack for horses, and you were allowed to exercise them and sometimes even break in new steeds."/>
+    <string id="csUq1RCC" text="Вас найняли на міську конюшню як найманого робітника. Наглядачі визнали, що ви маєте хист до коней, і дозволили вам тренувати їх, а іноді навіть гнуздати нових жеребців."/>
     <string id="CswzBb02" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM}."/>
     <string id="CsZfuPOe" text="Voting against or in favor of the current owner of the settlement will affect your relation with that clan accordingly."/>
     <string id="ctEEfvsk" text="What? We're not warriors, but I bet we can take you. If you want our goods, you'll have to fight us![rf:idle_angry][ib:aggressive]"/>
@@ -1666,7 +1666,7 @@
     <string id="eKy1II3h" text="You made your way out but {PRISONER.NAME} was badly wounded during the escape. You had no choice but to leave {?PRISONER.GENDER}her{?}him{\?} behind as you disappeared into the back streets and sneaked out the gate.{INFORMATION_IF_PRISONER_DEAD}"/>
     <string id="ElG1LnCA" text="I am thinking of someone else."/>
     <string id="elKQc0O6" text="Engineering Guilds"/>
-    <string id="elQnygal" text="Your family scraped up the money for a rudimentary schooling and you took full advantage, reading voraciously on history, mathematics, and philosophy and discussing what you read with your tutor and classmates."/>
+    <string id="elQnygal" text="Ваша родина нашкребла грошей на базову шкільну освіту для вас, і ви повною мірою цим скористалися, жадібно поглинаючи книги по історії, математиці та філософії та обговорюючи прочитане зі своїм викладачем та однокласниками."/>
     <string id="elvb5y2I" text="The ruler is allowed to impose special taxes on trade in towns, payable directly to the royal or imperial treasury."/>
     <string id="ELxhTMuy" text="Excellent. But please hurry - we need to put the men we hired to work right away. Good luck."/>
     <string id="EmBEupR5" text="a secret society"/>
@@ -1813,7 +1813,7 @@
     <string id="fhAsNPoE" text="{ISSUE_GIVER.LINK}, lord of {SETTLEMENT}, says that a {MALE_LESSER_NOBLE_TITLE} named {MALE_LESSER_NOBLE_NAME} is stirring up unrest in the countryside. You asked your companion to deal with {MALE_LESSER_NOBLE_NAME}'s band. They should rejoin your party in {RETURN_DAYS} days"/>
     <string id="FHeJ8bsX" text="We will see about that."/>
     <string id="FHjM62IY" text="{LORD.FIRSTNAME} is a member of the {CLAN_NAME}, a rising new clan. {?LORD.GENDER}She{?}He{\?} is still making {?LORD.GENDER}her{?}his{\?} reputation."/>
-    <string id="FhZPjhli" text="Your hometown was briefly placed under siege, and you were called to defend the walls. Everyone did their part to repulse the enemy assault, and everyone is justly proud of what they endured."/>
+    <string id="FhZPjhli" text="Ваше рідне місто на короткий час потрапило в облогу, і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки, і тепер по праву пишається тим, що показав себе справжнім воїном."/>
     <string id="FILG5eZD" text="Leave {SETTLEMENT}."/>
     <string id="fiLWg11t" text="Neither am I, if you surrender. Otherwise..."/>
     <string id="FirEOQaI" text="Talk to the garrison commander"/>
@@ -1948,7 +1948,7 @@
     <string id="gfmU4wiM" text="A {?INQUIRY_COMPANION.GENDER}woman{?}man{\?} named {INQUIRY_COMPANION.LINK} is staying at my tavern. You may want to talk with him."/>
     <string id="GFnqIuxy" text="encouraging lords to appoint bailiffs in their fiefs"/>
     <string id="gfoqoGTn" text="The way we ran away back there... I may have told you that I hoped one day the poets would write odes about me. I had intended that they would praise my heroism, not my ability to scamper to safety."/>
-    <string id="GFUggps8" text="marched with the camp followers."/>
+    <string id="GFUggps8" text="подорожували з обозом."/>
     <string id="GG1W8qGd" text="{COMPANY_OF_TROUBLE_PERSUADE_ATTEMPT_2}"/>
     <string id="Gg5dJHjC" text="Engineer Perks"/>
     <string id="GgBtpOEm" text="{.%}{ANIMAL_COUNT} {?ANIMAL_COUNT &gt; 1}{PLURAL(ANIMAL_TYPE)}{?}{ANIMAL_TYPE}{\?}{.%} added to your party."/>
@@ -2439,7 +2439,7 @@
     <string id="joCSXAQQ" text="I would travel much faster if I had a good scout by my side."/>
     <string id="JOe3BC41" text="The {ENEMY_KINGDOM_INFORMAL_NAME} is currently more powerful than us. We need time to build up our strength."/>
     <string id="jol73R8f" text="We are still waiting for your men to arrive, {?PLAYER.GENDER}ma'am{?}sir{\?}. The village needs the animals they are bringing."/>
-    <string id="joRHKCkm" text="Your family needed someone trustworthy to take a caravan to a neighboring town. You organized supplies, ensured a constant watch to keep away bandits, and brought it safely to its destination."/>
+    <string id="joRHKCkm" text="Вашій родині був потрібен хтось надійний, хто б зміг провести караван до сусіднього міста. Ви організували припаси для походу, забезпечили постійну охорону від бандитів і безпечно доправили караван до місця призначення."/>
     <string id="JPAGzEhe" text="You failed to rescue the {QUEST_GIVER.LINK}'s men in time. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. &quot;You sat on your heels doing nothing and my men will pay the price. I won't forget this...&quot;"/>
     <string id="jpBpwgAs" text="Settlements"/>
     <string id="JPclWyyr" text="My companion can handle it... So, {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} to {SETTLEMENT}."/>
@@ -2843,7 +2843,7 @@
     <string id="MF40cm9k" text="Land grants are considered to be temporary offices rather than the rightful inheritance of lords. In practice heirs tend to take over their family fiefs, but it's easier under Depositions to remove them."/>
     <string id="mfAP8Wlq" text="Leave settlement."/>
     <string id="MFDb5duu" text="Splendid! I suspect that you may, in your line of work, occasionally acquire a few captives. I could possibly take them off your hands. I'd pay you, of course."/>
-    <string id="mfRbx5KE" text="reading and studying."/>
+    <string id="mfRbx5KE" text="за читанням і навчанням."/>
     <string id="MFrIHJZM" text="Your family was from a smaller offshoot of an emir's tribe. Your father's land gave him enough income to afford a horse but he was not quite wealthy enough to buy the armor needed to join the heavier cavalry. He fought as one of the light horsemen for which the desert is famous."/>
     <string id="mfYzCeGR" text="{CHARACTER.NAME} was {TITLE} of the {CHARACTER_FACTION_SHORT}. {FURTHER_DETAILS}."/>
     <string id="mg0yAzIb" text="{RETIREE.LINK} has retired."/>
@@ -3032,7 +3032,7 @@
     <string id="Nn8bmGUX" text="You make sure that the child would be taught the deeds of the leaders of your people, and memorize the rhetoric they used to inspire their followers."/>
     <string id="nnutwjOZ" text="We'll need to work out the details of how we divide our property."/>
     <string id="nNUZOwhb" text="Redeye {FIRSTNAME}"/>
-    <string id="nOfSqRnI" text="на тренувальному майданчику міської варти."/>
+    <string id="nOfSqRnI" text="на тренувальному майданчику варти."/>
     <string id="nomZx5Nw" text="I am thinking of a different companion."/>
     <string id="NouDSrXE" text="{VALUE} party size."/>
     <string id="nOZerIfl" text="Quick Adjustments"/>
@@ -4227,7 +4227,7 @@
     <string id="vGF5S2hE" text="Leaderboard"/>
     <string id="VgkFpMxF" text="{VALUE}% morale and renown gained from battles won."/>
     <string id="vh4bBfYq" text="You have accepted {TARGET_HERO.LINK}'s offer and freed {?TARGET_HERO.GENDER}her{?}him{\?}. {?TARGET_HERO.GENDER}She{?}He{\?} and {?TARGET_HERO.GENDER}her{?}his{\?} clan would be very happy. On the other hand {ISSUE_OWNER.LINK} will feel {?ISSUE_OWNER.GENDER}she{?}he{\?} is betrayed and be furious."/>
-    <string id="vH7GtuuK" text="working at the stables."/>
+    <string id="vH7GtuuK" text="за роботою в стайнях."/>
     <string id="VhbasI9J" text="Castor"/>
     <string id="VHdyQYKI" text="Decrease the sacrificed troop number when trying to get away +{a0}%"/>
     <string id="Vi5Ylvr1" text="{LORD.NAME} is gathering army near {SETTLEMENT}"/>
@@ -4365,7 +4365,7 @@
     <string id="wBBidWVw" text="What have we here? You can't enter the town with so many weapons. Hand them over! You can retrieve them when you leave."/>
     <string id="WBcw6Z9W" text="{HERO.NAME} is leading an alley."/>
     <string id="wBgpln4f" text="{VALUE} garrison limit in the governed settlement."/>
-    <string id="WbHfGCbd" text="you survived a siege."/>
+    <string id="WbHfGCbd" text="виживання в облозі."/>
     <string id="wbJzSg3X" text="Ulbesos"/>
     <string id="wbLnJrJA" text="Ah, well. I can look elsewhere for help, I suppose."/>
     <string id="wbLqHvjE" text="Zerosica"/>
@@ -4385,7 +4385,7 @@
     <string id="wF7uiYzy" text="Caravan Ambush"/>
     <string id="WfAuSpJq" text="Eutos"/>
     <string id="wfb0FnbW" text="At last they've made peace with {ENEMY_NAME}. Good. I hope it lasts."/>
-    <string id="wfbtS71d" text="you led a caravan."/>
+    <string id="wfbtS71d" text="очолювання каравану."/>
     <string id="WFFlp3Qi" text="Lead by Example"/>
     <string id="wFWdhNCN" text="{VALUE}% accuracy penalty with crossbows while mounted."/>
     <string id="wGAmNQGE" text="{CHARACTER.NAME} does not have much experience in this skill, I can't help {?CHARACTER.GENDER}her{?}him{\?} much. Maybe we can work on something else?"/>
@@ -4476,7 +4476,7 @@
     <string id="WzdhPF7M" text="Well, if we had some extra skilled labor, we could probably melt down old tools and reforge them. That's too much work for just our smith by himself, but maybe he could do it with someone proficient in crafting to help him."/>
     <string id="wZfbYfoH" text="They will give you {PRODUCT_COUNT} {.%}{?(PRODUCT_COUNT &gt; 1)}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}."/>
     <string id="x04UGQDn" text="Dungeon"/>
-    <string id="x1HTX5hq" text="you saved your village from a flood."/>
+    <string id="x1HTX5hq" text="порятунок свого села від повені."/>
     <string id="x1T8wWNU" text="{VALUE}% attack speed with polearms for every skill point above 250."/>
     <string id="X21PahQn" text="Menaclys"/>
     <string id="x2B0OjhI" text="Barracks"/>
