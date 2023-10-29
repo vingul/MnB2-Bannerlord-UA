@@ -603,7 +603,7 @@
     <string id="7h6cXdW7" text="Engineer"/>
     <string id="7Hd5yW7B" text="{?CHILD.GENDER}She{?}He{\?} is at home in the wilderness. {?CHILD.GENDER}She{?}He{\?} moves like a cat, and has very keen ears and eyes."/>
     <string id="7HpfrmIU" text="On a second thought... Now is not the right time to do this."/>
-    <string id="7Hv984Sf" text="at docks and building sites."/>
+    <string id="7Hv984Sf" text="в доках і на будівництвах."/>
     <string id="7HvtT8bm" text="Wrought Iron{@Plural}loads of wrought iron{\@}"/>
     <string id="7hYUleHh" text="rode to the edge of the world."/>
     <string id="7J9KNFTz" text="Donate troops to garrison"/>
@@ -657,7 +657,7 @@
     <string id="888lmJqs" text="All of Calradia's kingdoms recognize the value of good light cavalry and horse archers, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a good bow so that you could fulfill their levy obligations."/>
     <string id="88Fk9keT" text="I am sure I can do more with fewer supplies if I had a good quartermaster."/>
     <string id="8a13MGzr" text="All I can say is that I try to repay good with good, and evil with evil."/>
-    <string id="8a6dnLd2" text="with the alley gangs."/>
+    <string id="8a6dnLd2" text="з вуличними бандами."/>
     <string id="8aajPkKG" text="{VALUE}% escape chance for hero prisoners."/>
     <string id="8AbHxCM8" text="{CAPTIVITY_TEXT}\nWaiting in captivity..."/>
     <string id="8AjlID6z" text="You hear talk of incriminating letters and loose tongues paid to stay silent. You're not sure exactly what happened, but {?PLAYER_CHILD}your{?}the{\?} child seems more worldly than {?CHILD.GENDER}she{?}he{\?} did when {?CHILD.GENDER}she{?}he{\?} left."/>
@@ -1556,7 +1556,7 @@
     <string id="ds294zxi" text="Anything else?"/>
     <string id="DS8fM8Op" text="{VALUE}% charge damage dealt by troops in your formation."/>
     <string id="dSBbSHkM" text="Tribute"/>
-    <string id="DsCkf6Pb" text="Growing up, you spent most of your time..."/>
+    <string id="DsCkf6Pb" text="Підрісши, більшу частину свого часу ви почали проводити..."/>
     <string id="dSHgU9gD" text="You have defeated some of the brigands and recruited the rest into your party. {QUEST_GIVER.LINK} is grateful and sends you the {GOLD_AMOUNT}{GOLD_ICON} as promised. "/>
     <string id="DSKtsYPi" text="Prestige"/>
     <string id="DSlhMswt" text="Raid an Enemy Territory"/>
@@ -3032,7 +3032,7 @@
     <string id="Nn8bmGUX" text="You make sure that the child would be taught the deeds of the leaders of your people, and memorize the rhetoric they used to inspire their followers."/>
     <string id="nnutwjOZ" text="We'll need to work out the details of how we divide our property."/>
     <string id="nNUZOwhb" text="Redeye {FIRSTNAME}"/>
-    <string id="nOfSqRnI" text="at the town watch's training ground."/>
+    <string id="nOfSqRnI" text="на тренувальному майданчику міської варти."/>
     <string id="nomZx5Nw" text="I am thinking of a different companion."/>
     <string id="NouDSrXE" text="{VALUE} party size."/>
     <string id="nOZerIfl" text="Quick Adjustments"/>
