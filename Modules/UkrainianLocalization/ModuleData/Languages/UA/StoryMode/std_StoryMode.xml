@@ -80,7 +80,7 @@
     <string id="6bUSbsKC" text="Your father worked for a fitiwi, one of the strongmen who keep order in the poorer quarters of the oasis towns. He resolved disputes over land, dice and insults, imposing his authority with the fitiwi's traditional staff."/>
     <string id="6Dd3Pa07" text="You managed to thwart the conspiracy."/>
     <string id="6iytd81P" text="You are defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again."/>
-    <string id="6LFj919J" text="You helped dig wells, rethatch houses, and fix broken plows. You learned about the basics of construction, as well as what it takes to keep a farming community prosperous."/>
+    <string id="6LFj919J" text="Ви допомагали копати колодязі, ремонтувати будинки та лагодити зламані плуги. Ви дізналися про основи будівництва, а також про те, що необхідно для успішного ведення сільського господарства."/>
     <string id="6LQUuQhV" text="Thank you for your precious help."/>
     <string id="6qgXAcZB" text="Neretzes, when he heard we were hesitating, sent us a message calling us cowards and traitors. And you say that to a Vlandian noble at your peril. Neretzes should have known what he was doing. We joined the Sturgians."/>
     <string id="6UIa4784" text="Can you tell me anything about the battle of Pendraic?"/>
@@ -113,7 +113,7 @@
     <string id="9aYCfBVz" text="The city was in a state of panic after hearing rumors of what happened. Arenicos kept things from descending into chaos. When it came time for the Senate to choose the next Emperor, there was no question that it should be him. I loved him before as a man, but that day learned to love him as something more: what a gift he was to the people of Calradia!"/>
     <string id="9E6faNBg" text="I will need to embroider a proper legend about you. Divine omens at your birth, that kind of thing. For now, we can call you 'Bannerlord,' who brings down the wrath of Heaven on the impudent barbarians."/>
     <string id="9kGnzjrU" text="Timer Started."/>
-    <string id="9ks4u5cH" text="You were sent by the village healer up into the hills to look for useful medicinal plants. You learned which herbs healed wounds or brought down a fever, and how to find them."/>
+    <string id="9ks4u5cH" text="Сільський знахар відправляв вас у гори на пошуки лікарських рослин. Ви дізналися, які трави загоюють рани або збивають температуру, і як їх знайти."/>
     <string id="9sAGLK6R" text="Yes. I was tasked by Derthert with command of the crossbowmen."/>
     <string id="9tpTkKdY" text="Tell me which path you choose when you've made progress."/>
     <string id="9VxUSDQ7" text="My name's Tacteos. I'm a doctor by trade. I was on, well, a bit of a quest, but now I'm thinking I'm not really made for this kind of thing.[ib:demure]"/>
@@ -401,7 +401,7 @@
     <string id="kbyqtszZ" text="I'm listening.."/>
     <string id="kdR3CeL8" text="My husband's small force held together, and were joined by stragglers and fugitives. He described the march back - no food, little water, marching day and night to keep ahead of the enemy's outriders. But they survived - the only organized imperial force to do so."/>
     <string id="Ke7f4XSC" text="I present you with the Dragon Banner of Calradios."/>
-    <string id="KfaqPpbK" text="You went with other fleet-footed youths to take the villages' sheep, goats or cattle to graze in pastures near the village. You were in charge of chasing down stray beasts, and always kept a big stone on hand to be hurled at lurking predators if necessary."/>
+    <string id="KfaqPpbK" text="Разом з іншими прудконогими юнаками ви виганяли на пасовища поблизу села отари овець, кіз та іншої рогатої худоби. Ви відповідали за цю худобу, тому завжди брали з собою пригорщу камінців, щоб кидати ними в хижаків, які завжди крутились десь неподалік, вичікуючи свого шансу вполювати тварину, що відбилась від стада."/>
     <string id="kg9YtrOg" text="Your family were smiths, a revered profession among the Battanians. They crafted everything from fine filigree jewelry in geometric designs to the well-balanced longswords favored by the Battanian aristocracy."/>
     <string id="KH07mJ5k" text="Very well, come back when you are ready."/>
     <string id="KhL2ctsi" text="You're ready to leave now. Talk to the headman again. He had said he has a task for you."/>
@@ -562,7 +562,7 @@
     <string id="rmyXSgy7" text="Firstly, your clan must be independent. You cannot be pledged to an existing realm."/>
     <string id="RtryETdA" text="When they pledged to support us in the battle, we believed they would stand with us in the shield wall, like men. But of course this is not the Battanian way. They sprung some woodland trickery up in the hills, killed off Neretzes' vanguard, and no doubt spent the rest of the battle whooping and boasting and chopping the heads off of men who were already dead."/>
     <string id="rTYNL1LB" text="{MENTOR.LINK} told you about a group of conspirators operating in a hideout in the vicinity of {LOCATION_LINK}. You should go there and raid the hideout with a small group of fighters and take the bandits by surprise."/>
-    <string id="RuvSk3QT" text="You accompanied a local hunter as he went into the wilderness, helping him set up traps and catch small animals."/>
+    <string id="RuvSk3QT" text="Ви вирушали з місцевим мисливцем у дику місцевість, допомагаючи йому розставляти пастки та ловити дрібних тварин."/>
     <string id="RwlDeE9t" text="You talked with {IMPERIAL_MENTOR.LINK} too. Now you should make a decision."/>
     <string id="rY0fdQSb" text="No, I am still working on it..."/>
     <string id="S1yCTPrL" text="This is one of the most valuable services anyone has ever done for me. I am very grateful."/>
@@ -716,7 +716,7 @@
     <string id="y150haHv" text="Disrupt Supply Lines"/>
     <string id="y3fn2vWY" text="Recruit Troops"/>
     <string id="Y3UcaX74" text="математичними здібностями."/>
-    <string id="y6j1bJTH" text="You were apprenticed to the local smith. You learned how to heat and forge metal, hammering for hours at a time until your muscles ached."/>
+    <string id="y6j1bJTH" text="Ви стали підмайстром у місцевого коваля. Ви навчилися нагрівати та кувати метал, годинами б'ючи молотом аж до болю в м'язах, загартовуючи як зброю, так і свою міць."/>
     <string id="Y6OJHdMH" text="I am a busy man, but there is always time to talk about the blessed battle of Pendraic."/>
     <string id="Y6SqyQwn" text="Meet with {HERO.NAME}"/>
     <string id="y84UnOQX" text="Assemble the Dragon Banner"/>
