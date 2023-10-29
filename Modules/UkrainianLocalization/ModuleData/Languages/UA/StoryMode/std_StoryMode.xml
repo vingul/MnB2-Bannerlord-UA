@@ -16,7 +16,7 @@
     <string id="1CLNFbzR" text="Good. Then I will tell you what I know. I heard about one other piece."/>
     <string id="1EkEElZd" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю."/>
     <string id="1GgTNRNl" text="You can make your own claim to the rulership of the Empire and try to win the civil war, or support an existing claimant..."/>
-    <string id="1IEroJKs" text="Not everyone who musters for the levy marches to war, and not everyone who goes on campaign sees action. You did both, and you also took down an enemy warrior in direct one-to-one combat, in the full view of your comrades."/>
+    <string id="1IEroJKs" text="Не всі, хто записується в армію, йдуть на війну та ще менше тих, хто бере участь в справжніх битвах. Ви зробили і те, і інше. І вам навіть вдалося вбити ворожого воїна в прямому бою сам на сам, на очах у своїх побратимів."/>
     <string id="1LrHV647" text="Conspiracy Strength"/>
     <string id="1r0tDsrR" text="Attack!"/>
     <string id="1RaUauBS" text="You've successfully finished the training."/>
@@ -47,7 +47,7 @@
     <string id="4Baa38ra" text="We won, barely, with the help of the imperials, but the Khergits were mauled. Since then, the Khergits have been rather weak - and you know what happens to the weak. Still, no one told them to put all their eggs in one basket like that."/>
     <string id="4cw169Kb" text="third and the final"/>
     <string id="4d5SP6B6" text="{MENTOR.LINK} suggested that you should support an anti-imperial kingdom by offering them the Dragon Banner."/>
-    <string id="4f5xwzX0" text="When your community needed to organize a posse to pursue horse thieves, you were the obvious choice. You hunted down the raiders, surrounded them and forced their surrender, and took back your stolen property."/>
+    <string id="4f5xwzX0" text="Коли було необхідно організувати загін, щоб наздогнати конокрадів, ваша громада звернулася до вас, оскільки ви були очевидним вибором. Ви вистежили викрадачів, оточили їх, змусили здатися і повернути вкрадене."/>
     <string id="4hdp6SK0" text="Defeat the trainer!"/>
     <string id="4IS4Lou7" text="I ran too. And any man who tells you he wouldn't, in those circumstances, is a liar. When I was sitting in the cold woods later that night, hiding with other fugitives, listening to the barbarians whoop and holler as they chopped off heads as trophies - I promise them that no Calradian soldier should again be led into battle by an emperor who knows so little of war."/>
     <string id="4Oc6MEvR" text="Ah... For any son of Battania, there will be no prouder moment in his life than that day. Any true son of Battania, anyway."/>
@@ -192,7 +192,7 @@
     <string id="c1Q2irLi" text="Your men killed my parents. Did you really think you would not be punished?"/>
     <string id="c6pDNXbb" text="You can create your own kingdom or support an existing one..."/>
     <string id="C79Xxm1b" text="Don't let your conscience bother you about letting me go, by the way. I won't get back into slaving. Burned too many bridges with my old colleagues, you might say. I'll find some other way to earn my keep - mercenary work, perhaps. Anyway, maybe our paths will cross again."/>
-    <string id="cbF9jdQo" text="Your parents didn't give you much money, but they did leave just enough for you to purchase a plot of unused land at the edge of the village. You cleared away rocks and dug an irrigation ditch, raised a few seasons of crops, than sold it for a considerable profit."/>
+    <string id="cbF9jdQo" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли купити ділянку невикористаної землі на краю села. Ви очистили землю від каменів і вирили зрошувальну канаву, виростили кілька урожаїв, а потім продали його зі значним прибутком."/>
     <string id="ccf67J3J" text="You grabbed a bow and sent a few arrows the raiders' way. They took cover, giving you the opportunity to flee with your brother."/>
     <string id="cDWbwBwI" text="joined the kern."/>
     <string id="cEaXehHy" text="I was just checking on something. You can move along."/>
@@ -351,7 +351,7 @@
     <string id="HvGW2DvS" text="Track started."/>
     <string id="hXl25avg" text="Ваша сім'я найняла вам приватного викладача, і ви повною мірою цим скористалися, жадібно читаючи книги по історії, математиці та філософії та обговорюючи прочитане зі своїм наставником та однокласниками."/>
     <string id="hYgmzZJX" text="Denars"/>
-    <string id="I3PcdaaL" text="Wolves, bears are a constant menace to the flocks of northern Calradia, while hyenas and leopards trouble the south. You went with a group of your fellow villagers and fired the missile that brought down the beast."/>
+    <string id="I3PcdaaL" text="Вовки і ведмеді на півночі та гієни і леопарди на півдні Кальрадії є постійними загрозами для сільської худоби. Ви разом з групою односельців вирушили, щоб усунути одну з таких загроз. І саме ваша стріла виявилась фатальною для звіра."/>
     <string id="i3SSc0I4" text="{IMPERIAL_MENTOR.NAME}'s Plan"/>
     <string id="i5OOargr" text="Such are the fortunes of war. But what came afterwards... When word spread of what happened to our menfolk, the other clans - the Arkits in particular - knew we were weak. Our herds were raided. Anyone who protested was killed. Monchug did little to stop it. It taught us that valor will get you killed, but treachery will make you rich."/>
     <string id="IavuL9KI" text="Of course. I intend to use the banner to help save the Empire."/>
@@ -512,7 +512,7 @@
     <string id="Pus87ZW2" text="You've found the {BANNER_PIECE_COUNT} banner piece!"/>
     <string id="pVKkclVk" text="Interactions are limited during tutorial phase. This interaction is disabled."/>
     <string id="pX5cx3b4" text="I mean you no harm. We're hunting a group of raiders who took our brother and sister."/>
-    <string id="PyVqDLBu" text="Your parents didn't give you much money, but they did leave just enough for you to secure a loan against a larger amount to build a small workshop. You paid back what you borrowed, and sold your enterprise for a profit."/>
+    <string id="PyVqDLBu" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли взяти кредит і побудувати невелику майстерню. Ви виплатили борг і продали свою справу, отримавши хороший прибуток."/>
     <string id="Q2obAF4E" text="So! You have much to do. I will await news of your success. Return to me when you wish to declare your ownership of the banner to the world."/>
     <string id="q80FFaBj" text="Then there is {ANTI_IMPERIAL_MENTOR.NAME}, who was his bodyguard. He's supposed to be near {ANTI_IMPERIAL_MENTOR_SETTLEMENT} - though I hear he's changed quite a bit since then."/>
     <string id="qa0o7xaj" text="Clan Independence"/>
