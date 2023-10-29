@@ -32,7 +32,7 @@
     <string id="2NHnVb9b" text="So Nimr went, and fought, and won glory, but also got a number of men killed, especially those of the Banu Qild. And he became boastful, and arrogant. And then... Well, that is the beginning of the great feud between Sarranis and Qildis, but the rest of the story I should perhaps leave for someone else."/>
     <string id="2SDWhGmQ" text="Your family numbered among the poor migrants living in the slums that grow up outside the walls of the river cities, making whatever money they could from a variety of odd jobs. Sometimes they did services for one of the region's many criminal gangs."/>
     <string id="2TptWc4m" text="Свита барона"/>
-    <string id="2XhW49TX" text="you drove them off with arrows."/>
+    <string id="2XhW49TX" text="ви прогнали їх стрілами."/>
     <string id="2YYRyrOO" text="Leave..."/>
     <string id="3BjIb3CG" text="Or perhaps it was just Raganvad. He was stewing in his anger when up comes the Battanian king, Caladog. The Battanians had taken their time stripping the bodies of the imperial vanguard and the Sturgians were angry at them, so Raganvad called him a coward. Caladog sneers at him and walks off."/>
     <string id="3deb2lMd" text="To restore the Empire you should capture two thirds of settlements with imperial culture."/>
@@ -84,7 +84,7 @@
     <string id="6LQUuQhV" text="Thank you for your precious help."/>
     <string id="6qgXAcZB" text="Neretzes, when he heard we were hesitating, sent us a message calling us cowards and traitors. And you say that to a Vlandian noble at your peril. Neretzes should have known what he was doing. We joined the Sturgians."/>
     <string id="6UIa4784" text="Can you tell me anything about the battle of Pendraic?"/>
-    <string id="6vCHovVH" text="you subdued a raider."/>
+    <string id="6vCHovVH" text="ви перемогли одного з грабіжників."/>
     <string id="6YhGGJ7a" text="Finally, you need a capital for your realm. It can be any settlement you own, so long as they do not speak the imperial tongue. I will not help you create another Empire."/>
     <string id="77TavbOY" text="You have completed all tutorials. You can always come back to improve your score."/>
     <string id="7AYJ3SjK" text="Your family arranged for you to accompany a chieftain of your people. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
@@ -193,10 +193,10 @@
     <string id="c6pDNXbb" text="You can create your own kingdom or support an existing one..."/>
     <string id="C79Xxm1b" text="Don't let your conscience bother you about letting me go, by the way. I won't get back into slaving. Burned too many bridges with my old colleagues, you might say. I'll find some other way to earn my keep - mercenary work, perhaps. Anyway, maybe our paths will cross again."/>
     <string id="cbF9jdQo" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли купити ділянку невикористаної землі на краю села. Ви очистили землю від каменів і вирили зрошувальну канаву, виростили кілька урожаїв, а потім продали його зі значним прибутком."/>
-    <string id="ccf67J3J" text="You grabbed a bow and sent a few arrows the raiders' way. They took cover, giving you the opportunity to flee with your brother."/>
+    <string id="ccf67J3J" text="Ви схопили лук і випустили кілька стріл у бік нападників. Вони сховалися в укриття, давши вам з братом можливість втекти."/>
     <string id="cDWbwBwI" text="joined the kern."/>
     <string id="cEaXehHy" text="I was just checking on something. You can move along."/>
-    <string id="cepWNzEA" text="Jumping on the two remaining horses in the inn's burning stable, you and your brother broke out of the encircling raiders and rode off."/>
+    <string id="cepWNzEA" text="Скочивши на двох коней, що залишилися в стайні корчми, що палала, ви з братом вирвалися з оточення нападників і помчали геть."/>
     <string id="CEqKkY3m" text="Defend from up."/>
     <string id="cfTiiEEM" text="The Empire has a genius for destruction - the destruction of languages, traditions, gods. It takes our fortresses, slaughters our men, and turns our children into its own children."/>
     <string id="ch9f3A1e" text="Greetings, {?PLAYER.GENDER}madam{?}sir{\?}. Why did you stop our caravan? I trust you are not robbing us."/>
@@ -210,7 +210,7 @@
     <string id="CRmUZvaW" text="Perhaps Neretzes was rash, sending our infantry up into the hills to storm the Battanian fort. But he thought he could grab the pass quickly, before the enemy had time to reinforce it. If he had made the other wager and that turned out to be wrong, people would say he was hesitant."/>
     <string id="cRvSuYC8" text="Choose another weapon or go to another training area."/>
     <string id="csUq1RCC" text="Вас найняли на міську конюшню як найманого робітника. Наглядачі визнали, що ви маєте хист до коней, і дозволили вам тренувати їх, а іноді навіть гнуздати нових жеребців."/>
-    <string id="CvBoRaFv" text="You were able to grab a knife in the confusion of the attack. You stabbed a raider blocking your way."/>
+    <string id="CvBoRaFv" text="Ви встигли схопити ніж у метушні під час нападу і закололи нападника, який перегородив вам шлях."/>
     <string id="cYibaPhn" text="The barbarians just kept coming and coming. I fought my way out with some loyal men, and made my way back to the capital. But I found that Arenicos had got there before me, and had himself declared Emperor. He always was a cunning operator."/>
     <string id="D4MuSwRB" text="A sad day for the Banu Qild. But we had our vengeance."/>
     <string id="D9RoNGJg" text="Buy 2 {GRAIN}{.s}. Click &quot;Buy Products&quot; option on village menu to buy products."/>
@@ -244,7 +244,7 @@
     <string id="E87miqTI" text="Exhausted from the war, the clans of the {FACTION} offer to make peace with the {PLAYER_SUPPORTED_FACTION}."/>
     <string id="e8Tjf8Ph" text="Hire 1 Companion"/>
     <string id="eaxOH9mb" text="My little birds will tell me once you pledge your support..."/>
-    <string id="EdUppdLZ" text="you tricked the raiders."/>
+    <string id="EdUppdLZ" text="ви перехитрили грабіжників."/>
     <string id="EEedqolz" text="Bedouin"/>
     <string id="eH8z6Fws" text="Despite its Dragon Banner, the {PLAYER_SUPPORTED_KINGDOM} has been destroyed!"/>
     <string id="ehnbi5yD" text="I am afraid I haven't seen any children. But after our caravan was attacked, the chief of the raiders, the one they call Radagos, took and rode off with our more valuable belongings, including a chest that I had.[ib:demure]"/>
@@ -279,7 +279,7 @@
     <string id="FfNwXtii" text="Якщо у дитинстві у вашій зграї вовченят і був лідер, то це, безумовно, були ви. Всі інші діти йшли за вами, оскільки ви вирішували, у що і де грати. Ви керували ними в цих іграх і різного роду бешкетах."/>
     <string id="Fgta5mF6" text="Before I answer, you and I need to know more about each other. I don't know what you know about me.  I was a citizen of the Empire. I was a commander in the imperial armies. But I am not imperial."/>
     <string id="FHM5GcHW" text="Good. Then I will tell you what I know. I heard about one other piece."/>
-    <string id="FhZPjhli" text="Ваше рідне місто на короткий час потрапило в облогу, і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки, і тепер по праву пишається тим, що показав себе справжнім воїном."/>
+    <string id="FhZPjhli" text="Ваше рідне місто на короткий час потрапило в облогу і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки і тепер по праву пишається тим, що показав себе справжнім воїном."/>
     <string id="FKpLEamz" text="доглядаючи за своїми кіньми."/>
     <string id="flGyoqa6" text="It was Sturgians who met Neretzes' guard face-to-face. My father ordered me to stay back as he led them into battle, but he was at their head. He forced them back, then they broke and ran for the shelter of their camp. We went and attacked their ramparts, and broke them, but my father was hit by an imperial mace at the moment of his triumph and died."/>
     <string id="flkmzKDz" text="Many Qildi youth went with him. They died in their hundreds. And there was no gain - except for Nimr, who for some reason people considered a hero. It was despicable how they fawned on him."/>
@@ -314,7 +314,7 @@
     <string id="gL241Hoz" text="Very nice. Superstitious twaddle, of course, but people will believe you. Very well, oh heir to Calradios, go forth!"/>
     <string id="gL3WCqM5" text="Settlement Count"/>
     <string id="GM3tAYMr" text="Take a hostile action"/>
-    <string id="gOI8lKcl" text="you rode off on a fast horse."/>
+    <string id="gOI8lKcl" text="ви втекли на швидких конях."/>
     <string id="gQ2tAvCz" text="Farmers"/>
     <string id="gSBGpUBm" text="Find {RADAGOS.LINK}' hideout."/>
     <string id="GsPC2MgU" text="Your father was part of one of the slave-bodyguards maintained by the Aserai emirs. He fought by his master's side with tribe's armored cavalry, and was freed - perhaps for an act of valor, or perhaps he paid for his freedom with his share of the spoils of battle. He then married your mother."/>
@@ -378,7 +378,7 @@
     <string id="j6py5Rv5" text="Your parents were healers who gathered herbs and treated the sick. As a living reservoir of Battanian tradition, they were also asked to adjudicate many disputes between the clans."/>
     <string id="j9f9Ts7i" text="I have a better idea. We would have a better chance if we split up now. I'll take {RADAGOS.NAME} and go find the slaver market and look for a way to free the children. However we must be careful not to endanger their lives and it could be better to just buy them. We need to have our purses full for that though."/>
     <string id="jAs3kDXh" text="Your family were the trusted kinsfolk of a Khuzait noyan, and shared his meals in the chieftain's yurt. Your father assisted his chief in running the affairs of the clan and fought in the core of armored lancers in the center of the Khuzait battle line."/>
-    <string id="jg3T5AyE" text="Like many families in Calradia, your life was upended by war. Your home was ravaged by the passage of army after army. Eventually, you sold your property and set off with your father, mother, brother, and your two younger siblings to a new town you'd heard was safer. But you did not make it. Along the way, the inn at which you were staying was attacked by raiders. Your parents were slain and your two youngest siblings seized, but you and your brother survived because..."/>
+    <string id="jg3T5AyE" text="Як і в багатьох сім'ях у Кальрадії, ваше життя перевернула війна. Ваш дім був спустошений арміями, що пройшли тут одна за одною. Зрештою, ви продали своє майно і вирушили з батьком, матір'ю, старшим братом і двома молодшими братом і сестрою до нового міста, яке, як ви чули, було безпечнішим. Але ви не доїхали. По дорозі на заїжджий двір, де ви зупинилися, напали розбійники. Ваших батьків вбили, двох молодших брата і сестру схопили, але ви і ваш брат вижили, тому що..."/>
     <string id="jGhWOnjx" text="Yes. It was madness. The greatest blow struck against the Empire in a lifetime, and we squandered it squabbling among ourselves about a flag."/>
     <string id="JhEzD45J" text="Purchase {GRAIN}"/>
     <string id="JJiKk4ow" text="Select your family name: "/>
@@ -432,7 +432,7 @@
     <string id="LKiREaFZ" text="You have defeated {BOSS_NAME} in a fair duel his men the conspirators scatters and runs away in shame."/>
     <string id="LLJ0oB8i" text="Next, your clan's renown must have spread far and wide, or no one will take you seriously."/>
     <string id="lLJh7WAT" text="You worked in the marketplace, selling trinkets and drinks to busy shoppers."/>
-    <string id="Lmfi0cYk" text="You encouraged the few travellers in the inn to break out in a coordinated fashion. Raiders killed or captured most but you and your brother were able to escape."/>
+    <string id="Lmfi0cYk" text="Ви переконали кількох гостей заїжджого двору до скоординованої втечі. Більшість з них нападники вбили або захопили в полон, але вам з братом вдалося втекти."/>
     <string id="lmG7uRK2" text="Okay"/>
     <string id="lnAhXvbo" text="There's this wandering doctor who comes through here from time to time. Name of Tacteos. Treats people for free... We're fond of him."/>
     <string id="LpH8SYFL" text="Your family were the trusted kinfolk of a Battanian chieftain, and sat at his table in his great hall. Your father assisted his chief in running the affairs of the clan and trained with the traditional weapons of the Battanian elite, the two-handed sword or falx and the bow."/>
@@ -501,7 +501,7 @@
     <string id="pa9LrHln" text="We're here, I guess. So... We need food, and after that, maybe some men to come with us."/>
     <string id="pCNSEPEP" text="You escaped? Where's my brother? What happened?"/>
     <string id="PDlaPVIP" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}."/>
-    <string id="peNBA0WW" text="Story Background"/>
+    <string id="peNBA0WW" text="Історія походження"/>
     <string id="PiKISvfu" text="{PLAYER.NAME}! I knew you'd come. Great Heaven. Damn, {?PLAYER.GENDER}sister{?}brother{\?}, nothing can stop you! I love you, {?PLAYER.GENDER}sister{?}brother{\?}.[if:happy][ib:demure]"/>
     <string id="PiOiQ3u5" text="You've successfully finished the sword and shield tutorial."/>
     <string id="PJ5C3Dim" text="{ANTIIMPERIAL_MENTOR.NAME}'s Conspiracy"/>
@@ -522,7 +522,7 @@
     <string id="Qdz5Hely" text="Defend from down."/>
     <string id="QF8B6XFS" text="All right then. Let us split up and look for the little ones separately. I'll send you a word if I find them before you do..."/>
     <string id="qg05CSZb" text="You have defeated all the raiders near {TARGET_SETTLEMENT}. Many people now hope you can bring peace and prosperity back to the region."/>
-    <string id="qhAhPWdp" text="you organized the travelers to break out."/>
+    <string id="qhAhPWdp" text="ви закликали людей до втечі."/>
     <string id="qIltCuBe" text="Get on the road now. Once I locate the little ones, I'll come find you."/>
     <string id="QLgkR3qN" text="You've successfully finished the track in ({TIME_SCORE}) seconds. You've received ({PENALTY_SECONDS}) seconds penalty from ({MISSED_TARGETS}) missed targets."/>
     <string id="qlOuiKXj" text="відома витівка."/>
@@ -753,7 +753,7 @@
     <string id="zLRlmitp" text="Investigate 'Neretzes' Folly'"/>
     <string id="ZpcV9MZE" text="You saved your brothers and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents."/>
     <string id="Zq9qXcCk" text="You are defeated by the {RADAGOS.NAME}' Party, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready. You must have at least {NUMBER} members in your party. If you don't, go back to {QUEST_VILLAGE} and recruit some more troops."/>
-    <string id="ZqOvtLBM" text="In the confusion of the attack you shouted that someone had found treasure in the back room. You then made your way out of the undefended entrance with your brother."/>
+    <string id="ZqOvtLBM" text="У метушні під час нападу ви вигукнули, що хтось знайшов коштовності у підсобці, після чого ви з братом змогли пробратись до виходу, за яким ніхто не дивився."/>
     <string id="zrpqSWSh" text="Free farmers"/>
     <string id="zRZd90cZ" text="I was there. I was just a young squire then."/>
     <string id="zsC2t5Hb" text="trained with the hearth guard."/>
