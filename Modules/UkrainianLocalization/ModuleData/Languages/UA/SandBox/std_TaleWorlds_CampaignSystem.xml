@@ -391,7 +391,7 @@
     <string id="4vleNtxb" text="Lord/Lady"/>
     <string id="4VxFPTT0" text="got bloodied."/>
     <string id="4Wvdk30M" text="Cheat: Follow me"/>
-    <string id="4WYY0X59" text="Before you set out for a life of adventure, your biggest achievement was..."/>
+    <string id="4WYY0X59" text="До того, як ви вирушили назустріч пригодам, вашим найбільшим досягненням було..."/>
     <string id="4Xb1xtbF" text="{VALUE}% damage when troops are sent to confront the enemy while outnumbered."/>
     <string id="4Ybbhzjw" text="Politician"/>
     <string id="4YfjgtO2" text="Donate Troops"/>
@@ -654,7 +654,7 @@
     <string id="86R9Ttgx" text="{VALUE}% armor weight."/>
     <string id="870ZCp1J" text="Pay {FINE}{GOLD_ICON}"/>
     <string id="87c7IhkZ" text="Indicates a gang member specialized in smuggling"/>
-    <string id="888lmJqs" text="All of Calradia's kingdoms recognize the value of good light cavalry and horse archers, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a good bow so that you could fulfill their levy obligations."/>
+    <string id="888lmJqs" text="У всіх королівствах Кальрадії розуміють цінність хорошої легкої кавалерії і кінних лучників, тому з радістю наймають кочівників і мешканців прикордоння. Ви були настільки вправним вершником, що ваші сусіди скинулися і купили вам маленького поні та гарний лук, щоб ви могли відправитись на військову службу."/>
     <string id="88Fk9keT" text="I am sure I can do more with fewer supplies if I had a good quartermaster."/>
     <string id="8a13MGzr" text="All I can say is that I try to repay good with good, and evil with evil."/>
     <string id="8a6dnLd2" text="з вуличними бандами."/>
@@ -669,7 +669,7 @@
     <string id="8bfzW0np" text="Many captives are still taken, and their families will pay to have them back. Men such as I criss-cross the Empire and the outer kingdoms, acquiring prisoners, and contacting their kin for a suitable ransom."/>
     <string id="8bLwh9yy" text="Excuse me, {?CONVERSATION_NPC.GENDER}my lady{?}sir{\?}. But I feel I need to think about this."/>
     <string id="8BnWa83o" text="I'm just honored to have fought alongside comrades who thought nothing of shedding their blood to keep me alive."/>
-    <string id="8bwpVpgy" text="you defeated an enemy in battle."/>
+    <string id="8bwpVpgy" text="перемога над ворога в бою."/>
     <string id="8DTKXbKw" text="Hard Knock"/>
     <string id="8DWTTnpP" text="My comrade will help your smith to produce what you need."/>
     <string id="8EtK0F1K" text="{VALUE}% sight range while traveling on steppes and plains."/>
@@ -877,7 +877,7 @@
     <string id="afaCdojS" text="Coaching"/>
     <string id="afbLOXbb" text="Maybe we can come to an agreement."/>
     <string id="aFDiKxhr" text="Our deal involved you getting your cut from the sales I made. No sale means no cut. I'm sure you understand."/>
-    <string id="afH90aNs" text="Levy armed with spear and shield, drawn from smallholding farmers, have always been the backbone of most armies of Calradia."/>
+    <string id="afH90aNs" text="Рекрути, озброєні списом і щитом, набрані у дрібних фермерів, завжди складали основу більшості армій Кальрадії."/>
     <string id="AFJ3BvTH" text="You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the dungeon where you must while away the miserable days of your captivity."/>
     <string id="aFNfxhwz" text="You no longer have enough {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} for {QUEST_GIVER.LINK}."/>
     <string id="afVsbikp" text="Greetings, traveller. How may we help you?"/>
@@ -1252,7 +1252,7 @@
     <string id="bx4MiPqN" text="Yes. I would be honored to be considered."/>
     <string id="bx6Jhhui" text="The artisan should make sure that the child knows the basics of smithing, fletching and pole-turning, and that men who work with their hands take pride in their work."/>
     <string id="bX841Jau" text="learn the arts of healing."/>
-    <string id="bXAg5w19" text="Younger recruits, or those of a slighter build, or those too poor to buy shield and armor tend to join the skirmishers. Fighting with bow and javelin, they try to stay out of reach of the main enemy forces."/>
+    <string id="bXAg5w19" text="Молоді новобранці чи ті, хто має більш худорляву статуру, або хто занадто бідний, щоб купити собі щит і зброю, зазвичай приєднуються до застрільників. Воюючи з луком і метальним списом, вони намагаються залишатися поза досяжністю основних сил противника."/>
     <string id="BxazyNwY" text="We have {PRODUCTS}. We can let you have them for {TOTAL_PRICE}{GOLD_ICON}."/>
     <string id="bXN2fbcv" text="Your men treat the residents of {SETTLEMENT_NAME} as wayward subjects of the {SETTLEMENT_CULTURE_NAME} rather than foes, and treat them relatively well."/>
     <string id="BXw5MwX7" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} grants {?ARMY_LEADER.GENDER}her{?}his{\?} men their customary right of pillage after a successful siege. {?ARMY_LEADER.GENDER}She{?}He{\?} tells them they may take property but must spare the townsfolk's lives."/>
@@ -2583,7 +2583,7 @@
     <string id="kNW1qYSi" text="{HERO.NAME} is leading a party right now."/>
     <string id="knWgaYdk" text="Sharpened Edge"/>
     <string id="knwId8DG" text="You cannot assign a prisoner as a governor of a settlement"/>
-    <string id="kNXet6Um" text="you had a famous escapade in town."/>
+    <string id="kNXet6Um" text="відома витівка у місті."/>
     <string id="KODafKT7" text="Architectural Commissions"/>
     <string id="kolBffjD" text="On The March"/>
     <string id="KOlw0Na1" text="{VALUE}% reload speed to troops in your formation."/>
@@ -2889,7 +2889,7 @@
     <string id="mNleBavO" text="{VALUE}% damage to bandit units by troops in your formation."/>
     <string id="mOFjZuSf" text="You cannot assign a newly released hero as the new governor of a settlement"/>
     <string id="mosHZG3b" text="The mutineers ambushed and killed {KILLED_NUMBER} of your men."/>
-    <string id="mP3uFbcq" text="you led a successful manhunt."/>
+    <string id="mP3uFbcq" text="успішне полювання на втікачів."/>
     <string id="Mp7dT2u2" text="chases and is chased."/>
     <string id="MpdPpIEY" text="leads a patrol."/>
     <string id="mPPWRjCZ" text="Flexible Fighter"/>
@@ -3467,7 +3467,7 @@
     <string id="QlECaaHt" text="Hmm...They can be useful."/>
     <string id="QLLeHRWw" text="Herders of {QUEST_SETTLEMENT}"/>
     <string id="QLNfsk93" text="Town security is increased by 1 per day{newline}Town taxes are reduced by 5%"/>
-    <string id="qlOuiKXj" text="you had a famous escapade."/>
+    <string id="qlOuiKXj" text="відома витівка."/>
     <string id="QlYUE00L" text="Well. We did have an agreement. I do expect you to pay the full amount."/>
     <string id="QlZc9CNQ" text="Rulers could appoint magistrates to rule in disputes and solve crimes. This could cut down on gang activity and lawlessness, but was often greatly resented by communities."/>
     <string id="QmaIRD7P" text="{VALUE}% travel speed during nighttime"/>
@@ -3853,7 +3853,7 @@
     <string id="sYfvsMwN" text="{QUEST_GIVER.LINK} asked you to raid {NUMBER_OF_TARGET_VILLAGE} {ENEMYFACTION_INFORMALNAME} villages to distract their lords and weaken their armies. {?QUEST_GIVER.GENDER}She{?}He{\?} offers {REWARD_GOLD}{GOLD_ICON} to thank you for your deeds."/>
     <string id="sYNFwOVg" text="Citizenship"/>
     <string id="sYrG8rNy" text="{VALUE}% to food consumption, wages and combat related morale loss for each steward point above 200 in your party."/>
-    <string id="sYuN6hPD" text="All of Calradia's kingdoms recognize the value of good light cavalry, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a sheaf of javelins so that you could fulfill their levy obligations."/>
+    <string id="sYuN6hPD" text="У всіх королівствах Кальрадії розуміють цінність хорошої легкої кавалерії, тому з радістю наймають кочівників і мешканців прикордоння. Ви були настільки вправним вершником, що ваші сусіди скинулися і купили вам маленького поні та в'язку дротиків, щоб ви змогли відправитись на військову службу."/>
     <string id="SyuxD1aY" text="You delivered the prisoners to {QUEST_GIVER.LINK} as promised and you shared half of the profit with the headman and the villagers."/>
     <string id="SyxQF0tM" text="{VALUE}% price penalty while selling food items."/>
     <string id="SzIPvqLk" text="Of course not. If you don't wish to fight yourself - and I understand you might be quite busy - you could use your influence to convince one of the nobles of this realm to hold their next tournament in my honor."/>
@@ -3885,7 +3885,7 @@
     <string id="TazumJGN" text="You emerge into the streets. No one is yet aware of what happened in the dungeons, and you hustle {PRISONER.NAME} towards the gates.{newline}You may now leave the {?SETTLEMENT_TYPE}settlement{?}castle{\?}."/>
     <string id="tb0gqxDZ" text="Here's the plan. We lay an ambush in the village. When they show up, we spring. If you join us, I think we've got a good chance of ridding ourselves of this scourge before they murder us one by one."/>
     <string id="TbBmjK8M" text="Desert Born"/>
-    <string id="TbNRtUjb" text="you hunted a dangerous animal."/>
+    <string id="TbNRtUjb" text="полювання на небезпечного звіра."/>
     <string id="TBpMffcv" text="Campaigning this season has taken even a higher toll on {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} than it has on my men. The animals will drop dead of exhaustion while my troops soldier on. Yet if we don't keep our stocks up, the enemy will run rings around us."/>
     <string id="tbQ5bUzD" text="Arenicos' Horses"/>
     <string id="Tbv2txJV" text="as a squire."/>
@@ -4551,7 +4551,7 @@
     <string id="xJwo7eBh" text="{WOUNDED_NUMBER} of your men got wounded while they were breaking up the crowd."/>
     <string id="XkjRNMam" text="You have no right to go around, under arms, spreading sedition. Disperse!"/>
     <string id="xKVBAL3m" text=" Campaign Issues"/>
-    <string id="xKXcqRJI" text="you invested some money in land."/>
+    <string id="xKXcqRJI" text="інвестиція грошей в землю."/>
     <string id="XKxeaF0I" text="Dalidos"/>
     <string id="xl4K9ecB" text="Open stash"/>
     <string id="Xl5JTBJE" text="Leave the village, telling them you've collected enough."/>
@@ -4577,7 +4577,7 @@
     <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT} You decide to..."/>
     <string id="XO3SOlZx" text="Simulation advantage: +{a0}%"/>
     <string id="xoARIHde" text="In Best Light"/>
-    <string id="xORjDTal" text="you invested some money in a workshop."/>
+    <string id="xORjDTal" text="інвестиція грошей в майстерню."/>
     <string id="xoTWC8Sm" text="Project Bonus"/>
     <string id="XOv5B84a" text="Yes, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I raided {RAIDED_VILLAGE_COUNT} villages as you commanded."/>
     <string id="xoVR3Xr3" text="Daily Bow skill experience bonus to the party member with the lowest bow skill."/>
@@ -4751,7 +4751,7 @@
     <string id="yppPCR1z" text="{VALUE}% damage with bows by Tier 3+ troops in your party."/>
     <string id="YPTZ2et7" text="Calm down. You're right. No one has the right to sell your ancestral lands. These herdsmen can take their cattle elsewhere."/>
     <string id="YQ3vm6er" text="Відвідати арену"/>
-    <string id="Yqm0Dics" text="you treated people well."/>
+    <string id="Yqm0Dics" text="добре ставлення до людей."/>
     <string id="yQtzabbe" text="Close"/>
     <string id="YRbSBxqT" text="Active"/>
     <string id="yRFSzSDZ" text="Ваша сім'я жила в селі, але не мала власної землі. Тому батько після повернення з роботи одразу ж надовго вирушав до лісу, полюючи на дичину аби прогодувати власну сім'ю (завжди пильно стежачи, щоб не потрапити на очі панським єгерям)."/>
