@@ -168,7 +168,7 @@
     <string id="bjVMtW3W" text="Your family were merchants who lived in one of Sturgia's great river ports, organizing the shipment of the north's bounty of furs, honey and other goods to faraway lands."/>
     <string id="bkZFbCRx" text="We're looking for two children captured by the raiders. Can you tell us anything?"/>
     <string id="BleybhsD" text="Imperial cataphracts showed up, armored head to foot and their horses too, so they just ignored our shooting and tore right through us. I was swept away in the retreat and saw no more of the battle. King Derthert had a good enough plan but the barons - Ingalther, Aldric, that lot - ignored him, as they always do."/>
-    <string id="BLZ4mdhb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
+    <string id="BLZ4mdhb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак, такі як вони були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
     <string id="bmitHhDt" text="Our dear old beloved King Aeril, a wonderful man but with a heart perhaps just a might too tender, did not wish for us to go off to war. But then he disappeared and I, his son-in-law, ascended to the kingship. The clans cried out for war! They had a hundred years of crimes against them to avenge. I, a father to my people, gave them what they wanted."/>
     <string id="bNcGO33Q" text="We think they've gone north. I reckon there are a few folk around here who'll join you in going after them if you'll pay for their gear."/>
     <string id="bNqLQKQS" text="You are out of food. There is a village called {VILLAGE_NAME} north of here where you can buy provisions and find some help."/>
@@ -179,7 +179,7 @@
     <string id="bsWSecYa" text="{PLAYER_BROTHER.NAME} is the elder brother of {PLAYER.LINK}. He has gone in search of the family's two youngest siblings, {PLAYER_LITTLE_BROTHER.NAME} and {PLAYER_LITTLE_SISTER.NAME}."/>
     <string id="bT9yspaQ" text="You have lost the battle against the conspiracy's caravan. A stronger adversary awaits us..."/>
     <string id="btAV7mmq" text="You are defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again."/>
-    <string id="bTKiN0hr" text="worked in the village smithy."/>
+    <string id="bTKiN0hr" text="працювали у сільській кузні."/>
     <string id="btsMpRcA" text="Ваша сім'я володіла кузнею в місті. Батько мав вплив, хоч і незначний, у міській раді, а також служив в ополченні."/>
     <string id="BTY2aZCt" text="Enter a training area."/>
     <string id="bWdsH2Ls" text="This is what I learned from a lifetime in politics: There is nothing worse than disorder. Suffice to say that I know better than anyone about the lies and cruelty that kept the Empire alive. But all the murders I ever committed in 10 years of serving Neretzes do not amount to the death toll in a single hour when an army storms a town."/>
@@ -516,7 +516,7 @@
     <string id="Q2obAF4E" text="So! You have much to do. I will await news of your success. Return to me when you wish to declare your ownership of the banner to the world."/>
     <string id="q80FFaBj" text="Then there is {ANTI_IMPERIAL_MENTOR.NAME}, who was his bodyguard. He's supposed to be near {ANTI_IMPERIAL_MENTOR_SETTLEMENT} - though I hear he's changed quite a bit since then."/>
     <string id="qa0o7xaj" text="Clan Independence"/>
-    <string id="qAbMagWq" text="sold product at the market."/>
+    <string id="qAbMagWq" text="продавали товари на ринку."/>
     <string id="Qb0wsarP" text="There was a warrior named Nimr, of the Bani Sarran. He was brave, but arrogant. Of course the young people loved him. He wanted to lead men to fight with the Empire, and though there was no gain for us, Unqid let him. Unqid can be weak sometimes."/>
     <string id="QbsDYITB" text="That you did, that you did. Lead on, then.[ib:closed][if:convo_nonchalant]"/>
     <string id="Qdz5Hely" text="Defend from down."/>
@@ -545,7 +545,7 @@
     <string id="r8ZLabb0" text="I have gathered all pieces of the Dragon Banner. What now?"/>
     <string id="rbjjDYXj" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again."/>
     <string id="RbXiEdXk" text="Reach Clan Tier 1"/>
-    <string id="rcoueCmk" text="Adolescence"/>
+    <string id="rcoueCmk" text="Підлітковий період"/>
     <string id="rCX81DDR" text="The Empire has been destroyed!"/>
     <string id="RDfXuVxT" text="Дрібні землевласники"/>
     <string id="rDuegB1L" text="You've finally arrived! I have a few things to say before we attack.[ib:confident][if:convo_nonchalant]"/>
@@ -555,7 +555,7 @@
     <string id="Ri6NmpEE" text="I will never forget when a messenger ran to tell me that my father was dead. But I knew I must swallow my grief, because now I was king. I rode down into the ruins of the imperial camp to take their banner as a trophy, my inheritance won by my father and passed down to me. Oh, some of the boyars were insubordinate. But I have since showed them that I am master."/>
     <string id="rinefpgo" text="You have arrived at the village. You can buy some food and hire some men to help hunt for the raiders. First go into the village and talk to the headman."/>
     <string id="RJ9NbuYr" text="So you want me to raise the money to ransom the little ones?"/>
-    <string id="RKVNvimC" text="herded the sheep."/>
+    <string id="RKVNvimC" text="пасли овець."/>
     <string id="RmbWW6Bm" text="You were a big and imposing enough youth that the chief's guard allowed you to train alongside them, in preparation to join them some day."/>
     <string id="rMem50oz" text="I have vowed that this Empire shall not survive this civil war, if I can do anything to stop it. And believe me, if I had that banner, there is very much something I could do."/>
     <string id="rmMcwSn8" text="You helped your family handle their business affairs, going down to the marketplace to make purchases and oversee the arrival of caravans."/>
@@ -588,7 +588,7 @@
     <string id="Sw8OxnNr" text="Kinsfolk of an emir"/>
     <string id="sYuN6hPD" text="All of Calradia's kingdoms recognize the value of good light cavalry, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a sheaf of javelins so that you could fulfill their levy obligations."/>
     <string id="t71lPdyb" text="How so?"/>
-    <string id="T7m7ReTq" text="hunted small game."/>
+    <string id="T7m7ReTq" text="полювали на дрібну дичину."/>
     <string id="T7OTmJUp" text="{MENTOR.LINK} has a message for you"/>
     <string id="T7ye4wUT" text="King Aeril disappeared while hunting, and Caladog becomes king. He leads the tribes to war. Oh, we were eager enough, even though Aeril had made a truce with the Emperor, sealed by oaths. When we were dazzled with the prospect of vengeance, who cares about our sacred word and honor?"/>
     <string id="T8naYoGH" text="Nobles to Talk to"/>
@@ -601,7 +601,7 @@
     <string id="tF6VeYaA" text="If you win, I promise my army won't crush you."/>
     <string id="tGEStbxb" text="Tribespeople"/>
     <string id="TH6L7OXu" text="Then you can come back when you have made up your mind."/>
-    <string id="tI8ZLtoA" text="repaired projects."/>
+    <string id="tI8ZLtoA" text="допомагали на будівництвах."/>
     <string id="TIaVyqMx" text="Glad to see you found what you needed. Now, about that matter I mentioned earlier...[if:convo_grave]"/>
     <string id="tJQ5oajd" text="Next, your clan must have won for itself considerable renown, or no one will follow you."/>
     <string id="TkgLEDRM" text="Merchants"/>
@@ -613,7 +613,7 @@
     <string id="TNxWBS07" text="Fight will start in {REMAINING_TIME} {?REMAINING_TIME&gt;1}seconds{?}second{\?}..."/>
     <string id="TPoK3GSj" text="Vagabonds"/>
     <string id="tRIrbTvv" text="Urban back-alley thugs"/>
-    <string id="TRwgSLD2" text="gathered herbs in the wild."/>
+    <string id="TRwgSLD2" text="займалися збором лікарських трав."/>
     <string id="tRzjuX0E" text="How can I support an existing imperial claimant?"/>
     <string id="tsjQtWsO" text="Thanks for saving me again. I hope our paths will cross again![ib:demure]"/>
     <string id="tTb28jyU" text="Many Battanians fight as kern, versatile troops who could both harass the enemy line with their javelins or join in the final screaming charge once it weakened."/>
@@ -683,7 +683,7 @@
     <string id="WWcG7kPr" text="A 'buyer'? Think bigger than that. Let me just say that, if you can find the missing pieces, I am sure I can help you put it to good use."/>
     <string id="wWLnZ6G4" text="Since your hunt for your kin is fruitless, how about you clear off and save your own lives? Either that or I force you to lick up all the blood you've spilled here with your tongues. Or... You and I could settle this, one on one.[ib:confident]"/>
     <string id="WysXGbM6" text="Right click to defend"/>
-    <string id="WYvnWcXQ" text="Like all village children you helped out in the fields. You also..."/>
+    <string id="WYvnWcXQ" text="Як і всі сільські діти, ви допомагали, працюючи в полі. Але ви також..."/>
     <string id="WyZ2UtFF" text="Your family had no taste for the authority of the boyars. They made their living deep in the woods, slashing and burning fields which they tended for a year or two before moving on. They hunted and trapped fox, hare, ermine, and other fur-bearing animals."/>
     <string id="x1HTX5hq" text="you saved your village from a flood."/>
     <string id="X1TJNkBV" text="We found your little brother and sister. But my former partner {HIDEOUT_BOSS.LINK} betrayed me. We came into his camp to negotiate the kids' release, and he seized us right then and there."/>
@@ -733,11 +733,11 @@
     <string id="Yqm0Dics" text="you treated people well."/>
     <string id="yQtzabbe" text="Close"/>
     <string id="yRAl8YRL" text="Yes. I was a junior officer on Neretzes' staff. People say much about the battle that betrays a lack of understanding, of Neretzes and of the circumstances he faced."/>
-    <string id="yRFSzSDZ" text="Ваша сім'я жила в селі, але не мала власної землі. Тому ваш батько після повернення з роботи одразу ж надовго вирушав до лісу, розставляючи пастки та полюючи на дичину (завжди пильно стежачи, щоб не потрапити на очі панським єгерям)."/>
+    <string id="yRFSzSDZ" text="Ваша сім'я жила в селі, але не мала власної землі. Тому батько після повернення з роботи одразу ж надовго вирушав до лісу, полюючи на дичину аби прогодувати власну сім'ю (завжди пильно стежачи, щоб не потрапити на очі панським єгерям)."/>
     <string id="yS7PvrTD" text="OK"/>
     <string id="ysRVZiA6" text="As you explore Calradia, you can learn more about your artifact and its importance by asking any lord or lady about the Empire's recent history."/>
     <string id="yub8ZSFP" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {IMPERIAL_MENTOR.LINK} and take {?IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}."/>
-    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів найманців Вландії, що складався з людей, які так сильно звикли до війни, служачи своєму пану, що вже не мислили мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і брала вас із собою у криваві походи."/>
+    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів вландійських найманців, які так сильно звикли до війни, служачи своєму пану, що вже навіть не уявляли мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і тому брала вас із собою у всі криваві походи."/>
     <string id="z3VamNrX" text="Send in your troops."/>
     <string id="Z54ZrDG9" text="Until next time, then."/>
     <string id="z8LQn2Uh" text="You have arrived at the hideout."/>
