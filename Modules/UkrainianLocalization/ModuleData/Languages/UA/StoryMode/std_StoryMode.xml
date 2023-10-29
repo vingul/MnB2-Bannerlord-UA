@@ -14,7 +14,7 @@
     <string id="0wQlpbtL" text="In order for the Empire to go into its final decline, there should be fewer than {NUMBER} imperial-owned settlements. If this happens, another kingdom can become the dominant power in Calradia."/>
     <string id="0yxEvgGf" text="It was a disaster for him - he died in it - but the victors didn't fare much better."/>
     <string id="1CLNFbzR" text="Good. Then I will tell you what I know. I heard about one other piece."/>
-    <string id="1EkEElZd" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile weapons."/>
+    <string id="1EkEElZd" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю."/>
     <string id="1GgTNRNl" text="You can make your own claim to the rulership of the Empire and try to win the civil war, or support an existing claimant..."/>
     <string id="1IEroJKs" text="Not everyone who musters for the levy marches to war, and not everyone who goes on campaign sees action. You did both, and you also took down an enemy warrior in direct one-to-one combat, in the full view of your comrades."/>
     <string id="1LrHV647" text="Conspiracy Strength"/>
@@ -73,7 +73,7 @@
     <string id="5QSGoRFj" text="Your family tilled one of the small patches of arable land in the steppes for generations. When the Khuzaits came, they ceased paying taxes to the emperor and providing conscripts for his army, and served the khan instead."/>
     <string id="5soUEFEJ" text="{TACTEOS.NAME} said it could be worth a fortune to the right person, if you manage not to get killed. If he's telling the truth, you must be careful. Never reveal that you have it. Try to understand its value, and how it can be sold."/>
     <string id="5UHbg6D0" text="So. What brings you to me?"/>
-    <string id="63TAYbkx" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile weapons, especially useful during sieges."/>
+    <string id="63TAYbkx" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
     <string id="64rWqBLN" text="You avoided service with one of the main forces of your realm's armies, but followed instead in the train - the troops' wives, lovers and servants, and those who make their living by caring for, entertaining, or cheating the soldiery."/>
     <string id="651FhzdR" text="Міські торговці"/>
     <string id="6aDiS9eP" text="I am {CONVERSATION_HERO.FIRSTNAME}. You probably already know that, though. Once I wielded great power, but now... Anyway, I am most curious what you might want with me."/>
@@ -88,7 +88,7 @@
     <string id="6YhGGJ7a" text="Finally, you need a capital for your realm. It can be any settlement you own, so long as they do not speak the imperial tongue. I will not help you create another Empire."/>
     <string id="77TavbOY" text="You have completed all tutorials. You can always come back to improve your score."/>
     <string id="7AYJ3SjK" text="Your family arranged for you to accompany a chieftain of your people. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
-    <string id="7cHsIMLP" text="You could never have bought the equipment on your own, but you were a good enough rider so that the local lord lent you a horse and equipment. You joined the armored cavalry, training with the lance."/>
+    <string id="7cHsIMLP" text="Ви ніколи не змогли б самостійно купити собі спорядження, але оскільки ви були достатньо хорошим вершником, місцевий лорд позичив вам коня і спорядження. Ви приєдналися до загону важкої кавалерії, тренуючись володіти лицарським списом."/>
     <string id="7eWmU2mF" text="Foresters"/>
     <string id="7FWF01bW" text="Refugees"/>
     <string id="7Hv984Sf" text="в доках і на будівництвах."/>
@@ -372,7 +372,7 @@
     <string id="ivKl4mV2" text="Your father was a trusted lieutenant of the local landowning aristocrat. He rode with the lord's cavalry, fighting as an armored lancer."/>
     <string id="IYnFgEgy" text="Let's go on then. (Play the combat tutorial)"/>
     <string id="izCbZEZg" text="Conspiracy Commander{%Commander is male.}"/>
-    <string id="iZKtGI6Y" text="Your family arranged for you to accompany a minor baron of the Vlandian kingdom. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
+    <string id="iZKtGI6Y" text="Ваша сім'я влаштувала вас на службу до збіднілого вландійського барона. Вам не доручали нічого надто важливого - здебільшого ви доправляли послання та доглядали за конем барона. Але це дало вам можливість побачити, як планують походи та шикують загони перед відправленням у битву."/>
     <string id="j2dW9fZt" text="Attack from up."/>
     <string id="J4qetbZb" text="I found this strange looking metal piece though. It doesn't look too valuable, but it could be the artifact {TACTEOS.NAME} was talking about. Maybe we can sell it to one of the noble clans for a hefty price."/>
     <string id="j6py5Rv5" text="Your parents were healers who gathered herbs and treated the sick. As a living reservoir of Battanian tradition, they were also asked to adjudicate many disputes between the clans."/>
