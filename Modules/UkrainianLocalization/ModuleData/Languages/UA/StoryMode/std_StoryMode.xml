@@ -218,7 +218,7 @@
     <string id="Db63Pe03" text="You have defeated the caravan and acquired its supplies. {OTHER_MENTOR.LINK}'s allies will not have their weapons. This will give us time and resources to prepare."/>
     <string id="Db98U6fF" text="Defend from left."/>
     <string id="dbLb3krw" text="Hunt the gangs of {RAIDER_NAME}"/>
-    <string id="dDmcqTzb" text="Yours wasn't the kind of reputation that local legends are made of, but it was the kind that wins you respect among those around you. You were consistently fair and honest in your business dealings and helpful to those in trouble. In doing so, you got a sense of what made people tick."/>
+    <string id="dDmcqTzb" text="Ваша репутація не була такою, про яку складають місцеві легенди, але вона була такою, що принесла вам повагу серед оточуючих. Ви були незмінно справедливим і чесним в угодах, які ви укладали та допомагали тим, хто потрапляв у біду. При цьому ви добре розуміли людей та їх мотиви."/>
     <string id="dE2ufxte" text="Before we do anything else... We're low on food. There's a village north of here where we can buy provisions and find some help. You're a better rider than I am so I'll let you lead the way..."/>
     <string id="DfiACGay" text="Destroy Raiders"/>
     <string id="DFidSjIf" text="Більшість дітей навколо вас мали лише базову освіту, але ви затримувалися після уроків, щоб вчитись читати та рахувати. Вас зачаровував ринок - ваги та міри, списки та рахунки, розмови про доходи та видатки."/>
@@ -226,7 +226,7 @@
     <string id="Dgdopl1b" text="How can I create my own imperial kingdom?"/>
     <string id="DIgsfYfz" text="Ви відвозили товари, які виробляла ваша родина, у найближче місто, продавали їх, а на отримані гроші купляли припаси. Хоч ця робота і була важкою, але вам подобався весь цей гомін і метушня на ринку."/>
     <string id="DIKPGwj1" text="So glad to see you safe. Is everyone okay?"/>
-    <string id="DjeAJtix" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, on one of your trips into town you got into the kind of trouble from which only a quick tongue or quick feet get you out alive."/>
+    <string id="DjeAJtix" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, в одну з чергових ваших поїздок до міста ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
     <string id="DjQuB0TU" text="You saved your brothers and sister, and you decided to let {RADAGOS.LINK} go..."/>
     <string id="dlBFVkDj" text="About the task you gave me..."/>
     <string id="DM6luo3c" text="Continue"/>
@@ -424,7 +424,7 @@
     <string id="L3Qb6lbp" text="Peace Offer from the {FACTION}"/>
     <string id="LbSvq3be" text="One other thing, {?PLAYER.GENDER}sister{?}brother{\?}. We want people to take us seriously. We may be leading men into battle soon. Let's give our family a name and a banner, like the nobles do."/>
     <string id="LcxfWLgd" text="{PLAYER_BROTHER.NAME} is the elder brother of {PLAYER.LINK}."/>
-    <string id="lD5Ob3R4" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, you got into the kind of trouble from which only a quick tongue or quick feet get you out alive."/>
+    <string id="lD5Ob3R4" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
     <string id="Lep5YKdt" text="While Neretzes' vanguard was getting slaughtered, we met the Vlandians. But the Vlandians brought lots of crossbowmen, and our horse archers took heavy losses. Eventually the armored imperial cataphracts showed up, and rolled over the crossbows. But we were caught in a melee with the Vlandian knights, and that was where things got bloody."/>
     <string id="LfH7VXDH" text="You have eliminated all {RAIDER_NAME} gangs in the vicinity."/>
     <string id="lIArdHty" text="Yes. The day my father died, thanks to Battanian treachery."/>
