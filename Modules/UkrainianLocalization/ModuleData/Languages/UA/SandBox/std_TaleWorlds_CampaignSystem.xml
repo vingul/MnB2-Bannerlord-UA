@@ -528,7 +528,7 @@
     <string id="6kn630ka" text="Ruler clan gains 100 denars per day for each town in the kingdom{newline}Settlement loyalty is decreased by 1 per day"/>
     <string id="6L1b1nJa" text="Oh I have a long list of scores to settle. You can be sure of that."/>
     <string id="6lbjddM8" text="{PRIOR_LINE} We have been together in many wars. Including many against your {?IS_SAME_CULTURE}people{?}allies{\?}, the {ETHNIC_TERM}, I should add."/>
-    <string id="6LFj919J" text="You helped dig wells, rethatch houses, and fix broken plows. You learned about the basics of construction, as well as what it takes to keep a farming community prosperous."/>
+    <string id="6LFj919J" text="Ви допомагали копати колодязі, ремонтувати будинки та лагодити зламані плуги. Ви дізналися про основи будівництва, а також про те, що необхідно для успішного ведення сільського господарства."/>
     <string id="6LfkfJiJ" text="Can't your passion for me overcome such base feelings?"/>
     <string id="6LMiTKZz" text="Lamenon"/>
     <string id="6LpwsxYP" text="gets bloodied."/>
@@ -758,7 +758,7 @@
     <string id="9j7LJk60" text="Collected Items"/>
     <string id="9jFqXvHy" text="Excellent! I knew you were an honest soul. Trust is a fine thing, isn't it? Perhaps we can do more business in the future."/>
     <string id="9JN5bc7f" text="No morale penalty for recruiting prisoners of your faction."/>
-    <string id="9ks4u5cH" text="You were sent by the village healer up into the hills to look for useful medicinal plants. You learned which herbs healed wounds or brought down a fever, and how to find them."/>
+    <string id="9ks4u5cH" text="Сільський знахар відправляв вас у гори на пошуки лікарських рослин. Ви дізналися, які трави загоюють рани або збивають температуру, і як їх знайти."/>
     <string id="9lygvooT" text="Debasement Of The Currency"/>
     <string id="9m5M3Yf9" text="Some nobles may consider it vulgar and common, but the art of acrobatics is demanding and often has very practical applications."/>
     <string id="9mlBbzLx" text="{VALUE} persuasion success required against characters of your own culture."/>
@@ -2540,7 +2540,7 @@
     <string id="KDtcsKUs" text="Double the morale bonus from having diverse food in your party."/>
     <string id="kePH44eg" text="I am planning to sponsor my own caravans, and someone who could run them would be perfect."/>
     <string id="keqS2dGa" text="???"/>
-    <string id="KfaqPpbK" text="You went with other fleet-footed youths to take the villages' sheep, goats or cattle to graze in pastures near the village. You were in charge of chasing down stray beasts, and always kept a big stone on hand to be hurled at lurking predators if necessary."/>
+    <string id="KfaqPpbK" text="Разом з іншими прудконогими юнаками ви виганяли на пасовища поблизу села отари овець, кіз та іншої рогатої худоби. Ви відповідали за цю худобу, тому завжди брали з собою пригорщу камінців, щоб кидати ними в хижаків, які завжди крутились десь неподалік, вичікуючи свого шансу вполювати тварину, що відбилась від стада."/>
     <string id="KFHj7ckm" text="As the ruler, you must decide if peace will be made with the {KINGDOM_NAME}"/>
     <string id="KfLZ8Hbw" text="{VALUE}% armor penetration with bows by troops in your formation."/>
     <string id="kfNW01y5" text="Tynops"/>
@@ -3691,7 +3691,7 @@
     <string id="rutgr1VF" text="Or if you can assign a companion for a while, they can stay here and train the men... I will also give you some provisions and money for their expenses and your trouble."/>
     <string id="ruU70rFl" text="You disperse into the shrubs and bushes. The enemies halt and seem to hesitate for a while before resuming their pursuit. {CASUALTIES_AND_LOST_BAGGAGE}"/>
     <string id="rUvnbDi2" text="Encurion"/>
-    <string id="RuvSk3QT" text="You accompanied a local hunter as he went into the wilderness, helping him set up traps and catch small animals."/>
+    <string id="RuvSk3QT" text="Ви вирушали з місцевим мисливцем у дику місцевість, допомагаючи йому розставляти пастки та ловити дрібних тварин."/>
     <string id="RUZHJMQO" text="Bow Damage: +{a0}%"/>
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
     <string id="RVas572P" text="Raided"/>
@@ -4648,7 +4648,7 @@
     <string id="Y5KXWHJY" text="Long Shots"/>
     <string id="Y5ztM8zq" text="My men would feel safer with a good surgeon to aid them in their time of need."/>
     <string id="y62dyzH6" text="You have lost the track of caravan. Your agreement with {ISSUE_GIVER.LINK} is failed."/>
-    <string id="y6j1bJTH" text="You were apprenticed to the local smith. You learned how to heat and forge metal, hammering for hours at a time until your muscles ached."/>
+    <string id="y6j1bJTH" text="Ви стали підмайстром у місцевого коваля. Ви навчилися нагрівати та кувати метал, годинами б'ючи молотом аж до болю в м'язах, загартовуючи як зброю, так і свою міць."/>
     <string id="Y7tozytM" text="Hello, {?PLAYER.GENDER}madam{?}sir{\?}. You have the bearing of a warrior. Do you have a minute? We may have interests in common."/>
     <string id="Y7tz9D28" text="These teachers who help people hone their skills and learn new habits... Can you help me find one?"/>
     <string id="Y8jAaICu" text="One day {?PLAYER_CHILD}your{?}the{\?} child asks you which of your skills was most useful to you. You thought for a while, and answered..."/>
