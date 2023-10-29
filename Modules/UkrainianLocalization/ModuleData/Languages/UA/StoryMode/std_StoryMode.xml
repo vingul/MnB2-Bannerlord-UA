@@ -91,7 +91,7 @@
     <string id="7cHsIMLP" text="You could never have bought the equipment on your own, but you were a good enough rider so that the local lord lent you a horse and equipment. You joined the armored cavalry, training with the lance."/>
     <string id="7eWmU2mF" text="Foresters"/>
     <string id="7FWF01bW" text="Refugees"/>
-    <string id="7Hv984Sf" text="at docks and building sites."/>
+    <string id="7Hv984Sf" text="в доках і на будівництвах."/>
     <string id="7jBroUUQ" text="Your family had little land of their own, so they earned their living from the woods, hunting and trapping. They taught you from an early age that skills like finding game trails and killing an animal with one shot could make the difference between eating and starvation."/>
     <string id="7O8IwMgU" text="Oh, you'll need my help all right, if you want to get them back - alive, that is. See, my boys have some pretty specific instructions about what to do if there's a rescue attempt..."/>
     <string id="7ULaG8aT" text="Then you can come back when you made your mind up."/>
@@ -100,7 +100,7 @@
     <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}."/>
     <string id="80NOk1Ee" text="You could not unify the Empire."/>
     <string id="888lmJqs" text="All of Calradia's kingdoms recognize the value of good light cavalry and horse archers, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a good bow so that you could fulfill their levy obligations."/>
-    <string id="8a6dnLd2" text="with the alley gangs."/>
+    <string id="8a6dnLd2" text="з вуличними бандами."/>
     <string id="8b4Ndfep" text="Oh of course. I have no doubts on that score."/>
     <string id="8bwpVpgy" text="you defeated an enemy in battle."/>
     <string id="8GCW5IRO" text="I was trying to find out more about it, but, as I say, I've had all my urge for travelling flogged out of me. Right now I don't think I'd venture more than 20 paces from a well as long as I live.[ib:demure]"/>
@@ -235,7 +235,7 @@
     <string id="dPb2Vph3" text="My informants will tell me once you pledged your support..."/>
     <string id="DQzEgUzu" text="You talked with {HERO.LINK} and got some valuable information that may help you understand the artifact."/>
     <string id="Dr63pCHt" text="{MENTOR.LINK} has sent you a message about bandit attacks near {TARGET_SETTLEMENT}, and advises you to go there and eliminate them all before their actions turn the locals against your movement. "/>
-    <string id="DsCkf6Pb" text="Growing up, you spent most of your time..."/>
+    <string id="DsCkf6Pb" text="Підрісши, більшу частину свого часу ви почали проводити..."/>
     <string id="duD8SJDb" text="Our knights spotted a mass of Aserai light infantry spread across a valley, and charged them. They weren't ready to meet the onslaught, and were routed. But then a bunch of Khuzaits showed up and kept their distance, giving the knights a hard time, shooting their horses out from under them. That's when we showed up."/>
     <string id="DuUhVWaV" text="Let me tell you about myself... I was a confidant of the old emperor Neretzes. Officially I was not his spymaster, as I am a woman, but that was the role I played nonetheless. I liked Neretzes, and was very grateful for his trust, but he was not a good emperor. Too stubborn and principled. I probably should have poisoned him."/>
     <string id="dWVsS3D8" text="The bravest and most valiant son of our clan, Nimr, led off a large group of Aserai warriors to fight for the Empire, for gold and glory. I went with them. When we saw the Battanian archers come down from the hills, Nimr was ready. He gave the word: we held our shields over our heads as the arrows rained down, then threw our javelins and charged. We cut them down."/>
@@ -470,7 +470,7 @@
     <string id="ngFVgwDD" text="Warrior-slaves"/>
     <string id="NItH4oL6" text="Well, if they're still pillaging they may have split up into smaller groups. Hopefully we won't need to take them all on at once. But it would help if we could hire or persuade some people to join us."/>
     <string id="nNavD2NO" text="You left the kingdom you have created. You can only support kingdoms that you are a part of."/>
-    <string id="nOfSqRnI" text="at the town watch's training ground."/>
+    <string id="nOfSqRnI" text="на тренувальному майданчику міської варти."/>
     <string id="nOLFHL3x" text="You and your men have defeated {BOSS_NAME} and the rest of the conspirators as {MENTOR.LINK} asked you to do."/>
     <string id="nrdl5QaF" text="My spy spotted some conspirators at the camp, and some local bandits have joined them. My spy does not know if they are expecting an attack, so I implore you to be cautious and to be ready for anything. Needless to say, I'm sure you will send any documents you can find to me so I can study them. Go quickly and return safely."/>
     <string id="NvkWtb8f" text="Find the hideout of {RADAGOS.NAME}' gang and defeat them"/>
