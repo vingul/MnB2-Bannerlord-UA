@@ -1149,7 +1149,7 @@
     <string id="bLRGix1b" text="Yes, I have them with me."/>
     <string id="BLrwIj7s" text="More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more..."/>
     <string id="BlVjIlZF" text="{FACTION_LEADER} will decide if the {KINGDOM_CONSIDERING_PEACE_NAME} will make peace with the {KINGDOM_NAME} by paying {TRIBUTE_PERCENTAGE} percent of the kingdom's income as tribute. You can pick your stance regarding this decision."/>
-    <string id="BLZ4mdhb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак такі люди, як вони, були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
+    <string id="BLZ4mdhb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак, такі як вони були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
     <string id="bm2DzxEl" text="{ATTRIBUTE1} is increased by {NUMBER_AP}."/>
     <string id="bm3eSbBD" text="{VALUE}% stun duration for kicking."/>
     <string id="Bm7U7TgG" text="If you're going to keep pestering us, traveller, we might need to take a bit more coin from you."/>
@@ -1220,7 +1220,7 @@
     <string id="BTdTSzxF" text="You felt that your child should learn first and foremost how to manage the family property and govern your retainers."/>
     <string id="bteVVFh0" text="{VALUE} gold for each caravan visiting the governed settlement."/>
     <string id="bTj16PqR" text="Every well-born youth wants to see the center of it all, where the lords and ladies gather in splendor to converse and connive. You invited the child to see the spectacle first hand, and provided the elegant clothes {?CHILD.GENDER}she{?}he{\?}'d need to be part of it. "/>
-    <string id="bTKiN0hr" text="worked in the village smithy."/>
+    <string id="bTKiN0hr" text="працювали у сільській кузні."/>
     <string id="btsMpRcA" text="Ваша сім'я володіла кузнею в місті. Батько мав вплив, хоч і незначний, у міській раді, а також служив в ополченні."/>
     <string id="bu2rmgY1" text="{FIRSTNAME} of the Willow-Tree"/>
     <string id="bue9AShm" text="I swear to fight your enemies and give shelter and water to your friends..."/>
@@ -3392,7 +3392,7 @@
     <string id="Q9RXyDBz" text="{newline} • {HERO.NAME} must use {INFLUENCE_AMOUNT} influence to convince {MERCIFUL_LORD_COUNT} merciful leaders of this action:{newline} {MERCIFUL_LORDS}"/>
     <string id="Q9VCvUTg" text="{VALUE}% build speed for marketplace, kiln and aqueduct projects."/>
     <string id="qa4FlTWS" text="{RULER.NAME} of the {KINGDOM} takes {SETTLEMENT} as {?RULER.GENDER}her{?}his{\?} fief despite {?RULER.GENDER}her{?}his{\?} council's opposition."/>
-    <string id="qAbMagWq" text="sold product at the market."/>
+    <string id="qAbMagWq" text="продавали товари на ринку."/>
     <string id="QAg8DQy6" text="You received a message from {QUEST_GIVER.LINK}.\n &quot;Thank you for fighting so valiantly in my name. Please take these {REWARD} denars with our gratitude.&quot;"/>
     <string id="QakanPLW" text="It will be years before the child can develop the strength, breathing techniques, and patience needed to wield a powerful bow, but it never hurts to start early."/>
     <string id="qaKh6vRl" text="Let's see if you are as good as your word. If you really manage, I admit, I will be very impressed. I look forward to meeting you again."/>
@@ -3594,7 +3594,7 @@
     <string id="RCa0DpAo" text="You have handed over the revenue to the steward"/>
     <string id="rCCG4mSJ" text="Projectile Deflection"/>
     <string id="rCiKbsyW" text="Spare Mounts"/>
-    <string id="rcoueCmk" text="Adolescence"/>
+    <string id="rcoueCmk" text="Підлітковий період"/>
     <string id="rd229FYG" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM} with the support of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="Rd3m5kyk" text="You have attacked the caravan."/>
     <string id="RdbLbpgO" text="Castle upgrade costs are reduced by 20%"/>
@@ -3627,7 +3627,7 @@
     <string id="RkQjllml" text="Given even a few minutes of free time, {?PLAYER_CHILD}your{?}this{\?} child will line up targets and shoot them with {?CHILD.GENDER}her{?}his{\?} home-made bow."/>
     <string id="rkQptw1O" text="{VALUE}% production in farms, mines, lumber camps and clay pits bound to the governed settlement."/>
     <string id="rkuAgPSA" text="On the Edge"/>
-    <string id="RKVNvimC" text="herded the sheep."/>
+    <string id="RKVNvimC" text="пасли овець."/>
     <string id="RkYL5eaP" text="{VALUE}% troop upgrade costs."/>
     <string id="Rl1AHKSp" text="Royal Privilege"/>
     <string id="RL8z99Dt" text="Force notables to give you recruits"/>
@@ -3869,7 +3869,7 @@
     <string id="t5Y0gTGv" text="{ARMY} has been disbanded since the leader couldn't arrived to the point on time."/>
     <string id="T6d7wtJX" text="Very well. I'll tell them to join your party. Good luck."/>
     <string id="t6FNeiOC" text="{ARMY} has been disbanded since the army leader is dead."/>
-    <string id="T7m7ReTq" text="hunted small game."/>
+    <string id="T7m7ReTq" text="полювали на дрібну дичину."/>
     <string id="t87T82jq" text="Owned alleys"/>
     <string id="t8TfagYL" text="Nobles are encouraged to fortify their estates, and can requisition labor and materials to do so."/>
     <string id="t968gMty" text="{FIRSTNAME} the {?FEMALE}Lady{?}Bastard{\?}"/>
@@ -3916,7 +3916,7 @@
     <string id="thugtrait" text="Thug"/>
     <string id="THz06NQD" text="It is time to make peace"/>
     <string id="tI8aoxXC" text="{FIRSTNAME} the Needle"/>
-    <string id="tI8ZLtoA" text="repaired projects."/>
+    <string id="tI8ZLtoA" text="допомагали на будівництвах."/>
     <string id="Ti9auMiO" text="{VALUE} hit points."/>
     <string id="TiJOjUi5" text="Valaos"/>
     <string id="Tj8bGW4b" text="If a man and a woman respect each other, politics should not divide them."/>
@@ -3958,7 +3958,7 @@
     <string id="tributeIncome" text="Tribute Income"/>
     <string id="tRIrbTvv" text="Urban back-alley thugs"/>
     <string id="TrQzYwVD" text="Yes, {?PLAYER.GENDER}my lady{?}lord{\?}. Since we last spoke I had chance to increase my understanding of ranged combat. How to breath, calculate distance, and lead the target if necessary."/>
-    <string id="TRwgSLD2" text="gathered herbs in the wild."/>
+    <string id="TRwgSLD2" text="займалися збором лікарських трав."/>
     <string id="Ts5dZih4" text="You couldn't fully bring {.%}{REQUESTED_GOOD}{.%} to {?QUEST_GIVER.GENDER}her{?}him{\?} in time."/>
     <string id="tsh4RXNa" text="{VALUE}% tax gain in the governed settlement."/>
     <string id="TsvBHBdX" text="Tier 3+ clans gain 0.5 influence per day, influence cost of inviting lower tier clans to army are increased by 10%"/>
@@ -4469,7 +4469,7 @@
     <string id="wxDbPiNH" text="Well, you have the reputation of being able to manage ruffians. Maybe you can take them off my hands, find some other lord who has more need of them and more denars to pay them. I've paid their contract for a few months. I can give you a small reward and if you can find a buyer, you can transfer the rest of the contract to him and pocket the down payment."/>
     <string id="wynCFpsT" text="This is a wise decision, my {?PLAYER.GENDER}lady{?}lord{\?}. Thank you."/>
     <string id="WyuIksRB" text="&quot;This weapon does not have the damage type I wanted. I'm cutting {AMOUNT}{GOLD_ICON} from the price.&quot;"/>
-    <string id="WYvnWcXQ" text="Like all village children you helped out in the fields. You also..."/>
+    <string id="WYvnWcXQ" text="Як і всі сільські діти, ви допомагали, працюючи в полі. Але ви також..."/>
     <string id="WyZ2UtFF" text="Your family had no taste for the authority of the boyars. They made their living deep in the woods, slashing and burning fields which they tended for a year or two before moving on. They hunted and trapped fox, hare, ermine, and other fur-bearing animals."/>
     <string id="WzBo28iT" text="{FIRSTNAME} the Scythe"/>
     <string id="WZbrxhYm" text="a flask of kefir"/>
@@ -4754,7 +4754,7 @@
     <string id="Yqm0Dics" text="you treated people well."/>
     <string id="yQtzabbe" text="Close"/>
     <string id="YRbSBxqT" text="Active"/>
-    <string id="yRFSzSDZ" text="Ваша сім'я жила в селі, але не мала власної землі. Тому ваш батько після повернення з роботи одразу ж надовго вирушав до лісу, розставляючи пастки та полюючи на дичину (завжди пильно стежачи, щоб не потрапити на очі панським єгерям)."/>
+    <string id="yRFSzSDZ" text="Ваша сім'я жила в селі, але не мала власної землі. Тому батько після повернення з роботи одразу ж надовго вирушав до лісу, полюючи на дичину аби прогодувати власну сім'ю (завжди пильно стежачи, щоб не потрапити на очі панським єгерям)."/>
     <string id="YRN4RBeI" text="Very well, madame, but I would have you know.... I intend to marry someone of my own rank."/>
     <string id="YRocrk78" text="You ordered your troops to disengage. When the dust settled, {WOUNDED} of them had been injured. But the village notables understood that you wanted a peaceful solution."/>
     <string id="yrPEqZEa" text="Any other way?"/>
@@ -4798,7 +4798,7 @@
     <string id="YxtiyxSf" text="Yes... As you no doubt know, this is rough work, and I've lost a lot of good lads recently. I haven't had much luck replacing them. I need men who understand how things work in our business, and that's not always easy to find. I could use bandits and looters. They usually know their stuff. But if I take them in as prisoners, they'll just slip away as soon as I get the chance. I need volunteers..."/>
     <string id="yxwuGcDo" text="{COMPANION.LINK} has failed to resolve the matter. Out of {NUMBER1} troops you sent {NUMBER2} troops came back safe and sound."/>
     <string id="yY5iDvAb" text="Fleet Footed"/>
-    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів найманців Вландії, що складався з людей, які так сильно звикли до війни, служачи своєму пану, що вже не мислили мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і брала вас із собою у криваві походи."/>
+    <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів вландійських найманців, які так сильно звикли до війни, служачи своєму пану, що вже навіть не уявляли мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і тому брала вас із собою у всі криваві походи."/>
     <string id="YYl1W2jU" text="Forester"/>
     <string id="yym5kCG5" text="After a particularly hard winter your tenants began to murmur about rising up and seizing your granaries. {CHILD.NAME} convinced them to be patient and wait for relief."/>
     <string id="yYTotiqW" text="Talk to..."/>
