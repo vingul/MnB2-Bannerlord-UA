@@ -1107,7 +1107,7 @@
     <string id="bGyrPe8c" text="Production"/>
     <string id="BH17ZNSe" text="I don't think we'll have any more problems at {TARGET_SETTLEMENT}, thanks to your men. Please give them our thanks, {?PLAYER.GENDER}madam{?}sir{\?}."/>
     <string id="bHbR5Mgy" text="Losys"/>
-    <string id="bhdkegZ4" text="У будь-якому місті вистачало проєктів, які потребувала як кваліфікованої, так і некваліфікованої робочої сили. Там ви дізналися, як влаштовані лебідки та конструюються риштування, як обтесувати дошки та каміння, як їх припасовували, та інші навички."/>
+    <string id="bhdkegZ4" text="У будь-якому місті вистачало проєктів, які потребували як кваліфікованої, так і некваліфікованої робочої сили. Там ви дізналися, як влаштовані лебідки та конструюються риштування, як обтесувати дошки та каміння, як їх припасовували та інші навички."/>
     <string id="BhDWm78v" text="{VICTIM.NAME} has died in battle."/>
     <string id="bhE2i6OU" text="служили конюхом у барона."/>
     <string id="bHf8aMtt" text="The {ENEMY_KINGDOM_INFORMAL_NAME} have been acting aggressively. We should teach them a lesson."/>
