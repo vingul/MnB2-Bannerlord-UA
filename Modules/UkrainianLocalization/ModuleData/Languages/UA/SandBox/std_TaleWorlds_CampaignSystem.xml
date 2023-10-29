@@ -1470,7 +1470,7 @@
     <string id="dcVuMs9r" text="{VALUE}% chance of your lance staying couched after a kill."/>
     <string id="DdeIg5hz" text="As you move through the streets, you hear whispers of an upcoming war between your faction and {SETTLEMENT_FACTION}. Upon hearing this, you slink away without attracting any suspicion."/>
     <string id="ddEu5IFQ" text="I hope so."/>
-    <string id="dDmcqTzb" text="Yours wasn't the kind of reputation that local legends are made of, but it was the kind that wins you respect among those around you. You were consistently fair and honest in your business dealings and helpful to those in trouble. In doing so, you got a sense of what made people tick."/>
+    <string id="dDmcqTzb" text="Ваша репутація не була такою, про яку складають місцеві легенди, але вона була такою, що принесла вам повагу серед оточуючих. Ви були незмінно справедливим і чесним в угодах, які ви укладали та допомагали тим, хто потрапляв у біду. При цьому ви добре розуміли людей та їх мотиви."/>
     <string id="DdtrRYEM" text="Well yes. I was looking for a suitable match."/>
     <string id="DDur6mHb" text="Your actions have started a war with {ISSUE_GIVER.LINK}'s faction. Your agreement with {ISSUE_GIVER.LINK} is failed."/>
     <string id="ddymPMWg" text="{VILLAGER_GREETING}"/>
@@ -1511,7 +1511,7 @@
     <string id="disband_party_campaign_behaviorbdisbanding_leaderless_party_answer" text="Well... Go on, then."/>
     <string id="diUtbbaH" text="{TARGET_SETTLEMENT} is taken by {NEW_OWNER_FACTION}. Your agreement with {QUEST_GIVER.LINK} is no longer valid."/>
     <string id="DJcMau0U" text="Not yet. We are still looking for them."/>
-    <string id="DjeAJtix" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, on one of your trips into town you got into the kind of trouble from which only a quick tongue or quick feet get you out alive."/>
+    <string id="DjeAJtix" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, в одну з чергових ваших поїздок до міста ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
     <string id="dJVjbgyu" text="Any news about our tools {?PLAYER.GENDER}madame{?}sir{\?}?"/>
     <string id="dKEADOhG" text="You have protected the caravan belonging to {QUEST_GIVER.LINK} from {SETTLEMENT} as promised. {?QUEST_GIVER.GENDER}She{?}He{\?} was happy with your work."/>
     <string id="DKiLA9f2" text="Don't worry, I'll find them."/>
@@ -2688,7 +2688,7 @@
     <string id="lCYPxuWN" text="The enemy is alert, you cannot ambush right now."/>
     <string id="lczqNSz5" text="{VALUE}% party speed bonus from mounted foot troops."/>
     <string id="lD1sl2XC" text="Camnon"/>
-    <string id="lD5Ob3R4" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, you got into the kind of trouble from which only a quick tongue or quick feet get you out alive."/>
+    <string id="lD5Ob3R4" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
     <string id="ldD4sVOi" text="{VALUE}% damage reduction to troops in your formation."/>
     <string id="LDhU5urT" text="So that's how it is, is it? Right then - I'll make one of you bleed before I go down.[if:idle_angry][ib:aggressive]"/>
     <string id="lDJUL4lZ" text="I think we maybe see the world a bit differently."/>
