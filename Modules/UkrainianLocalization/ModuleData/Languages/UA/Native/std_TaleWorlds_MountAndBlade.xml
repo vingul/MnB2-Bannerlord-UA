@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="0B27RrYJ" text="Battania"/>
+    <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
     <string id="1cnJtNTt" text="{KEY} Pull"/>
     <string id="1CPdu9K0" text="Stone"/>
     <string id="1nKa4pQX" text="Rest of the game content has been downloaded."/>
@@ -18,7 +18,7 @@
     <string id="8OkPHu4f" text="Ні"/>
     <string id="abbALYlp" text="Ballista"/>
     <string id="aeouhelq" text="Так"/>
-    <string id="aseraifaction" text="Aserai"/>
+    <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
     <string id="aXjlMBiE" text="Siege Tower"/>
     <string id="BFhMw4bl" text="Rest of the game content has been downloaded. Do you want to return to the main menu?"/>
     <string id="bNYm3K6b" text="{KEY} Pick Up"/>
@@ -30,11 +30,11 @@
     <string id="DzAkCzwd" text="High Tier"/>
     <string id="Ea3K1PVR" text="Thrown Weapons"/>
     <string id="EgTUzWUz" text="Name Can't Be Empty!"/>
-    <string id="empirefaction" text="Empire"/>
+    <string id="empirefaction" text="{.f}Імперія{.R_n10_p1}"/>
     <string id="f83FU4X6" text="Polearms"/>
     <string id="F9AQxCax" text="Fork"/>
     <string id="fEQAPJ2e" text="{KEY} Use"/>
-    <string id="FjwRsf1C" text="Vlandia"/>
+    <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
     <string id="FNLfNWH3" text="Cavalry and Horse Archer"/>
     <string id="G0AWk1rX" text="Ladder"/>
     <string id="gAfbULHM" text="Камера"/>
@@ -62,7 +62,7 @@
     <string id="oZrVNUOk" text="Error"/>
     <string id="PfnS8HUd" text="Premade game type is invalid!"/>
     <string id="pgw7LMRo" text="Server over capacity."/>
-    <string id="PjO7oY16" text="Sturgia"/>
+    <string id="PjO7oY16" text="{.f}Стургія{.R_n10}"/>
     <string id="PSN8IaIg" text="Shields"/>
     <string id="pzfbPbWW" text="Boulder"/>
     <string id="Q1Ga032B" text="Don't give preference to any type of troop."/>
@@ -70,7 +70,7 @@
     <string id="RN6zHak0" text="Player"/>
     <string id="rwZAZSvX" text="{KEY} Move"/>
     <string id="sRTd3RI5" text="Графіка"/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="TJj71hPO" text="{KEY} Close"/>
     <string id="uNrXwGzr" text="Only practice matches are allowed with your current party. All members should be in the same clan for a clan match."/>
     <string id="ush8OHIw" text="Give preference to troops with Heavy Armors"/>
