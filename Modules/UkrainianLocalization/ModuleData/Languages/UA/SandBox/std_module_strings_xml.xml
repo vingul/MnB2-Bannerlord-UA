@@ -27,7 +27,7 @@
     <string id="8eYtra7T" text="Встановіть складність гри"/>
     <string id="8UBfIenN" text="Normal"/>
     <string id="9a6ZBSGw" text="Biggest Army Formed by the Player"/>
-    <string id="9jSxo790" text="Realistic"/>
+    <string id="9jSxo790" text="Реалістично"/>
     <string id="9l5RgXiU" text="Choose if circle map notifications will be shown on the right side on campaign map."/>
     <string id="9WimyleE" text="Battles"/>
     <string id="aaEgGfCX" text="No Companions with Kills"/>
@@ -37,8 +37,8 @@
     <string id="b1h7b7oj" text="{BATTLES_WON}/{BATTLES_LOST}/{ALL_BATTLES}"/>
     <string id="B8qJSb66" text="Troop Prisoners Taken"/>
     <string id="bfiDLULr" text="Reduced by 50%"/>
-    <string id="bHx8jaeI" text="Warrior"/>
-    <string id="bLwIgxXa" text="Recruitment Difficulty"/>
+    <string id="bHx8jaeI" text="Воїн"/>
+    <string id="bLwIgxXa" text="Складність найму"/>
     <string id="BNynfsuy" text="Enemy Clans Destroyed"/>
     <string id="BskZLZRb" text="Choose if the heroes are able to age and reproduce."/>
     <string id="btC3Y3hb" text="This option cannot be changed later."/>
@@ -62,7 +62,7 @@
     <string id="fbaQp3ox" text="Enable auto allocation of perks for members in your clan."/>
     <string id="fDQuQ8Ph" text="Prisoners Recruited"/>
     <string id="FiRWs5vF" text="В режимі «Залізна воля» у вас є тільки один файл збереження, який автоматично перезаписується при виході з гри."/>
-    <string id="freebooterdifficulty" text="Freebooter"/>
+    <string id="freebooterdifficulty" text="Рекрут"/>
     <string id="GbSZ3ZXh" text="Denars earned from Caravans"/>
     <string id="GCqWwDWg" text="Baladir"/>
     <string id="ggMFUCVT" text="Heroes Killed In Battles"/>
@@ -79,17 +79,17 @@
     <string id="irBV6UE4" text="{MINUTE} {?IS_PLURAL}minutes{?}minute{\?}"/>
     <string id="ispBRM5j" text="The amount of extra chance for you to succeed in persuasion."/>
     <string id="IWD56KMc" text="Map Movement Speed"/>
-    <string id="IzGEz5B0" text="Reduced to 50% (Very Easy)"/>
+    <string id="IzGEz5B0" text="Зменшена до 50% (Дуже легко)"/>
     <string id="JbFRrjqM" text="When you are in a town or village scene, holding down {MISSION_INDICATORS_KEY} shows markers on important people and interest points."/>
     <string id="jKn9B0bh" text="You have conquered Calradia!"/>
     <string id="JMhKt2W1" text="Challenging"/>
-    <string id="JR6UgiT1" text="Reduced to 50% (Easy)"/>
+    <string id="JR6UgiT1" text="Зменшена до 50% (Легко)"/>
     <string id="jvOYgHOe" text="Custom"/>
     <string id="k0nSlwe9" text="Auto Save Interval"/>
     <string id="k4CF68S6" text="We abstain"/>
     <string id="k71J6bVH" text="Victories"/>
     <string id="KbPD5cEw" text="Reduced to 1/3 (Very Easy)"/>
-    <string id="KM7uAbL8" text="Player Received Damage"/>
+    <string id="KM7uAbL8" text="Шкода гравцю"/>
     <string id="Kqkf6HBN" text="No Companions with Issues Solved"/>
     <string id="lfDzgLTa" text="{PROFESSION} in {LOCATION}"/>
     <string id="LfpteADn" text="Determine the difficulty of the combat AI."/>
@@ -97,7 +97,7 @@
     <string id="M7HGkj18" text="Children Born"/>
     <string id="m7RFdwFt" text="Total Denars Earned"/>
     <string id="mD89ih8N" text="Change Clan Name"/>
-    <string id="MMv0U5Yr" text="Bannerlord"/>
+    <string id="MMv0U5Yr" text="Ветеран"/>
     <string id="MV0AR9XC" text="The amount of extra troops that you can recruit from notables."/>
     <string id="N4T1pPur" text="The amount of bonus movement speed for your party on the campaign map."/>
     <string id="N6fz1efb" text="Skips tutorial at the beginning of the game."/>
@@ -105,11 +105,11 @@
     <string id="nJefkQ3Z" text="Finances"/>
     <string id="NQfjuHcs" text="Influence Earned"/>
     <string id="o81neN4A" text="Enable Birth and Death"/>
-    <string id="ob84Szvh" text="Reduced to 25% (Very Easy)"/>
-    <string id="Oea9a5nY" text="Friendly Troops Received Damage"/>
-    <string id="oJBveifV" text="Select a difficulty preset to change all of the difficulty options."/>
+    <string id="ob84Szvh" text="Зменшена до 25% (Дуже легко)"/>
+    <string id="Oea9a5nY" text="Шкода дружнім військам"/>
+    <string id="oJBveifV" text="Виберіть пресет складності для зміни всіх інших налаштувань складності."/>
     <string id="OKjjmsPq" text="This option depends on &quot;{OPTION}&quot; to be enabled."/>
-    <string id="oo6qQsL9" text="Reduced to 75% (Easy)"/>
+    <string id="oo6qQsL9" text="Зменшена до 75% (Легко)"/>
     <string id="OPPcXXSJ" text="Enable Battle Death For All Heroes"/>
     <string id="opUBnFym" text="Terte"/>
     <string id="oUz16Nav" text="Reset Tutorial"/>
@@ -136,7 +136,7 @@
     <string id="TyNDRFPg" text="The possibility for your clan members to die after being knocked down in battle."/>
     <string id="TZ9ugd1p" text="Auto Allocate Clan Member Perks"/>
     <string id="uBajEuVL" text="In game windows, you can open the encyclopedia entry for an item by pressing {ENCYCLOPEDIA_SHORTCUT}. This works for troop portraits, town icons, and most other elements."/>
-    <string id="UcgNVM0P" text="Very Easy (2 extra)"/>
+    <string id="UcgNVM0P" text="Дуже легко (+2)"/>
     <string id="UfQotsfo" text="Rank #"/>
     <string id="uG2Alcat" text="Game Difficulty"/>
     <string id="veterandifficulty" text="Veteran"/>
