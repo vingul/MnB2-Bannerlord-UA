@@ -14,7 +14,7 @@
     <string id="0wQlpbtL" text="In order for the Empire to go into its final decline, there should be fewer than {NUMBER} imperial-owned settlements. If this happens, another kingdom can become the dominant power in Calradia."/>
     <string id="0yxEvgGf" text="It was a disaster for him - he died in it - but the victors didn't fare much better."/>
     <string id="1CLNFbzR" text="Good. Then I will tell you what I know. I heard about one other piece."/>
-    <string id="1EkEElZd" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю."/>
+    <string id="1EkEElZd" text="Міська варта проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю."/>
     <string id="1GgTNRNl" text="You can make your own claim to the rulership of the Empire and try to win the civil war, or support an existing claimant..."/>
     <string id="1IEroJKs" text="Не всі, хто записується в армію, йдуть на війну та ще менше тих, хто бере участь в справжніх битвах. Ви зробили і те, і інше. І вам навіть вдалося вбити ворожого воїна в прямому бою сам на сам, на очах у своїх побратимів."/>
     <string id="1LrHV647" text="Conspiracy Strength"/>
@@ -73,7 +73,7 @@
     <string id="5QSGoRFj" text="Your family tilled one of the small patches of arable land in the steppes for generations. When the Khuzaits came, they ceased paying taxes to the emperor and providing conscripts for his army, and served the khan instead."/>
     <string id="5soUEFEJ" text="{TACTEOS.NAME} said it could be worth a fortune to the right person, if you manage not to get killed. If he's telling the truth, you must be careful. Never reveal that you have it. Try to understand its value, and how it can be sold."/>
     <string id="5UHbg6D0" text="So. What brings you to me?"/>
-    <string id="63TAYbkx" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
+    <string id="63TAYbkx" text="Міська варта проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
     <string id="64rWqBLN" text="Ви уникнули служби в одному з головних армійських підрозділів вашого королівства, замість цього, ви приєднались до його обозу, в якому перевозили дружин, коханок і слуг, а також тих, хто заробляє собі на життя турботою, розвагою або обманом солдатів."/>
     <string id="651FhzdR" text="Міські торговці"/>
     <string id="6aDiS9eP" text="I am {CONVERSATION_HERO.FIRSTNAME}. You probably already know that, though. Once I wielded great power, but now... Anyway, I am most curious what you might want with me."/>
@@ -129,7 +129,7 @@
     <string id="aClquusd" text="Troop Count"/>
     <string id="ACyYhA2s" text="Locate and Rescue Traveller"/>
     <string id="AeBzTj6w" text="Healers"/>
-    <string id="aEke8dSb" text="Urban vagabonds"/>
+    <string id="aEke8dSb" text="Міські волоцюги"/>
     <string id="afH90aNs" text="Рекрути, озброєні списом і щитом, набрані у дрібних фермерів, завжди складали основу більшості армій Кальрадії."/>
     <string id="AGIPUYvy" text="We had our shields but you can only point them in one direction at once. So we started to drop, one by one, until the Battanian falxmen came screaming out of the trees. Ordinarily they'd be very vulnerable to archers, but, well, old Neretzes hadn't thought to send any along with us. So they came upon us, chopping and slashing, and we fought until we broke."/>
     <string id="agrsO3qQ" text="Due to your successful skirmishes against {RAIDER_NAME}, a conspiracy war party is now patrolling around {SETTLEMENT}."/>
@@ -341,10 +341,10 @@
     <string id="HL9lzfjY" text="Of course I can. You know my name, whose son I am."/>
     <string id="hnFkhPhp" text="This option is disabled during tutorial stage."/>
     <string id="HOb07MJF" text="I don't know much about it. I know two who might, though. {IMPERIAL_MENTOR.LINK} - she once served as Neretez's unofficial spymaster. Then there's {ANTI_IMPERIAL_MENTOR.LINK}. He served on Neretzes' bodyguard, but people say now he's very different than he was back then."/>
-    <string id="hob3WVkU" text="Your father was a member of a boyar's druzhina, the 'companions' that make up his retinue. He sat at his lord's table in the great hall, oversaw the boyar's estates, and stood by his side in the center of the shield wall in battle."/>
+    <string id="hob3WVkU" text="Ваш батько був членом боярської дружини, &quot;соратників&quot;, які складали його свиту. Він сидів за столом, поряд з паном у великій залі, наглядав за боярськими маєтками, а в бою стояв поруч з ним у центрі стіни із щитів."/>
     <string id="HPNuqbSf" text="Rescue Your Family"/>
     <string id="HqlXdzcv" text="Talk with Headman {HEADMAN.FIRSTNAME}"/>
-    <string id="HqzVBfpl" text="Urban traders"/>
+    <string id="HqzVBfpl" text="Міські торговці"/>
     <string id="HrdVRMgR" text="Perhaps by saving my brother and sister you earned your life back. Very well, go now."/>
     <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying."/>
     <string id="HT9hW29s" text="Splendid! But I have a few things to do. There is a hideout near this city. {HIDEOUT_BOSS.LINK} keeps your siblings there. I will join you right where the path leads up, just out of sight of their scouts.[if:idle_normal][ib:normal]"/>
@@ -440,7 +440,7 @@
     <string id="Lwdkj0hG" text="Yes, I intend to use the banner to help save the Empire."/>
     <string id="LXGXxKqw" text="Ah... Well, I suppose we can drop the charade. I know who sent you, and I suppose you know who sent me. Certainly, you can see my wares, and then you can feel their sharp end in your belly."/>
     <string id="MafIe9yI" text="Юна зрілість"/>
-    <string id="mc78FEbA" text="A boyar's companions"/>
+    <string id="mc78FEbA" text="Соратники боярина"/>
     <string id="Mcd3ZyKq" text="Your family had just enough land to feed themselves and make a small profit. People like them were the pillars of the kingdom's economy, as well as the backbone of the levy."/>
     <string id="MDtTC5j5" text="Don't hurt us![ib:weary][if:convo_confused_annoyed]"/>
     <string id="MEgLE2kj" text="майстерністю поводження з кіньми."/>
@@ -611,7 +611,7 @@
     <string id="TLaxmQDF" text="You'll without a doubt perish by my sword, but today is not the day."/>
     <string id="TLRyyRaW" text="Purchased {GRAIN} Amount"/>
     <string id="TNxWBS07" text="Fight will start in {REMAINING_TIME} {?REMAINING_TIME&gt;1}seconds{?}second{\?}..."/>
-    <string id="TPoK3GSj" text="Vagabonds"/>
+    <string id="TPoK3GSj" text="Волоцюги"/>
     <string id="tRIrbTvv" text="Urban back-alley thugs"/>
     <string id="TRwgSLD2" text="займалися збором лікарських трав."/>
     <string id="tRzjuX0E" text="How can I support an existing imperial claimant?"/>
@@ -643,7 +643,7 @@
     <string id="US0VAHiE" text="You have eliminated a {RAIDER_NAME} party."/>
     <string id="uvbCyLiR" text="Is that true? Well, that is interesting."/>
     <string id="UVuwofhS" text="Clans rise, clans fall. My duty is to all the Khuzaits. Look at it this way. Were it not for her husband's death, Lady Mesui would never have inherited the leadership of the Khergits. Death creates opportunity. The survivors of a great battle make a great show of mourning, but inside they rejoice."/>
-    <string id="v48N6h1t" text="Urban artisans"/>
+    <string id="v48N6h1t" text="Міські ремісники"/>
     <string id="V5K8RpAa" text="{MENTOR.LINK}'s message: “Greetings, {PLAYER.NAME}. We have a new problem. I've had reports from my agents of unusual bandit activity near {TARGET_SETTLEMENT}. They appear to be raiding and killing travellers {?IS_EMPIRE}under the protection of the Empire{?}who aren't under the protection of the Empire{\?}, and leaving the others alone. This seems very much like the work of {NEMESIS_MENTOR.LINK}, to terrorize local merchants so that no one will stand up for our cause. I advise you to wipe these bandits out as quickly as possible. That would send a good message, both to our allies and our enemies.”"/>
     <string id="vaLehwRl" text="We had given an oath to the Empire, to join them if attacked. It seemed clear to me that we should have honored our oath, that the Battanians and Sturgians were aggressors, but, there is always room to argue details. Ultimately our barons did not wish to fight with the Empire, so they resisted coming to its help."/>
     <string id="VbJvL8yB" text="Oh you can't trust me. But you need me, and I figure you have enough men that you could easily slit my throat pretty quickly if I lead you into a trap. And I don't need to trust you - you're my vehicle of revenge, not my partner."/>
@@ -754,7 +754,7 @@
     <string id="ZpcV9MZE" text="You saved your brothers and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents."/>
     <string id="Zq9qXcCk" text="You are defeated by the {RADAGOS.NAME}' Party, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready. You must have at least {NUMBER} members in your party. If you don't, go back to {QUEST_VILLAGE} and recruit some more troops."/>
     <string id="ZqOvtLBM" text="У метушні під час нападу ви вигукнули, що хтось знайшов коштовності у підсобці, після чого ви з братом змогли пробратись до виходу, за яким ніхто не дивився."/>
-    <string id="zrpqSWSh" text="Free farmers"/>
+    <string id="zrpqSWSh" text="Вільні фермери"/>
     <string id="zRZd90cZ" text="I was there. I was just a young squire then."/>
     <string id="zsC2t5Hb" text="trained with the hearth guard."/>
     <string id="zTYd6Qai" text="The Empire has been united under the {FACTION}!"/>
