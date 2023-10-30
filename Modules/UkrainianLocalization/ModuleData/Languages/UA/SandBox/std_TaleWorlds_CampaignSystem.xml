@@ -1673,7 +1673,7 @@
     <string id="EmBla2xa" text="You don't have enough {ITEM}"/>
     <string id="EmJDw5xP" text="Give the landlord a small bribe for his men, and continue to collect revenues with their help."/>
     <string id="emLBsWj6" text="I am terribly sorry. It is practically not possible for us to be married."/>
-    <string id="empirefaction" text="Empire"/>
+    <string id="empirefaction" text="{.f}Імперія{.R_n10_p1}"/>
     <string id="emQQbbO9" text="Alley under attack!"/>
     <string id="EmXai6dm" text="debasing the currency"/>
     <string id="EnaT6Ma3" text="{FIRSTNAME} the Cat"/>
