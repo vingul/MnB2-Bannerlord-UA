@@ -4,19 +4,19 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="0B27RrYJ" text="Battania"/>
+    <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
     <string id="5djtBrHj" text="Sultan"/>
     <string id="8HMyTKF6" text="Vlandians"/>
     <string id="aEfsyVH4" text="Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant."/>
     <string id="afvM7XpQ" text="High King"/>
-    <string id="aseraifaction" text="Aserai"/>
-    <string id="aseraimembers" text="Aserai"/>
+    <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
+    <string id="aseraimembers" text="{.p}Асерай{.R_n20_p}"/>
     <string id="bF7HmNGQ" text="Khuzait Khanate"/>
     <string id="bgjiFSHZ" text="Battanians"/>
     <string id="bVihnRUu" text="The confederation of small kingdoms that is now the Principality of Sturgia came into being only a century ago. As boomtowns sprung up alongside the bays and lakes of the north, the local tribal leaders forged marriage pacts with Nords and other adventurers, hiring their swords to subdue their neighbors. Under pressure from the empire, they elected a prince to lead them in war, and eventually the princes became a hereditary office. But the idea of monarchy has never sat easily with the independence-minded boyars, and the potential for rebellion always lurks under the surface of Sturgian politics."/>
     <string id="C4qjBqLO" text="Sturgians"/>
     <string id="fGNdo1BK" text="For centuries, the tribes in the vast steppe east of the Empire were content to live as nomads, venturing into the imperial lands to raid and trade, and then returning to their ancestral freedom. Two generations ago, however, something happened far away to the east - a change in the winds, perhaps, or some terrible but distant conqueror - and the horse clans were set in motion. Urkhun the Khuzait led the nomads nearest the Empire into its far eastern provinces, conquering the towns and forming a khanate. He imposed discipline on the unruly clans, forcing them to ride to war on his command instead of simply when they wished. But after his death, the spirit of unity that he inspired was lost. His descendants still rule the khanate. But some of the other Khuzait leaders chafe under the authority of the current khan, Monchug, and others dream of becoming khan themselves."/>
-    <string id="FjwRsf1C" text="Vlandia"/>
+    <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
     <string id="FmbgPGBL" text="Grand Prince"/>
     <string id="frBQ9mbP" text="Southern Empire"/>
     <string id="GbnlN6na" text="southern Empire"/>
@@ -28,10 +28,10 @@
     <string id="NF627oiX" text="Northern Empire"/>
     <string id="nsDj8Qxl" text="northern Empire"/>
     <string id="OoHhCa11" text="Senator"/>
-    <string id="PjO7oY16" text="Sturgia"/>
+    <string id="PjO7oY16" text="{.f}Стургія{.R_n10}"/>
     <string id="qaDIU0XC" text="High Kingdom of the Battanians"/>
     <string id="qggtvf8Y" text="The Empire always preferred not to send its legions into the army-devouring wastes of the Nahasa. Instead, it projected its power into this borderland by cultivating client rulers among the clans, who competed in an endless dance of power. Those clans that could secure a hold on the oases won an imperial subsidy to protect passing caravans and grew rich. Those who could not were pushed into the desert, left to raise goats and raid caravans until they could plot a comeback. Today, with the waning of the empire, the Aserai have agreed to form a confederacy under a sultan chosen from richest of the clans, the Banu Hulyan. But everyone knows that the dance has only temporarily been stopped, and at the right moment it will begin again."/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="UsbwPmYb" text="Sultanate of the Aserai"/>
     <string id="vJOWy1QF" text="Khuzaits"/>
     <string id="Xtyb9Dyr" text="The lands that are now the southern Empire were once ruled by proud independent city-states controlling trading routes over the Perassic Sea and the steppe. They invited the Empire into their internal feuds and one by one they were absorbed, some by treaty, some by conquest. Calradian aristocrats intermarried with merchant princes and nomad chiefs, many of whom claimed descent from the kings, champions and demigods of eastern legends. In recent generations, as these towns grew to become some of the richest and most populous in the continent, many Senatorial families elsewhere became suspicious that the southerners would someday try to make one of their own into a hereditary monarch. The southern nobility's support for Rhagaea, an unapolegetic advocate of the dynastic principle, would seem to confirm these fears."/>
