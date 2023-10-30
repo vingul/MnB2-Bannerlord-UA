@@ -4,13 +4,13 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="0B27RrYJ" text="Battania"/>
+    <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
     <string id="1sbJQR4H" text="Looters"/>
     <string id="3PzgpFGq" text="Neutral"/>
-    <string id="aseraifaction" text="Aserai"/>
-    <string id="empirefaction" text="Empire"/>
-    <string id="FjwRsf1C" text="Vlandia"/>
-    <string id="PjO7oY16" text="Sturgia"/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
+    <string id="empirefaction" text="{.f}Імперія{.R_n10_p1}"/>
+    <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
+    <string id="PjO7oY16" text="{.f}Стургія{.R_n10}"/>
+    <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
   </strings>
 </base>
