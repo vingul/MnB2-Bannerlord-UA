@@ -223,7 +223,7 @@
     <string id="8NDuezga" text="Now, I was talking to my {RANDOM_RELATIVE}, and he tells me he bought some {._}{PLURAL(ITEM_NAME)} around here for cheap and took it to {TOWN_NAME}. Said he made {PRICE_DIFF}{GOLD_ICON} of profit on each one."/>
     <string id="8OkPHu4f" text="No"/>
     <string id="8SK2BZum" text="You have cleared an alley which belonged to a gang leader. Now, you can either take it over for your own benefit or leave it empty to help the town. To own an alley, you will need to assign a suitable clan member and some troops to watch over it. This will provide denars to your clan, but also increase your crime rating."/>
-    <string id="8UBfIenN" text="Normal"/>
+    <string id="8UBfIenN" text="Нормально"/>
     <string id="8UyOJNhU" text="My thanks. It feels good to be {?PLAYER.GENDER}free{?}a free man{\?} once again."/>
     <string id="8VlqJteC" text="I was just jesting. I need you more than ever. Now go back to your job."/>
     <string id="8wdzSgfZ" text="If you have work for me, we could discuss it."/>
