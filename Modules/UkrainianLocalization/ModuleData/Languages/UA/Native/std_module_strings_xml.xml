@@ -396,7 +396,7 @@
     <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Days{?}Day{\?}"/>
     <string id="b1Ra7gHa" text="Ranged Weapons II"/>
     <string id="b1vtY2yU" text="Expected"/>
-    <string id="b4lDDcli" text="{.f}Родина{.R_n10_ko_p1}"/>
+    <string id="b4lDDcli" text="{.f}Родина{.R_n10}"/>
     <string id="b5DWVsOZ" text="{HERO.NAME} has died in battle."/>
     <string id="B5J6DbpG" text="Remaining Days With Food: {REMAINING_DAYS}{newline}{newline}Total Food: {TOTAL_FOOD_AMOUNT}{newline}Daily Consumption: {DAILY_FOOD_CONSUMPTION}"/>
     <string id="b5t34yLX" text="Horse Harness"/>
