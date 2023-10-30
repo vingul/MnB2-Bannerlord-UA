@@ -111,7 +111,7 @@
     <string id="1dS5OjLQ" text="{VALUE}% learning rate of new part designs when smelting."/>
     <string id="1dUVrgQ8" text="I just hope you can deliver the herd soon."/>
     <string id="1Ehm6o1d" text="shooting at targets."/>
-    <string id="1EkEElZd" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю."/>
+    <string id="1EkEElZd" text="Міська варта проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю."/>
     <string id="1eKRHLur" text="Discarded armors are donated to troops for increased experience."/>
     <string id="1FcxAGWU" text="Ah, yes. I am afraid I can no longer entertain such a proposal. I am now the head of my family, and the factors that we must consider have changed. You would need to place your property under my control, and I do not think that you would accept that."/>
     <string id="1FOmvEdf" text="All profitable trade routes of the caravan are blocked by recent wars. {QUEST_GIVER.LINK} decided to recall the caravan until the situation gets better. {?QUEST_GIVER.GENDER}She{?}He{\?} was happy with your service and sent you {REWARD}{GOLD_ICON} as promised."/>
@@ -488,7 +488,7 @@
     <string id="5zUIQtTa" text="I want you to surrender or die, brigand!"/>
     <string id="61J1wa6k" text="Schedule drills for commoners, increasing militia recruitment."/>
     <string id="63lHFDSG" text="Gourmet"/>
-    <string id="63TAYbkx" text="Міська стража проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
+    <string id="63TAYbkx" text="Міська варта проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
     <string id="64bH4bUo" text="No, thank you. But perhaps one of the other lords of our clan would be interested."/>
     <string id="64RFlBFr" text="Very well. Don't worry, all your expenses will be covered. "/>
     <string id="64rWqBLN" text="Ви уникнули служби в одному з головних армійських підрозділів вашого королівства, замість цього, ви приєднались до його обозу, в якому перевозили дружин, коханок і слуг, а також тих, хто заробляє собі на життя турботою, розвагою або обманом солдатів."/>
@@ -863,7 +863,7 @@
     <string id="aeceOwWb" text="{VALUE}% shared experience for cavalry troops."/>
     <string id="aeK3ykbL" text="{VALUE}% track detection chance."/>
     <string id="aeKdXKnO" text="{ISSUE_GIVER.LINK}, an artisan from {SETTLEMENT}, has told you that a local merchant {COUNTER_OFFER.LINK} is asking ridiculous amounts of money for raw materials which {?ISSUE_GIVER.GENDER}she{?}he{\?} needs to continue {?ISSUE_GIVER.GENDER}her{?}his{\?} work. {?ISSUE_GIVER.GENDER}She{?}He{\?} is willing to pay {REWARD_AMOUNT}{GOLD_ICON} for help obtaining the needed goods.{newline}You asked {COMPANION.LINK} to stay with {?ISSUE_GIVER.GENDER}her{?}him{\?} and try to solve {?ISSUE_GIVER.GENDER}her{?}his{\?} problems. You expect {COMPANION.LINK} to report back to you in {RETURN_DAYS} days."/>
-    <string id="aEke8dSb" text="Urban vagabonds"/>
+    <string id="aEke8dSb" text="Міські волоцюги"/>
     <string id="aeLgc0cU" text="Acthon"/>
     <string id="aEmYZadz" text="Festival and Games"/>
     <string id="aeNhsyD7" text="{VALUE} hit points to infantry in your party."/>
@@ -2127,7 +2127,7 @@
     <string id="hmrUcvwz" text="{VALUE}% stamina spent while refining."/>
     <string id="HMt8Xo5p" text="{PARTY} is raiding {SETTLEMENT}. You decide to..."/>
     <string id="ho5EndaV" text="Decision"/>
-    <string id="hob3WVkU" text="Your father was a member of a boyar's druzhina, the 'companions' that make up his retinue. He sat at his lord's table in the great hall, oversaw the boyar's estates, and stood by his side in the center of the shield wall in battle."/>
+    <string id="hob3WVkU" text="Ваш батько був членом боярської дружини, &quot;соратників&quot;, які складали його свиту. Він сидів за столом, поряд з паном у великій залі, наглядав за боярськими маєтками, а в бою стояв поруч з ним у центрі стіни із щитів."/>
     <string id="hOVr77fd" text="You will never see the sunrise again!"/>
     <string id="hp4jLl3M" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been released after battle."/>
     <string id="HpWYfcgw" text="..and to uphold your rights under the laws of the Sturgians, and the rights of your kin, and to avenge their blood as thought it were my own."/>
@@ -2135,7 +2135,7 @@
     <string id="HQ6hyVNH" text="All right. Here is {TOTAL_PRICE}{GOLD_ICON}."/>
     <string id="HQGUoRTW" text="The ruler is considered semi-divine and certain rituals are to be performed in his or her presence, increasing his or her air of authority."/>
     <string id="HqJSNG3M" text="Our realm is currently doing well, but we stand to lose this wealth if we go on fighting."/>
-    <string id="HqzVBfpl" text="Urban traders"/>
+    <string id="HqzVBfpl" text="Міські торговці"/>
     <string id="hr0TfX6o" text="{VALUE}% damage with one handed weapons  for every skill point above 250."/>
     <string id="hR6Zo6pD" text="Oligarchic"/>
     <string id="hRCvgbQ5" text="{VALUE}% two handed weapon damage by troops under your formation."/>
@@ -2829,7 +2829,7 @@
     <string id="maXW8tps" text="You failed to capture and deliver the prisoner in time."/>
     <string id="mb25Ue3f" text="Grazing Rights"/>
     <string id="mbqoZ4WH" text="Virile"/>
-    <string id="mc78FEbA" text="A boyar's companions"/>
+    <string id="mc78FEbA" text="Соратники боярина"/>
     <string id="Mcd3ZyKq" text="Your family had just enough land to feed themselves and make a small profit. People like them were the pillars of the kingdom's economy, as well as the backbone of the levy."/>
     <string id="McHsHbH8" text="Зайти в кузню"/>
     <string id="mcrjFxDQ" text="Collect revenue"/>
@@ -3946,7 +3946,7 @@
     <string id="toQLHG6x" text="Valor"/>
     <string id="tp3p7R8E" text="Form Fitting Armor"/>
     <string id="Tp4X51vX" text="Maybe my men can handle this for you."/>
-    <string id="TPoK3GSj" text="Vagabonds"/>
+    <string id="TPoK3GSj" text="Волоцюги"/>
     <string id="TpzZgFsA" text="Young And Respectful"/>
     <string id="Tq0E9sSW" text="{VALUE}% swing speed to infantry in your formation."/>
     <string id="TQMGppEk" text="Thrown weapon damage: +{a0}%"/>
@@ -4179,7 +4179,7 @@
     <string id="V1QLbhRl" text="Sora"/>
     <string id="V2v4ZMDT" text="{VALUE}% wages to garrisoned cavalry in the governed settlement."/>
     <string id="v3xdiFfD" text="Make Peace With {KINGDOM_NAME}"/>
-    <string id="v48N6h1t" text="Urban artisans"/>
+    <string id="v48N6h1t" text="Міські ремісники"/>
     <string id="V4zyUiai" text="{VALUE} hit points to foot troops in your party."/>
     <string id="V53EYEXx" text="{VALUE}% combat movement speed."/>
     <string id="v5HPLGXs" text="You can not transfer less than {LOWER_LIMIT} troops"/>
@@ -4927,7 +4927,7 @@
     <string id="ZR4RJdYS" text="Hmm, that sounds interesting..."/>
     <string id="zr80RMa6" text="This will cost you {AMOUNT}{GOLD_ICON}. Paid in advance, of course."/>
     <string id="zrDWbEJR" text="{FIRSTNAME} of the Gate"/>
-    <string id="zrpqSWSh" text="Free farmers"/>
+    <string id="zrpqSWSh" text="Вільні фермери"/>
     <string id="zrYFYDfj" text="Surging Blow"/>
     <string id="zS68eOsl" text="{QUEST_GIVER.LINK} has lost {SETTLEMENT} and your agreement with {?QUEST_GIVER.GENDER}her{?}his{\?} canceled."/>
     <string id="Zs6L1aBL" text="I'm sorry. I don't need mercenaries right now."/>
