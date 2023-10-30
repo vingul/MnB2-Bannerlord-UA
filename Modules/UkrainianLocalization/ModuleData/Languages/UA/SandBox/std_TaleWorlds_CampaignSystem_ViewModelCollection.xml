@@ -250,7 +250,7 @@
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})"/>
     <string id="JYOcl7Ox" text="Ineffective!"/>
     <string id="k1E9DuKi" text="Select All"/>
-    <string id="K6GYskvJ" text="Народність:"/>
+    <string id="K6GYskvJ" text="Фракція:"/>
     <string id="K87pubLc" text="The option &quot;{DEPENDENT_OPTION}&quot; can be enabled by activating &quot;{MODULE_NAME}&quot; module."/>
     <string id="kftE5nvv" text="Horse Armor"/>
     <string id="kjaACKUq" text="This action will cost {GOLD}{GOLD_ICON}"/>
