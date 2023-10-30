@@ -10,7 +10,7 @@
     <string id="04zSjaRe" text="Nartiros"/>
     <string id="074bIPbm" text="Llum"/>
     <string id="0atYAnDF" text="Tulul"/>
-    <string id="0B27RrYJ" text="Battania"/>
+    <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
     <string id="0CQgia2a" text="Culharn"/>
     <string id="0DgWpr8b" text="Dengul"/>
     <string id="0dHy2430" text="Echalera"/>
@@ -192,7 +192,7 @@
     <string id="aqd6QHES" text="Janab"/>
     <string id="aqx7Txyy" text="Tuvul"/>
     <string id="aRiVb65B" text="Daju"/>
-    <string id="aseraifaction" text="Aserai"/>
+    <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
     <string id="aSNUtnbH" text="Temun"/>
     <string id="at4MdVBJ" text="Fathid"/>
     <string id="aTcSQ7MY" text="Oto"/>
@@ -330,7 +330,7 @@
     <string id="EKUSZBBj" text="Wusur"/>
     <string id="ELpRLYQt" text="Jalin"/>
     <string id="eMcQ35QA" text="Radul"/>
-    <string id="empirefaction" text="Empire"/>
+    <string id="empirefaction" text="{.f}Імперія{.R_n10_p1}"/>
     <string id="Emsd1xmS" text="Dhashwal"/>
     <string id="eNSZGTbN" text="Doronoving"/>
     <string id="eoF4TEr2" text="Daliset"/>
@@ -358,7 +358,7 @@
     <string id="fG19XSVm" text="Rugan"/>
     <string id="fGmpS0Dr" text="Gandarina"/>
     <string id="FIIZNV4F" text="Atzorig"/>
-    <string id="FjwRsf1C" text="Vlandia"/>
+    <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
     <string id="FkbO2Abd" text="Kras"/>
     <string id="fkP7RRFe" text="Gerta"/>
     <string id="FlexUfSP" text="Alivar"/>
@@ -633,7 +633,7 @@
     <string id="pfAkvdYc" text="Gorgi"/>
     <string id="PhdzZKu0" text="Ger"/>
     <string id="PisfwOUb" text="Jagutai"/>
-    <string id="PjO7oY16" text="Sturgia"/>
+    <string id="PjO7oY16" text="{.f}Стургія{.R_n10}"/>
     <string id="pK5nYd3m" text="fen Ailath"/>
     <string id="pKf56MdS" text="Bagai"/>
     <string id="PknomRIt" text="Madwan"/>
@@ -765,7 +765,7 @@
     <string id="sWRKG0e1" text="Iltas"/>
     <string id="swzCKty3" text="Carsten"/>
     <string id="sYFaoW7G" text="Nord"/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="t0TXa7Fp" text="Vuldrat"/>
     <string id="T1mpRVib" text="fen Morain"/>
     <string id="t1OpnZph" text="Jeremos"/>
