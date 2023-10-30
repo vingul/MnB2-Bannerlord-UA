@@ -38,7 +38,7 @@
     <string id="Qe0GG34b" text="Default"/>
     <string id="qGUjoKD5" text="Vintage"/>
     <string id="SBoBuW8I" text="Sturgian Cold"/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="UKzBB1dc" text="Heat Death"/>
     <string id="vnIZGwd8" text="Vlandia Harsh"/>
     <string id="vOpx5w0b" text="Overlays"/>
