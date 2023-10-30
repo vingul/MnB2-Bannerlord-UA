@@ -250,7 +250,7 @@
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})"/>
     <string id="JYOcl7Ox" text="Ineffective!"/>
     <string id="k1E9DuKi" text="Select All"/>
-    <string id="K6GYskvJ" text="Culture:"/>
+    <string id="K6GYskvJ" text="Народність:"/>
     <string id="K87pubLc" text="The option &quot;{DEPENDENT_OPTION}&quot; can be enabled by activating &quot;{MODULE_NAME}&quot; module."/>
     <string id="kftE5nvv" text="Horse Armor"/>
     <string id="kjaACKUq" text="This action will cost {GOLD}{GOLD_ICON}"/>
@@ -286,7 +286,7 @@
     <string id="mdvnjI72" text="Troops are not upgradable in this screen."/>
     <string id="Mfbc4rQR" text="Charge Damage"/>
     <string id="mg7id9om" text="Number of Consumable Items"/>
-    <string id="mHVmrwRQ" text="Enter your name"/>
+    <string id="mHVmrwRQ" text="Введіть своє ім'я"/>
     <string id="millionabbr" text="m"/>
     <string id="MIylzRc5" text="You can't perform this action while you are in a map event."/>
     <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})"/>
@@ -445,7 +445,7 @@
     <string id="TUST9cUX" text="Character name should be at least {MIN} characters"/>
     <string id="twtbH1zv" text="Stack Amount"/>
     <string id="Tx9Mynbt" text=" - Thrust Damage Type does not match. Should be: {TYPE}"/>
-    <string id="txjiykNa" text="Review"/>
+    <string id="txjiykNa" text="Огляд"/>
     <string id="tYz4D8Or" text="Prisoner"/>
     <string id="TzLtVzdg" text="Wounded Troops"/>
     <string id="U3ksQXD3" text="Give Away"/>
