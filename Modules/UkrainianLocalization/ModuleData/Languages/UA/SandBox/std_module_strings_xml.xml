@@ -15,7 +15,7 @@
     <string id="3kqjY7wD" text="Persuasion Success"/>
     <string id="3o6FDRsq" text="Captured Towns"/>
     <string id="4IZnbvlD" text="Baudein"/>
-    <string id="4v3Lb6BU" text="Difficulty Presets"/>
+    <string id="4v3Lb6BU" text="Пресети складності"/>
     <string id="57QbB8cu" text="Denars earned from Taxes"/>
     <string id="584IPqj2" text="Most Expensive Weapon Crafted (Name / Value)"/>
     <string id="5gLojbx4" text="Tournaments Won"/>
@@ -24,7 +24,7 @@
     <string id="7ZhNilg8" text="Easy (5% bonus)"/>
     <string id="7ZOp7cg5" text="Captured Castles"/>
     <string id="8byRf9zO" text="General"/>
-    <string id="8eYtra7T" text="Determine the game difficulty"/>
+    <string id="8eYtra7T" text="Встановіть складність гри"/>
     <string id="8UBfIenN" text="Normal"/>
     <string id="9a6ZBSGw" text="Biggest Army Formed by the Player"/>
     <string id="9jSxo790" text="Realistic"/>
@@ -118,7 +118,7 @@
     <string id="QEjoqEe0" text="Campaign play time (Campaign Time)"/>
     <string id="QZHSvGrD" text="Baldrim"/>
     <string id="QzmJL5I7" text="Easy (1 extra)"/>
-    <string id="raD9MK3O" text="Difficulty"/>
+    <string id="raD9MK3O" text="Складність"/>
     <string id="ReNnVfEn" text="Change Kingdom Name"/>
     <string id="rweyNfS3" text="Cleared Hideouts"/>
     <string id="Rx13jX4M" text="Companion With the Most Kills"/>
