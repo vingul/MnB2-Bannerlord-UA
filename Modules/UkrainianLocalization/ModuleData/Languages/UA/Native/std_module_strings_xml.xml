@@ -996,7 +996,7 @@
     <string id="k1E9DuKi" text="Select All"/>
     <string id="K2G3XJwZ" text="Hotheaded"/>
     <string id="k3LajvfJ" text="Banner Editor"/>
-    <string id="K6GYskvJ" text="Народність:"/>
+    <string id="K6GYskvJ" text="Фракція:"/>
     <string id="k6tT1vIg" text="The joust is over and your opponent has bested you this day..."/>
     <string id="k7ig2JvK" text="a baron"/>
     <string id="k8ocninL" text="Stop there - easy now. The great eternal sky has given these lands to us. No one passes through here without our permission."/>
@@ -1536,7 +1536,7 @@
     <string id="SydDh9jf" text="You received {COUNT} {ITEM} from {HERO.NAME}."/>
     <string id="SyklU5aP" text="Інформація"/>
     <string id="SYm7rgCX" text="{COMPANION.LINK} has left your party."/>
-    <string id="sZLd6VHi" text="Khuzait"/>
+    <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="szSjkkyl" text="We should choose our next object."/>
     <string id="T0aULilA" text="&lt;b&gt;Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than just ladders"/>
     <string id="t1hYTrMR" text="On {DAY_OF_YEAR}, {YEAR}, a realm fell. The {FORMAL_NAME} is no more."/>
