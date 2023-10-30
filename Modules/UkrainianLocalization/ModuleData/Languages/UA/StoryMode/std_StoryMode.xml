@@ -501,7 +501,7 @@
     <string id="pa9LrHln" text="We're here, I guess. So... We need food, and after that, maybe some men to come with us."/>
     <string id="pCNSEPEP" text="You escaped? Where's my brother? What happened?"/>
     <string id="PDlaPVIP" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}."/>
-    <string id="peNBA0WW" text="Історія походження"/>
+    <string id="peNBA0WW" text="Зав'язка"/>
     <string id="PiKISvfu" text="{PLAYER.NAME}! I knew you'd come. Great Heaven. Damn, {?PLAYER.GENDER}sister{?}brother{\?}, nothing can stop you! I love you, {?PLAYER.GENDER}sister{?}brother{\?}.[if:happy][ib:demure]"/>
     <string id="PiOiQ3u5" text="You've successfully finished the sword and shield tutorial."/>
     <string id="PJ5C3Dim" text="{ANTIIMPERIAL_MENTOR.NAME}'s Conspiracy"/>
