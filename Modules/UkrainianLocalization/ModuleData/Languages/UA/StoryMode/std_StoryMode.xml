@@ -95,7 +95,7 @@
     <string id="7jBroUUQ" text="У вашої родини було мало землі, тому вони заробляли на життя в лісі, полюючи та ставлячи пастки. З раннього дитинства вас вчили, що такі навички, як пошук слідів звірів та вбивство здобичі одним пострілом, дуже часто рятуватимуть вас від голодної смерті."/>
     <string id="7O8IwMgU" text="Oh, you'll need my help all right, if you want to get them back - alive, that is. See, my boys have some pretty specific instructions about what to do if there's a rescue attempt..."/>
     <string id="7ULaG8aT" text="Then you can come back when you made your mind up."/>
-    <string id="7VFLb3Qj" text="You have arrived at the village."/>
+    <string id="7VFLb3Qj" text="Ви прибули в село."/>
     <string id="7wmkPNbI" text="Defend from right."/>
     <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}."/>
     <string id="80NOk1Ee" text="You could not unify the Empire."/>
@@ -271,7 +271,7 @@
     <string id="F2bgujPo" text="були слугами вождя."/>
     <string id="f3NvtzpE" text="Conspiracy Quest Available"/>
     <string id="F7OO5SAa" text="Досягнувши юнацтва у Кальрадії, війна, звісно, не змогла пройти повз вас. Ви..."/>
-    <string id="F7VxtCSd" text="This option is disabled during tutorial phase."/>
+    <string id="F7VxtCSd" text="Цей параметр не доступний під час навчання."/>
     <string id="FaQDaRri" text="I'm going to run the course. I need to know I can fight if I have to. (Continue tutorial)"/>
     <string id="fBJRdxh2" text="Try again."/>
     <string id="FBp2ranI" text="So, can you help me find a buyer for it?"/>
@@ -313,7 +313,7 @@
     <string id="gJBNUAJd" text="Finish the track and hit as many targets as you can."/>
     <string id="gL241Hoz" text="Very nice. Superstitious twaddle, of course, but people will believe you. Very well, oh heir to Calradios, go forth!"/>
     <string id="gL3WCqM5" text="Settlement Count"/>
-    <string id="GM3tAYMr" text="Take a hostile action"/>
+    <string id="GM3tAYMr" text="Вчинити ворожу дію"/>
     <string id="gOI8lKcl" text="ви втекли на швидких конях."/>
     <string id="gQ2tAvCz" text="Фермери"/>
     <string id="gSBGpUBm" text="Find {RADAGOS.LINK}' hideout."/>
@@ -339,7 +339,7 @@
     <string id="HhFHRs7N" text="Create {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
     <string id="HhuBPfJn" text="Підійдіть до тренера."/>
     <string id="HL9lzfjY" text="Of course I can. You know my name, whose son I am."/>
-    <string id="hnFkhPhp" text="This option is disabled during tutorial stage."/>
+    <string id="hnFkhPhp" text="Цей параметр не доступний під час навчання."/>
     <string id="HOb07MJF" text="I don't know much about it. I know two who might, though. {IMPERIAL_MENTOR.LINK} - she once served as Neretez's unofficial spymaster. Then there's {ANTI_IMPERIAL_MENTOR.LINK}. He served on Neretzes' bodyguard, but people say now he's very different than he was back then."/>
     <string id="hob3WVkU" text="Ваш батько був членом боярської дружини, &quot;соратників&quot;, які складали його свиту. Він сидів за столом, поряд з паном у великій залі, наглядав за боярськими маєтками, а в бою стояв поруч з ним у центрі стіни із щитів."/>
     <string id="HPNuqbSf" text="Rescue Your Family"/>
@@ -657,7 +657,7 @@
     <string id="vJyTsFdU" text="It doesn't look like much and I suspect this lot would give it away for a few coins, but I got it from a mercenary whom I treated once, and swore it was related to 'Neretzes's Folly'. I don't know what that means, except that Neretzes was, of course, the emperor who died in battle some years back. Maybe you can find out its true value.[ib:demure]"/>
     <string id="VLD5416o" text="Companion Hired"/>
     <string id="VlXOgIX6" text="їздили з розвідниками."/>
-    <string id="VN4ctHIU" text="Buy products"/>
+    <string id="VN4ctHIU" text="Купити товари"/>
     <string id="vxDVCK3n" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again."/>
     <string id="w0CUaEU7" text="You haven't cut my throat yet, which was a wise move. I'm sure I can find a way to be worth more to you alive than dead."/>
     <string id="w2TEQq26" text="Ви завжди були уважними до інших людей, вміли добре вгадувати їхні мотиви. Ви вивчали, як саме можна впливати на людей, і те, що ви дізнавалися від дорослих, випробовували на своїх друзях."/>
@@ -707,7 +707,7 @@
     <string id="xORjDTal" text="інвестиція грошей в майстерню."/>
     <string id="Xqba1Obq" text="Кочівники"/>
     <string id="XQrmVPKL" text="{PLAYER.LINK} I hope this letter finds you well. I have learned from a spy in {LOCATION_LINK} that our adversaries have set up a camp in its environs. She could not tell me what they plan to do, but if you raided the camp, stole some of their supplies, and brought it back to me, we could get some idea of their wicked intentions. Search around {LOCATION_LINK} to find the hideout."/>
-    <string id="Xrz05hYE" text="Take a walk around"/>
+    <string id="Xrz05hYE" text="Прогулятися"/>
     <string id="XSzmugWh" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="XtC0hXhr" text="Support {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
     <string id="xVFupnFu" text="You've successfully hit all of the targets in ({TIME_SCORE}) seconds."/>
