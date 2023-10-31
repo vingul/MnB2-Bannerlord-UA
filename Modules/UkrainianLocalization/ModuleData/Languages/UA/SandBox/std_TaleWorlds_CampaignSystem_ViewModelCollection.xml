@@ -108,7 +108,7 @@
     <string id="BqLsZhhr" text="Select an item to refine"/>
     <string id="btoiLePb" text="{HERO} ({PLACE})"/>
     <string id="BV5exuPf" text="Remove From Bookmarks"/>
-    <string id="bz7Glmsm" text="Skills"/>
+    <string id="bz7Glmsm" text="Уміння"/>
     <string id="C2qpwFq5" text="Owner of {SETTLEMENTS}"/>
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Days{?}Day{\?} ({PERCENTAGE}%)"/>
     <string id="c6BtCIrX" text="{DAYS} days ago"/>
