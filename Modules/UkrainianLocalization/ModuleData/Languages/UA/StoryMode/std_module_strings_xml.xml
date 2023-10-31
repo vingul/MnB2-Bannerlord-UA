@@ -12,8 +12,8 @@
     <string id="1jggMDRI" text="This screen allows you to craft different weapons for yourself or to fulfill orders for local non-player characters. To do this, you must use raw or refined resources that you can either purchase or manufacture by smelting weapons you carry.{newline}{newline}You can change the type of weapon that you are crafting through the highlighted button."/>
     <string id="1XkYGDEZ" text="The sorting menu lets you sort your results based on different variables."/>
     <string id="3hfKI636" text="Encyclopedia Clans"/>
-    <string id="3nilwlcM" text="You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left."/>
-    <string id="3r0HfDMk" text="Moving your party is done by hovering the indicator on the map and pressing {CONSOLE_ACTION_KEY}. This will leave a mark on the target location - unless you have hovered over an inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
+    <string id="3nilwlcM" text="Ви прибули до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}. Щоб оглянути поселення, увійдіть до нього, натиснувши виділену кнопку зліва."/>
+    <string id="3r0HfDMk" text="Щоб перемістити загін, необхідно навести вказівник на потрібне місце на карті і натиснути {CONSOLE_ACTION_KEY}. Це залишить позначку на карті, якщо тільки ви не навели курсор на недосяжну ділянку, таку як гори чи море.{newline}{newline}Вирушаємо до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}!"/>
     <string id="3RqEmB15" text="Переміщення по Кальрадії"/>
     <string id="3Y5dudW9" text="Alda"/>
     <string id="3YkpC9Nf" text="You can filter Items through buttons at the top. Filter them to Misc."/>
@@ -117,8 +117,8 @@
     <string id="NWxC3CbS" text="Fodor"/>
     <string id="o5ho2Txg" text="Army Cohesion"/>
     <string id="OA9bQ8QJ" text="Alea"/>
-    <string id="odbkXZkz" text="Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
-    <string id="oj7B1GOT" text="Entering Settlements"/>
+    <string id="odbkXZkz" text="Переміщення вашого загону здійснюється за допомогою клацання миші по карті. На місці клацання залишиться позначка, якщо тільки ви не клацнули на недосяжну ділянку, таку як гори чи море.{newline}{newline}Вирушаємо до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}!"/>
+    <string id="oj7B1GOT" text="Відвідування поселень"/>
     <string id="OJmYUcaU" text="Two Handed Sword Training"/>
     <string id="oKl1p2er" text="You can call other lords to your banner. Press {CONSOLE_ACTION_KEY} while the cursor is on the highlighted army icon on the lower right to do so."/>
     <string id="okM9QUFA" text="Javelin Training"/>
