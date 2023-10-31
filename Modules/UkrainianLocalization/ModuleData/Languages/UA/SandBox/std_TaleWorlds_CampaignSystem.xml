@@ -588,7 +588,7 @@
     <string id="79XElnsg" text="{ISSUE_GIVER_1.NAME} mentioned something about needing someone to do some work. And I think {ISSUE_GIVER_2.NAME} was looking for someone."/>
     <string id="7aaAWc01" text="Guard's Party"/>
     <string id="7aX2eh5x" text="Heroic Leader"/>
-    <string id="7AYJ3SjK" text="Your family arranged for you to accompany a chieftain of your people. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
+    <string id="7AYJ3SjK" text="Ваша родина домовилася, щоб ви супроводжували вождя вашого народу. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
     <string id="7AyjDt96" text="{VARIATION_TEXT_TAGGED_LINE}"/>
     <string id="7cHsIMLP" text="Ви ніколи не змогли б самостійно купити собі спорядження, але оскільки ви були достатньо хорошим вершником, місцевий лорд позичив вам коня і спорядження. Ви приєдналися до загону важкої кавалерії, тренуючись володіти лицарським списом."/>
     <string id="7DCzgGNP" text="{ARMY} has been disbanded since a new leader cannot be selected"/>
@@ -993,7 +993,7 @@
     <string id="aXOgAKfj" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. I hope your people will be successful."/>
     <string id="AXsbnTBb" text="{QUEST_GIVER.LINK} has made peace with the {ENEMYFACTION_INFORMALNAME}. Your agreement with {QUEST_GIVER.LINK} has been canceled."/>
     <string id="AXy26AFb" text="Maybe I can help. What are the terms of agreement."/>
-    <string id="Ay0G3f7I" text="Your family arranged for you to be part of the staff of an imperial strategos. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
+    <string id="Ay0G3f7I" text="Ваша родина влаштувала вас на службу до імперського стратега. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
     <string id="aYpbyTfA" text="{VALUE} daily renown from every profiting caravan."/>
     <string id="aYQybo4E" text="Insurance Plans"/>
     <string id="Az0yhQID" text="The distribution of land to veterans was a key platform of Roman populists such as Marius and Caesar. The presence of veterans in farming communities helps with organizing militias."/>
@@ -1305,7 +1305,7 @@
     <string id="Cd405TC7" text="Clear past persuasion attempts (CHEAT)"/>
     <string id="cD8a5zbZ" text="{VALUE}% crossbow damage by your troops."/>
     <string id="cDVNFn4p" text="Before {CHILD.NAME} left, you told the merchant that {?CHILD.GENDER}she{?}he{\?} should be entrusted with..."/>
-    <string id="cDWbwBwI" text="joined the kern."/>
+    <string id="cDWbwBwI" text="приєднались до керна."/>
     <string id="CeCAMvkX" text="Authority"/>
     <string id="Celvao0J" text="{QUEST_GIVER.LINK} a {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} from {CLAN} clan has asked you to take a young clan member under your wings and train him for {DURATION} days. You have accepted to train him personally."/>
     <string id="ceq6ZMIx" text="Military achievements are favored and lords can vote to award each other decorations and distinctions (ie, the Roman corona.)"/>
@@ -1754,7 +1754,7 @@
     <string id="F1CJo2wX" text="{VALUE}% shield hitpoints."/>
     <string id="f1etg9oL" text="Think of something else."/>
     <string id="F1syZDs4" text="{NEWLINE}+{VALUE} до рис «{TRAIT_NAME_ONE}» і «{TRAIT_NAME_TWO}»"/>
-    <string id="F2bgujPo" text="were a chieftain's servant."/>
+    <string id="F2bgujPo" text="були слугами вождя."/>
     <string id="F2H2lZJ4" text="{VALUE}% armor to foot troops in your formation."/>
     <string id="f3hTGKIP" text="Garitops"/>
     <string id="F41aPt80" text="Royal Guard"/>
@@ -3641,7 +3641,7 @@
     <string id="rLs30aPf" text="{VALUE} party size limit."/>
     <string id="rMagXCrI" text="You don't have enough influence to get the charges dropped."/>
     <string id="Rmbd2OkI" text="You are usually away from your estate, but when you are able to spend time with {CHILD.NAME}, you encouraged {?CHILD.GENDER}her{?}him{\?} to develop..."/>
-    <string id="RmbWW6Bm" text="You were a big and imposing enough youth that the chief's guard allowed you to train alongside them, in preparation to join them some day."/>
+    <string id="RmbWW6Bm" text="Ви справили враження на варту вождя і вам дозволили тренуватися разом з ними, готуючись до того, щоб одного дня ви стали одним із них."/>
     <string id="rmMcwSn8" text="Ви допомагали своїй родині вести справи, ходили на ринок за покупками та стежили за прибуттям караванів."/>
     <string id="rmmZayCT" text="{WOUNDED_COUNT} of your men got wounded because of illness."/>
     <string id="RmW8Wf83" text="{newline} • Party Gold Gain : {PARTY_GOLD_GAIN}"/>
@@ -3963,7 +3963,7 @@
     <string id="tsh4RXNa" text="{VALUE}% tax gain in the governed settlement."/>
     <string id="TsvBHBdX" text="Tier 3+ clans gain 0.5 influence per day, influence cost of inviting lower tier clans to army are increased by 10%"/>
     <string id="TtaEimaV" text="{FIRSTNAME} of the Bridge"/>
-    <string id="tTb28jyU" text="Many Battanians fight as kern, versatile troops who could both harass the enemy line with their javelins or join in the final screaming charge once it weakened."/>
+    <string id="tTb28jyU" text="Багато баттанців воюють в складі керну, універсальної бойової одиниці, яка може як виснажити ворожу лінію дротиками, так і приєднатися згодом до фінальної атаки, кинувшись на ворога з несамовитим бойовим кличем."/>
     <string id="tTFUSJoe" text="{FIRSTNAME} the Smith"/>
     <string id="TtGJqRI5" text="Send troops"/>
     <string id="tthBNejU" text="Have you collected the revenues?"/>
@@ -4932,7 +4932,7 @@
     <string id="zS68eOsl" text="{QUEST_GIVER.LINK} has lost {SETTLEMENT} and your agreement with {?QUEST_GIVER.GENDER}her{?}his{\?} canceled."/>
     <string id="Zs6L1aBL" text="I'm sorry. I don't need mercenaries right now."/>
     <string id="zs8rZnf8" text="I will be waiting for your good news {PLAYER.NAME}."/>
-    <string id="zsC2t5Hb" text="trained with the hearth guard."/>
+    <string id="zsC2t5Hb" text="тренувалися з охоронцями вождя."/>
     <string id="ZsGqHBlR" text="I need a partner whom I can trust..."/>
     <string id="zstiYI49" text="Any bandits there can easily spot and evade a large army moving against them, but if you can enter the hideout with a small group of determined warriors you can catch them unaware."/>
     <string id="zT2b0v8y" text="Deserters Party"/>
