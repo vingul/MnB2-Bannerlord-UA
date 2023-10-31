@@ -410,7 +410,7 @@
     <string id="baHmYsx3" text="Two Handed Weapon"/>
     <string id="bAHNQGAw" text="Our allies need help. Lift the siege!"/>
     <string id="baIUUw1c" text="Spend your own influence to increase the influence of the selected clan"/>
-    <string id="BANC61K5" text="Previous Character"/>
+    <string id="BANC61K5" text="Попередній воїн"/>
     <string id="bB4602W2" text="Thrust {THRUST_DAMAGE_TYPE} Damage: "/>
     <string id="bbmrHzRF" text="Send Clan Members To {SETTLEMENT_NAME}"/>
     <string id="bBXGPgwe" text="my daughter {REFERING_HERO.LINK}"/>
@@ -1751,7 +1751,7 @@
     <string id="WTR5Lr8W" text="The defenders win when they can move their king to any edge of the board.{newline}The attackers win when they capture the king, or if they can prevent all defenders from moving."/>
     <string id="wTT3Fyzl" text="sir"/>
     <string id="WusvipsF" text="Insufficient funds!"/>
-    <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} xp"/>
+    <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} од"/>
     <string id="WVqaRKUm" text="Wool{@Plural}loads of wool{\@}"/>
     <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} bonus to  wall hit points"/>
     <string id="wXQUXa1P" text="You cannot give anymore focus points to this skill"/>
@@ -1906,7 +1906,7 @@
     <string id="zNekjGmR" text="Recruit Prisoner"/>
     <string id="zNEvBr6R" text="Your Turn"/>
     <string id="zNHtgL0S" text="The tournament will be an archery contest."/>
-    <string id="znKxunbQ" text="Next Character"/>
+    <string id="znKxunbQ" text="Наступний воїн"/>
     <string id="ZnsseELq" text="Faction name needs to be between {MIN} - {MAX} characters."/>
     <string id="znxbib0f" text="Show stats for this usage"/>
     <string id="zo5hQfll" text="The wolves win if they can remove 5 sheep from the board.{newline}{newline}The sheep win if they can block the wolves so they can't make any more moves."/>
