@@ -1329,7 +1329,7 @@
     <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} a landowner in {SETTLEMENT}, asked you to train recruits for {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} gave you {NUMBER_OF_MEN} men, hoping to take them back when once they are veterans.{newline}You sent them with one of your companions {COMPANION.LINK} to hunt down some easy targets. You arranged to meet them in {RETURN_DAYS} days."/>
     <string id="ciCQnAj6" text="{VALUE}% damage againts shields by troops in your formation."/>
     <string id="ciELES5v" text="Swift Strike"/>
-    <string id="CITG915d" text="joined a commander's staff."/>
+    <string id="CITG915d" text="приєдналися до обслуги командира."/>
     <string id="CJ5pLHaL" text="Вартість найму та підвищення піших воїнів на 25% менша."/>
     <string id="CJB5HCsI" text="{VALUE}% wages in your party."/>
     <string id="cJEbenVQ" text="{VALUE}% throwing weapon damage to cavalry by troops in your formation."/>
