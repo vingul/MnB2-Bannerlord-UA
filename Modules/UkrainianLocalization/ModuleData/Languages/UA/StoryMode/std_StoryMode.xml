@@ -59,7 +59,7 @@
     <string id="4WYY0X59" text="До того, як ви вирушили назустріч пригодам, вашим найбільшим досягненням було..."/>
     <string id="4WZ9zJbF" text="I do not know where the other pieces are, you may need to keep searching for them."/>
     <string id="5D5lOHSL" text="When you have recovered all pieces, return to me and I'll help you put them to use."/>
-    <string id="5g9ZFGrN" text="You are at a training field. You can learn the basics of combat here."/>
+    <string id="5g9ZFGrN" text="Ви знаходитесь на тренувальному полігоні. Тут ви можете навчитися основам ведення бою."/>
     <string id="5HXS8HEY" text="винятковою силою."/>
     <string id="5j6qvGAF" text="Excellent work! When you unfurl this banner, and men see what they thought was lost, it will make a powerful impression."/>
     <string id="5K4wvz3w" text="Find and meet {HERO.LINK} to learn more about Neretzes' Banner. He is currently in {SETTLEMENT}."/>
@@ -181,7 +181,7 @@
     <string id="btAV7mmq" text="You are defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="bTKiN0hr" text="працювали у сільській кузні."/>
     <string id="btsMpRcA" text="Ваша сім'я володіла кузнею в місті. Батько мав вплив, хоч і незначний, у міській раді, а також служив в ополченні."/>
-    <string id="BTY2aZCt" text="Enter a training area."/>
+    <string id="BTY2aZCt" text="Увійдіть до тренувального майданчика."/>
     <string id="bWdsH2Ls" text="This is what I learned from a lifetime in politics: There is nothing worse than disorder. Suffice to say that I know better than anyone about the lies and cruelty that kept the Empire alive. But all the murders I ever committed in 10 years of serving Neretzes do not amount to the death toll in a single hour when an army storms a town."/>
     <string id="bWlmGDf3" text="Коли раптовий шторм спричинив різке підняття рівня води в місцевій річці, вашим сусідам знадобився кмітливий лідер. І ви проявили себе, швидко організувавши будівництво греблі для порятунку власних домівок."/>
     <string id="bXAg5w19" text="Молоді новобранці чи ті, хто має більш худорляву статуру, або хто занадто бідний, щоб купити собі щит і зброю, зазвичай приєднуються до застрільників. Воюючи з луком і метальним списом, вони намагаються залишатися поза досяжністю основних сил противника."/>
@@ -219,7 +219,7 @@
     <string id="Db98U6fF" text="Defend from left."/>
     <string id="dbLb3krw" text="Hunt the gangs of {RAIDER_NAME}"/>
     <string id="dDmcqTzb" text="Ваша репутація не була такою, про яку складають місцеві легенди, але вона була такою, що принесла вам повагу серед оточуючих. Ви були незмінно справедливим і чесним в угодах, які ви укладали та допомагали тим, хто потрапляв у біду. При цьому ви добре розуміли людей та їх мотиви."/>
-    <string id="dE2ufxte" text="Before we do anything else... We're low on food. There's a village north of here where we can buy provisions and find some help. You're a better rider than I am so I'll let you lead the way..."/>
+    <string id="dE2ufxte" text="Перш ніж ще щось робити... У нас мало їжі. На північ звідси є село. Там ми можемо купити провізії і отримати допомогу. Ти кращий вершник, ніж я, тож їдь вперед..."/>
     <string id="DfiACGay" text="Destroy Raiders"/>
     <string id="DFidSjIf" text="Більшість дітей навколо вас мали лише базову освіту, але ви затримувалися після уроків, щоб вчитись читати та рахувати. Вас зачаровував ринок - ваги та міри, списки та рахунки, розмови про доходи та видатки."/>
     <string id="Dfmg8stq" text="Eliminate {FACTION}"/>
@@ -266,7 +266,7 @@
     <string id="eYXLYgsC" text="I still am not sure what I will do with it."/>
     <string id="EZ19JOGj" text="{MENTOR.NAME}'s House"/>
     <string id="ez4rbGmx" text="Insults his most powerful vassal and then insults his most valued ally. A fine day's work, wouldn't you say? But he has grown wiser since, though no more pleasant to spend time with."/>
-    <string id="F0ldgio8" text="Go back to training."/>
+    <string id="F0ldgio8" text="Повернутися до тренувань."/>
     <string id="F26iH45g" text="What happened? Have you assembled the banner?"/>
     <string id="F2bgujPo" text="були слугами вождя."/>
     <string id="f3NvtzpE" text="Conspiracy Quest Available"/>
@@ -337,7 +337,7 @@
     <string id="hFYG3lXw" text="Well, that's what some people call the great Battle of Pendraic in the year 1077."/>
     <string id="hGPdLssq" text="The ruler of the {PLAYER_SUPPORTED_FACTION} has accepted the peace offered by the war-ravaged {FACTION}."/>
     <string id="HhFHRs7N" text="Create {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
-    <string id="HhuBPfJn" text="Go to the trainer."/>
+    <string id="HhuBPfJn" text="Підійдіть до тренера."/>
     <string id="HL9lzfjY" text="Of course I can. You know my name, whose son I am."/>
     <string id="hnFkhPhp" text="This option is disabled during tutorial stage."/>
     <string id="HOb07MJF" text="I don't know much about it. I know two who might, though. {IMPERIAL_MENTOR.LINK} - she once served as Neretez's unofficial spymaster. Then there's {ANTI_IMPERIAL_MENTOR.LINK}. He served on Neretzes' bodyguard, but people say now he's very different than he was back then."/>
@@ -385,7 +385,7 @@
     <string id="JJo0i8an" text="Look around the village to find the party that captured the traveller whom the headman told you about."/>
     <string id="Jn4r0GjD" text="So, can you help me find a buyer for it?"/>
     <string id="jnOa3cbK" text="Before I reveal that information to you, I need to know more about your intentions. One could use the banner to restore the empire, but one could also use the banner to destroy it."/>
-    <string id="JOJ09cLW" text="Let's go."/>
+    <string id="JOJ09cLW" text="Поїхали."/>
     <string id="joRHKCkm" text="Вашій родині був потрібен хтось надійний, хто б зміг провести караван до сусіднього міста. Ви організували припаси для походу, забезпечили постійну охорону від бандитів і безпечно доправили караван до місця призначення."/>
     <string id="jPKIN2r4" text="One more thing. When you are talking to nobles and other people of importance, make sure you present yourself as someone from a distant but distinguished family."/>
     <string id="JTPmw3cb" text="You couldn't complete the quest in time."/>
