@@ -631,7 +631,7 @@
     <string id="EMCISbYJ" text="Battle Outfit"/>
     <string id="empiremembers" text="{.p}Імперець{.R_n22_p}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
-    <string id="EMVLtu5L" text="{HERO.LINK} gained {?PLURAL}{GAINED_POINTS} skill points{?}a skill point{\?} in {SKILL_NAME} and is now {UPDATED_SKILL_LEVEL}."/>
+    <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} навичок&#10; для {SKILL_NAME}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
     <string id="enhza8zr" text="Фракція"/>
     <string id="eNQgzubm" text="Fight on foot. Move on map on foot."/>
@@ -1021,7 +1021,7 @@
     <string id="kHC5EjEJ" text="Minor Faction Bonus"/>
     <string id="Khr5yETv" text="Асераї живуть у пустелі Нахаза. Серед них є кочівники-бедуїни й осілі фермери оазисів. Вони славляться своїм мистецтвом верхової їзди і багатим зібранням знань з усього світу, а особливо - в галузі медицини. Всю цю інформацію вони змогли зібрати, тому що живуть на найприбутковіших торгових шляхах усього континенту. Кожен клан пишається своїм родоводом і нерідко заздрить іншим. Але коли народ асераїв об'єднує гідний правитель, вони стають найбільшою силою південних земель."/>
     <string id="ki5DqTtC" text="+{BONUS_AMOUNT} increase to settlement prosperity."/>
-    <string id="KiJd6Xik" text="Movement"/>
+    <string id="KiJd6Xik" text="Переміщення"/>
     <string id="KiVCv1Bx" text="Besieging {SETTLEMENT_NAME}"/>
     <string id="KJDqOGEU" text="Our plan is to fall back in formation to fight another day."/>
     <string id="KkaVpLXd" text="Consider enacting this policy (Support: {SUPPORT}%)"/>
@@ -1298,7 +1298,7 @@
     <string id="oYUAuLO7" text="You have sworn not to attack."/>
     <string id="OzazmGBi" text="the Khuzaits"/>
     <string id="ozYRUrum" text=" Help wounded soldiers heal in settlements."/>
-    <string id="P1VmnfsB" text="{BUILDING_NAME} building in {SETTLEMENT_NAME} has gained a level."/>
+    <string id="P1VmnfsB" text="Споруда «{BUILDING_NAME}» в {SETTLEMENT_NAME}{.v_dav} отримала новий рівень."/>
     <string id="P2CRzfV7" text="Shops in Settlement"/>
     <string id="p2WBSIa7" text="Cohesion:"/>
     <string id="P3SJla9F" text="Looted Villages"/>
@@ -1658,7 +1658,7 @@
     <string id="uYFd4meY" text="Quest Given By"/>
     <string id="Uzsnek6O" text="Auto Recruitment"/>
     <string id="V03gbccF" text="You hit a friendly troop!"/>
-    <string id="V0Kw3O7c" text="Tutorial"/>
+    <string id="V0Kw3O7c" text="Навчання"/>
     <string id="V0OMMQ1F" text="A magisterial performance, {PLAYER.LINK}. Whack! Crack! You took down {OPPONENT_COUNT} of them. The crowd loved it. And you earned a prize of {PRIZE}{GOLD_ICON}."/>
     <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Looted)"/>
     <string id="v3cY44N1" text="You cannot annex a ruling clan's settlement."/>
