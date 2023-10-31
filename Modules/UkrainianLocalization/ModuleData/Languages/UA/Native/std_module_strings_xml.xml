@@ -59,7 +59,7 @@
     <string id="1Zq8mzzJ" text="Well now. Let's see what sort of fly has stumbled into our web.[rf:convo_mocking_revenge]"/>
     <string id="21t7Ev03" text="You can not perform this action while you are imprisoned."/>
     <string id="22a9fyiQ" text="Father"/>
-    <string id="22FUKSQb" text="Gain {REQUIRED_XP_FOR_NEXT_LEVEL} xp for this skill by using it to level it up"/>
+    <string id="22FUKSQb" text="Отримайте {REQUIRED_XP_FOR_NEXT_LEVEL} {#GET_PLURAL_VALUE(REQUIRED_XP_FOR_NEXT_LEVEL)}очко{#}очки{#}очків{\#}&#10; досвіду, використовуючи це вміння, щоб підняти його рівень"/>
     <string id="22tbyEYI" text="You received {COUNT} {ITEM} from {PARTY_NAME}."/>
     <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions."/>
     <string id="25MeMNbP" text="Right"/>
@@ -161,7 +161,7 @@
     <string id="5DBDy2si" text="You trapped enemies."/>
     <string id="5DSafcSC" text="Konane"/>
     <string id="5eH0lCEO" text="Disable Current Tutorial Step"/>
-    <string id="5H0cDmm1" text="Gain a total of {SKILL_LEVEL_FOR_LEVEL_UP} skill points to level up this character."/>
+    <string id="5H0cDmm1" text="Отримайте {SKILL_LEVEL_FOR_LEVEL_UP} {#GET_PLURAL_VALUE(SKILL_LEVEL_FOR_LEVEL_UP)}очко{#}очки{#}очків{\#} умінь, щоб підняти рівень персонажу.&#10;"/>
     <string id="5IOct2ob" text="Order Requirement"/>
     <string id="5jVYwNCQ" text="Unpaid Wages"/>
     <string id="5k4dxUEJ" text="Воїни"/>
@@ -486,7 +486,7 @@
     <string id="bXS5KHk8" text="You have won the duel. Your army is encouraged by this display of your might. Your party gains morale."/>
     <string id="bxtraSPF" text="{STR1}{newline} {newline}{STR2}"/>
     <string id="BY5RMAoj" text="You have received {AMOUNT} {DAMAGE_TYPE} damage from {ATTACKER_NAME} ({LOST_HP_PERCENTAGE}% HP)."/>
-    <string id="bz7Glmsm" text="Skills"/>
+    <string id="bz7Glmsm" text="Уміння"/>
     <string id="bZJs2AQX" text="Here's our money: {MONEY}{GOLD_ICON}. And here's our wares: {ITEM_LIST}. Just take them and let us live, {?PLAYER.GENDER}madam{?}sir{\?}."/>
     <string id="bzrOHiS8" text="People openly curse the authorities, as though they feel they have nothing to lose."/>
     <string id="C0llOApK" text="{HERO}{.o} Army"/>
@@ -584,7 +584,7 @@
     <string id="DM6luo3c" text="Continue"/>
     <string id="dMKyWmJ6" text="You are trapped by enemies."/>
     <string id="dO5tqXT8" text="Ex-Spouse"/>
-    <string id="DOKG38dF" text="Tutorials Enabled"/>
+    <string id="DOKG38dF" text="Навчання увімкнено"/>
     <string id="DqJG7bvh" text="Capacity Exceeded"/>
     <string id="dQRdP9eQ" text="Encounter"/>
     <string id="DRaJ7hoz" text="The Winner is"/>
@@ -593,7 +593,7 @@
     <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}"/>
     <string id="DTWem4V1" text="this stock"/>
     <string id="DU9SofaW" text="Cut"/>
-    <string id="DuFg1avZ" text="Next level at: {NEXT_SKILL_POINTS}"/>
+    <string id="DuFg1avZ" text="Наступний рівень: {NEXT_SKILL_POINTS}"/>
     <string id="Duoo5R2P" text="Arena Master"/>
     <string id="DvGueBrU" text="Linen{@Plural}rolls of linen{\@}"/>
     <string id="dxtuFW8b" text="You put up quite a good fight there. Some very good moves. A few errors, sure, but you definitely show promise. And you earned a prize of {PRIZE}{GOLD_ICON} for knocking down {OPPONENT_COUNT} opponents."/>
@@ -631,7 +631,7 @@
     <string id="EMCISbYJ" text="Battle Outfit"/>
     <string id="empiremembers" text="{.p}Імперець{.R_n22_p}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
-    <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} навичок&#10; для {SKILL_NAME}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
+    <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} умінь&#10; до {SKILL_NAME}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
     <string id="enhza8zr" text="Фракція"/>
     <string id="eNQgzubm" text="Fight on foot. Move on map on foot."/>
@@ -1409,7 +1409,7 @@
     <string id="qlnXblKO" text="{ISSUE_NAME}: Your troops have resolved the matter and have returned from their mission."/>
     <string id="QLRbhRKL" text="Issue"/>
     <string id="qlw2LWgu" text="Move in to range"/>
-    <string id="qM8daraD" text="Total skill points: {CURRENT_SKILL_POINTS}"/>
+    <string id="qM8daraD" text="Всього очок умінь: {CURRENT_SKILL_POINTS}"/>
     <string id="QmaVRAkx" text="You could not pay all wages, your party loses {reg1} morale."/>
     <string id="qMhCpq9k" text="Party Size Exceeded"/>
     <string id="Qn3DCH3d" text="Landowner"/>
@@ -1419,7 +1419,7 @@
     <string id="QOWyEJrm" text="You don't have enough denars."/>
     <string id="qpmpTdla" text="Notable"/>
     <string id="QPoA6vvx" text="Income"/>
-    <string id="qQLh6S2w" text="SP {CURRENTAMOUNT}/{TARGETAMOUNT}"/>
+    <string id="qQLh6S2w" text="ОУ {CURRENTAMOUNT}/{TARGETAMOUNT}"/>
     <string id="qR0s1VvE" text="You hear some complaints about prices, shortages and greedy merchants, but no more than normal."/>
     <string id="qRqnrtdX" text="Власник"/>
     <string id="qSC0t1lY" text="On {DAY_OF_YEAR}, {YEAR}, {FIRST_HERO} married {SECOND_HERO}."/>
@@ -1736,7 +1736,7 @@
     <string id="wifemotherinlaw" text="mother-in-law"/>
     <string id="wifesisterinlaw" text="sister-in-law"/>
     <string id="WiNRdfsm" text="Готово"/>
-    <string id="wjb4tZDX" text="Level: {LEVEL}"/>
+    <string id="wjb4tZDX" text="Рівень: {LEVEL}"/>
     <string id="wjuieMsE" text="Your opponent gained 1 point for the hit!"/>
     <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the siege tower."/>
     <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}"/>
@@ -1825,7 +1825,7 @@
     <string id="yBnwGiuB" text="Lord"/>
     <string id="Yc4xzip6" text="Do you want to execute {NAME}?"/>
     <string id="yCEMiKjB" text="Виберіть: {SELECTION}"/>
-    <string id="YCYwPPlJ" text="Disable All Tutorials"/>
+    <string id="YCYwPPlJ" text="Вимкнути навчання"/>
     <string id="YDYnuBmC" text="Multiplayer"/>
     <string id="YeaFZzXS" text="On {DAY_OF_YEAR}, {YEAR}, {LEADER_NAME} declared the creation of a new realm, the {KINGDOM_NAME}."/>
     <string id="yeEaBV29" text="We'll take it. You can live. Now go before I change my mind.[ib:closed][if:convo_normal]"/>
