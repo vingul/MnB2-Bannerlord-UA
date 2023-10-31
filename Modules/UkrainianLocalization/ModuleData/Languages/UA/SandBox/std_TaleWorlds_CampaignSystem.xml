@@ -446,7 +446,7 @@
     <string id="5jAH0VV7" text="Heir Come of Age"/>
     <string id="5JTEvvaO" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}бал{#}бали{#}балів{\#} фокусу: {SKILL_ONE} і {SKILL_TWO}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}бал{#}бали{#}балів{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
     <string id="5k4dxUEJ" text="Воїни"/>
-    <string id="5kbeAC7k" text="In wartorn Calradia, especially in frontier or tribal areas, some women as well as men learn to fight from an early age. You..."/>
+    <string id="5kbeAC7k" text="У понівеченій війною Кальрадії, а особливо на прикордонних територіях та територіях племен, деякі жінки, як і чоловіки, вчаться воювати з раннього віку. Ви..."/>
     <string id="5kxDhBWk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are not high enough but can be useful with sufficient garrison support."/>
     <string id="5ky3voFY" text="You have rejected handing over the revenue to the {QUEST_GIVER.LINK}. The {?QUEST_GIVER.GENDER}lady{?}lord{\?} is deeply disappointed in you."/>
     <string id="5L0wDGhR" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} chose not to go to war with the {KINGDOM}, with {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council evenly split."/>
