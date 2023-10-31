@@ -19,7 +19,7 @@
     <string id="095beaQ5" text="Yes, there's a lot of work we need to do around the village, and we're short on the materials that our smith needs to make us tools and fittings. Do you think you could get us some? We'll pay well."/>
     <string id="09gOOa0h" text="Ranger"/>
     <string id="09npcQY0" text="{VALUE}% fortification bonus to the governed settlement"/>
-    <string id="09z8Q08f" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the imperial rural economy, as well as the backbone of the levy."/>
+    <string id="09z8Q08f" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Такі як вони були основою аграрно-орієнтованої економіки Імперії та були кістяком її армії."/>
     <string id="0A6BUASZ" text="{VALUE} daily experience to infantry in your party."/>
     <string id="0aMHHQL4" text="{VALUE}% reload speed to mangonels and trebuchets in siege bombardment."/>
     <string id="0aU9dtvV" text="Time:"/>
@@ -176,7 +176,7 @@
     <string id="1zdkXAwL" text="The market isn't what we expected. I am afraid I only made {GATHERED_DENARS}{GOLD_ICON} of the {TOTAL_DENARS}{GOLD_ICON} that we agreed upon."/>
     <string id="1zLZf5rw" text="The rest of your men rushed to your help, dragging you out to safety and driving the bandits back into hiding."/>
     <string id="1zteHA7R" text="Bow Control"/>
-    <string id="1zXrlaav" text="Your family were respected traders in an oasis town. They ran caravans across the desert, and were experts in the finer points of negotiating passage through the desert tribes' territories."/>
+    <string id="1zXrlaav" text="Ваша родина була шанованими торговцями в місті-оазисі. Вони водили каравани через пустелю і були експертами в тонкощах переговорів про перетин територій пустельних племен."/>
     <string id="21dlZJt6" text="I don't wish to speak about that. As you know, our factions are at war."/>
     <string id="21yUheIy" text="The {KINGDOM_NAME} was created in {CREATION_YEAR} by {RULER.NAME}, a rising {CULTURE_ADJECTIVE} warlord."/>
     <string id="231BaeH9" text="{VALUE} relationship with a random lord of your kingdom when an enemy lord is defeated."/>
@@ -459,7 +459,7 @@
     <string id="5o6pSbCx" text="Physician of People"/>
     <string id="5o9udV96" text="Yes? You should go already. The caravan is on its way."/>
     <string id="5of4a1kg" text="A landowner needs your help to find prisoners to use in {?ISSUE_GIVER.GENDER}her{?}his{\?} mines as manual laborers."/>
-    <string id="5P0KqBAw" text="Your family tilled the soil in one of the oases of the Nahasa and tended the palm orchards that produced the desert's famous dates. Your father was a member of the main foot levy of his tribe, fighting with his kinsmen under the emir's banner."/>
+    <string id="5P0KqBAw" text="Ваша родина обробляла землю в одному з оазисів Нахаси та доглядала за пальмовими садами, які давали фініки знамениті у всій пустелі. Ваш батько був членом головного піхотного загону свого племені та воював разом зі своїми родичами під прапором еміра."/>
     <string id="5pGCtBhd" text="You asked that your child be schooled over the next few years in all the treatises that can be found on human body, its ailments, and their treatments."/>
     <string id="5qkTxOJ5" text="She expects you to reach round {ROUND_COUNT}."/>
     <string id="5qRuGS2P" text="Equite"/>
@@ -505,7 +505,7 @@
     <string id="6bQIRaIl" text="Watch the tournament"/>
     <string id="6bt9jYai" text="I am still looking for the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} you have requested."/>
     <string id="6btajdpT" text="You can produce crude iron more efficiently by obtaining three units of crude iron from one unit of iron ore."/>
-    <string id="6bUSbsKC" text="Your father worked for a fitiwi, one of the strongmen who keep order in the poorer quarters of the oasis towns. He resolved disputes over land, dice and insults, imposing his authority with the fitiwi's traditional staff."/>
+    <string id="6bUSbsKC" text="Ваш батько працював на &quot;фітіві&quot;, одного з громил, які стежать за порядком у бідних кварталах міст-оазисів. Він вирішував суперечки через землю, виграшу у кості чи образ, підкріплюючи свій авторитет за допомогою традиційного посоху фітіві."/>
     <string id="6bvJSIqh" text="Yes. I can find a new lord to take them on."/>
     <string id="6CteaPKm" text="{VALUE}% sight range during nighttime in campaign map."/>
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Thank you. My lords see you as an example, and see your conquest of {TARGET_SETTLEMENT} as be a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service and gave you {REWARD}{GOLD_ICON}."/>
@@ -594,7 +594,7 @@
     <string id="7DCzgGNP" text="{ARMY} has been disbanded since a new leader cannot be selected"/>
     <string id="7e397ieb" text="{VALUE}% daily chance to increase relations with a random notable of same sex in the governed settlement."/>
     <string id="7EP0NgzU" text="The highest ranking of nobles have the de facto right to assemble large armies."/>
-    <string id="7eWmU2mF" text="Foresters"/>
+    <string id="7eWmU2mF" text="Лісоруби"/>
     <string id="7fr8QDYi" text="{QUEST_GIVER.LINK} sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards for a fine job done with the {REWARD}{GOLD_ICON} {?QUEST_GIVER.GENDER}she{?}he{\?} promised."/>
     <string id="7gabTf4P" text="{VALUE}% better deals for heroes from ransom brokers."/>
     <string id="7gZo2SY4" text="Carver"/>
@@ -1635,7 +1635,7 @@
     <string id="EdDRYFoL" text="Larger shield protection area against projectiles to troops in your formation while in shield wall formation."/>
     <string id="edJtO2ua" text="She expects you to fight in her name and reach at least {ROUND_COUNT}."/>
     <string id="eDzl7r8u" text="{VALUE}% combat movement speed with polearms."/>
-    <string id="EEedqolz" text="Bedouin"/>
+    <string id="EEedqolz" text="Бедуїни"/>
     <string id="eEh752CZ" text="Horse Farm"/>
     <string id="eeIX6loR" text="I can't think of anyone else."/>
     <string id="EerNV0aM" text="Steel Maker 2"/>
@@ -1900,7 +1900,7 @@
     <string id="g0JOQQl0" text="I don't want to do this right now."/>
     <string id="G1PN6ku4" text="We're disbanding."/>
     <string id="g2Zy1Bso" text="{VALUE}% damage with civilian weapons."/>
-    <string id="g31pXuqi" text="Oasis farmers"/>
+    <string id="g31pXuqi" text="Фермери в оазисі"/>
     <string id="G3qGLAeQ" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM} against the wishes of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="g3SKNcMV" text="{VALUE}% damage dealt to shields by your troops."/>
     <string id="G4kpabSf" text="{ISSUE_GIVER.LINK}, a headman from {ISSUE_SETTLEMENT}, has told you about recent bandit attacks on local villagers and asked you to clear out the outlaws' hideout. You asked {COMPANION.LINK} to take {TROOP_COUNT} of your best men to go and take care of it. They should report back to you in {RETURN_DAYS} days."/>
@@ -2010,7 +2010,7 @@
     <string id="gS1noLvf" text="I do not know whether to find that charming or impertinent..."/>
     <string id="gsmmoKNd" text="The {ENEMY_KINGDOM_INFORMAL_NAME} will devour all of Calradia if we do not stop them."/>
     <string id="gSmXyxue" text="{FIRSTNAME} the Tanner"/>
-    <string id="GsPC2MgU" text="Your father was part of one of the slave-bodyguards maintained by the Aserai emirs. He fought by his master's side with tribe's armored cavalry, and was freed - perhaps for an act of valor, or perhaps he paid for his freedom with his share of the spoils of battle. He then married your mother."/>
+    <string id="GsPC2MgU" text="Ваш батько був рабом-охоронцем одного з асерайських емірів. Він бився в рядах важкої кінноти свого господаря і був звільнений - можливо, за проявлену в бою доблесть, а можливо, сплативши викуп, на який він накопичив зі здобичі, отриманої від битв. Потім він одружився з вашою матір'ю."/>
     <string id="gsVtO9A7" text="Militia"/>
     <string id="gsz9DMNq" text="Water Diviner"/>
     <string id="Gtbfm10o" text="You have enough grain to complete the quest. Return to {QUEST_SETTLEMENT} to hand it over."/>
@@ -2308,7 +2308,7 @@
     <string id="iUQuwAZY" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. The village will be grateful to you. Good luck."/>
     <string id="IuWu5Bu7" text="Generosity"/>
     <string id="ivH8RWyb" text="Master Smith"/>
-    <string id="ivKl4mV2" text="Your father was a trusted lieutenant of the local landowning aristocrat. He rode with the lord's cavalry, fighting as an armored lancer."/>
+    <string id="ivKl4mV2" text="Ваш батько був довіреним офіцером місцевого аристократа-землевласника. Він їздив з панською кавалерією і воював як улан, закований у важку броню."/>
     <string id="ivrmsCFC" text="{VALUE} prosperity when a project is finished in the governed settlement."/>
     <string id="IvY187PJ" text="No matter. Anything else?"/>
     <string id="iW9iKbb8" text="Nothing."/>
@@ -2844,7 +2844,7 @@
     <string id="mfAP8Wlq" text="Leave settlement."/>
     <string id="MFDb5duu" text="Splendid! I suspect that you may, in your line of work, occasionally acquire a few captives. I could possibly take them off your hands. I'd pay you, of course."/>
     <string id="mfRbx5KE" text="за читанням і навчанням."/>
-    <string id="MFrIHJZM" text="Your family was from a smaller offshoot of an emir's tribe. Your father's land gave him enough income to afford a horse but he was not quite wealthy enough to buy the armor needed to join the heavier cavalry. He fought as one of the light horsemen for which the desert is famous."/>
+    <string id="MFrIHJZM" text="Ваша сім'я була далекою ріднею еміра. Доходу з землі було достатньо, щоб ваш батько міг дозволити собі коня, але він не був настільки заможним, щоб купити обладунки, необхідні для важкої кавалерії. Тому він воював в рядах легких вершників, якими славиться пустеля."/>
     <string id="mfYzCeGR" text="{CHARACTER.NAME} was {TITLE} of the {CHARACTER_FACTION_SHORT}. {FURTHER_DETAILS}."/>
     <string id="mg0yAzIb" text="{RETIREE.LINK} has retired."/>
     <string id="Mg1PotzO" text="After a brief wait, the guards open the gates for you and allow your party inside."/>
@@ -3003,7 +3003,7 @@
     <string id="ngazFofr" text="Вас завжди тягнуло до тварин, тому найбільше часу ви проводили в сільській стайні. Ви вміли заспокоювати коней і через це вам іноді доручали об'їжджати молодих жеребців. Ви вивчили основи ветеринарного мистецтва, тому за потреби навіть могли лікувати людей."/>
     <string id="NGcKLV88" text="A good engineer could help construct siege engines and new buildings in towns."/>
     <string id="NGFbn4Qx" text="{VALUE}% chance of increasing the siege bombardment casualties per hit by 1."/>
-    <string id="ngFVgwDD" text="Warrior-slaves"/>
+    <string id="ngFVgwDD" text="Воїни-раби"/>
     <string id="nGsQeTll" text="Perhaps we should discuss a future together..."/>
     <string id="nGWmyZCs" text="Picked Shots"/>
     <string id="NH5N3kP5" text="No governor"/>
@@ -3291,7 +3291,7 @@
     <string id="Piq3oYmG" text="I'm fine, thank you."/>
     <string id="PIukmFYA" text="You decided not to get involved and left the village. You have failed to help {QUEST_GIVER.LINK} as promised."/>
     <string id="PJMbfSPJ" text="You have {NUMBER} new prisoners to recruit."/>
-    <string id="PKhcPbBX" text="Your family were part of a nomadic clan, crisscrossing the wastes between wadi beds and wells to feed their herds of goats and camels on the scraggly scrubs of the Nahasa."/>
+    <string id="PKhcPbBX" text="Ваша сім'я була частиною кочового клану, що блукав пустинними землями Нахаси в пошуках води та пасовищ для кіз і верблюдів."/>
     <string id="pKquYFTX" text="Steel Maker"/>
     <string id="pL3s39hv" text="Clever {FIRSTNAME}"/>
     <string id="PLbxHyPu" text="It varies. I fancy that I have a fine eye for assessing a ransom. There are a dozen little things about a man that will tell you whether he goes to bed hungry, or spices his meat with pepper and cloves from the east. The real money of course is in the aristocracy, and if you ever want to do my job you'll want to learn about every landowning family or tribal chief in Calradia, their estates, their offspring both lawful and bastard, and, of course, their credit with the merchants."/>
@@ -3743,7 +3743,7 @@
     <string id="sAobCa9U" text="Brigands are disturbing travelers outside the town. Someone needs to hunt them down."/>
     <string id="SausWqM5" text="{?CHARACTER.GENDER}She{?}He{\?} disappeared in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
     <string id="sAv1co78" text="{VALUE}% daily chance to increase relation with a notable by 1 when you enter a town."/>
-    <string id="sb4gg8Ak" text="Freeholders"/>
+    <string id="sb4gg8Ak" text="Вільні землевласники"/>
     <string id="sBahcJcl" text="Idle."/>
     <string id="SbbAhpTu" text="He is yet to prove himself actually."/>
     <string id="sbczu2VI" text="Play on, good man."/>
@@ -3843,7 +3843,7 @@
     <string id="SVrCpvpZ" text="Thank you {PLAYER.NAME}. Our people are grateful to you for what you have done today. Farewell."/>
     <string id="svuD2vBo" text="You were knocked unconscious while trying to break {PRISONER.NAME} out of the dungeon.{newline}The guards caught you both and threw you in a cell."/>
     <string id="sVXa3zFx" text="Castle"/>
-    <string id="Sw8OxnNr" text="Kinsfolk of an emir"/>
+    <string id="Sw8OxnNr" text="Родичі еміра"/>
     <string id="swgcsLOA" text="{VALUE}% more loot from defeated villagers and caravans."/>
     <string id="SXbW99CH" text="treated injuries."/>
     <string id="SXCudsWT" text="State Monopolies"/>
@@ -3956,7 +3956,7 @@
     <string id="TrewB5c7" text="Now your {?IS_MAP_FACTION}clan{?}kingdom{\?} is at war with the {QUEST_GIVER.LINK}'s lord. Your agreement with {QUEST_GIVER.LINK} becomes invalid."/>
     <string id="TrGGbtS4" text="{FIRSTNAME} of the Dove"/>
     <string id="tributeIncome" text="Tribute Income"/>
-    <string id="tRIrbTvv" text="Urban back-alley thugs"/>
+    <string id="tRIrbTvv" text="Вуличні бандити"/>
     <string id="TrQzYwVD" text="Yes, {?PLAYER.GENDER}my lady{?}lord{\?}. Since we last spoke I had chance to increase my understanding of ranged combat. How to breath, calculate distance, and lead the target if necessary."/>
     <string id="TRwgSLD2" text="займалися збором лікарських трав."/>
     <string id="Ts5dZih4" text="You couldn't fully bring {.%}{REQUESTED_GOOD}{.%} to {?QUEST_GIVER.GENDER}her{?}him{\?} in time."/>
