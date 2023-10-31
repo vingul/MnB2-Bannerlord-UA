@@ -3812,7 +3812,7 @@
     <string id="sPEZq0Yk" text="What's sauce for the goose is sauce for the gander. We've done business for years like this and we're not just going to change things because one party complains."/>
     <string id="SpIn5pr4" text="After listening to the town merchants, you decided to keep the restrictions on the sale of goods. Your decision made the merchants happy but disappointed the {QUEST_GIVER.LINK}."/>
     <string id="spj8bYVo" text="Good! I'll mark the hideout for you on a map."/>
-    <string id="SpJqhEEh" text="Bards"/>
+    <string id="SpJqhEEh" text="Барди"/>
     <string id="sPmQz21k" text="Enemy"/>
     <string id="SPs04fam" text="{VALUE}% carry capacity for your party."/>
     <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} Needs Grain Seeds"/>
@@ -4129,7 +4129,7 @@
     <string id="UQhRKJb9" text="Ignore the charges"/>
     <string id="UQtXV3kf" text="Certainly, you have always been close to our family."/>
     <string id="UrFzdy4z" text="Daily Consumption"/>
-    <string id="URgZ4ai4" text="Ваша сім'я займала середнє положення в одному з хузаїтських кланів. Хоч у вашого батька і було кілька власних стад, але він не був багатим. Коли хузаїтська орда відправилась на битву, він бився в лавах кінних лучників, обстрілюючи стрілами і виснажуючи ворога, перш ніж списоносці завдавали останнього удару."/>
+    <string id="URgZ4ai4" text="Ваша сім'я займала середнє положення в одному з хузаїтських кланів. Хоч у вашого батька і було кілька власних стад, але він не був багатим. Коли хузаїтська орда відправлялась на битву, він бився в лавах кінних лучників, обстрілюючи стрілами і виснажуючи ворога, перш ніж списоносці завдавали останнього удару."/>
     <string id="urOywsiw" text="Castle garrison decided to sally out"/>
     <string id="urSSNtUD" text="{VALUE}% influence gain from donating troops."/>
     <string id="uRvym4tq" text="Chance of recovery from death due to old age for every clan member."/>
