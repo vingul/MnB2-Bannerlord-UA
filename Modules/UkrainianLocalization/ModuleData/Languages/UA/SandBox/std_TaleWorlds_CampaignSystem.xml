@@ -235,7 +235,7 @@
     <string id="2ryLuN2i" text="Seven Veterans"/>
     <string id="2Rzw16OX" text="If you can advance to win the tournament, I'm sure that will do us both honor."/>
     <string id="2s6cH2kE" text="Even the finest swordsman can perish if his lord is ignorant of the difference between necessary risks and reckless, unnecessary ones."/>
-    <string id="2SDWhGmQ" text="Your family numbered among the poor migrants living in the slums that grow up outside the walls of the river cities, making whatever money they could from a variety of odd jobs. Sometimes they did services for one of the region's many criminal gangs."/>
+    <string id="2SDWhGmQ" text="Ваша родина належала до числа бідних мігрантів, які жили в нетрях, що виростали за стінами річкових міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких було досить багато в тих місцях."/>
     <string id="2sQQh02s" text="{ATTRIBUTE1} and {ATTRIBUTE2} are increased by {NUMBER_AP}."/>
     <string id="2TptWc4m" text="Свита барона"/>
     <string id="2v0eQ755" text="Sorry, not interested."/>
@@ -1131,7 +1131,7 @@
     <string id="bjJs0eeB" text="My lord, I note that you have not yet taken a wife."/>
     <string id="BjLYCHMD" text="{VALUE} influence per day for every skill point above 200 charm skill."/>
     <string id="bjNuUqTx" text="With pleasure, {?PLAYER.GENDER}madam{?}sir{\?}. That will cost you {COST}{GOLD_ICON}."/>
-    <string id="bjVMtW3W" text="Your family were merchants who lived in one of Sturgia's great river ports, organizing the shipment of the north's bounty of furs, honey and other goods to faraway lands."/>
+    <string id="bjVMtW3W" text="Ваша родина була торговцями, що жили в одному з великих річкових портів Стургії. Вони організовували відправлення багатств півночі - хутра, меду та інших товарів - у далекі краї."/>
     <string id="BJxJwCc5" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. Any brigands would be most unwise to tangle with you."/>
     <string id="bJZJI867" text="Marriage"/>
     <string id="Bk62qb7O" text="Ironskull {FIRSTNAME}"/>
@@ -1854,7 +1854,7 @@
     <string id="fQaPv0Xl" text="I will be staying here for a few days. Let me know if you need my services."/>
     <string id="FQkHkMhw" text="Famous Commander"/>
     <string id="FqmS9wcP" text="{VALUE}% stamina spent while smithing."/>
-    <string id="FQntPChs" text="Your family were merchants in one of the main cities of the Empire. They sometimes organized caravans to nearby towns, and discussed issues in the town council."/>
+    <string id="FQntPChs" text="Ваша родина була торговцями в одному з головних міст Імперії. Іноді вони організовували каравани до сусідніх міст і обговорювали різноманітні питання в міській раді."/>
     <string id="FQppujVl" text="{VALUE}% damage when troops are sent to confront the attacking enemy in a field battle."/>
     <string id="fr4F4IQc" text="It's good to hear that, {PLAYER.NAME}. "/>
     <string id="Fr7wzk97" text="I am the rightful ruler of this land. I would like your support."/>
@@ -2263,7 +2263,7 @@
     <string id="inkr6Dzy" text="Too bad. Perhaps someone else will be able to get me the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} that I need."/>
     <string id="InLGoUbB" text="Market Dealer"/>
     <string id="INn1axcf" text="Ok captain, thank you."/>
-    <string id="InN5ZZt3" text="A landlord's retainers"/>
+    <string id="InN5ZZt3" text="Челядь поміщика"/>
     <string id="Instmiut" text="Your child is blessed with a strong and sonorous voice, making {?CHILD.GENDER}her{?}him{\?} seem older and wiser than {?CHILD.GENDER}her{?}his{\?} years."/>
     <string id="iny76Ifh" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}, I think they will be enough."/>
     <string id="IoaAvgRD" text="You know {NEW_LIEGE.LINK} have had our differences. You expect me to change sides for him?"/>
@@ -2465,7 +2465,7 @@
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
     <string id="JUSHAPnu" text="Ви були дуже прудким та пильно стежили за всім навколо. Зазвичай це давало вам можливість уникати будь-яких неприємностей, але ви також могли постояти за себе в бійці з іншими дітьми, якщо були загнані в кут."/>
     <string id="JuwBb2Yg" text="Disorganized"/>
-    <string id="Jvf6K7TZ" text="Your family numbered among the many poor migrants living in the slums that grow up outside the walls of imperial cities, making whatever money they could from a variety of odd jobs. Sometimes they did service for one of the Empire's many criminal gangs, and you had an early look at the dark side of life."/>
+    <string id="Jvf6K7TZ" text="Ваша родина належала до бідних мігрантів, які жили в нетрях, що виростали за стінами імперських міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких завжди було багато в Імперії, і ви рано познайомились з темною стороною життя."/>
     <string id="jWavM9AD" text="You've been around in the world. You know that mercenaries aren't saints."/>
     <string id="JwWnpD40" text="Crossbow accuracy: +{a0}%"/>
     <string id="JX13Wd65" text="managing the logistics of travel."/>
@@ -2830,7 +2830,7 @@
     <string id="mb25Ue3f" text="Grazing Rights"/>
     <string id="mbqoZ4WH" text="Virile"/>
     <string id="mc78FEbA" text="Соратники боярина"/>
-    <string id="Mcd3ZyKq" text="Your family had just enough land to feed themselves and make a small profit. People like them were the pillars of the kingdom's economy, as well as the backbone of the levy."/>
+    <string id="Mcd3ZyKq" text="Вашій сім'ї заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак, такі як вони були основою економіки королівства, а також складали кістяк її армії."/>
     <string id="McHsHbH8" text="Зайти в кузню"/>
     <string id="mcrjFxDQ" text="Collect revenue"/>
     <string id="MdjZ56VR" text="{?CHILD.GENDER}She{?}He{\?} sits on the saddle so comfortably, like {?CHILD.GENDER}she{?}he{\?} was born on it."/>
@@ -4066,7 +4066,7 @@
     <string id="ud6rhXbn" text="Mostiros"/>
     <string id="uDRb7FmU" text="{VALUE}% increased chance for sneaking into towns"/>
     <string id="UE2X5rAy" text="Trainer"/>
-    <string id="ueCm5y1C" text="Your family owned their own workshop in a city, making goods from raw materials brought in from the countryside. Your father played an active if minor role in the town council, and also served in the militia."/>
+    <string id="ueCm5y1C" text="Ваша сім'я мала власну майстерню в місті, де виготовляла товари із сировини з навколишніх сіл. Ваш батько відігравав активну, хоча й незначну роль у міській раді, а також служив у ополченні."/>
     <string id="UEn466Y6" text="You have successfully brought the troops {QUEST_GIVER.LINK} requested. You received {REWARD} gold in return for your service."/>
     <string id="ueUsg9OL" text="I can take your goods to {TARGET_HERO.LINK} in {TARGET_SETTLEMENT} myself."/>
     <string id="uEV6kKdU" text="You have collected all the supplies that the army commander requested. Return to army and deliver the supplies"/>
@@ -4470,7 +4470,7 @@
     <string id="wynCFpsT" text="This is a wise decision, my {?PLAYER.GENDER}lady{?}lord{\?}. Thank you."/>
     <string id="WyuIksRB" text="&quot;This weapon does not have the damage type I wanted. I'm cutting {AMOUNT}{GOLD_ICON} from the price.&quot;"/>
     <string id="WYvnWcXQ" text="Як і всі сільські діти, ви допомагали, працюючи в полі. Але ви також..."/>
-    <string id="WyZ2UtFF" text="Your family had no taste for the authority of the boyars. They made their living deep in the woods, slashing and burning fields which they tended for a year or two before moving on. They hunted and trapped fox, hare, ermine, and other fur-bearing animals."/>
+    <string id="WyZ2UtFF" text="Ваша родина не визнавала боярської влади. Вони самі добували собі прожиток глибоко в лісі, вирубуючи та випалюючи поля, які обробляли рік-два, а потім йшли далі. Вони полювали і ставили капкани на лисиць, зайців, горностаїв та інших хутрових звірів."/>
     <string id="WzBo28iT" text="{FIRSTNAME} the Scythe"/>
     <string id="WZbrxhYm" text="a flask of kefir"/>
     <string id="WzdhPF7M" text="Well, if we had some extra skilled labor, we could probably melt down old tools and reforge them. That's too much work for just our smith by himself, but maybe he could do it with someone proficient in crafting to help him."/>
@@ -4887,7 +4887,7 @@
     <string id="ZkkHPpT7" text="Your child excels at any task that requires {?CHILD.GENDER}her{?}him{\?} to use {?CHILD.GENDER}her{?}his{\?} hands."/>
     <string id="ZkVP4RYV" text="Yes, I've captured {?TARGET_HERO.GENDER}her{?}him{\?}."/>
     <string id="zky6r5Ax" text="{VALUE}% travel speed when the party morale is higher than 75."/>
-    <string id="ZKynvffv" text="Your family owned their own workshop in a city, making goods from raw materials brought in from the countryside. Your father played an active if minor role in the town council, and also served in the militia."/>
+    <string id="ZKynvffv" text="Ваша сім'я мала власну майстерню в місті, де виготовляла товари із сировини з навколишніх сіл. Ваш батько відігравав активну, хоча й незначну роль у міській раді, а також служив у ополченні."/>
     <string id="ZLbCqt23" text="Wounded troops in your party are no longer paid wages."/>
     <string id="zLdXCpne" text="Marketplace"/>
     <string id="zliqo1Y8" text="{?PLAYER.GENDER}Madam{?}Sir{\?}, I will pay double whatever {?QUEST_GIVER.GENDER}she{?}he{\?} promised to release me. Believe me, you don't want a reputation as {?QUEST_GIVER.GENDER}her{?}his{\?} kidnapper-for-hire."/>
