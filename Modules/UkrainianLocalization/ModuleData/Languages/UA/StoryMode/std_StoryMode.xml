@@ -87,7 +87,7 @@
     <string id="6vCHovVH" text="ви перемогли одного з грабіжників."/>
     <string id="6YhGGJ7a" text="Finally, you need a capital for your realm. It can be any settlement you own, so long as they do not speak the imperial tongue. I will not help you create another Empire."/>
     <string id="77TavbOY" text="You have completed all tutorials. You can always come back to improve your score."/>
-    <string id="7AYJ3SjK" text="Your family arranged for you to accompany a chieftain of your people. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
+    <string id="7AYJ3SjK" text="Ваша родина домовилася, щоб ви супроводжували вождя вашого народу. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
     <string id="7cHsIMLP" text="Ви ніколи не змогли б самостійно купити собі спорядження, але оскільки ви були достатньо хорошим вершником, місцевий лорд позичив вам коня і спорядження. Ви приєдналися до загону важкої кавалерії, тренуючись володіти лицарським списом."/>
     <string id="7eWmU2mF" text="Лісоруби"/>
     <string id="7FWF01bW" text="Refugees"/>
@@ -148,7 +148,7 @@
     <string id="aVzcyhhy" text="Ваш батько був бардом, який мандрував від однієї вождівської зали до іншої. Він заробляв на життя тим, що приходив до баттанського аристократа і оспівував його та водночас висміював його ворогів, а потім приходив до його ворогів і робив те ж саме, тільки змінював імена у своїх піснях на протилежні. Від нього ви навчилися, що добре підвішений язик і голова на плечах завжди можуть врятувати вас від важкої праці в полі."/>
     <string id="awgBkdXx" text="You should go back to the village menu and make your preparations to go after the raiders, then find out about the task that the headman has for you."/>
     <string id="AxKDQJ4G" text="You told {MENTOR.LINK} that you will create your own kingdom to defeat the Empire. You can do that by speaking to one of your governors once you fulfill the requirements. {?MENTOR.GENDER}She{?}He{\?} expects to talk to you once you succeed."/>
-    <string id="Ay0G3f7I" text="Your family arranged for you to be part of the staff of an imperial strategos. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
+    <string id="Ay0G3f7I" text="Ваша родина влаштувала вас на службу до імперського стратега. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
     <string id="ay1gPPsP" text="Find another piece of the banner for Arzagos"/>
     <string id="aY4zWYpg" text="You have have received an important message from {MENTOR.LINK}."/>
     <string id="aYozMy3Z" text="We lost because the Vlandians broke their oaths, and fought us when they should have fought with us. I was given command of the cataphracts, and we easily crushed their crossbowmen. Their knights gave us more trouble. Meanwhile, the Sturgian infantry came down and attacked our main force. That's where my father fell. "/>
@@ -194,7 +194,7 @@
     <string id="C79Xxm1b" text="Don't let your conscience bother you about letting me go, by the way. I won't get back into slaving. Burned too many bridges with my old colleagues, you might say. I'll find some other way to earn my keep - mercenary work, perhaps. Anyway, maybe our paths will cross again."/>
     <string id="cbF9jdQo" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли купити ділянку невикористаної землі на краю села. Ви очистили землю від каменів і вирили зрошувальну канаву, виростили кілька урожаїв, а потім продали його зі значним прибутком."/>
     <string id="ccf67J3J" text="Ви схопили лук і випустили кілька стріл у бік нападників. Вони сховалися в укриття, давши вам з братом можливість втекти."/>
-    <string id="cDWbwBwI" text="joined the kern."/>
+    <string id="cDWbwBwI" text="приєднались до керна."/>
     <string id="cEaXehHy" text="I was just checking on something. You can move along."/>
     <string id="cepWNzEA" text="Скочивши на двох коней, які залишилися в стайні, що вже була охоплена полум'ям, ви з братом вирвалися з оточення і помчали геть."/>
     <string id="CEqKkY3m" text="Defend from up."/>
@@ -268,7 +268,7 @@
     <string id="ez4rbGmx" text="Insults his most powerful vassal and then insults his most valued ally. A fine day's work, wouldn't you say? But he has grown wiser since, though no more pleasant to spend time with."/>
     <string id="F0ldgio8" text="Go back to training."/>
     <string id="F26iH45g" text="What happened? Have you assembled the banner?"/>
-    <string id="F2bgujPo" text="were a chieftain's servant."/>
+    <string id="F2bgujPo" text="були слугами вождя."/>
     <string id="f3NvtzpE" text="Conspiracy Quest Available"/>
     <string id="F7OO5SAa" text="Досягнувши юнацтва у Кальрадії, війна, звісно, не змогла пройти повз вас. Ви..."/>
     <string id="F7VxtCSd" text="This option is disabled during tutorial phase."/>
@@ -304,7 +304,7 @@
     <string id="GCbqpeDs" text="Tutorial is over. You are now free to explore Calradia."/>
     <string id="gdgbaMOP" text="I am not sure I share your views."/>
     <string id="GDNXavAl" text="There's nothing special about our Empire. Any one of these petty kings and khans and sultans could probably get lucky and conquer Calradia and do as good a job ruling it as we did. But the point is - we already did it. Our greatest crimes are in the past. Let us not undo what has already been done."/>
-    <string id="GeNKQlHR" text="Members of the chieftain's hearthguard"/>
+    <string id="GeNKQlHR" text="Особисті охоронці вождя"/>
     <string id="GEYzLuwb" text="товариськістю."/>
     <string id="GFUggps8" text="подорожували з обозом."/>
     <string id="GGfM1HKn" text="Welcome to MBII Bannerlord"/>
@@ -556,7 +556,7 @@
     <string id="rinefpgo" text="You have arrived at the village. You can buy some food and hire some men to help hunt for the raiders. First go into the village and talk to the headman."/>
     <string id="RJ9NbuYr" text="So you want me to raise the money to ransom the little ones?"/>
     <string id="RKVNvimC" text="пасли овець."/>
-    <string id="RmbWW6Bm" text="You were a big and imposing enough youth that the chief's guard allowed you to train alongside them, in preparation to join them some day."/>
+    <string id="RmbWW6Bm" text="Ви справили враження на варту вождя і вам дозволили тренуватися разом з ними, готуючись до того, щоб одного дня ви стали одним із них."/>
     <string id="rMem50oz" text="I have vowed that this Empire shall not survive this civil war, if I can do anything to stop it. And believe me, if I had that banner, there is very much something I could do."/>
     <string id="rmMcwSn8" text="Ви допомагали своїй родині вести справи, ходили на ринок за покупками та стежили за прибуттям караванів."/>
     <string id="rmyXSgy7" text="Firstly, your clan must be independent. You cannot be pledged to an existing realm."/>
@@ -616,7 +616,7 @@
     <string id="TRwgSLD2" text="займалися збором лікарських трав."/>
     <string id="tRzjuX0E" text="How can I support an existing imperial claimant?"/>
     <string id="tsjQtWsO" text="Thanks for saving me again. I hope our paths will cross again![ib:demure]"/>
-    <string id="tTb28jyU" text="Many Battanians fight as kern, versatile troops who could both harass the enemy line with their javelins or join in the final screaming charge once it weakened."/>
+    <string id="tTb28jyU" text="Багато баттанців воюють в складі керну, універсальної бойової одиниці, яка може як виснажити ворожу лінію дротиками, так і приєднатися згодом до фінальної атаки, кинувшись на ворога з несамовитим бойовим кличем."/>
     <string id="tTLvo8sM" text="Clan Tier"/>
     <string id="tVlZTOst" text="You have chosen a different path."/>
     <string id="tWwXEWh6" text="Use the portrait to talk and enter the mission."/>
@@ -756,7 +756,7 @@
     <string id="ZqOvtLBM" text="У метушні під час нападу ви вигукнули, що хтось знайшов коштовності у підсобці, після чого ви з братом змогли пробратись до виходу, за яким ніхто не дивився."/>
     <string id="zrpqSWSh" text="Вільні фермери"/>
     <string id="zRZd90cZ" text="I was there. I was just a young squire then."/>
-    <string id="zsC2t5Hb" text="trained with the hearth guard."/>
+    <string id="zsC2t5Hb" text="тренувалися з охоронцями вождя."/>
     <string id="zTYd6Qai" text="The Empire has been united under the {FACTION}!"/>
     <string id="zxMOqlhs" text="Attack"/>
     <string id="Zyn5FrTR" text="We'll keep that in mind."/>
