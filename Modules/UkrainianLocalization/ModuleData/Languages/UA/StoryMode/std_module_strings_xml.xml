@@ -14,12 +14,12 @@
     <string id="3hfKI636" text="Encyclopedia Clans"/>
     <string id="3nilwlcM" text="You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left."/>
     <string id="3r0HfDMk" text="Moving your party is done by hovering the indicator on the map and pressing {CONSOLE_ACTION_KEY}. This will leave a mark on the target location - unless you have hovered over an inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
-    <string id="3RqEmB15" text="Navigating Calradia"/>
+    <string id="3RqEmB15" text="Переміщення по Кальрадії"/>
     <string id="3Y5dudW9" text="Alda"/>
     <string id="3YkpC9Nf" text="You can filter Items through buttons at the top. Filter them to Misc."/>
     <string id="4JFfP1lt" text="Civilian Equipment"/>
     <string id="4kBdT24F" text="Nathanos"/>
-    <string id="58IKj85P" text="You can move your character:{newline}- Forwards with {FORWARD_KEY}{newline}- Backwards with {BACKWARDS_KEY}{newline}- Left with {LEFT_KEY}{newline}- Right with {RIGHT_KEY}{newline}{newline}Try them all now!"/>
+    <string id="58IKj85P" text="Ви можете переміщувати персонаж:{newline}- Вперед за допомогою {FORWARD_KEY}{newline}- Назад за допомогою {BACKWARDS_KEY}{newline}- Ліворуч за допомогою {LEFT_KEY}{newline}- Праворуч за допомогою {RIGHT_KEY}{newline}{newline}А тепер спробуйте їх усі!"/>
     <string id="5bYwdRFs" text="Two Handed Sword Training"/>
     <string id="5M48atXU" text="You have an active quest! You can learn more about it by clicking on the quest log on the lower left of your screen."/>
     <string id="5RSfkx7d" text="Gathering of your army may take some time."/>
@@ -37,7 +37,7 @@
     <string id="atWs6mkm" text="One Handed Sword and Shield Training"/>
     <string id="axnDLcDA" text="Talk to the headman"/>
     <string id="b1suRGVY" text="Troops that are ready to upgrade are marked with a special icon{UPGRADE_ICON}.{newline}{newline}The total number of upgradeable troops is shown inside the highlighted button, at the top right corner of the screen.{newline}{newline}Open the popup to upgrade some of your troops."/>
-    <string id="B5MNWr0J" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with {CONSOLE_MOVEMENT_KEY}, panning your view with {CONSOLE_CAMERA_KEY} and zooming in and out with {MAP_ZOOM_OUT_KEY} and {MAP_ZOOM_IN_KEY}.{newline}{newline}Give it a try."/>
+    <string id="B5MNWr0J" text="Ласкаво просимо до Кальрадії!{newline}{newline}Ви можете досліджувати карту світу, переміщуючи камеру з допомогою {CONSOLE_MOVEMENT_KEY}. Повертати камеру можна за допомогою {CONSOLE_CAMERA_KEY}, а збільшувати і зменшувати масштаб за допомогою {MAP_ZOOM_OUT_KEY} і {MAP_ZOOM_IN_KEY}.{newline}{newline}Спробуйте."/>
     <string id="B7WlM3CU" text="You should purchase supplies from the settlement menu on the left."/>
     <string id="bfIEbq8b" text="You can create an army by adding members from the list on the left. To finalize your choices, press &quot;Done&quot;."/>
     <string id="BfQrnvpC" text="Creating Army"/>
@@ -63,7 +63,7 @@
     <string id="eFv4yeJY" text="If you have at least 20 troops you'll have the option to draw up a strategy before every battle. You can assign heroes to be captains of formations, distribute your troops between formations and give preferences to which kinds of troops should be included in which formation, as well as some other options.{newline}{newline}Try assigning yourself as the captain of one of the formations by dragging your portrait at the center top to one of the formations' captain slots."/>
     <string id="elRQHiLR" text="Mounted Sword Training"/>
     <string id="EvAriC6s" text="Every character in Calradia has two equipment sets. Characters use their military set when they are expecting trouble. You can switch between their sets using the buttons over the character's model. Note that most of the armors and weapons are unusable while in civilian set because the civilian set is used when it is inappropriate or forbidden for your character to be heavily armed."/>
-    <string id="f6xYa3c4" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with {FORWARD_KEY}{BACKWARDS_KEY}{LEFT_KEY}{RIGHT_KEY}, panning your view by right clicking and dragging your mouse and zooming in and out with the mouse wheel.{newline}{newline}Give it a try."/>
+    <string id="f6xYa3c4" text="Ласкаво просимо до Кальрадії!{newline}{newline}Ви можете досліджувати карту світу, переміщуючи камеру клавішами {FORWARD_KEY}{BACKWARDS_KEY}{LEFT_KEY}{RIGHT_KEY}. Повертати камеру можна правою кнопкою миші, а збільшувати і зменшувати масштаб за допомогою коліщатка миші.{newline}{newline}Спробуйте."/>
     <string id="FCMKJLrh" text="You can tell your men to charge by opening the movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing charge with {THIRD_ORDER_CATEGORY_KEY}."/>
     <string id="fpdXZ0fl" text="Recruitment"/>
     <string id="GDPa0sQX" text="Tracking allows you to find the settlements on the world map. As long as the track button is active location selected settlements will be highlighted. You can click the point near the settlement text to disable tracking."/>
@@ -86,10 +86,10 @@
     <string id="jLWPSiOR" text="Speak to the Headman"/>
     <string id="JoYrhCGB" text="Trying to find something specific? Use filters on the left bar to narrow out the results."/>
     <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL})"/>
-    <string id="JXbP1ula" text="You can move your character with {CONSOLE_MOVEMENT_KEY}.{newline}{newline}Try moving in four direction now!"/>
+    <string id="JXbP1ula" text="Ви можете керувати переміщенням персонажу за допомогою {CONSOLE_MOVEMENT_KEY}.{newline}{newline}А тепер спробуйте пересуватися в усі чотири сторони!"/>
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill."/>
     <string id="KbpiRMnO" text="Click on the &quot;Visit&quot; button to start conversation."/>
-    <string id="KiJd6Xik" text="Movement"/>
+    <string id="KiJd6Xik" text="Переміщення"/>
     <string id="Kqt8RHh7" text="Smithy"/>
     <string id="KUEHAD4U" text="Quests"/>
     <string id="kwW6v202" text="Go to shooting position"/>
