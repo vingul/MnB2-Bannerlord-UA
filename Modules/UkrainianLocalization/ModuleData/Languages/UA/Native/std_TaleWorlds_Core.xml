@@ -17,7 +17,7 @@
     <string id="Bn7IsMpu" text="ІНТ"/>
     <string id="bVD9j0wI" text="Фізична підготовка, швидкість і баланс."/>
     <string id="Ch5NpCd0" text="Підвищена шкода дальнього бою"/>
-    <string id="controlskill" text="Контроль"/>
+    <string id="controlskill" text="{.m}Контроль{.R_n20_u}"/>
     <string id="d2ApwXJr" text="ВИТ"/>
     <string id="EGeY1gfs" text="Харизма"/>
     <string id="engineeringskill" text="Інженерія"/>
@@ -40,12 +40,12 @@
     <string id="iKmXX7i3" text="Майстерність у поводженні зі списом, пікою, палицею та іншою дерев'яною зброєю, як одноручною, так і дворучною."/>
     <string id="jJ9sLOLb" text="Сила відповідає за здатність здійснювати швидкі та потужні рухи. Важлива в ближньому бою."/>
     <string id="JKH59XNp" text="Медицина"/>
-    <string id="JZM1mQvb" text="Хитрість"/>
+    <string id="JZM1mQvb" text="{.f}Хитрість{.R_n30}"/>
     <string id="K8rCOQUZ" text="Витривалість - це здатність тривалий час виконувати виснажливі дії."/>
     <string id="kfdxjIad" text=", "/>
     <string id="klGEDUmw" text="Шкода, що завдається щитам воїнів вашого підрозділу: {BONUS_AMOUNT}%."/>
     <string id="kmBxaJZd" text="Знання того, як досліджувати дику місцевість на наявність життя. Ви можете йти по слідах, помічати рух у підліску, помічати ворога на іншому кінці долини за спалахом світла на вістрях списів або хмарі пилу."/>
-    <string id="kvOavzcs" text="Витривалість"/>
+    <string id="kvOavzcs" text="{.f}Витривалість{.R_n30}"/>
     <string id="labbKop6" text="Шкода від дальнього бою воїнам вашого підрозділу: {BONUS_AMOUNT}%."/>
     <string id="LJ6Krlbr" text="Розвідка"/>
     <string id="lsJMCkZy" text="Обізнаність про найпоширеніші товари на ринку і про ціни на них, а також здатність розпізнати неякісний товар або зрозуміти, що вас обрахували"/>
@@ -66,8 +66,8 @@
     <string id="q7NmR3AP" text="Штраф на бойовий дух воїнів вашого підрозділу при втратах: {BONUS_AMOUNT}%."/>
     <string id="skZS2UlW" text="Атлетика"/>
     <string id="smithingskill" text="Ковальство"/>
-    <string id="socialskill" text="Соціальність"/>
-    <string id="sOrJoxiC" text="Інтелект"/>
+    <string id="socialskill" text="{.f}Соціальність{.R_n30}"/>
+    <string id="sOrJoxiC" text="{.m}Інтелект{.R_n20_u}"/>
     <string id="stewardskill" text="Керування"/>
     <string id="t78atYqH" text="Дворучна зброя"/>
     <string id="T79exjaP" text="Знижено шкоду по щиту"/>
@@ -85,7 +85,7 @@
     <string id="xWbkjccP" text="Знання про те, як кувати метал, підганяти руків'я до леза, виточити жердину, виготовити кольчугу та інші навички, корисні при виготовленні зброї та обладунків"/>
     <string id="yEkSSqIm" text="Майстерність володіння одноручною зброєю, зі щитом або без."/>
     <string id="YO5LUfiO" text="Хитрість - це здатність передбачити дії інших людей і перехитрити їх."/>
-    <string id="YWkdD7Ki" text="Сила"/>
+    <string id="YWkdD7Ki" text="{.f}Сила{.R_n10}"/>
     <string id="Z2xgnrDa" text="Шкоди від зіткнення, яку отримують вершники вашого підрозділу: {BONUS_AMOUNT}%."/>
   </strings>
 </base>
