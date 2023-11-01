@@ -600,7 +600,7 @@
     <string id="7gZo2SY4" text="Carver"/>
     <string id="7h3wBoIt" text="Bloody {FIRSTNAME}"/>
     <string id="7H4HQNvF" text="Some of the families in this village need to raise a bit of money. They've put together a herd of {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} to sell in {TARGET_SETTLEMENT}, but with all the banditry on the roads, they can't drive it there on their own. We're not merchants or landowners. We can't afford any losses."/>
-    <string id="7h6cXdW7" text="Engineer"/>
+    <string id="7h6cXdW7" text="Інженер"/>
     <string id="7Hd5yW7B" text="{?CHILD.GENDER}She{?}He{\?} is at home in the wilderness. {?CHILD.GENDER}She{?}He{\?} moves like a cat, and has very keen ears and eyes."/>
     <string id="7HpfrmIU" text="On a second thought... Now is not the right time to do this."/>
     <string id="7Hv984Sf" text="в доках і на будівництвах."/>
@@ -1053,7 +1053,7 @@
     <string id="BaifRgT5" text="That's useful to know for when it comes time to discuss the exchange of dowries."/>
     <string id="BaKOWJb6" text="This hero is pregnant."/>
     <string id="basevalue" text="База"/>
-    <string id="baUFKAbd" text="One handed weapon damage: +{a0}%"/>
+    <string id="baUFKAbd" text="Шкода від одноручної зброї: +{a0} %"/>
     <string id="bAVZloaC" text="{ARMY} has been disbanded since dismissal is requested."/>
     <string id="BazrgEOj" text="Counterweight"/>
     <string id="bb1hS9I4" text="Dirty Fighting"/>
@@ -1771,7 +1771,7 @@
     <string id="F7OO5SAa" text="Досягнувши юнацтва у Кальрадії, війна, звісно, не змогла пройти повз вас. Ви..."/>
     <string id="f8R0Hkxa" text="{VALUE}% maneuvering."/>
     <string id="f91LSbdx" text="You cannot enter the keep while in disguise."/>
-    <string id="Fa2nKXxI" text="Governor"/>
+    <string id="Fa2nKXxI" text="Намісник"/>
     <string id="FA2QZc7Q" text="A courier arrives, bearing a message from {OFFERED_KINGDOM_LEADER.NAME}. {?OFFERED_KINGDOM_LEADER.GENDER}She{?}He{\?} is offering you a contract as a mercenary."/>
     <string id="FA5QlTvm" text="Fletcher"/>
     <string id="faa9sFfE" text="I do what I can to alleviate suffering in this world. I hope that is enough."/>
@@ -1955,7 +1955,7 @@
     <string id="ggGmjgIS" text="I think I can handle this myself."/>
     <string id="Ggjb9BVQ" text="Actually I prefer not to get involved in this kind of business personally but my men will help you out."/>
     <string id="ggKa4Bd8" text="Hmm... First thing to do after taking power is to work on your plan to remain in power."/>
-    <string id="ggpRTQQl" text="Party Leader"/>
+    <string id="ggpRTQQl" text="Лідер загону"/>
     <string id="GGTxzAtn" text="You have delivered {GRAIN_AMOUNT} units of grain to the villagers. They will be able to sow them before the coming winter. You have saved a lot of lives today. The Headman and the villagers are grateful."/>
     <string id="gGXelWQX" text="Issue owner power"/>
     <string id="GHbM1i6R" text="{QUEST_GIVER.LINK} needs {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} to speed up {?QUEST_GIVER.GENDER}her{?}his{\?} party."/>
@@ -2107,7 +2107,7 @@
     <string id="hJdHb0G7" text="{VALUE}% zoom with throwing weapons."/>
     <string id="hjOxidJj" text="The young {?CHILD.GENDER}woman{?}man{\?} will spend {?CHILD.GENDER}her{?}his{\?} time at a diplomatic mission, where {?CHILD.GENDER}she{?}he{\?} will have chance to interact with people from foreign lands."/>
     <string id="hjR0Jvh1" text="fighting mock battles."/>
-    <string id="hjxRvb9l" text="One handed weapon speed: +{a0}%"/>
+    <string id="hjxRvb9l" text="Швидкість одноручної зброї: +{a0}%"/>
     <string id="HK4pwetq" text="A few hours after the revenue collection started, a landlord came and told you that his retainers were getting mutinuous. He asked you for some money to pay them their back wages."/>
     <string id="HkbK8cqw" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s faction. Your agreement with {QUEST_GIVER.LINK} was terminated."/>
     <string id="hkG9ATZy" text="Self Promoter"/>
@@ -3405,7 +3405,7 @@
     <string id="QbKbGu2h" text="Sheep Farms"/>
     <string id="qBKmIyYx" text="Strong Arms"/>
     <string id="qbLkFkWr" text="Usually when there is work to be done this child is nowhere to be found. You've learned some of {?CHILD.GENDER}her{?}his{\?} hiding places, but {?CHILD.GENDER}she{?}he{\?} always seems to find more."/>
-    <string id="QBPrRdQJ" text="Surgeon"/>
+    <string id="QBPrRdQJ" text="Хірург"/>
     <string id="QbWK6sWo" text="{VALUE} Archery skill to troops in your formation."/>
     <string id="QbwNmxrn" text="You told {?CHILD.GENDER}her{?}him{\?} that skill and brains are all very well, but in many situations there is no substitute for sheer brute might."/>
     <string id="qBx8UbUt" text="Arenicos' Mules"/>
@@ -3599,7 +3599,7 @@
     <string id="Rd3m5kyk" text="You have attacked the caravan."/>
     <string id="RdbLbpgO" text="Castle upgrade costs are reduced by 20%"/>
     <string id="RDfXuVxT" text="Дрібні землевласники"/>
-    <string id="redwEIlW" text="Quartermaster"/>
+    <string id="redwEIlW" text="Інтендант"/>
     <string id="REWGj2ge" text="a rising new clan"/>
     <string id="REZyGJGH" text="{VALUE} daily prosperity while building a project in the governed settlement."/>
     <string id="rFbAjSWM" text="Gorigos"/>
@@ -4159,7 +4159,7 @@
     <string id="UwPs3wmj" text="My liege {NEW_LIEGE.NAME} would welcome your support. Join us!"/>
     <string id="UWzQsHA2" text="{SETTLEMENT_LINK} is governed by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="Ux90sIph" text="{VALUE}% experience gain to garrisoned cavalry in the governed settlement."/>
-    <string id="UxAl9iyi" text="Personal"/>
+    <string id="UxAl9iyi" text="Особ."/>
     <string id="UXCjNTjF" text="Hurry up. I don't have that much time."/>
     <string id="UYdvhdDl" text="When cargo went missing, the young {?CHILD.GENDER}woman{?}man{\?} made the inquiries at the local black market that were necessary to get it back."/>
     <string id="UYhJZya5" text="{VALUE} daily experience to all troops in your party."/>
