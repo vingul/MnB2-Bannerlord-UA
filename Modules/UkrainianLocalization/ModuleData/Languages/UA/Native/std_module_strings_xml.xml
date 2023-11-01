@@ -59,7 +59,7 @@
     <string id="1Zq8mzzJ" text="Well now. Let's see what sort of fly has stumbled into our web.[rf:convo_mocking_revenge]"/>
     <string id="21t7Ev03" text="You can not perform this action while you are imprisoned."/>
     <string id="22a9fyiQ" text="Father"/>
-    <string id="22FUKSQb" text="Отримайте {REQUIRED_XP_FOR_NEXT_LEVEL} {#GET_PLURAL_VALUE(REQUIRED_XP_FOR_NEXT_LEVEL)}очко{#}очки{#}очків{\#}&#10; досвіду, використовуючи це вміння, щоб підняти його рівень"/>
+    <string id="22FUKSQb" text="Отримайте ще {REQUIRED_XP_FOR_NEXT_LEVEL} од, використовуючи це вміння, щоб підняти його рівень"/>
     <string id="22tbyEYI" text="You received {COUNT} {ITEM} from {PARTY_NAME}."/>
     <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions."/>
     <string id="25MeMNbP" text="Right"/>
@@ -161,7 +161,7 @@
     <string id="5DBDy2si" text="You trapped enemies."/>
     <string id="5DSafcSC" text="Konane"/>
     <string id="5eH0lCEO" text="Disable Current Tutorial Step"/>
-    <string id="5H0cDmm1" text="Отримайте {SKILL_LEVEL_FOR_LEVEL_UP} {#GET_PLURAL_VALUE(SKILL_LEVEL_FOR_LEVEL_UP)}очко{#}очки{#}очків{\#} умінь, щоб підняти рівень персонажу.&#10;"/>
+    <string id="5H0cDmm1" text="Отримайте ще {SKILL_LEVEL_FOR_LEVEL_UP} {#GET_PLURAL_VALUE(SKILL_LEVEL_FOR_LEVEL_UP)}очко{#}очки{#}очків{\#} умінь, щоб підняти рівень персонажу.&#10;"/>
     <string id="5IOct2ob" text="Order Requirement"/>
     <string id="5jVYwNCQ" text="Unpaid Wages"/>
     <string id="5k4dxUEJ" text="Воїни"/>
