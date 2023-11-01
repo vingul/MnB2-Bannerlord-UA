@@ -363,7 +363,7 @@
     <string id="anSH3M5W" text="{NUM1} x {NUM2}"/>
     <string id="aOvxxLZ8" text="Food Variety"/>
     <string id="ap1wEfdW" text="V"/>
-    <string id="Aph8CcKO" text="Доступні очки характеристик: ви можете використовувати ці очки для збільшення характеристик. Ви отримуєте по очку характеристик {#GET_PLURAL_VALUE(ATTRIBUTE_EVERY_LEVEL)}кожен рівень{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівні{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівнів{\#} "/>
+    <string id="Aph8CcKO" text="Доступні очки характеристик.{newline}Ви можете використовувати ці очки для збільшення характеристик. Ви отримуєте по очку характеристик {#GET_PLURAL_VALUE(ATTRIBUTE_EVERY_LEVEL)}кожен рівень{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівні{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівнів{\#} "/>
     <string id="aqCj9dhC" text="There is no need to stay on the defense. Siege their settlements!"/>
     <string id="AqHr4nRR" text="fourth"/>
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
@@ -551,7 +551,7 @@
     <string id="D2KdSGGJ" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside. Usually when you approach an enemy city the roads are deserted. This time, however, you pass some onlookers, and even hear the occasional cheer. You suspect that few among the population are loyal to the {FACTION_INFORMAL_NAME}, and that the militia is unlikely to take up arms in the city's defense."/>
     <string id="d4n8AuUh" text="Friendly troops are fleeing. You've lost the battle."/>
     <string id="D5QlXOV0" text="Critical Fail and Fail Whole Persuasion Chance"/>
-    <string id="d68pZq4j" text="Required Skill Level"/>
+    <string id="d68pZq4j" text="Необхідний рівень уміння"/>
     <string id="D7KllIPI" text="Issues"/>
     <string id="D7ooUTqV" text="You are down!"/>
     <string id="D8Wjbw9K" text="I got captured, but later managed to escape"/>
@@ -563,7 +563,7 @@
     <string id="dc24lBcV" text="Melee Weapons IV"/>
     <string id="dcV0iOYB" text="Gather your troops and prepare for battle!"/>
     <string id="dd7Owiys" text="Make Peace with {FACTION}"/>
-    <string id="DdXZHifm" text="Підвищуючи {ATTRIBUTE_NAME}{.v_zna} ви полегшуєте підняття умінь, які зв'язані з цією характеристикою і підвищуєте ліміт їх вивчення."/>
+    <string id="DdXZHifm" text="Підвищуючи {ATTRIBUTE_NAME}{.v_zna} ви полегшуєте підняття умінь, які пов'язані з цією характеристикою і підвищуєте ліміт їх вивчення."/>
     <string id="debCJDAZ" text="You can not perform this action while you are in an encounter"/>
     <string id="depxBZNO" text="Leadership Skill Level Bonus"/>
     <string id="dgaf7Jpb" text="Setup"/>
@@ -730,7 +730,7 @@
     <string id="fRu5Y4OT" text="I was wounded and left for dead"/>
     <string id="FRuzuVyO" text="No Clan Selected"/>
     <string id="FRZfpryn" text="Bring forward the proposal to give this settlement to someone else"/>
-    <string id="FS78CuPs" text="Уміння, пов'язані з характеристикою «{ATTRIBUTE_NAME}»:"/>
+    <string id="FS78CuPs" text="Уміння, які пов'язані з {ATTRIBUTE_NAME}{.v_oru}:"/>
     <string id="FSl1LFP6" text="{CLAN} has gained {AMOUNT_TO_ADD} renown. New renown is {NEW_RENOWN}."/>
     <string id="fTyJB9wd" text="twenty-fourth"/>
     <string id="fUNa6FAo" text="During battles, holding down {MISSION_INDICATORS_KEY} shows markers on enemy and allied formations."/>
@@ -1161,7 +1161,7 @@
     <string id="MPZ40lEk" text="Naming Newborn"/>
     <string id="MqCH7R4A" text="Security"/>
     <string id="MqsWixDp" text="Retreat!"/>
-    <string id="MRktqZwu" text="Skill Focus"/>
+    <string id="MRktqZwu" text="Очки фокусу"/>
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender."/>
     <string id="MT4b8H9h" text="Unknown"/>
     <string id="mTTWkewD" text="Give"/>
