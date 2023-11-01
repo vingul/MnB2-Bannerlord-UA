@@ -218,12 +218,12 @@
     <string id="7aYV4L9z" text="+{NUMBER}"/>
     <string id="7b60SOvI" text="On {DAY_OF_YEAR}, {YEAR}, {KING_NAME} was crowned as {TITLE_NAME}."/>
     <string id="7chepLLh" text="Destroy siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
-    <string id="7cMUohRm" text="Command simulated battles. Win battles at difficult odds. Escape from encounters by sacrificing troops if necessary."/>
+    <string id="7cMUohRm" text="Керуйте відтвореними битвами. Вигравайте битви проти домінуючих сил противника. Уникайте зіткнень, навіть жертвуючи військами, якщо цього вимагає ситуація."/>
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
     <string id="7EnFh9e5" text="Location: {LOCATION}"/>
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing sparsely."/>
     <string id="7fjOwwVH" text="Sure, I'll give you a tip. I spoke to some traders who say they just bought some {.%}{ITEM_NAME}{.%} from {SETTLEMENT} at a price of {BUY_COST}{GOLD_ICON} and sold at {DESTINATION} for {SELL_COST}{GOLD_ICON}."/>
-    <string id="7h6cXdW7" text="Engineer"/>
+    <string id="7h6cXdW7" text="Інженер"/>
     <string id="7hj7Kaoz" text="Total Income"/>
     <string id="7IqpjCDY" text="Executing a prisoner will negatively affect your reputation and will decrease your relation with the prisoner's faction/clan.{newline}You will not be able to undo this action.{newline}Are you sure you want to execute this character?"/>
     <string id="7JpAR59k" text="Used for carrying goods"/>
@@ -304,7 +304,7 @@
     <string id="a10WGnBr" text="FOUL! No fighting outside of the joust. You have been disqualified!"/>
     <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are fighting enemy inside the walls."/>
     <string id="A38xbjqm" text="Engage"/>
-    <string id="a3hmB91k" text="Build and operate siege engines. Successfully use engines in sieges offensively or defensively."/>
+    <string id="a3hmB91k" text="Будуйте та використовуйте облогові знаряддя. Успішно використовуйте їх при нападі та обороні."/>
     <string id="A3T5z4Mv" text="Defensive"/>
     <string id="a3uKkLez" text="{LORD.LINK} is in the field nearby {SETTLEMENT_NAME}"/>
     <string id="a47CpGXN" text="Power Levels"/>
@@ -347,8 +347,8 @@
     <string id="AIh1Ik4A" text="Calradian Empire"/>
     <string id="aIkffnN6" text="Characters"/>
     <string id="aiX4b5kS" text="Completed Quests"/>
-    <string id="AIYWSAyK" text="Make profit from trading. Operate caravans."/>
-    <string id="aJoNj6JX" text="Fight with a two handed short weapon."/>
+    <string id="AIYWSAyK" text="Отримуйте прибуток від торгівлі. Відправляйте каравани."/>
+    <string id="aJoNj6JX" text="Бийтеся дворучною короткою зброєю."/>
     <string id="aJXhsjmT" text="Greetings, traveller. Unless you wish your bones to be left in the sand to be gnawed upon by jackals, give us what we want."/>
     <string id="ajZTZoXQ" text="Two Handed Mace"/>
     <string id="AkgIYqHT" text="sultana"/>
@@ -467,7 +467,7 @@
     <string id="bPXvukDs" text="Moving and Capturing"/>
     <string id="bPzyoTEF" text="You'll regret that answer.[ib:aggressive][if:convo_insulted]"/>
     <string id="BQDrheU6" text="Cloth{@Plural}loads of cloth{\@}"/>
-    <string id="brQ42NE5" text="How to learn"/>
+    <string id="brQ42NE5" text="Як покращити уміння"/>
     <string id="bsabIdYm" text="Two Handed Axe"/>
     <string id="BsdOl4He" text="FOUL! Your opponent hit your horse. {?OPPONENT_GENDER}He{?}She{\?} has been disqualified!"/>
     <string id="BSmAtdWF" text="Lift the siege!"/>
@@ -521,7 +521,7 @@
     <string id="ChmM5tjf" text="The game is a draw!"/>
     <string id="cJmI2poS" text="Info"/>
     <string id="cjZqTaHm" text="You don't have enough influence."/>
-    <string id="CKGavOyA" text="Fight with a spear or similiar polearm, either one-handed or two handed."/>
+    <string id="CKGavOyA" text="Бийтеся списом або подібною одноручною чи дворучною древковою зброєю."/>
     <string id="cKKYSB0z" text="You have lost {AMOUNT}{GOLD_ICON}."/>
     <string id="ckPhG1KV" text="Bound village(s)"/>
     <string id="CkwERBcS" text="Skirmish behind ally formation."/>
@@ -634,7 +634,7 @@
     <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} умінь&#10; до {SKILL_NAME}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
     <string id="enhza8zr" text="Фракція"/>
-    <string id="eNQgzubm" text="Fight on foot. Move on map on foot."/>
+    <string id="eNQgzubm" text="Бийтеся в пішому порядку. Пересувайтеся по карті пішки."/>
     <string id="entirestackdiscarditems" text="Hold [{KEY_NAME}] to do all"/>
     <string id="entirestackrecruitunits" text="Hold [{KEY_NAME}] to do all"/>
     <string id="entirestacktakeitems" text="Hold [{KEY_NAME}] to do all"/>
@@ -681,13 +681,13 @@
     <string id="F4RMyaR5" text="Ви зіткнулись з {._}{PARTY}{.v_oru}."/>
     <string id="F5UPr9jh" text="Take All"/>
     <string id="F6GhrriD" text="Create Kingdom"/>
-    <string id="f6gSyvnC" text="Shoot enemies with a bow and arrows. Perform difficult shots from a long distance."/>
+    <string id="f6gSyvnC" text="Стріляйте у ворогів з лука. Виконуйте складні постріли з великої відстані."/>
     <string id="f6pjlKdz" text="Yesterday"/>
     <string id="f7t4saJu" text="Value"/>
     <string id="f7vOVQb7" text="Summer"/>
     <string id="F8g1TzoX" text="You are outside {SETTLEMENT_NAME}. You see the banner of {LORD.LINK} flying over the castle gate."/>
     <string id="Fa16r8MN" text="Execute Prisoner"/>
-    <string id="Fa2nKXxI" text="Governor"/>
+    <string id="Fa2nKXxI" text="Намісник"/>
     <string id="fAEvWw8z" text="The defenders have pulled back and are mounting a last stand inside the keep."/>
     <string id="fApjg2ae" text="the Aserai"/>
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are moving into missile range."/>
@@ -775,7 +775,7 @@
     <string id="gfQmYDRq" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you."/>
     <string id="gFtu0j4T" text="Arrows"/>
     <string id="ggMmjk31" text="Invalid"/>
-    <string id="ggpRTQQl" text="Party Leader"/>
+    <string id="ggpRTQQl" text="Лідер загону"/>
     <string id="ggrqoGnE" text="Spend {AMOUNT}"/>
     <string id="ggzCiYkk" text="{VALUE}{GOLD_ICON} is needed for upgrade."/>
     <string id="GHdrCWpF" text="Press {CONSOLE_KEY_NAME} to close"/>
@@ -828,7 +828,7 @@
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
     <string id="HD2wzAxz" text="Стургійці - нащадки чужоземних племен північної Кальрадії. Коли Імперія захопила їхні холодні ліси, у них з'явився ринок збуту розкішного хутра тварин, на яких вони здавна полювали. Стургійські полководці стали князями і почали боротися за владу за допомогою найманців з півночі, які переселялися в їхні володіння. Стургійці - витривалі мандрівники й мисливці, які звикли подорожувати на далекі відстані як заради торгівлі, так і заради грабежу."/>
     <string id="hDktLs4a" text="You have acted wisely and with respect. You may go."/>
-    <string id="HdTVkcII" text="Improve relations with people. Socialize with nobles. Do Barters."/>
+    <string id="HdTVkcII" text="Покращуйте стосунки з людьми. Спілкуйтеся з вельможами. Робіть обмін."/>
     <string id="hdyQFP2Z" text="You've been killed by a stray {MOUNT_NAME}!"/>
     <string id="hE4XvvXv" text="Sort by:"/>
     <string id="HEQ2zEei" text="Відмінити"/>
@@ -862,7 +862,7 @@
     <string id="husbandfatherinlaw" text="father-in-law"/>
     <string id="husbandmotherinlaw" text="mother-in-law"/>
     <string id="husbandsisterinlaw" text="sister-in-law"/>
-    <string id="hVmamTJX" text="Gain party morale from food variety (Quartermaster). Improve settlement prosperity and build projects (Governor)."/>
+    <string id="hVmamTJX" text="Підвищуйте бойовий дух загону за рахунок різноманітності їжі (Інтендант). Покращуйте процвітання поселення та зводьте будівлі (Намісник)."/>
     <string id="Hvw3uSNN" text="{PRISONER.NAME} has been freed after {?PRISONER.GENDER}her{?}his{\?} captors were defeated in battle."/>
     <string id="hVZo7xdk" text="Castles"/>
     <string id="Hx47TGrA" text="Hard"/>
@@ -882,7 +882,7 @@
     <string id="I8xMpWxO" text="Daring"/>
     <string id="IagYTD5O" text="Prosperity"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
-    <string id="IbkODMHV" text="Spot tracks and hideouts. Travel through difficult terrain. (Scout)"/>
+    <string id="IbkODMHV" text="Знаходьте сліди та схованки. Подорожуйте по складній місцевості. (Розвідник)"/>
     <string id="iBZc9RbE" text="Let's wait for everyone."/>
     <string id="IcgVKFxZ" text="Ruler"/>
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the castle walls."/>
@@ -956,7 +956,7 @@
     <string id="jCbYaCcg" text="Well met {PLAYER.LINK}. I am {CONVERSATION_CHARACTER.LINK}. Thanks for your help and I hope we meet again."/>
     <string id="Jd0Kq9lD" text="Shield"/>
     <string id="jd4ULLGr" text="Active Quests"/>
-    <string id="JdNTRtpJ" text="Maintain high morale in your party. Assemble and lead armies. Upgrade your troops."/>
+    <string id="JdNTRtpJ" text="Підтримуйте високий бойовий дух свого загону. Збирайте та очолюйте армії. Покращуйте своїх воїнів."/>
     <string id="Jelvod71" text="Capturing"/>
     <string id="jfIbp2Hg" text="Follow Up: "/>
     <string id="JflqTj4T" text="Misc."/>
@@ -1257,7 +1257,7 @@
     <string id="OCGaTxac" text="Tournament Prize"/>
     <string id="OdFPHvtE" text="Rebels are attacking this settlement. Do you want to interfere?"/>
     <string id="ODQmOrIw" text="Титри"/>
-    <string id="OEax2Y9c" text="Raid caravans. Recruit and lead bandit troops. Infiltrate enemy towns. Give bribes. Escape from captivity."/>
+    <string id="OEax2Y9c" text="Грабуйте каравани. Набирайте та очолюйте бандитські загони. Проникайте у ворожі міста. Давайте хабарі. Втікайте з полону."/>
     <string id="oGflu1jV" text="Use murder hole"/>
     <string id="OGjq7rpg" text="We are taking our products to the market at {TOWN}."/>
     <string id="ogtgc69b" text="You have been awarded the right to carry a banner. Your banner will signify your status and bring you honour. Which banner do you want to choose?"/>
@@ -1297,7 +1297,7 @@
     <string id="OxiaKT0G" text="Sturgian"/>
     <string id="oYUAuLO7" text="You have sworn not to attack."/>
     <string id="OzazmGBi" text="the Khuzaits"/>
-    <string id="ozYRUrum" text=" Help wounded soldiers heal in settlements."/>
+    <string id="ozYRUrum" text="Допомагайте пораненим солдатам зцілюватися в поселеннях."/>
     <string id="P1VmnfsB" text="Споруда «{BUILDING_NAME}» в {SETTLEMENT_NAME}{.v_dav} отримала новий рівень."/>
     <string id="P2CRzfV7" text="Shops in Settlement"/>
     <string id="p2WBSIa7" text="Cohesion:"/>
@@ -1384,7 +1384,7 @@
     <string id="QAv3upYr" text="Cloak"/>
     <string id="qb31gnpr" text="Clan Leader Bonus"/>
     <string id="QBbBahLv" text="You have our permission to proceed with your journey."/>
-    <string id="QBPrRdQJ" text="Surgeon"/>
+    <string id="QBPrRdQJ" text="Хірург"/>
     <string id="qC4OsBt1" text="Villages (Under Siege)"/>
     <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}days{?}day{\?}"/>
     <string id="QE1XRyUP" text="+{BONUS_AMOUNT}% bonus to siege engine production speed"/>
@@ -1454,7 +1454,7 @@
     <string id="rDnWQL87" text="Show/Hide Scabbard"/>
     <string id="RdsbyNE2" text="Consider making peace, paying {TRIBUTE} tribute/day. (Support: {SUPPORT}%)"/>
     <string id="REdb7vbQ" text="{?RULER.GENDER}Sultana{?}Sultan{\?} {RULER.NAME}"/>
-    <string id="redwEIlW" text="Quartermaster"/>
+    <string id="redwEIlW" text="Інтендант"/>
     <string id="rFvEZJu7" text="{ITEM_NAME} has been added to {PLAYER.LINK}'s inventory."/>
     <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to help defend the settlement from attackers."/>
     <string id="RGqPxabq" text="Power"/>
@@ -1494,7 +1494,7 @@
     <string id="s9oED1IR" text="Skirmisher"/>
     <string id="S9tmCkHz" text="This hero is clearing a common area."/>
     <string id="sa2TQu1G" text="This hero is busy with an issue or a quest."/>
-    <string id="SBp4Ja1u" text="Ви можете використовувати очки фокусу, щоб збільшити ліміт вивчення окремих умінь. Персонажі отримують {FOCUS_PER_LEVEL} {#GET_PLURAL_VALUE(FOCUS_PER_LEVEL)}очко{#}очки{#}очків{\#} фокусу при кожному підвищенні рівня."/>
+    <string id="SBp4Ja1u" text="Доступні очки фокусу.{newline}Ви можете використовувати ці очки, щоб збільшити ліміт вивчення окремих умінь. Персонажі отримують {FOCUS_PER_LEVEL} {#GET_PLURAL_VALUE(FOCUS_PER_LEVEL)}очко{#}очки{#}очків{\#} фокусу при кожному підвищенні рівня."/>
     <string id="SCAehHN6" text="son"/>
     <string id="SdcpdfaV" text="Hey - you. What you got in your bags? What are you carrying?[if:convo_bared_teeth]"/>
     <string id="SdXS4lxN" text="Faction Leader Bonus"/>
@@ -1540,7 +1540,7 @@
     <string id="szSjkkyl" text="We should choose our next object."/>
     <string id="T0aULilA" text="&lt;b&gt;Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than just ladders"/>
     <string id="t1hYTrMR" text="On {DAY_OF_YEAR}, {YEAR}, a realm fell. The {FORMAL_NAME} is no more."/>
-    <string id="T3JJ7aIV" text="Ride on the map with as much speed as possible. Fight on horseback gaining speed bonus."/>
+    <string id="T3JJ7aIV" text="Скачіть по карті з якомога більшою швидкістю. Бийтеся на коні, отримуючи бонус до швидкості."/>
     <string id="t3tq0eoW" text="Parties"/>
     <string id="T592iYI4" text="You roll a {DICE_ROLL}."/>
     <string id="T5VsEnNE" text="Men Count"/>
@@ -1572,7 +1572,7 @@
     <string id="TlvM7kuQ" text="eighteenth"/>
     <string id="tMg5AF19" text="Can't access quests right now!"/>
     <string id="TmKbTxQy" text="khatun"/>
-    <string id="TNLRC4Gf" text="Fight with a one handed short weapon."/>
+    <string id="TNLRC4Gf" text="Бийтеся одноручною короткою зброєю."/>
     <string id="tnZ7BfO9" text="Peace Proposal"/>
     <string id="toK51MD4" text="Visit"/>
     <string id="toQLHG6x" text="Valor"/>
@@ -1630,7 +1630,7 @@
     <string id="uhcIXeba" text="You are discarding items. Are you sure?"/>
     <string id="UI0q8rWw" text="Livestock"/>
     <string id="uinDitbl" text="We must breach the walls."/>
-    <string id="UIqPXN62" text="Strike enemies with thrown weapons."/>
+    <string id="UIqPXN62" text="Вражайте ворогів метальною зброєю."/>
     <string id="UJ01br0b" text="This hero does not have required {SKILL} skill to complete this order."/>
     <string id="UjL7jVYF" text="Morale"/>
     <string id="um1Z5swc" text="the lady {REFERING_HERO.LINK}"/>
@@ -1652,7 +1652,7 @@
     <string id="uvjOVy5P" text="Dead"/>
     <string id="uwPByaQg" text="Begin Assault"/>
     <string id="UX7reJ3K" text="We must rush to defend our siege machines lest the enemy destroy them."/>
-    <string id="UxAl9iyi" text="Personal"/>
+    <string id="UxAl9iyi" text="Особ."/>
     <string id="UxD6lPXa" text="You have gained {INFLUENCE} influence. New influence is {NEW_INFLUENCE}."/>
     <string id="UxyIkWah" text="Mercenaries cannot annex settlements."/>
     <string id="uYFd4meY" text="Quest Given By"/>
@@ -1696,7 +1696,7 @@
     <string id="vpx7Pa7v" text="Offer"/>
     <string id="VPYazFVH" text="Thrust Speed: "/>
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} increase to settlement loyalty"/>
-    <string id="VqpmXU1m" text="Shoot enemies with a crossbow."/>
+    <string id="VqpmXU1m" text="Стріляйте у ворогів з арбалета."/>
     <string id="Vqu67a3b" text="Raw Silk{@Plural}bolts of silk{\@}"/>
     <string id="VRdy76RQ" text="Skirmish"/>
     <string id="vSr60kDj" text="On {DAY_OF_YEAR}, {YEAR}, a child was born to {MOTHER_NAME}."/>
@@ -1719,7 +1719,7 @@
     <string id="W2WXkiAh" text="Ransom Broker"/>
     <string id="w3v2S03V" text="Your relation with {HERO_NAME} will &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;increase&lt;/b&gt;&lt;/a&gt;"/>
     <string id="W4iKIM2s" text="Small Shield"/>
-    <string id="W5gPypVY" text="Use smithy to create weapons, refine materials and smelt old weapons."/>
+    <string id="W5gPypVY" text="Використовуйте кузню, щоб створювати зброю, очищайте матеріали та переплавляйте стару зброю."/>
     <string id="w758X31N" text="Item"/>
     <string id="w9beDbTI" text="Toggle Camera Mode"/>
     <string id="w9C43LhX" text="Do you want to resolve {DECISION_NAME} decision?"/>
