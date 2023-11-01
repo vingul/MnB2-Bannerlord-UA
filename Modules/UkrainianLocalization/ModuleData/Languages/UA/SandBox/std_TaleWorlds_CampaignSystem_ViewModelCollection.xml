@@ -233,7 +233,7 @@
     <string id="iZ3w6opW" text="Cohesion"/>
     <string id="j12VrGKz" text="Army"/>
     <string id="J2gvnexb" text="Afternoon"/>
-    <string id="j3iwQmoA" text="Current focus amount: {CURRENT_AMOUNT}"/>
+    <string id="j3iwQmoA" text="Поточна кількість очок фокусу: {CURRENT_AMOUNT}"/>
     <string id="j4BdjLYp" text="Start a conversation with this clan member."/>
     <string id="j4F7tTzy" text="Clan"/>
     <string id="J5u0uOKc" text="Running from {TARGET_PARTY} to settlement."/>
@@ -260,7 +260,7 @@
     <string id="kQsXUvgO" text="You are not under a kingdom."/>
     <string id="KTKBKmvp" text="Thrust Damage Factor "/>
     <string id="KTTyBbsp" text="Max HP"/>
-    <string id="kWVbHPtT" text="Total"/>
+    <string id="kWVbHPtT" text="Всього"/>
     <string id="kx7q8ybD" text="Arm Armor"/>
     <string id="KxLoeSEO" text="Regrouping"/>
     <string id="laznt9ZK" text="Settlement Food Change"/>
@@ -358,7 +358,7 @@
     <string id="PXT6aA4J" text="Campaign Options"/>
     <string id="Q0j1umAt" text="Requirement: {REQUIREMENT_NAME}"/>
     <string id="q1DVNQS7" text="Under Attack! ({RESPONSE_TIME} {?RESPONSE_TIME&gt;1}days{?}day{\?} left.)"/>
-    <string id="q1J4a8rr" text="Learning Rate"/>
+    <string id="q1J4a8rr" text="Швидкість вивчення"/>
     <string id="Q1KwpZYu" text="Weapon usage does not match requirements"/>
     <string id="Q8dhryRX" text="Parties' Food"/>
     <string id="qaQqAYGc" text="Moving to {LEADER.NAME}{.o} Party"/>
@@ -414,7 +414,7 @@
     <string id="SDhQWonF" text="Paying {DENAR}{GOLD_ICON} as tribute per day."/>
     <string id="SFB2uYHa" text="Alley leader is traveling to the alley. ({LEFT_TIME} {?LEFT_TIME&gt;1}hours{?}hour{\?} left.)"/>
     <string id="sffGeQ1g" text="Gift"/>
-    <string id="sFiU3Ss2" text="Click to Reset Camera"/>
+    <string id="sFiU3Ss2" text="Клацніть, щоб скинути поворот камери"/>
     <string id="shL0WElC" text="{TROOP.NAME}{.o} Party"/>
     <string id="SixPXaNh" text="Very Poor"/>
     <string id="SK8G9QpE" text="Upgrd. Cost"/>
