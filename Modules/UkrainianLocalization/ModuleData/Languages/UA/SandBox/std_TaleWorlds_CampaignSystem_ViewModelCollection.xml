@@ -64,7 +64,7 @@
     <string id="8N1EdPB3" text="You will earn {GOLD}{GOLD_ICON}"/>
     <string id="8OkPHu4f" text="No"/>
     <string id="8szijlHj" text="Order Difficulty: {DIFFICULTY}"/>
-    <string id="92M0Pb5T" text="Scout"/>
+    <string id="92M0Pb5T" text="Розвідник"/>
     <string id="94aHU6nD" text="Construction"/>
     <string id="9FJi2SaE" text="Роль в загоні"/>
     <string id="9huJZblF" text="Last Run"/>
@@ -460,7 +460,7 @@
     <string id="uQgNPJnc" text="Manage Troops"/>
     <string id="US7UmBbt" text="Armor Tier"/>
     <string id="UUaW0dba" text="Moving to {SETTLEMENT_NAME}"/>
-    <string id="UxAl9iyi" text="Особ."/>
+    <string id="UxAl9iyi" text="Особисте"/>
     <string id="uZhHh7pm" text="Crafted {CURR_TEMPLATE_NAME}"/>
     <string id="v3OF6vBg" text="Yield"/>
     <string id="vdKiLwaf" text="Traveling"/>
