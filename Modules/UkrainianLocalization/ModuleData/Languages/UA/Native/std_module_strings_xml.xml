@@ -277,7 +277,7 @@
     <string id="8ZZgNNaY" text="{USE_KEY}"/>
     <string id="923438xA" text="Nice, {PLAYER.LINK}, nice. You managed to take down no less than {OPPONENT_COUNT} opponents. You were a crowd favorite, for your pluck. And of course, you earned a prize money of {PRIZE}{GOLD_ICON}."/>
     <string id="929Lxhde" text="You will lose {INFLUENCE_COST} influence if you abandon the army."/>
-    <string id="92M0Pb5T" text="Scout"/>
+    <string id="92M0Pb5T" text="Розвідник"/>
     <string id="984Ink0j" text="Arrow"/>
     <string id="9B5kxWb8" text="Other party is over their troops limit.{newline}They will temporarily keep their troops but after some time they will quickly abandon their party.{newline}Are you sure?"/>
     <string id="9Bm06EEJ" text="You hear much praise for the wisdom of the rulers who have achieved this prosperity."/>
@@ -1652,7 +1652,7 @@
     <string id="uvjOVy5P" text="Dead"/>
     <string id="uwPByaQg" text="Begin Assault"/>
     <string id="UX7reJ3K" text="We must rush to defend our siege machines lest the enemy destroy them."/>
-    <string id="UxAl9iyi" text="Особ."/>
+    <string id="UxAl9iyi" text="Особисте"/>
     <string id="UxD6lPXa" text="You have gained {INFLUENCE} influence. New influence is {NEW_INFLUENCE}."/>
     <string id="UxyIkWah" text="Mercenaries cannot annex settlements."/>
     <string id="uYFd4meY" text="Quest Given By"/>
