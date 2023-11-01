@@ -150,7 +150,7 @@
     <string id="cO2FDHCa" text="Дуель з {OPPONENT_NAME} почнеться за {DUEL_REMAINING_TIME} секунд."/>
     <string id="CW2JkWzC" text="Ви впевнені, що хочете видалити це оголошення?"/>
     <string id="cw5QyeRU" text="Причина скарги"/>
-    <string id="cZNA5Z6l" text="Підрозділ {NUMBER}"/>
+    <string id="cZNA5Z6l" text="Стрій {NUMBER}"/>
     <string id="D0TbQm4r" text="ПРОЛОМ"/>
     <string id="d1tCz15N" text="Утримуйте, щоб кинути"/>
     <string id="d5SNB0HV" text="Взяти {._}{ITEM_NAME}{.v_zna}"/>
@@ -356,7 +356,7 @@
     <string id="ozREO8ev" text="Змінити Bannerlord ID"/>
     <string id="oZrVNUOk" text="Помилка"/>
     <string id="P1MybNr7" text="Видалити оголошення"/>
-    <string id="P3IWytsr" text="В підрозділ ніхто не призначений"/>
+    <string id="P3IWytsr" text="В стрій ніхто не призначений"/>
     <string id="P5Z9owOy" text="Герб"/>
     <string id="P7moPm3F" text="Призначити лідером загону"/>
     <string id="p83IO9ls" text="Треба вибрати народність"/>
@@ -421,7 +421,7 @@
     <string id="sFDrUfNR" text="заблокувати"/>
     <string id="SfsnlbyK" text="Зміни застосовано."/>
     <string id="SHiA1TRX" text="Увімкнення модуля DedicatedCustomServerHelper дозволяє завантажувати карти зі підтримуваних серверів!"/>
-    <string id="SLY8z9fP" text="Всі підрозділи вибрано!"/>
+    <string id="SLY8z9fP" text="Вибрано всі строї!"/>
     <string id="SoQcsslF" text="ПОТОЧНА КОМАНДА"/>
     <string id="sPkRekRL" text="Персоналізація"/>
     <string id="SQpGQzTI" text="Контролер"/>
