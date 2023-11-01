@@ -288,7 +288,7 @@
     <string id="9esIWdDC" text="Afraid we'll need to make an example out of you, then. Don't bother begging for mercy.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="9FhdRKWu" text="Throwing Knife"/>
     <string id="9gNjg4P0" text="Ви повернетесь до головного меню без збереження гри. Ви впевнені, що хочете вийти?"/>
-    <string id="9iycVtyV" text="Learning Rate: x {COUNT}"/>
+    <string id="9iycVtyV" text="Швидкість вивчення: x {COUNT}"/>
     <string id="9Lhd2zVW" text="On {DAY_OF_YEAR}, {YEAR}, you found a third piece of the Dragon Banner. You are ready to unfurl it once again."/>
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})"/>
     <string id="9PLNQrWw" text="You hear few complaints and people seem to have confidence in the authorities."/>
@@ -363,7 +363,7 @@
     <string id="anSH3M5W" text="{NUM1} x {NUM2}"/>
     <string id="aOvxxLZ8" text="Food Variety"/>
     <string id="ap1wEfdW" text="V"/>
-    <string id="Aph8CcKO" text="Free Attribute Points: You can use these points to increase attributes. You'll gain one free attribute for every {ATTRIBUTE_EVERY_LEVEL} levels you gain. "/>
+    <string id="Aph8CcKO" text="Доступні очки характеристик: ви можете використовувати ці очки для збільшення характеристик. Ви отримуєте по очку характеристик {#GET_PLURAL_VALUE(ATTRIBUTE_EVERY_LEVEL)}кожен рівень{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівні{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівнів{\#} "/>
     <string id="aqCj9dhC" text="There is no need to stay on the defense. Siege their settlements!"/>
     <string id="AqHr4nRR" text="fourth"/>
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
@@ -563,7 +563,7 @@
     <string id="dc24lBcV" text="Melee Weapons IV"/>
     <string id="dcV0iOYB" text="Gather your troops and prepare for battle!"/>
     <string id="dd7Owiys" text="Make Peace with {FACTION}"/>
-    <string id="DdXZHifm" text="Increasing {ATTRIBUTE_NAME} makes it easier to learn bound skills and also raises their learning limit."/>
+    <string id="DdXZHifm" text="Підвищуючи {ATTRIBUTE_NAME}{.v_zna} ви полегшуєте підняття умінь, які зв'язані з цією характеристикою і підвищуєте ліміт їх вивчення."/>
     <string id="debCJDAZ" text="You can not perform this action while you are in an encounter"/>
     <string id="depxBZNO" text="Leadership Skill Level Bonus"/>
     <string id="dgaf7Jpb" text="Setup"/>
@@ -608,7 +608,7 @@
     <string id="e4OPfBqt" text="Abstain"/>
     <string id="eAGeVRjI" text="You received {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="EAicirVE" text="Fearless"/>
-    <string id="eaIQXj6O" text="Free attribute points: {NUMBER}"/>
+    <string id="eaIQXj6O" text="Доступні очки характеристик: {NUMBER}"/>
     <string id="ealIwlQH" text="Defending {SETTLEMENT_NAME}"/>
     <string id="eavr4x8n" text="Construction:"/>
     <string id="eb0nLx5E" text="Aserai Sultanate"/>
@@ -730,7 +730,7 @@
     <string id="fRu5Y4OT" text="I was wounded and left for dead"/>
     <string id="FRuzuVyO" text="No Clan Selected"/>
     <string id="FRZfpryn" text="Bring forward the proposal to give this settlement to someone else"/>
-    <string id="FS78CuPs" text="The skills that are bound to ({ATTRIBUTE_NAME}) attribute are:"/>
+    <string id="FS78CuPs" text="Уміння, пов'язані з характеристикою «{ATTRIBUTE_NAME}»:"/>
     <string id="FSl1LFP6" text="{CLAN} has gained {AMOUNT_TO_ADD} renown. New renown is {NEW_RENOWN}."/>
     <string id="fTyJB9wd" text="twenty-fourth"/>
     <string id="fUNa6FAo" text="During battles, holding down {MISSION_INDICATORS_KEY} shows markers on enemy and allied formations."/>
@@ -981,7 +981,7 @@
     <string id="jPwa1oOm" text="Silver{@Plural}loads of silver ore{\@}"/>
     <string id="JQarnWiz" text="You don't have enough materials for this."/>
     <string id="jQGcUobB" text="Civillian"/>
-    <string id="JQOUUVct" text="Pause"/>
+    <string id="JQOUUVct" text="Пауза"/>
     <string id="JSokBXER" text="Heavy Infantry"/>
     <string id="jSXE0Gbj" text="The villagers here are few and frightened, and they quickly scatter and run before you. The village is at your mercy."/>
     <string id="jtN3ayKE" text="Primary Production"/>
@@ -1026,7 +1026,7 @@
     <string id="KJDqOGEU" text="Our plan is to fall back in formation to fight another day."/>
     <string id="KkaVpLXd" text="Consider enacting this policy (Support: {SUPPORT}%)"/>
     <string id="KkwLUO3o" text="sixth"/>
-    <string id="klZnvb15" text="Character"/>
+    <string id="klZnvb15" text="Персонаж"/>
     <string id="kM1Y8XT0" text="You will not be dissapointed {?PLAYER.GENDER}madam{?}sir{\?}. You will not find better warriors in all Calradia.[ib:convo_approving]"/>
     <string id="kMAD20Ny" text="You are outside of {SETTLEMENT_NAME}. You cannot enter because the castle belongs to the enemy. Usually when you approach an enemy city the roads are deserted. This time, however, you pass some onlookers, and even hear the occasional cheer. You suspect that few among the population are loyal to the {FACTION_INFORMAL_NAME}, and that the militia is unlikely to take up arms in the castle's defense."/>
     <string id="KOwCdwEU" text="mother"/>
@@ -1067,7 +1067,7 @@
     <string id="L7wn49Uz" text="Diplomacy"/>
     <string id="l9Vve3bD" text="Autumn"/>
     <string id="lAgfGeXJ" text="Kingdom Faction"/>
-    <string id="LApMSsnb" text="Focus Points"/>
+    <string id="LApMSsnb" text="Очки фокусу"/>
     <string id="laV5aNhK" text="Unique"/>
     <string id="LAvXPBbs" text="Defend our siege engines!"/>
     <string id="lAWwcO6b" text="Kingdom of Vlandia"/>
@@ -1129,7 +1129,7 @@
     <string id="mAEaO8jM" text="{PRISONER.NAME} has been released."/>
     <string id="MAkZQKp0" text="Skill Bonus / Penalty"/>
     <string id="malechild" text="Child"/>
-    <string id="maptimeplay" text="Play"/>
+    <string id="maptimeplay" text="Продовжити"/>
     <string id="mAxXKaXp" text="Reset"/>
     <string id="mbS0DkUo" text="Raid"/>
     <string id="mbT1uNPa" text="Dagger"/>
@@ -1350,7 +1350,7 @@
     <string id="pQ9Sxily" text="Congratulations, champion! Your fight there was something to remember! As the last one standing, you of course win the top prize: {PRIZE}{GOLD_ICON}."/>
     <string id="PqfS5lgq" text="{ABSORBED_AMOUNT} damage has been absorbed by {ARMOR_AMOUNT} armor."/>
     <string id="pqfz386V" text="Clan Leader"/>
-    <string id="prs0jRAy" text="total"/>
+    <string id="prs0jRAy" text="всього"/>
     <string id="psjAVdkH" text="Reset Icon"/>
     <string id="pSjnd6PX" text="You have lost the duel. Your army is disheartened by your defeat. Your party loses morale."/>
     <string id="PSN8IaIg" text="Shields"/>
@@ -1476,7 +1476,7 @@
     <string id="RTmDiT0l" text="Current Party Size Bonus"/>
     <string id="rTuptXLg" text="Attacker Banner"/>
     <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are advancing."/>
-    <string id="RUcYGbUH" text="You don't have enough points"/>
+    <string id="RUcYGbUH" text="У вас недостатньо очок"/>
     <string id="RvDxHQ73" text="Price: "/>
     <string id="RVfkxgMm" text="{?IS_PRISONER_FOLLOWING}Stay{?}Follow{\?}"/>
     <string id="RvKwdXWs" text="Commander"/>
@@ -1494,7 +1494,7 @@
     <string id="s9oED1IR" text="Skirmisher"/>
     <string id="S9tmCkHz" text="This hero is clearing a common area."/>
     <string id="sa2TQu1G" text="This hero is busy with an issue or a quest."/>
-    <string id="SBp4Ja1u" text="You can use free focus points for increasing your learning limit in individual skills. Characters earn {FOCUS_PER_LEVEL} focus point every time they level up."/>
+    <string id="SBp4Ja1u" text="Ви можете використовувати очки фокусу, щоб збільшити ліміт вивчення окремих умінь. Персонажі отримують {FOCUS_PER_LEVEL} {#GET_PLURAL_VALUE(FOCUS_PER_LEVEL)}очко{#}очки{#}очків{\#} фокусу при кожному підвищенні рівня."/>
     <string id="SCAehHN6" text="son"/>
     <string id="SdcpdfaV" text="Hey - you. What you got in your bags? What are you carrying?[if:convo_bared_teeth]"/>
     <string id="SdXS4lxN" text="Faction Leader Bonus"/>
@@ -1668,7 +1668,7 @@
     <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!"/>
     <string id="VbeHEAsa" text="Retreat"/>
     <string id="VbL6GFmy" text="Butter{@Plural}casks of butter{\@}"/>
-    <string id="Vc9Mx6Jb" text="Quest"/>
+    <string id="Vc9Mx6Jb" text="Завдання"/>
     <string id="vdK5SaJN" text="Mm. Pity.[ib:aggressive][if:convo_annoyed]"/>
     <string id="vdKLq8T5" text="Walls{newline}Level {LEVEL}"/>
     <string id="veiFupWz" text="{?RULER.GENDER}Baroness{?}Baron{\?} {RULER.NAME}"/>
@@ -1829,7 +1829,7 @@
     <string id="YDYnuBmC" text="Multiplayer"/>
     <string id="YeaFZzXS" text="On {DAY_OF_YEAR}, {YEAR}, {LEADER_NAME} declared the creation of a new realm, the {KINGDOM_NAME}."/>
     <string id="yeEaBV29" text="We'll take it. You can live. Now go before I change my mind.[ib:closed][if:convo_normal]"/>
-    <string id="yenZGMzi" text="Fast Forward"/>
+    <string id="yenZGMzi" text="Прискорити час"/>
     <string id="YevUiidU" text="Your relation is decreased by {MAGNITUDE} to {VALUE} with {CLAN_LEADER}."/>
     <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} (tariff)"/>
     <string id="yfa7tpbK" text="All"/>
