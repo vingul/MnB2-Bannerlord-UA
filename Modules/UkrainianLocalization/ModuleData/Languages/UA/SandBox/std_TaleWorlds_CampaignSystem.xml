@@ -1070,7 +1070,7 @@
     <string id="bC2jevlu" text="The client is displeased."/>
     <string id="BC4BC0ZC" text="{FIRSTNAME} the Spicetrader"/>
     <string id="bC5aMfG0" text="Villages"/>
-    <string id="bcA7ZuyO" text="Learning Limit Exceeded"/>
+    <string id="bcA7ZuyO" text="Перевищено ліміт вивчення"/>
     <string id="BCB08mNZ" text="{VALUE}% chance of avoiding critical failure on persuasion."/>
     <string id="bcGzpFSg" text="Are you sure about what your hunters saw? My men are starting to run out of patience."/>
     <string id="BCoQgZvG" text="Perfect Technique"/>
@@ -2899,7 +2899,7 @@
     <string id="mr7SgjAq" text="Yes... {QUEST_GIVER.LINK} sent word to us. We are expecting the {.%}{RAW_MATERIALS}{.%} that {?QUEST_GIVER.GENDER}she{?}he{\?} had."/>
     <string id="MRJ06SU7" text="{FIRSTNAME} the Thorn"/>
     <string id="mrjz1ka4" text="And in your lost baggage you had: {LOST_BAGGAGE}."/>
-    <string id="MRktqZwu" text="Skill Focus"/>
+    <string id="MRktqZwu" text="Очки фокусу"/>
     <string id="mrmxEklL" text="So looks like it's war with {ENEMY_NAME}. Well, I don't deny they deserve it, but it will fall hardest on the poor folk like us."/>
     <string id="mRrYn2qm" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has chosen not to make peace with the {KINGDOM} with the support of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council."/>
     <string id="mrtDAhtL" text="Beast Whisperer"/>
