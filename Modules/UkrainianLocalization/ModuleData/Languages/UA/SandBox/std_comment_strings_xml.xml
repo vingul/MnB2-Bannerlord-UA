@@ -76,7 +76,7 @@
     <string id="C5JaFsDZ" text="{FIRST_NAME} is my liege. That's all there is to say."/>
     <string id="c7hrnOUE" text="I guess that task I gave you didn't work out."/>
     <string id="caKCwoPM" text="The Beni Zilal are the keepers of the secret. We watch from the shadows. Make foes of us at your peril."/>
-    <string id="captainasleader" text="Captain"/>
+    <string id="captainasleader" text="Капітан"/>
     <string id="cFiSjbf4" text="Hah! I want to fight with you"/>
     <string id="cGuzIVlk" text="They say you have travelled quite widely. Tell me a bit about your journeys..."/>
     <string id="cMO9JXvk" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}. We hold our lands in fief to {LIEGE_TITLE}, and we honor our oaths of fealty."/>
