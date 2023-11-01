@@ -115,12 +115,12 @@
     <string id="1eKRHLur" text="Discarded armors are donated to troops for increased experience."/>
     <string id="1FcxAGWU" text="Ah, yes. I am afraid I can no longer entertain such a proposal. I am now the head of my family, and the factors that we must consider have changed. You would need to place your property under my control, and I do not think that you would accept that."/>
     <string id="1FOmvEdf" text="All profitable trade routes of the caravan are blocked by recent wars. {QUEST_GIVER.LINK} decided to recall the caravan until the situation gets better. {?QUEST_GIVER.GENDER}She{?}He{\?} was happy with your service and sent you {REWARD}{GOLD_ICON} as promised."/>
-    <string id="1FPpHasQ" text="{VALUE}% garrison wages in the governed castle."/>
+    <string id="1FPpHasQ" text="{VALUE}% заробітної плати гарнізону в підконтрольному замку."/>
     <string id="1G5M9nn2" text="What I mentioned about running from battle..."/>
     <string id="1gMfbcaO" text="{FIRSTNAME} of the Staff"/>
     <string id="1GPa9aTQ" text="Scout the keep"/>
     <string id="1gv0AVUN" text="You are my prisoners now."/>
-    <string id="1GwI0hcG" text="{VALUE}% mounted melee damage."/>
+    <string id="1GwI0hcG" text="{VALUE}% шкоди від зброї ближнього бою верхи."/>
     <string id="1H6SKtUl" text="Deliver the prisoner to {ISSUE_OWNER.LINK} {?ISSUE_OWNER.GENDER}herself{?}himself{\?} or one of {?ISSUE_OWNER.GENDER}her{?}his{\?} settlements. If you don't want to deliver {TARGET_HERO.LINK}, talk with {?TARGET_HERO.GENDER}her{?}him{\?} to negotiate on {?TARGET_HERO.GENDER}her{?}his{\?} release."/>
     <string id="1hbos200" text="Here are some documents from the chancellery."/>
     <string id="1Hd19nq5" text="You are not in command of this siege."/>
@@ -128,7 +128,7 @@
     <string id="1hpeeCJD" text="Have you found any good men?"/>
     <string id="1IEroJKs" text="Не всі, хто записується в армію, йдуть на війну та ще менше тих, хто бере участь в справжніх битвах. Ви зробили і те, і інше. І вам навіть вдалося вбити ворожого воїна в прямому бою сам на сам, на очах у своїх побратимів."/>
     <string id="1IJouNaM" text="Carry on, then. Farewell."/>
-    <string id="1IYP1wHc" text="{VALUE}% chance per day to increase relation with a notable by 1 when you enter a town."/>
+    <string id="1IYP1wHc" text="{VALUE}% шансу раз на день покращити стосунки з відомою особою на 1 при вході в місто."/>
     <string id="1KWhhurv" text="Your tutor throws up his hands in the air at {CHILD.NAME}'s ability to lie {?CHILD.GENDER}her{?}his{\?} way out of trouble, but can't help but admire it a little."/>
     <string id="1l5dKk1c" text="Oh, thank you {PLAYER.NAME}. You will always be remembered by our people. Farewell."/>
     <string id="1lEckrPh" text="{VALUE} ammunition for throwing weapons to troops in your party."/>
@@ -141,7 +141,7 @@
     <string id="1OKEl18y" text="This is for {COMPANION.NAME}"/>
     <string id="1oPRugXl" text="Trick knife throws and swift evasions can entertain a marketplace crowd, but are useful on the battlefield as well. "/>
     <string id="1OQubYTT" text="Marriage Offer"/>
-    <string id="1PC4D2fx" text="{VALUE}% damage bonus from speed with two handed weapons while on foot."/>
+    <string id="1PC4D2fx" text="{VALUE}% шкоди від швидкості при використанні дворучної зброї пішки."/>
     <string id="1PCaW5YI" text="My liege {QUEST_GIVER.NAME} also instructed me to present you the sum of {REWARD_GOLD}{GOLD_ICON} denars for the prisoners exchange."/>
     <string id="1pdBdqKn" text="Party Type:"/>
     <string id="1q2dxlol" text="You have failed to pay {TOTAL_DENAR}{GOLD_ICON} denars to {QUEST_GIVER.LINK}. {QUEST_GIVER_VILLAGE} and its locals are aware of your misdemeanor."/>
@@ -169,10 +169,10 @@
     <string id="1XuYGQcT" text="{ISSUE_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}her{?}his{\?} local smith needs {REQUESTED_ITEM} to forge more tools. You asked your companion {COMPANION.LINK} to help the local smith and craft {REQUESTED_ITEM_COUNT} {?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?} for the village. Your companion will rejoin your party in {RETURN_DAYS} days."/>
     <string id="1Y5p40uP" text="granting villagers the right to graze on land held in common"/>
     <string id="1yCeyK4I" text="You declared that the village had paid enough, and departed."/>
-    <string id="1yqMERf2" text="{VALUE}% recovery rate for each type of food in party inventory."/>
+    <string id="1yqMERf2" text="{VALUE}% швидкості відновлення для кожного типу їжі в запасах загону."/>
     <string id="1YxFYg3s" text="Energetic"/>
     <string id="1z3oRPQu" text="Mounted Patrols"/>
-    <string id="1Z8oWbo7" text="{VALUE}% visual range on the campaign map."/>
+    <string id="1Z8oWbo7" text="{VALUE}% дальності огляду на карті кампанії."/>
     <string id="1zdkXAwL" text="The market isn't what we expected. I am afraid I only made {GATHERED_DENARS}{GOLD_ICON} of the {TOTAL_DENARS}{GOLD_ICON} that we agreed upon."/>
     <string id="1zLZf5rw" text="The rest of your men rushed to your help, dragging you out to safety and driving the bandits back into hiding."/>
     <string id="1zteHA7R" text="Bow Control"/>
@@ -188,7 +188,7 @@
     <string id="26XPQw2v" text="I will miss this little deal we had. See you at the end"/>
     <string id="27yneDGL" text="Capture the enemy."/>
     <string id="287Epvf0" text="{HERO.NAME} is traveling right now."/>
-    <string id="29R5VkXa" text="{VALUE}% daily chance to get +1 relation with a random notable in the governed settlement while a continous project is active."/>
+    <string id="29R5VkXa" text="{VALUE}% щоденного шансу отримати +1 відношення з випадковою відомою особою в підконтрольному поселенні при наявності чинного проєкту."/>
     <string id="2ApU6iCB" text="I'll hunt down {TOTAL_COUNT} bands of brigands for you."/>
     <string id="2ATI9qVM" text="Швидкість древкової зброї: +{a0}%"/>
     <string id="2aW6NC3Q" text="Let us discuss the final terms of our marriage."/>
@@ -240,7 +240,7 @@
     <string id="2TptWc4m" text="Свита барона"/>
     <string id="2v0eQ755" text="Sorry, not interested."/>
     <string id="2vcfifbb" text="I yield"/>
-    <string id="2WC42D5D" text="{VALUE}% build speed to non-ranged siege engines."/>
+    <string id="2WC42D5D" text="{VALUE}% швидкості побудови облогових знарядь ближнього бою."/>
     <string id="2wixoeOF" text="Hairy {FIRSTNAME}"/>
     <string id="2wmKs6Is" text="As your leader I am able to decide the best course of action."/>
     <string id="2WnhUBMM" text="My lord, may you give me another chance to prove myself?"/>
