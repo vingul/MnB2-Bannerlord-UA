@@ -32,7 +32,7 @@
     <string id="0cMibkQO" text="You may know me as a {?PLAYER.GENDER}woman{?}man{\?} of honor."/>
     <string id="0D1ty8JA" text="Coordination"/>
     <string id="0DaxFvnw" text="{VALUE}% damage with bows by troops in your formation."/>
-    <string id="0dbwEczK" text="Mounted weapon damage penalty: {a0}%"/>
+    <string id="0dbwEczK" text="Штраф до шкоди вашої зброї верхи: {a0}%"/>
     <string id="0DpoSNky" text="You are commanding the besiegers."/>
     <string id="0dY1xyyK" text="This is a dangerous step, however, and I'm putting my life and the lives of my people at risk. I need some sort of support from you before I can change my allegiance.[if:convo_stern]"/>
     <string id="0eAtiZbL" text="I have no answer to that."/>
@@ -92,7 +92,7 @@
     <string id="16fxd9fN" text="Public Speaker"/>
     <string id="176K8dcb" text="You will end the siege if you leave. Are you sure?"/>
     <string id="17A2DDgD" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM} with the support of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council."/>
-    <string id="17cIGVQE" text="Polearm weapon damage: +{a0}%"/>
+    <string id="17cIGVQE" text="Шкода від древкової зброї: +{a0}%"/>
     <string id="18NtjryL" text="Not yet, but I will soon."/>
     <string id="18xOURG4" text="Hmm.. No... {IMMEDIATE_FAILURE_LINE}"/>
     <string id="196tGVIm" text="There are no nobles to meet."/>
@@ -190,7 +190,7 @@
     <string id="287Epvf0" text="{HERO.NAME} is traveling right now."/>
     <string id="29R5VkXa" text="{VALUE}% daily chance to get +1 relation with a random notable in the governed settlement while a continous project is active."/>
     <string id="2ApU6iCB" text="I'll hunt down {TOTAL_COUNT} bands of brigands for you."/>
-    <string id="2ATI9qVM" text="Polearm weapon speed: +{a0}%"/>
+    <string id="2ATI9qVM" text="Швидкість древкової зброї: +{a0}%"/>
     <string id="2aW6NC3Q" text="Let us discuss the final terms of our marriage."/>
     <string id="2awf1tei" text="Tax"/>
     <string id="2b1xZGaQ" text="Make peace with the {KINGDOM_NAME}. Our kingdom will pay {T} tribute daily."/>
@@ -715,7 +715,7 @@
     <string id="8TCev3Qs" text="So, captain. We expect a bit of looting and plundering as compensation, in addition to the wages. You don't seem like you're going to provide it to us. So, farewell.[ib:hip]"/>
     <string id="8Tqv9ezH" text="We heard you wish to issue a decree changing our longstanding rules on pricing. Of course this is your right, but I'd like to remind you that we merchants pay significantly more taxes than the artisans. I would ask you to think of the finances of the town, and reconsider this."/>
     <string id="8trsbRav" text="{FIRSTNAME} the {?FEMALE}Widow{?}Orphan{\?}"/>
-    <string id="8uBbbwY9" text="Max mount difficulty: {a0}"/>
+    <string id="8uBbbwY9" text="Макс. складність їздової тварини: {a0}"/>
     <string id="8Wa6OxG8" text="It's secret. You must be new in your post if you don't know who I am and what I do."/>
     <string id="8WaoQpYn" text="Oh there will be one, all right.[ib:aggressive]"/>
     <string id="8wUfQc4W" text="You know me. I'll be careful not to get this get back to the wrong ears."/>
@@ -828,7 +828,7 @@
     <string id="AaahFmxv" text="War was never too far away. On more than one occasion, {CHILD.NAME} spotted foes on the horizon and needed to ride away as quickly as possible."/>
     <string id="aadTnAEg" text="Manage Prisoners"/>
     <string id="aaf5R99a" text="I'll give you nothing but cold steel, you scum!"/>
-    <string id="AahNTeXY" text="Horse maneuver: +{a0}"/>
+    <string id="AahNTeXY" text="Маневровість коня: +{a0}"/>
     <string id="AAy1oX7z" text="Hunter Clan"/>
     <string id="AAYplFKi" text="{VALUE}% price penalty while selling animals."/>
     <string id="aB0TT6Ur" text="Fear not. I will find the right market for your {.%}{SELECTED_ITEM}{.%} myself."/>
@@ -1053,7 +1053,7 @@
     <string id="BaifRgT5" text="That's useful to know for when it comes time to discuss the exchange of dowries."/>
     <string id="BaKOWJb6" text="This hero is pregnant."/>
     <string id="basevalue" text="База"/>
-    <string id="baUFKAbd" text="Шкода від одноручної зброї: +{a0} %"/>
+    <string id="baUFKAbd" text="Шкода від одноручної зброї: +{a0}%"/>
     <string id="bAVZloaC" text="{ARMY} has been disbanded since dismissal is requested."/>
     <string id="BazrgEOj" text="Counterweight"/>
     <string id="bb1hS9I4" text="Dirty Fighting"/>
@@ -2467,7 +2467,7 @@
     <string id="JuwBb2Yg" text="Disorganized"/>
     <string id="Jvf6K7TZ" text="Ваша родина належала до бідних мігрантів, які жили в нетрях, що виростали за стінами імперських міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких завжди було багато в Імперії, і ви рано познайомились з темною стороною життя."/>
     <string id="jWavM9AD" text="You've been around in the world. You know that mercenaries aren't saints."/>
-    <string id="JwWnpD40" text="Crossbow accuracy: +{a0}%"/>
+    <string id="JwWnpD40" text="Точність арбалета: +{a0}%"/>
     <string id="JX13Wd65" text="managing the logistics of travel."/>
     <string id="jxEVSu98" text="The language of our documents, and our customary laws... Whose should we use?"/>
     <string id="jXTshvhV" text="You couldn't fully bring {ITEM} to {?QUEST_GIVER.GENDER}her{?}him{\?} on time."/>
@@ -3037,7 +3037,7 @@
     <string id="NouDSrXE" text="{VALUE} party size."/>
     <string id="nOZerIfl" text="Quick Adjustments"/>
     <string id="nP7KOISK" text="Local landowners have the right to collect tolls on commerce."/>
-    <string id="Np94rYMz" text="Two handed weapon speed: +{a0}%"/>
+    <string id="Np94rYMz" text="Швидкість дворучної зброї: +{a0}%"/>
     <string id="npuC7IBM" text="{FIRSTNAME} the Dyer"/>
     <string id="nq0qLQ1x" text="You lost the fight against bounty hunters and failed to rescue the {QUEST_GIVER.LINK}'s men. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. &quot;I appreciate your effort but it wasn't good enough...&quot;"/>
     <string id="nQoAsBZY" text="When you enter the town my men will take the weapons from you. Good luck."/>
@@ -3133,7 +3133,7 @@
     <string id="odzS6rhH" text="We're just harmless herdsmen..."/>
     <string id="Oe1bTJp6" text="No, I swear I won't."/>
     <string id="Oe1NdVLe" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
-    <string id="oE5etyy0" text="Mounted weapon speed &amp; reload penalty: {a0}%"/>
+    <string id="oE5etyy0" text="Штраф до швидкості і перезаряджання вашої зброї верхи: {a0}%"/>
     <string id="Oe5Tf7OZ" text="My foes may not fear my sword, but they should fear my cunning."/>
     <string id="Of7XnP5c" text="Vote for the new owner of {SETTLEMENT_NAME}"/>
     <string id="OFMYfDPZ" text="{VALUE}% bonus experience to ranged troops in your party after every battle."/>
@@ -3458,7 +3458,7 @@
     <string id="qjpNREwg" text="You don't have any companions or family members."/>
     <string id="qjuiWN4K" text="{PLAYER.NAME}, you should wait with us in the village to ambush the deserters!"/>
     <string id="qjvDsu8u" text="Metallurgy"/>
-    <string id="QkbbLb4v" text="Two handed weapon damage: +{a0}%"/>
+    <string id="QkbbLb4v" text="Шкода від дворучної зброї: +{a0}%"/>
     <string id="QKIxepj5" text="The lordship of this fief should go to the {RECIPIENT.CLAN}"/>
     <string id="QKjF5gTR" text="Calculating represents your ability to control your emotions for the sake of your long-term interests."/>
     <string id="QKNWsJRb" text="Let {PARTY} Go"/>
@@ -3692,7 +3692,7 @@
     <string id="ruU70rFl" text="You disperse into the shrubs and bushes. The enemies halt and seem to hesitate for a while before resuming their pursuit. {CASUALTIES_AND_LOST_BAGGAGE}"/>
     <string id="rUvnbDi2" text="Encurion"/>
     <string id="RuvSk3QT" text="Ви вирушали з місцевим мисливцем у дику місцевість, допомагаючи йому розставляти пастки та ловити дрібних тварин."/>
-    <string id="RUZHJMQO" text="Bow Damage: +{a0}%"/>
+    <string id="RUZHJMQO" text="Шкода від лука: +{a0}%"/>
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
     <string id="RVas572P" text="Raided"/>
     <string id="RVDojUOM" text="The lands around {SETTLEMENT_LINK} are owned mostly by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {PROSPERITY_INFO}"/>
@@ -3768,7 +3768,7 @@
     <string id="seiduCHq" text="{VALUE}% damage to outnumbered enemies when troops are sent to confront the enemy."/>
     <string id="SF244Jxx" text="as a noble's ward."/>
     <string id="sfFkYm0a" text="Your companion has successfully brought the troops {ISSUE_OWNER.LINK} requested. You received {REWARD}{GOLD_ICON}."/>
-    <string id="SfKrjKuO" text="Thrown weapon accuracy: +{a0}%"/>
+    <string id="SfKrjKuO" text="Точність метальної зброї: +{a0}%"/>
     <string id="sfW7oT9e" text="Artisan can't sell products"/>
     <string id="sG9WGOeN" text="{VALUE} party morale when number of mounts is greater than number of foot troops in your party."/>
     <string id="SgtTaqG0" text="That's a mistake that I think you'll regret, sooner rather than later."/>
@@ -3817,7 +3817,7 @@
     <string id="SPs04fam" text="{VALUE}% carry capacity for your party."/>
     <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} Needs Grain Seeds"/>
     <string id="SqceZdzH" text="Of course. That's why they're cheap. You get what you pay for. "/>
-    <string id="sQCS90Wq" text="Bow Accuracy: +{a0}%"/>
+    <string id="sQCS90Wq" text="Точність лука: +{a0}%"/>
     <string id="sqMUtasn" text="Cheap, disposable and effective. What you say?"/>
     <string id="SqrRaIU5" text="I would like to ask about someone with different expertise."/>
     <string id="SR9FC5jH" text="A courier has arrived from the {MAP_FACTION_NAME} bearing a peace offer. The {MAP_FACTION_NAME} will pay {GOLD_AMOUNT} {GOLD_ICON} in tribute each day to end the war between your realms. Your kingdom will vote whether to accept the offer."/>
@@ -3949,7 +3949,7 @@
     <string id="TPoK3GSj" text="Волоцюги"/>
     <string id="TpzZgFsA" text="Young And Respectful"/>
     <string id="Tq0E9sSW" text="{VALUE}% swing speed to infantry in your formation."/>
-    <string id="TQMGppEk" text="Thrown weapon damage: +{a0}%"/>
+    <string id="TQMGppEk" text="Шкода від метальної зброї: +{a0}%"/>
     <string id="TQmPcVRZ" text="Too many of our nobles are in captivity. We should make peace to free them."/>
     <string id="TQyB9rAs" text="{ISSUE_OWNER.NAME}'s associates captured by bounty hunters."/>
     <string id="TR4ORD1T" text="{VALUE} experience to infantry in your party for each enemy you kill with a two handed weapon."/>
@@ -4330,7 +4330,7 @@
     <string id="W0FR7yy0" text="You are commanding the defenders."/>
     <string id="w0LOgr9e" text="{VALUE} bonus Vigor and Control skills to bandit units in your party"/>
     <string id="W0w0Eunx" text="Your companion {COMPANION.LINK} has delivered {ISSUE_GIVER.LINK}'s goods as you promised."/>
-    <string id="W0Zu4iDz" text="Crossbow reload speed: +{a0}%"/>
+    <string id="W0Zu4iDz" text="Швидкість перезаряджання арбалета: +{a0}%"/>
     <string id="w1B71sNj" text="Dash and Slash"/>
     <string id="w1K8XDls" text="{VALUE}% chance of creating Fine weapons."/>
     <string id="W1KJEvit" text="{newline}    Levels Lost: {BUILDINGS_LOST_LEVEL}"/>
@@ -4572,7 +4572,7 @@
     <string id="xmu89biL" text="Maybe I can help. What do you need exactly?"/>
     <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} was the father of {PLAYER.LINK}. He was slain when raiders attacked the inn at which his family was staying."/>
     <string id="XmwIHIMN" text="{VALUE} companion limit"/>
-    <string id="XN7BX0qP" text="Max usable bow difficulty: {a0}"/>
+    <string id="XN7BX0qP" text="Максимальна складність луку: {a0}"/>
     <string id="xnDWqYKW" text="Hunter"/>
     <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT} You decide to..."/>
     <string id="XO3SOlZx" text="Simulation advantage: +{a0}%"/>
@@ -4636,7 +4636,7 @@
     <string id="xzq78nVm" text="As {?IS_FEMALE}queen{?}king{\?} you must decide who will own {SETTLEMENT_NAME}."/>
     <string id="xZqVL9wN" text="{VALUE}% build speed for projects in the governed castle."/>
     <string id="XZxIpCQH" text="Phorys"/>
-    <string id="Y07OcP1T" text="Horse speed: +{a0}"/>
+    <string id="Y07OcP1T" text="Швидкість коня: +{a0}"/>
     <string id="Y1lC59hw" text="{VALUE}% sight range when stationary for at least an hour."/>
     <string id="y2aLOwOs" text="Effects the influence of clan."/>
     <string id="Y2Z6F5Fj" text="Support level of {MALE_LESSER_NOBLE_NAME}"/>
@@ -4812,7 +4812,7 @@
     <string id="yZWBDAG0" text="You are known as a {?LORD.GENDER}woman{?}man{\?} of honor. You may know me as one as well."/>
     <string id="yzybG5rl" text="Apprenticeship"/>
     <string id="YZZ4zjxU" text="Tell the villagers that, in light of their hardship, they are forgiven what they owe."/>
-    <string id="Z0CoeojG" text="Thrown weapon speed: +{a0}%"/>
+    <string id="Z0CoeojG" text="Швидкість метальної зброї: +{a0}%"/>
     <string id="z0WacPaW" text="No, justice demands you pay for your crimes."/>
     <string id="z1mdQhDB" text="Of course. Send them in ahead of your other troops. If they die, you don't need to pay them."/>
     <string id="Z1n0w5Kc" text="{VALUE}% tax income"/>
