@@ -64,7 +64,7 @@
     <string id="77jmd4QF" text="Вимкнути звук назавжди"/>
     <string id="7APa598U" text="Вбито за допомогою облогової машини"/>
     <string id="7gQkFJqA" text="Очок до наступного рангу: {RATING}"/>
-    <string id="7jhe9cT9" text="Щоб змінити тип цієї формації, потрібно мати ще принаймні одну формацію цього типу."/>
+    <string id="7jhe9cT9" text="Щоб змінити тип цього підрозділу, потрібно мати ще принаймні один підрозділ цього типу."/>
     <string id="7jMnNlXG" text="Змінити вподобання арени"/>
     <string id="7qySRF2T" text="Пінг"/>
     <string id="7R0i82Nw" text="Змінити герб"/>
@@ -150,7 +150,7 @@
     <string id="cO2FDHCa" text="Дуель з {OPPONENT_NAME} почнеться за {DUEL_REMAINING_TIME} секунд."/>
     <string id="CW2JkWzC" text="Ви впевнені, що хочете видалити це оголошення?"/>
     <string id="cw5QyeRU" text="Причина скарги"/>
-    <string id="cZNA5Z6l" text="Формування {NUMBER}"/>
+    <string id="cZNA5Z6l" text="Підрозділ {NUMBER}"/>
     <string id="D0TbQm4r" text="ПРОЛОМ"/>
     <string id="d1tCz15N" text="Утримуйте, щоб кинути"/>
     <string id="d5SNB0HV" text="Взяти {._}{ITEM_NAME}{.v_zna}"/>
