@@ -2123,7 +2123,7 @@
     <string id="hmbeQW4v" text="{VALUE}% headshot damage with bows."/>
     <string id="HMFb1gaq" text="Egalitarian"/>
     <string id="hMiJvlJ5" text="Yes, Since we last spoke, I've learned a lot about hand-to-hand combat, my {?PLAYER.GENDER}lady{?}lord{\?}. Correct timing and putting your whole body behind the blow means a lot more than I initially thought."/>
-    <string id="hMJVRJdw" text="Removed movement speed penalty of wielding shields."/>
+    <string id="hMJVRJdw" text="Скасування штрафу до швидкості пересування зі щитом."/>
     <string id="hmrUcvwz" text="{VALUE}% stamina spent while refining."/>
     <string id="HMt8Xo5p" text="{PARTY} is raiding {SETTLEMENT}. You decide to..."/>
     <string id="ho5EndaV" text="Decision"/>
