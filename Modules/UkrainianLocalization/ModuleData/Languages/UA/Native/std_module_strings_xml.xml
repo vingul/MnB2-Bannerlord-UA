@@ -218,7 +218,7 @@
     <string id="7aYV4L9z" text="+{NUMBER}"/>
     <string id="7b60SOvI" text="On {DAY_OF_YEAR}, {YEAR}, {KING_NAME} was crowned as {TITLE_NAME}."/>
     <string id="7chepLLh" text="Destroy siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
-    <string id="7cMUohRm" text="Керуйте відтвореними битвами. Вигравайте битви проти домінуючих сил противника. Уникайте зіткнень, навіть жертвуючи військами, якщо цього вимагає ситуація."/>
+    <string id="7cMUohRm" text="Керуйте автобитвами. Вигравайте битви проти домінуючих сил противника. Уникайте зіткнень, навіть жертвуючи військами, якщо цього вимагає ситуація."/>
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
     <string id="7EnFh9e5" text="Location: {LOCATION}"/>
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing sparsely."/>
@@ -508,7 +508,7 @@
     <string id="cAgI2lPn" text="Governor of {SETTLEMENT_NAME}"/>
     <string id="calculatinglevel3trait" text="Calculating"/>
     <string id="caPP57v9" text="Move to Reserve"/>
-    <string id="captainasleader" text="Captain"/>
+    <string id="captainasleader" text="Капітан"/>
     <string id="CaW72yB3" text="Total Cost"/>
     <string id="cBY2MxY0" text="princess"/>
     <string id="cBZ6OlKW" text="Javelin"/>
