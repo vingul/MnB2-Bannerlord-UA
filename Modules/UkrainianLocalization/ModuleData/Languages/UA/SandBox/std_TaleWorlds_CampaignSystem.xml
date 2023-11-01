@@ -884,7 +884,7 @@
     <string id="aG7KXlu0" text="Surgeon Perks"/>
     <string id="aG9iX1a8" text="We're looking forward to trying out our new &quot;tools&quot; on some bastard's head. Let your boys know that drinks are on us when they get here."/>
     <string id="agaSYd5t" text="Food production in towns and castles are increased by 2{newline}Town loyalty is decreased by 0.2"/>
-    <string id="aGecGUub" text="Max track difficulty that can be detected: {a0}"/>
+    <string id="aGecGUub" text="Максимальна складність сліду, який можна виявити: {a0}"/>
     <string id="AgJAfEEZ" text="Salvager"/>
     <string id="agMtRiru" text="Refuse to exempt anyone"/>
     <string id="aGvLxsub" text="You have successfully delivered {MOUNT_COUNT} {PLURAL(MOUNT_NAME)} to {QUEST_GIVER.LINK} as requested. You received {GOLD_REWARD}{GOLD_ICON} denars in return for your service."/>
@@ -2252,7 +2252,7 @@
     <string id="IM05Jahy" text="{VALUE}% damage with two handed weapons  for every skill point above 250."/>
     <string id="ImatoO4Y" text="{DURATION_IN_DAYS} required days to complete"/>
     <string id="IMaTTgPJ" text="defeat {?CHILD.GENDER}her{?}his{\?} fencing instructor."/>
-    <string id="ImN8Cfk6" text="Max difficulty of weapon that can be smithed without penalty: {a0}"/>
+    <string id="ImN8Cfk6" text="Максимальна складність виковки зброї без штрафу: {a0}"/>
     <string id="impj5bAM" text="{VALUE}% damage to shields with two handed weapons."/>
     <string id="iMq7M0bo" text="{QUEST_GIVER.LINK} asks you to provide them supplies for their military campaign."/>
     <string id="iMtCbEb3" text="a finely carved gameboard."/>
@@ -2520,7 +2520,7 @@
     <string id="kbaA7aC8" text="Trait Gained"/>
     <string id="kbcwb5TH" text="на ринках і караванних дворах."/>
     <string id="KbFJJfl6" text="I am sorry. I will do what I must."/>
-    <string id="kbHJVxAo" text="Dismount resistance: {a0}% of max. hitpoints"/>
+    <string id="kbHJVxAo" text="Опір вибиттю з сідла: {a0}% від макс. здоров'я"/>
     <string id="kbKmlMbu" text="King's Mercenaries"/>
     <string id="KBmAqg54" text="No problem, you can pay what you can afford."/>
     <string id="KbnGyw0v" text="Your master-at-arms is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
@@ -2594,7 +2594,7 @@
     <string id="KQ1js10G" text="{FIRSTNAME} the Appraiser"/>
     <string id="KQ8AU8Bz" text="You told the notable that this was not your affair. He did not like to hear this."/>
     <string id="kqgadhCF" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION}, has asked you to be her champion in an upcoming tournament. {TOURNAMENT_ROUND_GOAL} \nYou told her that you will honor her name in a tournament."/>
-    <string id="kqJipMqc" text="Track detection radius +{a0}%"/>
+    <string id="kqJipMqc" text="Радіус виявлення слідів +{a0}%"/>
     <string id="kRASveAC" text="We're just harmless foresters..."/>
     <string id="KRfcro26" text="We're here to fight. Surrender or die!"/>
     <string id="krTrNonp" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has escaped from captivity."/>
@@ -2678,7 +2678,7 @@
     <string id="lbGa4ihC" text="Mighty Blow "/>
     <string id="lBHm1JlL" text="Your kingdom has ended your mercenary contract."/>
     <string id="lbHswWdb" text="Hunting is all about being aware of your surroundings and tracking your prey. You felt that the same skills would serve a lord well in journeys across the wild."/>
-    <string id="lbrOAvKj" text="Spotting distance +{a0}%"/>
+    <string id="lbrOAvKj" text="Дальність виявлення +{a0}%"/>
     <string id="Lbs2bNlg" text="The {KINGDOM} will start {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="LbTETjZu" text="I want you to crush them. Go to {VILLAGE} and give them a lesson they won't forget."/>
     <string id="lc0YIqby" text="Stage a prison break"/>
@@ -3607,7 +3607,7 @@
     <string id="RFH1lDMj" text="Raided Village Count"/>
     <string id="rFriAZcL" text="Can you really pay me {BASE_REWARD_X_2}{GOLD_ICON} for your freedom?"/>
     <string id="rfyalLyY" text="What can I say? It's a beautiful world, but filled with so much suffering."/>
-    <string id="rgb6vdon" text="Running speed increased by {a0}%"/>
+    <string id="rgb6vdon" text="Швидкість бігу збільшена на {a0}%"/>
     <string id="rGuYLmez" text="Ascyron"/>
     <string id="RGZWdKDx" text="Ah. It makes me so glad to hear you say that!"/>
     <string id="Rh0DlvvE" text="I'm glad you see it that way. Go on. Continue your training."/>
@@ -3934,7 +3934,7 @@
     <string id="TLcnbALt" text="Here are your {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} my {?QUEST_GIVER.GENDER}lady{?}lord{\?}."/>
     <string id="TLGvIdJB" text="Self Medication"/>
     <string id="tlLDHAIu" text="Very well. A pleasure doing business with you.[rf:convo_relaxed_happy][ib:demure]"/>
-    <string id="tlNZIH3l" text="Knock down resistance: {a0}% of max. hitpoints"/>
+    <string id="tlNZIH3l" text="Опір до збиття з ніг: {a0}% від макс. здоров'я"/>
     <string id="TLuaPAIO" text="{A0} Taxes"/>
     <string id="tMkMi5C7" text="wins wrestling matches."/>
     <string id="tMUla7vz" text="{?CHILD.GENDER}She{?}He{\?} is light but strong, and can outrun almost all of {?CHILD.GENDER}her{?}his{\?} peers."/>
@@ -3996,7 +3996,7 @@
     <string id="TXzZwb7n" text="You best back off. Scores of our brothers are just over that ridge over there, waiting for our signal."/>
     <string id="tYAYIRjr" text="Impale"/>
     <string id="TyB6y5bh" text="Sledges"/>
-    <string id="TyjDHQUv" text="Knock back resistance: {a0}% of max. hitpoints"/>
+    <string id="TyjDHQUv" text="Опір відкиданню: {a0}% від макс. здоров'я"/>
     <string id="TyultuzK" text="That's all I need to know. Thank you."/>
     <string id="TyvEmZbC" text="{CHILD.NAME} is usually the one who decides what games {?CHILD.GENDER}her{?}his{\?} friends will play, and leads them on imaginary adventures around the estate."/>
     <string id="tYVW8iQN" text="Talk to army leader"/>
@@ -4360,7 +4360,7 @@
     <string id="WaGKvsfc" text="Discarded weapons are donated to troops for increased experience."/>
     <string id="wAhXFoNH" text="You'll have to fight us first![rf:idle_angry][ib:aggressive]"/>
     <string id="waoSd6tj" text=".. and I shall defend your rights and the rights of your legitimate heirs."/>
-    <string id="WaUuhxwv" text="Weight penalty reduced by: {a0}%"/>
+    <string id="WaUuhxwv" text="Штраф від ваги зменшено на: {a0}%"/>
     <string id="way8jWK8" text="no risk of failure"/>
     <string id="wBBidWVw" text="What have we here? You can't enter the town with so many weapons. Hand them over! You can retrieve them when you leave."/>
     <string id="WBcw6Z9W" text="{HERO.NAME} is leading an alley."/>
