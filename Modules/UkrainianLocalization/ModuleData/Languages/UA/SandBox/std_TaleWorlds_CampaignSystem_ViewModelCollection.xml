@@ -50,7 +50,7 @@
     <string id="6GSXsdeX" text="Швидкість"/>
     <string id="6QoSHiWC" text="An alley without a leader"/>
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: "/>
-    <string id="7h6cXdW7" text="Engineer"/>
+    <string id="7h6cXdW7" text="Інженер"/>
     <string id="7l0LGKRk" text="Date Started"/>
     <string id="7tBOCHm6" text="Sigil Color:"/>
     <string id="7tKjfMSb" text="Alleys"/>
@@ -167,7 +167,7 @@
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Trade Rumors"/>
     <string id="f4nc7FfE" text="Upgrade to {UPGRADE_NAME}"/>
     <string id="f6vTzVar" text="Does not have a mobile party."/>
-    <string id="Fa2nKXxI" text="Governor"/>
+    <string id="Fa2nKXxI" text="Намісник"/>
     <string id="fAxjyMt5" text="Night"/>
     <string id="FBYFcrWo" text="Leave in settlement"/>
     <string id="FdzsOvDq" text="This action is disabled while in a mission"/>
@@ -186,7 +186,7 @@
     <string id="Gd6zuUwh" text="Free Build"/>
     <string id="gduqxfck" text="You don't have all required materials!"/>
     <string id="gENb9SSW" text="Evening"/>
-    <string id="ggpRTQQl" text="Party Leader"/>
+    <string id="ggpRTQQl" text="Лідер загону"/>
     <string id="Gp2vmZGZ" text="{PERKS}"/>
     <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans."/>
     <string id="gsVtO9A7" text="Militia"/>
@@ -363,7 +363,7 @@
     <string id="Q8dhryRX" text="Parties' Food"/>
     <string id="qaQqAYGc" text="Moving to {LEADER.NAME}{.o} Party"/>
     <string id="QBB0KQ2Z" text="Parties' Average Morale"/>
-    <string id="QBPrRdQJ" text="Surgeon"/>
+    <string id="QBPrRdQJ" text="Хірург"/>
     <string id="qBq70qDq" text="Current Project"/>
     <string id="qbqimqMb" text="{GOVERNOR.NAME} is on the way to be the new governor of {SETTLEMENT_NAME}"/>
     <string id="qdoJOH0j" text="Party Wage"/>
@@ -391,7 +391,7 @@
     <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
     <string id="RClxLG6N" text="Holding"/>
     <string id="recruitVerb" text="Recruit"/>
-    <string id="redwEIlW" text="Quartermaster"/>
+    <string id="redwEIlW" text="Інтендант"/>
     <string id="rg7OuWS2" text="Maneuver"/>
     <string id="rgqA29b8" text="You don't have enough {SKILL_NAME} skill to equip this item"/>
     <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}."/>
@@ -460,7 +460,7 @@
     <string id="uQgNPJnc" text="Manage Troops"/>
     <string id="US7UmBbt" text="Armor Tier"/>
     <string id="UUaW0dba" text="Moving to {SETTLEMENT_NAME}"/>
-    <string id="UxAl9iyi" text="Personal"/>
+    <string id="UxAl9iyi" text="Особ."/>
     <string id="uZhHh7pm" text="Crafted {CURR_TEMPLATE_NAME}"/>
     <string id="v3OF6vBg" text="Yield"/>
     <string id="vdKiLwaf" text="Traveling"/>
