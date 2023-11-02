@@ -3382,7 +3382,7 @@
     <string id="q2ZDAm2v" text="{VALUE}% food consumption during sieges in the governed settlement."/>
     <string id="Q39oLjSu" text="One of the entourage was thrown from a horse on the road. The young {?CHILD.GENDER}woman{?}man{\?} set the broken bone and ensured it healed cleanly."/>
     <string id="q3J9Wb8N" text="If you can afford to pay {GOLD_AMOUNT} {GOLD_ICON} for it, I can teach you right now. Are you sure you want to go through with it?"/>
-    <string id="q3wD0rbq" text="{SETTLEMENT_LINK} is governed by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {KEEP_INFO}"/>
+    <string id="q3wD0rbq" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
     <string id="q4wWEbsa" text="You decided not to deliver the items after listening to {COUNTER_OFFER_HERO.LINK}."/>
     <string id="q5IMLou4" text="{VALUE}% tariff gain in the governed settlement."/>
     <string id="Q72PJYtf" text="{VALUE} party size for each leadership point above 250."/>
@@ -4157,7 +4157,7 @@
     <string id="uwmfgcM3" text="We need {REQUESTED_ITEM_COUNT} {.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%} in {NUMBER_OF_DAYS} days. The village is short on denars so we can make the payment in kind - with {?NUMBER_OF_EXCHANGE_ITEM &gt; 1}{NUMBER_OF_EXCHANGE_ITEM} {._}{PLURAL(EXCHANGE_ITEM)}{?}one {._}{EXCHANGE_ITEM}{\?}. What do you say?"/>
     <string id="uwmHjy7z" text="You cannot pillage a settlement that has your faction culture.{newline}"/>
     <string id="UwPs3wmj" text="My liege {NEW_LIEGE.NAME} would welcome your support. Join us!"/>
-    <string id="UWzQsHA2" text="{SETTLEMENT_LINK} is governed by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {PROSPERITY_INFO} {MORALE_INFO}"/>
+    <string id="UWzQsHA2" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {FACTION_TERM}{.v_rod}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="Ux90sIph" text="{VALUE}% experience gain to garrisoned cavalry in the governed settlement."/>
     <string id="UxAl9iyi" text="Особисте"/>
     <string id="UXCjNTjF" text="Hurry up. I don't have that much time."/>
