@@ -376,7 +376,7 @@
     <string id="4ORpHfu2" text="{VALUE}% price penalty while buying clay, iron, cotton and silver."/>
     <string id="4Pbfs4rV" text="Breeder"/>
     <string id="4PdKPMNc" text="{VALUE}% accuracy penalty while moving."/>
-    <string id="4pmvrnmN" text="The castle of {SETTLEMENT_LINK} is owned by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {KEEP_INFO}"/>
+    <string id="4pmvrnmN" text="Замком {SETTLEMENT_LINK} володіє {LORD.LINK}, {FACTION_OFFICIAL} {._}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
     <string id="4pOb934Y" text="understands how a victory is won."/>
     <string id="4rCIZ6e5" text="{QUEST_SETTLEMENT} was raided, Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="4RNREbPW" text="You managed to return all of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.{newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}.”"/>
@@ -3695,7 +3695,7 @@
     <string id="RUZHJMQO" text="Шкода від лука: +{a0}%"/>
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
     <string id="RVas572P" text="Raided"/>
-    <string id="RVDojUOM" text="The lands around {SETTLEMENT_LINK} are owned mostly by {LORD.LINK}, {FACTION_OFFICIAL} of the {FACTION_TERM}. {PROSPERITY_INFO}"/>
+    <string id="RVDojUOM" text="Землями довкола {SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}., {FACTION_OFFICIAL} {._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
     <string id="rVIzHhLO" text="The young {?CHILD.GENDER}woman{?}man{\?}'s social graces helped put other merchants at ease as they exchanged information and worked out deals."/>
     <string id="RvKwdXWs" text="Commander"/>
     <string id="RVLPQ4rm" text="My friend. I am almost sad that these meetings are going to come to an end. Well, a deal is a deal. I won't beat around the bush. Here's your final message: {DIRECTIVE}. I wish you luck, right up until the moment that you have to go down.[if:happy][ib:demure]"/>
