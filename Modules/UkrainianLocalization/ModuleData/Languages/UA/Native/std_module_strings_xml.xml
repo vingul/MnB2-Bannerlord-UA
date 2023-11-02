@@ -384,7 +384,7 @@
     <string id="aUNYlvbN" text="You have arrived at {SETTLEMENT} to raid it. Some of the residents have gathered to resist you."/>
     <string id="AUOio5Tu" text="Daily Defaults"/>
     <string id="AVoWvlue" text="{RANK} ({NUMBER})"/>
-    <string id="AVQUGwTg" text="The town is of average wealth."/>
+    <string id="AVQUGwTg" text="Місто середнього достатку."/>
     <string id="awQrcrt2" text="Pottery{@Plural}crates of pottery{\@}"/>
     <string id="AWW0T6xR" text="A pawn may be moved orthogonally, one tile at a time.{newline}A pawn can not be moved back to the tile that it came from in the previous turn.{newline}If a player is unable to move, that player may remove one of the opponent's pawns and still make a move."/>
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.{newline}{newline}You will not be able to undo / cancel this action.{newline}{newline}Are you sure?"/>
@@ -1420,7 +1420,7 @@
     <string id="qpmpTdla" text="Notable"/>
     <string id="QPoA6vvx" text="Income"/>
     <string id="qQLh6S2w" text="ОУ {CURRENTAMOUNT}/{TARGETAMOUNT}"/>
-    <string id="qR0s1VvE" text="You hear some complaints about prices, shortages and greedy merchants, but no more than normal."/>
+    <string id="qR0s1VvE" text="Ви чуєте деякі скарги на ціни, дефіцит і жадібних торговців, але загалом нічого особливого."/>
     <string id="qRqnrtdX" text="Власник"/>
     <string id="qSC0t1lY" text="On {DAY_OF_YEAR}, {YEAR}, {FIRST_HERO} married {SECOND_HERO}."/>
     <string id="qsh0I4Rm" text="Your opponent rolls a {DICE_ROLL}."/>
@@ -1510,7 +1510,7 @@
     <string id="siegeevent" text="Siege"/>
     <string id="Sj9Ux8jS" text="Routed"/>
     <string id="sJLUbnLl" text="Total Strength"/>
-    <string id="sKnYLPkn" text="king"/>
+    <string id="sKnYLPkn" text="{.m}король{.R_n20_a_p}"/>
     <string id="slKe6Gyc" text="Total food of army"/>
     <string id="SLNKWIj5" text="Hero's {TRAIT_NAME} trait needs to be {MAX_TRAIT_AMOUNT} or lower."/>
     <string id="smeltverb" text="Smelt"/>
