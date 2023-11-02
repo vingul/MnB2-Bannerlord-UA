@@ -29,7 +29,7 @@
     <string id="0T3bP5r6" text="{DAY} {?PLURAL_DAYS}days{?}day{\?}"/>
     <string id="0V4jIIju" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для облоги."/>
     <string id="0zNzaDGq" text="Blade"/>
-    <string id="0zz1iDMY" text="a chieftain"/>
+    <string id="0zz1iDMY" text="{.m}вождь{.R_n20_a_p}"/>
     <string id="11aiaODt" text="Foot Armor"/>
     <string id="13q8IRfZ" text="my sister {REFERING_HERO.LINK}"/>
     <string id="1AcoIQVl" text="You have arrived at {SETTLEMENT} to raid it. Some of the residents have gathered to resist you. Raiding this village will cause a war with the {KINGDOM}."/>
@@ -71,7 +71,7 @@
     <string id="2awf1tei" text="Tax"/>
     <string id="2aXJEgag" text="Strength: {ARMY_STRENGTH}"/>
     <string id="2CfPklXG" text="Army Name"/>
-    <string id="2CgZVkDj" text="an archon"/>
+    <string id="2CgZVkDj" text="{.m}архонт{.R_n20_a_ke_p}"/>
     <string id="2EzfAklA" text="You gave {COUNT} {ITEM} to {HERO.NAME}."/>
     <string id="2gpFPuZZ" text="Cruel"/>
     <string id="2I2uKJlw" text="Mercy"/>
@@ -259,7 +259,7 @@
     <string id="8fLMcFFG" text="On {DAY_OF_YEAR}, {YEAR}, you unfurled the dragon banner and proclaimed your mission to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
     <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: "/>
     <string id="8Gh3Waa3" text="wife"/>
-    <string id="8HMyTKF6" text="Вландійці"/>
+    <string id="8HMyTKF6" text="{.p}Вландієць{.R_n22_a_p}"/>
     <string id="8iONwXCz" text="twenty-second"/>
     <string id="8J7ABQhb" text="Noble Mount"/>
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} cohesion)"/>
@@ -291,7 +291,7 @@
     <string id="9iycVtyV" text="Швидкість вивчення: x {COUNT}"/>
     <string id="9Lhd2zVW" text="On {DAY_OF_YEAR}, {YEAR}, you found a third piece of the Dragon Banner. You are ready to unfurl it once again."/>
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})"/>
-    <string id="9PLNQrWw" text="You hear few complaints and people seem to have confidence in the authorities."/>
+    <string id="9PLNQrWw" text="Ви чуєте мало скарг. Люди, здається, довіряють своїм правителям."/>
     <string id="9pwIt4aa" text="Wax{@Plural}loads of wax{\@}"/>
     <string id="9raxrECY" text="If you proceed, {LEADER.NAME} will be the new leader of this party. Are you sure?"/>
     <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging."/>
@@ -357,7 +357,7 @@
     <string id="alMmQrhK" text="Party Morale"/>
     <string id="AmbKQ7LT" text="Transfer"/>
     <string id="AMhvD9om" text="Army Commander"/>
-    <string id="anHqaNK0" text="queen"/>
+    <string id="anHqaNK0" text="{.f}королева{.R_n10_ko_p1}"/>
     <string id="anrHk7ea" text="{PARTY} is leading the attack on the enemy. You'll be joining {?ARMY_COMMANDER_GENDER}her{?}him{\?} with your troops."/>
     <string id="aNSAaHk9" text="Bagh Chal is a game of Sheep (white) versus Wolves (black).{newline}The wolves have four pawns that start on the four corners of the board. Every turn, one sheep is placed on the board, and one wolf makes a move or capture until all sheep have been placed on the board.{newline}After all sheep have been placed, the sheep can now also move on the board."/>
     <string id="anSH3M5W" text="{NUM1} x {NUM2}"/>
@@ -431,7 +431,7 @@
     <string id="bfQLwMUp" text="Clans"/>
     <string id="BftxIurV" text="You need to resolve {DECISION_NAME} decision."/>
     <string id="bg6x6Hbv" text="Helm"/>
-    <string id="Bg83jhCR" text="The town is clearly going through hard times. People look malnourished and buildings are poorly maintained."/>
+    <string id="Bg83jhCR" text="Місто явно переживає не найкращі часи. Люди мають виснажений вигляд, а будівлі перебувають у жахливому стані."/>
     <string id="bg8co4he" text="Slaughter{newline}You will not be able to undo this action."/>
     <string id="bgjiFSHZ" text="{.p}Баттанець{.R_n22_p}"/>
     <string id="bGyrPe8c" text="Production"/>
@@ -517,7 +517,7 @@
     <string id="cDjq52h2" text="Sergant"/>
     <string id="centerformation" text="Center"/>
     <string id="CgAGsR1P" text="twenty-ninth"/>
-    <string id="chieftainfemale" text="a chieftain"/>
+    <string id="chieftainfemale" text="{.m}вождь{.R_n20_a_p}"/>
     <string id="ChmM5tjf" text="The game is a draw!"/>
     <string id="cJmI2poS" text="Info"/>
     <string id="cjZqTaHm" text="You don't have enough influence."/>
@@ -748,7 +748,7 @@
     <string id="G0AWk1rX" text="Ladder"/>
     <string id="g0gDsalr" text="Impulsive"/>
     <string id="g1KLcfxT" text="The village is prosperous. Brimming sacks of grain, healthy animals and loaded carts testify to the bounty of the fields."/>
-    <string id="G4XXubLg" text="an emira"/>
+    <string id="G4XXubLg" text="{.f}еміра{.R_n10_ko_p1}"/>
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!"/>
     <string id="g6J4Oe6z" text="Clan name needs to be between {MIN} - {MAX} characters."/>
     <string id="g7zo28KR" text="You have encountered {PARTY}. They have no chance against your overwhelming power, and they surrender."/>
@@ -951,7 +951,7 @@
     <string id="JAFIo7cM" text=":"/>
     <string id="jAISxqxR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending a siege weapon."/>
     <string id="JbN0RwM2" text="You lost {INFLUENCE} influence for abandoning a defensive siege of your kingdom."/>
-    <string id="jbQ3LYBl" text="emperor"/>
+    <string id="jbQ3LYBl" text="{.m}імператор{.R_n20_a_ke_p}"/>
     <string id="JbTCDDb0" text="Bolt"/>
     <string id="jCbYaCcg" text="Well met {PLAYER.LINK}. I am {CONVERSATION_CHARACTER.LINK}. Thanks for your help and I hope we meet again."/>
     <string id="Jd0Kq9lD" text="Shield"/>
@@ -1292,7 +1292,7 @@
     <string id="OviaJ1tA" text="Other"/>
     <string id="oVSS2Lp5" text="Horse Equipment III"/>
     <string id="OWCoBElc" text="You are taken captive by {PARTY_NAME}."/>
-    <string id="owg6SqHF" text="an emir"/>
+    <string id="owg6SqHF" text="{.m}емір{.R_n20_a_ke_p}"/>
     <string id="owTlJjJc" text="Brother-in-law"/>
     <string id="OxiaKT0G" text="Sturgian"/>
     <string id="oYUAuLO7" text="You have sworn not to attack."/>
@@ -1397,7 +1397,7 @@
     <string id="Qg5suamT" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} but {?FIGHTER_GENDER}she{?}he{\?} has been defeated."/>
     <string id="QGaIYQpg" text="Fish{@Plural}barrels of fish{\@}"/>
     <string id="qgHblOq4" text="You spotted an ambush."/>
-    <string id="qgL4P2vO" text="The town is prosperous. The people look well-fed and relatively comfortable."/>
+    <string id="qgL4P2vO" text="Місто процвітає. Люди виглядають ситими та почуваються досить комфортно."/>
     <string id="QgUej8DP" text="No Active Quest"/>
     <string id="qhhLVJAC" text="&lt;b&gt;Preparations&lt;/b&gt;"/>
     <string id="qHkTYCy0" text="Your troops will get {XP_AMOUNT} experience."/>
@@ -1555,7 +1555,7 @@
     <string id="tAMBVG9B" text="third"/>
     <string id="tb6e1wjQ" text="Enemy destroyed all of our siege engines!"/>
     <string id="TCQQRQgI" text="Order of Battle"/>
-    <string id="tDA5dhn3" text="empress"/>
+    <string id="tDA5dhn3" text="{.f}імператриця{.R_n10_ko_p1}"/>
     <string id="TDQId8c9" text="You've constructed a barrier against your opponent, and have more pawns left. You win the game!"/>
     <string id="tDy1TfDq" text="Return To Hero"/>
     <string id="tdYB3Tzc" text="Повторити"/>
@@ -1598,7 +1598,7 @@
     <string id="tXl9REtA" text="Militia of {SETTLEMENT_NAME}"/>
     <string id="Tyc4aAdz" text="Join the battle without leading any men."/>
     <string id="u12ocP9f" text="Утримуйте '{EXTEND_KEY}', щоб дізнатись більше."/>
-    <string id="u3c9M8vx" text="an archoness"/>
+    <string id="u3c9M8vx" text="{.f}архонтесса{.R_n10_ko_p1}"/>
     <string id="U7er3V9s" text="Items"/>
     <string id="U7etPQA2" text="{FIRSTNAME} the {JOB_NAME}"/>
     <string id="U7Z7f7ZT" text="Spouse"/>
@@ -1923,7 +1923,7 @@
     <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}"/>
     <string id="ZvoyX6DX" text="Battanian"/>
     <string id="zw5IEUuD" text="{TITLE}: Log updated."/>
-    <string id="Zw60OTJe" text="Mostly people are content, although you hear some complaints about rising prices, the unequal distribution of wealth, and migrants coming from the countryside."/>
+    <string id="Zw60OTJe" text="Переважно люди задоволені, хоча можна почути деякі скарги на зростання цін, нерівномірний розподіл багатства та наплив людей із сіл."/>
     <string id="Zwb65ufG" text="Clay{@Plural}loads of clay{\@}"/>
     <string id="zWoj91XY" text="BaghChal"/>
     <string id="ZwyPnboN" text="+{BONUS_AMOUNT} bonus to settlement loyalty"/>
