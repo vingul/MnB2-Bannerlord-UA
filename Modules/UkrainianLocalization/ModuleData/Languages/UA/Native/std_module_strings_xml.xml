@@ -255,7 +255,7 @@
     <string id="8B7V0qdT" text="You have lost the battle!"/>
     <string id="8bSHlWBL" text="В місті на цей момент нема турнірів."/>
     <string id="8c8NDpAd" text="{HERO.NAME} has gained {TRAIT_NAME} trait."/>
-    <string id="8cY08v3s" text="The village is of average wealth. Humans and animals alike look well-fed. Villagers busily attend to the tasks of the seasons."/>
+    <string id="8cY08v3s" text="Село середнього достатку. Люди і тварини виглядають вгодованими. Селяни заклопотані сезонними роботами."/>
     <string id="8fLMcFFG" text="On {DAY_OF_YEAR}, {YEAR}, you unfurled the dragon banner and proclaimed your mission to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
     <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: "/>
     <string id="8Gh3Waa3" text="wife"/>
@@ -747,7 +747,7 @@
     <string id="FZBqNCvd" text="nobody"/>
     <string id="G0AWk1rX" text="Ladder"/>
     <string id="g0gDsalr" text="Impulsive"/>
-    <string id="g1KLcfxT" text="The village is prosperous. Brimming sacks of grain, healthy animals and loaded carts testify to the bounty of the fields."/>
+    <string id="g1KLcfxT" text="Село процвітає. Повні мішки зерна, здорові тварини та навантажені вози свідчать про багаті врожаї."/>
     <string id="G4XXubLg" text="{.f}еміра{.R_n10_ko_p1}"/>
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!"/>
     <string id="g6J4Oe6z" text="Clan name needs to be between {MIN} - {MAX} characters."/>
@@ -983,7 +983,7 @@
     <string id="jQGcUobB" text="Civillian"/>
     <string id="JQOUUVct" text="Пауза"/>
     <string id="JSokBXER" text="Heavy Infantry"/>
-    <string id="jSXE0Gbj" text="The villagers here are few and frightened, and they quickly scatter and run before you. The village is at your mercy."/>
+    <string id="jSXE0Gbj" text="Селян тут небагато і вони налякані, вони швидко розбігаються, коли бачать вас. Село у вашій повній владі."/>
     <string id="jtN3ayKE" text="Primary Production"/>
     <string id="JTyC3Xra" text="Closefisted"/>
     <string id="Ju9ZiFT2" text="Melee Weapons V"/>
@@ -1266,7 +1266,7 @@
     <string id="Ohdrbpiw" text="Vlandian"/>
     <string id="OhLXo0gb" text="Criminal Governor"/>
     <string id="OIBpCGYv" text="This party will shrink in size. It's current size target is {TARGET_SIZE}"/>
-    <string id="OiCCv0EL" text="The village is going through hard times. Farm tools are rusty and broken. Brush and weeds are reclaiming the outermost fields. "/>
+    <string id="OiCCv0EL" text="Село переживає важкі часи. Знаряддя праці заіржавілі та зламані. Чагарники та бур'яни потроху заполоняють поля."/>
     <string id="oiFt5bEV" text="Building Bonus"/>
     <string id="oiSW6MyB" text="Chest Armor"/>
     <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}"/>
