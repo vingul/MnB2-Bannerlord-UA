@@ -251,8 +251,8 @@
     <string id="2YiPE05P" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. Your companion will no doubt be very helpful."/>
     <string id="2YUUGQvG" text="Female"/>
     <string id="2YYRyrOO" text="Leave..."/>
-    <string id="2zNrVsDj" text="{VALUE}% battle morale effect to friendly troops with your two handed kills."/>
-    <string id="30eSZeZd" text="{VALUE}% experience gain for companions."/>
+    <string id="2zNrVsDj" text="{VALUE}% бойового духу для дружніх військ, коли ви вбиваєте дворучною зброєю."/>
+    <string id="30eSZeZd" text="{VALUE}% досвіду для супутників."/>
     <string id="30hNRt3x" text="Small Unit Tactics"/>
     <string id="33mKghKQ" text="Please don't kill us. We surrender.[rf:idle_angry][ib:nervous]"/>
     <string id="34MdCd6u" text="You have sold the mercenaries to another lord as you promised. {QUEST_GIVER.LINK} is grateful and sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards."/>
@@ -260,13 +260,13 @@
     <string id="38dcXWzq" text="{newline} • Notable Powers: {NOTABLE_POWER_LOST_AMOUNT}%"/>
     <string id="38DvG2ba" text="Yeah? What is it now?"/>
     <string id="38W2WloI" text="-50% штрафу до швидкості та +15% до радіуса огляду в лісах."/>
-    <string id="3a6tmImq" text="{VALUE}% recruitment cost of infantry."/>
+    <string id="3a6tmImq" text="{VALUE}% вартості найму піхоти."/>
     <string id="3aOIY6wl" text="Salt Mine"/>
     <string id="3ApJ6LaX" text="You have transferred the recruits to {QUEST_GIVER.LINK} as promised."/>
     <string id="3b4sjuMu" text="{VALUE} relationships with lords and ladies for succesful crafting orders."/>
     <string id="3BvfOe1y" text="Very well then. You catch some more and you want me to take them off of your hands, you know where to find me..."/>
     <string id="3cBfSJOI" text="Is there anything else?[ib:normal]"/>
-    <string id="3cBX5x0x" text="{VALUE}% reload speed with crossbows."/>
+    <string id="3cBX5x0x" text="{VALUE}% швидкості перезаряджання арбалетів."/>
     <string id="3CpNUnVl" text="Cancel"/>
     <string id="3cw5pRFM" text="I had not thought that I might marry a shieldmaiden. But it is intriguing. Tell me, have you killed men in battle?"/>
     <string id="3EL0wY1h" text="Tell me about the details."/>
@@ -293,7 +293,7 @@
     <string id="3mJMAX0Y" text="{VALUE} troop for the hideout crew"/>
     <string id="3ML4EkWY" text="Foreman"/>
     <string id="3MLtqFPt" text="Thunderous Charge"/>
-    <string id="3MOJjS7A" text="{VALUE}% relationship gain with the same gender."/>
+    <string id="3MOJjS7A" text="{VALUE}% покращення стосунків з людиною тієї ж статі."/>
     <string id="3n1KRLpZ" text="'My love is far \n I know not where \n Perhaps the winds shall tell me'"/>
     <string id="3nbuRBJK" text="Forget it."/>
     <string id="3nfPGbN0" text="Donated prisoners exceed party capacity."/>
@@ -314,9 +314,9 @@
     <string id="3sRdGQou" text="Leave"/>
     <string id="3ssQAe1t" text="Good to hear that"/>
     <string id="3TIbxe5d" text="{FIRSTNAME} the Brewer"/>
-    <string id="3tLU4AG7" text="{VALUE}% siege attrition loss in the governed settlement."/>
+    <string id="3tLU4AG7" text="{VALUE}% втрат від виснаження у підконтрольному поселенні при облозі."/>
     <string id="3TmLIou4" text="Alive"/>
-    <string id="3UB3qhjk" text="{VALUE}% movement speed to parties called to your army."/>
+    <string id="3UB3qhjk" text="{VALUE}% швидкості пересування для загонів, прикликаних до вашої армії."/>
     <string id="3UDUqYv1" text="Scout Perks"/>
     <string id="3V5udYJO" text="You have recruited the brigands into your party. {QUEST_GIVER.LINK} finds your solution acceptable and sends you the {GOLD_AMOUNT}{GOLD_ICON} as promised."/>
     <string id="3vFxRKja" text="You refused his offer and decided to collect the rest of the revenues by force. Your action upset the village notables and made villagers angry. Some villagers tried to resist. In the brawl, {WOUNDED_COUNT} of your men got wounded."/>
@@ -333,7 +333,7 @@
     <string id="3ZZtAYXm" text="The young {?CHILD.GENDER}woman{?}man{\?} learned to treat the mangled fingers and concussions without which no siege is complete."/>
     <string id="3zzWzQcO" text="{VALUE} melee weapon skills to troops in your party while in shield wall formation."/>
     <string id="41wb8QaV" text="I know I can not force you to pay you what you owe me. But I think you will find that a good name is worth more than a few loads of {SELECTED_ITEM}..."/>
-    <string id="4220dQ4j" text="{VALUE}% wages and upgrade costs of the mercenary troops in your party."/>
+    <string id="4220dQ4j" text="{VALUE}% вартості утримання та покращення найманців у вашому загоні."/>
     <string id="428B377z" text="{ISSUE_GIVER.LINK}, a merchant of {QUEST_GIVER_SETTLEMENT}, told you that the poachers {?ISSUE_GIVER.GENDER}she{?}he{\?} hired are now out of control. You asked {COMPANION.LINK} to take {NEEDED_MEN_COUNT} of your men to go to {QUEST_VILLAGE} and kill the poachers. They should rejoin your party in {RETURN_DAYS} days."/>
     <string id="43zzbI1J" text="enemy incursions"/>
     <string id="444rcko0" text="We need {GRAIN_AMOUNT} sacks of grain to meet our basic needs. And if you can find {LIVESTOCK_AMOUNT} live stocks and {WINE_AMOUNT} barrels of wine that would be a great favor. Men fight better after a good meal."/>
@@ -348,7 +348,7 @@
     <string id="4Bl1LWmZ" text="Before {CHILD.NAME} left, you encouraged {?CHILD.GENDER}her{?}him{\?} to..."/>
     <string id="4Bub0GY6" text="Hideout was cleared by someone else. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="4c9ySfVj" text="Did you find what we needed, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
-    <string id="4CSaYB8H" text="{VALUE}% battle morale to Tier 1 to 3 troops"/>
+    <string id="4CSaYB8H" text="{VALUE}% бойового духу для воїнів від 1 до 3 класу."/>
     <string id="4CuMDzvd" text="You asked your best warrior to take {?CHILD.GENDER}her{?}him{\?} under his wings and make sure {?CHILD.GENDER}she{?}he{\?} gets the taste of battle without being seriously harmed."/>
     <string id="4ElA7gRS" text="Decisive Battle"/>
     <string id="4f5xwzX0" text="Коли було необхідно організувати загін, щоб наздогнати конокрадів, ваша громада звернулася до вас, оскільки ви були очевидним вибором. Ви вистежили викрадачів, оточили їх, змусили здатися і повернути вкрадене."/>
@@ -366,13 +366,13 @@
     <string id="4lEEqyCg" text="Jacorios"/>
     <string id="4M6jlZVa" text="{ISSUE_GIVER.LINK} an artisan from {ISSUE_GIVER_SETTLEMENT} has complained to you about not being able to sell their goods at the price they want because of local laws. {?ISSUE_GIVER.GENDER}She{?}He{\?} will pay {REWARD}{GOLD_ICON} for you to take the goods to another town. You have tasked {COMPANION.LINK} and {ALTERNATIVE_SOLUTION_TROOP_COUNT} men to smuggle {?ISSUE_GIVER.GENDER}her{?}his{\?} goods to a “friend” in {TARGET_TOWN}. They will return to you in {RETURN_DAYS} days with a sizable sum of {REWARD}{GOLD_ICON}."/>
     <string id="4MPhLYcT" text="Bargain with the group, agreeing to forgive the debts of the poorest villagers"/>
-    <string id="4MPzgKqE" text="{VALUE}% travel speed to your throwing weapons for every skill point above 200."/>
+    <string id="4MPzgKqE" text="{VALUE}% швидкості польоту снарядів метальної зброї за кожне очко вміння вище 200."/>
     <string id="4MQQf3wp" text="We are waiting for your arrival. "/>
     <string id="4n71Xoyq" text="You have failed to bring the weapons to the {QUEST_GIVER.LINK} in time."/>
     <string id="4NaOKslb" text="-"/>
     <string id="4nbnFMNZ" text="I can't promise to win, my lady."/>
     <string id="4nUhnWZ3" text="There was a great deal of feasting and speech-making. From what you hear, {?CHILD.GENDER}she{?}he{\?} acquitted {?CHILD.GENDER}herself{?}himself{\?} well."/>
-    <string id="4Onw6Gxa" text="{VALUE}% party speed for every skill point above 200 scouting skill."/>
+    <string id="4Onw6Gxa" text="{VALUE}% швидкості загону за кожне очко уміння розвідника вище 200."/>
     <string id="4ORpHfu2" text="{VALUE}% price penalty while buying clay, iron, cotton and silver."/>
     <string id="4Pbfs4rV" text="Breeder"/>
     <string id="4PdKPMNc" text="{VALUE}% accuracy penalty while moving."/>
