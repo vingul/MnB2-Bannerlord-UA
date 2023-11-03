@@ -704,7 +704,7 @@
     <string id="8PsaGhI8" text="На 20% менше податкових надходжень з міст."/>
     <string id="8PV1oB9W" text="I wish to focus on {SKILL_NAME}."/>
     <string id="8PwNj5tR" text="Yes... Yes. We should, em, discuss this."/>
-    <string id="8q4vzfbH" text="{VALUE}% damage against destructible objects by troops in your formation."/>
+    <string id="8q4vzfbH" text="{VALUE}% шкоди по об'єктах, що знищуються, від воїнів у вашому строю."/>
     <string id="8qwvZ15E" text="Towns held by the ruler clan gain 1 Loyalty and 1 Prosperity per day{newline}Towns held by non-ruler clans lose 0.3 Loyalty per day"/>
     <string id="8RBZaQKk" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} chose not to go to war with the {KINGDOM} with the support of {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council."/>
     <string id="8rgH8CGc" text="We're just harmless shepherds..."/>
@@ -728,12 +728,12 @@
     <string id="8Z4vlcib" text="Your clan is now at war with the {ISSUE_GIVER.LINK}'s lord. Your agreement with {ISSUE_GIVER.LINK} was canceled."/>
     <string id="915frsPd" text="Corena"/>
     <string id="92M0Pb5T" text="Розвідник"/>
-    <string id="93Z7G161" text="{VALUE}% combat movement speed while no weapons or shields are equipped."/>
+    <string id="93Z7G161" text="{VALUE}% швидкості пересування в бою без зброї та щита."/>
     <string id="940TwBPs" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} over the objections of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="94wCiGjB" text="So it seems as though {ENEMY_NAME} have had enough of war. Good. Peace is good."/>
     <string id="95jXfam8" text="What kind of skill is this, speaking broadly? What trait would you say it reflects?"/>
     <string id="96m29Eb7" text="The Art of The Trade"/>
-    <string id="97nYJcKO" text="{VALUE}% crossbow damage to mounts."/>
+    <string id="97nYJcKO" text="{VALUE}% шкоди від арбалета по їздовим тваринам."/>
     <string id="97pacK2l" text="Fah... I don't need more men. Thank you."/>
     <string id="99v8GTTe" text="{DEFAULT_TEXT}Before {?ARMY_LEADER.GENDER}she{?}he{\?} fell, {ARMY_LEADER.LINK} granted {?ARMY_LEADER.GENDER}her{?}his{\?} men their customary right of pillage after a successful siege. They may take property but must spare the townsfolk's lives."/>
     <string id="9ACJsI6S" text="Blocked"/>
@@ -745,7 +745,7 @@
     <string id="9BoHka98" text="The young {?CHILD.GENDER}woman{?}man{\?} pursued enemy scouts while avoiding their main force. There was little fighting but a great deal of riding."/>
     <string id="9Cbeagow" text="{RULER.NAME} has decided against giving {SETTLEMENT} to a new clan over the objections of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="9cDw6vPF" text="Cadomenos"/>
-    <string id="9CjoaJwe" text="{VALUE}% damage by troops in your formation."/>
+    <string id="9CjoaJwe" text="{VALUE}% шкоди від воїнів у вашому строю."/>
     <string id="9cZeHcAC" text="The cruelty of {CURRENT_LIEGE.NAME} is legendary. Who cares what he stands for if the realm is drenched in blood?"/>
     <string id="9d6WxRrj" text="Do you want to buy the goods yourself? Or will I retain ownership, and you just keep the extra profits? I am expecting to earn {TOTAL_DENARS}{GOLD_ICON} for {SELECTED_COUNT} loads of produce. If would like to buy it right away you can simply sell it yourself or do whatever you wish with it."/>
     <string id="9DaDtQbo" text="Disavow {POLICY_NAME}"/>
