@@ -20,12 +20,8 @@
             <DLLName value="CustomTextProcessor.dll"/>
             <SubModuleClassType value="CustomTextProcessor.UkrTextProcessorLoader"/>
             <Tags />
-                <!--<Tag key="DedicatedServerType" value="none" />
-                <Tag key="IsNoRenderModeElement" value="true" />
-            </Tags>-->
         </SubModule>
     </SubModules>
-    <!--<SubModules/>-->
 	<Xmls> 
 	</Xmls>
 </Module>
