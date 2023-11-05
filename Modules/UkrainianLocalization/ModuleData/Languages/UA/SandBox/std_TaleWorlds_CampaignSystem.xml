@@ -1467,7 +1467,7 @@
     <string id="DcoDtW2A" text="Choose a Gift"/>
     <string id="dcsschkC" text="Збільшена площа захисту щита від снарядів."/>
     <string id="dCv4Qbr6" text="I don't think you can help me. You don't have enough troops for this task."/>
-    <string id="dcVuMs9r" text="{VALUE}% шансу, що кавалерійський спис знищиться після вбивства."/>
+    <string id="dcVuMs9r" text="{VALUE}% шансу, що кавалерійський спис залишиться опущеним після вбивства ворога."/>
     <string id="DdeIg5hz" text="As you move through the streets, you hear whispers of an upcoming war between your faction and {SETTLEMENT_FACTION}. Upon hearing this, you slink away without attracting any suspicion."/>
     <string id="ddEu5IFQ" text="I hope so."/>
     <string id="dDmcqTzb" text="Ваша репутація не була такою, про яку складають місцеві легенди, але вона була такою, що принесла вам повагу серед оточуючих. Ви були незмінно справедливим і чесним в угодах, які ви укладали та допомагали тим, хто потрапляв у біду. При цьому ви добре розуміли людей та їх мотиви."/>
