@@ -1691,11 +1691,11 @@
     <string id="ePmSvu1s" text="{AMOUNT}{GOLD_ICON}"/>
     <string id="ePNba38W" text="Armies win battles, but farms and towns win wars."/>
     <string id="epnk9qIt" text="We oppose a declaration of war"/>
-    <string id="Epwmv89M" text="{VALUE}% weapon handling while on foot."/>
+    <string id="Epwmv89M" text="{VALUE}% збалансованості зброї при переміщенні пішки."/>
     <string id="EqFbNha8" text="The villagers grudgingly bring out what they have for you."/>
     <string id="EQLgVYk0" text="Settlement Issues"/>
     <string id="EqLQtlca" text="The way we just ran from the enemy back there... I don't want to get a name for being a coward."/>
-    <string id="EQmElTk0" text="{VALUE}% defense against mount charge damage."/>
+    <string id="EQmElTk0" text="{VALUE}% захисту від шкоди при зіткненні з вершником."/>
     <string id="EQSIg1W3" text="A courier arrives from {CLAN_LEADER.NAME}, head of the {CLAN_NAME}. {?CLAN_LEADER.GENDER}She{?}He{\?} proposes that {?CLAN_LEADER.GENDER}herself{?}himself{\?} marry {PLAYER_CLAN_HERO.NAME}, from your clan. The couple appear to be compatible. Do you accept?"/>
     <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}She{?}He{\?} will make payment as {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT&gt;1}units{?}unit{\?} of {._}{EXCHANGE_ITEM} when the task is done."/>
     <string id="eR7P1cVA" text="{VILLAGE} Needs Crafting Materials"/>
@@ -1712,7 +1712,7 @@
     <string id="ETbToaZC" text="You have failed to place in the tournaments as {QUEST_GIVER.LINK} wished."/>
     <string id="ETfx08db" text="see as much of the world as {?CHILD.GENDER}she{?}he{\?} could."/>
     <string id="etG87fB7" text="зі своїм репетитором."/>
-    <string id="ETiOGIvT" text="{VALUE}% travel speed on steppes and plains."/>
+    <string id="ETiOGIvT" text="{VALUE}% швидкості руху по степах і рівнинах."/>
     <string id="etjMHPjQ" text="Go to dungeon"/>
     <string id="etKrpcHe" text="You must resolve pending decisions"/>
     <string id="ETKyjOkJ" text="You don't have enough denars to pay the fine."/>
@@ -1720,7 +1720,7 @@
     <string id="etYcn79b" text="Let me try to talk some sense into you..."/>
     <string id="ETye0JMY" text="Effects settlement's prosperity."/>
     <string id="etYq1Tky" text="{VILLAGE} was raided and the poachers scattered."/>
-    <string id="EU3No7XM" text="{VALUE}% armor penetration with bows."/>
+    <string id="EU3No7XM" text="{VALUE}% пробиття броні луками."/>
     <string id="EU4JjLqV" text="Triage Tent"/>
     <string id="EUbdov2r" text="Back off, stranger. There's dozens more of us hiding in that gully over there, just waiting for our signal."/>
     <string id="EuhvSsPZ" text="Good. Keep them busy."/>
