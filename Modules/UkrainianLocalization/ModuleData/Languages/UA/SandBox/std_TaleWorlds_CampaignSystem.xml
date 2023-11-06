@@ -3075,7 +3075,7 @@
     <string id="NwO0CVzn" text="Recruit {MEN_COUNT} {MERCENARY_NAME} ({TOTAL_AMOUNT}{GOLD_ICON})"/>
     <string id="NxcvQlAk" text="Health Advice"/>
     <string id="NxcXfUxu" text="The village has been looted. A handful of souls scatter as you pass through the burnt-out houses."/>
-    <string id="Nxh6aX2E" text="{VALUE}% chance to recover from lethal wounds in siege battles."/>
+    <string id="Nxh6aX2E" text="{VALUE}% шансу одужати від смертельних поранень, отриманих під час облог."/>
     <string id="nxkNY4YG" text="Distributed Goods"/>
     <string id="NXOOJs2X" text="Patrys"/>
     <string id="NXs7kr2B" text="You managed to return a fraction of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. {newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for returning my men to me. The losses they suffered are somewhat higher than I thought. I can only hope you did what you could do to honor our agreement and try to keep them alive.”"/>
@@ -3088,14 +3088,14 @@
     <string id="NyWXSHH2" text="Of course. Was this for you, or someone else?"/>
     <string id="nZaeTlj8" text="Exchange Troops"/>
     <string id="nZbaYvVx" text="Stash"/>
-    <string id="NzlwbSIj" text="{VALUE}% stamina spent while smelting."/>
+    <string id="NzlwbSIj" text="{VALUE}% витрати витривалості під час переплавлення."/>
     <string id="Nzt8Xkro" text="You cannot ambush because the settlement walls are breached."/>
     <string id="NZynd8vT" text="&quot;This weapon is worthless. I'm not giving you a dime!&quot;"/>
     <string id="o0qwDa0q" text="Your relation increased by {RELATION_VALUE} with nearby notables."/>
     <string id="o1pZHZOF" text="{ATTACK_TEXT}!"/>
     <string id="O1XCNeZr" text="Для найняття лорда у свою армію необхідно на 20% більше впливу."/>
     <string id="o27lTMD4" text="Some villagers tried to resist. In the brawl, {WOUNDED_NUMBER} of your men got wounded."/>
-    <string id="O3sh2iws" text="{VALUE}% food consumption in the governed settlement while under siege."/>
+    <string id="O3sh2iws" text="{VALUE}% споживання їжі у підконтрольному поселенні під час облоги."/>
     <string id="O4cknzhW" text="Irrigation"/>
     <string id="O4dWdKZd" text="Ach... So they say {LORD.LINK} got {?LORD.GENDER}his{?}her{\?} arse handed to {?LORD.GENDER}him{?}her{\?} by {OTHER_SIDE}. Grim times, friend."/>
     <string id="O4flV28Q" text="There are no prisoners here."/>
