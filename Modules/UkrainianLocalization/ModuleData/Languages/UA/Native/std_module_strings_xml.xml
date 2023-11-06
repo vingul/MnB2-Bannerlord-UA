@@ -882,7 +882,7 @@
     <string id="I8xMpWxO" text="Daring"/>
     <string id="IagYTD5O" text="Prosperity"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
-    <string id="IbkODMHV" text="Знаходьте сліди та схованки. Подорожуйте по складній місцевості. (Розвідник)"/>
+    <string id="IbkODMHV" text="Знаходьте сліди та укриття. Подорожуйте по складній місцевості. (Розвідник)"/>
     <string id="iBZc9RbE" text="Let's wait for everyone."/>
     <string id="IcgVKFxZ" text="Ruler"/>
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the castle walls."/>
