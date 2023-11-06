@@ -1751,11 +1751,11 @@
     <string id="ezfehKrT" text="as an apprentice."/>
     <string id="F13aYbuk" text="Lavalios"/>
     <string id="F16k4H7R" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the animals are delivered. You asked your {COMPANION.LINK} and {ALTERNATIVE_TROOP_AMOUNT} of your men to deliver {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} to {QUEST_GIVER.LINK}. They will rejoin your party in {RETURN_DAYS} days."/>
-    <string id="F1CJo2wX" text="{VALUE}% shield hitpoints."/>
+    <string id="F1CJo2wX" text="{VALUE}% міцності щита."/>
     <string id="f1etg9oL" text="Think of something else."/>
     <string id="F1syZDs4" text="{NEWLINE}+{VALUE} до рис «{TRAIT_NAME_ONE}» і «{TRAIT_NAME_TWO}»"/>
     <string id="F2bgujPo" text="були слугами вождя."/>
-    <string id="F2H2lZJ4" text="{VALUE}% armor to foot troops in your formation."/>
+    <string id="F2H2lZJ4" text="{VALUE}% броні для піхоти у вашому строю."/>
     <string id="f3hTGKIP" text="Garitops"/>
     <string id="F41aPt80" text="Royal Guard"/>
     <string id="f4g7r0xF" text="The enemy does not have any vulnerabilities."/>
@@ -1766,17 +1766,17 @@
     <string id="f5jHMbOq" text="Aqueducts"/>
     <string id="f5X5uU0m" text="Village Hearth"/>
     <string id="F5Xc0m5O" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} fell during the fighting. {?ARMY_LEADER.GENDER}Her{?}His{\?} troops, reluctant to harm their {CULTURE_ADJ} kinfolk, forego their traditional right of pillage."/>
-    <string id="f6sgEuS0" text="{VALUE}% mounted melee damage by troops in your formation."/>
+    <string id="f6sgEuS0" text="{VALUE}% шкоди у ближньому бою від вершників у вашому строю."/>
     <string id="F7bbkYx4" text="{VALUE} loyalty per day in the governed settlement."/>
     <string id="F7OO5SAa" text="Досягнувши юнацтва у Кальрадії, війна, звісно, не змогла пройти повз вас. Ви..."/>
-    <string id="f8R0Hkxa" text="{VALUE}% maneuvering."/>
+    <string id="f8R0Hkxa" text="{VALUE}% маневровості."/>
     <string id="f91LSbdx" text="You cannot enter the keep while in disguise."/>
     <string id="Fa2nKXxI" text="Намісник"/>
     <string id="FA2QZc7Q" text="A courier arrives, bearing a message from {OFFERED_KINGDOM_LEADER.NAME}. {?OFFERED_KINGDOM_LEADER.GENDER}She{?}He{\?} is offering you a contract as a mercenary."/>
     <string id="FA5QlTvm" text="Fletcher"/>
     <string id="faa9sFfE" text="I do what I can to alleviate suffering in this world. I hope that is enough."/>
     <string id="fAdwIqbg" text="I think you should try to win my family's approval."/>
-    <string id="FaGc9xR4" text="{VALUE}% chance for bandits, villagers and caravans to surrender."/>
+    <string id="FaGc9xR4" text="{VALUE}% шансу, що бандити, селяни та каравани здадуться."/>
     <string id="FAIYN0vN" text="You have {NUMBER} new updates to your quests."/>
     <string id="faUooB7V" text="The {KINGDOM} will not be {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="FAuoq2gT" text="While I am honored, I must decline your offer."/>
@@ -1790,15 +1790,15 @@
     <string id="Fc7OsyZ8" text="Військова традиція"/>
     <string id="fCHVyxJ1" text="{COMPANION.LINK} reported that {?COMPANION.GENDER}she{?}he{\?} had resolved the matter. Out of {NUMBER1} {?(NUMBER1 &gt; 1)}troops{?}troop{\?} you sent {NUMBER2} {?(NUMBER2 &gt; 1)}troops{?}troop{\?} came back safe and sound."/>
     <string id="FClEZIkT" text="Sovos"/>
-    <string id="fcmt2U5u" text="{VALUE}% melee weapon damage by infantry in your formation."/>
+    <string id="fcmt2U5u" text="{VALUE}% шкоди від зброї ближнього бою піхоти у вашому строю."/>
     <string id="fcraUMzb" text="{VALUE} extra troop from village notables when successfuly forced for volunteers."/>
     <string id="fcRLq8LL" text="{QUEST_GIVER.LINK}, a landowner in {QUEST_SETTLEMENT}, asked you to train some recruits for {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} gave you {NUMBER_OF_MEN} men, hoping to take them back when once they have some experience.\nThe easiest way to train them without putting them in too much danger is to attack weak parties."/>
-    <string id="FdSPC05Q" text="{VALUE}% experience to garrison troops in the governed settlement."/>
-    <string id="fDSyE0eE" text="{VALUE}% cohesion loss of armies when besieging."/>
+    <string id="FdSPC05Q" text="{VALUE}% досвіду військам гарнізону в підконтрольному поселенні."/>
+    <string id="fDSyE0eE" text="{VALUE}% втрати згуртованості армій при облозі."/>
     <string id="fe0uGUZb" text="That's just robbery under the cover of law. I'm not giving you anything."/>
     <string id="FekWDIUm" text="{?CHILD.GENDER}She{?}He{\?} helped plan a small expedition in pursuit of a group of brigands."/>
     <string id="FEmiPPbO" text="Perhaps you've heard the stories about me, then. They're all true."/>
-    <string id="FepLiMeY" text="{VALUE}% food consumption while traveling through steppes and forests."/>
+    <string id="FepLiMeY" text="{VALUE}% споживання їжі під час подорожі степами та лісами."/>
     <string id="fF2BdOy9" text="I don't need anything now."/>
     <string id="FF3dQKc1" text="Nethor"/>
     <string id="fFNNeqxu" text="{VALUE}% шкоди та довший час оглушення при ударах щитом."/>
@@ -1826,7 +1826,7 @@
     <string id="fJY9uosa" text="All supporters gain some relations with each other and lose a large amount of relations with the expelled clan."/>
     <string id="FK3W0SKk" text="Ultimate Leader"/>
     <string id="fk4ewfQh" text="{QUEST_GIVER.LINK}, a merchant of {SETTLEMENT}, told you that the poachers {?QUEST_GIVER.GENDER}she{?}he{\?} hired before are now out of control. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to go to {VILLAGE} around midnight and kill the poachers."/>
-    <string id="fK9GFdM8" text="{VALUE}% battle morale penalty to enemies with mounted melee kills by troops in your formation."/>
+    <string id="fK9GFdM8" text="{VALUE}% штрафу бойової моралі для ворогів, яких вбивають кінні війська з вашого строю у ближньому бою."/>
     <string id="FkkVHjBP" text="{VALUE} battle morale at the beginning of the battle for each tier 6 troop in the party up to 10 morale."/>
     <string id="fKnkkWH1" text="Have you brought any {.%}{REQUESTED_GOOD}{.%}? My stocks are running out and I need some very soon."/>
     <string id="FKpLEamz" text="доглядаючи за кіньми."/>
@@ -1839,7 +1839,7 @@
     <string id="FN3xNnd1" text="You really don't have much experience in this skill, I can't help you much. Maybe we can work on something else?"/>
     <string id="fn59IIUf" text="As your man were collecting the tax, the headman shouted out to you that the village had seen an outbreak of the flux, and that you should stay away."/>
     <string id="Fn7Pgia7" text="{?CHILD.GENDER}She{?}He{\?} told you that {?CHILD.GENDER}her{?}his{\?} skill with a lance paid for much of {?CHILD.GENDER}her{?}his{\?} journey."/>
-    <string id="Fnbf4ShY" text="{VALUE}% draw speed with throwing weapons."/>
+    <string id="Fnbf4ShY" text="{VALUE}% швидкості підготовки до метання снаряду метальної зброї."/>
     <string id="FO1oruNy" text="You talk about poor folk, but you think the people here like their village turned into a nest of outlaws?"/>
     <string id="FogJnYH9" text="Any news about the pastures?"/>
     <string id="FoNfLOny" text="{ISSUE_OWNER.NAME} wants {TARGET_HERO.NAME} captured"/>
