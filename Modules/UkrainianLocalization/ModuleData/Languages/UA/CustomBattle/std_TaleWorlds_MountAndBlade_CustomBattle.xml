@@ -39,7 +39,7 @@
     <string id="klGEDUmw" text="Шкода щитам воїнів вашого підрозділу: {BONUS_AMOUNT}%."/>
     <string id="Kvxo2jzJ" text="Пролом"/>
     <string id="labbKop6" text="Шкода воїнам вашого підрозділу від дальніх атак: {BONUS_AMOUNT}%."/>
-    <string id="Lso8j7Iv" text="Штраф на бойовий дух воїнам вашого підрозділу при втратах: {BONUS_AMOUNT}%."/>
+    <string id="Lso8j7Iv" text="Штраф до бойового духу воїнам вашого строю при втратах: {BONUS_AMOUNT}%."/>
     <string id="m86oViPX" text="Штраф на точність воїнів дальнього бою вашого підрозділу: {BONUS_AMOUNT}%."/>
     <string id="MkBPRCuF" text="Зменшений штраф точності в дальньому бою"/>
     <string id="MVOWsP48" text="Машина ближнього бою"/>
@@ -53,7 +53,7 @@
     <string id="p0JFbL7G" text="Зменшена шкода від дальніх атак"/>
     <string id="P3rMg4uZ" text="Сторона гравця"/>
     <string id="PbJAOKKZ" text="Збільшена швидкість пересування воїнів"/>
-    <string id="q7NmR3AP" text="Штраф на бойовий дух воїнів вашого підрозділу при втратах: {BONUS_AMOUNT}%."/>
+    <string id="q7NmR3AP" text="Штраф до бойового духу воїнам вашого строю при втратах: {BONUS_AMOUNT}%."/>
     <string id="QAYngoNQ" text="Персонаж ворога"/>
     <string id="SLZzfNPr" text="Машина дальнього бою"/>
     <string id="sSJSTe5p" text="Загін гравця"/>
