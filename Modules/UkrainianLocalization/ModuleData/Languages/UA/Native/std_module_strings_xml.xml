@@ -1013,7 +1013,7 @@
     <string id="KE9rdUhD" text="- {HERO_NAME}"/>
     <string id="keqS2dGa" text="???"/>
     <string id="kftE5nvv" text="Horse Armor"/>
-    <string id="KGH8rjOP" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для набігу."/>
+    <string id="KGH8rjOP" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для грабежу."/>
     <string id="KGHlXL8H" text="Very well - we shall cleanse this land with your blood."/>
     <string id="KGjFnVsR" text="Concepts"/>
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}"/>
