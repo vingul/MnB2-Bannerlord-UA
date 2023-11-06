@@ -5,28 +5,7 @@
   </tags>
 	<functions>
 		<function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}"/>
-		<function functionName="personalPronounNominative" functionBody="{?$0!.FI}вона{:?$0!.FA}вона{:?$0!.NI}воно{:}він{\?}"/>
-		<function functionName="personalPronounGenitive" functionBody="{?$0!.FI}її{:?$0!.FA}її{:}його{\?}"/>
-		<function functionName="personalShortPronounGenitive" functionBody="{?$0!.FI}її{:?$0!.FA}її{:}його{\?}"/>
-		<function functionName="prepositionalPersonalPronounGenitive" functionBody="{?$0!.FI}неї{:?$0!.FA}неї{:}нього{\?}"/>
-		<function functionName="personalPronounDative" functionBody="{?$0!.FI}їй{:?$0!.FA}їй{:}ньому{\?}"/>
-		<function functionName="personalShortPronounDative" functionBody="{?$0!.FI}їй{:?$0!.FA}їй{:}ньому{\?}"/>
-		<function functionName="prepositionalPersonalPronounDative" functionBody="{?$0!.FI}ній{:?$0!.FA}ній{:}ньому{\?}"/>
-		<function functionName="personalPronounAccusative" functionBody="{?$0!.FI}її{:?$0!.FA}її{:}його{\?}"/>
-		<function functionName="personalShortPronounAccusative" functionBody="{?$0!.FI}її{:?$0!.FA}її{:}його{\?}"/>
-		<function functionName="prepositionalPersonalPronounAccusative" functionBody="{?$0!.FI}неї{:?$0!.FA}неї{:}нього{\?}"/>
-		<function functionName="personalPronounInstrumental" functionBody="{?$0!.FI}їй{:?$0!.FA}їй{:}їм{\?}"/>
-		<function functionName="prepositionalPersonalPronounInstrumental" functionBody="{?$0!.FI}ній{:?$0!.FA}ній{:}ньому{\?}"/>
-		<function functionName="personalPronounLocative" functionBody="{?$0!.FI}ній{:?$0!.FA}ній{:}ньому{\?}"/>
-		<function functionName="demonstrativeNominative" functionBody="{?$0!.FI}ця{:?$0!.FA}ця{:?$0!.NI}це{:}цей{\?}"/>
-		<function functionName="demonstrativeAccusative" functionBody="{?$0!.MI}цей{:?$0!.MA}цього{:?$0!.NI}це{:}цю{\?}"/>
-		<function functionName="demonstrativeInstrumental" functionBody="{?$0!.FI}цій{:?$0!.FA}цій{:}цим{\?}"/>
-		<function functionName="demonstrativeLocative" functionBody="{?$0!.FI}цій{:?$0!.FA}цій{:}цьому{\?}"/>
-		<function functionName="demonstrativeGenitive" functionBody="{?$0!.FI}цій{:?$0!.FA}цій{:}цього{\?}"/>
-		<function functionName="demonstrativeDative" functionBody="{?$0!.FI}цій{:?$0!.FA}цій{:}цьому{\?}"/>
-		<function functionName="demonstrativeAccusativePlural" functionBody="{?$0!.MA}цих{:?$0!.FA}цих{:}ці{\?}"/>
-		<function functionName="adjectiveGenderCreator" functionBody="{?$0!.MA}{.MACreator}{:?$0!.MI}{.MICreator}{:?$0!.FA}{.FACreator}{:?$0!.FI}{.FICreator}{:?$0!.NI}{.NICreator}{:}{.NACreator}{\?}"/>
-		<function functionName="IS_PLURAL_WORD_GROUP" functionBody="{?$0!.ajp}1{:?$0!.nnp}1{:?$0!.aj}0{:?$0!.nn}0{:}0{\?}"/>
+		<function functionName="adjectiveGenderCreator" functionBody="{?$0!.m}{.mCreator}{:?$0!.f}{.fCreator}{:?$0!.n}{.nCreator}{:?$0!.p}{.pCreator}{:}{.nCreator}{\?}"/>
 		<!--
 			GET_PLURAL_VALUE повертає:
 			0: якщо число закінчується на 1 (але не на 11, наприклад, для 211 поверне 2)
