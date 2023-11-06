@@ -3103,11 +3103,11 @@
     <string id="o57z0zB9" text="Skewer"/>
     <string id="o5AUljbW" text="{LORD.NAME} is a member of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the {FACTION_NAME}. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
     <string id="O5dgeoss" text="Sound Reserves"/>
-    <string id="o5rp0ViP" text="{VALUE}% sell price penalty for weapons."/>
+    <string id="o5rp0ViP" text="{VALUE}% штраф до ціни продажу зброї."/>
     <string id="O5sBO9sQ" text="Many empires granted their populations citizenship, which usually came with a series of rights. Of course, citizenship could not be granted immediately to conquered provinces until the population showed it was willing to adopt the ways of the empire, including the language, clothes, and religious cults."/>
     <string id="o69PZuce" text="{OLD_LEADER.LINK} is no longer the head of the {CLAN_NAME}. {NEW_LEADER.LINK} has taken over as ruler of the clan."/>
     <string id="o6BunhbE" text="Have you brought my troops?"/>
-    <string id="O6UPQskm" text="{VALUE}% damage taken by ranged attacks while holding a throwing weapon."/>
+    <string id="O6UPQskm" text="{VALUE}% шкоди, отриманої від дальніх атак, коли ви тримаєте метальну зброю."/>
     <string id="o70h6xqb" text="You showed mercy and exempted the poor households from the tax collection"/>
     <string id="o7xn0ybm" text="{VALUE} starting battle morale when attacking."/>
     <string id="o8uAzFaJ" text="The caravan you are protecting is ambushed by raiders!"/>
