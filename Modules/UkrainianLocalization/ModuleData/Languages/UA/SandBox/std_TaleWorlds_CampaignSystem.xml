@@ -1682,7 +1682,7 @@
     <string id="ENS8Ig1o" text="Collected Wine Amount (Optional)"/>
     <string id="eNtRt6F5" text="Your own Clan"/>
     <string id="ENYbLO8r" text="Bandit Base Near {SETTLEMENT}"/>
-    <string id="Eo958e7R" text="{VALUE}% доходу від податків в підконтрольному поселенні."/>
+    <string id="Eo958e7R" text="{VALUE}% доходу від мит в підконтрольному поселенні."/>
     <string id="EOaOlh39" text="In due time. Let's not be too hasty."/>
     <string id="EOQcQa5l" text="Aftermath"/>
     <string id="EP0gEG0L" text="win a race."/>
@@ -2982,12 +2982,12 @@
     <string id="nB07bljx" text="{ISSUE_OWNER.LINK}, a {?ISSUE_OWNER.GENDER}lady{?}lord{\?} of the {ISSUE_OWNER.CLAN}, has a personal vendetta against {TARGET_HERO.LINK} of the {TARGET_HERO.CLAN}. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants {TARGET_HERO.LINK} captured and brought back to {?ISSUE_OWNER.GENDER}her{?}him{\?}. If you manage doing that, {?ISSUE_OWNER.GENDER}she{?}he{\?} promised a reward of {REWARD_GOLD}{GOLD_ICON}. You agreed to find {TARGET_HERO.LINK} and bring {?TARGET_HERO.GENDER}her{?}him{\?} to {ISSUE_OWNER.LINK} within one year."/>
     <string id="nb0wqaGA" text="You have made a deal with {NOTABLE.LINK} to betray {QUEST_GIVER.LINK}."/>
     <string id="NBAGX54b" text="Avigos"/>
-    <string id="nbbQfbli" text="{VALUE}% battle morale penalty to enemies with mounted ranged kills."/>
+    <string id="nbbQfbli" text="{VALUE}% штрафу до бойового духу ворогів при вбивстві зброєю дальнього бою верхи."/>
     <string id="nbeCbTH6" text="My {?PLAYER.GENDER}lady{?}lord{\?}, we heard that you wish to issue a decree permitting artisans to behave like merchants. This will undo an arrangement here that's worked for generations. Please reconsider this."/>
     <string id="NbgeKwVr" text="Workshops"/>
     <string id="nbmctMLk" text="{LEADER_NAME}{.o} Army"/>
     <string id="NC2VGafO" text="They skin their beasts in the woods, then go into the village after midnight to stash the hides. The villagers are terrified of them, I believe. If you go into the village late at night, you should be able to track them down."/>
-    <string id="nc3carw2" text="{VALUE}% accuracy penalty while mounted."/>
+    <string id="nc3carw2" text="{VALUE}% штрафу до точності верхи."/>
     <string id="nc9KELFA" text="trade goods"/>
     <string id="NCC4VUOc" text="{ISSUE_GIVER.LINK} wants you to get rid of the poachers who once worked for {?ISSUE_GIVER.GENDER}her{?}him{\?} but are now out of control."/>
     <string id="NcQZz4N2" text="This is my last warning! It would be better for both sides if you don't resist.[ib:closed]"/>
@@ -3002,7 +3002,7 @@
     <string id="nG750jQB" text="Grain will solve our problems. If we had {GRAIN_AMOUNT} bushels, we could use it to sow our fields. But I doubt that {NEARBY_TOWN} has so much to sell at this time of the year. {GRAIN_AMOUNT} bushels of grain costs around {DENAR_AMOUNT}{GOLD_ICON} in the markets, and we don't have that!"/>
     <string id="ngazFofr" text="Вас завжди тягнуло до тварин, тому найбільше часу ви проводили в сільській стайні. Ви вміли заспокоювати коней і через це вам іноді доручали об'їжджати молодих жеребців. Ви вивчили основи ветеринарного мистецтва, тому за потреби навіть могли лікувати людей."/>
     <string id="NGcKLV88" text="A good engineer could help construct siege engines and new buildings in towns."/>
-    <string id="NGFbn4Qx" text="{VALUE}% chance of increasing the siege bombardment casualties per hit by 1."/>
+    <string id="NGFbn4Qx" text="{VALUE}% шансу збільшити втрати при влучанні під час облогового бомбардування на 1."/>
     <string id="ngFVgwDD" text="Воїни-раби"/>
     <string id="nGsQeTll" text="Perhaps we should discuss a future together..."/>
     <string id="nGWmyZCs" text="Picked Shots"/>
@@ -3013,20 +3013,20 @@
     <string id="niWfuEeh" text="Well, {PLAYER.NAME}. Are you here about that offer I made? Seeing as what's happened between then and now, surely you realize that that offer no longer stands?"/>
     <string id="nixINYwE" text="Yes of course. It was a pleasure doing business with you."/>
     <string id="njbpMLdJ" text="Attackers have been defeated."/>
-    <string id="NjMR2ypH" text="{VALUE}% healing rate while resting in settlements."/>
+    <string id="NjMR2ypH" text="{VALUE}% швидкості зцілення під час відпочинку в поселеннях."/>
     <string id="NjPMRWbW" text="Make peace with the {KINGDOM_NAME}. Our kingdom will receive {T} tribute daily."/>
-    <string id="nJu03DL9" text="{VALUE}% relationship bonus when you pay more than minimum amount in barters."/>
+    <string id="nJu03DL9" text="{VALUE}% покращення відносин, коли ви сплачуєте більше мінімальної суми при обміні."/>
     <string id="NKTbhIoi" text="{VICTIM.LINK} was lost."/>
     <string id="nKw4eb22" text="{VALUE} ammunition for throwing weapons."/>
     <string id="nlCa3tW8" text="You seem like a reasonable man. What is your price?"/>
     <string id="NM5f1Q6I" text="Ariada"/>
-    <string id="NmGcIg3j" text="{VALUE}% resistance to getting staggered while on foot."/>
+    <string id="NmGcIg3j" text="{VALUE}% опору до приголомшення під час ходьби пішки."/>
     <string id="nmJe4wN1" text="Swift Regroup"/>
     <string id="nMmYZ3xi" text="{HERO.NAME} is not available right now."/>
     <string id="nMn63bV1" text="I am {PLAYER.NAME}. All I ask is that you remember that name, and what I did.{newline}Tell me, what will you do now?"/>
     <string id="nmnp9S7k" text="Nobles have the right to appoint bailiffs."/>
     <string id="NMnpGic4" text="{VALUE} denar return when one of your caravans is destroyed."/>
-    <string id="nmTai1Vw" text="{VALUE}% militia per day in the besieged governed settlement."/>
+    <string id="nmTai1Vw" text="{VALUE}% приросту ополченців в день в обложеному підконтрольному поселенні."/>
     <string id="Nn06TSq9" text="Anything else to say?"/>
     <string id="Nn49hU2W" text="The client is satisfied."/>
     <string id="Nn8bmGUX" text="You make sure that the child would be taught the deeds of the leaders of your people, and memorize the rhetoric they used to inspire their followers."/>
@@ -3047,22 +3047,22 @@
     <string id="Nr49hlfC" text="Abandon army."/>
     <string id="nRkLFBMl" text="You failed to raid at least {NUMBER_OF_TARGET_VILLAGE} villages and then report back. {QUEST_GIVER.LINK} is disappointed."/>
     <string id="nrRvyKgL" text="I'll strike into their territory as you command, my {?ISSUE_OWNER.GENDER}lady{?}lord{\?}."/>
-    <string id="nRvR1Rpc" text="{VALUE}% combat movement speed to troops in your formation."/>
+    <string id="nRvR1Rpc" text="{VALUE}% швидкості пересування в бою воїнів вашого строю."/>
     <string id="Ns315pxY" text="Perhaps we are not meant for each other."/>
     <string id="Nsb6SD4y" text="After receiving word of an upcoming war against {ENEMY_FACTION}, {ARMY_NAME} decided to leave {SETTLEMENT_NAME}."/>
     <string id="nSoJkeBI" text="Sittacea"/>
     <string id="nSwkI97I" text="Стіна щитів"/>
     <string id="nt1ra97u" text="a nomadic clan"/>
     <string id="NT5fwUuJ" text="Fording"/>
-    <string id="NtCBRiLH" text="{VALUE}% healing rate when moving on the campaign map."/>
+    <string id="NtCBRiLH" text="{VALUE}% швидкості зцілення при пересуванні по карті."/>
     <string id="nTETQEmy" text="Influential"/>
     <string id="nThmB3yB" text="Way of the Sword"/>
     <string id="NTlbbrwB" text="If there will be a fight, then we will fight"/>
     <string id="NtMEk0lA" text="Hardy Frontline"/>
     <string id="NTPVzs9z" text="Poxy {FIRSTNAME}"/>
     <string id="Ntv5KPFe" text="Headman in the village requested draught animals to replace them with old ones."/>
-    <string id="NtzmIh0g" text="{VALUE}% damage with polearms on foot."/>
-    <string id="nUJfb5VX" text="{VALUE}% tax income from the governed settlement."/>
+    <string id="NtzmIh0g" text="{VALUE}% шкоди від древкової зброї пішки."/>
+    <string id="nUJfb5VX" text="{VALUE}% доходу від податків з підконтрольного поселення."/>
     <string id="NUlVFRtK" text="You are at your prime, You still have some youthful energy but also have a substantial amount of experience under your belt. "/>
     <string id="nunbdOY1" text="{FIRSTNAME} the Supplier"/>
     <string id="nuqv4GAA" text="We have too many enemies. We need to make peace with at least some of them."/>
