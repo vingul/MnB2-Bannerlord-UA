@@ -1852,7 +1852,7 @@
     <string id="yNyQ3RFa" text="{HERO.NAME} has died in childbirth."/>
     <string id="YO0x7ZAo" text="Loyalty"/>
     <string id="yOJAiSf4" text="No formation"/>
-    <string id="YOSEIvyf" text="Handling: "/>
+    <string id="YOSEIvyf" text="Збалансованість: "/>
     <string id="yQiDdDPY" text="Light Horse"/>
     <string id="yQTBY9ie" text="Jewelry{@Plural}items of jewelry{\@}"/>
     <string id="yRQDL2ab" text="Garrison:"/>
@@ -1867,7 +1867,7 @@
     <string id="yUo269Us" text="Thanks for your help, stranger. We haven't met properly yet, have we? What is your name?"/>
     <string id="YVGtcLHF" text="Кавалерія"/>
     <string id="yVLv2Q23" text="Proceed"/>
-    <string id="YvwQL9aa" text="Weight: "/>
+    <string id="YvwQL9aa" text="Вага: "/>
     <string id="yWD4Nwy2" text="We should help our allies."/>
     <string id="YxEcX6pS" text="On {DAY_OF_YEAR}, {YEAR}, you found a second piece of the Dragon Banner of Calradios."/>
     <string id="YxKHEUEX" text="The tournament has ended. {TOURNAMENT_FINAL_PARTICIPANT_A} wins by beating {TOURNAMENT_FINAL_PARTICIPANT_B} in the final round. You were eliminated at round {TOURNAMENT_ELIMINATED_ROUND}."/>
