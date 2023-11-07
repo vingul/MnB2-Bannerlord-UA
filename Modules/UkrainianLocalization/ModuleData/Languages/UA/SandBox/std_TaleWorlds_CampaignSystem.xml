@@ -9,7 +9,7 @@
     <string id="00Qvwelb" text="{WOUNDED_NUMBER} of your men got wounded while they were trying to separate the two sides."/>
     <string id="028iCb8B" text="Jythea"/>
     <string id="02c5bQSM" text="Discard"/>
-    <string id="02IdNzbt" text="{VALUE}% збалансованості до древкової зброї з можливістю замаху."/>
+    <string id="02IdNzbt" text="{VALUE}% збалансованості до древкової зброї з можливістю рубання."/>
     <string id="03DZpTYi" text="You are a wanted criminal."/>
     <string id="03lc5R2t" text="You have tried to persuade me before. I will not stand your words again."/>
     <string id="04tBEafz" text="Village is successfully raided by your help."/>
@@ -3168,7 +3168,7 @@
     <string id="OoNULWKy" text="How is the training going? Are you happy with your student?"/>
     <string id="oOZH3v9Y" text="{VALUE}% hit points to ranged siege engines."/>
     <string id="opMDusHz" text="Good. I look forward to presenting you with your reward."/>
-    <string id="OpVRgL9n" text="{VALUE}% handling to two handed weapons."/>
+    <string id="OpVRgL9n" text="{VALUE}% збалансованості дворучної зброї."/>
     <string id="Oq1K7oDW" text="{VALUE}% wages paid while waiting in settlements."/>
     <string id="Oq3OFXyC" text="Lucky {FIRSTNAME}"/>
     <string id="oQjsShmH" text="PRISONERS"/>
