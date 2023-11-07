@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Stack Amount: "/>
+    <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Кількість: "/>
     <string id="08abd5af7774d311cadc3ed900b47754" text="Тип: "/>
     <string id="0mqdFC2x" text="Weapon Crafted!"/>
     <string id="0Q4Xo2BQ" text="Select the Leader of the New Party"/>
@@ -24,7 +24,7 @@
     <string id="2lFwF07j" text="Change Name"/>
     <string id="2nN1QuxZ" text="This quest will be failed unless completed in this time."/>
     <string id="3025020b83b218707499f0de3135ed0a" text="Маневровість: "/>
-    <string id="305cf7f98458b22e9af72b60a131714f" text="Horse Armor: "/>
+    <string id="305cf7f98458b22e9af72b60a131714f" text="Броня коня: "/>
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Швидкість рублячого удару: "/>
     <string id="3CpNUnVl" text="Cancel"/>
     <string id="3F0y3ugx" text="Success!"/>
@@ -38,7 +38,7 @@
     <string id="4vZLpzPi" text="+1 Renown / Day"/>
     <string id="4Y8u4JKO" text="You can't leave the kingdom while in an army"/>
     <string id="5bzk75Ql" text="Engaging {TARGET_PARTY}."/>
-    <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Accuracy: "/>
+    <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
     <string id="5k4dxUEJ" text="Воїни"/>
     <string id="5tbWdY1j" text="Avatar"/>
@@ -69,7 +69,7 @@
     <string id="9FJi2SaE" text="Роль в загоні"/>
     <string id="9huJZblF" text="Last Run"/>
     <string id="9i0wnjJK" text="L-II : {BONUS}"/>
-    <string id="9sxECG6e" text="Mount Type: "/>
+    <string id="9sxECG6e" text="Вид їздової тварини: "/>
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: "/>
     <string id="a4GDfSel" text="Reset Tutorials"/>
     <string id="a8NoW1Q2" text="Are you sure you want to cancel your changes?"/>
@@ -83,7 +83,7 @@
     <string id="akHsjtPh" text="You haven't met this hero yet."/>
     <string id="ANV8UV5f" text="Recall this member to your party."/>
     <string id="aRhQzJca" text="Mercenaries cannot create or manage armies."/>
-    <string id="armorTier" text="Armor Tier: "/>
+    <string id="armorTier" text="Рівень броні: "/>
     <string id="aROohsat" text="Already in another army."/>
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}"/>
     <string id="av51ur2M" text="You need at least {REQUIRED_AMOUNT} denars to change the production type of this workshop."/>
@@ -114,7 +114,7 @@
     <string id="c6BtCIrX" text="{DAYS} days ago"/>
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Довжина: "/>
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Шкода при зіткненні: "/>
-    <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Damage: "/>
+    <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Шкода: "/>
     <string id="C9tKA0ul" text="Character name cannot be empty"/>
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Збалансованість: "/>
     <string id="CaRbMaZY" text="Daily Wage"/>
@@ -123,7 +123,7 @@
     <string id="cDkHJOkl" text="You need to be in the viewing range, control this settlement with your kingdom or have a clan member in the settlement to see its details."/>
     <string id="cedvCZ73" text="There is no town owned by {FACTION}"/>
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   "/>
-    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Arm Armor: "/>
+    <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Броня (руки): "/>
     <string id="CGVK6l8I" text="Champion Benefits"/>
     <string id="CK68QXen" text="There is no prisoner captured by {FACTION}"/>
     <string id="Ck9HT8fQ" text="Summary"/>
@@ -314,7 +314,7 @@
     <string id="O3dhjtOS" text="Head Armor"/>
     <string id="o5G8A8ZH" text="Your Denars"/>
     <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
-    <string id="oBbiVeKE" text="Hit Points"/>
+    <string id="oBbiVeKE" text="Очки здоров'я"/>
     <string id="ocSW4WA2" text="Critical Fail!"/>
     <string id="ODEnkg0o" text="Clan Strength"/>
     <string id="OGbskMfz" text="Unlocked Parts:"/>
