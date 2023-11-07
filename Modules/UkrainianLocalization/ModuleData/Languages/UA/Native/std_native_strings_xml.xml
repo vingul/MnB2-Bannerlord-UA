@@ -165,7 +165,7 @@
     <string id="EUHaR98k" text="Report"/>
     <string id="EX4bKRbV" text="Death Count"/>
     <string id="EZRnvPJS" text="Face This Direction"/>
-    <string id="f4ZeGAJi" text="Relative missile speed: {SPEED} m/s"/>
+    <string id="f4ZeGAJi" text="Відносна швидкість польоту {SPEED} м/с"/>
     <string id="f5y9qyDb" text="Arm"/>
     <string id="F6dUDgg3" text="Defeat"/>
     <string id="F6l8hFEA" text="Cliffs of Akkalat"/>
@@ -279,7 +279,7 @@
     <string id="O5uDFhwu" text="Castle of fen Altai"/>
     <string id="O9F9q1zx" text="Глибина вилиць"/>
     <string id="obB483C5" text="Body part hit: {BODY_PART}"/>
-    <string id="oBbiVeKE" text="Hit Points"/>
+    <string id="oBbiVeKE" text="Очки здоров'я"/>
     <string id="oGAzC0Ob" text="Game Mode"/>
     <string id="Ok03egKG" text="Move To Position"/>
     <string id="Oud3W58w" text="Hold {KEY} {ACTION}"/>
