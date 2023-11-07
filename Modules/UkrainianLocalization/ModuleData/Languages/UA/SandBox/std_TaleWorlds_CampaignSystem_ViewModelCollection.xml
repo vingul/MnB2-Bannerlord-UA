@@ -5,13 +5,13 @@
   </tags>
   <strings>
     <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Stack Amount: "/>
-    <string id="08abd5af7774d311cadc3ed900b47754" text="Type: "/>
+    <string id="08abd5af7774d311cadc3ed900b47754" text="Тип: "/>
     <string id="0mqdFC2x" text="Weapon Crafted!"/>
     <string id="0Q4Xo2BQ" text="Select the Leader of the New Party"/>
     <string id="0rmpC7jf" text="The Garrison is Starving"/>
     <string id="0TauthlH" text="Never ({PERCENTAGE}%)"/>
     <string id="13wo3QQB" text="Secondary"/>
-    <string id="154a34f8caccfc833238cc89d38861e8" text="Requires: "/>
+    <string id="154a34f8caccfc833238cc89d38861e8" text="Необхідно: "/>
     <string id="1Bm1Wk1v" text="Піхота"/>
     <string id="1CXlqb2U" text="Pick:"/>
     <string id="1qm74K2t" text="Successful raids by {FACTION}"/>
@@ -23,7 +23,7 @@
     <string id="2GWR9Cba" text="Hearth"/>
     <string id="2lFwF07j" text="Change Name"/>
     <string id="2nN1QuxZ" text="This quest will be failed unless completed in this time."/>
-    <string id="3025020b83b218707499f0de3135ed0a" text="Maneuver: "/>
+    <string id="3025020b83b218707499f0de3135ed0a" text="Маневровість: "/>
     <string id="305cf7f98458b22e9af72b60a131714f" text="Horse Armor: "/>
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Швидкість рублячого удару: "/>
     <string id="3CpNUnVl" text="Cancel"/>
@@ -49,7 +49,7 @@
     <string id="6bx9IhpD" text="Upgrades"/>
     <string id="6GSXsdeX" text="Швидкість"/>
     <string id="6QoSHiWC" text="An alley without a leader"/>
-    <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Speed: "/>
+    <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Швидкість: "/>
     <string id="7h6cXdW7" text="Інженер"/>
     <string id="7l0LGKRk" text="Date Started"/>
     <string id="7tBOCHm6" text="Sigil Color:"/>
@@ -58,7 +58,7 @@
     <string id="84oSzquz" text="Recently Escaped Captivity"/>
     <string id="8BJDQe6o" text="Prisoners captured by {FACTION}"/>
     <string id="8BlMRMiR" text="Horse Tier"/>
-    <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Class: "/>
+    <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Клас: "/>
     <string id="8fqFGxD9" text="Press {KEY} to compare with: {ITEM}"/>
     <string id="8Jy9DnKk" text="Attached to {PARTY_NAME}"/>
     <string id="8N1EdPB3" text="You will earn {GOLD}{GOLD_ICON}"/>
@@ -112,11 +112,11 @@
     <string id="C2qpwFq5" text="Owner of {SETTLEMENTS}"/>
     <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Days{?}Day{\?} ({PERCENTAGE}%)"/>
     <string id="c6BtCIrX" text="{DAYS} days ago"/>
-    <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Length: "/>
-    <string id="c7638a0869219ae845de0f660fd57a9d" text="Charge Damage: "/>
+    <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Довжина: "/>
+    <string id="c7638a0869219ae845de0f660fd57a9d" text="Шкода при зіткненні: "/>
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Damage: "/>
     <string id="C9tKA0ul" text="Character name cannot be empty"/>
-    <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Handling: "/>
+    <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Збалансованість: "/>
     <string id="CaRbMaZY" text="Daily Wage"/>
     <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}"/>
     <string id="cc1d7mkq" text="Tier"/>
@@ -290,7 +290,7 @@
     <string id="millionabbr" text="m"/>
     <string id="MIylzRc5" text="You can't perform this action while you are in a map event."/>
     <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})"/>
-    <string id="mountTier" text="Mount Tier: "/>
+    <string id="mountTier" text="Рівень їздової тварини: "/>
     <string id="mp68RYnD" text="Party Size Limit"/>
     <string id="MqCH7R4A" text="Security"/>
     <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
@@ -319,7 +319,7 @@
     <string id="ODEnkg0o" text="Clan Strength"/>
     <string id="OGbskMfz" text="Unlocked Parts:"/>
     <string id="OhNYkblK" text="This hero has just escaped from captors and will be available after some time."/>
-    <string id="oibdTnXP" text="Handling"/>
+    <string id="oibdTnXP" text="Збалансованість"/>
     <string id="oJmRg2ms" text="Very Rich"/>
     <string id="OkWLI5C8" text="Size:"/>
     <string id="oM2Ta1di" text="Press {CONSOLE_KEY_NAME} to Reset Camera"/>
@@ -479,7 +479,7 @@
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)"/>
     <string id="W3hmFcfv" text="Abandon Alley"/>
     <string id="w8Yzf0F0" text="Destroyed"/>
-    <string id="weaponTier" text="Weapon Tier: "/>
+    <string id="weaponTier" text="Рівень зброї: "/>
     <string id="wGWYNYYX" text="This education stage is no longer relevant."/>
     <string id="WiNRdfsm" text="Done"/>
     <string id="Wir2xZIg" text="You haven't unlocked some of the selected pieces."/>
@@ -497,7 +497,7 @@
     <string id="XSQ0Y9gy" text="You need to be a part of a kingdom to create an army."/>
     <string id="xtlIFKaa" text="Are you sure you want to leave the Kingdom?{newline}If so, choose how you want to leave the kingdom."/>
     <string id="xtt9Oxer" text="Productions"/>
-    <string id="XUtiwiYP" text="Length: "/>
+    <string id="XUtiwiYP" text="Довжина: "/>
     <string id="xW4BPVLX" text="Crafting History"/>
     <string id="xwRWjlar" text="Background Color:"/>
     <string id="xXSFaGW8" text="Disband"/>
