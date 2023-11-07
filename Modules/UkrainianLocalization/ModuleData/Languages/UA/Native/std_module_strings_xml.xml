@@ -130,7 +130,7 @@
     <string id="4gOGGbeQ" text="Створити битву"/>
     <string id="4H1nDlBO" text="Weekly Wage"/>
     <string id="4Hdcxk0a" text="Aggressive"/>
-    <string id="4IuXGSdc" text="Wall Hitpoints"/>
+    <string id="4IuXGSdc" text="Цілісність стін"/>
     <string id="4jLW7hag" text="Dismiss from Army"/>
     <string id="4kKxsVzZ" text="Your alley {.%}{ALLEY_NAME}{.%} at {TOWN} is captured."/>
     <string id="4kvKQuXM" text="Hides{@Plural}loads of hide{\@}"/>
@@ -323,7 +323,7 @@
     <string id="aBssWwIu" text="If you proceed, {GOVERNOR.NAME} will become the new governor of {SETTLEMENT_NAME}. Are you sure?"/>
     <string id="abV5bff6" text="You capture a pawn."/>
     <string id="acbkKbT0" text="We should do something different."/>
-    <string id="aCkzVUCR" text="Hit Points: "/>
+    <string id="aCkzVUCR" text="Очки здоров'я: "/>
     <string id="aCP5ZBbp" text="Relation:"/>
     <string id="ADJBbfbQ" text="Fur{@Plural}packs of fur{\@}"/>
     <string id="ADJQa8am" text="Mercenaries cannot support other clans."/>
@@ -425,7 +425,7 @@
     <string id="bdQBpUba" text="So kind you are, not sending us home empty-handed."/>
     <string id="bdvTPbLB" text="Couchable"/>
     <string id="BE1scex6" text="Daily Workshop Profits"/>
-    <string id="bF38BIoe" text="Stack Amount: "/>
+    <string id="bF38BIoe" text="Кількість: "/>
     <string id="bF7HmNGQ" text="Khuzait Khanate"/>
     <string id="bFpLKvcS" text="khan"/>
     <string id="bfQLwMUp" text="Clans"/>
@@ -452,7 +452,7 @@
     <string id="bkysJj7F" text="Siege Weapon"/>
     <string id="Bl7UdJup" text="Nephew"/>
     <string id="BlidMNGT" text="Relation"/>
-    <string id="bLWyjOdS" text="Body Armor: "/>
+    <string id="bLWyjOdS" text="Броня (тіло): "/>
     <string id="Bm4yZBWb" text="You are in prison at {SETTLEMENT_NAME}."/>
     <string id="bMjtFIba" text="You arrived just in the nick of time! {PLAYER.LINK}. You have my deepest thanks!"/>
     <string id="BMQ5SHOH" text="Horse Equipment I"/>
@@ -656,7 +656,7 @@
     <string id="EuGCNdHG" text="Leave Kingdom"/>
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?"/>
     <string id="eURzhtb0" text="Gathering around {PARTY_NAME}."/>
-    <string id="EUzxzL9s" text="Head Armor: "/>
+    <string id="EUzxzL9s" text="Броня (голова): "/>
     <string id="EV0av1mc" text="Leader Level Bonus"/>
     <string id="evuR5kwf" text="Rumour has it the {ITEM_NAME} around here sells for cheaper than in other towns. If you were to buy some here and take it to {TOWN_NAME}, where it fetches a higher price, you could probably make around {PRICE_DIFF}{GOLD_ICON} of profit per item."/>
     <string id="EvvMNX3A" text="The starting player chooses one of four pawns to be removed from the board.{newline}Then, the other player selects one of his adjacant pawns to also be removed. If the pawn of the starting player was in the center, the other player has to remove one of two pawns in the center too.{newline}{newline}The game now begins."/>
@@ -1603,7 +1603,7 @@
     <string id="U7etPQA2" text="{FIRSTNAME} the {JOB_NAME}"/>
     <string id="U7Z7f7ZT" text="Spouse"/>
     <string id="U8TPlwW9" text="Well met {PLAYER.LINK}. I am in your debt for what you just did. I hope one day I will find a way to repay it."/>
-    <string id="U8VHRdwF" text="Leg Armor: "/>
+    <string id="U8VHRdwF" text="Броня (ноги): "/>
     <string id="ua15BlYh" text="Скинути все"/>
     <string id="uAL3bCfN" text="Encumbrance{newline}Total equipped armor and weapon weight.{newline}High encumbrance will slow down your on foot movement speed."/>
     <string id="UaN2lfwi" text="Weaponsmith"/>
@@ -1774,7 +1774,7 @@
     <string id="XCz81XYm" text="Inputs"/>
     <string id="xD9xlbXt" text="prince"/>
     <string id="Xedhfj07" text="It would take {TRAVEL_DURATION} for {HERO_NAME} to arrive at your party. Do you want to proceed?"/>
-    <string id="xEWwbGVK" text="Accuracy: "/>
+    <string id="xEWwbGVK" text="Точність: "/>
     <string id="xf4gqDml" text="Can't gather an army during a siege"/>
     <string id="XgioIHv6" text="Resolve existing decision"/>
     <string id="xGjug9Sd" text="!"/>
@@ -1863,7 +1863,7 @@
     <string id="ySmxkiKH" text="Let's go!"/>
     <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}troops{?}troop{\?} have deserted from {PARTY}."/>
     <string id="ytYPOCZ8" text="{NUMBER}% Completed"/>
-    <string id="YukbQgHJ" text="Missile Speed: "/>
+    <string id="YukbQgHJ" text="Швидкість снаряду: "/>
     <string id="yUo269Us" text="Thanks for your help, stranger. We haven't met properly yet, have we? What is your name?"/>
     <string id="YVGtcLHF" text="Кавалерія"/>
     <string id="yVLv2Q23" text="Proceed"/>
