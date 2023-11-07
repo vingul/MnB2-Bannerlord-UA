@@ -714,7 +714,7 @@
     <string id="FLrzc1uk" text="Ah, I'm afraid we'll have to cut your throat then - on principle, of course. For trespassing."/>
     <string id="fMh5KZfk" text="There is no need for us to stay here. Let's go!"/>
     <string id="FmIIQEQD" text="{HERO.NAME} has died."/>
-    <string id="fMmlUHyz" text="Swing Damage: "/>
+    <string id="fMmlUHyz" text="Шкода рублячого удару: "/>
     <string id="fMSYE6Ii" text="Default"/>
     <string id="forgeverb" text="Forge"/>
     <string id="Fp68NbYO" text="Kingdoms"/>
@@ -1204,7 +1204,7 @@
     <string id="NeWvHjCw" text="Fire Ballista"/>
     <string id="NF627oiX" text="Northern Empire"/>
     <string id="Nfm5lLWv" text="{CHILD.NAME} needs your immediate attention!"/>
-    <string id="nfQhamAF" text="Swing Speed: "/>
+    <string id="nfQhamAF" text="Швидкість рублячого удару: "/>
     <string id="NgHSyQem" text="In Army"/>
     <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results"/>
     <string id="nHkQbLDc" text="Can't be used with Mounts"/>
