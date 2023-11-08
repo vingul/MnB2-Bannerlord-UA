@@ -2174,7 +2174,7 @@
     <string id="hzCTbbLP" text="You think you've caught a hare but instead you've caught a lion.[ib:closed][if:convo_bared_teeth]"/>
     <string id="I022Z9Ub" text="Heh. {QUEST_GIVER.NAME} got in deeper than {?QUEST_GIVER.GENDER}she{?}he{\?} could handle with those mercenaries."/>
     <string id="i0h0LKa0" text="Our borders are far from those of the enemy. It is too arduous to pursue this war."/>
-    <string id="I0hqrQuD" text="{VALUE}% бонусу до шкоди від швидкості при використанні древкової зброї верхи."/>
+    <string id="I0hqrQuD" text="{VALUE}% бонусу до шкоди від швидкості при використанні древкової зброї при їзді верхи."/>
     <string id="I0StkXlK" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? Me and {?PLURAL}{MERCENARY_COUNT} of my mates{?}one of my mates{\?} are looking for a master. You might call us mercenaries, like. We'll join you for {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="I0ZG4tIj" text="{TOWN_NAME} has fallen to your troops. You may station a garrison here to defend it against enemies who may try to recapture it."/>
     <string id="I1CMeL9R" text="Mounted Archers"/>
@@ -2198,7 +2198,7 @@
     <string id="I9GYdYZx" text="{?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.NAME} wants {TOTAL_REQUESTED_DENARS}{GOLD_ICON} denars that you have collected from {?QUEST_GIVER.GENDER}her{?}his{\?} fiefs. {?QUEST_GIVER.GENDER}She{?}He{\?} has sent {?QUEST_GIVER.GENDER}her{?}his{\?} steward to you to collect it. If you refuse this will be counted as a crime and {?QUEST_GIVER.GENDER}her{?}his{\?} faction may declare war on you."/>
     <string id="I9NMumUk" text="{VALUE}% шансу створити шедевральну зброю."/>
     <string id="IaA8sbY2" text="Join the sally out"/>
-    <string id="IaBTfvfc" text="{VALUE}% шкоди від древкової зброї верхи."/>
+    <string id="IaBTfvfc" text="{VALUE}% шкоди від древкової зброї при їзді верхи."/>
     <string id="IagYTD5O" text="Prosperity"/>
     <string id="IaJ4lhzx" text="Very Low Security"/>
     <string id="iARYMyuq" text="Head Hunter"/>
@@ -2454,7 +2454,7 @@
     <string id="jRslIaiU" text="You can't recall a clan member while you are a prisoner."/>
     <string id="JrT9bBEK" text="{FACTION_LIEGE}'s {ETHNIC_TERM}"/>
     <string id="JrTtFFfe" text="{VALUE}% дальності виявлення укриття."/>
-    <string id="JsdkJbDL" text="{VALUE}% штрафу до точності метальної зброї верхи."/>
+    <string id="JsdkJbDL" text="{VALUE}% штрафу до точності метальної зброї при їзді верхи."/>
     <string id="JSI0FVZ1" text="You decided to forgive the villagers' back payments. The headman thanked you, as the villagers were already suffering."/>
     <string id="JTfaqKyX" text="Well, try to bring it soon."/>
     <string id="Jtx8Czql" text="{VALUE}% швидкості перезаряджання арбалетів за кожне очко уміння вище 200."/>
@@ -2982,12 +2982,12 @@
     <string id="nB07bljx" text="{ISSUE_OWNER.LINK}, a {?ISSUE_OWNER.GENDER}lady{?}lord{\?} of the {ISSUE_OWNER.CLAN}, has a personal vendetta against {TARGET_HERO.LINK} of the {TARGET_HERO.CLAN}. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants {TARGET_HERO.LINK} captured and brought back to {?ISSUE_OWNER.GENDER}her{?}him{\?}. If you manage doing that, {?ISSUE_OWNER.GENDER}she{?}he{\?} promised a reward of {REWARD_GOLD}{GOLD_ICON}. You agreed to find {TARGET_HERO.LINK} and bring {?TARGET_HERO.GENDER}her{?}him{\?} to {ISSUE_OWNER.LINK} within one year."/>
     <string id="nb0wqaGA" text="You have made a deal with {NOTABLE.LINK} to betray {QUEST_GIVER.LINK}."/>
     <string id="NBAGX54b" text="Avigos"/>
-    <string id="nbbQfbli" text="{VALUE}% штрафу до бойового духу ворогів при вбивстві зброєю дальнього бою верхи."/>
+    <string id="nbbQfbli" text="{VALUE}% штрафу бойового духу ворога, коли його воїнів вбивають кінні війська зброєю дальнього бою."/>
     <string id="nbeCbTH6" text="My {?PLAYER.GENDER}lady{?}lord{\?}, we heard that you wish to issue a decree permitting artisans to behave like merchants. This will undo an arrangement here that's worked for generations. Please reconsider this."/>
     <string id="NbgeKwVr" text="Workshops"/>
     <string id="nbmctMLk" text="{LEADER_NAME}{.o} Army"/>
     <string id="NC2VGafO" text="They skin their beasts in the woods, then go into the village after midnight to stash the hides. The villagers are terrified of them, I believe. If you go into the village late at night, you should be able to track them down."/>
-    <string id="nc3carw2" text="{VALUE}% штрафу до точності верхи."/>
+    <string id="nc3carw2" text="{VALUE}% штрафу до точності при їзді верхи."/>
     <string id="nc9KELFA" text="trade goods"/>
     <string id="NCC4VUOc" text="{ISSUE_GIVER.LINK} wants you to get rid of the poachers who once worked for {?ISSUE_GIVER.GENDER}her{?}him{\?} but are now out of control."/>
     <string id="NcQZz4N2" text="This is my last warning! It would be better for both sides if you don't resist.[ib:closed]"/>
@@ -4387,7 +4387,7 @@
     <string id="wfb0FnbW" text="At last they've made peace with {ENEMY_NAME}. Good. I hope it lasts."/>
     <string id="wfbtS71d" text="очолювання каравану."/>
     <string id="WFFlp3Qi" text="Lead by Example"/>
-    <string id="wFWdhNCN" text="{VALUE}% accuracy penalty with crossbows while mounted."/>
+    <string id="wFWdhNCN" text="{VALUE}% штрафу до точності стрільби з арбалета при їзді верхи."/>
     <string id="wGAmNQGE" text="{CHARACTER.NAME} does not have much experience in this skill, I can't help {?CHARACTER.GENDER}her{?}him{\?} much. Maybe we can work on something else?"/>
     <string id="wglTyBbx" text="Thank you, friend. Go in peace."/>
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement."/>
@@ -4396,14 +4396,14 @@
     <string id="WIb9VvEM" text="Collected Troops"/>
     <string id="WJ7SnBgN" text="Effects settlement's garrison."/>
     <string id="WJSapWab" text="{?CHILD.GENDER}She{?}He{\?} had a chance to fight in a few minor skirmishes without getting seriously injured."/>
-    <string id="wki8aFec" text="{VALUE}% price penalty while selling equipment."/>
+    <string id="wki8aFec" text="{VALUE}% штрафу до ціни при продажу спорядження."/>
     <string id="WKIqnKtu" text="{QUEST_TARGET.LINK} has died and your agreement with {QUEST_GIVER.LINK} has been canceled. Your service is no longer needed to solve the issue."/>
-    <string id="wKSA8Qob" text="{VALUE}% charge damage dealt."/>
+    <string id="wKSA8Qob" text="{VALUE}% завданої шкоди при зіткненні."/>
     <string id="WL1zcgYx" text="{?CHILD.GENDER}She{?}He{\?} travelled on foot in the company of other pilgrims, often relying on the kindness of strangers for food and shelter."/>
-    <string id="WlAAsJNK" text="{VALUE}% wounded troop recovery speed while in an army."/>
+    <string id="WlAAsJNK" text="{VALUE}% швидкості зцілення поранених воїнів під час перебування в армії."/>
     <string id="wlhJGG0q" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been freed because of a peace declaration."/>
     <string id="wlKtDR2z" text="Thank you, {?PLAYER.GENDER}my lady{?}sir{\?}."/>
-    <string id="wLrF0mzr" text="{VALUE}% damage with thrust attacks by troops in your formation."/>
+    <string id="wLrF0mzr" text="{VALUE}% шкоди при тичкових ударах воїнів у вашому строю."/>
     <string id="wM77S68a" text="What's there to discuss?"/>
     <string id="Wmq47pvL" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} had to show mercy to the people of {SETTLEMENT} who were originally descendants of {FACTION}."/>
     <string id="wmZYHGb9" text="I brought {HERD_AMOUNT} {.%}{?HERD_AMOUNT &gt; 1}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%} as we agreed."/>
@@ -4418,9 +4418,9 @@
     <string id="WOqxWM67" text="Slick Negotiator"/>
     <string id="WOriPdox" text="When trouble comes, {?PLAYER_CHILD}your child{?}{?CHILD.GENDER}she{?}he{\?}{\?} faces it head on."/>
     <string id="WOwaHClt" text="{COMPANION.LINK} reported that {?COMPANION.GENDER}she{?}he{\?} had resolved the matter. {NUMBER} {?(NUMBER &gt; 1)}troops{?}troop{\?} you sent joined back to your party."/>
-    <string id="WpCx75Pc" text="{VALUE}% combat movement speed to tier 3+ foot troops in your formation."/>
+    <string id="WpCx75Pc" text="{VALUE}% швидкості пересування в бою піхоти вашому строю класу 3 і вище."/>
     <string id="WpidwcAV" text="If you have a companion who understands this type of work and {ALTERNATIVE_TROOP_AMOUNT} men, I can tell them where to go to get their hands on some prisoners."/>
-    <string id="wPwbyBra" text="{VALUE}% damage to shields with throwing weapons."/>
+    <string id="wPwbyBra" text="{VALUE}% шкоди, нанесеної щитам метальною зброєю."/>
     <string id="WQa1R55u" text="Poachers Party"/>
     <string id="wQH1N109" text="War broke out between your clan and the quest giver's realm. Quest canceled."/>
     <string id="WrAMfIG1" text="Phenoria"/>
@@ -4441,7 +4441,7 @@
     <string id="wT1ducZX" text="Now. What will the kingdom be called?"/>
     <string id="wTBtu1t5" text="An open square in the settlement where people can meet, spend time, and share their ideas. Increases influence of the settlement owner."/>
     <string id="WtCSdcs9" text="You have failed to defeat the bandits, as {QUEST_GIVER.LINK} asked you to do."/>
-    <string id="wtdwqO8i" text="{VALUE}% battle morale penalty to enemies with mounted ranged kills by troops in your formation."/>
+    <string id="wtdwqO8i" text="{VALUE}% штрафу бойового духу ворога, коли його воїнів вбивають кінні війська вашого строю зброєю дальнього бою."/>
     <string id="WtEoXblx" text="Knight"/>
     <string id="WTePYMNF" text="Zaraclys"/>
     <string id="wTh00qoj" text="{HERO.NAME} has showed mercy to {SETTLEMENT}."/>
@@ -4449,7 +4449,7 @@
     <string id="wTx2MNIJ" text="{QUEST_SETTLEMENT} was raided. {QUEST_GIVER.LINK} can no longer fulfill your contract. Agreement was canceled."/>
     <string id="wTyq7LaM" text="Silkworm Farm"/>
     <string id="wU76OPxM" text="&quot;This is worse than what I've asked for. I'm cutting {AMOUNT}{GOLD_ICON} from the price.&quot;"/>
-    <string id="WUaSub02" text="{VALUE}% damage with crossbows for every skill point above 200."/>
+    <string id="WUaSub02" text="{VALUE}% шкоди від арбалетів за кожне очко уміння більше 200."/>
     <string id="wUb5h4a3" text="Trained Troops"/>
     <string id="wuMJobac" text="{FIRSTNAME} the Factor"/>
     <string id="wUov3khT" text="{VALUE}% chance of getting staggered while reloading crossbows to troops in your formation."/>
