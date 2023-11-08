@@ -560,7 +560,7 @@
     <string id="6vPCEaSR" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?} that would be very good. Merchants will not like this but the hard-working artisans like me will be grateful to you for this."/>
     <string id="6vtmYjTW" text="Jolanna"/>
     <string id="6Wc1XErN" text="Wait, wait... You're not going anywhere just yet."/>
-    <string id="6WP4OkKt" text="{VALUE}% щоденного шансу покращити стосунки з впливовими можновладцями у підконтрольному поселенні."/>
+    <string id="6WP4OkKt" text="{VALUE}% щоденного шансу покращити стосунки з впливовими відомою особою у підконтрольному поселенні."/>
     <string id="6wqJA77K" text="{VALUE}% швидкості виробництва у власних майстернях."/>
     <string id="6WUaFzlv" text="{?PLAYER_CHILD}Your{?}The{\?} child forged a sword - blade, hilt and pommel. The artisan said that he has never seen such dedication and patience in one so young."/>
     <string id="6XAvdeEE" text="{ARMY} has been disbanded since kingdom has been changed."/>
@@ -3282,7 +3282,7 @@
     <string id="pGyO41lb" text="Yes, I can do that. What skill exactly do you have in mind?"/>
     <string id="PHAm9BIp" text="{COMPANION.LINK} and the men you sent with {?COMPANION.GENDER}her{?}him{\?} successfully protected the caravan. {QUEST_GIVER.LINK} is happy and sends you {?QUES_GIVER.GENDER}her{?}him{\?} regards with {REWARD_GOLD}{GOLD_ICON} he promised."/>
     <string id="pHbnAZtt" text="trade like a veteran merchant."/>
-    <string id="pHdIgnYu" text="{VALUE}% damage from projectiles to troops in your formation."/>
+    <string id="pHdIgnYu" text="{VALUE}% шкоди від снарядів воїнам вашого строю."/>
     <string id="PHe0oco1" text="You fought your way through the attackers to reach the gates. The defenders open them quickly to let you through. When the gates are safely closed behind you, you take a quick tally only to see you have lost the following: {CASUALTIES}.{OTHER_CASUALTIES}"/>
     <string id="pHmz4GZN" text="Everything is easier when people are pleased by your presence. Proper grace and etiquette will be useful even among enemies."/>
     <string id="pHrxeTdc" text="Prisoners:"/>
@@ -3295,7 +3295,7 @@
     <string id="pKquYFTX" text="Steel Maker"/>
     <string id="pL3s39hv" text="Clever {FIRSTNAME}"/>
     <string id="PLbxHyPu" text="It varies. I fancy that I have a fine eye for assessing a ransom. There are a dozen little things about a man that will tell you whether he goes to bed hungry, or spices his meat with pepper and cloves from the east. The real money of course is in the aristocracy, and if you ever want to do my job you'll want to learn about every landowning family or tribal chief in Calradia, their estates, their offspring both lawful and bastard, and, of course, their credit with the merchants."/>
-    <string id="PleZrXuO" text="{VALUE}% damage to enemies with less than half of their hit points left."/>
+    <string id="PleZrXuO" text="{VALUE}% шкоди ворогам, у яких залишилося менше половини здоров'я."/>
     <string id="plHZYtxF" text="{PLURAL(REQUESTED_MOUNT_NAME)} in Inventory: "/>
     <string id="plx8kkxa" text="Pelicos"/>
     <string id="plYfFg4A" text="learned how a victory is won."/>
@@ -3303,7 +3303,7 @@
     <string id="pmg9KCqf" text="We have been at peace too long. Our men grow restless."/>
     <string id="PMio7set" text="Marital Status"/>
     <string id="pmrjUNEz" text="As it happens, I already have a mercenary contract that I wish to sell. So, no thank you."/>
-    <string id="pnAq0a40" text="{VALUE}% travel speed while following a hostile party."/>
+    <string id="pnAq0a40" text="{VALUE}% швидкості пересування при переслідуванні ворожого загону."/>
     <string id="PNB9bHJd" text="{VALUE} prisoner limit and -10% escape chance to your prisoners."/>
     <string id="Pnc8ToV1" text="Just participate in a future tournament in this realm, and say you dedicate your victories to me. {TOURNAMENT_ROUND_GOAL}"/>
     <string id="pnQN6LrV" text="The time is not quite right, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I don't want to ride into a trap."/>
@@ -3317,7 +3317,7 @@
     <string id="ppi6eVos" text="As you wish."/>
     <string id="ppO0hoT6" text="I'll deliver {GRAIN_AMOUNT} sacks of grain as soon as possible {?QUEST_GIVER.GENDER}lady{?}sir{\?}, and try to find some livestock and wine as you requested."/>
     <string id="PpuRM82X" text="The sword is the weapon of the noble warrior. It is useful both in the battlefield and in court, where it symbolizes a wearer's willingness to fight to protect {?CHILD.GENDER}her{?}his{\?} honor."/>
-    <string id="Pq0bhBUL" text="{VALUE}% damage with two handed weapons."/>
+    <string id="Pq0bhBUL" text="{VALUE}% шкоди від дворучної зброї."/>
     <string id="pq0w8kry" text="Orachos"/>
     <string id="pQaQW1As" text="You cannot ambush right now due to your wounds."/>
     <string id="pqfz386V" text="Clan Leader"/>
@@ -3326,7 +3326,7 @@
     <string id="pQSBdHC7" text="The child has exceptional coordination for someone {?CHILD.GENDER}her{?}his{\?} age, and can catch a tossed ball and eat by {?CHILD.GENDER}herself{?}himself{\?}."/>
     <string id="PQt8lfTX" text="You have failed to return to the {QUEST_GIVER.LINK} in time. {QUEST_GIVER_VILLAGE} and its locals are aware of your misdemeanor."/>
     <string id="PR4IqkTW" text="Temeon"/>
-    <string id="pr5vaFNc" text="{VALUE}% chance of blocking projectiles from behind with a shield on your back."/>
+    <string id="pr5vaFNc" text="{VALUE}% шансу заблокувати снаряди ззаду, коли у вас щит на спині."/>
     <string id="PRadDFN5" text="{SALUTATION}... Well, I hadn't expected this, but I'm very grateful."/>
     <string id="pRbKbPK3" text="Vadrios"/>
     <string id="prcBBqMR" text="{HIDEOUT_DESCRIPTION} You see armed men moving about. As you listen quietly, you hear scraps of conversation about raids, ransoms, and the best places to waylay travellers."/>
@@ -3338,7 +3338,7 @@
     <string id="PSvarWWW" text="{VALUE} morale while besieged in the governed settlement."/>
     <string id="PThYJE2U" text="Party Speed:"/>
     <string id="PTj1WtJx" text="The way we ran back there... It shames me to think of it. Next time, let us fight and die rather than let men call us cowards!"/>
-    <string id="ptmYmT6B" text="{VALUE}% experience from battles shared with the troops in your party."/>
+    <string id="ptmYmT6B" text="{VALUE}% досвіду від боїв, яким ви ділитесь з воїнами вашого загону."/>
     <string id="PtWQ789Z" text="I'm not sure I trust you people."/>
     <string id="pUrSIed8" text="You have failed to escort the caravan to its destination."/>
     <string id="PutoRsWp" text="A courier arrives from the {CLAN_NAME}. They offer you {GOLD_AMOUNT}{GOLD_ICON} in ransom if you will free {CAPTIVE_HERO.NAME}."/>
@@ -3367,7 +3367,7 @@
     <string id="PyjCZGlG" text="This town has laws about unauthorized trade. Turn over the goods to me now."/>
     <string id="PypPEj5Z" text="I will be your loyal {?PLAYER.GENDER}follower{?}man{\?} as long as my breath remains..."/>
     <string id="PyVqDLBu" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли взяти кредит і побудувати невелику майстерню. Ви виплатили борг і продали свою справу, отримавши хороший прибуток."/>
-    <string id="PZb8JrMH" text="{VALUE}% daily chance to recover a lame horse."/>
+    <string id="PZb8JrMH" text="{VALUE}% щоденного шансу вилікувати кульгавого коня."/>
     <string id="PZfR7hEK" text="What do you want? I have a tournament to prepare for."/>
     <string id="PZI9Smv3" text="{QUEST_GIVER.LINK}, a gang leader in {SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs recruits for {?QUEST_GIVER.GENDER}her{?}his{\?} gang. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to recruit {NEEDED_RECRUIT_AMOUNT} looters or bandits into your party, then transfer them to {?QUEST_GIVER.GENDER}her{?}him{\?}. You will be paid for the recruits depending on their experience."/>
     <string id="pZm7HRDG" text="Don't worry I have no intention to attack."/>
@@ -3377,20 +3377,20 @@
     <string id="Q0UjYw7V" text="Yes I am sure."/>
     <string id="q186AQHt" text="Phadon"/>
     <string id="q2aed7tv" text="Train troops for {ISSUE_OWNER.NAME}"/>
-    <string id="q2gybZYy" text="{VALUE}% damage to your shields."/>
+    <string id="q2gybZYy" text="{VALUE}% шкоди вашим щитам."/>
     <string id="q2Ovtr1s" text="Effects settlement's tax."/>
-    <string id="q2ZDAm2v" text="{VALUE}% food consumption during sieges in the governed settlement."/>
+    <string id="q2ZDAm2v" text="{VALUE}% споживання їжі в підконтрольному поселенні під час облоги."/>
     <string id="Q39oLjSu" text="One of the entourage was thrown from a horse on the road. The young {?CHILD.GENDER}woman{?}man{\?} set the broken bone and ensured it healed cleanly."/>
     <string id="q3J9Wb8N" text="If you can afford to pay {GOLD_AMOUNT} {GOLD_ICON} for it, I can teach you right now. Are you sure you want to go through with it?"/>
     <string id="q3wD0rbq" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {._}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
     <string id="q4wWEbsa" text="You decided not to deliver the items after listening to {COUNTER_OFFER_HERO.LINK}."/>
-    <string id="q5IMLou4" text="{VALUE}% tariff gain in the governed settlement."/>
+    <string id="q5IMLou4" text="{VALUE}% прибутку від мита в підконтрольному поселенні."/>
     <string id="Q72PJYtf" text="{VALUE} party size for each leadership point above 250."/>
-    <string id="Q74nUiFJ" text="{VALUE}% party speed."/>
-    <string id="Q8LSfvIO" text="{VALUE}% accuracy to ballistas in the governed settlement."/>
+    <string id="Q74nUiFJ" text="{VALUE}% швидкості загону."/>
+    <string id="Q8LSfvIO" text="{VALUE}% точності балістам у підконтрольному поселенні."/>
     <string id="Q8VN9UCq" text="Choose the prisoners to be ransomed"/>
     <string id="Q9RXyDBz" text="{newline} • {HERO.NAME} must use {INFLUENCE_AMOUNT} influence to convince {MERCIFUL_LORD_COUNT} merciful leaders of this action:{newline} {MERCIFUL_LORDS}"/>
-    <string id="Q9VCvUTg" text="{VALUE}% build speed for marketplace, kiln and aqueduct projects."/>
+    <string id="Q9VCvUTg" text="{VALUE}% швидкості побудови ринків, печей та акведуків."/>
     <string id="qa4FlTWS" text="{RULER.NAME} of the {KINGDOM} takes {SETTLEMENT} as {?RULER.GENDER}her{?}his{\?} fief despite {?RULER.GENDER}her{?}his{\?} council's opposition."/>
     <string id="qAbMagWq" text="продавали товари на ринку."/>
     <string id="QAg8DQy6" text="You received a message from {QUEST_GIVER.LINK}.\n &quot;Thank you for fighting so valiantly in my name. Please take these {REWARD} denars with our gratitude.&quot;"/>
@@ -3409,9 +3409,9 @@
     <string id="QbWK6sWo" text="{VALUE} Archery skill to troops in your formation."/>
     <string id="QbwNmxrn" text="You told {?CHILD.GENDER}her{?}him{\?} that skill and brains are all very well, but in many situations there is no substitute for sheer brute might."/>
     <string id="qBx8UbUt" text="Arenicos' Mules"/>
-    <string id="qC298I3g" text="{VALUE}% accuracy penalty to archers in your formation."/>
+    <string id="qC298I3g" text="{VALUE}% штрафу до точності лучників у вашому строю."/>
     <string id="qcaaJLhx" text="Mercenary Contract"/>
-    <string id="qCaIau4o" text="{VALUE}% persuasion chance."/>
+    <string id="qCaIau4o" text="{VALUE}% шанс переконання."/>
     <string id="qcl3YTPh" text="Відвідати таверну"/>
     <string id="qClVr2ka" text="This hero cannot lead a party"/>
     <string id="QCuxL92I" text="Good day, {?PLAYER.GENDER}madam{?}sir{\?}. How can I help you?"/>
@@ -3424,7 +3424,7 @@
     <string id="qeRRWMfU" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} fell during the fighting. {?ARMY_LEADER.GENDER}Her{?}His{\?} vengeful troops sweep through the {?IS_CITY}city{?}fortress{\?} taking whatever loot they like and setting fire to the rest."/>
     <string id="qezuzVuY" text="{FIRSTNAME} the Goat"/>
     <string id="qfClYYjK" text="Artisans can't sell their products in {ISSUE_GIVER_SETTLEMENT}"/>
-    <string id="qfjgKCty" text="{VALUE}% siege engine build speed increase for each militia."/>
+    <string id="qfjgKCty" text="{VALUE}% збільшення швидкості будівництва облогового знаряддя за кожного ополченця."/>
     <string id="qfjRGjM4" text="Your scouts started to gather information about {SETTLEMENT}."/>
     <string id="QFKK1H4U" text="Kingdom Destroyed"/>
     <string id="QfMeoKOm" text="Send troops."/>
@@ -3448,11 +3448,11 @@
     <string id="qi0wKvPX" text="You failed to catch up to the caravan before it was overwhelmed. {QUEST_GIVER.LINK} will be very upset about this."/>
     <string id="qI4cicQz" text="It is a disgrace to keep paying tribute to the  {ENEMY_KINGDOM_INFORMAL_NAME}."/>
     <string id="qIAgh9VL" text="Not Married"/>
-    <string id="QIDr1cTd" text="{VALUE}% fall damage taken and +100% kick damage dealt."/>
+    <string id="QIDr1cTd" text="{VALUE}% отриманої шкоди від падіння і +100% завданої шкоди від удару ногою."/>
     <string id="QiHaWd75" text="Армії втрачають на 20% менше щоденної згуртованості."/>
-    <string id="qItLTWR2" text="{VALUE}% recruitment rate of tier 4+ prisoners."/>
+    <string id="qItLTWR2" text="{VALUE}% швидкості вербування полонених класу 4 і вище."/>
     <string id="qiTtJyHE" text="Gala"/>
-    <string id="QiZfTNWJ" text="{VALUE}% damage bonus from speed while on foot."/>
+    <string id="QiZfTNWJ" text="{VALUE}% додаткової шкоди від швидкості при пересуванні пішки."/>
     <string id="qJBhadGi" text="{VALUE}% шкоди від дворучних сокири та булави."/>
     <string id="QjJAbaoT" text="Apys"/>
     <string id="qjpNREwg" text="You don't have any companions or family members."/>
@@ -3470,7 +3470,7 @@
     <string id="qlOuiKXj" text="відома витівка."/>
     <string id="QlYUE00L" text="Well. We did have an agreement. I do expect you to pay the full amount."/>
     <string id="QlZc9CNQ" text="Rulers could appoint magistrates to rule in disputes and solve crimes. This could cut down on gang activity and lawlessness, but was often greatly resented by communities."/>
-    <string id="QmaIRD7P" text="{VALUE}% travel speed during nighttime"/>
+    <string id="QmaIRD7P" text="{VALUE}% швидкості руху вночі."/>
     <string id="qmwv27To" text="{FIRSTNAME} the Mouse"/>
     <string id="QNaKmkt9" text="We're paid to guard this caravan. If you want to rob it, it's going to be over our dead bodies![rf:idle_angry][ib:aggressive]"/>
     <string id="qNgGoqmI" text="Try to get away."/>
@@ -3484,21 +3484,21 @@
     <string id="qOhDHFyH" text="Are you another one of {QUEST_GIVER.NAME}'s lackeys? Did {?QUEST_GIVER.GENDER}she{?}he{\?} send you to hunt me like an animal? Well, I think you've found you've caught not a hare but a lion."/>
     <string id="QOiPDGbf" text="I have never heard of your clan. I am not sure if I can rely on you or not.[ib:closed][if:convo_grave]"/>
     <string id="QojyhVIg" text="I see. You can take them, then."/>
-    <string id="QOMr1QS7" text="{VALUE}% damage against bandits when your troops are sent to confront the enemy."/>
+    <string id="QOMr1QS7" text="{VALUE}% шкоди проти бандитів, коли ваші воїни відправляються у бій."/>
     <string id="qoqbaHCE" text="After days of imprisonment, you are finally set free when your captors exchange you with {PRISONER_LORD.LINK}."/>
     <string id="QoubP07U" text="allowing the ruler to grant special privileges to towns"/>
     <string id="QOWyEJrm" text="You don't have enough denars."/>
     <string id="QP3BbOW3" text="Very good. You have my blessing to summon an army if you wish, or, if you prefer to strike quickly, you may do so on your own..."/>
-    <string id="QPfj9Dbj" text="{VALUE}% morale from victories."/>
+    <string id="QPfj9Dbj" text="{VALUE}% бойового духу від перемог."/>
     <string id="qPfJpwGa" text="You have persuaded the poachers to leave the district."/>
     <string id="qPg3IDiq" text="Ваша родина походила з одного з купецьких кланів, які домінували в містах східної Кальрадії до завоювання хузаїтами. Ваші родичі швидко пристосувалися до нових господарів і продовжили відправляти каравани, гарантуючи, що доходи від мита, які колись йшли в імперську казну, тепер надходитимуть до ханства."/>
     <string id="qPJJnxM1" text="Successful crafting orders of notables increase your relation by {VALUE} with them."/>
-    <string id="qPpN2wW8" text="{VALUE}% overburdened speed penalty."/>
+    <string id="qPpN2wW8" text="{VALUE}% штрафу до швидкості через перевантаження."/>
     <string id="QpQQJjD6" text="The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer."/>
     <string id="QPv1b7f8" text="I haven't had the time yet."/>
     <string id="QqKNxmeF" text="Tradeyard Foreman"/>
     <string id="QQtJobYP" text="We need time to recover from the hardships of war."/>
-    <string id="QqVLsf0N" text="{VALUE}% charge damage taken."/>
+    <string id="QqVLsf0N" text="{VALUE}% отримуваної шкоди від зіткнень."/>
     <string id="qqW5n5Ox" text="Milos"/>
     <string id="qqzJTfo0" text="Barter line goes here."/>
     <string id="qR3gQrLi" text="Splendid. We'll need to keep moving around, though, so it might be tricky to find us. My fellow nobles will usually know where to find me though, if you ask them."/>
@@ -3515,7 +3515,7 @@
     <string id="qSi4DlT4" text="Food"/>
     <string id="QskefraA" text="{FIRSTNAME} of the Ram"/>
     <string id="QsL6qcDb" text="That's very good to hear! Thank you."/>
-    <string id="QsMEML5E" text="{VALUE}% animal production rate in villages bound to the governed settlement."/>
+    <string id="QsMEML5E" text="{VALUE}% швидкості розмноження тварин в селах, зв'язаних з підконтрольним поселенням."/>
     <string id="qsMnnfQ3" text="You failed to clear the hideout in time to prevent further attacks. {QUEST_GIVER.LINK} is disappointed."/>
     <string id="qsnh0KGS" text="As your friend, I give you my word that I won't breathe a word to anyone else about this conversation."/>
     <string id="QSPMKz2R" text="You are the chosen of the Sky, and I shall follow your banner as long as my breath remains..."/>
@@ -3528,10 +3528,10 @@
     <string id="QuffbfeU" text="The child asks any adults {?CHILD.GENDER}she{?}he{\?} sees to ask {?CHILD.GENDER}her{?}him{\?} one of the riddles that are loved by your people, and never gives up until it is solved."/>
     <string id="QUFmBtbk" text="{FIRSTNAME} of the Sandal"/>
     <string id="QUn2ugIX" text="Thank you. Here's your pay."/>
-    <string id="QUXbhsxb" text="{VALUE}% damage with two handed weapons while you have more than 90% of your hit points."/>
+    <string id="QUXbhsxb" text="{VALUE}% шкоди від дворучної зброї, поки у вас більше ніж 90% здоров'я."/>
     <string id="QUYwIYEi" text="Item prices are marked relative to the average price."/>
     <string id="QvfUqzpF" text="Mina"/>
-    <string id="qvjCYY61" text="{VALUE}% battle morale penalty to enemies with mounted melee kills."/>
+    <string id="qvjCYY61" text="{VALUE}% штрафу до бойового духу ворогів при вбивстві зброєю ближнього бою верхи."/>
     <string id="qvlln5ej" text="Thanks, I knew I could trust you."/>
     <string id="QvyFYn1b" text="The defenders are routed, and it's clear that {TOWN_NAME} is yours. It's time for you to determine the fate of the {?IS_CITY}city{?}fortress{\?}."/>
     <string id="QVZMiaV2" text="helping recover stolen goods."/>
@@ -3551,7 +3551,7 @@
     <string id="qzG74Cdz" text="{VALUE} relationship per day with a random notable over age 50 when party is in a town."/>
     <string id="qZpIdBib" text="You can refine two units of iron into one unit of steel, and one unit of crude iron as by-product."/>
     <string id="R0bJS0pn" text="Make peace with the {OTHER_FACTION}"/>
-    <string id="r0epmJJJ" text="{VALUE}% accuracy penalty to mounted troops in your party."/>
+    <string id="r0epmJJJ" text="{VALUE}% штрафу до точності для кінних військ у вашому загоні."/>
     <string id="R1MaIgOb" text="Militia Effect"/>
     <string id="R1W5Il2d" text="You can take your grievances to your lord, or to whoever sold the land. The law says a buyer has rights, and you need to clear out."/>
     <string id="R21SLyGK" text="Excellent. You are a brave and loyal warrior. You have my thanks."/>
@@ -3570,23 +3570,23 @@
     <string id="R8Lnif8l" text="{VALUE}% швидкості змаху дворучній зброї."/>
     <string id="r8rwl9ZS" text="Delivered Recruits"/>
     <string id="r8VcYkUf" text="She expects you to fight in her name and win the tournament."/>
-    <string id="R8vLC6j0" text="{VALUE}% chance to get 1 relation per day with a random notable in the governed settlement"/>
+    <string id="R8vLC6j0" text="{VALUE}% шансу раз на день покращити на 1 відношення з випадковою відомою особою у підконтрольному поселенні."/>
     <string id="R92XzKXE" text="Take a walk around the castle"/>
-    <string id="R93r6aV7" text="{VALUE}% damage taken from projectiles."/>
+    <string id="R93r6aV7" text="{VALUE}% отримуваної шкоди від снарядів."/>
     <string id="r9F1W4KZ" text="Yes? Have you been able to train my men?"/>
-    <string id="R9O0Y64L" text="{VALUE}% party healing rate while waiting in towns."/>
+    <string id="R9O0Y64L" text="{VALUE}% швидкості зцілення загону під час очікування в містах."/>
     <string id="R9R6imnU" text="Scouts working for {QUEST_GIVER.NAME} marked the hideout on your map"/>
     <string id="r9Tp4UGy" text="Honeytongue {FIRSTNAME}"/>
     <string id="Ra2poaEh" text="{VALUE} experience per day to tier 1 and 2 troops."/>
     <string id="rA3KybBX" text="Ethirea"/>
-    <string id="rA9nzrAr" text="{VALUE}% siege engine build rate in your party."/>
+    <string id="rA9nzrAr" text="{VALUE}% швидкості будівництва облогових знарядь у вашому загоні."/>
     <string id="RabC7Wzm" text="The headman tells you that most of the villagers can't afford the rest of the tax. They offer crops and other goods as payment in kind."/>
     <string id="raCa7QXj" text="&quot;This is even better than what I have imagined. Here is your money, and I'm putting a little extra for your effort.&quot;"/>
     <string id="RACyH7N5" text="Greetings, {PLAYER.NAME}. I suppose that you're here because of that message I sent you. But we are at war now. I can no longer make that offer to you."/>
-    <string id="RAmqFXLm" text="{VALUE}% wages of tier 4+ troops."/>
+    <string id="RAmqFXLm" text="{VALUE}% платні воїнам 4 класу і вище."/>
     <string id="rAqyKcKZ" text="Who the hell are you? What do you want from us?"/>
     <string id="rB96005A" text="The steward is in charge of running the day-to-day affairs of your estate. {?PLAYER_CHILD}Your{?}The{\?} child should learn early how people and supplies are managed."/>
-    <string id="RbDAfDsF" text="{VALUE}% battle morale loss to troops in your formation."/>
+    <string id="RbDAfDsF" text="{VALUE}% втрати бойового духу воїнами у вашому строю."/>
     <string id="rbJEuVKg" text="Things could certainly be better, my {?HERO.GENDER}lady{?}lord{\?}. The merchants say business is slow, and the people complain that goods are expensive and in short supply."/>
     <string id="RbjN7VQ2" text="Ruler clan earns 3 influence per day{newline}Non-ruler clans lose 0.5 influence per day"/>
     <string id="rBPI2dvX" text="I don't need the service of strangers. I work only with lords of the realm and loyal mercenaries.[ib:closed][if:convo_grave]"/>
@@ -3615,7 +3615,7 @@
     <string id="rHcVKSbA" text="Iron Mine"/>
     <string id="rhfgzKtA" text="Tribute from {A0}"/>
     <string id="RhJdnAQY" text="enjoy the high life."/>
-    <string id="rHtwp8ag" text="{VALUE}% daily chance to gain +1 relationship with a random lord in the same army."/>
+    <string id="rHtwp8ag" text="{VALUE}% щоденного шансу покращити відношення на 1 з випадковим лордом у вашій армії."/>
     <string id="RHXdqjQY" text="Ilina"/>
     <string id="RIiVDdi0" text="Effort For The People"/>
     <string id="RIMXqF1d" text="{VALUE} battle morale at the beginning of a battle when defending."/>
@@ -3623,12 +3623,12 @@
     <string id="rJBgDaxe" text="Your army has disbanded due to lack of cohesion."/>
     <string id="rJIY7OiR" text="You have to send {NEEDED_TROOP_COUNT} troops with at least tier 2 to this quest."/>
     <string id="rJwExPKb" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? I am looking for a master. I'll join you for {GOLD_AMOUNT}{GOLD_ICON}"/>
-    <string id="rkHnKmSK" text="{VALUE}% travel speed to throwing weapons of troops in your formation."/>
+    <string id="rkHnKmSK" text="{VALUE}% швидкості польоту снарядів метальної зброї воїнів вашому строю."/>
     <string id="RkQjllml" text="Given even a few minutes of free time, {?PLAYER_CHILD}your{?}this{\?} child will line up targets and shoot them with {?CHILD.GENDER}her{?}his{\?} home-made bow."/>
-    <string id="rkQptw1O" text="{VALUE}% production in farms, mines, lumber camps and clay pits bound to the governed settlement."/>
+    <string id="rkQptw1O" text="{VALUE}% виробництва на фермах, шахтах, лісозаготівлях та глиняних кар'єрах, зв'язаних з підконтрольним поселенням."/>
     <string id="rkuAgPSA" text="On the Edge"/>
     <string id="RKVNvimC" text="пасли овець."/>
-    <string id="RkYL5eaP" text="{VALUE}% troop upgrade costs."/>
+    <string id="RkYL5eaP" text="{VALUE}% витрат на покращення воїнів."/>
     <string id="Rl1AHKSp" text="Royal Privilege"/>
     <string id="RL8z99Dt" text="Force notables to give you recruits"/>
     <string id="rlAec9CM" text="Very well. Keep safe."/>
@@ -3654,7 +3654,7 @@
     <string id="rOBRabQz" text="Good. I'm waiting for your good news."/>
     <string id="roTCX8S8" text="{ISSUE_GIVER_1.NAME} mentioned something about needing someone to do some work."/>
     <string id="rOWyAHPo" text="Mind your own business, Headman."/>
-    <string id="RP2Jn3J4" text="{VALUE}% damage for each engineering skill point over 250 for siege engines in siege bombardment."/>
+    <string id="RP2Jn3J4" text="{VALUE}% шкоди для облогових знарядь під час облогового бомбардування за кожне очко інженерного уміння більше 250."/>
     <string id="rPP0OSBm" text="Treating sprained ankles, broken bones and lamed horses are as much a part of a hunting expedition as skinning and gutting your quarry."/>
     <string id="RQd005zy" text="Equipped bows do not slow you down."/>
     <string id="rqHFujhr" text="Sacred Majesty"/>
@@ -3674,7 +3674,7 @@
     <string id="rsQhD7sC" text="You thought that the villagers have paid enough, so departed from the settlement"/>
     <string id="RssJTUpL" text="Berserker"/>
     <string id="Rt2w61N8" text="Don't get involved in this. We've grazed our herds on these hillsides since our fathers' fathers' time. We don't care if one rich bastard gave a couple of bags of silver to another rich bastard. We don't care about title deeds or courts of law or any of that. Custom is custom, and we're not going anywhere!"/>
-    <string id="rTbVn6sJ" text="{VALUE}% barter penalty for items."/>
+    <string id="rTbVn6sJ" text="{VALUE}% штрафу за бартер на предмети."/>
     <string id="rTFaZCdY" text="Forest"/>
     <string id="rtfoywJl" text="Declare war on the {KINGDOM_NAME}"/>
     <string id="RTNK5FSs" text="No, I don't want to shed your blood."/>
@@ -3684,7 +3684,7 @@
     <string id="rtTjuJTc" text="Minister of Health"/>
     <string id="rTvWdMXF" text="{DIED_HERO.LINK} died and your agreement with {?DIED_HERO.GENDER}her{?}him{\?} canceled."/>
     <string id="RuaA8t97" text="Kingdom Name"/>
-    <string id="RUEfCZBG" text="{VALUE}% sight range during daytime in campaign map."/>
+    <string id="RUEfCZBG" text="{VALUE}% дальності видимості на карті вдень."/>
     <string id="RuHaC2Ck" text="Scutage Tax"/>
     <string id="RUjPcZhF" text="{?PLAYER_CHILD}Your{?}The{\?} child is rarely even winded after {?CHILD.GENDER}her{?}his{\?} daily exercises."/>
     <string id="ruP9jbSq" text="Швидкість будівництва міських проєктів у поселеннях знижується на 10%."/>
@@ -3699,7 +3699,7 @@
     <string id="rVIzHhLO" text="The young {?CHILD.GENDER}woman{?}man{\?}'s social graces helped put other merchants at ease as they exchanged information and worked out deals."/>
     <string id="RvKwdXWs" text="Commander"/>
     <string id="RVLPQ4rm" text="My friend. I am almost sad that these meetings are going to come to an end. Well, a deal is a deal. I won't beat around the bush. Here's your final message: {DIRECTIVE}. I wish you luck, right up until the moment that you have to go down.[if:happy][ib:demure]"/>
-    <string id="RVNPXS46" text="{VALUE}% security provided by mounted troops in the governed settlement."/>
+    <string id="RVNPXS46" text="{VALUE}% безпеки, яку забезпечують кінні воїни у підконтрольному поселенні."/>
     <string id="rvqVuM5o" text="supervising the guards."/>
     <string id="rVUhYuvE" text="Suterios"/>
     <string id="RWMACSag" text="Enduring Smith"/>
@@ -3714,7 +3714,7 @@
     <string id="RY8Fglsk" text="You have persuaded {MALE_LESSER_NOBLE_NAME} to disband his party and return home. You received {REWARD}{GOLD_ICON} in return for your service."/>
     <string id="RybVf6Nt" text="You were convinced by {MALE_LESSER_NOBLE_NAME} to let him gather support. {QUEST_GIVER.LINK} will be very upset about this."/>
     <string id="RyfFWmDs" text="No Rest for the Wicked"/>
-    <string id="RYkPTHv1" text="{VALUE}% price penalty while buying from villages."/>
+    <string id="RYkPTHv1" text="{VALUE}% штрафу до ціни при купівлі у селян."/>
     <string id="RyorjCXF" text="Galon"/>
     <string id="RYOuDxdu" text="Respectfully, my {?PLAYER.GENDER}lady{?}lord{\?}, I must protest this. But of course you are free to do what you will."/>
     <string id="rYt43AWk" text="{QUEST_GIVER.LINK} accepted your offer to buy the products from an average price. You can now sell those for profits without any obligations to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
@@ -3742,14 +3742,14 @@
     <string id="SA4JbVo2" text="Your steward acts as magistrate in the lord's absence. {?PLAYER_CHILD}Your{?}The{\?} child will sit at his side as he rules on land disputes, family feuds, and cases of alleged banditry, giving {?CHILD.GENDER}her{?}him{\?} a look at the darker side of life in Calradia."/>
     <string id="sAobCa9U" text="Brigands are disturbing travelers outside the town. Someone needs to hunt them down."/>
     <string id="SausWqM5" text="{?CHARACTER.GENDER}She{?}He{\?} disappeared in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
-    <string id="sAv1co78" text="{VALUE}% daily chance to increase relation with a notable by 1 when you enter a town."/>
+    <string id="sAv1co78" text="{VALUE}% щоденного шансу покращити відношення з відомою особою на 1, коли ви входите до міста."/>
     <string id="sb4gg8Ak" text="Вільні землевласники"/>
     <string id="sBahcJcl" text="Idle."/>
     <string id="SbbAhpTu" text="He is yet to prove himself actually."/>
     <string id="sbczu2VI" text="Play on, good man."/>
     <string id="sbFboHmV" text="A courier has arrived from the {MAP_FACTION_NAME}. They offer you peace if you agree to pay a {GOLD_AMOUNT} {GOLD_ICON} daily tribute. Your kingdom will vote whether to accept the offer."/>
     <string id="SBHwIaVP" text="recovered stolen goods."/>
-    <string id="sbkrplXi" text="{VALUE}% damage with thrust attacks made with polearms."/>
+    <string id="sbkrplXi" text="{VALUE}% шкоди від тичка древковою зброєю."/>
     <string id="sbmWGPYG" text="You are besieging {SETTLEMENT}. {FURTHER_EXPLANATION}"/>
     <string id="SbYlYGFA" text="Sorry. No one like that has passed through here for a while."/>
     <string id="sC4ZLZ8x" text="{COMMENT}"/>
@@ -3765,7 +3765,7 @@
     <string id="SDzIAtiA" text="Prisoners of {SETTLEMENT_NAME}"/>
     <string id="se5704KH" text="{HERO.NAME} is solving an issue right now."/>
     <string id="seEyGLMz" text="Go deep into {ENEMY} territory, to {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}. I want to know every detail about them, what sort of fortifications they have, whether the walls are well-manned or undergarrisoned, and any other enemy forces in the vicinity."/>
-    <string id="seiduCHq" text="{VALUE}% damage to outnumbered enemies when troops are sent to confront the enemy."/>
+    <string id="seiduCHq" text="{VALUE}% шкоди проти ворогів, які переважають за чисельністю, коли ваші воїни відправляються у бій."/>
     <string id="SF244Jxx" text="as a noble's ward."/>
     <string id="sfFkYm0a" text="Your companion has successfully brought the troops {ISSUE_OWNER.LINK} requested. You received {REWARD}{GOLD_ICON}."/>
     <string id="SfKrjKuO" text="Точність метальної зброї: +{a0}%"/>
@@ -3775,14 +3775,14 @@
     <string id="SGVW6NXR" text="assisted the smith."/>
     <string id="shf5aY3l" text="I'm listening..."/>
     <string id="shihxzUN" text="Praise be... {LORD.LINK} met {OTHER_SIDE} and whipped them soundly. Maybe now there will be an end to this war."/>
-    <string id="sHiIwnOb" text="{VALUE}% aiming duration without losing accuracy."/>
+    <string id="sHiIwnOb" text="{VALUE}% тривалості прицілювання без втрати точності."/>
     <string id="Shk9QCDg" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} has declared war on the {KINGDOM}."/>
     <string id="shNl2Npf" text="What news of the markets?"/>
     <string id="shU7OlQT" text="You cannot trade while in disguise."/>
-    <string id="Si3QiLW4" text="{VALUE}% cost of bartering for safe passage."/>
+    <string id="Si3QiLW4" text="{VALUE}% вартості укладення угод для безпечного проходу."/>
     <string id="siegeevent" text="Siege"/>
-    <string id="SimMOKbW" text="{VALUE}% daily chance to increase relations with a random notable of opposed sex in the governed settlement."/>
-    <string id="SIMwGiJF" text="{VALUE}% influence gain from winning sieges."/>
+    <string id="SimMOKbW" text="{VALUE}% щоденного шансу покращити стосунки з випадковою відомою особою протилежної статі у підконтрольному поселенні."/>
+    <string id="SIMwGiJF" text="{VALUE}% приросту впливу від успішної облоги."/>
     <string id="siWNDxgo" text="{.%}{?NUMBER_OF_ITEM &gt; 1}{NUMBER_OF_ITEM} {PLURAL(ITEM)}{?}one {ITEM}{\?}{.%}"/>
     <string id="SIxE2LGn" text="{ISSUE_GIVER_1.NAME} mentioned something about needing someone to do some work. And I think {ISSUE_GIVER_2.NAME} and {ISSUE_GIVER_3.NAME} were looking for someone."/>
     <string id="SixPXaNh" text="Very Poor"/>
@@ -3814,7 +3814,7 @@
     <string id="spj8bYVo" text="Good! I'll mark the hideout for you on a map."/>
     <string id="SpJqhEEh" text="Барди"/>
     <string id="sPmQz21k" text="Enemy"/>
-    <string id="SPs04fam" text="{VALUE}% carry capacity for your party."/>
+    <string id="SPs04fam" text="{VALUE}% вантажопідйомності вашого загону."/>
     <string id="sQBBOKDD" text="{ISSUE_SETTLEMENT} Needs Grain Seeds"/>
     <string id="SqceZdzH" text="Of course. That's why they're cheap. You get what you pay for. "/>
     <string id="sQCS90Wq" text="Точність лука: +{a0}%"/>
@@ -3832,14 +3832,14 @@
     <string id="SSm1kkaB" text="{VALUE} Control skills of infantry, {VALUE} Vigor skills of archers in your formation."/>
     <string id="stewardprofession" text="Steward"/>
     <string id="sTfr1C8H" text="Thank you. But if the storms come before you find them, well, that would be bad for us."/>
-    <string id="Stykk4VR" text="{VALUE}% more zoom with crossbows."/>
-    <string id="StzVsQ2P" text="{VALUE}% troop wages while your party is in a siege camp."/>
+    <string id="Stykk4VR" text="{VALUE}% приближення для арбалетів."/>
+    <string id="StzVsQ2P" text="{VALUE}% платні воїнам поки ваш загін перебуває в облоговому таборі."/>
     <string id="sUfSCLQx" text="Sadly, I've heard no news of an upcoming tournament. I am sure one will be held before too long."/>
-    <string id="sUFw8cDt" text="{VALUE}% morale loss to enemy due to crossbow kills by troops in your formation."/>
+    <string id="sUFw8cDt" text="{VALUE}% втрати бойового духу противником через вбивства з арбалетів воїнами вашого строю."/>
     <string id="SUNKjdZ9" text="Choose a Task"/>
     <string id="SvahUNo6" text="Ransom Prisoners"/>
     <string id="SVebFiHQ" text="So looks like {ENEMY_NAME} want war with us. Well, I say we show the bastards who we are!"/>
-    <string id="svkQsokb" text="{VALUE}% armor to your mount."/>
+    <string id="svkQsokb" text="{VALUE}% броні вашій їздовій тварині."/>
     <string id="SVrCpvpZ" text="Thank you {PLAYER.NAME}. Our people are grateful to you for what you have done today. Farewell."/>
     <string id="svuD2vBo" text="You were knocked unconscious while trying to break {PRISONER.NAME} out of the dungeon.{newline}The guards caught you both and threw you in a cell."/>
     <string id="sVXa3zFx" text="Castle"/>
