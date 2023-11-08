@@ -2506,7 +2506,7 @@
     <string id="K9Nb117q" text="Mounted Scouts"/>
     <string id="k9SksaXg" text="The mercenaries left your party, as you failed to get rid of them as you promised. Now the mercenaries have turned bandit and start to plunder countryside."/>
     <string id="k9WaJ396" text="{VALUE}% швидкості пересування по пустелях і дюнах."/>
-    <string id="KabSHyf0" text="{VALUE}% колотої шкоди виготовленої зброї."/>
+    <string id="KabSHyf0" text="{VALUE}% шкоди від тичка для створеної зброї."/>
     <string id="kaEzJUTW" text="Inspiring Leader"/>
     <string id="kaJ6SJeI" text="{VALUE}% швидкості пересування лучників у вашому строю."/>
     <string id="kakxnaN5" text="{?SUPPORT}Yes{?}No{\?}"/>
@@ -3567,7 +3567,7 @@
     <string id="R7A3aPwi" text="A neighboring noble's brutish son took an interest in persecuting {CHILD.NAME}, but the young {?CHILD.GENDER}woman{?}man{\?} gave him reason to look elsewhere for his prey."/>
     <string id="R7wiHjcL" text="Donated troops exceed party capacity."/>
     <string id="R85IMErK" text="Well, if you fail we will deal with that, but I would prefer not to."/>
-    <string id="R8Lnif8l" text="{VALUE}% swing speed with two handed weapons."/>
+    <string id="R8Lnif8l" text="{VALUE}% швидкості змаху дворучній зброї."/>
     <string id="r8rwl9ZS" text="Delivered Recruits"/>
     <string id="r8VcYkUf" text="She expects you to fight in her name and win the tournament."/>
     <string id="R8vLC6j0" text="{VALUE}% chance to get 1 relation per day with a random notable in the governed settlement"/>
@@ -3730,7 +3730,7 @@
     <string id="S4kpdrgw" text="{QUEST_GIVER.LINK}, {?IS_ARTISAN}an artisan{?}a merchant{\?} from {SETTLEMENT}, asked you to follow a fake caravan that was bait for a particularly large and dangerous group of bandits. {?QUEST_GIVER.GENDER}She{?}He{\?} suspects this fake caravan will be attacked on its way to {TARGET_SETTLEMENT}, so {?QUEST_GIVER.GENDER}she{?}he{\?} wants you to follow the caravan from a safe distance and join in the fight once it is attacked. If you succeed, {?QUEST_GIVER.GENDER}she{?}he{\?} promised to pay you {REWARD_GOLD}{GOLD_ICON}. "/>
     <string id="S5OEsjwg" text="You slip into unconsciousness. After a little while some of the friendlier locals manage to bring you around. A little confused but without any serious injuries, you resolve to be more careful next time."/>
     <string id="S60sDU3j" text="Very good! Here is your money. Thank you."/>
-    <string id="S7BMf2Wa" text="{VALUE}% swing damage of crafted weapons."/>
+    <string id="S7BMf2Wa" text="{VALUE}% шкоди від змаху для створеної зброї."/>
     <string id="s7idfhBO" text="I am terribly sorry. We are not really compatible with each other."/>
     <string id="s8PNllPN" text="you saved your city quarter from a fire."/>
     <string id="s8z5Ugvm" text="The clan should be expelled"/>
@@ -3948,7 +3948,7 @@
     <string id="Tp4X51vX" text="Maybe my men can handle this for you."/>
     <string id="TPoK3GSj" text="Волоцюги"/>
     <string id="TpzZgFsA" text="Young And Respectful"/>
-    <string id="Tq0E9sSW" text="{VALUE}% swing speed to infantry in your formation."/>
+    <string id="Tq0E9sSW" text="{VALUE}% швидкості змаху зброї для піхоти у вашому строю."/>
     <string id="TQMGppEk" text="Шкода від метальної зброї: +{a0}%"/>
     <string id="TQmPcVRZ" text="Too many of our nobles are in captivity. We should make peace to free them."/>
     <string id="TQyB9rAs" text="{ISSUE_OWNER.NAME}'s associates captured by bounty hunters."/>
@@ -4562,7 +4562,7 @@
     <string id="xlm8oYhM" text="Your men reported that some of the goods were stolen from the baggage train."/>
     <string id="XLswis9W" text="I will lend you one of my best lieutenants and {TROOP_COUNT} men."/>
     <string id="xm4eEbQY" text="{VALUE}% trade penalty for trading mounts."/>
-    <string id="xM5aawCj" text="Swift Swing"/>
+    <string id="xM5aawCj" text="Різкий змах"/>
     <string id="xM97H0oR" text="Vote for declaring war on the {KINGDOM_NAME}."/>
     <string id="XMaeSoRq" text="never let down {?CHILD.GENDER}her{?}his{\?} guard."/>
     <string id="XmGjTZz0" text="{?QUEST_GIVER.GENDER}Lady{?}Lord{\?} Needs A Tutor"/>
@@ -4827,7 +4827,7 @@
     <string id="z4zrwc9K" text="{VALUE}% armor penetration with throwing weapons."/>
     <string id="z50GdIa3" text="learns to inspire the soldiers."/>
     <string id="z5cLVzC8" text="It's well known that you and {CURRENT_LIEGE.NAME} loathe each other."/>
-    <string id="z5DZXHF7" text="{VALUE}% swing speed to infantry in your formations.."/>
+    <string id="z5DZXHF7" text="{VALUE}% швидкості змаху зброї для піхоти у ваших строях."/>
     <string id="Z5kqbeyu" text="Greetings, once again. Is there anything else?"/>
     <string id="Z6IoX4MH" text="Order your troops to try not to hurt the youth and try to separate the two sides."/>
     <string id="z6vJlozm" text="I am sorry. I don't believe you have the means to support a family.)"/>
