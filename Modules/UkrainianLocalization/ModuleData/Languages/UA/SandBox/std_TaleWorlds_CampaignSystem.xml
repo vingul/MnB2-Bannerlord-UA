@@ -9,7 +9,7 @@
     <string id="00Qvwelb" text="{WOUNDED_NUMBER} of your men got wounded while they were trying to separate the two sides."/>
     <string id="028iCb8B" text="Jythea"/>
     <string id="02c5bQSM" text="Discard"/>
-    <string id="02IdNzbt" text="{VALUE}% збалансованості до древкової зброї з можливістю рубання."/>
+    <string id="02IdNzbt" text="{VALUE}% збалансованості для древкової зброї з можливістю змаху."/>
     <string id="03DZpTYi" text="You are a wanted criminal."/>
     <string id="03lc5R2t" text="You have tried to persuade me before. I will not stand your words again."/>
     <string id="04tBEafz" text="Village is successfully raided by your help."/>
@@ -632,7 +632,7 @@
     <string id="7Sp6aNYo" text="You best let us be. There's dozens more of us hiding here, just waiting for our signal."/>
     <string id="7SPwGYvf" text="I had expected better of you. But even the best can fail sometimes. Just make sure it does not happen again.[ib:confident][if:convo_nonchalant]"/>
     <string id="7TbVhbT9" text="Effects village's hearth."/>
-    <string id="7tdcIxYN" text="{VALUE}% швидкості розмаху древковою зброєю."/>
+    <string id="7tdcIxYN" text="{VALUE}% швидкості змаху древковій зброї."/>
     <string id="7uhottjU" text="{VALUE}% опору до приголомшення під час їзди верхи."/>
     <string id="7uJcPQnc" text="I don't think you can help me. I'm looking for someone with a bit more, shall we say, renown..."/>
     <string id="7UkzXWTQ" text="Osarios"/>
@@ -1238,7 +1238,7 @@
     <string id="bw0hEPN6" text="You already bought their contract from our clan. Why would I want to buy them back?"/>
     <string id="bW3csuSZ" text="Cattle Farms"/>
     <string id="bW3ygxro" text="Yes, it's good to have a chance to get to know each other."/>
-    <string id="bW7DT97A" text="{VALUE}% швидкості розмаху одноручною зброєю."/>
+    <string id="bW7DT97A" text="{VALUE}% швидкості змаху одноручній зброї."/>
     <string id="BW7v0g6q" text="We are about to go on campaign but my quartermaster reports that our food supplies will not be enough to keep us in the field for very long. I can't spare any of my lords, so I need someone else to bring us a large amount of supplies as soon as possible. Can you do this?"/>
     <string id="bWb245zO" text="Voleos"/>
     <string id="bWbcuOji" text="Yes. That is a lot but yes I can pay that. Thank you {?PLAYER.GENDER}milady{?}my Lord{\?}. I knew we could reach an agreement."/>
