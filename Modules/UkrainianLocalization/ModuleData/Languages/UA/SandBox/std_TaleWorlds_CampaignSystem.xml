@@ -4452,7 +4452,7 @@
     <string id="WUaSub02" text="{VALUE}% шкоди від арбалетів за кожне очко уміння більше 200."/>
     <string id="wUb5h4a3" text="Trained Troops"/>
     <string id="wuMJobac" text="{FIRSTNAME} the Factor"/>
-    <string id="wUov3khT" text="{VALUE}% chance of getting staggered while reloading crossbows to troops in your formation."/>
+    <string id="wUov3khT" text="{VALUE}% шансу отримати приголомшення під час перезаряджання арбалета воїнами вашого строю."/>
     <string id="WUWzyzWI" text="Thank you. Your help will be remembered."/>
     <string id="WVkc4UgX" text="Continue."/>
     <string id="wVMPdc8J" text="{A0}'s tariff"/>
@@ -4477,7 +4477,7 @@
     <string id="wZfbYfoH" text="They will give you {PRODUCT_COUNT} {.%}{?(PRODUCT_COUNT &gt; 1)}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}."/>
     <string id="x04UGQDn" text="Dungeon"/>
     <string id="x1HTX5hq" text="порятунок свого села від повені."/>
-    <string id="x1T8wWNU" text="{VALUE}% attack speed with polearms for every skill point above 250."/>
+    <string id="x1T8wWNU" text="{VALUE}% швидкості атаки древковою зброєю за кожну одиницю уміння вище 250."/>
     <string id="X21PahQn" text="Menaclys"/>
     <string id="x2B0OjhI" text="Barracks"/>
     <string id="x2dvXNQ0" text="You have decided to show mercy to the people of {SETTLEMENT_NAME}.{newline}You can hear disgruntled murmuring among the troops, who have been denied their customary right of pillage."/>
@@ -4516,10 +4516,10 @@
     <string id="xDQTgPf0" text="Strong Grip"/>
     <string id="xdtwRyfB" text="Town garrison decided to sally out"/>
     <string id="xDzxaYed" text="Your word shall divide the spoils of victory and the bounties of peace."/>
-    <string id="xe0dX5QQ" text="{VALUE}% price penalty while buying food items."/>
+    <string id="xe0dX5QQ" text="{VALUE}% штрафу до ціни при купівлі їжі."/>
     <string id="xeawD38S" text="Married"/>
     <string id="xeboujso" text="That's the right call. You seem a responsible type."/>
-    <string id="xEp10rIa" text="{VALUE}% thrust damage with polearms."/>
+    <string id="xEp10rIa" text="{VALUE}% шкоди від тичкових ударів древковою зброєю."/>
     <string id="xer2bta5" text="Your own Kingdom"/>
     <string id="xeZR3r5u" text="{QUEST_GIVER.LINK} wants you siege and take over the {TARGET_SETTLEMENT}"/>
     <string id="xF7he8fZ" text="Fight the poachers"/>
@@ -4544,7 +4544,7 @@
     <string id="xHstOUBx" text="You made sure your artisan taught this child to recognize quality work, as well as its worth in denars."/>
     <string id="xhVrxgC4" text="Betting Fraud"/>
     <string id="Xi1wpR2L" text="Accept corporal punishment and pay {FINE}{GOLD_ICON}"/>
-    <string id="XITAY0KG" text="{VALUE}% accuracy penalty using bows while mounted."/>
+    <string id="XITAY0KG" text="{VALUE}% штрафу до точності стрільби з лука при їзді верхи."/>
     <string id="xiTD2qUv" text="{VALUE}% town project effects in the governed settlement."/>
     <string id="XixNAaD5" text="Improved Tools"/>
     <string id="xJ2uDcob" text="Settlement loyalty is increased by 2 per day{newline}Settlement production is reduced by 5%"/>
