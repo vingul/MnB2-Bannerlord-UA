@@ -4457,7 +4457,7 @@
     <string id="WVkc4UgX" text="Continue."/>
     <string id="wVMPdc8J" text="{A0}'s tariff"/>
     <string id="WVobv24n" text="Heaven save us if {QUEST_GIVER.NAME} can't get {?QUEST_GIVER.GENDER}her{?}his{\?} hands on more grain."/>
-    <string id="wvQbeHpp" text="{VALUE} bolts per quiver."/>
+    <string id="wvQbeHpp" text="{VALUE} болт{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} у кожному колчані."/>
     <string id="WvQDatMJ" text="I won't kid you, they're mean bastards, but that's good if you can manage them."/>
     <string id="wVyqTlpS" text="Army Needs Supply"/>
     <string id="Ww3uU5e6" text="Юна зрілість"/>
@@ -4483,7 +4483,7 @@
     <string id="x2dvXNQ0" text="You have decided to show mercy to the people of {SETTLEMENT_NAME}.{newline}You can hear disgruntled murmuring among the troops, who have been denied their customary right of pillage."/>
     <string id="x346Rqle" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s lord. Your agreement was canceled."/>
     <string id="x3f1w3Gc" text="You have kicked {YOUNG_HERO.LINK} from your clan. Your agreement with {QUEST_GIVER.LINK} was terminated."/>
-    <string id="x3SJTtDj" text="{VALUE} bonus daily experience to troops in your party."/>
+    <string id="x3SJTtDj" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}бонусне очко{#}бонусних очки{#}бонусних очків{\#} досвіду щодня воїнам у вашому загоні."/>
     <string id="x3TO0gkN" text="Is there any progress on the task I gave you?"/>
     <string id="X4ITSQOl" text="Which of your people can help us?"/>
     <string id="x5POJVWw" text="Stop serving {FACTION}"/>
@@ -4571,7 +4571,7 @@
     <string id="Xmtlrrmf" text="Thank you. Don't forget to warn your men. These poachers are not ordinary bandits. Good luck."/>
     <string id="xmu89biL" text="Maybe I can help. What do you need exactly?"/>
     <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} was the father of {PLAYER.LINK}. He was slain when raiders attacked the inn at which his family was staying."/>
-    <string id="XmwIHIMN" text="{VALUE} companion limit"/>
+    <string id="XmwIHIMN" text="{VALUE} до максимуму супутників."/>
     <string id="XN7BX0qP" text="Максимальна складність луку: {a0}"/>
     <string id="xnDWqYKW" text="Hunter"/>
     <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT} You decide to..."/>
@@ -4614,7 +4614,7 @@
     <string id="XVzQ7MXQ" text="Refuse the offer, break into their homes and collect all rents and taxes by force."/>
     <string id="xwA6Om0Y" text="{VALUE} щоденного приросту ополченців у підконтрольному поселенні."/>
     <string id="xwc9mJdC" text="Things have gotten a lot worse recently with the brigands on the roads around town. My caravans get looted as soon as they're out of sight of the gates."/>
-    <string id="XwmYu5rH" text="{VALUE} security per day in the governed settlement."/>
+    <string id="XwmYu5rH" text="{VALUE} до безпеки на день у підконтрольному поселенні."/>
     <string id="xWoXL2FG" text="Empty Workshop"/>
     <string id="XWPcZgM9" text="{VALUE}% броні для всіх обладунків з бронею воїнів вашого строю."/>
     <string id="xwS10c1b" text="Yes... I think I would be honored to accept your proposal."/>
@@ -4628,7 +4628,7 @@
     <string id="Xykn90RV" text="{VALUE}% шкоди вашій піхоті від воїнів дальнього бою, коли ваші воїни відправляються у бій."/>
     <string id="XYRZIPD8" text="guiding the caravan."/>
     <string id="xYu4yVRU" text="Hey there friend. So... You don't need to know my name, but suffice to say that we're both friends of {QUEST_GIVER.LINK}. Here's {?QUEST_GIVER.GENDER}her{?}his{\?} message for you: {DIRECTIVE}.[ib:confident][if:convo_nonchalant]"/>
-    <string id="XZe7YPLJ" text="{VALUE} armor points to equipped civilian body armors."/>
+    <string id="XZe7YPLJ" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} броні для обладунків цивільних жителів."/>
     <string id="XZFQ1Jf6" text="Піти до замку"/>
     <string id="xZIBKK0v" text="Ransom your prisoners ({RANSOM_AMOUNT}{GOLD_ICON})"/>
     <string id="XzK4niIb" text="I'll find an employer soon."/>
@@ -4656,7 +4656,7 @@
     <string id="y9AsEMnV" text="{VALUE}% споживання їжі у вашому загоні, поки він є частиною армії."/>
     <string id="Y9LNbRho" text="Thank you. I will put your men to good use."/>
     <string id="y9RcWMbQ" text="a local rivalry"/>
-    <string id="yA2P7w9N" text="{VALUE} loyalty bonus to settlement while waiting in the settlement."/>
+    <string id="yA2P7w9N" text="{VALUE} додаткової вірності поселення під час очікування в ньому."/>
     <string id="ya7alenH" text="{VALUE}% споживання їжі міським населенням у підконтрольному поселенні."/>
     <string id="ya8VF98X" text="I swear by my ancestors that you are lawful {FACTION_TITLE}."/>
     <string id="Yac7bSU3" text="Tell me about what you do again."/>
