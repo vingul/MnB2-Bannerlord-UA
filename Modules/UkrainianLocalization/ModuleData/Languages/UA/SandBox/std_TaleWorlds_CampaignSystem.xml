@@ -20,7 +20,7 @@
     <string id="09gOOa0h" text="Ranger"/>
     <string id="09npcQY0" text="{VALUE}% бонус укріплення для підконтрольного поселення"/>
     <string id="09z8Q08f" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Такі як вони були основою аграрно-орієнтованої економіки Імперії та були кістяком її армії."/>
-    <string id="0A6BUASZ" text="{VALUE} щоденного досвіду піхоті у вашому загоні."/>
+    <string id="0A6BUASZ" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду щодня піхотинцям вашого загоні."/>
     <string id="0aMHHQL4" text="{VALUE}% швидкості перезаряджання для мангонелів і требушетів при облогах."/>
     <string id="0aU9dtvV" text="Time:"/>
     <string id="0AUYrhGw" text="{VALUE} до максимального ліміту супутників."/>
@@ -632,7 +632,7 @@
     <string id="7Sp6aNYo" text="You best let us be. There's dozens more of us hiding here, just waiting for our signal."/>
     <string id="7SPwGYvf" text="I had expected better of you. But even the best can fail sometimes. Just make sure it does not happen again.[ib:confident][if:convo_nonchalant]"/>
     <string id="7TbVhbT9" text="Effects village's hearth."/>
-    <string id="7tdcIxYN" text="{VALUE}% швидкості змаху древковій зброї."/>
+    <string id="7tdcIxYN" text="{VALUE}% швидкості змаху древкової зброї."/>
     <string id="7uhottjU" text="{VALUE}% опору до приголомшення під час їзди верхи."/>
     <string id="7uJcPQnc" text="I don't think you can help me. I'm looking for someone with a bit more, shall we say, renown..."/>
     <string id="7UkzXWTQ" text="Osarios"/>
@@ -1060,7 +1060,7 @@
     <string id="Bb3oHQNa" text="Thanks, this will come in handy."/>
     <string id="Bb4L971j" text="{VALUE}% шкоди щитам воїнів з вашого строю."/>
     <string id="bBa0LB1D" text="Chink in the Armor"/>
-    <string id="BbaidhT4" text="Equipped crossbows do not slow you down."/>
+    <string id="BbaidhT4" text="Споряджений арбалет вас не сповільнює."/>
     <string id="BbqzSmHG" text="Yes... As you know, the wars this realm has fought have been very costly. The great lords in particular are hard-put to raise the armies that are key to this land's defense. Some of us have proposed increasing the hearth taxes paid by the peasantry, which is a key source of revenue. I don't know if this law will be approved, but rumors of it have gotten out in my district, and a lot of the farmers are restless. Now, most of us are doing their part to keep a lid on things. But there's one, {MALE_LESSER_NOBLE_NAME}, who I am ashamed to say was once a {TOP_TIER_CAV_TITLE} under my banner, who's been going around the countryside, stirring up trouble. He's gathered a following and they have a whole list of demands, including a ban on new taxes, that would frankly cripple our realm's ability to raise the money needed to defend itself. I'd take care of him myself, but that wouldn't look good. Maybe you can help?"/>
     <string id="bBRA2jJp" text="{VALUE}% шансу при облоговому бомбардуванні заподіяти подвійну шкоду воїнам, що атакують ваше підконтрольне поселення."/>
     <string id="bbsN6hOo" text="Have you already sold that {SELECTED_ITEM}? If so, that seems awfully quick."/>
@@ -1398,7 +1398,7 @@
     <string id="cu2cLT5r" text="You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
     <string id="CU3u0c02" text="Childhood"/>
     <string id="CU9g49fo" text="Provide irrigation, increasing growth in bound villages."/>
-    <string id="cUaUTwx5" text="Triple couch lance damage against shields."/>
+    <string id="cUaUTwx5" text="Потрійна шкода щитам від кавалерійського списа."/>
     <string id="CVdK1ax1" text="Fortifications"/>
     <string id="CVg3P07C" text="Assault the siege camp."/>
     <string id="CVp0j9al" text="You have defeated the enemies outside the walls. Now you decide to..."/>
@@ -1909,7 +1909,7 @@
     <string id="g5bzJjd5" text="Transfer {PRISONER.NAME}"/>
     <string id="g5G8AJ5n" text="You are my prisoner now."/>
     <string id="g5I4qyjw" text="Relief Force"/>
-    <string id="g5nnybjz" text="{VALUE} початкового бойового духу воїнам вашого загону."/>
+    <string id="g5nnybjz" text="{VALUE} до початкового бойового духу воїнам вашого загону."/>
     <string id="G5tyQj6N" text="Not yet."/>
     <string id="G632MneX" text="This is my last warning! Hand over your weapons![ib:closed]"/>
     <string id="G6BC8HXY" text="{FIRSTNAME} of the Leavening"/>
@@ -2336,7 +2336,7 @@
     <string id="J1nh9YiN" text="Atilon"/>
     <string id="J2Iok9lT" text="An ally has paid your ransom."/>
     <string id="j3Hcp9RQ" text="{VALUE} болт{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} у колчані кожного арбалетника вашого строю."/>
-    <string id="j3J0Hbax" text="Your crossbow attacks ignore armors below 20."/>
+    <string id="j3J0Hbax" text="Ваші арбалетні атаки ігнорують броню менше 20."/>
     <string id="j3QNVqP5" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} фокусу для умінь «одноручна зброя» і «дворучна зброя»."/>
     <string id="J4UMplzb" text="{FACTION_LEADER} will decide who will own {SETTLEMENT_NAME}. You can give your support to one of the candidates."/>
     <string id="j4V4fVBd" text="I see... How can I help?"/>
@@ -2477,7 +2477,7 @@
     <string id="jYHKGhnc" text="Landlord needs access to the {TARGET_SETTLEMENT} commons"/>
     <string id="jyxo4YgW" text="Yes, he is a promising boy."/>
     <string id="jZ8Eqxbf" text="You are besieging the settlement."/>
-    <string id="JZ8ihtoa" text="{VALUE} початкового бойового духу воїнам вашого загону, якщо ви перебуваєте в меншості."/>
+    <string id="JZ8ihtoa" text="{VALUE} до початкового бойового духу воїнам вашого загону, якщо ви перебуваєте в меншості."/>
     <string id="JzALLCEX" text="{RULER.NAME} has decided to give {SETTLEMENT} to a new clan, with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
     <string id="jZmBbA5M" text="{newline}        {BUILDING_NAME}"/>
     <string id="JZvywHNy" text="You think I'm daft? I'm not trusting you an inch."/>
@@ -2713,7 +2713,7 @@
     <string id="LgSTrjuk" text="Gambler"/>
     <string id="lgvtLEDA" text="Melchea"/>
     <string id="lhnuawq3" text="You know very well that in politics oaths are easily made, and just as easily broken."/>
-    <string id="LiaRnWJZ" text="You can now use all bows on horseback."/>
+    <string id="LiaRnWJZ" text="Тепер ви можете використовувати будь-який лук перебуваючи на коні."/>
     <string id="LiDSTrvV" text="You brought {REQUESTED_ITEM_AMOUNT} {?(REQUESTED_ITEM_AMOUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?} to {?QUEST_GIVER.GENDER}her{?}him{\?} as promised."/>
     <string id="LIjN3rYD" text="Tier 5+ clans lose 1 influence per day and the party size of their leaders is increased by 40"/>
     <string id="LItNgwiF" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я за кожну одиницю уміння понад 250."/>
@@ -3656,7 +3656,7 @@
     <string id="rOWyAHPo" text="Mind your own business, Headman."/>
     <string id="RP2Jn3J4" text="{VALUE}% шкоди для облогових знарядь під час облогового бомбардування за кожне очко інженерного уміння більше 250."/>
     <string id="rPP0OSBm" text="Treating sprained ankles, broken bones and lamed horses are as much a part of a hunting expedition as skinning and gutting your quarry."/>
-    <string id="RQd005zy" text="Equipped bows do not slow you down."/>
+    <string id="RQd005zy" text="Споряджений лук вас не сповільнює."/>
     <string id="rqHFujhr" text="Sacred Majesty"/>
     <string id="rR8iTDPI" text="Practical Smith"/>
     <string id="rrCkJgtd" text="We don't know enough about the enemy, where they are strong and where they are weak. I don't want to lead a huge army through their territory on a wild goose hunt. We need someone to ride through there swiftly, scouting out their garrisons. Can you do this?"/>
@@ -4580,7 +4580,7 @@
     <string id="xORjDTal" text="інвестиція грошей в майстерню."/>
     <string id="xoTWC8Sm" text="Project Bonus"/>
     <string id="XOv5B84a" text="Yes, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I raided {RAIDED_VILLAGE_COUNT} villages as you commanded."/>
-    <string id="xoVR3Xr3" text="Daily Bow skill experience bonus to the party member with the lowest bow skill."/>
+    <string id="xoVR3Xr3" text="Щоденний бонусний досвід до уміння «Лук» для члена загону з найнижчим рівнем цього уміння."/>
     <string id="XPB1iBkh" text="Your medicine skill also applies to enemy casualties, increasing potential prisoners."/>
     <string id="xpGoduJq" text="Deadly Purpose"/>
     <string id="XphY9cNV" text="Дуелянт"/>
@@ -4744,7 +4744,7 @@
     <string id="YOmuyrIt" text="Do you know if there is a tournament starting soon?"/>
     <string id="YOQQR1bJ" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}додаткова стріла{#}додаткові стріли{#}додаткових стріл{\#} у кожному колчані."/>
     <string id="Yp4zv2ib" text="{VALUE}% вантажопідйомності в'ючних тварин у вашому загоні."/>
-    <string id="YP8tN7nl" text="You can deflect projectiles with two handed swords by blocking."/>
+    <string id="YP8tN7nl" text="Ви можете відбивати снаряди дворучним мечем, використовуючи блок."/>
     <string id="ypAPaO1J" text="That's a pity."/>
     <string id="yPI9N9ws" text="It was good doing business with you."/>
     <string id="yPkHn74X" text="When you enter the village commons, you find a crowd of villagers has gathered to resist you. They call the rents and taxes owed 'unlawful' and refuse to pay them at all. They pelt your men with rotten vegetables."/>
@@ -4937,7 +4937,7 @@
     <string id="zstiYI49" text="Any bandits there can easily spot and evade a large army moving against them, but if you can enter the hideout with a small group of determined warriors you can catch them unaware."/>
     <string id="zT2b0v8y" text="Deserters Party"/>
     <string id="Ztezot02" text="{VALUE}% шкоди від метальної зброї."/>
-    <string id="ZTt5Es7q" text="You can reload any crossbow on horseback."/>
+    <string id="ZTt5Es7q" text="Ви можете перезарядити будь-який арбалет перебуваючи на коні."/>
     <string id="ztXDDMSI" text="{CLAN_NAME} Clan"/>
     <string id="ZtxWTS9V" text="Vineyard"/>
     <string id="ztY2Nf0N" text="You ordered your men to break up the crowd. There was some scuffling, and some of your men were wounded."/>
