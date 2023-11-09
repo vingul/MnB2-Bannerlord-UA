@@ -47,7 +47,7 @@
     <string id="0h5BrVdA" text="Your relation with notables in some of your settlements increased due to high loyalty"/>
     <string id="0I6xdead" text="taxing landowners on their property"/>
     <string id="0i8RgslK" text="Or, maybe one of your trusted companions can take {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} denars and some {ALTERNATIVE_TROOP_AMOUNT} men can bring me {PLURAL(ITEM_TYPE)}. Your companion better have his pockets full, since all that should cost around {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON}."/>
-    <string id="0J9dgA7j" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}очко{#}очки{#}очків{\#} уміння «Лук» кінним лучникам вашого строю."/>
+    <string id="0J9dgA7j" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}очко{#}очки{#}очків{\#} до уміння «Лук» кінним лучникам вашого строю."/>
     <string id="0jbhAPub" text="{VALUE} щоденного досвіду піхотинцям у вашому загоні."/>
     <string id="0kYaAb7c" text="A gang leader needs recruits for {?ISSUE_GIVER.GENDER}her{?}his{\?} gang."/>
     <string id="0L79bLR5" text="Sedition? You have been misinformed. My men and I are loyal servants of {RULER_NAME_AND_TITLE}. We are simply going about informing the people that our {RULER_TITLE} is surrounded by bad advisers who wish to raise their taxes. We petition {RULER.NAME} to listen to {?RULER.GENDER}her{?}his{\?} people and their needs.[ib:closed]"/>
@@ -806,7 +806,7 @@
     <string id="a48xlNUb" text="Should the owner of {SETTLEMENT} change?"/>
     <string id="A4oWozvO" text="I don't have time for this, but my companion and my men will wait here with you."/>
     <string id="a4XGmdd9" text="Lady's Knight Out"/>
-    <string id="a5CWbHsd" text="{VALUE} throwing skill to troops in your formation."/>
+    <string id="a5CWbHsd" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння «Метання» воїнам вашого строю."/>
     <string id="A5Gw3GNn" text="{FIRSTNAME} the Malady"/>
     <string id="A5IJmN0X" text="I think not, brigand. Surrender or die!"/>
     <string id="A61ppTa6" text="Do you know of anyone who might have a task for someone like me?"/>
@@ -824,7 +824,7 @@
     <string id="aa1lM2MV" text="{FIRSTNAME} the Angel"/>
     <string id="aa1yFm6q" text="Pack Animals:"/>
     <string id="aa5F4vP5" text="My {?CONVERSATION_NPC.GENDER}lady{?}lord{\?}, please give me more time to think about this."/>
-    <string id="aA8T7AsY" text="{VALUE} damage to equipped crossbows."/>
+    <string id="aA8T7AsY" text="{VALUE} шкоди арбалетникам."/>
     <string id="AaahFmxv" text="War was never too far away. On more than one occasion, {CHILD.NAME} spotted foes on the horizon and needed to ride away as quickly as possible."/>
     <string id="aadTnAEg" text="Manage Prisoners"/>
     <string id="aaf5R99a" text="I'll give you nothing but cold steel, you scum!"/>
@@ -866,7 +866,7 @@
     <string id="aEke8dSb" text="Міські волоцюги"/>
     <string id="aeLgc0cU" text="Acthon"/>
     <string id="aEmYZadz" text="Festival and Games"/>
-    <string id="aeNhsyD7" text="{VALUE} hit points to infantry in your party."/>
+    <string id="aeNhsyD7" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я піхоті у вашому загоні."/>
     <string id="aEt1kqxm" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM}, with his {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council evenly divided on the matter."/>
     <string id="AeTSNsRu" text="{VALUE}% приросту добробуту для кожного унікального проєкту в підконтрольному поселенні."/>
     <string id="AewK9qME" text="Settlement Income"/>
@@ -902,7 +902,7 @@
     <string id="AIsDxCeG" text="Sword For Barter"/>
     <string id="aitgGIog" text="{VALUE}% впливу повертається, коли підтримана пропозиція не приймається."/>
     <string id="aIxX2s8n" text="Collected Livestock Amount (Optional)"/>
-    <string id="aIyRxlCf" text="{VALUE} crossbow skill to troops in your formation."/>
+    <string id="aIyRxlCf" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння «Арбалет» воїнам вашого строю."/>
     <string id="aj2R3vnb" text="{VALUE}% шкоди від вершників вашого строю в ближньому бою."/>
     <string id="aJcChHfj" text="What are you planning to do about them?"/>
     <string id="ajePb62s" text="Quicksilver {FIRSTNAME}"/>
