@@ -3080,7 +3080,7 @@
     <string id="NXOOJs2X" text="Patrys"/>
     <string id="NXs7kr2B" text="You managed to return a fraction of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. {newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for returning my men to me. The losses they suffered are somewhat higher than I thought. I can only hope you did what you could do to honor our agreement and try to keep them alive.”"/>
     <string id="nxyXKy2z" text="Old {QUEST_GIVER.NAME} has got some problems with those herders over in {TARGET_SETTLEMENT}."/>
-    <string id="nXZktHa6" text="{VALUE} charge damage and maneuvering for every 10 skill points above 200."/>
+    <string id="nXZktHa6" text="{VALUE} до шкоди від зіткнення і маневровості за кожні 10 очок уміння вище 200."/>
     <string id="Ny2i62w5" text="{TARGET_HERO} died and your agreement with {ISSUE_OWNER.LINK} has been canceled."/>
     <string id="nyatGUkU" text="socialized with other engineers."/>
     <string id="NYHeygaj" text="Deft Hands"/>
@@ -3109,7 +3109,7 @@
     <string id="o6BunhbE" text="Have you brought my troops?"/>
     <string id="O6UPQskm" text="{VALUE}% шкоди, отриманої від дальніх атак, коли ви тримаєте метальну зброю."/>
     <string id="o70h6xqb" text="You showed mercy and exempted the poor households from the tax collection"/>
-    <string id="o7xn0ybm" text="{VALUE} starting battle morale when attacking."/>
+    <string id="o7xn0ybm" text="{VALUE} до початкового бойового духу, коли ви нападаєте."/>
     <string id="o8uAzFaJ" text="The caravan you are protecting is ambushed by raiders!"/>
     <string id="O9amiAiB" text="joined a hunting party."/>
     <string id="o9ouu97M" text="I will endeavor to be worthy of your affections."/>
@@ -3145,7 +3145,7 @@
     <string id="oI5H6Xo8" text="Don't think we won't fight you if you try and stop us."/>
     <string id="OIwtLKN3" text="I am a {?PLAYER.GENDER}woman{?}man{\?} of my word. I will raise some money to pay you. Wait for my return {QUEST_GIVER.LINK}."/>
     <string id="oJ6lpXmp" text="But I have one with you, brigand! Give up now."/>
-    <string id="OJ9QCJh8" text="{VALUE} experience per day to all troops when traveling while overburdened."/>
+    <string id="OJ9QCJh8" text="{VALUE} досвіду в день всім воїнам, коли ви пересуваєтесь з перевантаженням."/>
     <string id="OjI8uGFa" text="We are traveling to {SETTLEMENT_NAME}."/>
     <string id="oJJiKTSL" text="You are welcome."/>
     <string id="oJmRg2ms" text="Very Rich"/>
@@ -4676,7 +4676,7 @@
     <string id="YbGu9rSH" text="This character is already the governor of {SETTLEMENT_NAME}"/>
     <string id="YbioVwyr" text="{VALUE}% надходження від мит в підконтрольному поселенні."/>
     <string id="yBL3TzXw" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with the support of {?RULER.GENDER}her{?}his{\?} council."/>
-    <string id="YBmzuIbm" text="{VALUE} relationship with a random notable of your kingdom when an enemy lord is defeated."/>
+    <string id="YBmzuIbm" text="{VALUE} до відносин з випадковою відомою особою вашого королівства при перемозі над ворожим лордом."/>
     <string id="YBqmnNGv" text="{NEWLINE}+{VALUE} золота"/>
     <string id="YbsVaZkb" text="Yes commander, I have brought your grain and livestock as you requested."/>
     <string id="ybXgaKEv" text="a glass of local wine"/>
@@ -4742,7 +4742,7 @@
     <string id="YogcurDJ" text="Stout Defender"/>
     <string id="yoiOIuI9" text="You refused to hand over the items. {QUEST_GIVER.LINK} must be furious."/>
     <string id="YOmuyrIt" text="Do you know if there is a tournament starting soon?"/>
-    <string id="YOQQR1bJ" text="{VALUE} extra arrows per quiver."/>
+    <string id="YOQQR1bJ" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}додаткова стріла{#}додаткові стріли{#}додаткових стріл{\#} у кожному колчані."/>
     <string id="Yp4zv2ib" text="{VALUE}% вантажопідйомності в'ючних тварин у вашому загоні."/>
     <string id="YP8tN7nl" text="You can deflect projectiles with two handed swords by blocking."/>
     <string id="ypAPaO1J" text="That's a pity."/>
@@ -4792,7 +4792,7 @@
     <string id="yXb8bphB" text="Nobles are expected to raise sizable retinues."/>
     <string id="YXbKXUDu" text="{ISSUE_GIVER.LINK}, a merchant from {SETTLEMENT}, has told you about {?ISSUE_GIVER.GENDER}her{?}his{\?} recent problems with bandits. {?ISSUE_GIVER.GENDER}She{?}He{\?} asked you to guard {?ISSUE_GIVER.GENDER}her{?}his{\?} caravan for a while and deal with any attackers. In return {?ISSUE_GIVER.GENDER}she{?}he{\?} offered you {GOLD}{GOLD_ICON} denars for each day you spend on escort duty.{newline}You have agreed to guard it yourself until it visits {NUMBER_OF_SETTLEMENTS} settlements."/>
     <string id="YXCGUSYd" text="Mm. Well, you'd make a very unusual match. But, well, I won't rule it out."/>
-    <string id="Yxchzh3a" text="{VALUE} hit points to ranged troops in your party."/>
+    <string id="Yxchzh3a" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я для воїнів дальнього бою вашого загону."/>
     <string id="yxeyl4LW" text="I am simply not comfortable discussing this with you."/>
     <string id="yxg91L0a" text="We'll tell everyone what you did. Please take some of these goods in compensation. We have no intention to sell them anyway. Safe travels, {?PLAYER.GENDER}milady{?}sir{\?}."/>
     <string id="YxtiyxSf" text="Yes... As you no doubt know, this is rough work, and I've lost a lot of good lads recently. I haven't had much luck replacing them. I need men who understand how things work in our business, and that's not always easy to find. I could use bandits and looters. They usually know their stuff. But if I take them in as prisoners, they'll just slip away as soon as I get the chance. I need volunteers..."/>
@@ -4819,7 +4819,7 @@
     <string id="z1RHDsOG" text="Stay in settlement"/>
     <string id="Z212GSiV" text="Leave Prisoners"/>
     <string id="Z2amOHAb" text="maintaining a formal hierarchy of noble privilege"/>
-    <string id="z3OU7vrn" text="{VALUE} to troop tiers when recruiting from same culture."/>
+    <string id="z3OU7vrn" text="{VALUE} до підвищення класу найнятого воїна тієї ж народності, що й ви."/>
     <string id="z47GjqTZ" text="Yes, of course. This is the {TOTAL_DENARS}{GOLD_ICON} denars that I owe you."/>
     <string id="Z48lYHBl" text="{FIRSTNAME} the Lamb"/>
     <string id="z4arML8E" text="a strip of dried venison"/>
@@ -4876,7 +4876,7 @@
     <string id="zInIqBD0" text="Arenicos"/>
     <string id="ZJ2tJnJk" text="Settlement loyalty is increased by 0.5 per day{newline}Settlement security is decreased by 0.2 per day{newline}Clans lose 1 influence per day"/>
     <string id="zj4Sz28B" text="{VALUE}% штрафу до торгівлі в селах вашої народності."/>
-    <string id="zjctOvv8" text="{VALUE} riding skill to troops in your formation."/>
+    <string id="zjctOvv8" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння «Верхова їзда» воїнам вашого строю."/>
     <string id="zJHhHRBw" text="{VALUE}% шкоди отримуваної вашими воїнами від снарядів."/>
     <string id="zjMqgbXz" text="We are working on it."/>
     <string id="zJujFbXU" text="You decided that the herders had more right to the disputed pasture than the landowner, {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}She{?}He{\?} probably feels betrayed."/>
