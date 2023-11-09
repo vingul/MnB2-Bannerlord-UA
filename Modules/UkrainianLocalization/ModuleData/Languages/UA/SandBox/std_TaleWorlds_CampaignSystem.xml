@@ -1446,7 +1446,7 @@
     <string id="D8KFcE2i" text="Not yet, I am still working on it."/>
     <string id="d8qjwKza" text="Stand United"/>
     <string id="d8TeoRNf" text="You are no longer in the same faction with {QUEST_GIVER.LINK}. Your agreement with {QUEST_GIVER.LINK} is no longer valid."/>
-    <string id="D9coiXFt" text="Javelins you throw can penatrate shields."/>
+    <string id="D9coiXFt" text="Списи, які ви кидаєте, можуть пробивати щити."/>
     <string id="D9LxQxNa" text="Thank you for your help {?PLAYER.GENDER}madam{?}sir{\?}. We will be waiting for your men. Good luck to you all."/>
     <string id="D9SS2Oh0" text="I'm going to need you to tell me a little more."/>
     <string id="dA8RGoQ1" text="You have arrived at {SETTLEMENT_LINK}. {KEEP_INFO}"/>
@@ -2699,7 +2699,7 @@
     <string id="lEcg67Qk" text="You have failed to take over {TARGET_SETTLEMENT} in time. {QUEST_GIVER.LINK} is disappointed that you have failed to take the fortress in time."/>
     <string id="lEHjxPTs" text="Ally"/>
     <string id="lEHtUGed" text="Diocosos"/>
-    <string id="lEi1hIIt" text="You can pick up items from the ground while mounted."/>
+    <string id="lEi1hIIt" text="Ви можете підіймати предмети з землі, перебуваючи верхи."/>
     <string id="lekpGqEA" text="{VALUE}% шкоди їздовим тваринам від воїнів вашого строю."/>
     <string id="LEKzuGzi" text="Ambush"/>
     <string id="LEoZ2DV5" text="a good eye and a steady hand."/>
@@ -4725,7 +4725,7 @@
     <string id="yLqDHZv9" text="Thank you. I hope your men deal with them as soon as possible."/>
     <string id="yLuzvTtd" text="You had promised to deliver {MOUNT_COUNT} {PLURAL(MOUNT_NAME)} to {QUEST_GIVER.LINK}. But you've failed to complete this task. {QUEST_GIVER.LINK} was displeased."/>
     <string id="YMGQYhvg" text="Thank you. {MALE_LESSER_NOBLE_NAME} is always on the move, so finding him might be tricky. But don't worry, I get regular reports from the landowners around here and I'll keep you updated on his movements..."/>
-    <string id="ymKzbcfB" text="Triple damage against shields with throwing axes."/>
+    <string id="ymKzbcfB" text="Потрійна шкода щитам від метальних сокир."/>
     <string id="ymt7Ol6x" text="{?CHILD.GENDER}She{?}He{\?} seems to have limitless energy, continuing with games long after all the other children have taken a break."/>
     <string id="yn9GhVK4" text="{VALUE}% швидкості перезаряджання баліст під час облогового бомбардування."/>
     <string id="yNAzCfxc" text="Trial by Jury"/>
