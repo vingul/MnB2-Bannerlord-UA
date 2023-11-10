@@ -2301,7 +2301,7 @@
     <string id="IU63oxWD" text="Jemynon"/>
     <string id="IUCkbHkT" text="I decide how the law here is applied, merchant."/>
     <string id="iuCYTaMJ" text="{VALUE} одиниц{#GET_PLURAL_VALUE(VALUE)}я{#}і{#}ь{\#} їжі випадкового типу буде переправлена до обложеного підконтрольного поселення."/>
-    <string id="IUGVdu64" text="Marksmen"/>
+    <string id="IUGVdu64" text="Снайпери"/>
     <string id="IULW8h03" text="Sure."/>
     <string id="iUmWTmQz" text="You have failed to deliver enough recruits in time. {QUEST_GIVER.LINK} must be disappointed."/>
     <string id="iunPaMFv" text="I guess we should put this aside, for now. But perhaps we can speak again at a later date."/>
@@ -4190,7 +4190,7 @@
     <string id="V7qF7uas" text="I should lead our people, not {CURRENT_LIEGE.NAME}."/>
     <string id="v7sfiv5m" text="{INSULT_NEWS} {GAME_ACTION_NOTES}"/>
     <string id="V7YG3nKb" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
-    <string id="v8RwzwqD" text="Piercer"/>
+    <string id="v8RwzwqD" text="Проколювач"/>
     <string id="V97vqbIb" text="{VALUE}% досвіду воїнам вашого загону після битви."/>
     <string id="v9NohO6l" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я іншим героям вашого загону."/>
     <string id="v9tQv4eN" text="I would like to propose an alliance between our families through marriage."/>
