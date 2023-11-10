@@ -1884,7 +1884,7 @@
     <string id="FX0GjiNa" text="{VALUE}% швидкості до військових проєктів у підконтрольному поселенні."/>
     <string id="fxDr44K4" text="A silvered tongue gets you far. You want {CHILD.NAME} to learn how to ferret out people's motivations, flatter their egos, and convince them that their interests are aligned."/>
     <string id="fxEka7Bm" text="Дати хабар {AMOUNT}{GOLD_ICON}, щоб увійти"/>
-    <string id="fxGdAlI2" text="You can refine two units of fine steel into one unit of Thamaskene steel,{newline}and one unit of crude iron as by-product."/>
+    <string id="fxGdAlI2" text="Ви можете очистити дві одиниці високоякісної сталі і отримати одну одиницю тамаскінової сталі{newline} і, як побічний продукт, одну одиницю чавуну."/>
     <string id="FXPvGTEa" text="Army you are in is dispersed."/>
     <string id="fxTRlxBD" text="{VALUE}% шкоди їздовим тваринам від дворучної зброї."/>
     <string id="FXWn934b" text="{VALUE}% шкоди від лука."/>
@@ -2873,7 +2873,7 @@
     <string id="MKBWG06O" text="{QUEST_GIVER.LINK} had died and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} was canceled. You can no longer deliver the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} to {?QUEST_GIVER.GENDER}her{?}him{\?}."/>
     <string id="MKYzHFKB" text="Thank you for your help."/>
     <string id="MM0ARhGh" text="Master of Warcraft"/>
-    <string id="mm5ZzOOV" text="You can refine two units of steel into one unit of fine steel, and one unit of crude iron as by-product."/>
+    <string id="mm5ZzOOV" text="Ви можете очистити дві одиниці сталі і отримати одну одиницю високоякісної сталі та, в якості побічного продукту, одну одиницю чавуну."/>
     <string id="mmFrvHRt" text="{VALUE}% шансу вибити з сідла ворожого вершника сильним ударом."/>
     <string id="mmH70R4H" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду воїнам у гарнізоні підконтрольного поселення."/>
     <string id="MMMuSlOW" text="{VALUE}% долі загального досвіду для лучників."/>
@@ -3549,7 +3549,7 @@
     <string id="QyXwJXIV" text="Andrasa"/>
     <string id="QZ6IcCIm" text="I want everything you've got."/>
     <string id="qzG74Cdz" text="{VALUE} до відносин з випадковою відомою особою, старшою за 50 років, щоденно поки ваш загін у місті."/>
-    <string id="qZpIdBib" text="You can refine two units of iron into one unit of steel, and one unit of crude iron as by-product."/>
+    <string id="qZpIdBib" text="Ви можете очистити дві одиниці заліза і отримати одну одиницю сталі та, як побічний продукт, одну одиницю чавуну."/>
     <string id="R0bJS0pn" text="Make peace with the {OTHER_FACTION}"/>
     <string id="r0epmJJJ" text="{VALUE}% штрафу до точності для кінних військ у вашому загоні."/>
     <string id="R1MaIgOb" text="Militia Effect"/>
