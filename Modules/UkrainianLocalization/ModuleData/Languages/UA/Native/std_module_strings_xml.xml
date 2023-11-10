@@ -356,7 +356,7 @@
     <string id="alEG3BOa" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {CLAN_LEADER}."/>
     <string id="alMmQrhK" text="Party Morale"/>
     <string id="AmbKQ7LT" text="Transfer"/>
-    <string id="AMhvD9om" text="Army Commander"/>
+    <string id="AMhvD9om" text="Командувач армії"/>
     <string id="anHqaNK0" text="{.f}королева{.R_n10_ko_p1}"/>
     <string id="anrHk7ea" text="{PARTY} is leading the attack on the enemy. You'll be joining {?ARMY_COMMANDER_GENDER}her{?}him{\?} with your troops."/>
     <string id="aNSAaHk9" text="Bagh Chal is a game of Sheep (white) versus Wolves (black).{newline}The wolves have four pawns that start on the four corners of the board. Every turn, one sheep is placed on the board, and one wolf makes a move or capture until all sheep have been placed on the board.{newline}After all sheep have been placed, the sheep can now also move on the board."/>
