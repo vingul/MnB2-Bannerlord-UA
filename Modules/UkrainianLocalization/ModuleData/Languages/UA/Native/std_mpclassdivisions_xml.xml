@@ -142,7 +142,7 @@
     <string id="Ha8HVTck" text="You are able throw javelins much quicker.{newline} {newline}Grants additional Javelins{newline} {newline}+5% Missle Release Speed {newline} +10% Ready Speed"/>
     <string id="HbngeqNq" text="Spearman"/>
     <string id="HBqsJ7a5" text="You took a random tool from your farm into war. You are used to handling animals.{newline} {newline}Grants Random Farming Tool{newline} {newline}+50% Damage to Mounts"/>
-    <string id="hchDYAKL" text="Lancer"/>
+    <string id="hchDYAKL" text="Улан"/>
     <string id="HgJetcmG" text="Grants a crossbow with a reinforced bow arm, increasing effective range."/>
     <string id="Hm1Qo6iv" text="Well Equipped"/>
     <string id="HMbGb1V2" text="Village Militia"/>
@@ -152,7 +152,7 @@
     <string id="HYxbTcNS" text="Replaces the Tabar with a Sword and Shield. Grants more troops, versatility and protection.{newline} {newline}Grants Heavy Scimitar{newline}Grants Shield{newline}+2 Additional Troops"/>
     <string id="i6OSr5QM" text="Range Bow"/>
     <string id="IAhuOhEW" text="You are prepared for Battle. Gain a shield and extra arrows."/>
-    <string id="IFqtwpb0" text="Pikeman"/>
+    <string id="IFqtwpb0" text="Пікінер"/>
     <string id="IHKXNP9H" text="Tournament Master"/>
     <string id="iHljS6n5" text="Masked Nightmare"/>
     <string id="iISeUaCU" text="Your warrior code forbids you from dying. You are more resistant to damage taken.{newline} {newline}Grants Small Shield{newline} {newline}-10% Damage Taken"/>
@@ -319,7 +319,7 @@
     <string id="YqqhxGwH" text="Replaces Club with Sickle, capable of dealing decent damage and effective against shields."/>
     <string id="yRTNfCfm" text="Faster Crossbow"/>
     <string id="YUauBtTT" text="A bow arm from strong wood, makes this bow shoot especially fast and far."/>
-    <string id="Yvk8a2tb" text="Footwork"/>
+    <string id="Yvk8a2tb" text="Робота ніг"/>
     <string id="YVwl3BgB" text="Your experience as Marksman allows you to fire heavier arrows with more precision.{newline} {newline}Grants Stronger Arrows{newline} {newline}+100% Max Accuracy duration"/>
     <string id="YYt0iLC7" text="Grants Spear, effective against cavalry.{newline} Grants stronger shield."/>
     <string id="ZATaNNCu" text="Replaces mount with a more durable horse that deals more charge damage."/>
