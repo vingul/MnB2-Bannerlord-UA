@@ -1349,7 +1349,7 @@
     <string id="pq48aN8d" text="Morale: {reg1}"/>
     <string id="pQ9Sxily" text="Congratulations, champion! Your fight there was something to remember! As the last one standing, you of course win the top prize: {PRIZE}{GOLD_ICON}."/>
     <string id="PqfS5lgq" text="{ABSORBED_AMOUNT} damage has been absorbed by {ARMOR_AMOUNT} armor."/>
-    <string id="pqfz386V" text="Clan Leader"/>
+    <string id="pqfz386V" text="Лідер клану"/>
     <string id="prs0jRAy" text="всього"/>
     <string id="psjAVdkH" text="Reset Icon"/>
     <string id="pSjnd6PX" text="You have lost the duel. Your army is disheartened by your defeat. Your party loses morale."/>
