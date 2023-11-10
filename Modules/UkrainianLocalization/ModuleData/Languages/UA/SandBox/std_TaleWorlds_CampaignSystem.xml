@@ -105,7 +105,7 @@
     <string id="1be7OEQB" text="{VALUE}% броні при пересуванні пішки."/>
     <string id="1BFk0wAV" text="defeats an enemy."/>
     <string id="1Bm1Wk1v" text="Піхота"/>
-    <string id="1bw2uw8H" text="Wind Winder"/>
+    <string id="1bw2uw8H" text="Швидше за вітер"/>
     <string id="1cKxsHSh" text="Penton"/>
     <string id="1cMS6415" text="Pay {FINE}{INFLUENCE_ICON}"/>
     <string id="1dS5OjLQ" text="{VALUE}% швидкості вивчення нових деталей при переплавленні."/>
@@ -579,7 +579,7 @@
     <string id="723ig40Q" text="Keep"/>
     <string id="72tbUfrz" text="Pristine Streets"/>
     <string id="74pYaU18" text="treats injuries."/>
-    <string id="75vJc53f" text="Unhorser"/>
+    <string id="75vJc53f" text="Скотобійник"/>
     <string id="76TgEba5" text="letting the ruler collect extra taxes in wartime"/>
     <string id="76TOkicW" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду в день всім воїнам в загоні."/>
     <string id="78dta9Ys" text="You told {?CHILD.GENDER}her{?}him{\?} that it is cheaper, safer and wiser to win a battle without fighting, if it is possible to do so."/>
@@ -1976,7 +1976,7 @@
     <string id="GJRcFc0V" text="{VALUE}% шансу повернути їздових тварин загиблих у битві вершників."/>
     <string id="gkuS35ly" text="caring for your horses."/>
     <string id="GkwOyJn9" text="{newline}You later learn that {?PRISONER.GENDER}she{?}he{\?} died from {?PRISONER.GENDER}her{?}his{\?} injuries."/>
-    <string id="gL7Ltjpc" text="Sweeping Wind"/>
+    <string id="gL7Ltjpc" text="Шквальний вітер"/>
     <string id="GlfwOWre" text="You have received a letter from {ISSUE_OWNER.LINK}; It reads: &quot;My dear {PLAYER.NAME}, I have been informed that that vile creature called {TARGET_HERO.LINK} has been slain by you! While this is great news, I had other plans for {?TARGET_HERO.GENDER}her{?}him{\?}. What a pity. Anyway, I am feeling generous. So I will still pay half of what we had previously agreed upon. The messenger who brought you this note should give you the sum. Best wishes - {ISSUE_OWNER.LINK}&quot;"/>
     <string id="GLqb67cg" text="I don't care, brigand. Surrender or die!"/>
     <string id="GlRZN1J5" text="I gave an oath to {CURRENT_LIEGE.LINK} - though no oath binds me to serve a weak leader who is too softhearted to rule."/>
@@ -2695,7 +2695,7 @@
     <string id="lDMrl7sd" text="Your district saw more than its share of floods and fires, and {CHILD.NAME} joined in the effort to stem the destruction and rebuild afterwards."/>
     <string id="LE0NCSPP" text="Every warrior needs to know the basics. Polearms are used by warriors of all classes, from feudal levies and urban militias to elite lancers."/>
     <string id="LE9mRhSs" text="Hespedia"/>
-    <string id="leaowE4D" text="Sheriff"/>
+    <string id="leaowE4D" text="Шериф"/>
     <string id="lEcg67Qk" text="You have failed to take over {TARGET_SETTLEMENT} in time. {QUEST_GIVER.LINK} is disappointed that you have failed to take the fortress in time."/>
     <string id="lEHjxPTs" text="Ally"/>
     <string id="lEHtUGed" text="Diocosos"/>
