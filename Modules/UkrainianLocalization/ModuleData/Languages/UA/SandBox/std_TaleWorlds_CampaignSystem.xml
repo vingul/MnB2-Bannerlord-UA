@@ -504,7 +504,7 @@
     <string id="6ba4n9n6" text="We are waiting for your good news {?PLAYER.GENDER}my lady{?}sir{\?}."/>
     <string id="6bQIRaIl" text="Watch the tournament"/>
     <string id="6bt9jYai" text="I am still looking for the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} you have requested."/>
-    <string id="6btajdpT" text="You can produce crude iron more efficiently by obtaining three units of crude iron from one unit of iron ore."/>
+    <string id="6btajdpT" text="Ви можете виробляти чавун більш ефективно, отримуючи три одиниці чавуну з однієї одиниці залізної руди."/>
     <string id="6bUSbsKC" text="Ваш батько працював на &quot;фітіві&quot;, одного з громил, які стежать за порядком у бідних кварталах міст-оазисів. Він вирішував суперечки через землю, виграшу у кості чи образ, підкріплюючи свій авторитет за допомогою традиційного посоху фітіві."/>
     <string id="6bvJSIqh" text="Yes. I can find a new lord to take them on."/>
     <string id="6CteaPKm" text="{VALUE}% дальності видимості вночі на карті кампанії."/>
@@ -1372,7 +1372,7 @@
     <string id="CQH7E6Gr" text="What about my weapons?"/>
     <string id="CQMkh88h" text="I don't have any prisoners to sell, but that's good to know."/>
     <string id="CqmoyrHH" text="You can assign a companion with {REQUIRED_SOLDIERS} men, they will be enough too. Both ways works fine for us. I promise if you or your men manage to deliver the herd safely, I will pay you {REWARD}{GOLD_ICON}. So what do you say?"/>
-    <string id="cqUXbafi" text="You stun your enemies longer after they block your attack."/>
+    <string id="cqUXbafi" text="Противник залишається оглушеним довше, після блокування вашої атаки."/>
     <string id="CQWKrd0a" text="{FIRSTNAME} of the Spinning-Wheel"/>
     <string id="cr1AipGT" text="{VALUE}% швидкості польоту снаряду вашої метальної зброї."/>
     <string id="cr2jmYxg" text="You remember poring over the hand-drawn schematics of mangonels and towers for hours, imagining that one day you might build one of these awesome instruments of destruction yourself."/>
@@ -2755,7 +2755,7 @@
     <string id="LqEdr7sQ" text="Thank you, {?PLAYER.GENDER}milady{?}sir{\?}. {QUEST_GIVER.LINK} had informed me that help would be on the way. We needed it, I think. Those were a pretty tough lot."/>
     <string id="LR6Y57Rq" text="Attackers abandoned the siege."/>
     <string id="Lr7TZOFL" text="{VALUE}% шансу втечі полонених лордів з вашого загону."/>
-    <string id="Lrm17UNm" text="{VALUE}% швидкості втрати витривалості при виготовленні предметів."/>
+    <string id="Lrm17UNm" text="{VALUE}% швидкості відновлення витривалості для ковальства."/>
     <string id="LsBCQtVX" text="{?CHARACTER.GENDER}She{?}He{\?} died of war-wounds in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
     <string id="lsBuV9W7" text="You are waiting in the village."/>
     <string id="lsddqaAx" text="did some honest work."/>
@@ -4371,7 +4371,7 @@
     <string id="wbLqHvjE" text="Zerosica"/>
     <string id="Wbm4XGB6" text="You have {NUMBER} new troops to upgrade."/>
     <string id="wBURlfzR" text="Tier 3+ troops in your party no longer retreat due to low morale"/>
-    <string id="wbwoVfSq" text="You can use a more efficient method of charcoal production that produces three units of charcoal from two units of hardwood."/>
+    <string id="wbwoVfSq" text="Ви можете використовувати більш ефективний метод виробництва вугілля, отримуючи три одиниці вугілля з двох одиниць твердої деревини."/>
     <string id="WchH8bS2" text="Ваша сім'я займала середнє положення в баттанському клані і займалась обробкою власної землі. Ваш батько бився у керні - головному бойовому загоні свого народу, виконуючи славетний баттанський бойовий клич перед тим як кинутись в атаку."/>
     <string id="WD6soDM1" text="It was a minor skirmish but a clear victory nonetheless. {CHILD.NAME} wasn't just there when the commander came up with the winning strategy but also took part in executing it."/>
     <string id="WdIGdHuL" text="Besiege the town."/>
