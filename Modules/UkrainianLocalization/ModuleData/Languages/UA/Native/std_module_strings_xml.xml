@@ -1491,7 +1491,7 @@
     <string id="S3ymfdwB" text="You have made changes. Do you want to apply them?"/>
     <string id="s5h0Yarn" text="Manage your army"/>
     <string id="s6ofDDii" text="Barricade"/>
-    <string id="s9oED1IR" text="Skirmisher"/>
+    <string id="s9oED1IR" text="Застрільник"/>
     <string id="S9tmCkHz" text="This hero is clearing a common area."/>
     <string id="sa2TQu1G" text="This hero is busy with an issue or a quest."/>
     <string id="SBp4Ja1u" text="Доступні очки фокусу.{newline}Ви можете використовувати ці очки, щоб збільшити ліміт вивчення окремих умінь. Персонажі отримують {FOCUS_PER_LEVEL} {#GET_PLURAL_VALUE(FOCUS_PER_LEVEL)}очко{#}очки{#}очків{\#} фокусу при кожному підвищенні рівня."/>
@@ -1623,7 +1623,7 @@
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL_HOURS}hours{?}hour{\?}"/>
     <string id="ug4LiPbb" text="Ranged Weapons IV"/>
     <string id="uGahvbVP" text="Defend siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
-    <string id="ugJfuabA" text="Horse Archer"/>
+    <string id="ugJfuabA" text="Кінний лучник"/>
     <string id="UgMbCUMO" text="my father {REFERING_HERO.LINK}"/>
     <string id="ugX2RRDY" text="I was taken and held for ransom"/>
     <string id="Uh057UUb" text="Puluc"/>
