@@ -2183,7 +2183,7 @@
     <string id="i2qOUBF4" text="The child will win any game that involves throwing and aiming, and the local crows have learned to keep their distance lest they want to be hit by a stone."/>
     <string id="I2thb8VU" text="Sorry. I don't need any other men right now."/>
     <string id="i36Gg6mW" text="{VALUE}% досвіду для воїнів дальнього бою у вашому загоні."/>
-    <string id="i3eT3Zjb" text="Efficient Iron Maker"/>
+    <string id="i3eT3Zjb" text="Ефективний металург"/>
     <string id="I3GUAb9a" text="I understand your concern, Headman, but I made an agreement. How about I share the profit with you and your people?"/>
     <string id="I3PcdaaL" text="Вовки і ведмеді на півночі та гієни і леопарди на півдні Кальрадії є постійними загрозами для сільської худоби. Ви разом з групою односельців вирушили, щоб усунути одну з таких загроз. І саме ваша стріла виявилась фатальною для звіра."/>
     <string id="i4GboakR" text="{VALUE}% безпеки від воїнів дальнього бою у гарнізоні підконтрольного поселення."/>
@@ -4022,7 +4022,7 @@
     <string id="U3u2D6Ze" text="I give you my word and bond, to stand by your banner in battle so long as my breath remains..."/>
     <string id="U4azeSib" text="Take a walk through the lands"/>
     <string id="u57OuUZR" text="{VALUE}% пробиття броні вашими атаками."/>
-    <string id="u5zNNZKa" text="Efficient Charcoal Maker"/>
+    <string id="u5zNNZKa" text="Ефективний вугляр"/>
     <string id="u6GM5Spa" text=" Armies"/>
     <string id="U7s1LycQ" text="Refers to the Norse practice of appointing independent elders to remind the council of the law and past precedents. This tends to favor those with the education to make complex legal arguments."/>
     <string id="U7sTASN4" text="{ISSUE_OWNER.LINK}, a gang leader from {QUEST_SETTLEMENT}, has told you that some bounty hunters captured some of {?ISSUE_OWNER.GENDER}her{?}his{\?} gang members and are holding them in their hideout. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants them found and rescued. You agreed to send {TROOP_COUNT} of your men along with a {COMPANION.LINK} to find these bounty hunters and rescue {?ISSUE_OWNER.GENDER}her{?}his{\?} associates. They should be back in {RETURN_DAYS} days."/>
