@@ -927,7 +927,7 @@
     <string id="aN85Kfnq" text="{SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="AndfZYIJ" text="Your companion managed to return all of the troops {ISSUE_GIVER.LINK} gave you to train. {?ISSUE_GIVER.GENDER}She{?}He{\?} sends you the following letter.\n\n“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}."/>
     <string id="ANhbaAhL" text="{VALUE} до відносин з торговцями, якщо на одну угоду витрачається 10'000 або більше денарів."/>
-    <string id="aO2JSbSq" text="Sharpened Tip"/>
+    <string id="aO2JSbSq" text="Загострене вістря"/>
     <string id="ao9bhAhf" text="You are not leading any troops"/>
     <string id="AoaabumE" text="Tracker"/>
     <string id="AOgrLJos" text="No. I haven't decided yet."/>
@@ -1759,7 +1759,7 @@
     <string id="f3hTGKIP" text="Garitops"/>
     <string id="F41aPt80" text="Royal Guard"/>
     <string id="f4g7r0xF" text="The enemy does not have any vulnerabilities."/>
-    <string id="f4lnEplc" text="Legendary Smith"/>
+    <string id="f4lnEplc" text="Легендарний коваль"/>
     <string id="F4V7oaVx" text="Housing"/>
     <string id="F51HfzZj" text="White Lies"/>
     <string id="F540oIed" text="I can designate you as my official revenue farmer, and give you a list of everyone's holdings and how much they owe. All you need to do is visit all my villages and collect what you can. I don't expect you to be able to get every denar. Some of the people around here are genuinely hard - up, but they'll all try to get out of paying. Let's just keep it simple: I will take {TOTAL_REQUESTED_DENARS}{GOLD_ICON} denars and you can keep whatever else you can squeeze out of them. Are you interested?"/>
@@ -2581,7 +2581,7 @@
     <string id="kmsNUfbA" text="Donate prisoners"/>
     <string id="KN6khbSl" text="Clan Influence"/>
     <string id="kNW1qYSi" text="{HERO.NAME} is leading a party right now."/>
-    <string id="knWgaYdk" text="Sharpened Edge"/>
+    <string id="knWgaYdk" text="Загострене лезо"/>
     <string id="knwId8DG" text="You cannot assign a prisoner as a governor of a settlement"/>
     <string id="kNXet6Um" text="відома витівка у місті."/>
     <string id="KODafKT7" text="Architectural Commissions"/>
@@ -2718,7 +2718,7 @@
     <string id="LIjN3rYD" text="Tier 5+ clans lose 1 influence per day and the party size of their leaders is increased by 40"/>
     <string id="LItNgwiF" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я за кожну одиницю уміння понад 250."/>
     <string id="Lj5Lghww" text="What? No..."/>
-    <string id="ljduhdzj" text="Загострене вістря"/>
+    <string id="ljduhdzj" text="Загострений наконечник"/>
     <string id="LjeYTgX7" text="{VALUE}% шкоди проти щитів одноручною зброєю."/>
     <string id="LjiYq9cH" text="I am sorry. I am not sure that I could ever love you."/>
     <string id="Ljs9ahMk" text="I know your intentions. I will not let you steal from those poor villagers!"/>
@@ -3626,7 +3626,7 @@
     <string id="rkHnKmSK" text="{VALUE}% швидкості польоту снарядів метальної зброї воїнів вашому строю."/>
     <string id="RkQjllml" text="Given even a few minutes of free time, {?PLAYER_CHILD}your{?}this{\?} child will line up targets and shoot them with {?CHILD.GENDER}her{?}his{\?} home-made bow."/>
     <string id="rkQptw1O" text="{VALUE}% виробництва на фермах, шахтах, лісозаготівлях та глиняних кар'єрах, зв'язаних з підконтрольним поселенням."/>
-    <string id="rkuAgPSA" text="На вістрі"/>
+    <string id="rkuAgPSA" text="На грані"/>
     <string id="RKVNvimC" text="пасли овець."/>
     <string id="RkYL5eaP" text="{VALUE}% витрат на покращення воїнів."/>
     <string id="Rl1AHKSp" text="Royal Privilege"/>
