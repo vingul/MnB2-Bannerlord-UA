@@ -17,7 +17,7 @@
     <string id="07qBenIW" text="a flagon of ale"/>
     <string id="07QlFlXK" text="a plate of herrings"/>
     <string id="095beaQ5" text="Yes, there's a lot of work we need to do around the village, and we're short on the materials that our smith needs to make us tools and fittings. Do you think you could get us some? We'll pay well."/>
-    <string id="09gOOa0h" text="Ranger"/>
+    <string id="09gOOa0h" text="{.m}Рейнджер{.R_n20_a_ke_p}"/>
     <string id="09npcQY0" text="{VALUE}% бонус укріплення для підконтрольного поселення"/>
     <string id="09z8Q08f" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Такі як вони були основою аграрно-орієнтованої економіки Імперії та були кістяком її армії."/>
     <string id="0A6BUASZ" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду щодня піхотинцям вашого загоні."/>
@@ -83,7 +83,7 @@
     <string id="0wxRZ9AV" text="Armies led by Tier 5+ nobles require 10% less influence{newline}Influence of the ruler clan is reduced by 1 per day"/>
     <string id="0XEaaoah" text="Rosazia"/>
     <string id="0XOii9tg" text="The noble did not let {CHILD.NAME} go hand-to-hand with other warriors, but the young {?CHILD.GENDER}woman{?}man{\?} joined the archers as they traded shots with enemy scouts."/>
-    <string id="0XuFh3cX" text="Forest Kin"/>
+    <string id="0XuFh3cX" text="Спорідненість з лісом"/>
     <string id="0YRl5Yie" text="I'll bring your {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} by myself."/>
     <string id="10cVZTTm" text="{VALUE}% відновлення втраченого здоров'я після кожної битви."/>
     <string id="117W31dZ" text="You were unable to drive the herders from the disputed pasture. The landowner, {QUEST_GIVER.LINK}, probably feels that you let {?QUEST_GIVER.GENDER}her{?}him{\?} down."/>
@@ -543,7 +543,7 @@
     <string id="6pCABUme" text="{?CHARACTER.GENDER}She{?}He{\?} died in battle in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
     <string id="6pNrNj93" text="Wall"/>
     <string id="6PrmgKXa" text="{CHILD.NAME} is now old enough to play independently with the other children of the estate. You are particularly struck by how {?CHILD.GENDER}she{?}he{\?}..."/>
-    <string id="6PSgX2BP" text="Day Traveler"/>
+    <string id="6PSgX2BP" text="Денний мандрівник"/>
     <string id="6q8tY6Sz" text="You remember your freebooting days fondly. You want {CHILD.NAME} to experience life as you did."/>
     <string id="6qKJ6Uzr" text="I believe the goods have been delivered to you."/>
     <string id="6QoSHiWC" text="An alley without a leader"/>
@@ -929,7 +929,7 @@
     <string id="ANhbaAhL" text="{VALUE} до відносин з торговцями, якщо на одну угоду витрачається 10'000 або більше денарів."/>
     <string id="aO2JSbSq" text="Загострене вістря"/>
     <string id="ao9bhAhf" text="You are not leading any troops"/>
-    <string id="AoaabumE" text="Tracker"/>
+    <string id="AoaabumE" text="Слідопит"/>
     <string id="AOgrLJos" text="No. I haven't decided yet."/>
     <string id="aoJHP3Ud" text="I'm ready to rejoin you. I'm in your debt."/>
     <string id="aPbpBJq5" text="Dungeon Architect"/>
@@ -1043,7 +1043,7 @@
     <string id="B7HwvV6L" text="Повноцінний відпочинок"/>
     <string id="B7JVLc4u" text="Choose a Tutor"/>
     <string id="b7UHp4J9" text="Leave the siege"/>
-    <string id="B8Gq2ylh" text="Night Runner"/>
+    <string id="B8Gq2ylh" text="Нічна пробіжка"/>
     <string id="b97khG1u" text="{VALUE}% пробиття броні метальною зброєю воїнами вашого строю."/>
     <string id="b9NaTqyr" text="Extra Defender Defense"/>
     <string id="b9nvCgYF" text="A hunter knows how to prepare a trap and how to draw a prey to it, and, when dangerous predators are about, how to avoid becoming the hunted."/>
@@ -1431,7 +1431,7 @@
     <string id="D1jGAX41" text="Courage"/>
     <string id="d2KpUKxc" text="The master-at-arms is responsible for the training and discipline of your troops. With his help {?PLAYER_CHILD}your{?}the{\?} child should grow to be a strong warrior."/>
     <string id="D2nbscmg" text="{VALUE} золота за кожен загін селян, що відвідає підконтрольне поселення."/>
-    <string id="d2qGHXyx" text="Pathfinder"/>
+    <string id="d2qGHXyx" text="Слідопит"/>
     <string id="d2spYiHG" text="{LEADER.NAME} is commanding the besiegers."/>
     <string id="D33fIGQe" text="Never mind."/>
     <string id="D3k7UbmZ" text="{VALUE}% шкоди від одноручної зброї при їзді верхи."/>
@@ -2012,7 +2012,7 @@
     <string id="gSmXyxue" text="{FIRSTNAME} the Tanner"/>
     <string id="GsPC2MgU" text="Ваш батько був рабом-охоронцем одного з асерайських емірів. Він бився в рядах важкої кінноти свого господаря і був звільнений - можливо, за проявлену в бою доблесть, а можливо, сплативши викуп, на який він накопичив зі здобичі, отриманої від битв. Потім він одружився з вашою матір'ю."/>
     <string id="gsVtO9A7" text="Militia"/>
-    <string id="gsz9DMNq" text="Water Diviner"/>
+    <string id="gsz9DMNq" text="Шукач води"/>
     <string id="Gtbfm10o" text="You have enough grain to complete the quest. Return to {QUEST_SETTLEMENT} to hand it over."/>
     <string id="GtIpsut6" text="I don't even like you. You expect me to discuss something like this with you?"/>
     <string id="gtlygHIk" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} характеристик до Сили."/>
@@ -2395,7 +2395,7 @@
     <string id="JhJBBWab" text="They will be gone soon."/>
     <string id="JHMHcZEp" text="You have seen many marvels on your travels and heard of many more, and one day, you believe, the philosophers of science will rule the world."/>
     <string id="JHR4ySCf" text="As {?IS_FEMALE}queen{?}king{\?} you must decide if the owner of {SETTLEMENT} should change."/>
-    <string id="jhZe9Mfo" text="Forced March"/>
+    <string id="jhZe9Mfo" text="Непосидючість"/>
     <string id="jI251oj9" text="{?QUEST_GIVER.GENDER}She{?}He{\?} noted that {?QUEST_GIVER.GENDER}she{?}he{\?} has {SELECTED_ITEM_COUNT} {.%}{?SELECTED_ITEM_COUNT &gt; 1}{PLURAL(SELECTED_ITEM)}{?}{SELECTED_ITEM}{\?}{.%}. {?QUEST_GIVER.GENDER}She{?}He{\?} is expecting to earn {TOTAL_GOLD}{GOLD_ICON} denars from that."/>
     <string id="ji2eenPE" text="All right - we give up. We can't fight you. Maybe the likes of us don't deserve mercy, but... show what mercy you can."/>
     <string id="ji5kkqXy" text="They need to be criminals, bandits, for me to do this legally. I need at least {WANTED_PRISONER_AMOUNT} of them. But if you can bring more I will gladly accept. I'm willing to pay ten times more than their market price for each. What do you say?"/>
@@ -3738,7 +3738,7 @@
     <string id="s9oED1IR" text="Застрільник"/>
     <string id="S9XsuYap" text="{VALUE} бонусу до процвітання від цивільних проєктів у підконтрольному поселенні."/>
     <string id="S9yUBtKc" text="I don't think you can help me. You need to have some experience in {SKILL_NAME}..."/>
-    <string id="sA2OrT6l" text="Unburdened"/>
+    <string id="sA2OrT6l" text="Без тягаря"/>
     <string id="SA4JbVo2" text="Your steward acts as magistrate in the lord's absence. {?PLAYER_CHILD}Your{?}The{\?} child will sit at his side as he rules on land disputes, family feuds, and cases of alleged banditry, giving {?CHILD.GENDER}her{?}him{\?} a look at the darker side of life in Calradia."/>
     <string id="sAobCa9U" text="Brigands are disturbing travelers outside the town. Someone needs to hunt them down."/>
     <string id="SausWqM5" text="{?CHARACTER.GENDER}She{?}He{\?} disappeared in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
@@ -3884,7 +3884,7 @@
     <string id="taz5cAtw" text="You failed to train the {YOUNG_HERO.LINK} enough as {QUEST_GIVER.LINK} expected. {?QUEST_GIVER.GENDER}She{?}He{\?} is disappointed."/>
     <string id="TazumJGN" text="You emerge into the streets. No one is yet aware of what happened in the dungeons, and you hustle {PRISONER.NAME} towards the gates.{newline}You may now leave the {?SETTLEMENT_TYPE}settlement{?}castle{\?}."/>
     <string id="tb0gqxDZ" text="Here's the plan. We lay an ambush in the village. When they show up, we spring. If you join us, I think we've got a good chance of ridding ourselves of this scourge before they murder us one by one."/>
-    <string id="TbBmjK8M" text="Desert Born"/>
+    <string id="TbBmjK8M" text="Народжений в пустелі"/>
     <string id="TbNRtUjb" text="полювання на небезпечного звіра."/>
     <string id="TBpMffcv" text="Campaigning this season has taken even a higher toll on {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} than it has on my men. The animals will drop dead of exhaustion while my troops soldier on. Yet if we don't keep our stocks up, the enemy will run rings around us."/>
     <string id="tbQ5bUzD" text="Arenicos' Horses"/>
