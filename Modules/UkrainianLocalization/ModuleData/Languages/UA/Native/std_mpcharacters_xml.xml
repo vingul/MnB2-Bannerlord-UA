@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="09gOOa0h" text="Ranger"/>
+    <string id="09gOOa0h" text="{.m}Рейнджер{.R_n20_a_ke_p}"/>
     <string id="4C4WiTb2" text="Varyag"/>
     <string id="8ba4tpRU" text="Jawwal"/>
     <string id="8qg72H8Z" text="Tribal Warrior"/>
