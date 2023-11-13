@@ -3374,7 +3374,7 @@
     <string id="PznnUlI3" text="Вербування полонених бандитів відбувається без втрати бойового духу."/>
     <string id="PZqGagXt" text="No, not yet. I'm still looking for them."/>
     <string id="q0RY0dQG" text="We need to talk business."/>
-    <string id="Q0UjYw7V" text="Так, я впевнен{?PLAYER.GENDER}а{?}ий{/?}."/>
+    <string id="Q0UjYw7V" text="Так, я впевнен{?PLAYER.GENDER}а{?}ий{\?}."/>
     <string id="q186AQHt" text="Phadon"/>
     <string id="q2aed7tv" text="Train troops for {ISSUE_OWNER.NAME}"/>
     <string id="q2gybZYy" text="{VALUE}% шкоди вашим щитам."/>
@@ -3792,7 +3792,7 @@
     <string id="sjTpEzju" text="Very well. We'll keep waiting."/>
     <string id="SK43eB6y" text="Return to Army"/>
     <string id="SKUPHeAw" text="Свобода дій"/>
-    <string id="SLaJsVnq" text="Власне, я передум{?PLAYER.GENDER}ала{?}ав{/?}."/>
+    <string id="SLaJsVnq" text="Власне, я передум{?PLAYER.GENDER}ала{?}ав{\?}."/>
     <string id="sLjGguGy" text="Sure, they're bastards. But they'll be loyal bastards if you treat them well."/>
     <string id="SlmhqqH8" text="Town Walls"/>
     <string id="SlubkZ1A" text="Eliminated"/>
