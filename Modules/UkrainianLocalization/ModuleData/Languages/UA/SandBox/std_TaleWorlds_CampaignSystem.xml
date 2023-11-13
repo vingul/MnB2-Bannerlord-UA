@@ -8,7 +8,7 @@
     <string id="00mulBcs" text="{VALUE}% шкоди від швидкості для воїнів з древковою зброєю у вашому строю."/>
     <string id="00Qvwelb" text="{WOUNDED_NUMBER} of your men got wounded while they were trying to separate the two sides."/>
     <string id="028iCb8B" text="Jythea"/>
-    <string id="02c5bQSM" text="Discard"/>
+    <string id="02c5bQSM" text="Викинути"/>
     <string id="02IdNzbt" text="{VALUE}% збалансованості для древкової зброї з можливістю змаху."/>
     <string id="03DZpTYi" text="You are a wanted criminal."/>
     <string id="03lc5R2t" text="You have tried to persuade me before. I will not stand your words again."/>
@@ -1069,7 +1069,7 @@
     <string id="bbz2eyAO" text="Perhaps, my {?PLAYER.GENDER}lady{?}lord{\?}, it was a mistake? If you were to relinquish the goods, it would avoid a situation that might appear, well, a bit unseemly."/>
     <string id="bC2jevlu" text="The client is displeased."/>
     <string id="BC4BC0ZC" text="{FIRSTNAME} the Spicetrader"/>
-    <string id="bC5aMfG0" text="Villages"/>
+    <string id="bC5aMfG0" text="Села"/>
     <string id="bcA7ZuyO" text="Перевищено ліміт вивчення"/>
     <string id="BCB08mNZ" text="{VALUE}% шансу уникнути критичної невдачі при переконанні."/>
     <string id="bcGzpFSg" text="Are you sure about what your hunters saw? My men are starting to run out of patience."/>
@@ -1498,7 +1498,7 @@
     <string id="DHm1MBsj" text="Lodging for the garrisoned troops. Each level increases the garrison capacity of the stronghold."/>
     <string id="DhrjR8bs" text="Announce that the villagers have paid enough, and leave the village."/>
     <string id="DHZxUm6I" text="{VALUE}% дальності видимості, коли у вашому загоні більше 50% кавалерії."/>
-    <string id="dI1AOyqh" text="Pack Animals"/>
+    <string id="dI1AOyqh" text="В'ючні тварини"/>
     <string id="dicpCcb2" text="Party Culture:"/>
     <string id="DidANRmb" text="My {?PLAYER.GENDER}lady{?}lord{\?}, we have heard rumors that you have purchased goods from {QUEST_GIVER.NAME}. Surely this cannot be true. Our laws require that only merchants resident in the city can buy goods directly from the artisans."/>
     <string id="DiE5Mh2J" text="learned to inspire the soldiers."/>
@@ -3593,7 +3593,7 @@
     <string id="RbToDs0n" text="Here is your cargo. Now it's time for payment."/>
     <string id="RCa0DpAo" text="You have handed over the revenue to the steward"/>
     <string id="rCCG4mSJ" text="Відбиття снарядів"/>
-    <string id="rCiKbsyW" text="Spare Mounts"/>
+    <string id="rCiKbsyW" text="Запасні скакуни"/>
     <string id="rcoueCmk" text="Підлітковий період"/>
     <string id="rd229FYG" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM} with the support of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="Rd3m5kyk" text="You have attacked the caravan."/>
