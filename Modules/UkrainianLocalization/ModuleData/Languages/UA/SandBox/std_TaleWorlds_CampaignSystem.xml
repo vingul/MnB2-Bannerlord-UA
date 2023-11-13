@@ -604,7 +604,7 @@
     <string id="7Hd5yW7B" text="{?CHILD.GENDER}She{?}He{\?} is at home in the wilderness. {?CHILD.GENDER}She{?}He{\?} moves like a cat, and has very keen ears and eyes."/>
     <string id="7HpfrmIU" text="On a second thought... Now is not the right time to do this."/>
     <string id="7Hv984Sf" text="в доках і на будівництвах."/>
-    <string id="7HvtT8bm" text="Wrought Iron{@Plural}loads of wrought iron{\@}"/>
+    <string id="7HvtT8bm" text="{.n}Кований{.R_adj} {.n}залізо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} кованого заліза{\@}"/>
     <string id="7hYUleHh" text="rode to the edge of the world."/>
     <string id="7J9KNFTz" text="Donate troops to garrison"/>
     <string id="7j9uHxLM" text="Current Rank Effect"/>
@@ -1002,7 +1002,7 @@
     <string id="aZaujaHb" text="The guard accepts your offer. He is ready to help you break {PRISONER.NAME} out, if you're willing to pay."/>
     <string id="AZbJuZwF" text="{FIRSTNAME} Knucklebones"/>
     <string id="azHy8uwl" text="I will issue a decree to remove the restrictions on the sale of goods."/>
-    <string id="azjMBa86" text="Fine Steel{@Plural}loads of fine steel{\@}"/>
+    <string id="azjMBa86" text="{.f}Якісний{.R_adj} {.f}сталь{.R_n32}{@Plural}{.p}Ящик{.R_n20_p} з якісною сталлю{\@}"/>
     <string id="aZjz2GfX" text="Master-at-arms"/>
     <string id="AzKq8AfI" text="In theory, the king or empire has the sole right to command men in the field. Anyone commanding an army does so in the king's name."/>
     <string id="aZne44IB" text="{CLAN_NAME} Family"/>
@@ -1739,7 +1739,7 @@
     <string id="EX5cZDLH" text="Щільний стрій"/>
     <string id="ex6ZhAAv" text="You gave {DENAR}{GOLD_ICON} to companion to buy {GRAIN_AMOUNT} units of grain for the {ISSUE_OWNER.NAME}."/>
     <string id="eXaiRXF9" text="Cheat: Besiege Nearby Castle"/>
-    <string id="ExjMoUiT" text="Hardwood{@Plural}hardwood logs{\@}"/>
+    <string id="ExjMoUiT" text="{.f}Твердий{.R_adj} {.f}деревина{.R_n10}{@Plural}{.p}Колода{.R_n10_p1} твердої деревини{\@}"/>
     <string id="eXLxHSls" text="leads men into enemy territory."/>
     <string id="exmSGWUb" text="I would rather be your middleman on this matter. I need to keep my money. You can have your men get the herd ready."/>
     <string id="EXwX0zrx" text="The young {?CHILD.GENDER}woman{?}man{\?} faced a rival clan's outrider in single combat, and handed him a defeat that he wouldn't forget."/>
@@ -1997,7 +1997,7 @@
     <string id="GOkjJwZr" text="I can get your herdsmen to the pastures."/>
     <string id="gOn7a7if" text="granting lords exclusive hunting rights to nearby forests"/>
     <string id="goOE8oiI" text="{VALUE}% шкоди отримує піхота перебуваючи у шикуванні «стіна із щитів»."/>
-    <string id="gOpodlt1" text="Crude Iron{@Plural}loads of crude iron{\@}"/>
+    <string id="gOpodlt1" text="{.m}Чавун{.R_n20_u}{@Plural}{.p}Ящик{.R_n20_p} чавуну{\@}"/>
     <string id="gOsori1b" text="Your captors have no more use for you and aren't in a murderous mood, so they let you go."/>
     <string id="GOt2uRcJ" text="In adolescence, {?CHILD.GENDER}she{?}he{\?} began to take on serious responsibilities and compete with adults as a near-equal. {?CHILD.GENDER}She{?}He{\?} managed to..."/>
     <string id="gp1qYbgb" text="Your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
@@ -2278,7 +2278,7 @@
     <string id="ipQP6aVi" text="Найманці"/>
     <string id="ipwU1JT3" text="Ранкова зарядка"/>
     <string id="iq3yEuO9" text="All right. I will bring your animals by myself."/>
-    <string id="iQadPYNe" text="Charcoal{@Plural}loads of charcoal{\@}"/>
+    <string id="iQadPYNe" text="{.n}Вугілля{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} вугілля{\@}"/>
     <string id="IqH0jFdK" text="So you need someone to deal with these bastards?"/>
     <string id="iqJQd4D8" text="{VALUE} додатково до відносин, коли ви покращуєте відносини з жорстокими лордами."/>
     <string id="IqRNTls2" text="{VALUE}% швидкості грабежу."/>
@@ -2296,7 +2296,7 @@
     <string id="ITqVF9i4" text="You know {CURRENT_LIEGE.NAME} asks you to do dishonorable things, and no oath binds you to doing evil."/>
     <string id="ItS9F61H" text="You told {CHILD.NAME} that any young noble worth {?CHILD.GENDER}her{?}his{\?} salt should be able to bring down a deer from fifty paces away, or hit a rabbit on the run."/>
     <string id="ItueKmqd" text="Your clan is now at war with the {QUEST_GIVER_SETTLEMENT_FACTION}. You contract with {QUEST_GIVER.LINK} is canceled."/>
-    <string id="Itv3fgJm" text="Grain{@Plural}loads of grain{\@}"/>
+    <string id="Itv3fgJm" text="{.n}Зерно{.R_n2n}{@Plural}{.p}Мішок{.R_n22_p} з зерном{\@}"/>
     <string id="iTYoUNdC" text="All right. I'll take him with me."/>
     <string id="IU63oxWD" text="Jemynon"/>
     <string id="IUCkbHkT" text="I decide how the law here is applied, merchant."/>
@@ -2614,7 +2614,7 @@
     <string id="KVDMVbT1" text="This child started speaking earlier than most of {?CHILD.GENDER}her{?}his{\?} peers and can even string together simple sentences."/>
     <string id="KVlPhPSD" text="Settlement involved map event"/>
     <string id="kvNQLcCb" text="{ATTACKER} is fighting in {DEFENDER}"/>
-    <string id="Kw6BkhIf" text="Iron Ore{@Plural}loads of iron ore{\@}"/>
+    <string id="Kw6BkhIf" text="{.f}Залізний{.R_adj} {.f}руда{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} залізної руди{\@}"/>
     <string id="KW7amS8c" text="While your troops are pillaging the countryside, you receive news that the enemy is approaching. You quickly gather up your soldiers and prepare for battle."/>
     <string id="KWBwCq1Y" text="{VICTIM.LINK} died of old age."/>
     <string id="KWBzmJQl" text="I am happy to hear that."/>
@@ -2733,7 +2733,7 @@
     <string id="llVFTH6n" text="Yes. It's a good problem to have, though. As you may know, I deal in {PLURAL(SELECTED_ITEM)}. Our herds have increased this year, and we can no longer make a profit on the local market. I cannot however organize a drive to a new market. So, I propose a very simple deal."/>
     <string id="lmJYF6pQ" text="Tell me how I can help."/>
     <string id="LmTii9E2" text="It was a pleasure doing business with you. If only everyone was as honest as you."/>
-    <string id="LmwhFv5p" text="Meat{@Plural}loads of meat{\@}"/>
+    <string id="LmwhFv5p" text="{.n}М'ясо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_a_p} м'яса{\@}"/>
     <string id="LMWiJi6V" text="Phirentos"/>
     <string id="LN09ZLXZ" text="Join the tournament"/>
     <string id="LN7SGvnS" text="Love is but an infatuation. Judge me by my character."/>
@@ -2957,7 +2957,7 @@
     <string id="N1WyvVHY" text="You instructed the child to pay close attention to how the steward exerts authority."/>
     <string id="n2xL3okw" text="Можливість один раз обдурити смерть від старості."/>
     <string id="n3bFiuVu" text="Підвищення бойового духу в загонах під вашим командуванням +{a0}"/>
-    <string id="n3cjEB0X" text="Tools{@Plural}loads of tools{\@}"/>
+    <string id="n3cjEB0X" text="{.p}Інструмент{.R_n20_p}{@Plural}{.p}Ящик{.R_n20_p} інструментів{\@}"/>
     <string id="n48jo6Qn" text="the {FACTION_NAME}"/>
     <string id="N4eLGduQ" text="Delivered Prisoners ({TOTAL_REWARD}{GOLD_ICON})"/>
     <string id="n4I3pWOn" text="As the ruler, you must decide if peace will be made with the {KINGDOM_NAME} by paying {TRIBUTE_PERCENTAGE} percent of the kingdom's income as tribute."/>
@@ -4071,7 +4071,7 @@
     <string id="ueUsg9OL" text="I can take your goods to {TARGET_HERO.LINK} in {TARGET_SETTLEMENT} myself."/>
     <string id="uEV6kKdU" text="You have collected all the supplies that the army commander requested. Return to army and deliver the supplies"/>
     <string id="UFce0iyy" text="The caravan survived the battle without your help. You failed to keep your promise to {QUEST_GIVER.LINK}."/>
-    <string id="UfuLKuaI" text="Steel{@Plural}loads of steel{\@}"/>
+    <string id="UfuLKuaI" text="{.f}Сталь{.R_n32}{@Plural}{.p}Ящик{.R_n20_p} зі сталлю{\@}"/>
     <string id="UGda4FDZ" text="{CHILD.NAME} found work with an artisan for a season, keeping {?CHILD.GENDER}her{?}his{\?} high birth a secret."/>
     <string id="UgfmaQgx" text="Leave {DEFENDER}"/>
     <string id="ugHO6Sa6" text="I need more {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?}, specifically, we need {MOUNT_COUNT} and they need to be {PLURAL(MOUNT_NAME)}, because we know how to use them and how they fit our needs. Bring them to me and a bag of {REWARD}{GOLD_ICON} will be right in your pocket."/>
@@ -4249,7 +4249,7 @@
     <string id="vLjgcdgB" text="Snow"/>
     <string id="VLLAOXve" text="Waiting until nightfall to ambush"/>
     <string id="VlOGrGSn" text="Your character started off on the adventuring path at the age of..."/>
-    <string id="vLVAfcta" text="Thamaskene Steel{@Plural}loads of thamaskene steel{\@}"/>
+    <string id="vLVAfcta" text="{.f}Тамаскіновий{.R_adj} {.f}сталь{.R_n32}{@Plural}{.p}Ящик{.R_n20_p} з тамаскіновою сталлю{\@}"/>
     <string id="VlXOgIX6" text="їздили з розвідниками."/>
     <string id="VM1SGrla" text="{HERO.NAME} is your enemy."/>
     <string id="vmMqs3Ck" text="Noble"/>
