@@ -595,7 +595,7 @@
     <string id="DU9SofaW" text="Cut"/>
     <string id="DuFg1avZ" text="Наступний рівень: {NEXT_SKILL_POINTS}"/>
     <string id="Duoo5R2P" text="Arena Master"/>
-    <string id="DvGueBrU" text="Linen{@Plural}rolls of linen{\@}"/>
+    <string id="DvGueBrU" text="{.n}Полотно{.R_n2n}{@Plural}{.p}Рулон{.R_n20_p} полотна{\@}"/>
     <string id="dxtuFW8b" text="You put up quite a good fight there. Some very good moves. A few errors, sure, but you definitely show promise. And you earned a prize of {PRIZE}{GOLD_ICON} for knocking down {OPPONENT_COUNT} opponents."/>
     <string id="DyarV8i7" text="There is already a proposed decision for this policy."/>
     <string id="dyLYsWPf" text="Assuring Presence Perk Bonus"/>
@@ -627,7 +627,7 @@
     <string id="eKwhGmbI" text="After this troop gains {XP_AMOUNT} xp, one more troop will be available for upgrade"/>
     <string id="EL7lZLXN" text="Can Knockdown"/>
     <string id="elhSbQfW" text="my kinsman {REFERING_HERO.LINK}"/>
-    <string id="ELsDFwAD" text="Wine{@Plural}amphorae of wine{\@}"/>
+    <string id="ELsDFwAD" text="{.n}Вино{.R_n2n}{@Plural}{.p}Амфора{.R_n10_p1} вина{\@}"/>
     <string id="EMCISbYJ" text="Battle Outfit"/>
     <string id="empiremembers" text="{.p}Імперець{.R_n22_p}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
@@ -668,7 +668,7 @@
     <string id="exhusbandfatherinlaw" text="Former father-in-law"/>
     <string id="exhusbandmotherinlaw" text="Former mother-in-law"/>
     <string id="exhusbandsisterinlaw" text="Former sister-in-law"/>
-    <string id="ExjMoUiT" text="Hardwood{@Plural}hardwood logs{\@}"/>
+    <string id="ExjMoUiT" text="{.f}Твердий{.R_adj} {.f}деревина{.R_n10}{@Plural}{.p}Колода{.R_n10_p1} твердої деревини{\@}"/>
     <string id="exwifebrotherinlaw" text="Former brother-in-law"/>
     <string id="exwifefatherinlaw" text="Former father-in-law"/>
     <string id="exwifemotherinlaw" text="Former mother-in-law"/>
@@ -702,7 +702,7 @@
     <string id="fEu5S6Bd" text="Distance"/>
     <string id="fEXuXAl1" text="Army Morale : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}"/>
     <string id="FfVdGZsj" text="+{BONUS_AMOUNT} bonus to food production"/>
-    <string id="Fg9qCGUu" text="Grape{@Plural}sacks of grapes{\@}"/>
+    <string id="Fg9qCGUu" text="{.m}Виноград{.R_n20}{@Plural}{.p}Ящик{.R_n20_p} винограду{\@}"/>
     <string id="fivestackdiscarditems" text="Hold [{KEY_NAME}] to do x5"/>
     <string id="fivestackrecruitunits" text="Hold [{KEY_NAME}] to do x5"/>
     <string id="fivestacktakeitems" text="Hold [{KEY_NAME}] to do x5"/>
@@ -834,7 +834,7 @@
     <string id="HEQ2zEei" text="Відмінити"/>
     <string id="hEWuE0Ch" text="You're the commander. You will be able to order all formations during the battle."/>
     <string id="hfSW9FTN" text="Ranged Weapons V"/>
-    <string id="HiSzYWeh" text="Beer{@Plural}casks of beer{\@}"/>
+    <string id="HiSzYWeh" text="{.n}Пиво{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} пива{\@}"/>
     <string id="hJypvWMR" text="Refine"/>
     <string id="HkfY3Ds5" text="Body Armor"/>
     <string id="HKrCB1Pa" text="Can Crush Through"/>
@@ -899,7 +899,7 @@
     <string id="iIBqTcKx" text="Attacks can knock down opponents"/>
     <string id="iisvVbDI" text="Buy All"/>
     <string id="IiyN5krb" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE}){newline}{TRAIT_DESCRIPTION}"/>
-    <string id="IK2IPJi1" text="Salt{@Plural}sacks of salt{\@}"/>
+    <string id="IK2IPJi1" text="{.f}Сіль{.R_n30}{@Plural}{.p}Мішок{.R_n22_p} солі{\@}"/>
     <string id="iKUXVaFf" text="Influence cost: {reg0}"/>
     <string id="iKzyJHiD" text="Sorry, I don't know of any good trading tips at present."/>
     <string id="iLcfZ71B" text="Persuasion"/>
@@ -924,8 +924,8 @@
     <string id="ISJ8Tt8a" text="{COUNT} {.%}{?(COUNT &gt; 1)}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}"/>
     <string id="ISz5bLEO" text="twelfth"/>
     <string id="itLpRUtF" text="Clan doesn't have any empty party slots."/>
-    <string id="ITTGMEUJ" text="Date Fruit{@Plural}sacks of date fruit{\@}"/>
-    <string id="Itv3fgJm" text="Grain{@Plural}loads of grain{\@}"/>
+    <string id="ITTGMEUJ" text="{.p}Фінік{.R_n20_p}{@Plural}{.p}Мішок{.R_n22_p} з фініками{\@}"/>
+    <string id="Itv3fgJm" text="{.n}Зерно{.R_n2n}{@Plural}{.p}Мішок{.R_n22_p} з зерном{\@}"/>
     <string id="itvLr7dL" text="Pick up"/>
     <string id="iUTXqFmm" text=" and the nearby {?VILLAGE_COUNT}villages{?}village{\?}s of {VILLAGE_NAMES}"/>
     <string id="IuWu5Bu7" text="Generosity"/>
@@ -978,7 +978,7 @@
     <string id="joICaqvo" text="Unassigned"/>
     <string id="JP7LTAsa" text="Good! Good! Now go! Go away![ib:aggressive][if:convo_angry]"/>
     <string id="jpBpwgAs" text="Settlements"/>
-    <string id="jPwa1oOm" text="Silver{@Plural}loads of silver ore{\@}"/>
+    <string id="jPwa1oOm" text="{.n}Срібло{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} срібла{\@}"/>
     <string id="JQarnWiz" text="You don't have enough materials for this."/>
     <string id="jQGcUobB" text="Civillian"/>
     <string id="JQOUUVct" text="Пауза"/>
@@ -1091,7 +1091,7 @@
     <string id="lKIHqkAV" text="seventeenth"/>
     <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
     <string id="Ll90uaxu" text="Successful Sieges"/>
-    <string id="LmwhFv5p" text="Meat{@Plural}loads of meat{\@}"/>
+    <string id="LmwhFv5p" text="{.n}М'ясо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_a_p} м'яса{\@}"/>
     <string id="lNADu8JO" text="Roles"/>
     <string id="lnKAqDVM" text="Defend key position"/>
     <string id="lockverb" text="Lock"/>
@@ -1106,7 +1106,7 @@
     <string id="LSsFOEQy" text="Less than a day"/>
     <string id="LsZEdD2z" text="Walls"/>
     <string id="lTTWrL1Q" text="Quest Timed Out: {QUEST_TITLE}"/>
-    <string id="lULBZ714" text="Oil{@Plural}amphorae of oil{\@}"/>
+    <string id="lULBZ714" text="{.f}Олія{.R_n10}{@Plural}{.p}Амфора{.R_n10_p1} олії{\@}"/>
     <string id="lvc1Xgf8" text="Tavern Wench"/>
     <string id="lxLTCX5j" text="Occupation:"/>
     <string id="LymKjMLk" text="Your men have just join your party"/>
@@ -1181,7 +1181,7 @@
     <string id="mZR7eYHa" text="Shield I"/>
     <string id="MzxFIyAQ" text="Show kingdom comparison bars"/>
     <string id="N0MCVBXb" text="Forget It"/>
-    <string id="n3cjEB0X" text="Tools{@Plural}loads of tools{\@}"/>
+    <string id="n3cjEB0X" text="{.p}Інструмент{.R_n20_p}{@Plural}{.p}Ящик{.R_n20_p} інструментів{\@}"/>
     <string id="n3e3g6Rq" text="Bet"/>
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Refining"/>
@@ -1248,7 +1248,7 @@
     <string id="O3dhjtOS" text="Head Armor"/>
     <string id="O69Vhqxk" text="So how much are you going to give us?[rf:convo_angry]"/>
     <string id="o7I8qayN" text="Ha! Nothing like a good jab in the gut to let you know you're alive, eh? Looks like you managed to take down {OPPONENT_COUNT} opponents. Not bad. But that won't bring you any prize money. Now, if I were you, I would go back there and show everyone what I can do..."/>
-    <string id="O8TpGSDA" text="Velvet{@Plural}rolls of velvet{\@}"/>
+    <string id="O8TpGSDA" text="{.m}Оксамит{.R_n20_u}{@Plural}{.p}Рулон{.R_n20_p} оксамиту{\@}"/>
     <string id="O9xpd5bn" text="a baroness"/>
     <string id="oAg4dtbB" text="twenty-fifth"/>
     <string id="oAoTaAWg" text="first"/>
@@ -1395,7 +1395,7 @@
     <string id="qfzkMuLj" text="Artisan"/>
     <string id="qg0WttZb" text="You need to be a part of a Kingdom"/>
     <string id="Qg5suamT" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} but {?FIGHTER_GENDER}she{?}he{\?} has been defeated."/>
-    <string id="QGaIYQpg" text="Fish{@Plural}barrels of fish{\@}"/>
+    <string id="QGaIYQpg" text="{.f}Риба{.R_n10}{@Plural}{.p}Бочка{.R_n10_p2} риби{\@}"/>
     <string id="qgHblOq4" text="You spotted an ambush."/>
     <string id="qgL4P2vO" text="Місто процвітає. Люди виглядають ситими та почуваються досить комфортно."/>
     <string id="QgUej8DP" text="No Active Quest"/>
@@ -1432,7 +1432,7 @@
     <string id="QtXf82OD" text="Weapon should have Thrust {THRUST_DAMAGE_TYPE} Damage"/>
     <string id="quantitysign" text="#"/>
     <string id="qUtYks66" text="Army of {ARMY_LEADER.LINK} is gathering near {SETTLEMENT_NAME}."/>
-    <string id="QWqvGa1P" text="Cow{@Plural}head of cattle{\@}"/>
+    <string id="QWqvGa1P" text="{.f}Корова{.R_n10_p1}{@Plural}{.p}Корова{.R_n10_p1}{\@}"/>
     <string id="QxdINoOA" text="kinswoman"/>
     <string id="QxlDIo3q" text="fifth"/>
     <string id="QY2nuTFB" text="Let's pull back!"/>
@@ -1619,7 +1619,7 @@
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
     <string id="uEiFfbOq" text="{SEASON} {DAY}, {YEAR}"/>
     <string id="uFDiRV1Z" text="({PRIMARY_ROLE})"/>
-    <string id="ufnnUxKb" text="Leather{@Plural}crates of leather{\@}"/>
+    <string id="ufnnUxKb" text="{.f}Дублений{.R_adj} {.f}шкіра{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} дубленої шкіри{\@}"/>
     <string id="uFuDwaYp" text="{HOUR} {?PLURAL_HOURS}hours{?}hour{\?}"/>
     <string id="ug4LiPbb" text="Ranged Weapons IV"/>
     <string id="uGahvbVP" text="Defend siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
@@ -1697,7 +1697,7 @@
     <string id="VPYazFVH" text="Швидкість тичка: "/>
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} increase to settlement loyalty"/>
     <string id="VqpmXU1m" text="Стріляйте у ворогів з арбалета."/>
-    <string id="Vqu67a3b" text="Raw Silk{@Plural}bolts of silk{\@}"/>
+    <string id="Vqu67a3b" text="{.m}Шовк{.R_n20_u}-{.m}сирець{.R_n22_u}{@Plural}{.p}Рулон{.R_n20_p} шовку-сирецю{\@}"/>
     <string id="VRdy76RQ" text="Skirmish"/>
     <string id="vSr60kDj" text="On {DAY_OF_YEAR}, {YEAR}, a child was born to {MOTHER_NAME}."/>
     <string id="VSZGbSEO" text="No matching items."/>
@@ -1745,14 +1745,14 @@
     <string id="wNjhpOOM" text="Apply Exchange"/>
     <string id="wrbea2oa" text="Bolts"/>
     <string id="wshehbFu" text="Mercenaries cannot disband armies."/>
-    <string id="WSk5Sibs" text="Cheese{@Plural}barrels of cheese{\@}"/>
+    <string id="WSk5Sibs" text="{.m}Сир{.R_n20_u}{@Plural}{.p}Бочка{.R_n10_p2} сиру{\@}"/>
     <string id="WSoZkkqD" text="Prison Guard"/>
     <string id="wtDdqXGW" text="Well, I'm glad you respect our ancient and sacred privileges."/>
     <string id="WTR5Lr8W" text="The defenders win when they can move their king to any edge of the board.{newline}The attackers win when they capture the king, or if they can prevent all defenders from moving."/>
     <string id="wTT3Fyzl" text="sir"/>
     <string id="WusvipsF" text="Insufficient funds!"/>
     <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} од"/>
-    <string id="WVqaRKUm" text="Wool{@Plural}loads of wool{\@}"/>
+    <string id="WVqaRKUm" text="{.f}Шерсть{.R_n30}{@Plural}{.p}Тюк{.R_n20_p} шерсті{\@}"/>
     <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} bonus to  wall hit points"/>
     <string id="wXQUXa1P" text="You cannot give anymore focus points to this skill"/>
     <string id="wXwZ778J" text="soldiers"/>
@@ -1794,7 +1794,7 @@
     <string id="XseYJYka" text="Manage"/>
     <string id="xsIU28Za" text="Nice! No more sleeping on hard cold rock and dining on stringy squirrel."/>
     <string id="xSKFr3Rs" text="Wait"/>
-    <string id="xsu6bPTv" text="Flax{@Plural}sacks of flax{\@}"/>
+    <string id="xsu6bPTv" text="{.m}Льон{.R_n20_u}{@Plural}{.p}Мішок{.R_n22_p} льону{\@}"/>
     <string id="xT8955dO" text="Civilian Outfit"/>
     <string id="XTubeiTb" text="Shield III"/>
     <string id="Xv6knZP8" text="-{PRISONERS_AMOUNT} Prisoner{?ISPLURAL}s{?} {\?}"/>
@@ -1854,7 +1854,7 @@
     <string id="yOJAiSf4" text="No formation"/>
     <string id="YOSEIvyf" text="Збалансованість: "/>
     <string id="yQiDdDPY" text="Light Horse"/>
-    <string id="yQTBY9ie" text="Jewelry{@Plural}items of jewelry{\@}"/>
+    <string id="yQTBY9ie" text="{.p}Коштовність{.R_n30_p}{@Plural}{.p}Коштовність{.R_n30_p}{\@}"/>
     <string id="yRQDL2ab" text="Garrison:"/>
     <string id="yRTV90eN" text="You need to select an outcome."/>
     <string id="yrvH6Oa1" text="Wait in the starting position!"/>
@@ -1924,7 +1924,7 @@
     <string id="ZvoyX6DX" text="Battanian"/>
     <string id="zw5IEUuD" text="{TITLE}: Log updated."/>
     <string id="Zw60OTJe" text="Переважно люди задоволені, хоча можна почути деякі скарги на зростання цін, нерівномірний розподіл багатства та наплив людей із сіл."/>
-    <string id="Zwb65ufG" text="Clay{@Plural}loads of clay{\@}"/>
+    <string id="Zwb65ufG" text="{.f}Глина{.R_n10}{@Plural}{.p}Мішок{.R_n22_p} глини{\@}"/>
     <string id="zWoj91XY" text="BaghChal"/>
     <string id="ZwyPnboN" text="+{BONUS_AMOUNT} bonus to settlement loyalty"/>
     <string id="zX4C3332" text="You shall be slain, then. Ready yourself."/>
