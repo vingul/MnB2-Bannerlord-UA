@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="02c5bQSM" text="Discard"/>
+    <string id="02c5bQSM" text="Викинути"/>
     <string id="02E0oSJm" text="FOUL! Your opponent was fighting outside the joust. {?OPPONENT_GENDER}He{?}She{\?} has been disqualified!"/>
     <string id="03mPaWum" text="Kingdom"/>
     <string id="04GuLxE1" text="You cannot change the leader of your own party or disband it"/>
@@ -88,7 +88,7 @@
     <string id="2wclahIJ" text="Метання"/>
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% bonus to taxes"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}days {?}day {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}hours{?}hour{\?}{\?}"/>
-    <string id="300TAI7u" text="Sell All"/>
+    <string id="300TAI7u" text="Продати все"/>
     <string id="33ghdWWi" text="Other Policies"/>
     <string id="33hHRM8r" text="Opponent's Turn"/>
     <string id="36hbMBhb" text="On {DAY_OF_YEAR}, {YEAR}, the {FORMAL_NAME} was destroyed. It will not fulfil its destiny to {?PLAYER_WANTS_RESTORE}restore{?}destroy{\?} the Empire as you had hoped."/>
@@ -204,7 +204,7 @@
     <string id="6S5JjlP2" text="Cover"/>
     <string id="6SFktFH3" text="Medium Armor"/>
     <string id="6UUymZhL" text="the Empire"/>
-    <string id="6Xl9F8Oa" text="Shops in Town"/>
+    <string id="6Xl9F8Oa" text="Міські крамниці"/>
     <string id="6XYG7bux" text="You're going to spend {AMOUNT}{INFLUENCE_ICON}"/>
     <string id="72Rasm5f" text="We have nothing - no silver, no wares."/>
     <string id="77aNVVE0" text="Renown Bonus"/>
@@ -355,7 +355,7 @@
     <string id="AkUpgiBl" text="Tier {TIER_LEVEL}"/>
     <string id="alEG3BOa" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {CLAN_LEADER}."/>
     <string id="alMmQrhK" text="Party Morale"/>
-    <string id="AmbKQ7LT" text="Transfer"/>
+    <string id="AmbKQ7LT" text="Перемістити"/>
     <string id="AMhvD9om" text="Командувач армії"/>
     <string id="anHqaNK0" text="{.f}королева{.R_n10_ko_p1}"/>
     <string id="anrHk7ea" text="{PARTY} is leading the attack on the enemy. You'll be joining {?ARMY_COMMANDER_GENDER}her{?}him{\?} with your troops."/>
@@ -415,7 +415,7 @@
     <string id="bbmrHzRF" text="Send Clan Members To {SETTLEMENT_NAME}"/>
     <string id="bBXGPgwe" text="my daughter {REFERING_HERO.LINK}"/>
     <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Begum{?}Beg{\?}"/>
-    <string id="bC5aMfG0" text="Villages"/>
+    <string id="bC5aMfG0" text="Села"/>
     <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}She{?}He{\?} is prisoner of {PRISON_PARTY_LEADER.LINK}."/>
     <string id="BD8Mi02a" text="{ASKED_LORD.LINK} is currently fugitive."/>
     <string id="BdFaNDom" text="This hero is already an alley leader."/>
@@ -616,7 +616,7 @@
     <string id="ebbyLN2i" text="Towns"/>
     <string id="eDVvDS1i" text="Villagers"/>
     <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus to construction"/>
-    <string id="eEmbb1MR" text="Production(s)"/>
+    <string id="eEmbb1MR" text="Виробництво"/>
     <string id="eHBvuPk6" text="twenty-sixth"/>
     <string id="EHkzaZBi" text="Tournament of {SETTLEMENT_NAME}"/>
     <string id="ehsuyvdT" text="If you proceed, the party will be without a leader for {TRAVEL_DURATION} while your clan members travel. It will not be able to join any armies until its new leader arrives. Are you sure?"/>
@@ -635,11 +635,11 @@
     <string id="eMwbzp49" text="Battle lost..."/>
     <string id="enhza8zr" text="Фракція"/>
     <string id="eNQgzubm" text="Бийтеся в пішому порядку. Пересувайтеся по карті пішки."/>
-    <string id="entirestackdiscarditems" text="Hold [{KEY_NAME}] to do all"/>
-    <string id="entirestackrecruitunits" text="Hold [{KEY_NAME}] to do all"/>
-    <string id="entirestacktakeitems" text="Hold [{KEY_NAME}] to do all"/>
-    <string id="entirestacktransfertroops" text="Hold [{KEY_NAME}] to do all"/>
-    <string id="entirestackupgradeunits" text="Hold [{KEY_NAME}] to do all"/>
+    <string id="entirestackdiscarditems" text="Утримуйте [{KEY_NAME}], щоб викинуте все"/>
+    <string id="entirestackrecruitunits" text="Утримуйте [{KEY_NAME}], щоб найняти всіх"/>
+    <string id="entirestacktakeitems" text="Утримуйте [{KEY_NAME}], щоб взяти все"/>
+    <string id="entirestacktransfertroops" text="Утримуйте [{KEY_NAME}], щоб перемістити все"/>
+    <string id="entirestackupgradeunits" text="Утримуйте [{KEY_NAME}], щоб покращити всіх"/>
     <string id="ENzvOHsA" text="{ASKED_LORD.LINK} is in the field and {?ASKED_LORD.GENDER}she{?}he{\?} should be close to {SETTLEMENT_NAME} at the moment."/>
     <string id="eob9goyW" text=" and "/>
     <string id="EOhmOITp" text="Track Related Quest Objects"/>
@@ -679,7 +679,7 @@
     <string id="EzrK2tnA" text="You cannot manage your army while in battle"/>
     <string id="F3U9AtmF" text="ninth"/>
     <string id="F4RMyaR5" text="Ви зіткнулись з {._}{PARTY}{.v_oru}."/>
-    <string id="F5UPr9jh" text="Take All"/>
+    <string id="F5UPr9jh" text="Взяти все"/>
     <string id="F6GhrriD" text="Create Kingdom"/>
     <string id="f6gSyvnC" text="Стріляйте у ворогів з лука. Виконуйте складні постріли з великої відстані."/>
     <string id="f6pjlKdz" text="Yesterday"/>
@@ -703,11 +703,11 @@
     <string id="fEXuXAl1" text="Army Morale : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}"/>
     <string id="FfVdGZsj" text="+{BONUS_AMOUNT} bonus to food production"/>
     <string id="Fg9qCGUu" text="{.m}Виноград{.R_n20}{@Plural}{.p}Ящик{.R_n20_p} винограду{\@}"/>
-    <string id="fivestackdiscarditems" text="Hold [{KEY_NAME}] to do x5"/>
-    <string id="fivestackrecruitunits" text="Hold [{KEY_NAME}] to do x5"/>
-    <string id="fivestacktakeitems" text="Hold [{KEY_NAME}] to do x5"/>
-    <string id="fivestacktransfertroops" text="Hold [{KEY_NAME}] to do x5"/>
-    <string id="fivestackupgradeunits" text="Hold [{KEY_NAME}] to do x5"/>
+    <string id="fivestackdiscarditems" text="Утримуйте [{KEY_NAME}], щоб викинути x5"/>
+    <string id="fivestackrecruitunits" text="Утримуйте [{KEY_NAME}], щоб найняти x5"/>
+    <string id="fivestacktakeitems" text="Утримуйте [{KEY_NAME}], щоб взяти x5"/>
+    <string id="fivestacktransfertroops" text="Утримуйте [{KEY_NAME}], щоб перемістити x5"/>
+    <string id="fivestackupgradeunits" text="Утримуйте [{KEY_NAME}], щоб покращити x5"/>
     <string id="FjRiPhEI" text="Routed Party"/>
     <string id="FkhJz0po" text="Location"/>
     <string id="FLa5OuyK" text="Wanderer"/>
@@ -897,7 +897,7 @@
     <string id="Igoid3sR" text="Propose to expel this clan from the kingdom ({SUPPORT}%)"/>
     <string id="ihVHfUFT" text="Formation"/>
     <string id="iIBqTcKx" text="Attacks can knock down opponents"/>
-    <string id="iisvVbDI" text="Buy All"/>
+    <string id="iisvVbDI" text="Купити все"/>
     <string id="IiyN5krb" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE}){newline}{TRAIT_DESCRIPTION}"/>
     <string id="IK2IPJi1" text="{.f}Сіль{.R_n30}{@Plural}{.p}Мішок{.R_n22_p} солі{\@}"/>
     <string id="iKUXVaFf" text="Influence cost: {reg0}"/>
@@ -1007,7 +1007,7 @@
     <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are protecting the general."/>
     <string id="KawqKhwh" text="Heavy Armor"/>
     <string id="KC5AZohd" text="Greetings, traveler. Welcome to our forest. We're going to have to collect a small toll.[rf:convo_mocking_revenge]"/>
-    <string id="KcQiDE6b" text="Can sell at {SETTLEMENT_NAME} for: {SELL_PRICE}"/>
+    <string id="KcQiDE6b" text="Можна продати в {SETTLEMENT_NAME}{.v_dav} за {SELL_PRICE}"/>
     <string id="kdV0tx9K" text="Hello, traveler. Hope you brought your purse. See, we're what you might call brigands, and I'm afraid we can't let you pass without paying us a bit of coin.[if:convo_mocking_revenge]"/>
     <string id="kDV7wCtI" text="Complete in: {PREPARATION_TIME}"/>
     <string id="KE9rdUhD" text="- {HERO_NAME}"/>
@@ -1627,7 +1627,7 @@
     <string id="UgMbCUMO" text="my father {REFERING_HERO.LINK}"/>
     <string id="ugX2RRDY" text="I was taken and held for ransom"/>
     <string id="Uh057UUb" text="Puluc"/>
-    <string id="uhcIXeba" text="You are discarding items. Are you sure?"/>
+    <string id="uhcIXeba" text="Ви викидаєте предмети. Ви впевнені, що хочете це зробити?"/>
     <string id="UI0q8rWw" text="Livestock"/>
     <string id="uinDitbl" text="We must breach the walls."/>
     <string id="UIqPXN62" text="Вражайте ворогів метальною зброєю."/>
@@ -1833,7 +1833,7 @@
     <string id="YevUiidU" text="Your relation is decreased by {MAGNITUDE} to {VALUE} with {CLAN_LEADER}."/>
     <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} (tariff)"/>
     <string id="yfa7tpbK" text="All"/>
-    <string id="yFl9N7wz" text="Take"/>
+    <string id="yFl9N7wz" text="Взяти"/>
     <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a skirmish line."/>
     <string id="yG3YUySN" text="Western Empire"/>
     <string id="ygY1oKQD" text="We are at your service, {?PLAYER.GENDER}madam{?}sir{\?}. Point us in the direction of those who need hurting, and we'll do the rest.[ib:convo_approving]"/>
@@ -1872,11 +1872,11 @@
     <string id="YxEcX6pS" text="On {DAY_OF_YEAR}, {YEAR}, you found a second piece of the Dragon Banner of Calradios."/>
     <string id="YxKHEUEX" text="The tournament has ended. {TOURNAMENT_FINAL_PARTICIPANT_A} wins by beating {TOURNAMENT_FINAL_PARTICIPANT_B} in the final round. You were eliminated at round {TOURNAMENT_ELIMINATED_ROUND}."/>
     <string id="YYdPfXEP" text="Tablut is a game of attackers (black) versus defenders (white).{newline}The attackers outnumber the defenders, but the defenders don't have to capture to win. Their main objective is to secure their king (center pawn).{newline}The king follows the same movement and capturing rules as the other pawns."/>
-    <string id="YYvzM5Dh" text="Discard All"/>
+    <string id="YYvzM5Dh" text="Викинути все"/>
     <string id="yzIOcJoK" text="A player wins if his opponent has been blocked and can no longer make any moves."/>
     <string id="yZzlItBW" text="this party"/>
     <string id="z0c2pDhZ" text="At Peace"/>
-    <string id="z3AvJZMt" text="Can buy at {SETTLEMENT_NAME} for: {BUY_PRICE}"/>
+    <string id="z3AvJZMt" text="Можна купити у {SETTLEMENT_NAME}{.v_dav} за {BUY_PRICE}"/>
     <string id="Z3yCe1HS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are regrouping."/>
     <string id="Z5kGFH7k" text="pc."/>
     <string id="Z5RlxyPJ" text="You've been held prisoner for {NUMBER_OF_DAYS} {?PLURAL}days{?}day{\?} by {PARTY_NAME}."/>
