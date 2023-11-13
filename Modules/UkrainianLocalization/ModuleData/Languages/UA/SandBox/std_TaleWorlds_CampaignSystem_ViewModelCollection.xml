@@ -189,7 +189,7 @@
     <string id="ggpRTQQl" text="Лідер загону"/>
     <string id="Gp2vmZGZ" text="{PERKS}"/>
     <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans."/>
-    <string id="gsVtO9A7" text="Militia"/>
+    <string id="gsVtO9A7" text="Ополчення"/>
     <string id="gTbE6t9I" text="Following requirements are not met:"/>
     <string id="gu5xmV0E" text="No other {WORKSHOP_NAME} in this town."/>
     <string id="gUUnZNGk" text="Moving to {SETTLEMENT_NAME} to be the new governor"/>
@@ -242,7 +242,7 @@
     <string id="jdbT6nc9" text="Each {SUPPORTER_RANK} supporter provides {INFLUENCE_BONUS} per day."/>
     <string id="JIr3Jc7b" text="Relinquish all holdings"/>
     <string id="JJiKk4ow" text="Select your family name: "/>
-    <string id="jlgjLDo7" text="Garrison"/>
+    <string id="jlgjLDo7" text="Гарнізон"/>
     <string id="jQdBl4hf" text="Governor of "/>
     <string id="JTxI3sW2" text="Besieging {TARGET_SETTLEMENT}"/>
     <string id="jVLJTuwl" text="Learn more"/>
@@ -292,13 +292,13 @@
     <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})"/>
     <string id="mountTier" text="Рівень їздової тварини: "/>
     <string id="mp68RYnD" text="Party Size Limit"/>
-    <string id="MqCH7R4A" text="Security"/>
+    <string id="MqCH7R4A" text="Безпека"/>
     <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
     <string id="MT4b8H9h" text="Unknown"/>
     <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}"/>
     <string id="myMbtwXi" text="Morale Bonus"/>
     <string id="N63XYX2r" text="Support"/>
-    <string id="N6QTvjMf" text="Prisoners"/>
+    <string id="N6QTvjMf" text="Полонені"/>
     <string id="NAA4pajB" text="You need to leave your current army to create a new one."/>
     <string id="NC9bbrt5" text="End-of-day denars"/>
     <string id="NcYbdiyT" text="Change Leader"/>
@@ -342,7 +342,7 @@
     <string id="P5YtNXHR" text="{LEADER.NAME}{.o} Party"/>
     <string id="p7raHA9x" text="Refinement"/>
     <string id="pBVbKYwo" text="You will lose the ownership of the alley and the troops in it. Are you sure?"/>
-    <string id="PDdh1sBj" text="Name"/>
+    <string id="PDdh1sBj" text="Назва"/>
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}"/>
     <string id="PJZ8QYgA" text="L-I : {BONUS}"/>
     <string id="pkbUiKFJ" text="Currently fighting an enemy."/>
@@ -509,7 +509,7 @@
     <string id="yD7rL5Nc" text="Helping ally party to defend {TARGET_SETTLEMENT}."/>
     <string id="YifFZaG7" text="Party Owner"/>
     <string id="YJaNtktT" text="Recruit All"/>
-    <string id="YO0x7ZAo" text="Loyalty"/>
+    <string id="YO0x7ZAo" text="Вірність"/>
     <string id="ysireFjT" text="Sell This Workshop for {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="YT9giTet" text="Ліміт вивчання"/>
     <string id="yUVv3z5V" text="Patrolling around {TARGET_SETTLEMENT}."/>
@@ -526,7 +526,7 @@
     <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
     <string id="zlcMGAbn" text="Previous Page"/>
     <string id="zLFsnaqR" text="No Governor"/>
-    <string id="zMMqgxb1" text="Type"/>
+    <string id="zMMqgxb1" text="Тип"/>
     <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss."/>
     <string id="ZUgoQ1Ws" text="Horse Type"/>
     <string id="zWaVxD6T" text="Party Speed"/>
