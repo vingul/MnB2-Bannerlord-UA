@@ -578,23 +578,23 @@
     <string id="zZ2G7uIO" text="Kettle Helmet over Mail"/>
     <string id="17tuCyeb" text="Askarat{@Plural}Askarat horses{\@}"/>
     <string id="1DqnZxiC" text="Battanian Pony{@Plural}Battanian ponies{\@}"/>
-    <string id="1jqxlEkT" text="Spice{@Plural}sacks of spice{\@}"/>
+    <string id="1jqxlEkT" text="{.p}Прянощі{.R_np2}{@Plural}{.p}Мішок{.R_n22_p} прянощів{\@}"/>
     <string id="1O761hqN" text="Pack Camel{@Plural}pack camels{\@}"/>
     <string id="2SUb8jNP" text="Mule Harness with Baskets"/>
     <string id="2WB0qeAi" text="Steppe Horse{@Plural}steppe horses{\@}"/>
     <string id="2wFal5Nd" text="Storm Charger{@Plural}Storm Chargers{\@}"/>
     <string id="33aaUcaX" text="Battania Horse Harness"/>
-    <string id="45kZUyjh" text="Olives{@Plural}barrels of olives{\@}"/>
+    <string id="45kZUyjh" text="{.p}Оливка{.R_n10_p2}{@Plural}{.p}Бочка{.R_n10_p2} оливок{\@}"/>
     <string id="7S6BjECG" text="Mule Harness with Pack"/>
     <string id="8el5a3sF" text="Chicken"/>
     <string id="9X2l53vY" text="Silver Ore{@Plural}loads of silver ore{\@}"/>
     <string id="ABWvOCTE" text="Nahasa Camel{@Plural}Nahasa camels{\@}"/>
-    <string id="ADJBbfbQ" text="Fur{@Plural}packs of fur{\@}"/>
+    <string id="ADJBbfbQ" text="{.n}Хутро{.R_n2n}{@Plural}{.p}Тюк{.R_n20_p} хутра{\@}"/>
     <string id="amqJbdDV" text="Scale Barding"/>
     <string id="ApiPJ1NJ" text="Husnphree{@Plural}Husnphree camels{\@}"/>
     <string id="aqrJqQqx" text="Bedouin Cloth Saddle"/>
     <string id="avXZdUvi" text="Fur Saddle"/>
-    <string id="awQrcrt2" text="Pottery{@Plural}crates of pottery{\@}"/>
+    <string id="awQrcrt2" text="{.f}Кераміка{.R_n10_p1}{@Plural}{.p}Ящик{.R_n20_p} кераміки{\@}"/>
     <string id="b56X0QOh" text="Wadar Hotblood{@Plural}Wadar Hotbloods{\@}"/>
     <string id="b5BDaOva" text="Battanian Hobby{@Plural}Battanian hobbies{\@}"/>
     <string id="b6JvcSiQ" text="Cat"/>
@@ -667,7 +667,7 @@
     <string id="ufnnUxKb" text="Leather{@Plural}crates of leather{\@}"/>
     <string id="uRqm1nJ7" text="Light Saddle"/>
     <string id="uTt4HX6V" text="Tyal Horse{@Plural}Tyal horses{\@}"/>
-    <string id="VbL6GFmy" text="Butter{@Plural}casks of butter{\@}"/>
+    <string id="VbL6GFmy" text="{.n}Масло{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} масла{\@}"/>
     <string id="Vj4ZBxm5" text="Reinforced Plate Barding"/>
     <string id="voORddjl" text="Cossian{@Plural}Cossian horses{\@}"/>
     <string id="vPAHwC3X" text="Stolen Goods"/>
