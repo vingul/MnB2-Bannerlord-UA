@@ -1292,7 +1292,7 @@
     <string id="UBFS1JLj" text="I have no problem with the boy anymore, okay? Just leave me alone."/>
     <string id="ubnVca4L" text="So, yeah... My {RANDOM_RELATIVE} says he took some {._}{PLURAL(ITEM_NAME)} to {TOWN_NAME} and made {PRICE_DIFF}{GOLD_ICON} in profit. Course he might be talking out of his arse."/>
     <string id="udD7Y7mO" text="Thank you, my {?PLAYER.GENDER}lady{?}sir{\?}, for protecting me. I will go and tell {ISSUE_GIVER.LINK} of your success here."/>
-    <string id="UEbesbKZ" text="Власне, я передум{?PLAYER.GENDER}ала{?}ав{/?}."/>
+    <string id="UEbesbKZ" text="Власне, я передум{?PLAYER.GENDER}ала{?}ав{\?}."/>
     <string id="UesQ8a2B" text="What kind of workshop do you want to open here?"/>
     <string id="UEY5aQ2l" text="I'm here to rob {TARGET_MERCHANT.NAME}, not be {?TARGET_MERCHANT.GENDER}her{?}his{\?} lackey. Now, cough up the goods or fight."/>
     <string id="UfpmWfbG" text="{PLAYER.NAME}, you are a {?PLAYER.GENDER}lady{?}lord{\?} without a master, holding lands in your name, with only the barest scrap of a claim to legitimacy. No king in Calradia would accept a lasting peace with you."/>
