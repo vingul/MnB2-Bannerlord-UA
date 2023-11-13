@@ -275,7 +275,7 @@
     <string id="8ucLajpU" text="One Handed Axe"/>
     <string id="8UFjXbbW" text="Flank{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
     <string id="8ZZgNNaY" text="{USE_KEY}"/>
-    <string id="923438xA" text="Nice, {PLAYER.LINK}, nice. You managed to take down no less than {OPPONENT_COUNT} opponents. You were a crowd favorite, for your pluck. And of course, you earned a prize money of {PRIZE}{GOLD_ICON}."/>
+    <string id="923438xA" text="Чудово, {PLAYER.LINK}, чудово. Тобі вдалося здолати {OPPONENT_COUNT} супротивник{#GET_PLURAL_VALUE(OPPONENT_COUNT)}а{#}а{#}ів{\#}. Твоя відвага підкорила серця публіки. Також ти зароби{?PLAYER.GENDER}ла{?}в{\?} {PRIZE}{GOLD_ICON}."/>
     <string id="929Lxhde" text="You will lose {INFLUENCE_COST} influence if you abandon the army."/>
     <string id="92M0Pb5T" text="Розвідник"/>
     <string id="984Ink0j" text="Arrow"/>
@@ -1347,7 +1347,7 @@
     <string id="PpPbWYPB" text="Eligible for being a Mercenary"/>
     <string id="pPRYdrk7" text="Army Management"/>
     <string id="pq48aN8d" text="Morale: {reg1}"/>
-    <string id="pQ9Sxily" text="Congratulations, champion! Your fight there was something to remember! As the last one standing, you of course win the top prize: {PRIZE}{GOLD_ICON}."/>
+    <string id="pQ9Sxily" text="Вітаю, чемпіоне! Твій бій був просто неперевершеним! Як останній, хто залишився на ногах, ти, звичайно, отримуєш головний приз: {PRIZE}{GOLD_ICON}."/>
     <string id="PqfS5lgq" text="{ABSORBED_AMOUNT} damage has been absorbed by {ARMOR_AMOUNT} armor."/>
     <string id="pqfz386V" text="Лідер клану"/>
     <string id="prs0jRAy" text="всього"/>
