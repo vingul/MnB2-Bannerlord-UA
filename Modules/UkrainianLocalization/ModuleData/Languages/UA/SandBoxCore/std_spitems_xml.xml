@@ -587,7 +587,7 @@
     <string id="45kZUyjh" text="{.p}Оливка{.R_n10_p2}{@Plural}{.p}Бочка{.R_n10_p2} оливок{\@}"/>
     <string id="7S6BjECG" text="Mule Harness with Pack"/>
     <string id="8el5a3sF" text="Chicken"/>
-    <string id="9X2l53vY" text="Silver Ore{@Plural}loads of silver ore{\@}"/>
+    <string id="9X2l53vY" text="{.f}Срібний{.R_adj} {.f}руда{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} срібної руди{\@}"/>
     <string id="ABWvOCTE" text="Nahasa Camel{@Plural}Nahasa camels{\@}"/>
     <string id="ADJBbfbQ" text="{.n}Хутро{.R_n2n}{@Plural}{.p}Тюк{.R_n20_p} хутра{\@}"/>
     <string id="amqJbdDV" text="Scale Barding"/>
@@ -606,10 +606,10 @@
     <string id="CjjzWA1r" text="Desert War Horse{@Plural}desert war horses{\@}"/>
     <string id="daI3Ybk8" text="Glintor Pony{@Plural}Glintor ponies{\@}"/>
     <string id="ds1nrqNv" text="Cataphract Scale Barding"/>
-    <string id="DvGueBrU" text="Linen{@Plural}rolls of linen{\@}"/>
+    <string id="DvGueBrU" text="{.n}Полотно{.R_n2n}{@Plural}{.p}Рулон{.R_n20_p} полотна{\@}"/>
     <string id="EfRKaKs0" text="Steppe Fur Harness"/>
     <string id="Ejx5lXjk" text="Revyl Chaser"/>
-    <string id="ELsDFwAD" text="Wine{@Plural}amphorae of wine{\@}"/>
+    <string id="ELsDFwAD" text="{.n}Вино{.R_n2n}{@Plural}{.p}Амфора{.R_n10_p1} вина{\@}"/>
     <string id="f2O1XjYd" text="Dog"/>
     <string id="FhTUc64z" text="Goose"/>
     <string id="FkqbAeoY" text="Swenryn Pony{@Plural}Swenryn ponies{\@}"/>
@@ -617,12 +617,12 @@
     <string id="GSiBXOfg" text="Sturgian Trotter{@Plural}Sturgian trotters{\@}"/>
     <string id="HAcujhib" text="Camel{@Plural}camels{\@}"/>
     <string id="he5mGIMh" text="Charger{@Plural}chargers{\@}"/>
-    <string id="HiSzYWeh" text="Beer{@Plural}casks of beer{\@}"/>
+    <string id="HiSzYWeh" text="{.n}Пиво{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} пива{\@}"/>
     <string id="HJriXlcb" text="Reinforced Chainmail Barding"/>
     <string id="hunterhorse" text="Hunter"/>
     <string id="i2QlHUVW" text="Cataphract Half Scale Barding"/>
     <string id="IIzhL9gt" text="War Horse{@Plural}war horses{\@}"/>
-    <string id="IK2IPJi1" text="Salt{@Plural}sacks of salt{\@}"/>
+    <string id="IK2IPJi1" text="{.f}Сіль{.R_n30}{@Plural}{.p}Мішок{.R_n22_p} солі{\@}"/>
     <string id="iquQ9dro" text="Half Mail Barding"/>
     <string id="ItUyYjdd" text="Execution Axe"/>
     <string id="JHef9oad" text="Mule Harness with Bags"/>
@@ -631,7 +631,7 @@
     <string id="K4uryqOO" text="Battanian Thoroughbred{@Plural}Battanian thoroughbreds{\@}"/>
     <string id="kKuVy1jT" text="Khamseen{@Plural}Khamseen horses{\@}"/>
     <string id="Kp9kslko" text="Darshi Horse{@Plural}Darshi horses{\@}"/>
-    <string id="lULBZ714" text="Oil{@Plural}amphorae of oil{\@}"/>
+    <string id="lULBZ714" text="{.f}Олія{.R_n10}{@Plural}{.p}Амфора{.R_n10_p1} олії{\@}"/>
     <string id="LzlQUcak" text="Reinforced Mail Barding"/>
     <string id="lZZOQsxc" text="Rough Cavalry Saddle"/>
     <string id="meARhlZC" text="Valanby Courser{@Plural}Valanby coursers{\@}"/>
@@ -641,10 +641,10 @@
     <string id="nhaiQ9oX" text="Steppe Hunter{@Plural}Steppe hunters{\@}"/>
     <string id="NNUXGwTc" text="Karahan{@Plural}Karahan horses{\@}"/>
     <string id="NRB3V6yP" text="Reinforced Half Plate Barding"/>
-    <string id="NtsdmmW9" text="Date Fruit{@Plural}sacks of date fruit{\@}"/>
+    <string id="NtsdmmW9" text="{.p}Фінік{.R_n20_p}{@Plural}{.p}Мішок{.R_n22_p} з фініками{\@}"/>
     <string id="NUmDuEqI" text="Imperial Riding Harness"/>
     <string id="O37kzdXO" text="Light Harness"/>
-    <string id="O8TpGSDA" text="Velvet{@Plural}rolls of velvet{\@}"/>
+    <string id="O8TpGSDA" text="{.m}Оксамит{.R_n20_u}{@Plural}{.p}Рулон{.R_n20_p} оксамиту{\@}"/>
     <string id="OaQE1Frx" text="Steppe Saddle"/>
     <string id="OflbQCw6" text="Camel Saddle with Light Load"/>
     <string id="Og0FswFV" text="Omor Trotter{@Plural}Omor trotters{\@}"/>
@@ -654,17 +654,17 @@
     <string id="pb2ELRZQ" text="Saddle Horse{@Plural}saddle horses{\@}"/>
     <string id="Pd77RH8P" text="Rouncey{@Plural}rouncey horses{\@}"/>
     <string id="q1z4FQub" text="Camel Saddle"/>
-    <string id="QGaIYQpg" text="Fish{@Plural}barrels of fish{\@}"/>
+    <string id="QGaIYQpg" text="{.f}Риба{.R_n10}{@Plural}{.p}Бочка{.R_n10_p2} риби{\@}"/>
     <string id="qNNja5IF" text="Lamellar Half Barding"/>
     <string id="Qqdl6fbM" text="Rugged Bedouin Saddle"/>
     <string id="quDh9Vlu" text="Desert Horse{@Plural}desert horses{\@}"/>
-    <string id="QWqvGa1P" text="Cow{@Plural}head of cattle{\@}"/>
+    <string id="QWqvGa1P" text="{.f}Корова{.R_n10_p1}{@Plural}{.p}Корова{.R_n10_p1}{\@}"/>
     <string id="r8NS1wz7" text="Pureblood{@Plural}pureblood horses{\@}"/>
     <string id="rmjcrnll" text="Palmatian{@Plural}Palmatian horses{\@}"/>
     <string id="rO0oKtAo" text="Campaign Banner Small"/>
     <string id="TXpQetkh" text="War Camel{@Plural}war camels{\@}"/>
     <string id="U3SWNkFt" text="Work Horse{@Plural}work horses{\@}"/>
-    <string id="ufnnUxKb" text="Leather{@Plural}crates of leather{\@}"/>
+    <string id="ufnnUxKb" text="{.f}Дублений{.R_adj} {.f}шкіра{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} дубленої шкіри{\@}"/>
     <string id="uRqm1nJ7" text="Light Saddle"/>
     <string id="uTt4HX6V" text="Tyal Horse{@Plural}Tyal horses{\@}"/>
     <string id="VbL6GFmy" text="{.n}Масло{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} масла{\@}"/>
@@ -672,24 +672,24 @@
     <string id="voORddjl" text="Cossian{@Plural}Cossian horses{\@}"/>
     <string id="vPAHwC3X" text="Stolen Goods"/>
     <string id="VqCS28U1" text="Mule{@Plural}mules{\@}"/>
-    <string id="Vqu67a3b" text="Raw Silk{@Plural}bolts of silk{\@}"/>
+    <string id="Vqu67a3b" text="{.m}Шовк{.R_n20_u}-{.m}сирець{.R_n22_u}{@Plural}{.p}Рулон{.R_n20_p} шовку-сирецю{\@}"/>
     <string id="vRIpgxhi" text="Fortunas Choice"/>
     <string id="vXsifw1K" text="Asaligat{@Plural}Asaligat horses{\@}"/>
     <string id="w6Oz5viK" text="Midlands Palfrey{@Plural}Midland palfreys{\@}"/>
     <string id="W8r7A7qH" text="Half Scaled Barding"/>
     <string id="Wj98Otmo" text="Steppe Charger{@Plural}Steppe Chargers{\@}"/>
-    <string id="WSk5Sibs" text="Cheese{@Plural}barrels of cheese{\@}"/>
-    <string id="WVqaRKUm" text="Wool{@Plural}loads of wool{\@}"/>
+    <string id="WSk5Sibs" text="{.m}Сир{.R_n20_u}{@Plural}{.p}Бочка{.R_n10_p2} сиру{\@}"/>
+    <string id="WVqaRKUm" text="{.f}Шерсть{.R_n30}{@Plural}{.p}Тюк{.R_n20_p} шерсті{\@}"/>
     <string id="XkwOTdVQ" text="Celtic Frost"/>
-    <string id="xsu6bPTv" text="Flax{@Plural}sacks of flax{\@}"/>
+    <string id="xsu6bPTv" text="{.m}Льон{.R_n20_u}{@Plural}{.p}Мішок{.R_n22_p} льону{\@}"/>
     <string id="Yh7Dorsr" text="Striped Leather Harness"/>
-    <string id="yQTBY9ie" text="Jewelry{@Plural}items of jewelry{\@}"/>
+    <string id="yQTBY9ie" text="{.p}Коштовність{.R_n30_p}{@Plural}{.p}Коштовність{.R_n30_p}{\@}"/>
     <string id="yy7RvQKN" text="Bo staff"/>
     <string id="ZbsGBv10" text="Hog"/>
     <string id="ZgVVPGTb" text="Grapes{@Plural}sacks of grapes{\@}"/>
     <string id="ZJYVpjuR" text="Camel Saddle with Heavy Load"/>
     <string id="zPbDZ9VA" text="Bedouin Common Saddle"/>
-    <string id="Zwb65ufG" text="Clay{@Plural}loads of clay{\@}"/>
+    <string id="Zwb65ufG" text="{.f}Глина{.R_n10}{@Plural}{.p}Мішок{.R_n22_p} глини{\@}"/>
     <string id="18ZFPXsO" text="Huscarl Plated Boots"/>
     <string id="4KZekKff" text="Tied Boots"/>
     <string id="4Ygp7P0Y" text="Highborn Leather Boots"/>
