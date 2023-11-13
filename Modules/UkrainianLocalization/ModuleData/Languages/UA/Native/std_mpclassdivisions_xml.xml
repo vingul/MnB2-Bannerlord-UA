@@ -153,7 +153,7 @@
     <string id="i6OSr5QM" text="Range Bow"/>
     <string id="IAhuOhEW" text="You are prepared for Battle. Gain a shield and extra arrows."/>
     <string id="IFqtwpb0" text="Пікінер"/>
-    <string id="IHKXNP9H" text="Tournament Master"/>
+    <string id="IHKXNP9H" text="{.m}Майстер{.R_n22_a_ke} арени"/>
     <string id="iHljS6n5" text="Masked Nightmare"/>
     <string id="iISeUaCU" text="Your warrior code forbids you from dying. You are more resistant to damage taken.{newline} {newline}Grants Small Shield{newline} {newline}-10% Damage Taken"/>
     <string id="ILVb8Klx" text="Your experience as Village Militia made you hardened. You take less damage.{newline} {newline}Grants Throwing Stones{newline} {newline}-5% Damage taken"/>
