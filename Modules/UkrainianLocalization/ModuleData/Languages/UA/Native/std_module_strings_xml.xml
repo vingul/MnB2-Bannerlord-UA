@@ -248,7 +248,7 @@
     <string id="7zUWqY3O" text="Left"/>
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% reduced militia during rebellion"/>
     <string id="83Yt9rbK" text="Breached"/>
-    <string id="87qtKk4K" text="Подивитися раунд"/>
+    <string id="87qtKk4K" text="Дивитися"/>
     <string id="87vr9BHq" text="Керує провулком в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="893hzVCQ" text="&lt;b&gt;Fire Mangonel&lt;/b&gt;{NEWLINE}Throws jars filled with Greek fire, combines the already deadly power of mangonels with fire."/>
     <string id="8apwrVjc" text="Additional Clan Party"/>
@@ -1278,7 +1278,7 @@
     <string id="OLZqZZF3" text="If you proceed, {GOVERNOR.NAME} will travel for {TRAVEL_DURATION} to become the new governor of {SETTLEMENT_NAME}. While traveling, {GOVERNOR.NAME} will not be available and you will not be able to change the governor of {SETTLEMENT_NAME} until {GOVERNOR.NAME} arrives. Are you sure?"/>
     <string id="ONGv27TH" text="Now out of my sight, you mangy cringing cur!"/>
     <string id="OnttNMRn" text="Shield IV"/>
-    <string id="Ooqyo9RB" text="Пропустити раунд"/>
+    <string id="Ooqyo9RB" text="Пропустити"/>
     <string id="OPhlqUVl" text="Поговорити"/>
     <string id="OpSGWdrk" text="Gangster"/>
     <string id="OqCodBZJ" text="Stop there you dog! Show us what you've got!"/>
