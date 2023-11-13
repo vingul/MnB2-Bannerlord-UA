@@ -42,7 +42,7 @@
     <string id="1E6hFc0r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are screening against enemy moving behind our back."/>
     <string id="1HPITLca" text="Prisoner Size Limit Exceeded"/>
     <string id="1ICTi9xQ" text="Defenders sally out to attack {BESIEGER_LEADER.NAME}'s siege camp"/>
-    <string id="1jqxlEkT" text="Spice{@Plural}sacks of spice{\@}"/>
+    <string id="1jqxlEkT" text="{.p}Прянощі{.R_np2}{@Plural}{.p}Мішок{.R_n22_p} прянощів{\@}"/>
     <string id="1KcIeYe2" text="You need to be in the same location as the character in order to talk to them"/>
     <string id="1klXxZFS" text="I am lady of {TOWNS}."/>
     <string id="1Llb4gGw" text="Completion"/>
@@ -122,8 +122,8 @@
     <string id="3xIv2cP9" text="Hold high ground"/>
     <string id="3XsOeE2v" text="Ви {?PAY_OR_GET}отримаєте{?}заплатите{\?} {TRADE_AMOUNT}{GOLD_ICON}"/>
     <string id="3ZRTekjS" text="Glove"/>
-    <string id="45kZUyjh" text="Olives{@Plural}barrels of olives{\@}"/>
-    <string id="4AQmS4iA" text="+{BONUS_AMOUNT} bonus to garrison capacity"/>
+    <string id="45kZUyjh" text="{.p}Оливка{.R_n10_p2}{@Plural}{.p}Бочка{.R_n10_p2} оливок{\@}"/>
+    <string id="4AQmS4iA" text="+{BONUS_AMOUNT} до місткості гарнізону"/>
     <string id="4bq2mUf1" text="Eligible to create a Kingdom"/>
     <string id="4BQaqqzg" text="Security:"/>
     <string id="4cU98rkg" text="Smelting"/>
@@ -133,7 +133,7 @@
     <string id="4IuXGSdc" text="Цілісність стін"/>
     <string id="4jLW7hag" text="Dismiss from Army"/>
     <string id="4kKxsVzZ" text="Your alley {.%}{ALLEY_NAME}{.%} at {TOWN} is captured."/>
-    <string id="4kvKQuXM" text="Hides{@Plural}loads of hide{\@}"/>
+    <string id="4kvKQuXM" text="{.p}Шкіра{.R_n10_p1}{@Plural}{.p}Тюк{.R_n20_p} шкір{\@}"/>
     <string id="4KXvyxrK" text="Bound settlement"/>
     <string id="4l3BLxBC" text="Shoot from siege tower"/>
     <string id="4M8h8ufy" text="Not Usable With Two Hands"/>
@@ -292,7 +292,7 @@
     <string id="9Lhd2zVW" text="On {DAY_OF_YEAR}, {YEAR}, you found a third piece of the Dragon Banner. You are ready to unfurl it once again."/>
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})"/>
     <string id="9PLNQrWw" text="Ви чуєте мало скарг. Люди, здається, довіряють своїм правителям."/>
-    <string id="9pwIt4aa" text="Wax{@Plural}loads of wax{\@}"/>
+    <string id="9pwIt4aa" text="{.m}Віск{.R_n21_u}{@Plural}{.p}Ящик{.R_n20_p} воску{\@}"/>
     <string id="9raxrECY" text="If you proceed, {LEADER.NAME} will be the new leader of this party. Are you sure?"/>
     <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging."/>
     <string id="9zpZRkYz" text="Boosting a project adds +{BOOST} construction and costs {COST} denars / day."/>
@@ -325,7 +325,7 @@
     <string id="acbkKbT0" text="We should do something different."/>
     <string id="aCkzVUCR" text="Очки здоров'я: "/>
     <string id="aCP5ZBbp" text="Relation:"/>
-    <string id="ADJBbfbQ" text="Fur{@Plural}packs of fur{\@}"/>
+    <string id="ADJBbfbQ" text="{.n}Хутро{.R_n2n}{@Plural}{.p}Тюк{.R_n20_p} хутра{\@}"/>
     <string id="ADJQa8am" text="Mercenaries cannot support other clans."/>
     <string id="adtqbbGU" text="Distance to Army Leader"/>
     <string id="aebVkHyA" text="Give up the fight?"/>
@@ -385,7 +385,7 @@
     <string id="AUOio5Tu" text="Daily Defaults"/>
     <string id="AVoWvlue" text="{RANK} ({NUMBER})"/>
     <string id="AVQUGwTg" text="Місто середнього достатку."/>
-    <string id="awQrcrt2" text="Pottery{@Plural}crates of pottery{\@}"/>
+    <string id="awQrcrt2" text="{.f}Кераміка{.R_n10_p1}{@Plural}{.p}Ящик{.R_n20_p} кераміки{\@}"/>
     <string id="AWW0T6xR" text="A pawn may be moved orthogonally, one tile at a time.{newline}A pawn can not be moved back to the tile that it came from in the previous turn.{newline}If a player is unable to move, that player may remove one of the opponent's pawns and still make a move."/>
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.{newline}{newline}You will not be able to undo / cancel this action.{newline}{newline}Are you sure?"/>
     <string id="aY2SKxqG" text="Raid their villages!"/>
@@ -406,7 +406,7 @@
     <string id="b7bWCXbk" text="Run along now, little sheep. And be careful of the other wolfpacks out there."/>
     <string id="b7U3Gvuu" text="Some of the angry villagers say that they have recently satisfied your demands. It looks like you'll have a fight on your hands if you continue."/>
     <string id="BAaS5Dkc" text="Apply"/>
-    <string id="baFazbmR" text="Iron{@Plural}loads of iron ore{\@}"/>
+    <string id="baFazbmR" text="{.n}Залізо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} заліза{\@}"/>
     <string id="baHmYsx3" text="Two Handed Weapon"/>
     <string id="bAHNQGAw" text="Our allies need help. Lift the siege!"/>
     <string id="baIUUw1c" text="Spend your own influence to increase the influence of the selected clan"/>
@@ -435,7 +435,7 @@
     <string id="bg8co4he" text="Slaughter{newline}You will not be able to undo this action."/>
     <string id="bgjiFSHZ" text="{.p}Баттанець{.R_n22_p}"/>
     <string id="bGyrPe8c" text="Production"/>
-    <string id="bh2v8n4K" text="Garment{@Plural}loads of garment{\@}"/>
+    <string id="bh2v8n4K" text="{.m}Одяг{.R_n20_u_zi}{@Plural}{.p}Тюк{.R_n20_p} одягу{\@}"/>
     <string id="bh9U2fsZ" text="Son-in-law"/>
     <string id="BhGlPxqx" text="You can only disband mobile parties"/>
     <string id="BhiOmgst" text="Under Siege"/>
@@ -466,7 +466,7 @@
     <string id="BPVFAl7J" text="Our plan is to attack with full force around our infantry."/>
     <string id="bPXvukDs" text="Moving and Capturing"/>
     <string id="bPzyoTEF" text="You'll regret that answer.[ib:aggressive][if:convo_insulted]"/>
-    <string id="BQDrheU6" text="Cloth{@Plural}loads of cloth{\@}"/>
+    <string id="BQDrheU6" text="{.f}Тканина{.R_n10}{@Plural}{.p}Рулон{.R_n20_p} тканини{\@}"/>
     <string id="brQ42NE5" text="Як покращити уміння"/>
     <string id="bsabIdYm" text="Two Handed Axe"/>
     <string id="BsdOl4He" text="FOUL! Your opponent hit your horse. {?OPPONENT_GENDER}He{?}She{\?} has been disqualified!"/>
@@ -523,7 +523,7 @@
     <string id="cjZqTaHm" text="You don't have enough influence."/>
     <string id="CKGavOyA" text="Бийтеся списом або подібною одноручною чи дворучною древковою зброєю."/>
     <string id="cKKYSB0z" text="You have lost {AMOUNT}{GOLD_ICON}."/>
-    <string id="ckPhG1KV" text="Bound village(s)"/>
+    <string id="ckPhG1KV" text="Зв'язані села"/>
     <string id="CkwERBcS" text="Skirmish behind ally formation."/>
     <string id="cmn6qNoX" text="Skirmishers"/>
     <string id="cMrROb6w" text="Available Quest"/>
@@ -652,7 +652,7 @@
     <string id="eTyaQ1sG" text="Resume Campaign"/>
     <string id="eu25AFfI" text="Can't access inventory right now!"/>
     <string id="EuEJ08Dg" text="Number of Healthy Defender Troops"/>
-    <string id="eufhFrnC" text="Villagers of {VILLAGE_NAME}"/>
+    <string id="eufhFrnC" text="Селяни з {VILLAGE_NAME}{.v_rod}"/>
     <string id="EuGCNdHG" text="Leave Kingdom"/>
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?"/>
     <string id="eURzhtb0" text="Gathering around {PARTY_NAME}."/>
@@ -683,7 +683,7 @@
     <string id="F6GhrriD" text="Create Kingdom"/>
     <string id="f6gSyvnC" text="Стріляйте у ворогів з лука. Виконуйте складні постріли з великої відстані."/>
     <string id="f6pjlKdz" text="Yesterday"/>
-    <string id="f7t4saJu" text="Value"/>
+    <string id="f7t4saJu" text="Ціна"/>
     <string id="f7vOVQb7" text="Summer"/>
     <string id="F8g1TzoX" text="You are outside {SETTLEMENT_NAME}. You see the banner of {LORD.LINK} flying over the castle gate."/>
     <string id="Fa16r8MN" text="Execute Prisoner"/>
@@ -726,7 +726,7 @@
     <string id="FqwHAxuM" text="Two Handed Polearm"/>
     <string id="frBQ9mbP" text="Southern Empire"/>
     <string id="FRepQsmO" text="The tournament will be a joust."/>
-    <string id="frt7AmX0" text="Garrison of {MAJOR_PARTY_LEADER}"/>
+    <string id="frt7AmX0" text="Гарнізон {MAJOR_PARTY_LEADER}{.v_rod}"/>
     <string id="fRu5Y4OT" text="I was wounded and left for dead"/>
     <string id="FRuzuVyO" text="No Clan Selected"/>
     <string id="FRZfpryn" text="Bring forward the proposal to give this settlement to someone else"/>
@@ -800,7 +800,7 @@
     <string id="Gre2v55i" text="Power: {POWER}"/>
     <string id="GRX8NjWI" text="Size"/>
     <string id="gSVaitFE" text="Raiding {SETTLEMENT_NAME}"/>
-    <string id="gsVtO9A7" text="Militia"/>
+    <string id="gsVtO9A7" text="Ополчення"/>
     <string id="gT5zJaD7" text="I was knocked senseless by the enemy"/>
     <string id="gTlW1qOB" text="This item is {PERCENTAGE}% cheaper than average"/>
     <string id="guardnoun" text="Guard"/>
@@ -862,7 +862,7 @@
     <string id="husbandfatherinlaw" text="father-in-law"/>
     <string id="husbandmotherinlaw" text="mother-in-law"/>
     <string id="husbandsisterinlaw" text="sister-in-law"/>
-    <string id="hVmamTJX" text="Підвищуйте бойовий дух загону за рахунок різноманітності їжі (Інтендант). Покращуйте процвітання поселення та зводьте будівлі (Намісник)."/>
+    <string id="hVmamTJX" text="Підвищуйте бойовий дух загону за рахунок різноманітності їжі (Інтендант). Покращуйте добробут поселення та зводьте будівлі (Намісник)."/>
     <string id="Hvw3uSNN" text="{PRISONER.NAME} has been freed after {?PRISONER.GENDER}her{?}his{\?} captors were defeated in battle."/>
     <string id="hVZo7xdk" text="Castles"/>
     <string id="Hx47TGrA" text="Hard"/>
@@ -971,7 +971,7 @@
     <string id="jIZcOvMT" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} was executed."/>
     <string id="JkpSoFQ8" text="Casualties Inflicted"/>
     <string id="JKQjXH9M" text="twenty-seventh"/>
-    <string id="jlgjLDo7" text="Garrison"/>
+    <string id="jlgjLDo7" text="Гарнізон"/>
     <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
     <string id="JnoB0RZ4" text="Execute {?DYING_HERO.GENDER}Her{?}Him{\?}"/>
     <string id="jnTQbSsH" text="You see people gathering in the village to resist you. What do you want to do?"/>
@@ -984,7 +984,7 @@
     <string id="JQOUUVct" text="Пауза"/>
     <string id="JSokBXER" text="Heavy Infantry"/>
     <string id="jSXE0Gbj" text="Селян тут небагато і вони налякані, вони швидко розбігаються, коли бачать вас. Село у вашій повній владі."/>
-    <string id="jtN3ayKE" text="Primary Production"/>
+    <string id="jtN3ayKE" text="Основна продукція"/>
     <string id="JTyC3Xra" text="Closefisted"/>
     <string id="Ju9ZiFT2" text="Melee Weapons V"/>
     <string id="Jw4oiIM4" text="On {DAY_OF_YEAR}, {YEAR}, {KING_NAME} was annointed {?IS_KING_MALE}Emperor{?}Empress{\?} of Calradia"/>
@@ -1133,7 +1133,7 @@
     <string id="mAxXKaXp" text="Reset"/>
     <string id="mbS0DkUo" text="Raid"/>
     <string id="mbT1uNPa" text="Dagger"/>
-    <string id="Mc8ojOGn" text="Hearths"/>
+    <string id="Mc8ojOGn" text="Вогнища"/>
     <string id="MciIqod6" text="Couch Lance"/>
     <string id="mDbaNQay" text="Ride forth and attempt to strike your opponent!"/>
     <string id="mds0myr4" text="{HERO.NAME} has lost {?PLAYER.GENDER}her{?}his{\?} {TRAIT_NAME} trait."/>
@@ -1159,7 +1159,7 @@
     <string id="MpDMaBE9" text="Defy us, will you? We'll drink from your skull!"/>
     <string id="mPtUKcI3" text="The enemy is organizing. Consider a tactical retreat soon."/>
     <string id="MPZ40lEk" text="Naming Newborn"/>
-    <string id="MqCH7R4A" text="Security"/>
+    <string id="MqCH7R4A" text="Безпека"/>
     <string id="MqsWixDp" text="Retreat!"/>
     <string id="MRktqZwu" text="Очки фокусу"/>
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender."/>
@@ -1186,7 +1186,7 @@
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Refining"/>
     <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
-    <string id="N6QTvjMf" text="Prisoners"/>
+    <string id="N6QTvjMf" text="Полонені"/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are pulling back."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="n9qR84YI" text="{PRISONER.NAME} has escaped from {SETTLEMENT}."/>
@@ -1314,7 +1314,7 @@
     <string id="pbdrFqb3" text="Force this army to disband"/>
     <string id="Pc0zpaGa" text="Aye, what have we here? There's a tax for passage in these parts, traveler, paid either in coin or in blood.[if:convo_bared_teeth]"/>
     <string id="pcy8IXDf" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}"/>
-    <string id="PDdh1sBj" text="Name"/>
+    <string id="PDdh1sBj" text="Назва"/>
     <string id="PdXqoa2W" text="Прямує до {SETTLEMENT_NAME}{.v_rod}."/>
     <string id="PE4nuMc7" text="This page explains the game concepts in Bannerlord"/>
     <string id="PEKxMxal" text="You can now escape."/>
@@ -1359,7 +1359,7 @@
     <string id="pT9TZehy" text="Camp"/>
     <string id="PUjDWe5j" text="Народність"/>
     <string id="puwXJDa9" text="Prosperity:"/>
-    <string id="PVidxUQ8" text="Food Stocks"/>
+    <string id="PVidxUQ8" text="Запаси їжі"/>
     <string id="pVkchhqX" text="{VICTIM.NAME} was lost."/>
     <string id="PvrRFwHM" text="You will {?PAY_OR_GET}gain{?}lose{\?} {TRADE_AMOUNT}{MORALE_ICON}"/>
     <string id="PVUeymMR" text="In Progress"/>
@@ -1375,7 +1375,7 @@
     <string id="Q3KrMlLd" text="CHARGE!"/>
     <string id="Q67Wys0i" text="Patrolling around {SETTLEMENT_NAME}."/>
     <string id="Q7ONA10T" text="&lt;b&gt;Trebuchet&lt;/b&gt;{NEWLINE}Somewhat inaccurate but devastating against walls."/>
-    <string id="q7xpz1xb" text="Trade bound village(s)"/>
+    <string id="q7xpz1xb" text="Торгівля з селами"/>
     <string id="Q8mI3b4K" text="No Policy Selected"/>
     <string id="Q9h3y2oO" text="eighth"/>
     <string id="QA8Gm9PY" text="A hot day, is it not? Don't tire yourself fighting. Give us what we want and we'll leave.[rf:convo_mocking_revenge]"/>
@@ -1444,7 +1444,7 @@
     <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK} married {MARRIED_TO.LINK}."/>
     <string id="R7v2UD8b" text="You move a pawn."/>
     <string id="R9DiQfax" text="Battle"/>
-    <string id="RaAnj4On" text="Defenders"/>
+    <string id="RaAnj4On" text="Захисники"/>
     <string id="rangedtroop" text="Стрільці"/>
     <string id="ranksign" text="#"/>
     <string id="rBieLPA7" text="You're over your troops limit.{newline}You will temporarily keep your troops but after some time they will quickly abandon your party. You will also slow down.{newline}Are you sure?"/>
@@ -1459,7 +1459,7 @@
     <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to help defend the settlement from attackers."/>
     <string id="RGqPxabq" text="Power"/>
     <string id="rHSjMjWX" text="Resolve Decision"/>
-    <string id="RiZ9lNAe" text="Wall Level"/>
+    <string id="RiZ9lNAe" text="Рівень стін"/>
     <string id="RjgBIYvH" text="&lt;b&gt;Improved Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than the normal one."/>
     <string id="RJJ1Pbjk" text="Mercenary of {FACTION}"/>
     <string id="RKyiu5MH" text="Perhaps you and I can make a deal."/>
@@ -1595,7 +1595,7 @@
     <string id="twinmale" text="Twin"/>
     <string id="Txbga7js" text="You come across a battle between {ATTACKER} and {DEFENDER}"/>
     <string id="TxeKpK3Y" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {HERO.NAME}."/>
-    <string id="tXl9REtA" text="Militia of {SETTLEMENT_NAME}"/>
+    <string id="tXl9REtA" text="Ополчення {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="Tyc4aAdz" text="Join the battle without leading any men."/>
     <string id="u12ocP9f" text="Утримуйте '{EXTEND_KEY}', щоб дізнатись більше."/>
     <string id="u3c9M8vx" text="{.f}архонтесса{.R_n10_ko_p1}"/>
@@ -1667,7 +1667,7 @@
     <string id="V7ESaOJU" text="Choose your banner"/>
     <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!"/>
     <string id="VbeHEAsa" text="Retreat"/>
-    <string id="VbL6GFmy" text="Butter{@Plural}casks of butter{\@}"/>
+    <string id="VbL6GFmy" text="{.n}Масло{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} масла{\@}"/>
     <string id="Vc9Mx6Jb" text="Завдання"/>
     <string id="vdK5SaJN" text="Mm. Pity.[ib:aggressive][if:convo_annoyed]"/>
     <string id="vdKLq8T5" text="Walls{newline}Level {LEVEL}"/>
@@ -1850,7 +1850,7 @@
     <string id="YMIFqVOk" text="Are you sure you want to surrender? All of your troops will be lost!"/>
     <string id="YNND0kc9" text="Hooked Guarded Spears"/>
     <string id="yNyQ3RFa" text="{HERO.NAME} has died in childbirth."/>
-    <string id="YO0x7ZAo" text="Loyalty"/>
+    <string id="YO0x7ZAo" text="Вірність"/>
     <string id="yOJAiSf4" text="No formation"/>
     <string id="YOSEIvyf" text="Збалансованість: "/>
     <string id="yQiDdDPY" text="Light Horse"/>
@@ -1902,7 +1902,7 @@
     <string id="zkJPFtYn" text="Quest Completed: {QUEST_TITLE}"/>
     <string id="ZlJIpfWg" text="Speed bonus: {SPEED_BONUS}%."/>
     <string id="ZMdOAbTd" text="Attacker Army"/>
-    <string id="zMMqgxb1" text="Type"/>
+    <string id="zMMqgxb1" text="Тип"/>
     <string id="zNekjGmR" text="Recruit Prisoner"/>
     <string id="zNEvBr6R" text="Your Turn"/>
     <string id="zNHtgL0S" text="The tournament will be an archery contest."/>
