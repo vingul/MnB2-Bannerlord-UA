@@ -319,16 +319,16 @@
     <string id="aPsDkV9w" text="You've done well by me in the past, {PLAYER.NAME}, and for that I will go along with your request, but know that I do not like you using our relationship this way.[ib:closed][if:convo_stern]"/>
     <string id="arCGUuR5" text="The settlement is under siege."/>
     <string id="aRDcoLX0" text="Now is not a good time, {PLAYER.NAME}. "/>
-    <string id="arena_master_24" text="Тож чим би ти хотів зайнятися?"/>
+    <string id="arena_master_24" text="Тож чим ти хочеш зайнятися?"/>
     <string id="arena_master_25" text="Запишіть мене на турнір."/>
     <string id="arena_master_26" text="Я хотів би взяти участь у тренувальному бою..."/>
     <string id="arena_master_27" text="Чи проводяться які-небудь турніри в сусідніх містах?"/>
     <string id="arena_master_30" text="Мені треба йти. До побачення."/>
     <string id="arena_master_31" text="{NEARBY_TOURNAMENT_STRING}"/>
     <string id="arena_master_32" text="Найближчим часом ніяких турнірів не буде."/>
-    <string id="arena_master_33" text="Вперед! Тренувальну зброю отримаєте, коли будете спускатися на арену.[if:convo_approving]"/>
+    <string id="arena_master_33" text="Вперед! Тренувальну зброю отримаєш, коли будеш спускатися на арену.[if:convo_approving]"/>
     <string id="arena_master_34" text="Чудово - ми внесемо ваше ім'я в список і коли підійде ваша черга, будьте готові вийти на арену![if:convo_merry]"/>
-    <string id="arena_master_35" text="Я це зроблю."/>
+    <string id="arena_master_35" text="Так і зроблю."/>
     <string id="arena_master_36" text="Я тут подумав, я краще зачекаю."/>
     <string id="arena_master_37" text="Я буду готов{?PLAYER.GENDER}а{?}ий{\?}."/>
     <string id="arena_master_38" text="А взагалі, неважливо."/>
@@ -1549,7 +1549,7 @@
     <string id="zv49qE35" text="Practice Fight"/>
     <string id="ZVbQemrz" text="My husband was wounded in the wars, and now can't pull a plow. So he lost his tenancy, and now I must beg in the marketplace."/>
     <string id="ZVItXrnG" text="It's a lean autumn, this one. Heaven help us lay in enough wood before the winter."/>
-    <string id="ZvzxcRbc" text="Good day, friend. You look like you know your way around an arena. How can I help you?"/>
+    <string id="ZvzxcRbc" text="Доброго дня, друже. Схоже, ти знаєш, як поводитися на арені. Чим можу допомогти?"/>
     <string id="zWoj91XY" text="BaghChal"/>
     <string id="zXpNnn60" text="We will meet again. "/>
   </strings>
