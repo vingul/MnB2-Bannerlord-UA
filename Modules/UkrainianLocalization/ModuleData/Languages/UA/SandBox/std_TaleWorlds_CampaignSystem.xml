@@ -362,7 +362,7 @@
     <string id="4JE6bYIE" text="{ISSUE_OWNER.LINK} and {TARGET_HERO.LINK} are now part of the same faction so they can't fight against each other. Your contract with {ISSUE_OWNER.LINK} has canceled."/>
     <string id="4JSzHkpt" text="As {?IS_FEMALE}queen{?}king{\?}, you must decide if war will be declared on the {KINGDOM_NAME}"/>
     <string id="4kealpZK" text="Have you brought the animals {?PLAYER.GENDER}madam{?}sir{\?}?"/>
-    <string id="4kvKQuXM" text="Hides{@Plural}loads of hide{\@}"/>
+    <string id="4kvKQuXM" text="{.p}Шкіра{.R_n10_p1}{@Plural}{.p}Тюк{.R_n20_p} шкір{\@}"/>
     <string id="4lEEqyCg" text="Jacorios"/>
     <string id="4M6jlZVa" text="{ISSUE_GIVER.LINK} an artisan from {ISSUE_GIVER_SETTLEMENT} has complained to you about not being able to sell their goods at the price they want because of local laws. {?ISSUE_GIVER.GENDER}She{?}He{\?} will pay {REWARD}{GOLD_ICON} for you to take the goods to another town. You have tasked {COMPANION.LINK} and {ALTERNATIVE_SOLUTION_TROOP_COUNT} men to smuggle {?ISSUE_GIVER.GENDER}her{?}his{\?} goods to a “friend” in {TARGET_TOWN}. They will return to you in {RETURN_DAYS} days with a sizable sum of {REWARD}{GOLD_ICON}."/>
     <string id="4MPhLYcT" text="Bargain with the group, agreeing to forgive the debts of the poorest villagers"/>
@@ -2011,7 +2011,7 @@
     <string id="gsmmoKNd" text="The {ENEMY_KINGDOM_INFORMAL_NAME} will devour all of Calradia if we do not stop them."/>
     <string id="gSmXyxue" text="{FIRSTNAME} the Tanner"/>
     <string id="GsPC2MgU" text="Ваш батько був рабом-охоронцем одного з асерайських емірів. Він бився в рядах важкої кінноти свого господаря і був звільнений - можливо, за проявлену в бою доблесть, а можливо, сплативши викуп, на який він накопичив зі здобичі, отриманої від битв. Потім він одружився з вашою матір'ю."/>
-    <string id="gsVtO9A7" text="Militia"/>
+    <string id="gsVtO9A7" text="Ополчення"/>
     <string id="gsz9DMNq" text="Шукач води"/>
     <string id="Gtbfm10o" text="You have enough grain to complete the quest. Return to {QUEST_SETTLEMENT} to hand it over."/>
     <string id="GtIpsut6" text="I don't even like you. You expect me to discuss something like this with you?"/>
@@ -2309,7 +2309,7 @@
     <string id="IuWu5Bu7" text="Generosity"/>
     <string id="ivH8RWyb" text="Майстер-коваль"/>
     <string id="ivKl4mV2" text="Ваш батько був довіреним офіцером місцевого аристократа-землевласника. Він їздив з панською кавалерією і воював як улан, закований у важку броню."/>
-    <string id="ivrmsCFC" text="{VALUE} до процвітання, коли проєкт в підконтрольному поселенні буде завершено."/>
+    <string id="ivrmsCFC" text="{VALUE} до добробуту, коли проєкт в підконтрольному поселенні буде завершено."/>
     <string id="IvY187PJ" text="No matter. Anything else?"/>
     <string id="iW9iKbb8" text="Nothing."/>
     <string id="IwS1qeq9" text="Your relation is increased by {MAGNITUDE} with village notables."/>
@@ -2421,10 +2421,10 @@
     <string id="JL204Kc0" text="Sure... sure. We'll hand them over.."/>
     <string id="jL8ntljn" text="procures supplies."/>
     <string id="JlFfuFEC" text="How about you take him with you? Feed and protect him, sure, but don't treat him any differently from your companions. Let him stay with you for a year, and then let him return to us? I will send you a worthwhile gift and, perhaps more valuably, you will gain my lifelong friendship, assuming everything goes well?"/>
-    <string id="jlgjLDo7" text="Garrison"/>
+    <string id="jlgjLDo7" text="Гарнізон"/>
     <string id="Jlmtufb3" text="{VALUE}% ефекту від прискорення проєктів у підконтрольному місті."/>
     <string id="Jm0GA3ak" text="{VALUE}% шкоди на засніженій та лісовій місцевості, коли воїнів відправляють у битву з ворогом."/>
-    <string id="JMMVcpA0" text="{VALUE} до процвітання поселень щодня в підконтрольних поселеннях."/>
+    <string id="JMMVcpA0" text="{VALUE} до добробуту поселень щодня в підконтрольних поселеннях."/>
     <string id="JmoOJX4e" text="There is no one in the garrison to receive the troops requested. You should wait until someone arrives."/>
     <string id="JMzyh6Gl" text="Force people to give you supplies."/>
     <string id="jNBVoObj" text="Choose a Request"/>
@@ -2893,7 +2893,7 @@
     <string id="Mp7dT2u2" text="chases and is chased."/>
     <string id="MpdPpIEY" text="leads a patrol."/>
     <string id="mPPWRjCZ" text="Гнучкий боєць"/>
-    <string id="MqCH7R4A" text="Security"/>
+    <string id="MqCH7R4A" text="Безпека"/>
     <string id="MqIg6Mh2" text="I swear homage to you as lawful {FACTION_TITLE}."/>
     <string id="mQqN8Fg0" text="Your men have collected {TOTAL_COLLECTED_FROM_VILLAGE}{GOLD_ICON} denars and completed the revenue collection from {VILLAGE}."/>
     <string id="mr7SgjAq" text="Yes... {QUEST_GIVER.LINK} sent word to us. We are expecting the {.%}{RAW_MATERIALS}{.%} that {?QUEST_GIVER.GENDER}she{?}he{\?} had."/>
@@ -2968,7 +2968,7 @@
     <string id="N5jFSdGR" text="{VALUE}% штрафу за перевантаження."/>
     <string id="N62qjb8s" text="as an aide."/>
     <string id="N6DvC4hN" text="{FIRSTNAME} of the Mirror"/>
-    <string id="N6QTvjMf" text="Prisoners"/>
+    <string id="N6QTvjMf" text="Полонені"/>
     <string id="N6UeziT8" text="Start ({COST}{GOLD_ICON})"/>
     <string id="n86jgG3m" text="Your companion {COMPANION.LINK} has helped the local smith and produced {REQUESTED_AMOUNT} {?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?} as you promised."/>
     <string id="n99VA8KP" text="You'll never take us alive![if:idle_angry][ib:aggressive]"/>
@@ -3171,7 +3171,7 @@
     <string id="OpVRgL9n" text="{VALUE}% збалансованості дворучної зброї."/>
     <string id="Oq1K7oDW" text="{VALUE}% платні воїнам під час очікування в населених пунктах."/>
     <string id="Oq3OFXyC" text="Lucky {FIRSTNAME}"/>
-    <string id="oQjsShmH" text="PRISONERS"/>
+    <string id="oQjsShmH" text="ПОЛОНЕНІ"/>
     <string id="oqPf2Gdp" text="There isn't any prospective buyer in the town."/>
     <string id="OqqUatT9" text="I... I think this will be difficult. Perhaps we are not meant for each other."/>
     <string id="OrbOwQGB" text="Sometimes you spot {?PLAYER_CHILD}your{?}the{\?} child carving a piece of wood into a face or a fantastic beast, and you could not help but notice the subtle mastery of {?CHILD.GENDER}her{?}his{\?} hands."/>
@@ -3601,7 +3601,7 @@
     <string id="RDfXuVxT" text="Дрібні землевласники"/>
     <string id="redwEIlW" text="Інтендант"/>
     <string id="REWGj2ge" text="a rising new clan"/>
-    <string id="REZyGJGH" text="{VALUE} добробуту щодня на час будівництва проєкту в підконтрольному поселенні."/>
+    <string id="REZyGJGH" text="{VALUE} до добробуту щодня на час будівництва проєкту в підконтрольному поселенні."/>
     <string id="rFbAjSWM" text="Gorigos"/>
     <string id="rFESkhK0" text="{FIRSTNAME} the Slicer"/>
     <string id="RFH1lDMj" text="Raided Village Count"/>
@@ -3736,7 +3736,7 @@
     <string id="s8z5Ugvm" text="The clan should be expelled"/>
     <string id="s99TKI9x" text="The nobles aren't trying to starve anyone, but if they don't collect taxes, they won't be able to fight off raiders."/>
     <string id="s9oED1IR" text="Застрільник"/>
-    <string id="S9XsuYap" text="{VALUE} бонусу до процвітання від цивільних проєктів у підконтрольному поселенні."/>
+    <string id="S9XsuYap" text="{VALUE} бонусу до добробуту від цивільних проєктів у підконтрольному поселенні."/>
     <string id="S9yUBtKc" text="I don't think you can help me. You need to have some experience in {SKILL_NAME}..."/>
     <string id="sA2OrT6l" text="Без тягаря"/>
     <string id="SA4JbVo2" text="Your steward acts as magistrate in the lord's absence. {?PLAYER_CHILD}Your{?}The{\?} child will sit at his side as he rules on land disputes, family feuds, and cases of alleged banditry, giving {?CHILD.GENDER}her{?}him{\?} a look at the darker side of life in Calradia."/>
@@ -4540,7 +4540,7 @@
     <string id="xgPNGOa8" text="Перебуваючи в армії, отримуєте на 25% більше впливу."/>
     <string id="XGuDyJMZ" text="{KINGDOM_NAME} will decide who will bear the crown as the next ruler. You can pick your stance regarding this decision."/>
     <string id="XH66Leg5" text="Greetings, my {?PLAYER.GENDER}lady{?}lord{\?}. I have heard much of your deeds. Thank you for agreeing to train me. I hope I won't disappoint you."/>
-    <string id="XHmmbnbB" text="Iron{@Plural}loads of iron{\@}"/>
+    <string id="XHmmbnbB" text="{.n}Залізо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} заліза{\@}"/>
     <string id="xHstOUBx" text="You made sure your artisan taught this child to recognize quality work, as well as its worth in denars."/>
     <string id="xhVrxgC4" text="Betting Fraud"/>
     <string id="Xi1wpR2L" text="Accept corporal punishment and pay {FINE}{GOLD_ICON}"/>
@@ -4736,7 +4736,7 @@
     <string id="ynwbmuoG" text="{FIRSTNAME} the Viper"/>
     <string id="YNxGcaJI" text="I want to talk to you about the outlandish prices you're asking for the goods you sell the artisans."/>
     <string id="YNXK352h" text="{CHARACTER.NAME} was a prominent {.%}{PROFESSION}{.%} from {HOMETOWN}. {FURTHER_DETAILS}."/>
-    <string id="YO0x7ZAo" text="Loyalty"/>
+    <string id="YO0x7ZAo" text="Вірність"/>
     <string id="YOBeOFxY" text="Town taxes paid to the ruler are reduced by 5%{newline}Town loyalty is increased by 1 per day"/>
     <string id="yOfrb9Lu" text="Don't wait too long. These are dangerous men. Be careful."/>
     <string id="YogcurDJ" text="Міцний захисник"/>
@@ -4896,7 +4896,7 @@
     <string id="Zm4a2xsf" text="Salusios"/>
     <string id="ZM8t4ZW2" text="We are very impressed, my friend. Here is the payment as promised. I hope we can continue this profitable partnership. See you at the next tournament.[if:happy][ib:demure]"/>
     <string id="zmLD6wIj" text="{RELIEF_PARTY} has come to support {SETTLEMENT}. {FURTHER_EXPLANATION}."/>
-    <string id="zMMqgxb1" text="Type"/>
+    <string id="zMMqgxb1" text="Тип"/>
     <string id="ZMPhsLdx" text="{VALUE}% швидкості зцілення, коли ви нерухомо стоїте на карті кампанії."/>
     <string id="ZmQx4gT3" text="Olichor"/>
     <string id="ZMTkq5TG" text="Nobles and other landowners have exclusive rights to hunt in forests."/>
