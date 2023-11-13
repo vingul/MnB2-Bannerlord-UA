@@ -686,7 +686,7 @@
     <string id="yQTBY9ie" text="{.p}Коштовність{.R_n30_p}{@Plural}{.p}Коштовність{.R_n30_p}{\@}"/>
     <string id="yy7RvQKN" text="Bo staff"/>
     <string id="ZbsGBv10" text="Hog"/>
-    <string id="ZgVVPGTb" text="Grapes{@Plural}sacks of grapes{\@}"/>
+    <string id="ZgVVPGTb" text="{.m}Виноград{.R_n20}{@Plural}{.p}Ящик{.R_n20_p} винограду{\@}"/>
     <string id="ZJYVpjuR" text="Camel Saddle with Heavy Load"/>
     <string id="zPbDZ9VA" text="Bedouin Common Saddle"/>
     <string id="Zwb65ufG" text="{.f}Глина{.R_n10}{@Plural}{.p}Мішок{.R_n22_p} глини{\@}"/>
