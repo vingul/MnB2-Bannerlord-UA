@@ -502,7 +502,7 @@
     <string id="6ALN43LY" text="{FIRSTNAME} of the Bell"/>
     <string id="6apaXF8k" text="You wanted this child to learn most from those who worked with their hands for a living. You asked an artisan in your employ to teach {?CHILD.GENDER}her{?}him{\?}..."/>
     <string id="6ba4n9n6" text="We are waiting for your good news {?PLAYER.GENDER}my lady{?}sir{\?}."/>
-    <string id="6bQIRaIl" text="Watch the tournament"/>
+    <string id="6bQIRaIl" text="Подивитися турнір"/>
     <string id="6bt9jYai" text="I am still looking for the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} you have requested."/>
     <string id="6btajdpT" text="Ви можете виробляти чавун більш ефективно, отримуючи три одиниці чавуну з однієї одиниці залізної руди."/>
     <string id="6bUSbsKC" text="Ваш батько працював на &quot;фітіві&quot;, одного з громил, які стежать за порядком у бідних кварталах міст-оазисів. Він вирішував суперечки через землю, виграшу у кості чи образ, підкріплюючи свій авторитет за допомогою традиційного посоху фітіві."/>
@@ -1701,7 +1701,7 @@
     <string id="eR7P1cVA" text="{VILLAGE} Needs Crafting Materials"/>
     <string id="ERh2DVEa" text=" • Prosperity Lost: {PROSPERITY_LOST_AMOUNT}"/>
     <string id="erKuPRWA" text="I have a plan to rise in this world. I'm still only a little way up the ladder."/>
-    <string id="es0Y3Bxc" text="Join"/>
+    <string id="es0Y3Bxc" text="Приєднатись"/>
     <string id="EsF8sEaQ" text="And as such, that you are my commander, and I shall follow you wherever you lead."/>
     <string id="ESM0NhLy" text="{ARMY} has been disbanded since cohesion has been depleted."/>
     <string id="EsNDadiR" text="You have completed your end of your bargain and made some denars simply by using your smarts."/>
@@ -2020,7 +2020,7 @@
     <string id="gu7EN92A" text="{VALUE}% денарів на день (але не більше 1000) від поточної суми, що у вас є."/>
     <string id="GUiT211X" text="You got a problem?"/>
     <string id="GUqjL6xk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are high enough to defend against invaders."/>
-    <string id="GuWWKgEm" text="As you approach the arena, you overhear gossip about the contestants and prizes. Apparently there {?(NOBLE_COUNT &gt; 1)}are {NOBLE_COUNT} lords{?}is 1 lord{\?} with renowned fighting skills present in the city who plan to enter the tournament. Given this turnout, the organizers are offering {.a} &quot;{.%}{TOURNAMENT_PRIZE}{.%}&quot; for the victor."/>
+    <string id="GuWWKgEm" text="Наближаючись до арени, ви чуєте плітки про учасників та призи. Судячи з усього, у місті є {?(NOBLE_COUNT &gt; 1)}{NOBLE_COUNT} лорд{#GET_PLURAL_VALUE(NOBLE_COUNT)}{#}и{#}ів{\#}, відомих своїми бойовими навичками, які планують{?} лорд, відомий своїми бойовими навичками, який планує{\?} взяти участь у турнірі. Враховуючи це, організатори виставили &quot;{.%}{TOURNAMENT_PRIZE}{.%}&quot; в якості нагороди для переможця."/>
     <string id="guZWnzaV" text="Сильні ноги"/>
     <string id="gVad94Br" text="I was just checking in with you."/>
     <string id="GvcotJmH" text="Я хотів би, щоб ти допоміг відточити навички одній людині з мого клану."/>
@@ -2884,7 +2884,7 @@
     <string id="Mn4bI9Jg" text="What are you doing? Are you another one of {QUEST_GIVER.NAME}'s lackeys? Do you think you can hunt me like an animal.[ib:closed][if:convo_angry]"/>
     <string id="mn5tQhyp" text="Контрнаступ"/>
     <string id="Mn714dPH" text="{VALUE}% споживання їжі в обложеному підконтрольному поселенні."/>
-    <string id="mnAdqeGu" text="As you approach the arena, you overhear gossip about the contestants and prizes. Apparently there are no lords who plan to compete, but the winner will still receive a {TOURNAMENT_PRIZE}."/>
+    <string id="mnAdqeGu" text="Наближаючись до арени, ви чуєте плітки про учасників та призи. Судячи з усього у місті немає лордів, які б планували взяти участь у турнірі, але переможець все одно отримає &quot;{.%}{TOURNAMENT_PRIZE}{.%}&quot; в якості нагороди."/>
     <string id="mNbAR4uk" text="{VALUE}% шансу втечі в'язнів з підконтрольного поселення."/>
     <string id="mNleBavO" text="{VALUE}% шкоди бандитам від воїнів вашого строю."/>
     <string id="mOFjZuSf" text="You cannot assign a newly released hero as the new governor of a settlement"/>
@@ -4652,7 +4652,7 @@
     <string id="Y7tozytM" text="Hello, {?PLAYER.GENDER}madam{?}sir{\?}. You have the bearing of a warrior. Do you have a minute? We may have interests in common."/>
     <string id="Y7tz9D28" text="Ці вчителі, які допомагають відточувати наявні навички і вивчати нові... Можеш допомогти мені їх знайти?"/>
     <string id="Y8jAaICu" text="One day {?PLAYER_CHILD}your{?}the{\?} child asks you which of your skills was most useful to you. You thought for a while, and answered..."/>
-    <string id="Y94H6XnK" text="Accept"/>
+    <string id="Y94H6XnK" text="Прийняти"/>
     <string id="y9AsEMnV" text="{VALUE}% споживання їжі у вашому загоні, поки він є частиною армії."/>
     <string id="Y9LNbRho" text="Thank you. I will put your men to good use."/>
     <string id="y9RcWMbQ" text="a local rivalry"/>
