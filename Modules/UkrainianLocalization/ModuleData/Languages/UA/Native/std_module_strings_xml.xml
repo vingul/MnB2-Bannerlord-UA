@@ -109,7 +109,7 @@
     <string id="3lZchBXQ" text="{ISSUE_NAME}: Your troops failed to resolve the matter."/>
     <string id="3o6FDRsq" text="Captured Towns"/>
     <string id="3PzgpFGq" text="Neutral"/>
-    <string id="3qFPyJtB" text="Waiting in {SETTLEMENT_NAME}."/>
+    <string id="3qFPyJtB" text="Очікує в {SETTLEMENT_NAME}{.v_mis}."/>
     <string id="3sRdGQou" text="Leave"/>
     <string id="3sWa2Hmt" text="my son {REFERING_HERO.LINK}"/>
     <string id="3syV6ymi" text="Blunt"/>
@@ -249,7 +249,7 @@
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% reduced militia during rebellion"/>
     <string id="83Yt9rbK" text="Breached"/>
     <string id="87qtKk4K" text="Watch Round"/>
-    <string id="87vr9BHq" text="Leading an alley at {SETTLEMENT_NAME}"/>
+    <string id="87vr9BHq" text="Керує провулком в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="893hzVCQ" text="&lt;b&gt;Fire Mangonel&lt;/b&gt;{NEWLINE}Throws jars filled with Greek fire, combines the already deadly power of mangonels with fire."/>
     <string id="8apwrVjc" text="Additional Clan Party"/>
     <string id="8B7V0qdT" text="You have lost the battle!"/>
@@ -267,7 +267,7 @@
     <string id="8l8xEu64" text="Buy and Equip"/>
     <string id="8LhfzIQE" text="w"/>
     <string id="8mBT44QK" text="Noble of {FACTION}"/>
-    <string id="8oaVYIlk" text="You are outside of {SETTLEMENT_NAME}. You cannot enter because the castle belongs to the enemy."/>
+    <string id="8oaVYIlk" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ви не можете увійти, оскільки замок належить ворогу."/>
     <string id="8OkPHu4f" text="Ні"/>
     <string id="8Rkxc5jE" text="No Food"/>
     <string id="8rzcgCO5" text="Sort By"/>
@@ -306,7 +306,7 @@
     <string id="A38xbjqm" text="Engage"/>
     <string id="a3hmB91k" text="Будуйте та використовуйте облогові знаряддя. Успішно використовуйте їх при нападі та обороні."/>
     <string id="A3T5z4Mv" text="Defensive"/>
-    <string id="a3uKkLez" text="{LORD.LINK} is in the field nearby {SETTLEMENT_NAME}"/>
+    <string id="a3uKkLez" text="{LORD.LINK} знаходиться в дорозі поблизу {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="a47CpGXN" text="Power Levels"/>
     <string id="a5j1v7tM" text="We've heard what happened to others who refused to join your cause. We've no desire to end up like them and no means to fight you. We'll wear your colors from now until it pleases you no more."/>
     <string id="a6D6Ga2F" text="Weapon Reach: "/>
@@ -320,7 +320,7 @@
     <string id="aayrvLOX" text="Be on your way. Safe journeys."/>
     <string id="abbALYlp" text="Ballista"/>
     <string id="aBgnQ1MO" text="Assign Governor"/>
-    <string id="aBssWwIu" text="If you proceed, {GOVERNOR.NAME} will become the new governor of {SETTLEMENT_NAME}. Are you sure?"/>
+    <string id="aBssWwIu" text="Якщо ви продовжите, {GOVERNOR.NAME} стане новим губернатором {SETTLEMENT_NAME}{.v_rod}. Ви впевнені?"/>
     <string id="abV5bff6" text="You capture a pawn."/>
     <string id="acbkKbT0" text="We should do something different."/>
     <string id="aCkzVUCR" text="Очки здоров'я: "/>
@@ -412,7 +412,7 @@
     <string id="baIUUw1c" text="Spend your own influence to increase the influence of the selected clan"/>
     <string id="BANC61K5" text="Попередній воїн"/>
     <string id="bB4602W2" text="Thrust {THRUST_DAMAGE_TYPE} Damage: "/>
-    <string id="bbmrHzRF" text="Send Clan Members To {SETTLEMENT_NAME}"/>
+    <string id="bbmrHzRF" text="Відправити членів клану в {SETTLEMENT_NAME}"/>
     <string id="bBXGPgwe" text="my daughter {REFERING_HERO.LINK}"/>
     <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Begum{?}Beg{\?}"/>
     <string id="bC5aMfG0" text="Села"/>
@@ -453,7 +453,7 @@
     <string id="Bl7UdJup" text="Nephew"/>
     <string id="BlidMNGT" text="Relation"/>
     <string id="bLWyjOdS" text="Броня (тіло): "/>
-    <string id="Bm4yZBWb" text="You are in prison at {SETTLEMENT_NAME}."/>
+    <string id="Bm4yZBWb" text="Ви перебуваєте у в'язниці в {SETTLEMENT_NAME}{.v_mis}."/>
     <string id="bMjtFIba" text="You arrived just in the nick of time! {PLAYER.LINK}. You have my deepest thanks!"/>
     <string id="BMQ5SHOH" text="Horse Equipment I"/>
     <string id="bN8gqxtB" text="End Battle"/>
@@ -505,7 +505,7 @@
     <string id="caaxvMcY" text="Relative"/>
     <string id="CaeFx54J" text="Influence Gained: + {INFLUENCE} {INFLUENCE_ICON}"/>
     <string id="caFEBWSY" text="Your opponent has bested you. You've lost."/>
-    <string id="cAgI2lPn" text="Governor of {SETTLEMENT_NAME}"/>
+    <string id="cAgI2lPn" text="Намісник {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="calculatinglevel3trait" text="Calculating"/>
     <string id="caPP57v9" text="Move to Reserve"/>
     <string id="captainasleader" text="Капітан"/>
