@@ -49,7 +49,7 @@
     <string id="1m8zRjs8" text="On {DAY_OF_YEAR}, {YEAR}, {CLAN_NAME} joined the {KINGDOM_FORMALNAME}."/>
     <string id="1MStGeRa" text="Beaten opponent: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1o1TyPib" text="Additional Companion Limit"/>
-    <string id="1PwQxaOu" text="Preparations seem to be underway for a tournament"/>
+    <string id="1PwQxaOu" text="Здається, підготовка до турніру йде повним ходом."/>
     <string id="1pxLpZ4r" text="Calculating:"/>
     <string id="1sJcKkVP" text="Guard"/>
     <string id="1wkANMRC" text="Our plan is to try and hold this narrow pass."/>
@@ -248,7 +248,7 @@
     <string id="7zUWqY3O" text="Left"/>
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% reduced militia during rebellion"/>
     <string id="83Yt9rbK" text="Breached"/>
-    <string id="87qtKk4K" text="Watch Round"/>
+    <string id="87qtKk4K" text="Подивитися раунд"/>
     <string id="87vr9BHq" text="Керує провулком в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="893hzVCQ" text="&lt;b&gt;Fire Mangonel&lt;/b&gt;{NEWLINE}Throws jars filled with Greek fire, combines the already deadly power of mangonels with fire."/>
     <string id="8apwrVjc" text="Additional Clan Party"/>
@@ -618,11 +618,11 @@
     <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus to construction"/>
     <string id="eEmbb1MR" text="Виробництво"/>
     <string id="eHBvuPk6" text="twenty-sixth"/>
-    <string id="EHkzaZBi" text="Tournament of {SETTLEMENT_NAME}"/>
+    <string id="EHkzaZBi" text="Турнір в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="ehsuyvdT" text="If you proceed, the party will be without a leader for {TRAVEL_DURATION} while your clan members travel. It will not be able to join any armies until its new leader arrives. Are you sure?"/>
     <string id="eIws123Z" text="Leg Armor"/>
     <string id="Ej0QNsY9" text="fifteenth"/>
-    <string id="eJgaemO5" text="Earnings from Bets: {BET} {GOLD_ICON}"/>
+    <string id="eJgaemO5" text="Зароблено на ставках: {BET} {GOLD_ICON}"/>
     <string id="ejhFyhyx" text="&lt;b&gt;Siege Tower&lt;/b&gt;&lt;br&gt;{NEWLINE}Brings the attackers to the same height as the wall and evens the odds against defenders."/>
     <string id="eKwhGmbI" text="After this troop gains {XP_AMOUNT} xp, one more troop will be available for upgrade"/>
     <string id="EL7lZLXN" text="Can Knockdown"/>
@@ -647,7 +647,7 @@
     <string id="eqAc8AOs" text="{LEFT}:"/>
     <string id="ErnykQEH" text="Outputs"/>
     <string id="eRqURgZY" text="the Battanians"/>
-    <string id="es0Y3Bxc" text="Join"/>
+    <string id="es0Y3Bxc" text="Приєднатись"/>
     <string id="esxNxipn" text="Parties with Low Morale"/>
     <string id="eTyaQ1sG" text="Resume Campaign"/>
     <string id="eu25AFfI" text="Can't access inventory right now!"/>
@@ -694,7 +694,7 @@
     <string id="FbcC2loc" text="You have been knocked unconscious and your opponent is granted victory!"/>
     <string id="FC64p6ED" text="Number of Healthy Attacker Troops"/>
     <string id="fd35ahzV" text="&lt;b&gt;Fire Ballista&lt;/b&gt;{NEWLINE}Shoots bolts with tips dipped in tar.{NEWLINE}They will deal fire damage to enemy siege engines and wooden structures as well as being deadly against soldiers."/>
-    <string id="FD9abtTo" text="If you wager 100&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; and win, you will get {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;"/>
+    <string id="FD9abtTo" text="Якщо ви поставите 100&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; і виграєте, то отримаєте {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;"/>
     <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?"/>
     <string id="fEJQcb4U" text="Loyalty Drift"/>
     <string id="femalechild" text="Child"/>
@@ -725,7 +725,7 @@
     <string id="fQAGU9GW" text="Generosity:"/>
     <string id="FqwHAxuM" text="Two Handed Polearm"/>
     <string id="frBQ9mbP" text="Southern Empire"/>
-    <string id="FRepQsmO" text="The tournament will be a joust."/>
+    <string id="FRepQsmO" text="Турнір буде у формі лицарського поєдинку."/>
     <string id="frt7AmX0" text="Гарнізон {MAJOR_PARTY_LEADER}{.v_rod}"/>
     <string id="fRu5Y4OT" text="I was wounded and left for dead"/>
     <string id="FRuzuVyO" text="No Clan Selected"/>
@@ -819,7 +819,7 @@
     <string id="h60wQVVX" text="Pike"/>
     <string id="h6AJXR2e" text="Are you sure to retreat your party?"/>
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election"/>
-    <string id="H9y9dLao" text="You can wager gold to increase the prize you take. Every round, the odds will be different and you can wager {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; each time."/>
+    <string id="H9y9dLao" text="Щоб виграти більше, ви можете збільшити ставку. Кожного раунду коефіцієнти будуть мінятися, але ви не зможете поставити більше {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;."/>
     <string id="haax8kMa" text="Древкова зброя"/>
     <string id="hAgZBZP8" text="Forfeit"/>
     <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
@@ -932,7 +932,7 @@
     <string id="IUxlDj4s" text="Випадково все"/>
     <string id="iVEZrZzs" text="Ride in vanguard"/>
     <string id="IvrBQHRp" text="Melee Weapons"/>
-    <string id="IwpFM2CJ" text="The tournament will be a horse race."/>
+    <string id="IwpFM2CJ" text="Турнір буде проходити у вигляді кінних перегонів."/>
     <string id="IXwOaa98" text="Party Size"/>
     <string id="iYCR3xuQ" text="Principality of Sturgia"/>
     <string id="iyDOTnCS" text="Give them what they wanted!"/>
@@ -992,7 +992,7 @@
     <string id="jxatfzXh" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} died of natural causes."/>
     <string id="jZYUdkXF" text="Starving"/>
     <string id="K0mlQblA" text="Daily food consumption of army"/>
-    <string id="K0XVOalL" text="Current Wager"/>
+    <string id="K0XVOalL" text="Поточна ставка"/>
     <string id="k1E9DuKi" text="Select All"/>
     <string id="K2G3XJwZ" text="Hotheaded"/>
     <string id="k3LajvfJ" text="Banner Editor"/>
@@ -1171,7 +1171,7 @@
     <string id="MWatMKoP" text="On {DAY_OF_YEAR}, {YEAR}, the secret pact between the imperial factions was revealed, as the armies of the former rivals took the field together."/>
     <string id="MWByKPst" text="Generals"/>
     <string id="mwegfVKr" text="Cerebral"/>
-    <string id="MWGATOoz" text="The tournament will be a melee group fight."/>
+    <string id="MWGATOoz" text="Турнір буде проходити у форматі групових боїв ближнього бою."/>
     <string id="MwgcfGsr" text="A pawn that lands on a tile with an opposing pawn already there, will capture that opposing pawn. The captured pawn will be stacked underneath the invading pawn.{newline}A stack of pawns can be also be re-captured as long as the top pawn belongs to the opponent.{newline}As soon as a pawn makes a capture, it will move back towards its home-tile in the next turn."/>
     <string id="MxG4217V" text="Villager"/>
     <string id="MxmOWsHj" text="Encyclopedia"/>
@@ -1182,7 +1182,7 @@
     <string id="MzxFIyAQ" text="Show kingdom comparison bars"/>
     <string id="N0MCVBXb" text="Forget It"/>
     <string id="n3cjEB0X" text="{.p}Інструмент{.R_n20_p}{@Plural}{.p}Ящик{.R_n20_p} інструментів{\@}"/>
-    <string id="n3e3g6Rq" text="Bet"/>
+    <string id="n3e3g6Rq" text="Поставити"/>
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Refining"/>
     <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
@@ -1254,14 +1254,14 @@
     <string id="oAoTaAWg" text="first"/>
     <string id="ObTSCxra" text="Vassal"/>
     <string id="OBXNbvkK" text="As you attempt to force the villagers to give you goods, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
-    <string id="OCGaTxac" text="Tournament Prize"/>
+    <string id="OCGaTxac" text="Нагорода турніру"/>
     <string id="OdFPHvtE" text="Rebels are attacking this settlement. Do you want to interfere?"/>
     <string id="ODQmOrIw" text="Титри"/>
     <string id="OEax2Y9c" text="Грабуйте каравани. Набирайте та очолюйте бандитські загони. Проникайте у ворожі міста. Давайте хабарі. Втікайте з полону."/>
     <string id="oGflu1jV" text="Use murder hole"/>
     <string id="OGjq7rpg" text="We are taking our products to the market at {TOWN}."/>
     <string id="ogtgc69b" text="You have been awarded the right to carry a banner. Your banner will signify your status and bring you honour. Which banner do you want to choose?"/>
-    <string id="OGxk0EXC" text="The tournament has ended. {TOURNAMENT_FINAL_PARTICIPANT_A} wins by beating {TOURNAMENT_FINAL_PARTICIPANT_B} in the final round."/>
+    <string id="OGxk0EXC" text="Турнір завершився. {TOURNAMENT_FINAL_PARTICIPANT_A} перемагає, здолавши {TOURNAMENT_FINAL_PARTICIPANT_B}{.v_zna} у фінальному двобої."/>
     <string id="oHaWR73d" text="Ok"/>
     <string id="Ohdrbpiw" text="Vlandian"/>
     <string id="OhLXo0gb" text="Criminal Governor"/>
@@ -1278,7 +1278,7 @@
     <string id="OLZqZZF3" text="If you proceed, {GOVERNOR.NAME} will travel for {TRAVEL_DURATION} to become the new governor of {SETTLEMENT_NAME}. While traveling, {GOVERNOR.NAME} will not be available and you will not be able to change the governor of {SETTLEMENT_NAME} until {GOVERNOR.NAME} arrives. Are you sure?"/>
     <string id="ONGv27TH" text="Now out of my sight, you mangy cringing cur!"/>
     <string id="OnttNMRn" text="Shield IV"/>
-    <string id="Ooqyo9RB" text="Skip Round"/>
+    <string id="Ooqyo9RB" text="Пропустити раунд"/>
     <string id="OPhlqUVl" text="Поговорити"/>
     <string id="OpSGWdrk" text="Gangster"/>
     <string id="OqCodBZJ" text="Stop there you dog! Show us what you've got!"/>
@@ -1463,7 +1463,7 @@
     <string id="RjgBIYvH" text="&lt;b&gt;Improved Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than the normal one."/>
     <string id="RJJ1Pbjk" text="Mercenary of {FACTION}"/>
     <string id="RKyiu5MH" text="Perhaps you and I can make a deal."/>
-    <string id="rmSkXZlp" text="The tournament has ended. {TOURNAMENT_FINAL_OPPONENT} wins by beating you in the final round."/>
+    <string id="rmSkXZlp" text="Турнір закінчився. {TOURNAMENT_FINAL_OPPONENT} виграє, перемігши вас у фінальному двобої."/>
     <string id="RNQIG1DS" text="Hear that whistling and howling? That's not the wind - it's the ghosts of those who defied us. Prepare to join them."/>
     <string id="RO0a71EP" text="Your opponent constructed a barrier against you, but you have an equal amount of pawns left. The game is a draw!"/>
     <string id="ROB0VcsI" text="Your champion has won the duel. Your army is encouraged by this victory. Your party gains morale."/>
@@ -1551,7 +1551,7 @@
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rf:convo_bemused]"/>
     <string id="t78atYqH" text="Дворучна зброя"/>
     <string id="T8w5VRAy" text="Enemy troops are falling back to the castle."/>
-    <string id="taaNCsVZ" text="You win the tournament by beating {TOURNAMENT_FINAL_OPPONENT} in the final round."/>
+    <string id="taaNCsVZ" text="Ви виграєте турнір, перемігши {TOURNAMENT_FINAL_OPPONENT}{.v_rod} у фінальному раунді."/>
     <string id="tAMBVG9B" text="third"/>
     <string id="tb6e1wjQ" text="Enemy destroyed all of our siege engines!"/>
     <string id="TCQQRQgI" text="Order of Battle"/>
@@ -1614,7 +1614,7 @@
     <string id="UB4sqrWx" text="Mother"/>
     <string id="uBxHeyxy" text="Valor:"/>
     <string id="uCikaIoq" text="Splendid. See, my lads and I, we're not cruel men. A bit greedy though, that can't be denied, so do be generous.[ib:hip][rf:convo_bemused]"/>
-    <string id="UckVajhO" text="Renown Gained: + {RENOWN}"/>
+    <string id="UckVajhO" text="Слави отримано: +{RENOWN}"/>
     <string id="UCo8oT1Q" text="War Strategy"/>
     <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}"/>
     <string id="uEiFfbOq" text="{SEASON} {DAY}, {YEAR}"/>
@@ -1799,7 +1799,7 @@
     <string id="XTubeiTb" text="Shield III"/>
     <string id="Xv6knZP8" text="-{PRISONERS_AMOUNT} Prisoner{?ISPLURAL}s{?} {\?}"/>
     <string id="xv8T0Il8" text="The starting player and the amount of tiles you can move each turn are decided by throwing four two-coloured sticks."/>
-    <string id="xwWUDia6" text="Wager"/>
+    <string id="xwWUDia6" text="Ставка"/>
     <string id="xWydBJyS" text="Rebels in {SETTLEMENT} have risen against their lord, {RULER}."/>
     <string id="Xx9EbSwG" text="Boot"/>
     <string id="XxLCJb0W" text="Honest"/>
@@ -1817,7 +1817,7 @@
     <string id="Y5byltUT" text="sultan"/>
     <string id="y8Catvvn" text="Ranged Weapons III"/>
     <string id="y8tOrlnJ" text="eleventh"/>
-    <string id="Y94H6XnK" text="Accept"/>
+    <string id="Y94H6XnK" text="Прийняти"/>
     <string id="Y9egTJg0" text="Daily Change"/>
     <string id="yaxwYglT" text="Dispatched"/>
     <string id="YbabzW3H" text="You've been in prison at {SETTLEMENT_NAME} for {NUMBER_OF_DAYS} {?PLURAL}days{?}day{\?}."/>
@@ -1870,7 +1870,7 @@
     <string id="YvwQL9aa" text="Вага: "/>
     <string id="yWD4Nwy2" text="We should help our allies."/>
     <string id="YxEcX6pS" text="On {DAY_OF_YEAR}, {YEAR}, you found a second piece of the Dragon Banner of Calradios."/>
-    <string id="YxKHEUEX" text="The tournament has ended. {TOURNAMENT_FINAL_PARTICIPANT_A} wins by beating {TOURNAMENT_FINAL_PARTICIPANT_B} in the final round. You were eliminated at round {TOURNAMENT_ELIMINATED_ROUND}."/>
+    <string id="YxKHEUEX" text="Турнір завершився. {TOURNAMENT_FINAL_PARTICIPANT_A} переміг, здолавши {TOURNAMENT_FINAL_PARTICIPANT_B}{.v_zna} у фінальному двобої. Ви вибули у {TOURNAMENT_ELIMINATED_ROUND} раунді."/>
     <string id="YYdPfXEP" text="Tablut is a game of attackers (black) versus defenders (white).{newline}The attackers outnumber the defenders, but the defenders don't have to capture to win. Their main objective is to secure their king (center pawn).{newline}The king follows the same movement and capturing rules as the other pawns."/>
     <string id="YYvzM5Dh" text="Викинути все"/>
     <string id="yzIOcJoK" text="A player wins if his opponent has been blocked and can no longer make any moves."/>
@@ -1890,7 +1890,7 @@
     <string id="ZbsGBv10" text="Hog"/>
     <string id="zCQaPTOK" text="Mercenary"/>
     <string id="ZdeswYbM" text="Trader doesn't have enough money! Are you sure?"/>
-    <string id="ZdqbU2gw" text="Accept"/>
+    <string id="ZdqbU2gw" text="Прийняти"/>
     <string id="zE6OFPRu" text="Settlement Tax"/>
     <string id="zEbvDH7V" text="You cannot support your own clan."/>
     <string id="zeGAw2IE" text="Killed by"/>
@@ -1905,7 +1905,7 @@
     <string id="zMMqgxb1" text="Тип"/>
     <string id="zNekjGmR" text="Recruit Prisoner"/>
     <string id="zNEvBr6R" text="Your Turn"/>
-    <string id="zNHtgL0S" text="The tournament will be an archery contest."/>
+    <string id="zNHtgL0S" text="Турнір буде у формі змагання у стрільбі з лука."/>
     <string id="znKxunbQ" text="Наступний воїн"/>
     <string id="ZnsseELq" text="Faction name needs to be between {MIN} - {MAX} characters."/>
     <string id="znxbib0f" text="Show stats for this usage"/>
