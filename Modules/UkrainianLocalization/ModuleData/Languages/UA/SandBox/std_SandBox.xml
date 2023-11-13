@@ -435,7 +435,7 @@
     <string id="CdRtnwwX" text="Things are good, and {NOTABLE.LINK} says we should credit this to the wisdom of {?OWNER.GENDER}lady{?}lord{\?} {OWNER.LINK}."/>
     <string id="CDXUehf0" text="Good, good."/>
     <string id="cDYz49kZ" text="You can keep my relative under your protection for a time until the calls for vengeance die down. Maybe you can leave one of your warrior companions and {ALTERNATIVE_TROOP_COUNT} men with him to protect him."/>
-    <string id="CH7b5LaX" text="I have changed my mind."/>
+    <string id="CH7b5LaX" text="Я передумав."/>
     <string id="chj1X7VP" text="I do not believe we have any quarrel with you."/>
     <string id="ciXBiMMa" text="Thank you {PLAYER.NAME}, I hope your people will be successful."/>
     <string id="ck36TZFP" text="400{GOLD_ICON}"/>
@@ -647,7 +647,7 @@
     <string id="GKX59dO2" text="Good. You may pass."/>
     <string id="GLRrAj61" text="I do not wish to play games with the likes of you."/>
     <string id="gm3wqjvi" text="Lead the way."/>
-    <string id="GmIluR4H" text="Sure. Why not?"/>
+    <string id="GmIluR4H" text="Звісно. Чому б ні?"/>
     <string id="GMsZZQzI" text="Bring it on."/>
     <string id="gOWebWiK" text="Their direction is marked with an arrow in the campaign map."/>
     <string id="GPBja02V" text="I gave my word to {QUEST_GIVER.LINK}, and I won't be bought."/>
@@ -973,7 +973,7 @@
     <string id="NMakguW4" text="{LEADER.LINK} has created an army around {SETTLEMENT}."/>
     <string id="nMFY2Pb0" text="We are doomed I say, doomed. A ruler who cannot control {?RULER.GENDER}her{?}his{\?} passions brings ruin on the realm."/>
     <string id="NmGJs7yB" text="My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}. May I ask your name?"/>
-    <string id="nmPaCLHp" text="{FIGHT_DEBRIEF} Do you want to give it another go?"/>
+    <string id="nmPaCLHp" text="{FIGHT_DEBRIEF} Бажаєте спробувати ще раз?"/>
     <string id="NMrzr7Me" text="Now, leave peacefully..."/>
     <string id="nMzfnOFG" text="{GAME_NAME} is a game of incredibly uneven odds. A weakened and trapped king must try to escape from a horde of attackers who assault from every direction. Ironic how we, the once all-powerful {CULTURE_NAME}, have now fallen in the same position."/>
     <string id="No04urXt" text="{CLAN} tier is increased to {TIER_LEVEL}"/>
@@ -1141,7 +1141,7 @@
     <string id="qrej2bOU" text="Our pay has been arriving on time, so rest assured that we've got your back."/>
     <string id="Qs7qs3b0" text="You are the shield of our people against the wolves of the forest, the steppe and the sea."/>
     <string id="qsavxffL" text="I'll be attackers."/>
-    <string id="qsg7pZOs" text="Thanks. But I will give my bruises some time to heal."/>
+    <string id="qsg7pZOs" text="Дякую. Але мені потрібен деякий час, щоб залікувати свої рани."/>
     <string id="qsJxhNGZ" text="Safe travels {?PLAYER.GENDER}milady{?}sir{\?}."/>
     <string id="QSPMKz2R" text="You are the chosen of the Sky, and I shall follow your banner as long as my breath remains..."/>
     <string id="qT4nbaAY" text="Oi, you, what are you doing here?"/>
@@ -1292,7 +1292,7 @@
     <string id="UBFS1JLj" text="I have no problem with the boy anymore, okay? Just leave me alone."/>
     <string id="ubnVca4L" text="So, yeah... My {RANDOM_RELATIVE} says he took some {._}{PLURAL(ITEM_NAME)} to {TOWN_NAME} and made {PRICE_DIFF}{GOLD_ICON} in profit. Course he might be talking out of his arse."/>
     <string id="udD7Y7mO" text="Thank you, my {?PLAYER.GENDER}lady{?}sir{\?}, for protecting me. I will go and tell {ISSUE_GIVER.LINK} of your success here."/>
-    <string id="UEbesbKZ" text="Actually, I have changed my mind."/>
+    <string id="UEbesbKZ" text="Власне, я передум{?PLAYER.GENDER}ала{?}ав{/?}."/>
     <string id="UesQ8a2B" text="What kind of workshop do you want to open here?"/>
     <string id="UEY5aQ2l" text="I'm here to rob {TARGET_MERCHANT.NAME}, not be {?TARGET_MERCHANT.GENDER}her{?}his{\?} lackey. Now, cough up the goods or fight."/>
     <string id="UfpmWfbG" text="{PLAYER.NAME}, you are a {?PLAYER.GENDER}lady{?}lord{\?} without a master, holding lands in your name, with only the barest scrap of a claim to legitimacy. No king in Calradia would accept a lasting peace with you."/>
