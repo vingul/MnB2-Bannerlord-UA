@@ -320,7 +320,7 @@
     <string id="3UDUqYv1" text="Scout Perks"/>
     <string id="3V5udYJO" text="You have recruited the brigands into your party. {QUEST_GIVER.LINK} finds your solution acceptable and sends you the {GOLD_AMOUNT}{GOLD_ICON} as promised."/>
     <string id="3vFxRKja" text="You refused his offer and decided to collect the rest of the revenues by force. Your action upset the village notables and made villagers angry. Some villagers tried to resist. In the brawl, {WOUNDED_COUNT} of your men got wounded."/>
-    <string id="3VxA6HaZ" text="This is for me."/>
+    <string id="3VxA6HaZ" text="Для себе."/>
     <string id="3W3eEIIZ" text="Never mind. You can go."/>
     <string id="3W67kdtc" text="This decision had the support of the council."/>
     <string id="3wb2dCfz" text="It'll be right up then, {?PLAYER.GENDER}ma'am{?}sir{\?}."/>
@@ -1275,7 +1275,7 @@
     <string id="c2Yrci3B" text="I believe that we need a strong ruler in this realm. I don't want to find myself at odds with you."/>
     <string id="C2ZGNwwh" text="{COMPANION.NAME} {COMPANION_SCALED_PARAMETERS}"/>
     <string id="c4NPLD0S" text="Any child of a noble clan needs to know how some kings and emperors accumulated wealth and how others squandered it."/>
-    <string id="c4tfVgqb" text="I would like you to help another member of my clan hone their skills."/>
+    <string id="c4tfVgqb" text="Я хотів би, щоб ти допоміг відточити навички ще одній людині з мого клану."/>
     <string id="c5dsio8Q" text="Покращення відносин з NPC +{a0}%"/>
     <string id="c5GOJIhU" text="Сталевар III"/>
     <string id="C5UrdSgj" text="Fast legs and stamina are as vital to a warrior's survival as {?CHILD.GENDER}her{?}his{\?} strength and skill."/>
@@ -2023,7 +2023,7 @@
     <string id="GuWWKgEm" text="As you approach the arena, you overhear gossip about the contestants and prizes. Apparently there {?(NOBLE_COUNT &gt; 1)}are {NOBLE_COUNT} lords{?}is 1 lord{\?} with renowned fighting skills present in the city who plan to enter the tournament. Given this turnout, the organizers are offering {.a} &quot;{.%}{TOURNAMENT_PRIZE}{.%}&quot; for the victor."/>
     <string id="guZWnzaV" text="Сильні ноги"/>
     <string id="gVad94Br" text="I was just checking in with you."/>
-    <string id="GvcotJmH" text="I would like you to help hone the skills of a member of my clan."/>
+    <string id="GvcotJmH" text="Я хотів би, щоб ти допоміг відточити навички одній людині з мого клану."/>
     <string id="GVJS9ewr" text="You know, these goods are worth more to me than what you'll paying. I will keep them."/>
     <string id="GvSVxyO0" text="Your steward is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
     <string id="gVuF84RZ" text="Guards caught you"/>
@@ -3085,7 +3085,7 @@
     <string id="nyatGUkU" text="socialized with other engineers."/>
     <string id="NYHeygaj" text="Спритні руки"/>
     <string id="nysBXpEO" text="camels"/>
-    <string id="NyWXSHH2" text="Of course. Was this for you, or someone else?"/>
+    <string id="NyWXSHH2" text="Звісно. Ви питаєте для себе чи когось іншого?"/>
     <string id="nZaeTlj8" text="Exchange Troops"/>
     <string id="nZbaYvVx" text="Stash"/>
     <string id="NzlwbSIj" text="{VALUE}% витрати витривалості під час переплавлення."/>
@@ -4427,7 +4427,7 @@
     <string id="WrJSUsBe" text="Support to king"/>
     <string id="wrliXWLc" text="You approved the law which prevents price fixing in the markets and rejected the merchants' counter-offer."/>
     <string id="wrpsJM2u" text="Yes... I hired a band of mercenaries for a campaign some time back. But... normally mercenaries have their own peculiar kind of honor. You pay them, they fight for you, you don't, they go somewhere else. But these ones have made it pretty clear that if I don't keep renewing the contract, they'll turn bandit. I can't afford that right now."/>
-    <string id="WRwA0VVS" text="Which one of your clan members did you wish me to retrain?"/>
+    <string id="WRwA0VVS" text="Кого з членів свого клану ти б хотів, щоб я перенавчив?"/>
     <string id="WSAS3XLC" text="There was someone here not long ago, went by the name of {INQUIRY_COMPANION.LINK}. {?INQUIRY_COMPANION.GENDER}She{?}He{\?} left for {COMPANION_SETTLEMENT}. Perhaps you can find them there, or on the road.[rb:positive]"/>
     <string id="wsbkjJhz" text="Arena is closed at night."/>
     <string id="wScKLt7F" text="Let me put things this way... It's not grown on me at all since the last time it happened."/>
@@ -4650,7 +4650,7 @@
     <string id="y62dyzH6" text="You have lost the track of caravan. Your agreement with {ISSUE_GIVER.LINK} is failed."/>
     <string id="y6j1bJTH" text="Ви стали підмайстром у місцевого коваля. Ви навчилися нагрівати та кувати метал, годинами б'ючи молотом аж до болю в м'язах, загартовуючи як зброю, так і свою міць."/>
     <string id="Y7tozytM" text="Hello, {?PLAYER.GENDER}madam{?}sir{\?}. You have the bearing of a warrior. Do you have a minute? We may have interests in common."/>
-    <string id="Y7tz9D28" text="These teachers who help people hone their skills and learn new habits... Can you help me find one?"/>
+    <string id="Y7tz9D28" text="Ці вчителі, які допомагають відточувати наявні навички і вивчати нові... Можеш допомогти мені їх знайти?"/>
     <string id="Y8jAaICu" text="One day {?PLAYER_CHILD}your{?}the{\?} child asks you which of your skills was most useful to you. You thought for a while, and answered..."/>
     <string id="Y94H6XnK" text="Accept"/>
     <string id="y9AsEMnV" text="{VALUE}% споживання їжі у вашому загоні, поки він є частиною армії."/>
