@@ -1007,7 +1007,7 @@
     <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are protecting the general."/>
     <string id="KawqKhwh" text="Heavy Armor"/>
     <string id="KC5AZohd" text="Greetings, traveler. Welcome to our forest. We're going to have to collect a small toll.[rf:convo_mocking_revenge]"/>
-    <string id="KcQiDE6b" text="Можна продати в {SETTLEMENT_NAME}{.v_dav} за {SELL_PRICE}"/>
+    <string id="KcQiDE6b" text="Можна продати в {SETTLEMENT_NAME}{.v_mis} за {SELL_PRICE}"/>
     <string id="kdV0tx9K" text="Hello, traveler. Hope you brought your purse. See, we're what you might call brigands, and I'm afraid we can't let you pass without paying us a bit of coin.[if:convo_mocking_revenge]"/>
     <string id="kDV7wCtI" text="Complete in: {PREPARATION_TIME}"/>
     <string id="KE9rdUhD" text="- {HERO_NAME}"/>
@@ -1876,7 +1876,7 @@
     <string id="yzIOcJoK" text="A player wins if his opponent has been blocked and can no longer make any moves."/>
     <string id="yZzlItBW" text="this party"/>
     <string id="z0c2pDhZ" text="At Peace"/>
-    <string id="z3AvJZMt" text="Можна купити у {SETTLEMENT_NAME}{.v_dav} за {BUY_PRICE}"/>
+    <string id="z3AvJZMt" text="Можна купити в {SETTLEMENT_NAME}{.v_mis} за {BUY_PRICE}"/>
     <string id="Z3yCe1HS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are regrouping."/>
     <string id="Z5kGFH7k" text="pc."/>
     <string id="Z5RlxyPJ" text="You've been held prisoner for {NUMBER_OF_DAYS} {?PLURAL}days{?}day{\?} by {PARTY_NAME}."/>
