@@ -102,7 +102,7 @@
     <string id="AoNh2ihL" text="Enemy Spotted!"/>
     <string id="auDOtbza" text="Culture Team 1"/>
     <string id="averageConnection" text="Average"/>
-    <string id="Ayrvf5yp" text="Kill"/>
+    <string id="Ayrvf5yp" text="Вбивства"/>
     <string id="aZVxHbwH" text="Killed by {TROOP_NAME}"/>
     <string id="b0L0jbIa" text="Положення очей"/>
     <string id="b74zosgq" text="Розмір носа"/>
@@ -319,7 +319,7 @@
     <string id="QQX6oNbn" text="In a Party"/>
     <string id="QTr6UDAa" text="Stop"/>
     <string id="R3BwLVmT" text="Delivered {DAMAGE} {DAMAGE_TYPE} damage."/>
-    <string id="R4Gqskgq" text="Victory"/>
+    <string id="R4Gqskgq" text="Перемога"/>
     <string id="R9DiQfax" text="Battle"/>
     <string id="rbYITcao" text="Рот"/>
     <string id="rbz1Bwbv" text="Inventory"/>
