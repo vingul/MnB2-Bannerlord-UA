@@ -26,7 +26,7 @@
     <string id="0rBsbw1T" text="No effect"/>
     <string id="0RkO7oHP" text="captain"/>
     <string id="0rsySqR6" text="On {DAY_OF_YEAR}, {YEAR}, you heard of a conspiracy working in the shadows to forge the enemies of the Empire into an alliance."/>
-    <string id="0T3bP5r6" text="{DAY} {?PLURAL_DAYS}days{?}day{\?}"/>
+    <string id="0T3bP5r6" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#}"/>
     <string id="0V4jIIju" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для облоги."/>
     <string id="0zNzaDGq" text="Blade"/>
     <string id="0zz1iDMY" text="{.m}вождь{.R_n20_a_p}"/>
@@ -87,7 +87,7 @@
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus"/>
     <string id="2wclahIJ" text="Метання"/>
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% bonus to taxes"/>
-    <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {?IS_MORE_THAN_ONE_DAY}days {?}day {\?}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {?IS_MORE_THAN_AN_HOUR}hours{?}hour{\?}{\?}"/>
+    <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день{#}дні{#}днів{\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
     <string id="300TAI7u" text="Продати все"/>
     <string id="33ghdWWi" text="Other Policies"/>
     <string id="33hHRM8r" text="Opponent's Turn"/>
@@ -156,7 +156,7 @@
     <string id="59PSpyu8" text="Bound settlement: {SETTLEMENT_LINK}"/>
     <string id="5a4cY5az" text="You can not perform this action while you are in a siege."/>
     <string id="5bqmaciE" text="{ARMY_MEMBER} to be at army"/>
-    <string id="5cGXHF1a" text="Today"/>
+    <string id="5cGXHF1a" text="Сьогодні"/>
     <string id="5CYdyMzj" text="Залишилось"/>
     <string id="5DBDy2si" text="You trapped enemies."/>
     <string id="5DSafcSC" text="Konane"/>
@@ -183,7 +183,7 @@
     <string id="5X9Sq4T4" text="{NUM} Lord(s)"/>
     <string id="5XFDdsHf" text="Abdicate Leadership"/>
     <string id="5ZPp8btH" text="Barter Offer is accepted!"/>
-    <string id="640qFpJ8" text="{DAY} {?PLURAL_DAYS}days{?}day{\?} and {HOUR} {?PLURAL_HOURS}hours{?}hour{\?}"/>
+    <string id="640qFpJ8" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#} і {HOUR} годин{#GET_PLURAL_VALUE(HOUR)}а{#}и{#}{\#}"/>
     <string id="65QqsaKe" text="You are on the wrong side!"/>
     <string id="6b1RXicd" text="Improved Battering Ram"/>
     <string id="6bex2HUl" text="Though it seems most people are managing to get by, many seem angry, and you overhear a few passers-by muttering that their patience is giving out. You sense something may be stirring."/>
@@ -682,7 +682,7 @@
     <string id="F5UPr9jh" text="Взяти все"/>
     <string id="F6GhrriD" text="Create Kingdom"/>
     <string id="f6gSyvnC" text="Стріляйте у ворогів з лука. Виконуйте складні постріли з великої відстані."/>
-    <string id="f6pjlKdz" text="Yesterday"/>
+    <string id="f6pjlKdz" text="Вчора"/>
     <string id="f7t4saJu" text="Ціна"/>
     <string id="f7vOVQb7" text="Summer"/>
     <string id="F8g1TzoX" text="You are outside {SETTLEMENT_NAME}. You see the banner of {LORD.LINK} flying over the castle gate."/>
@@ -916,7 +916,7 @@
     <string id="IoLK7Lec" text="Base size"/>
     <string id="iORENG5d" text="Mercenaries cannot propose policies."/>
     <string id="IOtAJCVw" text="Total Influence: {TOTAL_INFLUENCE}"/>
-    <string id="IPjqLEdQ" text="{DAY} days ago"/>
+    <string id="IPjqLEdQ" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#} назад"/>
     <string id="IQ4bSdf5" text="Sister-in-law"/>
     <string id="iQao7Ct6" text="Starving Parties"/>
     <string id="iRo4meJR" text="Can't access encyclopedia right now!"/>
@@ -1103,7 +1103,7 @@
     <string id="lQQPKo02" text="Move to screen us against foes moving behind our back"/>
     <string id="lRAaUTjs" text="Drop"/>
     <string id="lrAnY7Fb" text="Old Quests"/>
-    <string id="LSsFOEQy" text="Less than a day"/>
+    <string id="LSsFOEQy" text="Менше доби"/>
     <string id="LsZEdD2z" text="Walls"/>
     <string id="lTTWrL1Q" text="Quest Timed Out: {QUEST_TITLE}"/>
     <string id="lULBZ714" text="{.f}Олія{.R_n10}{@Plural}{.p}Амфора{.R_n10_p1} олії{\@}"/>
@@ -1152,7 +1152,7 @@
     <string id="mJkJWccN" text="If you proceed, you will remove {GOVERNOR.NAME} from being the governor of {SETTLEMENT_NAME}. Are you sure?"/>
     <string id="MLmHSSg0" text="Heavy Cavalry"/>
     <string id="MmNF7sW7" text="Moving pawns is only possible by capturing pawns from your opponent.{newline}Capturing is done by orthoginally jumping over 1 or more opposing pawns."/>
-    <string id="Mms9bbhY" text="{DAY_NUM} {?DAY_NUM==1}day{?}days{\?}"/>
+    <string id="Mms9bbhY" text="{DAY_NUM} {#GET_PLURAL_VALUE(DAY_NUM)}день{#}дні{#}днів{\#}"/>
     <string id="mNr84Xm1" text="Can't access clan window right now!"/>
     <string id="mountnoun" text="Mount"/>
     <string id="mPaQzgS0" text="Good to see you here, {PLAYER.LINK}."/>
@@ -1386,7 +1386,7 @@
     <string id="QBbBahLv" text="You have our permission to proceed with your journey."/>
     <string id="QBPrRdQJ" text="Хірург"/>
     <string id="qC4OsBt1" text="Villages (Under Siege)"/>
-    <string id="qDSda1OI" text="{DAY} {?DAY_IS_PLURAL}days{?}day{\?}"/>
+    <string id="qDSda1OI" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#}"/>
     <string id="QE1XRyUP" text="+{BONUS_AMOUNT}% bonus to siege engine production speed"/>
     <string id="qe686AAn" text="You're the ruler. Your decision will be the final one and will overrule anything."/>
     <string id="QeeK2rge" text="you"/>
@@ -1620,7 +1620,7 @@
     <string id="uEiFfbOq" text="{SEASON} {DAY}, {YEAR}"/>
     <string id="uFDiRV1Z" text="({PRIMARY_ROLE})"/>
     <string id="ufnnUxKb" text="{.f}Дублений{.R_adj} {.f}шкіра{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} дубленої шкіри{\@}"/>
-    <string id="uFuDwaYp" text="{HOUR} {?PLURAL_HOURS}hours{?}hour{\?}"/>
+    <string id="uFuDwaYp" text="{HOUR} годин{#GET_PLURAL_VALUE(HOUR)}а{#}и{#}{\#}"/>
     <string id="ug4LiPbb" text="Ranged Weapons IV"/>
     <string id="uGahvbVP" text="Defend siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
     <string id="ugJfuabA" text="Кінний лучник"/>
@@ -1787,7 +1787,7 @@
     <string id="XnsAbUE3" text="Dismiss"/>
     <string id="xo2zvOir" text="Your opponent cannot make any moves. Skipping turn."/>
     <string id="xq62HAIO" text="Protect{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} flank of ally {AI_SIDE} {CLASS}"/>
-    <string id="xqeFT0cU" text="For {DAY} {?DAY_IS_PLURAL}days{?}day{\?}"/>
+    <string id="xqeFT0cU" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#}"/>
     <string id="xqN16a4k" text="Board Game"/>
     <string id="xqOqriWF" text="Granddaughter"/>
     <string id="XqV3x4i3" text="Upon selection, this option will progress the persuasion attempt to the next stage."/>
