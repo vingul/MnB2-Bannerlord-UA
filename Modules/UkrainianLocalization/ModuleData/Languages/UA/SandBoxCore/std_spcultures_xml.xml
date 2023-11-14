@@ -28,7 +28,7 @@
     <string id="1I3uRUGM" text="Riman"/>
     <string id="1JgWclmT" text="Choric"/>
     <string id="1mhbWay3" text="Dinin"/>
-    <string id="1sbJQR4H" text="Looters"/>
+    <string id="1sbJQR4H" text="{.p}Грабіжник{.R_n20_p}"/>
     <string id="1suLcaso" text="Cunbert"/>
     <string id="1Ww5lg6I" text="The first Vlandians arrived from overseas, mercenaries and adventurers, speaking the tongues of many lands, taking the empire's silver to guard the frontiers against the unsubdued tribes of the interior. They took their name from one of their first warlords, Wilund the Bold - Valandion, in Calradic - and became known as the Vlandians. Their heavy cavalry, second to none, ran down the Emperor's foes from the Aserai wastes to the distant steppes. But cash-strapped officials soon began to pay them with land grants and titles instead of silver, perhaps not the most far-sighted of policies. The Vlandians settled, married, planted farms, and seized nearby imperial fortresses as their own. Now they are an independent kingdom, their traditions drawing from both Calradia and their distant homelands."/>
     <string id="25zTek7a" text="Alakhir"/>
@@ -313,7 +313,7 @@
     <string id="e4jAHUX0" text="Tymata"/>
     <string id="E4WhEvu7" text="Sotherys"/>
     <string id="e52LPp57" text="Udris"/>
-    <string id="e6csp4ha" text="Steppe Bandits"/>
+    <string id="e6csp4ha" text="{.p}Степовий{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="e6goEM5b" text="Valdym"/>
     <string id="e7dayl1i" text="Mavinon"/>
     <string id="eAro6IVf" text="Shalar"/>
@@ -502,7 +502,7 @@
     <string id="kFYtFka8" text="Echa"/>
     <string id="kIrWyLut" text="Undgar"/>
     <string id="KjzJjj5n" text="Eronys"/>
-    <string id="kkUQObZn" text="Desert Bandits"/>
+    <string id="kkUQObZn" text="{.p}Пустельний{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="kL0ldFLG" text="Pekko"/>
     <string id="KmAOMxqy" text="Davalan"/>
     <string id="KmzQabkH" text="Hivan"/>
@@ -562,7 +562,7 @@
     <string id="Ml5KBonI" text="Tosui"/>
     <string id="MN8aE2yP" text="Caroger"/>
     <string id="MNFMqV3n" text="Lyfris"/>
-    <string id="mOa9CX13" text="Mountain Bandits"/>
+    <string id="mOa9CX13" text="{.p}Гірський{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="MpZCQ0z1" text="Breadan"/>
     <string id="mqkSkCBX" text="Uluvi"/>
     <string id="mQStUNPe" text="Kazam"/>
@@ -623,7 +623,7 @@
     <string id="P1zsoSPN" text="Rhovarion"/>
     <string id="p4BMhcsQ" text="Iara"/>
     <string id="P7iNhhPl" text="Turiados"/>
-    <string id="pBUc2pL8" text="Sea Raiders"/>
+    <string id="pBUc2pL8" text="{.p}Пірат{.R_n20_p}"/>
     <string id="PbxaX8F5" text="Othalotos"/>
     <string id="pCBkH35Q" text="Danos"/>
     <string id="PdK2pGIb" text="Yesha"/>
@@ -733,7 +733,7 @@
     <string id="RZ5bYYmX" text="Lisaradh"/>
     <string id="sa0YrXiv" text="Azareh"/>
     <string id="sAa3o3vw" text="Banu Tharuq"/>
-    <string id="sAbjtZbB" text="Forest Bandits"/>
+    <string id="sAbjtZbB" text="{.p}Лісовий{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="scCmMFeI" text="Ekadrya"/>
     <string id="sDFb1PRI" text="Nortos"/>
     <string id="SDSbjMSj" text="Kuruntai"/>
