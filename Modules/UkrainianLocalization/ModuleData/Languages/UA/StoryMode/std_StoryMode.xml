@@ -623,7 +623,7 @@
     <string id="tzkclhXs" text="How should we prepare for the fight?"/>
     <string id="tzsZTcWd" text="I wonder which kingdom should I support.."/>
     <string id="TZZX9kWf" text="{MENTOR.LINK} suggested that you should support an imperial faction by offering them the Dragon Banner."/>
-    <string id="u1Pkt4HC" text="Raiders"/>
+    <string id="u1Pkt4HC" text="{.p}Грабіжник{.R_n20_p}"/>
     <string id="UCoOMWaj" text="As I said before, there's a case for all of the claimants. When this war began, I thought Rhagaea understood best how to rule, Garios was the strongest warrior, and Lucon had the firmest grasp of our traditions."/>
     <string id="UdHL9YZC" text="Well well, isn't this the famous {PLAYER.LINK}! You have been a thorn at our side for a while now. It's good that you are here now. It spares us from searching for you.[if:idle_angry][ib:warrior]"/>
     <string id="UDL0v1bR" text="I believe I have a piece of the Dragon Banner of Calradios."/>
