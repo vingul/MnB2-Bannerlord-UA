@@ -427,7 +427,7 @@
     <string id="5bBAOHmC" text="{RULER.NAME} of the {KINGDOM} takes {SETTLEMENT} as {?RULER.GENDER}her{?}his{\?} fief, with {?RULER.GENDER}her{?}his{\?} council evenly split."/>
     <string id="5BEGa9ZS" text="Choose a Skill"/>
     <string id="5bmlZ26b" text="Торговець зброєю"/>
-    <string id="5bSWSaPl" text="Footmen on horses"/>
+    <string id="5bSWSaPl" text="Піхотинці на конях"/>
     <string id="5cH6ssDI" text="a mercenary company"/>
     <string id="5CJOMH90" text="{ARMY} has been disbanded."/>
     <string id="5CJrR0X3" text="{ISSUE_GIVER.LINK} in the village requested crafting materials for their ongoing project."/>
@@ -1860,7 +1860,7 @@
     <string id="Fr7wzk97" text="I am the rightful ruler of this land. I would like your support."/>
     <string id="FrLta5zf" text="{FIRSTNAME} the Fist"/>
     <string id="FSa61zD4" text="{FIRSTNAME} the Hammer"/>
-    <string id="fSGY71wd" text="Cargo within capacity"/>
+    <string id="fSGY71wd" text="Вантаж в межах місткості"/>
     <string id="fsr2yhrr" text="While there were few military feats to accomplish, {CHILD.NAME} still became quite popular among the troops and improved their morale in the process."/>
     <string id="fsTBcLvA" text="{SETTLEMENT} Garrison"/>
     <string id="fswrp38u" text="{VALUE}% штрафу за торгівлю в'ючними тваринами."/>
@@ -3512,7 +3512,7 @@
     <string id="QrYjPUEf" text="увагою до деталей."/>
     <string id="Qs7qs3b0" text="You are the shield of our people against the wolves of the forest, the steppe and the sea."/>
     <string id="QSaufZ9i" text="One of your parties has lost its leader. It will disband after a day has passed. You can assign a new clan member to lead it, if you wish to keep the party."/>
-    <string id="qSi4DlT4" text="Food"/>
+    <string id="qSi4DlT4" text="Їжа"/>
     <string id="QskefraA" text="{FIRSTNAME} of the Ram"/>
     <string id="QsL6qcDb" text="That's very good to hear! Thank you."/>
     <string id="QsMEML5E" text="{VALUE}% швидкості розмноження тварин в селах, зв'язаних з підконтрольним поселенням."/>
@@ -4012,7 +4012,7 @@
     <string id="U0UoayfA" text="Good, good. Thank you again."/>
     <string id="u12ocP9f" text="Утримуйте '{EXTEND_KEY}', щоб дізнатись більше."/>
     <string id="u1lTJoPO" text="Nemos"/>
-    <string id="u1Pkt4HC" text="Raiders"/>
+    <string id="u1Pkt4HC" text="{.p}Грабіжник{.R_n20_p}"/>
     <string id="U2buPiec" text="Знання логістики"/>
     <string id="U3B7zaQb" text="{VALUE}% швидкості пересування воїнів вашого строю на засніженій та лісовій місцевості."/>
     <string id="U3cgqyUE" text="Надзвичайний розбійник"/>
@@ -4719,7 +4719,7 @@
     <string id="YjxCkglX" text="You've failed to complete this quest in time. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
     <string id="Yk3xrawy" text="When {?CHILD.GENDER}she{?}he{\?} returns, {CHILD.NAME} tells you the story of how {?CHILD.GENDER}she{?}he{\?} {RANDOM_OUTCOME} That event increased {?CHILD.GENDER}her{?}his{\?} skill in {SKILL}."/>
     <string id="yKz5e5H4" text="Yes. I have the goods right here. I brought {REQUESTED_AMOUNT} {.%}{?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%} as we agreed."/>
-    <string id="YkZKXsIn" text="Main party wages"/>
+    <string id="YkZKXsIn" text="Платня основному загону"/>
     <string id="YKzuGc54" text="Ви були досить великим як на свій вік і тому інші діти завжди намагалися взяти вас із собою, коли збирались на бійку з хлопцями із сусіднього села. Ви могли тягнути плуг і кидати сокиру не гірше дорослого."/>
     <string id="YLjksPbk" text="You're a kind {?PLAYER.GENDER}woman, madam{?}man, sir{\?}. You understand what poor folk like us are up against."/>
     <string id="yLqDHZv9" text="Thank you. I hope your men deal with them as soon as possible."/>
