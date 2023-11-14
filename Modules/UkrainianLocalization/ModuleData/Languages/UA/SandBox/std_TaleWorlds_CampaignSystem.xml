@@ -1493,7 +1493,7 @@
     <string id="dgf6q4qB" text="Manage town"/>
     <string id="dGkJi1yb" text="I have a strategy to win. And my strategies always work, eventually."/>
     <string id="dGoEWaeX" text="The enemy has begun their assault!"/>
-    <string id="dgUF5awO" text="It will take {HOURS} {?HOURS &gt; 1}hours{?}hour{\?} for this clan member to arrive."/>
+    <string id="dgUF5awO" text="Цей член клану прибуде за {HOURS} годин{#GET_PLURAL_VALUE(HOURS)}у{#}и{#}{\#}."/>
     <string id="DgVU7owN" text="I pray for your warriors. The people here will be very glad to hear of their success."/>
     <string id="DHm1MBsj" text="Lodging for the garrisoned troops. Each level increases the garrison capacity of the stronghold."/>
     <string id="DhrjR8bs" text="Announce that the villagers have paid enough, and leave the village."/>
@@ -2671,7 +2671,7 @@
     <string id="La7wkS5M" text="The young {?CHILD.GENDER}woman{?}man{\?} defeated several opponents and did honor to your clan's name."/>
     <string id="la8jMuQ8" text="Energy"/>
     <string id="La9qAlfi" text="Confirm the Results"/>
-    <string id="Lak0x7Sa" text="{HOURS} {?HOURS==1}hour{?}hours{\?}"/>
+    <string id="Lak0x7Sa" text="{HOURS} годин{#GET_PLURAL_VALUE(HOURS)}а{#}и{#}{\#}"/>
     <string id="laWxqjBP" text="{VALUE}% шкоди їздовим тваринам від арбалетників вашого строю."/>
     <string id="LAxaYQzv" text="{VALUE}% штрафу точності при повороті."/>
     <string id="lay7hKUK" text="I insist that my {?PLAYER.GENDER}wife{?}husband{\?} conduct {?PLAYER.GENDER}herself{?}himself{\?} according to the highest standards."/>
@@ -2978,7 +2978,7 @@
     <string id="nAM821Fb" text="Here you are."/>
     <string id="NaMPa4ML" text="Authoritarian"/>
     <string id="NaoYCmC6" text="Good. Needless to say, by not taking any money up front, I am trusting in your honesty in your ability to protect those goods. But I am sure that trust will not be misplaced."/>
-    <string id="NAseSXPl" text="It would take {HOUR} {?HOUR &gt; 1}hours{?}hour{\?} for {HERO.NAME} to arrive at your party."/>
+    <string id="NAseSXPl" text="Щоб дістатися до вашого загону {HERO.NAME}{.v_dav} знадобиться {HOUR} годин{#GET_PLURAL_VALUE(HOUR)}а{#}и{#}{\#}."/>
     <string id="nB07bljx" text="{ISSUE_OWNER.LINK}, a {?ISSUE_OWNER.GENDER}lady{?}lord{\?} of the {ISSUE_OWNER.CLAN}, has a personal vendetta against {TARGET_HERO.LINK} of the {TARGET_HERO.CLAN}. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants {TARGET_HERO.LINK} captured and brought back to {?ISSUE_OWNER.GENDER}her{?}him{\?}. If you manage doing that, {?ISSUE_OWNER.GENDER}she{?}he{\?} promised a reward of {REWARD_GOLD}{GOLD_ICON}. You agreed to find {TARGET_HERO.LINK} and bring {?TARGET_HERO.GENDER}her{?}him{\?} to {ISSUE_OWNER.LINK} within one year."/>
     <string id="nb0wqaGA" text="You have made a deal with {NOTABLE.LINK} to betray {QUEST_GIVER.LINK}."/>
     <string id="NBAGX54b" text="Avigos"/>
