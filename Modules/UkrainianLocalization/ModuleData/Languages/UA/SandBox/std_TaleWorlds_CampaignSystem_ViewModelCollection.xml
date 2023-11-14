@@ -74,7 +74,7 @@
     <string id="a4GDfSel" text="Reset Tutorials"/>
     <string id="a8NoW1Q2" text="Are you sure you want to cancel your changes?"/>
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}"/>
-    <string id="AcMayd1p" text="Running from {TARGET_PARTY}"/>
+    <string id="AcMayd1p" text="Втікає від {TARGET_PARTY}{.v_rod}"/>
     <string id="aE4ZRbB6" text=" {HEALTH}%"/>
     <string id="aeouhelq" text="Yes"/>
     <string id="aFYwbosi" text="This hero is already leading a party."/>
@@ -236,7 +236,7 @@
     <string id="j3iwQmoA" text="Кількість очок фокусу: {CURRENT_AMOUNT}"/>
     <string id="j4BdjLYp" text="Start a conversation with this clan member."/>
     <string id="j4F7tTzy" text="Clan"/>
-    <string id="J5u0uOKc" text="Running from {TARGET_PARTY} to settlement."/>
+    <string id="J5u0uOKc" text="Втікає від загону {TARGET_PARTY}{.v_rod} в поселення."/>
     <string id="J8ddrAOf" text="Governor Effects"/>
     <string id="j8uZBakZ" text="{PROPERTIES}"/>
     <string id="jdbT6nc9" text="Each {SUPPORTER_RANK} supporter provides {INFLUENCE_BONUS} per day."/>
@@ -385,7 +385,7 @@
     <string id="r0WIRUHo" text="Criminal Rating"/>
     <string id="R2AaCaPJ" text="Очікувані зміни"/>
     <string id="R4rTlKMU" text="Troop upgrades are currently disabled."/>
-    <string id="R8vuwKaf" text="Running from {TARGET_PARTY} to ally party."/>
+    <string id="R8vuwKaf" text="Втікає від загону {TARGET_PARTY}{.v_rod} до союзників."/>
     <string id="Ra17aK4e" text="Current Capital"/>
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}"/>
     <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
@@ -459,7 +459,7 @@
     <string id="uJro3Bua" text="Over Limit"/>
     <string id="uQgNPJnc" text="Manage Troops"/>
     <string id="US7UmBbt" text="Armor Tier"/>
-    <string id="UUaW0dba" text="Moving to {SETTLEMENT_NAME}"/>
+    <string id="UUaW0dba" text="Прямує до {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="UxAl9iyi" text="Особисте"/>
     <string id="uZhHh7pm" text="Crafted {CURR_TEMPLATE_NAME}"/>
     <string id="v3OF6vBg" text="Yield"/>
