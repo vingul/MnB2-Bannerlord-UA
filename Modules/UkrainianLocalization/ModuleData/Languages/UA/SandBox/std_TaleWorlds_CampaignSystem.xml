@@ -250,7 +250,7 @@
     <string id="2y9DhzCR" text="You are about to lose sight of the caravan. Find the caravan before they are in danger!"/>
     <string id="2YiPE05P" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. Your companion will no doubt be very helpful."/>
     <string id="2YUUGQvG" text="Female"/>
-    <string id="2YYRyrOO" text="Leave..."/>
+    <string id="2YYRyrOO" text="Піти геть..."/>
     <string id="2zNrVsDj" text="{VALUE}% впливу на бойовий дух дружніх воїнів, коли ви вбиваєте дворучною зброєю."/>
     <string id="30eSZeZd" text="{VALUE}% досвіду для супутників."/>
     <string id="30hNRt3x" text="Тактика малих загонів"/>
@@ -3427,7 +3427,7 @@
     <string id="qfjgKCty" text="{VALUE}% збільшення швидкості будівництва облогового знаряддя за кожного ополченця."/>
     <string id="qfjRGjM4" text="Your scouts started to gather information about {SETTLEMENT}."/>
     <string id="QFKK1H4U" text="Kingdom Destroyed"/>
-    <string id="QfMeoKOm" text="Send troops."/>
+    <string id="QfMeoKOm" text="Відправити воїнів."/>
     <string id="qFoMsPIf" text="I'm glad we made it out safe. What will you do now?"/>
     <string id="Qft5pfYr" text="You have been accused of a crime, and {QUEST_GIVER.LINK} has declared that you are no longer her champion."/>
     <string id="qfzkMuLj" text="Artisan"/>
@@ -3965,7 +3965,7 @@
     <string id="TtaEimaV" text="{FIRSTNAME} of the Bridge"/>
     <string id="tTb28jyU" text="Багато баттанців воюють в складі керну, універсальної бойової одиниці, яка може як виснажити ворожу лінію дротиками, так і приєднатися згодом до фінальної атаки, кинувшись на ворога з несамовитим бойовим кличем."/>
     <string id="tTFUSJoe" text="{FIRSTNAME} the Smith"/>
-    <string id="TtGJqRI5" text="Send troops"/>
+    <string id="TtGJqRI5" text="Відправити воїнів"/>
     <string id="tthBNejU" text="Have you collected the revenues?"/>
     <string id="tTM6nPul" text="What can I do for you, {?ISSUE_OWNER.GENDER}madam{?}sir{\?}?"/>
     <string id="ttpan5jp" text="{CURRENT_LIEGE.LINK} and I have been through a great deal together."/>
@@ -4146,7 +4146,7 @@
     <string id="UuQDXIFD" text="hunts down bandits."/>
     <string id="UuypR3B4" text="{FIRSTNAME} of the Gourd"/>
     <string id="uuyso3mg" text="Income from Parties"/>
-    <string id="uvjOVy5P" text="Dead"/>
+    <string id="uvjOVy5P" text="Смерті"/>
     <string id="UW1roOES" text="You should discuss this issue with {REDIRECT_HERO_RELATIONSHIP}, who speaks for our family."/>
     <string id="uw2kKrQk" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}очко{#}очки{#}очків{\#} фокусу: {SKILL_ONE}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}очко{#}очки{#}очків{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
     <string id="uW38UtSH" text="Eupitor"/>
