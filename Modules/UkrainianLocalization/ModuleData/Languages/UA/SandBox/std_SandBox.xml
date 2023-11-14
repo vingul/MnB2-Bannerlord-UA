@@ -73,7 +73,7 @@
     <string id="2PPwmNmg" text="I can escort you for 10 days. After that, I must return to my own affairs."/>
     <string id="2VRTPyZY" text="{SETTLEMENT} is yours."/>
     <string id="2WI066bI" text="Nimr Nimr he was killed. Died in the cage of the Banu Qild.{newline}All the ladies cry their grief. All the husbands sigh in relief."/>
-    <string id="2WnruiBw" text="I know of one starting up at {CLOSEST_TOURNAMENT}. You should be able to get there if you move quickly enough."/>
+    <string id="2WnruiBw" text="Один скоро розпочнеться в {CLOSEST_TOURNAMENT}{.v_mis}. Тільки поспіши, ніхто на тебе не чекатиме."/>
     <string id="2XbzsQkM" text="Hmf. Really?[ib:closed][if:idle_angry]"/>
     <string id="2xLwjXYm" text="Rest easy. Your captivity has ended."/>
     <string id="2ynnnR4c" text="I'd prefer to keep the difficulty where it's at."/>
@@ -1101,7 +1101,7 @@
     <string id="Q0xPr6CP" text="I cannot be sure of your loyalty any longer."/>
     <string id="q1F03tON" text="Indeed I am, {LORD_SALUTATION}. Forgive my rambling."/>
     <string id="Q2RKkISe" text="There are a number of us up here in our caves. We dine well on locusts and wild honey. Some of us once knew wealth and power, but what we relish now is freedom. Freedom from the worry that what we hoard will be lost. Freedom from the fear that our actions offend Heaven. The only true freedom. We welcome newcomers, like your good self."/>
-    <string id="Q7B68CVK" text="{?PLAYER.GENDER}Splendid{?}Good man{\?}! That's clever of you.[ib:normal]"/>
+    <string id="Q7B68CVK" text="Розумію. Це дуже розумно з твого боку.[ib:normal]"/>
     <string id="Q7wBRXtR" text="Yes, I have. ({GOLD_COST} {GOLD_ICON})"/>
     <string id="Q9Ltufg5" text="Tell me who to command."/>
     <string id="QaAzicqA" text="Many men have beards. Still, that is something."/>
