@@ -233,7 +233,7 @@
     <string id="7MWaMaez" text="Here's what we've got: {ITEM_LIST}. Take them, but let us live."/>
     <string id="7oJ9gIeT" text="Trader does not have enough money."/>
     <string id="7pAZatbz" text="{?RULER.GENDER}Empress{?}Emperor{\?} {RULER.NAME}"/>
-    <string id="7sUhWG0E" text="Шкода від тичка: "/>
+    <string id="7sUhWG0E" text="Шкода від випаду: "/>
     <string id="7sZMMYbe" text="Minor Faction"/>
     <string id="7t1daAel" text="Bad decision, friend.[ib:aggressive][if:convo_very_stern]"/>
     <string id="7vdgxtwo" text="IV"/>
@@ -1694,7 +1694,7 @@
     <string id="VpCa9ATa" text="Right. You're dead.[ib:aggressive][if:convo_insulted]"/>
     <string id="VpKIzJxz" text="Well there, traveller. We've just made landfall in these lands, hoping for a bit of luck with the raiding and pillaging, and aren't you a sight for sore eyes?[rf:convo_mocking_revenge]"/>
     <string id="vpx7Pa7v" text="Offer"/>
-    <string id="VPYazFVH" text="Швидкість тичка: "/>
+    <string id="VPYazFVH" text="Швидкість випаду: "/>
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} increase to settlement loyalty"/>
     <string id="VqpmXU1m" text="Стріляйте у ворогів з арбалета."/>
     <string id="Vqu67a3b" text="{.m}Шовк{.R_n20_u}-{.m}сирець{.R_n22_u}{@Plural}{.p}Рулон{.R_n20_p} шовку-сирецю{\@}"/>
