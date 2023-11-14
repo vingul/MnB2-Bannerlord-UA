@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
-    <string id="1sbJQR4H" text="Looters"/>
+    <string id="1sbJQR4H" text="{.p}Грабіжник{.R_n20_p}"/>
     <string id="3PzgpFGq" text="Neutral"/>
     <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
     <string id="empirefaction" text="{.f}Імперія{.R_n10_p1}"/>
