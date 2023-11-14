@@ -37,7 +37,7 @@
     <string id="4uMWNDoi" text="Thrust Speed"/>
     <string id="4vZLpzPi" text="+1 Renown / Day"/>
     <string id="4Y8u4JKO" text="You can't leave the kingdom while in an army"/>
-    <string id="5bzk75Ql" text="Engaging {TARGET_PARTY}."/>
+    <string id="5bzk75Ql" text="Переслідує загін {._}{TARGET_PARTY}{.v_rod}."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
     <string id="5k4dxUEJ" text="Воїни"/>
@@ -91,7 +91,7 @@
     <string id="Avy8Gua1" text="Perks"/>
     <string id="b8CqpGHx" text="Recruit Prisoners"/>
     <string id="bAqDnkaT" text="Missile Speed"/>
-    <string id="BbLTwhsA" text="Disorganized for {REMAINING_TIME}"/>
+    <string id="BbLTwhsA" text="Безлад на {REMAINING_TIME}"/>
     <string id="Bcs9s2tC" text="Right Click to Remove"/>
     <string id="bd7oAQq6" text="Daily"/>
     <string id="bDwTWrru" text="No delay"/>
@@ -110,8 +110,8 @@
     <string id="BV5exuPf" text="Remove From Bookmarks"/>
     <string id="bz7Glmsm" text="Уміння"/>
     <string id="C2qpwFq5" text="Owner of {SETTLEMENTS}"/>
-    <string id="c5eYzHaM" text="{DAYS} {?DAY_IS_PLURAL}Days{?}Day{\?} ({PERCENTAGE}%)"/>
-    <string id="c6BtCIrX" text="{DAYS} days ago"/>
+    <string id="c5eYzHaM" text="{DAYS} {#GET_PLURAL_VALUE(DAYS)}день{#}дні{#}днів{\#} ({PERCENTAGE}%)"/>
+    <string id="c6BtCIrX" text="{DAYS} {#GET_PLURAL_VALUE(DAYS)}день{#}дні{#}днів{\#} назад"/>
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Довжина: "/>
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Шкода при зіткненні: "/>
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Шкода: "/>
