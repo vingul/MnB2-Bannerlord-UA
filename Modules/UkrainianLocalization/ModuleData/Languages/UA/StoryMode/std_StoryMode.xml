@@ -33,7 +33,7 @@
     <string id="2SDWhGmQ" text="Ваша родина належала до числа бідних мігрантів, які жили в нетрях, що виростали за стінами річкових міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких було досить багато в тих місцях."/>
     <string id="2TptWc4m" text="Свита барона"/>
     <string id="2XhW49TX" text="ви прогнали їх стрілами."/>
-    <string id="2YYRyrOO" text="Leave..."/>
+    <string id="2YYRyrOO" text="Піти геть..."/>
     <string id="3BjIb3CG" text="Or perhaps it was just Raganvad. He was stewing in his anger when up comes the Battanian king, Caladog. The Battanians had taken their time stripping the bodies of the imperial vanguard and the Sturgians were angry at them, so Raganvad called him a coward. Caladog sneers at him and walks off."/>
     <string id="3deb2lMd" text="To restore the Empire you should capture two thirds of settlements with imperial culture."/>
     <string id="3dhvmJDp" text="Well... Looks like we've gotten your kin back to you, so my end of our deal is complete. I'll be making myself scarce now."/>
@@ -540,7 +540,7 @@
     <string id="QxeKZ3nE" text="Reach Clan Tier {CLAN_TIER}"/>
     <string id="R3CnF55p" text="So... Who's this that comes through my place of business, killing my employees?[if:idle_angry][ib:warrior]"/>
     <string id="r48aEAbq" text="The {KINGDOM_NAME} has been defeated. Your quest to destroy the Empire has failed."/>
-    <string id="R4Gqskgq" text="Victory"/>
+    <string id="R4Gqskgq" text="Перемога"/>
     <string id="R5kLv5kg" text="I am what they call Palaic. Palaic is a language that is no longer spoken, except by a few old people. Even the word 'Palaic' is imperial. We are a people who have forgotten who we are."/>
     <string id="r8ZLabb0" text="I have gathered all pieces of the Dragon Banner. What now?"/>
     <string id="rbjjDYXj" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again."/>
