@@ -7,7 +7,7 @@
     <string id="0m0IUnL1" text="fen Uvain"/>
     <string id="0u8ipbgn" text="The tribes known as the Forest People practice slash-and-burn farming in the deep woods, outside the grasp of the Sturgian boyars. They burn down tracts of trees, grow crops on the virgin soil fertilized by ash for a few years until the land is exhausted, and move on. It is an inefficient use of land but a very efficient use of labor, suitable for a numerically small population in a large area. Also, because the plots are hard to measure and tax, it's a very good strategy for people who don't care to be governed."/>
     <string id="14GLGKNj" text="fen Caernacht"/>
-    <string id="1sbJQR4H" text="Looters"/>
+    <string id="1sbJQR4H" text="{.p}Грабіжник{.R_n20_p}"/>
     <string id="3o5s6L3y" text="dey Meroc"/>
     <string id="3PzgpFGq" text="Neutral"/>
     <string id="4Dbwdjbe" text="Hongeros"/>
@@ -47,7 +47,7 @@
     <string id="DeSGiCgF" text="dey Rothad"/>
     <string id="dRaYhQva" text="The origins of the Beni Zilal, the Sons of the Shadows, are shrouded in legend. Many of the stories tell of a messianic preacher who ruled from a citadel deep in the desert, entrancing his followers with the help of halucinogenic herbs and terrorizing the Aserai nobility with the threat of assassination. Regardless of how much truth these stories contain, this brotherhood is now a powerful institution in the deep reaches of the Nahasa, collecting protection money from caravans passing through its territory and cutting deals with local potentates while it awaits the day when it may reveal its hand more openly."/>
     <string id="Ds2vQVwr" text="Avlonos"/>
-    <string id="e6csp4ha" text="Steppe Bandits"/>
+    <string id="e6csp4ha" text="{.p}Степовий{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="eC6qIOzz" text="Eleftheroi"/>
     <string id="EnZHNc2k" text="Isyaroving"/>
     <string id="Eu932blQ" text="Kuloving"/>
@@ -63,7 +63,7 @@
     <string id="k3djFmuO" text="fen Penraic"/>
     <string id="kbGk2so8" text="Baltait"/>
     <string id="khnadIv1" text="Brotherhood"/>
-    <string id="kkUQObZn" text="Desert Bandits"/>
+    <string id="kkUQObZn" text="{.p}Пустельний{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="l6JtB97p" text="Banu Atij"/>
     <string id="LqTTchsa" text="Legion of the Betrayed"/>
     <string id="LTWTTQ71" text="Palladios"/>
@@ -72,7 +72,7 @@
     <string id="LZVzzczs" text="dey Fortes"/>
     <string id="m0teef5g" text="Tigrit"/>
     <string id="mddbprXj" text="Vagiroving"/>
-    <string id="mOa9CX13" text="Mountain Bandits"/>
+    <string id="mOa9CX13" text="{.p}Гірський{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="mpjp1MT2" text="dey Arromanc"/>
     <string id="mtZu1l2j" text="Embers of the Flame"/>
     <string id="MVHawAEp" text="Hidden Hand"/>
@@ -86,7 +86,7 @@
     <string id="o7ud4X2X" text="Forest People"/>
     <string id="ObBvcDhJ" text="fen Giall"/>
     <string id="OVQoC9fn" text="Comnos"/>
-    <string id="pBUc2pL8" text="Sea Raiders"/>
+    <string id="pBUc2pL8" text="{.p}Пірат{.R_n20_p}"/>
     <string id="pdz4YsEf" text="Maneolis"/>
     <string id="Q1nAHnV7" text="Khergit"/>
     <string id="qFntgcGy" text="dey Tihr"/>
