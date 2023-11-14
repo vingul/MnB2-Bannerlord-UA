@@ -154,7 +154,7 @@
     <string id="DzviXC3W" text="Level"/>
     <string id="eHVq6yDa" text="Item Properties"/>
     <string id="eIGFuGOx" text="Give Settlement"/>
-    <string id="eIws123Z" text="Leg Armor"/>
+    <string id="eIws123Z" text="Броня (ноги)"/>
     <string id="EkFDvG7z" text="Settlement Food Stocks"/>
     <string id="eoVW9z54" text="Average Morale"/>
     <string id="ePmSvu1s" text="{AMOUNT}{GOLD_ICON}"/>
@@ -201,13 +201,13 @@
     <string id="HfsUngkh" text="Recruitment is currently disabled."/>
     <string id="HFZdseH9" text="Only the ruler of the kingdom can change it's name."/>
     <string id="HHTQVp52" text="Heroes Healing Rate"/>
-    <string id="HkfY3Ds5" text="Body Armor"/>
+    <string id="HkfY3Ds5" text="Броня (тіло)"/>
     <string id="hn9TPqhK" text="Weapon Tier"/>
     <string id="hOVPiG3z" text="Recently rebelled"/>
     <string id="hr4MuPnt" text="Required Materials"/>
     <string id="hRSezxnT" text="Some of your troops are ready to upgrade."/>
     <string id="HTtWslIx" text="Market Food Stocks"/>
-    <string id="hTzTMLsf" text="View Distance"/>
+    <string id="hTzTMLsf" text="Дальність огляду"/>
     <string id="huqEEfGD" text="There is no successful raid for {FACTION}"/>
     <string id="hwrQqWir" text="No Skills"/>
     <string id="Hxf6bzmR" text="Current Denars"/>
@@ -224,7 +224,7 @@
     <string id="InqmgBiF" text="Chosen Crew"/>
     <string id="Ioiqzz4E" text="You need to be in an army to boost cohesion"/>
     <string id="ipLqVv1f" text="You cannot invite the ruler's party to your army."/>
-    <string id="IQY9yykn" text="Food Items"/>
+    <string id="IQY9yykn" text="Продукти харчування"/>
     <string id="IRcy3pWJ" text="Name cannot be empty"/>
     <string id="iSZTOeYH" text="No army to disband."/>
     <string id="it8oPzb1" text="Criminal Rating"/>
@@ -252,7 +252,7 @@
     <string id="k1E9DuKi" text="Select All"/>
     <string id="K6GYskvJ" text="Фракція:"/>
     <string id="K87pubLc" text="The option &quot;{DEPENDENT_OPTION}&quot; can be enabled by activating &quot;{MODULE_NAME}&quot; module."/>
-    <string id="kftE5nvv" text="Horse Armor"/>
+    <string id="kftE5nvv" text="Броня коня"/>
     <string id="kjaACKUq" text="This action will cost {GOLD}{GOLD_ICON}"/>
     <string id="KjuxDQfn" text="Alley leader is dead."/>
     <string id="koX9okuG" text="None"/>
@@ -261,7 +261,7 @@
     <string id="KTKBKmvp" text="Thrust Damage Factor "/>
     <string id="KTTyBbsp" text="Max HP"/>
     <string id="kWVbHPtT" text="Всього"/>
-    <string id="kx7q8ybD" text="Arm Armor"/>
+    <string id="kx7q8ybD" text="Броня (руки)"/>
     <string id="KxLoeSEO" text="Regrouping"/>
     <string id="laznt9ZK" text="Settlement Food Change"/>
     <string id="LBNzsqyb" text="Fiefs"/>
@@ -274,7 +274,7 @@
     <string id="LsZEdD2z" text="Walls"/>
     <string id="LuC5ZZMu" text="{CRIMINAL_RATING} ({INCREASE}){CRIME_ICON}"/>
     <string id="LVJKy6a8" text="This troop requires {PERK_NAME} ({PERK_SKILL}) perk to upgrade."/>
-    <string id="LVmkE2Ow" text="Battle Ready Troops"/>
+    <string id="LVmkE2Ow" text="Готових до бою воїнів"/>
     <string id="lVuGCYPC" text="Smithing Skill"/>
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}"/>
     <string id="LxWVtDF0" text="Manage Workshop"/>
@@ -282,7 +282,7 @@
     <string id="MaHMOzL2" text="Народність персонажа"/>
     <string id="mapbardenarvalue" text="{DENAR_AMOUNT}{VALUE_ABBREVIATION}"/>
     <string id="McJjNM50" text="Cost: {UPGRADE_COST}"/>
-    <string id="mDFhzEMC" text="Max. Hit Points"/>
+    <string id="mDFhzEMC" text="Макс. кількість здоров'я"/>
     <string id="mdvnjI72" text="Troops are not upgradable in this screen."/>
     <string id="Mfbc4rQR" text="Charge Damage"/>
     <string id="mg7id9om" text="Number of Consumable Items"/>
@@ -311,8 +311,8 @@
     <string id="nuK4Afnr" text="Party is not eligible to join the army."/>
     <string id="NxEy5Nbt" text="High risk of rebellion"/>
     <string id="nYYUQQm0" text="Swing Damage Factor "/>
-    <string id="O3dhjtOS" text="Head Armor"/>
-    <string id="o5G8A8ZH" text="Your Denars"/>
+    <string id="O3dhjtOS" text="Броня (голова)"/>
+    <string id="o5G8A8ZH" text="Ваші денари"/>
     <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
     <string id="oBbiVeKE" text="Очки здоров'я"/>
     <string id="ocSW4WA2" text="Critical Fail!"/>
@@ -377,13 +377,13 @@
     <string id="QPoA6vvx" text="Income"/>
     <string id="QQ03J6sf" text="Item name can not be empty."/>
     <string id="qRqnrtdX" text="Власник"/>
-    <string id="qSi4DlT4" text="Food"/>
+    <string id="qSi4DlT4" text="Їжа"/>
     <string id="QSPrSsHv" text="No Saddle!"/>
     <string id="QXBf26Rv" text="Unknown Behavior"/>
     <string id="QyVbwGLp" text="{PARTY_SIZE}"/>
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now."/>
     <string id="r0WIRUHo" text="Criminal Rating"/>
-    <string id="R2AaCaPJ" text="Expected Change"/>
+    <string id="R2AaCaPJ" text="Очікувані зміни"/>
     <string id="R4rTlKMU" text="Troop upgrades are currently disabled."/>
     <string id="R8vuwKaf" text="Running from {TARGET_PARTY} to ally party."/>
     <string id="Ra17aK4e" text="Current Capital"/>
@@ -401,7 +401,7 @@
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost"/>
     <string id="rThSy9ed" text="Required: {UPGRADE_ITEM} (You have none)"/>
     <string id="rUeWBOOi" text="Select an item to smelt"/>
-    <string id="RVPidk5a" text="Influence"/>
+    <string id="RVPidk5a" text="Вплив"/>
     <string id="Rvr1bcu8" text="Next"/>
     <string id="rwKBR4NE" text="Average Days Until Food Runs Out"/>
     <string id="RzFyGnWJ" text="Supporters"/>
@@ -447,7 +447,7 @@
     <string id="Tx9Mynbt" text=" - Thrust Damage Type does not match. Should be: {TYPE}"/>
     <string id="txjiykNa" text="Огляд"/>
     <string id="tYz4D8Or" text="Prisoner"/>
-    <string id="TzLtVzdg" text="Wounded Troops"/>
+    <string id="TzLtVzdg" text="Поранених воїнів"/>
     <string id="U3ksQXD3" text="Give Away"/>
     <string id="UbRqC0Yz" text="Rich"/>
     <string id="UbZL2BJQ" text="Hitpoints"/>
@@ -503,7 +503,7 @@
     <string id="xXSFaGW8" text="Disband"/>
     <string id="XYAVu2f0" text="Chasing {TARGET_PARTY}."/>
     <string id="Y65gdbrx" text="Waiting in {TARGET_PARTY}"/>
-    <string id="Y7qbwrWE" text="{HERO_NAME}'s Skills"/>
+    <string id="Y7qbwrWE" text="Уміння героя {HERO_NAME}"/>
     <string id="Y8EcVL1c" text="Last Updated"/>
     <string id="ybLA7ZXp" text="Already at Max"/>
     <string id="yD7rL5Nc" text="Helping ally party to defend {TARGET_SETTLEMENT}."/>
@@ -529,7 +529,7 @@
     <string id="zMMqgxb1" text="Тип"/>
     <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss."/>
     <string id="ZUgoQ1Ws" text="Horse Type"/>
-    <string id="zWaVxD6T" text="Party Speed"/>
+    <string id="zWaVxD6T" text="Швидкість загону"/>
     <string id="zZlWRZjO" text="Wars"/>
     <string id="ZZmlYrgL" text="There is no castle owned by {FACTION}"/>
   </strings>
