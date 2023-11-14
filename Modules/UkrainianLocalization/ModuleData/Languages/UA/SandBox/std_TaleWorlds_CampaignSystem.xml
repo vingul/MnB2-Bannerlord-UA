@@ -2506,7 +2506,7 @@
     <string id="K9Nb117q" text="Верхові розвідники"/>
     <string id="k9SksaXg" text="The mercenaries left your party, as you failed to get rid of them as you promised. Now the mercenaries have turned bandit and start to plunder countryside."/>
     <string id="k9WaJ396" text="{VALUE}% швидкості пересування по пустелях і дюнах."/>
-    <string id="KabSHyf0" text="{VALUE}% шкоди від тичка для створеної зброї."/>
+    <string id="KabSHyf0" text="{VALUE}% шкоди від випаду для створеної зброї."/>
     <string id="kaEzJUTW" text="Лідер, що надихає"/>
     <string id="kaJ6SJeI" text="{VALUE}% швидкості пересування лучників у вашому строю."/>
     <string id="kakxnaN5" text="{?SUPPORT}Yes{?}No{\?}"/>
@@ -3118,7 +3118,7 @@
     <string id="oAb4NqO5" text="Male"/>
     <string id="OaRB1oVI" text="So... Earlier, we had discussed the possibility of marriage."/>
     <string id="oaXAY8bw" text="{?PLAYER_CHILD}Your{?}The{\?} child asked to borrow money to trade with a passing caravan. You figure {?CHILD.GENDER}she{?}he{\?}'d be sharped and learn a lesson, but in fact the {?CHILD.GENDER}girl{?}boy{\?} secured a very lucrative deal."/>
-    <string id="ObFtbGZl" text="{VALUE}% шансу відкинути супротивника назад при тичковому ударі древковою зброєю."/>
+    <string id="ObFtbGZl" text="{VALUE}% шансу відкинути супротивника назад при випаді древковою зброєю."/>
     <string id="obhcbsQT" text="You told your men to ignore the warning."/>
     <string id="Obk7j3ai" text="Here it is. Now let us pass"/>
     <string id="oBl6SxeJ" text="{ISSUE_OWNER.LINK} wants you to participate in a tournament in her name."/>
@@ -3749,7 +3749,7 @@
     <string id="sbczu2VI" text="Play on, good man."/>
     <string id="sbFboHmV" text="A courier has arrived from the {MAP_FACTION_NAME}. They offer you peace if you agree to pay a {GOLD_AMOUNT} {GOLD_ICON} daily tribute. Your kingdom will vote whether to accept the offer."/>
     <string id="SBHwIaVP" text="recovered stolen goods."/>
-    <string id="sbkrplXi" text="{VALUE}% шкоди від тичка древковою зброєю."/>
+    <string id="sbkrplXi" text="{VALUE}% шкоди від випаду древковою зброєю."/>
     <string id="sbmWGPYG" text="You are besieging {SETTLEMENT}. {FURTHER_EXPLANATION}"/>
     <string id="SbYlYGFA" text="Sorry. No one like that has passed through here for a while."/>
     <string id="sC4ZLZ8x" text="{COMMENT}"/>
@@ -4403,7 +4403,7 @@
     <string id="WlAAsJNK" text="{VALUE}% швидкості зцілення поранених воїнів під час перебування в армії."/>
     <string id="wlhJGG0q" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been freed because of a peace declaration."/>
     <string id="wlKtDR2z" text="Thank you, {?PLAYER.GENDER}my lady{?}sir{\?}."/>
-    <string id="wLrF0mzr" text="{VALUE}% шкоди при тичкових ударах воїнів у вашому строю."/>
+    <string id="wLrF0mzr" text="{VALUE}% шкоди від випаду для воїнів вашого строю."/>
     <string id="wM77S68a" text="What's there to discuss?"/>
     <string id="Wmq47pvL" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} had to show mercy to the people of {SETTLEMENT} who were originally descendants of {FACTION}."/>
     <string id="wmZYHGb9" text="I brought {HERD_AMOUNT} {.%}{?HERD_AMOUNT &gt; 1}{PLURAL(HERD_TYPE)}{?}{HERD_TYPE}{\?}{.%} as we agreed."/>
@@ -4519,7 +4519,7 @@
     <string id="xe0dX5QQ" text="{VALUE}% штрафу до ціни при купівлі їжі."/>
     <string id="xeawD38S" text="Married"/>
     <string id="xeboujso" text="That's the right call. You seem a responsible type."/>
-    <string id="xEp10rIa" text="{VALUE}% шкоди від тичкових ударів древковою зброєю."/>
+    <string id="xEp10rIa" text="{VALUE}% шкоди від випаду древковою зброєю."/>
     <string id="xer2bta5" text="Your own Kingdom"/>
     <string id="xeZR3r5u" text="{QUEST_GIVER.LINK} wants you siege and take over the {TARGET_SETTLEMENT}"/>
     <string id="xF7he8fZ" text="Fight the poachers"/>
