@@ -97,7 +97,7 @@
     <string id="adyGICWc" text="Chamber Blocked!"/>
     <string id="AEcTBnkz" text="Показати одяг"/>
     <string id="aGTgzoqW" text="Allow Polls To Kick Players"/>
-    <string id="ahiBhAqU" text="Armor"/>
+    <string id="ahiBhAqU" text="Броня"/>
     <string id="AmbKQ7LT" text="Перемістити"/>
     <string id="AoNh2ihL" text="Enemy Spotted!"/>
     <string id="auDOtbza" text="Culture Team 1"/>
@@ -147,7 +147,7 @@
     <string id="d1ogH1v1" text="Tsagaan Castle"/>
     <string id="d3RJm2zW" text="Висота щелепи"/>
     <string id="DHlVSaZW" text="Relative movement speed: {SPEED} m/s"/>
-    <string id="DKqLY1aJ" text="Equip"/>
+    <string id="DKqLY1aJ" text="Спорядити"/>
     <string id="dojUqbv8" text="Довжина носа"/>
     <string id="dRlTmdKR" text="System"/>
     <string id="DU9SofaW" text="Cut"/>
@@ -414,7 +414,7 @@
     <string id="WhUoF9Mw" text="Fallback"/>
     <string id="wIgbfqQR" text="Волосся"/>
     <string id="wk4bgkCt" text="Dismount"/>
-    <string id="Wl5xazIU" text="Extend/Shrink Map Bar"/>
+    <string id="Wl5xazIU" text="Розгорнути/згорнути панель"/>
     <string id="WlVa7XwJ" text="Received {DAMAGE} fall damage."/>
     <string id="WLztEbPL" text="Height"/>
     <string id="WnN8Ul7A" text="Amount of Rounds"/>
@@ -437,7 +437,7 @@
     <string id="ycCmfxhJ" text="Fifth Kill"/>
     <string id="yClOSxT8" text="Рельєф носа"/>
     <string id="yekjRMT1" text="Duel Statistics"/>
-    <string id="yfa7tpbK" text="All"/>
+    <string id="yfa7tpbK" text="Все"/>
     <string id="YhDDXj0I" text="Canyon"/>
     <string id="YNkPy4ta" text="Clan Match"/>
     <string id="YntJTd09" text="Ebereth Hillfort"/>
