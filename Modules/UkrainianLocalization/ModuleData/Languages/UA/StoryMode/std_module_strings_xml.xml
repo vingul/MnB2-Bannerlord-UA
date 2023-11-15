@@ -4,38 +4,38 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="0FQcVmYK" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Open the order menu with {HOLD_OPEN_ORDER_KEY} and order your troops to follow you with the {FIRST_ORDER_CATEGORY_KEY} and {SECOND_ORDER_CATEGORY_KEY} shortcuts and try to take them on in small groups."/>
-    <string id="0FssY1wG" text="You can see portraits of Important NPCs on the top bar.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on their portrait and choose talk from the menu."/>
-    <string id="0NPZA7Ub" text="Crafting orders"/>
-    <string id="0yLZL3Vz" text="The menu on the top right shows the important people in your current location.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on the headman's portrait to talk to him."/>
-    <string id="1GgxLyhx" text="Encyclopedia Kingdoms"/>
-    <string id="1jggMDRI" text="This screen allows you to craft different weapons for yourself or to fulfill orders for local non-player characters. To do this, you must use raw or refined resources that you can either purchase or manufacture by smelting weapons you carry.{newline}{newline}You can change the type of weapon that you are crafting through the highlighted button."/>
-    <string id="1XkYGDEZ" text="The sorting menu lets you sort your results based on different variables."/>
-    <string id="3hfKI636" text="Encyclopedia Clans"/>
+    <string id="0FQcVmYK" text="На початку завдань в укриттях ворог не знатиме про ваше наближення.{newline}{newline}Відкрийте меню наказів за допомогою {HOLD_OPEN_ORDER_KEY} і накажіть своїм військам слідувати за вами за допомогою комбінацій клавіш {FIRST_ORDER_CATEGORY_KEY} і {SECOND_ORDER_CATEGORY_KEY} та намагайтеся нападати на окремі невеликі групи."/>
+    <string id="0FssY1wG" text="На верхній панелі знаходяться портрети важливих персонажів.{newline}{newline}Щоб почати з ними спілкуватися, наведіть курсор на їхній портрет натисніть {CONSOLE_ACTION_KEY}{newline}і виберіть в меню «Поговорити»."/>
+    <string id="0NPZA7Ub" text="Замовлення на виготовлення"/>
+    <string id="0yLZL3Vz" text="У меню вгорі праворуч показано важливих людей того поселення, в якому ви зараз знаходитесь.{newline}{newline}Щоб поговорити зі старостою, наведіть курсор на його портрет і натисніть {CONSOLE_ACTION_KEY}."/>
+    <string id="1GgxLyhx" text="Енциклопедія: королівства"/>
+    <string id="1jggMDRI" text="На цьому екрані ви можете створювати різну зброю для себе або щоб виконати замовлення від місцевих неігрових персонажів. Для цього вам потрібно використовувати сирі або очищені ресурси, які ви можете придбати або виготовити, переплавивши зброю, яку маєте при собі.{newline}{newline}Ви можете змінити тип зброї, яку ви створюєте, за допомогою підсвіченої кнопки."/>
+    <string id="1XkYGDEZ" text="Меню сортування дозволяє сортувати результати на основі різних критеріїв."/>
+    <string id="3hfKI636" text="Енциклопедія: клани"/>
     <string id="3nilwlcM" text="Ви прибули до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}. Щоб оглянути поселення, увійдіть до нього, натиснувши виділену кнопку зліва."/>
     <string id="3r0HfDMk" text="Щоб перемістити загін, необхідно навести вказівник на потрібне місце на карті і натиснути {CONSOLE_ACTION_KEY}. Це залишить позначку на карті, якщо тільки ви не навели курсор на недосяжну ділянку, таку як гори чи море.{newline}{newline}Вирушаємо до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}!"/>
     <string id="3RqEmB15" text="Переміщення по Кальрадії"/>
-    <string id="3Y5dudW9" text="Alda"/>
-    <string id="3YkpC9Nf" text="You can filter Items through buttons at the top. Filter them to Misc."/>
-    <string id="4JFfP1lt" text="Civilian Equipment"/>
-    <string id="4kBdT24F" text="Nathanos"/>
+    <string id="3Y5dudW9" text="{.f}Альда{.R_n10_ko}"/>
+    <string id="3YkpC9Nf" text="Ви можете відфільтрувати предмети за допомогою кнопок вгорі. Відфільтруйте їх за типом «Інше»."/>
+    <string id="4JFfP1lt" text="Цивільне спорядження"/>
+    <string id="4kBdT24F" text="{.m}Натанос{.R_n20_a_ke}"/>
     <string id="58IKj85P" text="Ви можете переміщувати персонаж:{newline}- Вперед за допомогою {FORWARD_KEY}{newline}- Назад за допомогою {BACKWARDS_KEY}{newline}- Ліворуч за допомогою {LEFT_KEY}{newline}- Праворуч за допомогою {RIGHT_KEY}{newline}{newline}А тепер спробуйте їх усі!"/>
-    <string id="5bYwdRFs" text="Two Handed Sword Training"/>
-    <string id="5M48atXU" text="You have an active quest! You can learn more about it by clicking on the quest log on the lower left of your screen."/>
-    <string id="5RSfkx7d" text="Gathering of your army may take some time."/>
-    <string id="6G8w1ZBv" text="You've found a banner! Banners are items that can be equipped by heroes and they give significant bonuses to the formations those heroes lead. You can inspect and see the effect of the banner by hovering over the banner item."/>
-    <string id="77YzJbA2" text="Encyclopedia offers up-to-date information about settlements, heroes, clans, and factions. Select a category to see contents listed under the said category."/>
-    <string id="7kjdE4s2" text="Banners"/>
-    <string id="7xHMIZEP" text="Practice Target"/>
-    <string id="8UUV94Lq" text="Ranged Training"/>
-    <string id="8YvBapxl" text="Varic"/>
-    <string id="9aymfBBG" text="Getting Companions"/>
-    <string id="9Dpz9Emy" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by pressing {CONSOLE_ACTION_KEY} while the cursor is on the &quot;Recruit Troops&quot; button."/>
-    <string id="9YqwNQPO" text="Mounted Ranged Training"/>
-    <string id="at4MdVBJ" text="Fathid"/>
-    <string id="AtMSecCf" text="Sort"/>
-    <string id="atWs6mkm" text="One Handed Sword and Shield Training"/>
-    <string id="axnDLcDA" text="Talk to the headman"/>
+    <string id="5bYwdRFs" text="Тренування з дворучним мечем"/>
+    <string id="5M48atXU" text="У вас зараз є активне завдання! Ви можете дізнатися більше про нього, натиснувши на журнал завдань в нижньому лівому кутку екрану."/>
+    <string id="5RSfkx7d" text="Щоб зібрати свою армію, може знадобитися деякий час."/>
+    <string id="6G8w1ZBv" text="Ви знайшли стяг! Стяги - це предмети, якими можна екіпірувати героїв і які дають значні бонуси військам під їх командуванням. Щоб дізнатися які ефекти надає стяг, наведіть курсор на нього."/>
+    <string id="77YzJbA2" text="Енциклопедія містить актуальну інформацію про поселення, героїв, клани та фракції. Виберіть необхідну категорію, щоб переглянути її вміст."/>
+    <string id="7kjdE4s2" text="Стяги"/>
+    <string id="7xHMIZEP" text="Тренувальна мішень"/>
+    <string id="8UUV94Lq" text="Тренування з далекобійною зброєю"/>
+    <string id="8YvBapxl" text="{.m}Варік{.R_n20_a}"/>
+    <string id="9aymfBBG" text="Пошук супутників"/>
+    <string id="9Dpz9Emy" text="Ваш брат попросив вас найняти щонайменше 4 людей, перш ніж ви вирушите шукати розбійників.{newline}{newline}Ви можете найняти війська з сіл і міст, навівши курсор на пункт «Найняти воїнів» і натиснувши {CONSOLE_ACTION_KEY}."/>
+    <string id="9YqwNQPO" text="Тренування з далекобійною зброєю верхи"/>
+    <string id="at4MdVBJ" text="{.m}Фатід{.R_n20_a_ke}"/>
+    <string id="AtMSecCf" text="Сортувати"/>
+    <string id="atWs6mkm" text="Тренування з одноручним мечем і щитом"/>
+    <string id="axnDLcDA" text="Поговорити зі старостою"/>
     <string id="b1suRGVY" text="Troops that are ready to upgrade are marked with a special icon{UPGRADE_ICON}.{newline}{newline}The total number of upgradeable troops is shown inside the highlighted button, at the top right corner of the screen.{newline}{newline}Open the popup to upgrade some of your troops."/>
     <string id="B5MNWr0J" text="Ласкаво просимо до Кальрадії!{newline}{newline}Ви можете досліджувати карту світу, переміщуючи камеру з допомогою {CONSOLE_MOVEMENT_KEY}. Повертати камеру можна за допомогою {CONSOLE_CAMERA_KEY}, а збільшувати і зменшувати масштаб за допомогою {MAP_ZOOM_OUT_KEY} і {MAP_ZOOM_IN_KEY}.{newline}{newline}Спробуйте."/>
     <string id="B7WlM3CU" text="You should purchase supplies from the settlement menu on the left."/>
