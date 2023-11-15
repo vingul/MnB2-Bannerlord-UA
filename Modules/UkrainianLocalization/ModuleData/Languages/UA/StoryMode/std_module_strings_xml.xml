@@ -31,7 +31,7 @@
     <string id="8YvBapxl" text="{.m}Варік{.R_n20_a}"/>
     <string id="9aymfBBG" text="Пошук супутників"/>
     <string id="9Dpz9Emy" text="Ваш брат попросив вас найняти щонайменше 4 людей, перш ніж ви вирушите шукати розбійників.{newline}{newline}Ви можете найняти війська з сіл і міст, навівши курсор на пункт «Найняти воїнів» і натиснувши {CONSOLE_ACTION_KEY}."/>
-    <string id="9YqwNQPO" text="Далекобійна зброя верхи"/>
+    <string id="9YqwNQPO" text="Далекобійна зброя (на коні)"/>
     <string id="at4MdVBJ" text="{.m}Фатід{.R_n20_a_ke}"/>
     <string id="AtMSecCf" text="Сортувати"/>
     <string id="atWs6mkm" text="Одноручний меч і щит"/>
@@ -51,7 +51,7 @@
     <string id="CpKLau15" text="Ваш брат рекомендує вам придбати 2 мішки зерна.{newline}{newline}Це можна зробити, перенісши їх до свого інвентарю за допомогою маленької стрілки зліва"/>
     <string id="cZsPNpCs" text="Купівля їжі"/>
     <string id="d0LpBfis" text="Арбалет"/>
-    <string id="D0SoDPcr" text="Розширене тренування ближнього бою"/>
+    <string id="D0SoDPcr" text="Тренування ближнього бою (розшир.)"/>
     <string id="D4b6tzYx" text="Енциклопедія: війська"/>
     <string id="ddoD208G" text="Відомі особи допомагають вам наймати більше і кращих воїнів (вищого рівня) залежно від ваших з ними стосунків.{newline}{newline}Клацніть на портреті будь-якого воїна, щоб перемістити його у свій загін."/>
     <string id="dFpNRB1g" text="{.m}Ноганд{.R_n20_a_ke}"/>
@@ -61,7 +61,7 @@
     <string id="E9f8YUbO" text="Ви отримуєте рівень щоразу, коли ваша загальна кількість очок умінь досягає потрібного значення. Підвищення рівня дає очки фокусу, які ви можете потратити.{newline}{newline}Якщо у вас є вільні очки фокусу, ви побачите це за допомогою маленького індикатора над кнопкою персонажа. Натисніть на цю кнопку, щоб переглянути свої уміння і підвищити фокус для одного з них."/>
     <string id="EeC9zwta" text="Відомі особи допомагають вам наймати більше і кращих воїнів (вищого рівня) залежно від ваших з ними стосунків.{newline}{newline}Перемістіть курсор на портрет будь-якого воїна і натисніть {CONSOLE_ACTION_KEY}, щоб перемістити його у свій загін."/>
     <string id="eFv4yeJY" text="Якщо у вас є принаймні 20 воїнів, то ви матимете можливість розробляти стратегію перед кожною битвою. Ви зможете призначати героїв капітанами строїв, розподіляти воїнів між строями, вибирати, які види воїнів повинні входити в той чи інший стрій і інші можливості.{newline}{newline}Спробуйте призначити себе капітаном строю, перетягнувши свій портрет вгорі в центрі в слот для капітанів одного зі строїв."/>
-    <string id="elRQHiLR" text="Меч (верхи на коні)"/>
+    <string id="elRQHiLR" text="Меч (на коні)"/>
     <string id="EvAriC6s" text="Кожен персонаж у Калрадії має два набори спорядження. Персонажі використовують військове спорядження, коли очікують неприємностей. Ви можете перемикатися між наборами за допомогою кнопок над моделлю персонажа. Зверніть увагу, що більшість обладунків і зброї непридатні для використання з цивільним одягом, оскільки цивільний комплект використовується тоді, коли персонажу недоречно або заборонено бути озброєним."/>
     <string id="f6xYa3c4" text="Ласкаво просимо до Кальрадії!{newline}{newline}Ви можете досліджувати карту світу, переміщуючи камеру клавішами {FORWARD_KEY}{BACKWARDS_KEY}{LEFT_KEY}{RIGHT_KEY}. Повертати камеру можна правою кнопкою миші, а збільшувати і зменшувати масштаб за допомогою коліщатка миші.{newline}{newline}Спробуйте."/>
     <string id="FCMKJLrh" text="You can tell your men to charge by opening the movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing charge with {THIRD_ORDER_CATEGORY_KEY}."/>
@@ -108,7 +108,7 @@
     <string id="MgBazeaE" text="Alte"/>
     <string id="MmFO0Erq" text="You can hold {MISSION_INDICATORS_KEY} to see the location of the Headman.{newline}{newline}Once you are near him, press {INTERACTION_KEY} to speak with him."/>
     <string id="mo30kGdz" text="Assign Roles"/>
-    <string id="MqeQco4z" text="Спис (верхи на коні)"/>
+    <string id="MqeQco4z" text="Спис (на коні)"/>
     <string id="mvYbXi4O" text="You can tell your men to charge by opening the order menu with {HOLD_OPEN_ORDER_KEY} and movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Charge&quot; with {THIRD_ORDER_CATEGORY_KEY}."/>
     <string id="MxmOWsHj" text="Encyclopedia"/>
     <string id="N8YVPdBw" text="You gain a level every time your total skill points total reaches a target value. Leveling up grants focus points to spend.{newline}{newline}If you have free focus points you will see it by a small indicator over the character screen button. Press {CONSOLE_ACTION_KEY} while the cursor is on the character button to review different skills and choose one to increase focus."/>
@@ -124,7 +124,7 @@
     <string id="okM9QUFA" text="Дротики"/>
     <string id="oq3SvXCm" text="Some of your troops now have enough experience for an upgrade.{newline}{newline}To review and upgrade your troops press {CONSOLE_ACTION_KEY} while the cursor is on the highlighted party screen button."/>
     <string id="OwqFpPwa" text="Filters"/>
-    <string id="P7KbSBvr" text="Тренування бою верхи"/>
+    <string id="P7KbSBvr" text="Тренування бою на коні"/>
     <string id="pAf5Mt3X" text="Alishka"/>
     <string id="Ph2nk4Ms" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to charge by opening the movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Follow Me&quot; with {SECOND_ORDER_CATEGORY_KEY}."/>
     <string id="pKtXgb6b" text="You can choose an available perk by pressing {CONSOLE_ACTION_KEY} while the cursor is on its button."/>
