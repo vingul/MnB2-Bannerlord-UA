@@ -51,7 +51,7 @@
     <string id="CpKLau15" text="Ваш брат рекомендує вам придбати 2 мішки зерна.{newline}{newline}Це можна зробити, перенісши їх до свого інвентарю за допомогою маленької стрілки зліва"/>
     <string id="cZsPNpCs" text="Купівля їжі"/>
     <string id="d0LpBfis" text="Арбалет"/>
-    <string id="D0SoDPcr" text="Тренування ближнього бою (розшир.)"/>
+    <string id="D0SoDPcr" text="Тренування ближнього бою (розширене)"/>
     <string id="D4b6tzYx" text="Енциклопедія: війська"/>
     <string id="ddoD208G" text="Відомі особи допомагають вам наймати більше і кращих воїнів (вищого рівня) залежно від ваших з ними стосунків.{newline}{newline}Клацніть на портреті будь-якого воїна, щоб перемістити його у свій загін."/>
     <string id="dFpNRB1g" text="{.m}Ноганд{.R_n20_a_ke}"/>
@@ -64,12 +64,12 @@
     <string id="elRQHiLR" text="Меч (на коні)"/>
     <string id="EvAriC6s" text="Кожен персонаж у Калрадії має два набори спорядження. Персонажі використовують військове спорядження, коли очікують неприємностей. Ви можете перемикатися між наборами за допомогою кнопок над моделлю персонажа. Зверніть увагу, що більшість обладунків і зброї непридатні для використання з цивільним одягом, оскільки цивільний комплект використовується тоді, коли персонажу недоречно або заборонено бути озброєним."/>
     <string id="f6xYa3c4" text="Ласкаво просимо до Кальрадії!{newline}{newline}Ви можете досліджувати карту світу, переміщуючи камеру клавішами {FORWARD_KEY}{BACKWARDS_KEY}{LEFT_KEY}{RIGHT_KEY}. Повертати камеру можна правою кнопкою миші, а збільшувати і зменшувати масштаб за допомогою коліщатка миші.{newline}{newline}Спробуйте."/>
-    <string id="FCMKJLrh" text="You can tell your men to charge by opening the movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing charge with {THIRD_ORDER_CATEGORY_KEY}."/>
-    <string id="fpdXZ0fl" text="Recruitment"/>
-    <string id="GDPa0sQX" text="Tracking allows you to find the settlements on the world map. As long as the track button is active location selected settlements will be highlighted. You can click the point near the settlement text to disable tracking."/>
-    <string id="GhVXQrYF" text="Upgrading Troops"/>
+    <string id="FCMKJLrh" text="Ви можете наказати своїм людям атакувати, відкривши команди руху за допомогою {FIRST_ORDER_CATEGORY_KEY} і вибравши наказ іти атаку за допомогою {THIRD_ORDER_CATEGORY_KEY}."/>
+    <string id="fpdXZ0fl" text="Вербування воїнів"/>
+    <string id="GDPa0sQX" text="Відстежування дозволяє знаходити поселення на карті світу. Поки кнопка відстеження активна, вибрані поселення будуть підсвічені. Ви можете натиснути на точку біля назви поселення, щоб вимкнути для нього відстеження."/>
+    <string id="GhVXQrYF" text="Покращення воїнів"/>
     <string id="GjGF4xbn" text="Щит"/>
-    <string id="gKzLAjXr" text="Notice how your army cohesion has dropped to a low point, and it is more likely that your army will disperse.{newline}You can click on the army management button to boost your cohesion."/>
+    <string id="gKzLAjXr" text="Зверніть увагу: згуртованість вашої армії впала до низького рівня і є велика ймовірність того, що ваша армія розбіжиться.{newline}Ви можете натиснути на кнопку управління армією, щоб підвищити її згуртованість."/>
     <string id="gUvxp8mf" text="Лук"/>
     <string id="HfZVK8gb" text="Yes... Do I know you?"/>
     <string id="HORKLD7t" text="You can participate in your faction's decision-making process through this panel. You can spend influence to sway opinions but the ruler will always have the last word.{newline}{newline}Select one of the available decision options to continue."/>
