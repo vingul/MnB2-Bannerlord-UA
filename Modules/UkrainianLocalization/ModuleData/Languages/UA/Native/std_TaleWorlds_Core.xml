@@ -49,7 +49,7 @@
     <string id="labbKop6" text="Шкода від дальнього бою воїнам вашого підрозділу: {BONUS_AMOUNT}%."/>
     <string id="LJ6Krlbr" text="Розвідка"/>
     <string id="lsJMCkZy" text="Обізнаність про найпоширеніші товари на ринку і про ціни на них, а також здатність розпізнати неякісний товар або зрозуміти, що вас обрахували"/>
-    <string id="Lso8j7Iv" text="Штраф до бойового духу воїнів вашого строю при втратах: {BONUS_AMOUNT}%."/>
+    <string id="Lso8j7Iv" text="Штраф до бойового духу воїнів вашого підрозділу при втратах: {BONUS_AMOUNT}%."/>
     <string id="m8o51fc7" text="Тактика"/>
     <string id="MkBPRCuF" text="Знижено штраф на точність у дальньому бою"/>
     <string id="nMfxbc0Y" text="Підвищено швидкість пересування в сідлі"/>
@@ -63,7 +63,7 @@
     <string id="PbJAOKKZ" text="Підвищена швидкість пересування воїнів"/>
     <string id="PHoxdReD" text="СОЦ"/>
     <string id="PiHpR4QL" text="Одноручна зброя"/>
-    <string id="q7NmR3AP" text="Штраф до бойового духу воїнів вашого строю при втратах: {BONUS_AMOUNT}%."/>
+    <string id="q7NmR3AP" text="Штраф до бойового духу воїнів вашого підрозділу при втратах: {BONUS_AMOUNT}%."/>
     <string id="skZS2UlW" text="Атлетика"/>
     <string id="smithingskill" text="Ковальство"/>
     <string id="socialskill" text="{.f}Соціальність{.R_n30}"/>
@@ -86,6 +86,6 @@
     <string id="yEkSSqIm" text="Майстерність володіння одноручною зброєю, зі щитом або без."/>
     <string id="YO5LUfiO" text="Хитрість - це здатність передбачити дії інших людей і перехитрити їх."/>
     <string id="YWkdD7Ki" text="{.f}Сила{.R_n10}"/>
-    <string id="Z2xgnrDa" text="{BONUS_AMOUNT}% шкоди від зіткнення, яку отримують вершники вашого строю."/>
+    <string id="Z2xgnrDa" text="{BONUS_AMOUNT}% шкоди від зіткнення, яку отримують вершники вашого підрозділу."/>
   </strings>
 </base>
