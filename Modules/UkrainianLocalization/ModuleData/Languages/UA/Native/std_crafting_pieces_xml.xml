@@ -4,50 +4,50 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="03YrcAtx" text="Дворучна рукоятка з обтягнутою шкірою"/>
+    <string id="03YrcAtx" text="Дворучний держак обтягнутий шкірою"/>
     <string id="0gteBOD7" text="Наголів'я бердиша"/>
     <string id="0kP9bf7n" text="Серпаста ручка"/>
-    <string id="0LJtoZtW" text="Карбована гакоподібна Шабля вартового"/>
+    <string id="0LJtoZtW" text=""/>
     <string id="0SpLcthg" text="Булава горян з зубцями"/>
     <string id="0Y0kaTwm" text="Просте лезо Спати"/>
     <string id="13lb5at6" text="Руків'я з червоного дерева із прихованим огортанням"/>
-    <string id="19a3jJ1s" text="Ребристе лезо великої шаблі"/>
+    <string id="19a3jJ1s" text="Велике загострене лезо Шаблі"/>
     <string id="1ajbJdao" text="Bar Pommel"/>
     <string id="1auabxxv" text="Кругла розплескана гарда"/>
     <string id="1e9OaUWk" text="Наголів'я східної легкої булави"/>
     <string id="1Ia3Wxbf" text="Лезо Фальку з хорошої сталі"/>
     <string id="1nGcpiom" text="Декорований закруглений верх"/>
-    <string id="1NLsucbu" text="Heavy Flanged Mace Head"/>
-    <string id="1NSafswc" text="Gallogaich Axe Head"/>
-    <string id="1pvLe1Mh" text="Simple Ild Pommel"/>
-    <string id="1rGNXUaJ" text="Thin Fine Steel Hewing Spear Head"/>
-    <string id="1T0XBYlc" text="Hardened Oaken Two Handed Axe Handle"/>
-    <string id="1yEQNTG1" text="Long Shestopyor Head"/>
-    <string id="1zRo3td4" text="Bolted Horn Two Handed Grip"/>
-    <string id="22f2NR2N" text="Long Gnarled Ash Shaft"/>
-    <string id="26KZ6S7F" text="Eastern Decorated Pommel"/>
-    <string id="27Oaoras" text="Long Blunt Seax Blade"/>
+    <string id="1NLsucbu" text="Важка фланцева головка булави"/>
+    <string id="1NSafswc" text="Головка сокири Галагана"/>
+    <string id="1pvLe1Mh" text="Простий вигнутий держак"/>
+    <string id="1rGNXUaJ" text="Наголів'я тонкого списа з хорошої сталі"/>
+    <string id="1T0XBYlc" text="Тверде дубове дворучне руків'я сокири"/>
+    <string id="1yEQNTG1" text="Довге наголів'я Шестопала"/>
+    <string id="1zRo3td4" text="Рогоподібне дворучне руків'я на заклепках"/>
+    <string id="22f2NR2N" text="Довге зубчасте ясеневе держалко"/>
+    <string id="26KZ6S7F" text="Оздоблене східне навершя"/>
+    <string id="27Oaoras" text="Довге притуплене лезо Сікса"/>
     <string id="29OXRdZu" text="Narrow Tapered Guard"/>
-    <string id="2FLWuksh" text="Battania Grip"/>
-    <string id="2Fq1t169" text="Northern Bound Two Handed Grip"/>
+    <string id="2FLWuksh" text="Баттанське руків'я"/>
+    <string id="2Fq1t169" text="Норманське переплетене дворучне руків'я"/>
     <string id="2LrkLq5M" text="Northern Long Dagger Guard"/>
-    <string id="2MNfdGZQ" text="Fine Leather Covered Reinforced Horn Longsword Grip"/>
+    <string id="2MNfdGZQ" text="Чудове зміцнене покрите шкірою рогоподібне руків'я довгого меча"/>
     <string id="2mo4gsuh" text="War Razor Blade"/>
-    <string id="2noNmMPc" text="Imperial Wide Lavish Guard "/>
-    <string id="2OWBegq6" text="Thick Warsword Guard With Engravings"/>
+    <string id="2noNmMPc" text="Імператорська широка гарда "/>
+    <string id="2OWBegq6" text="Товста гарда для бойового меча з гравіюванням"/>
     <string id="2XBuTBru" text="Northern Long Hourglass Grip"/>
     <string id="35tXR29a" text="Plain Eastern Grip Two Handed"/>
     <string id="37DVF96v" text="Knobbed Crescent Dagger Guard"/>
-    <string id="38vt2VVz" text="Broad Pommel"/>
-    <string id="3aXHbrFV" text="Long Bamboo Handle With Metal Tip"/>
-    <string id="3cIsT4ZK" text="Broad-Armed Dagger Guard"/>
-    <string id="3ged5Ozt" text="Exceptional Eastern Glaive"/>
+    <string id="38vt2VVz" text="Широке навершя"/>
+    <string id="3aXHbrFV" text="Довга бамбукова ручка з металевим наконечником"/>
+    <string id="3cIsT4ZK" text="Укріплена широка гарда кинджала"/>
+    <string id="3ged5Ozt" text="Східна виняткова Глефа"/>
     <string id="3Q3FFqu0" text="Light Royal Mace Head"/>
-    <string id="3tCye4Iw" text="Simple Long Spear Pommel"/>
+    <string id="3tCye4Iw" text="Просте довге навершя списа"/>
     <string id="3uUaFQ9Y" text="Hammer Shaped Guard With Engravings"/>
-    <string id="3VCyUu2h" text="Thin Eastern Dagger Guard"/>
-    <string id="3VoW9qZs" text="Gold Bound Arming Sword Grip"/>
-    <string id="3wn1WbIx" text="Ridged Long Kaskara Blade"/>
+    <string id="3VCyUu2h" text="Східна тонка гарда кинджала"/>
+    <string id="3VoW9qZs" text="Підсилене переплетене золотом руків'я меча"/>
+    <string id="3wn1WbIx" text="Довге загострене лезо Каскари"/>
     <string id="3wXjMEwI" text="Segmented Leather Covered Arming Sword Grip"/>
     <string id="3Y7plSBX" text="Iron Broadsword Blade"/>
     <string id="3ZyRhmke" text="Short Saber Grip"/>
