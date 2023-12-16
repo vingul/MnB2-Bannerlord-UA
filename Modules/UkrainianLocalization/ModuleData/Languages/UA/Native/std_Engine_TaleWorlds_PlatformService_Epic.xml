@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="BJ1626h7" text="Epic platform initialization failed: {FAILREASON}."/>
-    <string id="KoKdRd1u" text="Could not login to Epic"/>
+    <string id="BJ1626h7" text="Ініціалізація платформи Epic не вдалася: {FAILREASON}."/>
+    <string id="KoKdRd1u" text="Не вдалося увійти до Epic"/>
   </strings>
 </base>
