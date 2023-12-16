@@ -4,7 +4,7 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="DLKRQOuM" text="Could not get access from your platform service (Error: {ACCESSERROR})."/>
-    <string id="NRa52uaF" text="Could not get access from your platform service."/>
+    <string id="DLKRQOuM" text="Не вдалося отримати доступ до сервісу вашої платформи (Error: {ACCESSERROR})."/>
+    <string id="NRa52uaF" text="Не вдалося отримати доступ до сервісу вашої платформи."/>
   </strings>
 </base>
