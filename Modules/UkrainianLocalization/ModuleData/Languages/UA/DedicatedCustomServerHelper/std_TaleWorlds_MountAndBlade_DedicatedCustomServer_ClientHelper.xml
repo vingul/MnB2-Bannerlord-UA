@@ -5,16 +5,16 @@
   </tags>
   <strings>
     <string id="5bbkOm7r" text="Map already exists at '{MAP_PATH}', delete this directory first if you want to re-download"/>
-    <string id="5ZkdGgnQ" text="Failed to retrieve map list of '{HOST_ADDRESS}'"/>
-    <string id="7DKw0JRu" text="Download Failed"/>
-    <string id="977S9OkT" text="Select all"/>
-    <string id="a9HJ7K6I" text="Download"/>
-    <string id="adg8E1oP" text="Downloading..."/>
-    <string id="dOoPRBjm" text="Unselect all"/>
-    <string id="E8bDYaJq" text="This map already exists at {MAP_PATH}"/>
-    <string id="ebuelCXT" text="Open Download Panel"/>
-    <string id="fy9RJLYf" text="(Currently playing)"/>
-    <string id="GkwbPV4s" text="Maps available for '{SERVER_NAME}'"/>
+    <string id="5ZkdGgnQ" text="Не вдалося отримати список мап для '{HOST_ADDRESS}'"/>
+    <string id="7DKw0JRu" text="Завантажити Не вдалося"/>
+    <string id="977S9OkT" text="Вибрати все"/>
+    <string id="a9HJ7K6I" text="Завантажити"/>
+    <string id="adg8E1oP" text="Завантаження..."/>
+    <string id="dOoPRBjm" text="Прибрати всі"/>
+    <string id="E8bDYaJq" text="Ця карта вже існує за адресою {MAP_PATH}"/>
+    <string id="ebuelCXT" text="Відкрити панель завантажень"/>
+    <string id="fy9RJLYf" text="(Зараз грає)"/>
+    <string id="GkwbPV4s" text="Карти доступні для '{SERVER_NAME}'"/>
     <string id="iRossEAk" text="Failed to inform RGL about the new scene '{SCENE_NAME}'"/>
     <string id="lTiacca1" text="Failed to download map file '{MAP_NAME}'"/>
     <string id="maLeU9XO" text="The map played on the server may not be identical to the local version."/>
