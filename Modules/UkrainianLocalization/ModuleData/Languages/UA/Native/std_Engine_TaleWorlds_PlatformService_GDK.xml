@@ -4,9 +4,9 @@
     <tag language="Українська"/> 
   </tags>
   <strings>
-    <string id="HB9emF7u" text="User login failed due to time-out"/>
-    <string id="ph6rtI5J" text="Xbox platform initialization failed: {FAILREASON}"/>
-    <string id="Qb30URMY" text="User login failed: {FAILREASON}"/>
-    <string id="yWJcwCHf" text="Could not retrieve Xbox Title Id"/>
+    <string id="HB9emF7u" text="Помилка входу користувача через час очікування"/>
+    <string id="ph6rtI5J" text="Не вдалося ініціалізувати платформу Xbox: {FAILREASON}"/>
+    <string id="Qb30URMY" text="Не вдалося увійти в систему: {FAILREASON}"/>
+    <string id="yWJcwCHf" text="Не вдалося отримати ідентифікатор назви Xbox"/>
   </strings>
 </base>
