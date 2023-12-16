@@ -33,41 +33,41 @@
     <string id="empirefaction" text="{.f}Імперія{.R_n10_p1}"/>
     <string id="f83FU4X6" text="Polearms"/>
     <string id="F9AQxCax" text="Fork"/>
-    <string id="fEQAPJ2e" text="{KEY} Use"/>
+    <string id="fEQAPJ2e" text="{KEY} Використання"/>
     <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
-    <string id="FNLfNWH3" text="Cavalry and Horse Archer"/>
-    <string id="G0AWk1rX" text="Ladder"/>
+    <string id="FNLfNWH3" text="Кавалерія та кінні лучники"/>
+    <string id="G0AWk1rX" text="Драбина"/>
     <string id="gAfbULHM" text="Камера"/>
-    <string id="gqQPSAQZ" text="{KEY} Leave Area"/>
-    <string id="H5tiRTya" text="Practice"/>
-    <string id="hvQSOi79" text="Bot"/>
-    <string id="ibC4xPoo" text="{KEY} Load Ammo"/>
-    <string id="j4F7tTzy" text="Clan"/>
+    <string id="gqQPSAQZ" text="{KEY} Залишити зону"/>
+    <string id="H5tiRTya" text="Тренування"/>
+    <string id="hvQSOi79" text="Бот"/>
+    <string id="ibC4xPoo" text="{KEY} Зарядити"/>
+    <string id="j4F7tTzy" text="Клан"/>
     <string id="jfcceEoE" text="{PILE_TYPE} Pile"/>
-    <string id="Jw0GMgzv" text="Heavy Armors"/>
+    <string id="Jw0GMgzv" text="Важкі обладунки"/>
     <string id="K3Cr70PY" text="Give preference to troops with Polearms"/>
     <string id="kbNcm68J" text="{KEY} Lift"/>
     <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}"/>
     <string id="ljHPjjmX" text="Could not invite player to the game"/>
-    <string id="lVfmVHbz" text="Login Failed"/>
+    <string id="lVfmVHbz" text="Не вдалося увійти"/>
     <string id="m9KoYCv5" text="Керування"/>
-    <string id="MaBSSg7I" text="Battering Ram"/>
-    <string id="mBDj5uG5" text="Infantry and Ranged"/>
-    <string id="MbXatV1Q" text="Disconnected"/>
-    <string id="MdQJxiGz" text="{KEY} Push"/>
-    <string id="MVOPbhNj" text="Give preference to troops with Shields"/>
-    <string id="Na81xuXn" text="{KEY} Rearm"/>
-    <string id="NbpcDXtJ" text="Mangonel"/>
-    <string id="oPOa77dI" text="Logged out of platform"/>
-    <string id="oZrVNUOk" text="Error"/>
-    <string id="PfnS8HUd" text="Premade game type is invalid!"/>
-    <string id="pgw7LMRo" text="Server over capacity."/>
+    <string id="MaBSSg7I" text="Бойовий Таран"/>
+    <string id="mBDj5uG5" text="Піхота та стрілецькі війська"/>
+    <string id="MbXatV1Q" text="Роз'єднано"/>
+    <string id="MdQJxiGz" text="{KEY} Штовхати"/>
+    <string id="MVOPbhNj" text="Передавати перевагу військам зі щитами"/>
+    <string id="Na81xuXn" text="{KEY} Переозброїти"/>
+    <string id="NbpcDXtJ" text="Баліста"/>
+    <string id="oPOa77dI" text="Вийшов з платформи"/>
+    <string id="oZrVNUOk" text="Помилка"/>
+    <string id="PfnS8HUd" text="Хибний тип гри!"/>
+    <string id="pgw7LMRo" text="Сервер переповнений."/>
     <string id="PjO7oY16" text="{.f}Стургія{.R_n10}"/>
-    <string id="PSN8IaIg" text="Shields"/>
-    <string id="pzfbPbWW" text="Boulder"/>
-    <string id="Q1Ga032B" text="Don't give preference to any type of troop."/>
-    <string id="qaPgbwZv" text="Low Tier"/>
-    <string id="RN6zHak0" text="Player"/>
+    <string id="PSN8IaIg" text="Щити"/>
+    <string id="pzfbPbWW" text="Каменюка"/>
+    <string id="Q1Ga032B" text="Не віддавайте перевагу жодному виду військ."/>
+    <string id="qaPgbwZv" text="Низький Рівень"/>
+    <string id="RN6zHak0" text="Гравець"/>
     <string id="rwZAZSvX" text="{KEY} Move"/>
     <string id="sRTd3RI5" text="Графіка"/>
     <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
