@@ -6,7 +6,7 @@
   <strings>
     <string id="1e12bdjj" text="Screenshot has been saved in {PATH}"/>
     <string id="79bODbwZ" text="Photo mode is already active."/>
-    <string id="ajKnHI1s" text="Take Picture"/>
+    <string id="ajKnHI1s" text="Зробити знімок"/>
     <string id="aogZyZlR" text="You need to wait {SECONDS} seconds until you can cheer/shout again."/>
     <string id="asCeKZXx" text="Re-enable Battle UI"/>
     <string id="B41vvGuo" text="Invalid key"/>
@@ -19,7 +19,7 @@
     <string id="LDRV5PxX" text="Touchpad Mouse setting won't take affect correctly until returning to initial menu! Exiting to main menu is recommended!"/>
     <string id="qkPfC3Cb" text="Warning"/>
     <string id="rZSjkCpw" text="Cannot use photo mode during deployment."/>
-    <string id="VklN5Wm6" text="Photo Mode"/>
+    <string id="VklN5Wm6" text="Фоторежим"/>
     <string id="WA6Sk6cH" text="Cheat Menu"/>
   </strings>
 </base>
