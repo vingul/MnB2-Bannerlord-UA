@@ -4,9 +4,9 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="CpLuMow4" text="Gastond"/>
-    <string id="NzbJtdPe" text="Arentor"/>
-    <string id="qGDbHbvl" text="Nylia"/>
-    <string id="UTm3ZfIw" text="Belarn"/>
+    <string id="CpLuMow4" text="{.m}Гастонд{.R_n20_a_ke}"/>
+    <string id="NzbJtdPe" text="{.m}Арентор{.R_n20_a_ke}"/>
+    <string id="qGDbHbvl" text="{.f}Нілія{.R_n10_ko}"/>
+    <string id="UTm3ZfIw" text="{.m}Беларн{.R_n20_a_ke}"/>
   </strings>
 </base>
