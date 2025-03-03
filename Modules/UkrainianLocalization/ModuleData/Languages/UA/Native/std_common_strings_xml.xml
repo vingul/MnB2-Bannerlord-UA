@@ -10,7 +10,7 @@
     <string id="09z8Q08f" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Такі як вони були основою аграрно-орієнтованої економіки Імперії та були кістяком її армії."/>
     <string id="0a6Vz7wi" text="{.m}Шкіряний{.R_adj} {.m}табард{.R_n20_u}"/>
     <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
-    <string id="0CQgia2a" text="Culharn"/>
+    <string id="0CQgia2a" text="{.m}Кулхарн{.R_n20_u_ke}"/>
     <string id="0e17RZrZ" text="Arbalest"/>
     <string id="0oGz5rVx" text="Honor"/>
     <string id="0rBsbw1T" text="No effect"/>
