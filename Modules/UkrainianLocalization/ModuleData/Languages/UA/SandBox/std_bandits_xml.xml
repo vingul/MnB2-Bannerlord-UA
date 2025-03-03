@@ -7,23 +7,23 @@
     <string id="0Ikzzm71" text="Шеф морських нальотчиків"/>
     <string id="0qDNS83n" text="Кочовий бандит"/>
     <string id="9laVlEH9" text="Горець"/>
-    <string id="Bg63YFnh" text="Steppe Bandit Boss"/>
-    <string id="C1Fkzdvu" text="Sea Raider Boss"/>
-    <string id="C8DE6L73" text="Deserter"/>
-    <string id="C8hwcOdF" text="Mounted Pillager"/>
-    <string id="cdbSCr6G" text="Harami"/>
-    <string id="dc2qxanZ" text="Forest Bandit Boss"/>
-    <string id="dq2cP8h0" text="Sea Raider"/>
-    <string id="freebootertroop" text="Freebooter"/>
-    <string id="HadsURl8" text="Bushwacker"/>
-    <string id="J6Yksji5" text="Mounted Ransacker"/>
-    <string id="Nr8NkHXU" text="Sea Raider Warrior"/>
-    <string id="P6Md9DpR" text="Highwayman"/>
-    <string id="Q2V4uQrr" text="Desert Bandit Boss"/>
-    <string id="sFgODQ1q" text="Forest Bandit"/>
-    <string id="uOAnHN47" text="Bedouin Rover"/>
-    <string id="ZA4bgJ5V" text="Steppe Bandit"/>
-    <string id="ziOBJSzR" text="Mountain Bandit Boss"/>
-    <string id="ZKdiaaFo" text="Brigand"/>
+    <string id="Bg63YFnh" text="Лідер степових бандитів"/>
+    <string id="C1Fkzdvu" text="Лідер морський нальотчиків"/>
+    <string id="C8DE6L73" text="Дезертир"/>
+    <string id="C8hwcOdF" text="Кінний грабіжник"/>
+    <string id="cdbSCr6G" text="Харамі"/>
+    <string id="dc2qxanZ" text="Лідер лісових бандитів"/>
+    <string id="dq2cP8h0" text="Морський нальотчик"/>
+    <string id="freebootertroop" text="Вільний мисливець"/>
+    <string id="HadsURl8" text="Волоцюга"/>
+    <string id="J6Yksji5" text="Кінний розбійник"/>
+    <string id="Nr8NkHXU" text="Воїн морських нальотчиків"/>
+    <string id="P6Md9DpR" text="Дорожній розбійник"/>
+    <string id="Q2V4uQrr" text="Лідер пустельних розбійників"/>
+    <string id="sFgODQ1q" text="Лісовий розбійник"/>
+    <string id="uOAnHN47" text="Бедуїн-розбійник"/>
+    <string id="ZA4bgJ5V" text="Степовий бандит"/>
+    <string id="ziOBJSzR" text="Лідер гірських бандитів"/>
+    <string id="ZKdiaaFo" text="Розбійник"/>
   </strings>
 </base>
