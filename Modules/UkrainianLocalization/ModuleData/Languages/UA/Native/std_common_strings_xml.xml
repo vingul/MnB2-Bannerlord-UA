@@ -4,17 +4,17 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="028iCb8B" text="Jythea"/>
+    <string id="028iCb8B" text="{.f}Джитея{.R_n10_ko}"/>
     <string id="02c5bQSM" text="Викинути"/>
     <string id="09gOOa0h" text="{.m}Рейнджер{.R_n20_a_ke_p}"/>
     <string id="09z8Q08f" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Такі як вони були основою аграрно-орієнтованої економіки Імперії та були кістяком її армії."/>
-    <string id="0a6Vz7wi" text="Leather Tabard"/>
+    <string id="0a6Vz7wi" text="{.m}Шкіряний{.R_adj} {.m}табард{.R_n20_u}"/>
     <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
     <string id="0CQgia2a" text="Culharn"/>
     <string id="0e17RZrZ" text="Arbalest"/>
     <string id="0oGz5rVx" text="Honor"/>
     <string id="0rBsbw1T" text="No effect"/>
-    <string id="0SpLcthg" text="Булава горян з зубцями"/>
+    <string id="0SpLcthg" text="{.f}Булава{.R_n10_p1} горян з зубцями"/>
     <string id="0SsLGsXk" text="Long Padded Robe"/>
     <string id="0Suu1Q9q" text="Ваш батько був управителем у місцевого вельможі. Він доглядав за його володіннями, вирішував суперечки в селі та допомагав збирати податки. Сам він бився в лицарських обладунках у кавалерійському загоні свого господаря."/>
     <string id="0XEaaoah" text="Rosazia"/>
@@ -136,7 +136,7 @@
     <string id="6P1ruzsC" text="Maybe..."/>
     <string id="6pNrNj93" text="Wall"/>
     <string id="6vtmYjTW" text="Jolanna"/>
-    <string id="6XxiMU52" text="Leather Tabard over Mail"/>
+    <string id="6XxiMU52" text="{.m}Шкіряний{.R_adj} {.m}табард{.R_n20_u} поверх кольчуги"/>
     <string id="79ElOr2x" text="Horse Trader"/>
     <string id="7AFlpaem" text="{STR1} {STR2}"/>
     <string id="7AYJ3SjK" text="Ваша родина домовилася, щоб ви супроводжували вождя вашого народу. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
@@ -1179,7 +1179,7 @@
     <string id="YUoydtNS" text="Yana"/>
     <string id="YVGtcLHF" text="Кавалерія"/>
     <string id="Yvk8a2tb" text="Робота ніг"/>
-    <string id="YxglkaXU" text="White Tabard over Mail Hauberk"/>
+    <string id="YxglkaXU" text="{.m}Білий{.R_adj} {.m}табард{.R_n20_u} поверх довгої кольчуги"/>
     <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів вландійських найманців, які так сильно звикли до війни, служачи своєму пану, що вже навіть не уявляли мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і тому брала вас із собою у всі криваві походи."/>
     <string id="Z2xgnrDa" text="Шкода при зіткненнях вершникам вашого підрозділу: {BONUS_AMOUNT}%."/>
     <string id="Z6Ak3H6G" text="Jereed"/>
