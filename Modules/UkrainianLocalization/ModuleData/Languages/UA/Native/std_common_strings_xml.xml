@@ -4,382 +4,382 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="028iCb8B" text="Jythea"/>
-    <string id="02c5bQSM" text="Discard"/>
-    <string id="09gOOa0h" text="Ranger"/>
-    <string id="09z8Q08f" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the imperial rural economy, as well as the backbone of the levy."/>
-    <string id="0a6Vz7wi" text="Leather Tabard"/>
-    <string id="0B27RrYJ" text="Battania"/>
-    <string id="0CQgia2a" text="Culharn"/>
-    <string id="0e17RZrZ" text="Arbalest"/>
-    <string id="0oGz5rVx" text="Honor"/>
-    <string id="0rBsbw1T" text="No effect"/>
-    <string id="0SpLcthg" text="Highland Spiked Club"/>
-    <string id="0SsLGsXk" text="Long Padded Robe"/>
-    <string id="0Suu1Q9q" text="Your father was a bailiff for a local feudal magnate. He looked after his liege's estates, resolved disputes in the village, and helped train the village levy. He rode with the lord's cavalry, fighting as an armored knight."/>
-    <string id="0XEaaoah" text="Rosazia"/>
-    <string id="11KckWau" text="Mitara"/>
-    <string id="18NtjryL" text="Not yet, but I will soon."/>
-    <string id="1bdDdwub" text="Nasalhelm over Mail"/>
-    <string id="1Bm1Wk1v" text="Infantry"/>
-    <string id="1BXuUR3s" text="Infantryman Long Gambeson"/>
-    <string id="1cKxsHSh" text="Penton"/>
-    <string id="1CPdu9K0" text="Stone"/>
-    <string id="1cYka5tR" text="Sleeveless Fur Coat"/>
-    <string id="1EkEElZd" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile weapons."/>
-    <string id="1GpTOIqU" text="Kettle Helmet over Padded Coif"/>
-    <string id="1IEroJKs" text="Not everyone who musters for the levy marches to war, and not everyone who goes on campaign sees action. You did both, and you also took down an enemy warrior in direct one-to-one combat, in the full view of your comrades."/>
-    <string id="1JlzQIXE" text="Disabled"/>
-    <string id="1jqxlEkT" text="Spice{@Plural}sacks of spice{\@}"/>
-    <string id="1jX7yxSW" text="Huscarl Mail Shirt"/>
-    <string id="1r0tDsrR" text="Attack!"/>
-    <string id="1sbJQR4H" text="Looters"/>
-    <string id="1SUTcF0J" text="The gang leaders who kept watch over the slums of Calradian cities were always in need of poor youth to run messages and back them up in turf wars, while thrill-seeking merchants' sons and daughters sometimes slummed it in their company as well."/>
-    <string id="1zFYpSSY" text="Fringed Decorated Steel Cap with Cheek Guards"/>
-    <string id="1zXrlaav" text="Your family were respected traders in an oasis town. They ran caravans across the desert, and were experts in the finer points of negotiating passage through the desert tribes' territories."/>
-    <string id="20moIxs1" text="Kettle over Laced Coif"/>
-    <string id="22a9fyiQ" text="Father"/>
-    <string id="275LD0Gh" text="Shop Worker"/>
-    <string id="2AcfBbCR" text="Military Tunic"/>
-    <string id="2awf1tei" text="Tax"/>
-    <string id="2Bh8DS8S" text="Siga"/>
-    <string id="2cSOn9qb" text="Gambeson over Mail Armor"/>
-    <string id="2fYYfHUI" text="Martira"/>
-    <string id="2I2uKJlw" text="Mercy"/>
-    <string id="2iDtlgM0" text="Closed Warlord Helmet"/>
-    <string id="2m1kWsao" text="Leather Studded Helm over Thinhide"/>
-    <string id="2MdVVkVL" text="Kettle Hat over Padded Coif"/>
-    <string id="2N0ZP2GB" text="Helmet with Turban and Coif"/>
-    <string id="2OJEyP0d" text="Dasys"/>
-    <string id="2OqAomZy" text="Oragur"/>
-    <string id="2oy7atk6" text="Lundana"/>
-    <string id="2qisE5ys" text="Kettle Helmet over Padded Cap"/>
-    <string id="2SDWhGmQ" text="Your family numbered among the poor migrants living in the slums that grow up outside the walls of the river cities, making whatever money they could from a variety of odd jobs. Sometimes they did services for one of the region's many criminal gangs."/>
-    <string id="2TptWc4m" text="A baron's retainers"/>
-    <string id="2XEbqNQz" text="Decorated Imperial Gauntlets"/>
-    <string id="2YYRyrOO" text="Leave..."/>
-    <string id="2ZarUUbw" text="{KILLERPLAYERNAME} has killed {KILLEDPLAYERNAME}!"/>
-    <string id="2zcrC0h1" text="Gameplay"/>
-    <string id="3bqwOJ8z" text="Upturned Fur Cap"/>
-    <string id="3CpNUnVl" text="Cancel"/>
-    <string id="3CsACce8" text="Exit"/>
-    <string id="3DV3GoHb" text="Pointed Skullcap with Mail"/>
-    <string id="3iq3rOh8" text="Kettle Helmet over Arming Coif"/>
-    <string id="3lauB1HH" text="Bronze Lamellar Vest over Gambeson"/>
-    <string id="3o6FDRsq" text="Captured Towns"/>
-    <string id="3PzgpFGq" text="Neutral"/>
-    <string id="3RBVn5yi" text="Zoros"/>
-    <string id="3sRdGQou" text="Leave"/>
-    <string id="3UxfT9Bu" text="Wrapped Leather Cap"/>
-    <string id="3VosbFR0" text="Vlandian Champion"/>
-    <string id="3Z91Nxbf" text="Spangenhelm with Leather"/>
-    <string id="45kZUyjh" text="Olives{@Plural}barrels of olives{\@}"/>
-    <string id="46orXtt0" text="Woodland Garments"/>
-    <string id="4AfHO0BA" text="Sleeveless Studded Fur Armor"/>
-    <string id="4B2i8oxo" text="Coat with Mirrored Belt"/>
-    <string id="4BfbPgkY" text="Nasal Cervelliere over Padded Cap"/>
-    <string id="4C4WiTb2" text="Varyag"/>
-    <string id="4cHMe6H2" text="Decorated Hauberk"/>
-    <string id="4cU98rkg" text="Smelting"/>
-    <string id="4Dd2xgPm" text="Weight"/>
-    <string id="4eOHPops" text="Rugged Scale Armor"/>
-    <string id="4f5xwzX0" text="When your community needed to organize a posse to pursue horse thieves, you were the obvious choice. You hunted down the raiders, surrounded them and forced their surrender, and took back your stolen property."/>
-    <string id="4gOGGbeQ" text="Custom Battle"/>
-    <string id="4HcrY0S2" text="Fur Rimmed Leather Gloves"/>
-    <string id="4IuXGSdc" text="Wall Hitpoints"/>
-    <string id="4kvKQuXM" text="Hides{@Plural}loads of hide{\@}"/>
-    <string id="4KYF5iCd" text="Layered Leather Tunic"/>
-    <string id="4lEEqyCg" text="Jacorios"/>
-    <string id="4MwHbMFs" text="Carfyd"/>
-    <string id="4n6n3KL7" text="Desert Headdress"/>
-    <string id="4NaOKslb" text="-"/>
-    <string id="4pqIsPhp" text="Padded Short Coat"/>
-    <string id="4PrfimcK" text="Badge"/>
-    <string id="4wdgiTta" text="Sickle"/>
-    <string id="4WYY0X59" text="Before you set out for a life of adventure, your biggest achievement was..."/>
-    <string id="4YfjgtO2" text="Donate Troops"/>
-    <string id="4YTJJaTG" text="Heavy Sabre"/>
-    <string id="4YxbZlbi" text="Wrapped Shoes"/>
-    <string id="51EcVnzd" text="Visored Helmet over Laced Coif"/>
-    <string id="564PHXk3" text="Decorated Leather Harness"/>
-    <string id="5c4cHL9Z" text="Khuzait Battle Crown"/>
-    <string id="5DSafcSC" text="Konane"/>
-    <string id="5EiKEdi5" text="Dorion"/>
-    <string id="5eTb2xr7" text="Sanion"/>
-    <string id="5HXS8HEY" text="your brawn."/>
-    <string id="5k4dxUEJ" text="Troops"/>
-    <string id="5kbeAC7k" text="In wartorn Calradia, especially in frontier or tribal areas, some women as well as men learn to fight from an early age. You..."/>
-    <string id="5n4rWI9T" text="Spiked Helmet with Facemask"/>
-    <string id="5nEh20ju" text="Vasylops"/>
-    <string id="5P0KqBAw" text="Your family tilled the soil in one of the oases of the Nahasa and tended the palm orchards that produced the desert's famous dates. Your father was a member of the main foot levy of his tribe, fighting with his kinsmen under the emir's banner."/>
-    <string id="5QSGoRFj" text="Your family tilled one of the small patches of arable land in the steppes for generations. When the Khuzaits came, they ceased paying taxes to the emperor and providing conscripts for his army, and served the khan instead."/>
-    <string id="5rj7xQE4" text="Bow"/>
-    <string id="5siAbi69" text="Mu Torere"/>
-    <string id="5sMBbn7y" text="Calculating"/>
-    <string id="5tbWdY1j" text="Avatar"/>
-    <string id="5Unqsx3N" text="Confirm"/>
-    <string id="5VzWRMTn" text="Artimendros"/>
-    <string id="5yFy4U4i" text="Morynon"/>
-    <string id="63TAYbkx" text="Urban troops spend much of their time guarding the town walls. Most of their training was in missile weapons, especially useful during sieges."/>
-    <string id="64rWqBLN" text="You avoided service with one of the main forces of your realm's armies, but followed instead in the train - the troops' wives, lovers and servants, and those who make their living by caring for, entertaining, or cheating the soldiery."/>
-    <string id="651FhzdR" text="Urban merchants"/>
-    <string id="6bUSbsKC" text="Your father worked for a fitiwi, one of the strongmen who keep order in the poorer quarters of the oasis towns. He resolved disputes over land, dice and insults, imposing his authority with the fitiwi's traditional staff."/>
-    <string id="6bx9IhpD" text="Upgrades"/>
-    <string id="6Db7aDbF" text="Ballista Arrows"/>
-    <string id="6Dk7LClc" text="Luxury Turban Over Helmet"/>
-    <string id="6fA31IxF" text="Heavy Mail Vest"/>
-    <string id="6GSXsdeX" text="Speed"/>
-    <string id="6hwZwODh" text="Glaive"/>
-    <string id="6LFj919J" text="You helped dig wells, rethatch houses, and fix broken plows. You learned about the basics of construction, as well as what it takes to keep a farming community prosperous."/>
-    <string id="6LMiTKZz" text="Lamenon"/>
-    <string id="6n44BIll" text="Pointed Skullcap over Laced Coif"/>
-    <string id="6P1ruzsC" text="Maybe..."/>
-    <string id="6pNrNj93" text="Wall"/>
-    <string id="6vtmYjTW" text="Jolanna"/>
-    <string id="6XxiMU52" text="Leather Tabard over Mail"/>
-    <string id="79ElOr2x" text="Horse Trader"/>
-    <string id="7AFlpaem" text="{STR1} {STR2}"/>
-    <string id="7AYJ3SjK" text="Your family arranged for you to accompany a chieftain of your people. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
-    <string id="7b8Cwogx" text="Aketon"/>
-    <string id="7cHsIMLP" text="You could never have bought the equipment on your own, but you were a good enough rider so that the local lord lent you a horse and equipment. You joined the armored cavalry, training with the lance."/>
-    <string id="7D3jvAfS" text="Hide Cap"/>
-    <string id="7dAy51ln" text="Cervelliere over Arming Coif"/>
-    <string id="7EAEIUIY" text="Heavy Ring Mail"/>
-    <string id="7eWmU2mF" text="Foresters"/>
-    <string id="7h6cXdW7" text="Engineer"/>
-    <string id="7HbspP6x" text="Ornate Legionary Scale Mail"/>
-    <string id="7Hv984Sf" text="at docks and building sites."/>
-    <string id="7jBroUUQ" text="Your family had little land of their own, so they earned their living from the woods, hunting and trapping. They taught you from an early age that skills like finding game trails and killing an animal with one shot could make the difference between eating and starvation."/>
-    <string id="7LmUe8fQ" text="Menavlion"/>
-    <string id="7qySRF2T" text="Ping"/>
-    <string id="7UkzXWTQ" text="Osarios"/>
-    <string id="7Xynf4IA" text="Hand Armor"/>
-    <string id="888lmJqs" text="All of Calradia's kingdoms recognize the value of good light cavalry and horse archers, and are sure to recruit nomads and borderers with the skills to fulfill those duties. You were a good enough rider that your neighbors pitched in to buy you a small pony and a good bow so that you could fulfill their levy obligations."/>
-    <string id="8a6dnLd2" text="with the alley gangs."/>
-    <string id="8ba4tpRU" text="Jawwal"/>
-    <string id="8bwpVpgy" text="you defeated an enemy in battle."/>
-    <string id="8hDoWBIa" text="Commoner Shirt"/>
-    <string id="8HMyTKF6" text="Vlandians"/>
-    <string id="8nNLS96w" text="Reinforced Oval Shield"/>
-    <string id="8OkPHu4f" text="No"/>
-    <string id="8SNS2wF9" text="Turban"/>
-    <string id="8tHbqjmB" text="Peaked Fur Hood"/>
-    <string id="8uBew3nD" text="Studded Vambraces"/>
-    <string id="8UBfIenN" text="Normal"/>
-    <string id="8Yiwt1z6" text="Early Childhood"/>
-    <string id="8ZNOgT8Z" text="{BONUS_AMOUNT}% melee damage to troops in your formation."/>
-    <string id="915frsPd" text="Corena"/>
-    <string id="927d3urB" text="Wooden Oval Shield"/>
-    <string id="92M0Pb5T" text="Scout"/>
-    <string id="9ACJsI6S" text="Blocked"/>
-    <string id="9aehD627" text="Luxury Tunic"/>
-    <string id="9aoQYpZs" text="Your family's clan never pledged its loyalty to the khan and never settled down, preferring to live out in the deep steppe away from his authority. They remain some of the finest trackers and scouts in the grasslands, as the ability to spot an enemy coming and move quickly is often all that protects their herds from their neighbors' predations."/>
-    <string id="9BENgwRK" text="Roundkettle over Laced Cloth"/>
-    <string id="9cDw6vPF" text="Cadomenos"/>
-    <string id="9cHyHQ7a" text="Lamellar Plate Boots"/>
-    <string id="9CnRKZOb" text="{KILLEDPLAYERNAME} has died!"/>
-    <string id="9Eyd2qGo" text="Reinforced Suede Boots"/>
-    <string id="9FgxK9se" text="Tall Helmet"/>
-    <string id="9ks4u5cH" text="You were sent by the village healer up into the hills to look for useful medicinal plants. You learned which herbs healed wounds or brought down a fever, and how to find them."/>
-    <string id="9pgOGq7X" text="Log"/>
-    <string id="9sokmYMZ" text="Padmos"/>
-    <string id="9xyXdX4I" text="Tharos"/>
-    <string id="9y0zpKUF" text="You need to be the owner of this settlement!"/>
-    <string id="9ZyXl25X" text="second"/>
-    <string id="a1BGHdaU" text="Guarded Armwraps"/>
-    <string id="A1zFbFta" text="Reinforced Flat Kite Shield"/>
-    <string id="a2ajWcI3" text="Viria"/>
-    <string id="a3Vc59WV" text="Decreased Taken Melee Attack Damage"/>
-    <string id="A6llHL9s" text="Lowland Longbow"/>
-    <string id="a6qaFH7L" text="Herena"/>
-    <string id="a8arFSra" text="trained with the infantry."/>
-    <string id="A8MJWbhf" text="Visored Helmet over Padded Cloth"/>
-    <string id="AAqB4QxB" text="Bortu"/>
-    <string id="AB1mV5Pg" text="Kettle Helmet over Laced Coif"/>
-    <string id="abCBBVaU" text="Romund"/>
-    <string id="AbEh2y8o" text="Save And Exit"/>
-    <string id="AccBcEIt" text="Zoana"/>
-    <string id="acp2IcMs" text="Crotor"/>
-    <string id="AdafHtud" text="Peaked Helmet over Mail Coif"/>
-    <string id="ADJBbfbQ" text="Fur{@Plural}packs of fur{\@}"/>
-    <string id="AdK4Ilzw" text="Chalia"/>
-    <string id="AeBzTj6w" text="Healers"/>
-    <string id="aEke8dSb" text="Urban vagabonds"/>
-    <string id="aeLgc0cU" text="Acthon"/>
-    <string id="aeouhelq" text="Yes"/>
-    <string id="aezwJGvY" text="Chenon"/>
-    <string id="afH90aNs" text="Levy armed with spear and shield, drawn from smallholding farmers, have always been the backbone of most armies of Calradia."/>
-    <string id="aGbTPme1" text="Scythe"/>
-    <string id="agn93v7y" text="Yorig"/>
-    <string id="agqzAXa9" text="Visored Helmet over Padded Coif"/>
-    <string id="ahiBhAqU" text="Armor"/>
-    <string id="Ai7qIb9I" text="Small Heater Shield"/>
-    <string id="aIkffnN6" text="Characters"/>
-    <string id="AK0lNDmN" text="Jeweled Plumed Battle Crown"/>
-    <string id="alMmQrhK" text="Party Morale"/>
-    <string id="ALWqXMiP" text="Yes, I am sure."/>
-    <string id="AmBEgOyq" text="I see..."/>
-    <string id="aN85Kfnq" text="{SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
-    <string id="AobNdBBU" text="Cheap Paddings"/>
-    <string id="aoPbMKwB" text="Feathered Spangenhelm over Mail"/>
-    <string id="aOwcs7Un" text="Roundkettle over Leather"/>
-    <string id="aQeOcLX4" text="Two Pronged Bronze Crown"/>
-    <string id="aQN4Dlx2" text="Heavy Aketon"/>
-    <string id="ArbBALwc" text="Knight Helmet with Bronze Faceguard"/>
-    <string id="arCGUuR5" text="The settlement is under siege."/>
-    <string id="ArPvuBYK" text="Woven Turban"/>
-    <string id="aseraifaction" text="Aserai"/>
-    <string id="aseraimembers" text="Aserai"/>
-    <string id="aSNUtnbH" text="Temun"/>
-    <string id="at4MdVBJ" text="Fathid"/>
-    <string id="aTncHUfL" text="stood guard with the garrisons."/>
-    <string id="aVGSZhCN" text="Pavise Shield"/>
-    <string id="AVoWvlue" text="{RANK} ({NUMBER})"/>
-    <string id="aVzcyhhy" text="Your father was a bard, drifting from chieftain's hall to chieftain's hall making his living singing the praises of one Battanian aristocrat and mocking his enemies, then going to his enemy's hall and doing the reverse. You learned from him that a clever tongue could spare you  from a life toiling in the fields, if you kept your wits about you."/>
-    <string id="Awc23bFS" text="Marauder"/>
-    <string id="awQrcrt2" text="Pottery{@Plural}crates of pottery{\@}"/>
-    <string id="axaK9y6E" text="Closed Knight Helmet"/>
-    <string id="Axe5FkET" text="Talison"/>
-    <string id="Ay0G3f7I" text="Your family arranged for you to be part of the staff of an imperial strategos. You were not given major responsibilities - mostly carrying messages and tending to his horse -- but it did give you a chance to see how campaigns were planned and men were deployed in battle."/>
-    <string id="aYoIrpe0" text="Strapped Mail Chausses"/>
-    <string id="aZxHIra4" text="Renown"/>
-    <string id="b1pqUQju" text="Segmented Skullcap over Padded Cloth"/>
-    <string id="b2aRoXsb" text="Tessa"/>
-    <string id="b2d9BYxT" text="Svana"/>
-    <string id="b2EDkbhD" text="Wrapped Armguards"/>
-    <string id="b4lDDcli" text="Family"/>
-    <string id="BAaS5Dkc" text="Apply"/>
-    <string id="bAidg8fV" text="Huscarl Decorated Mail Shirt"/>
-    <string id="BavVxSoC" text="Cheap Colored Clothes"/>
-    <string id="BbhGL8XT" text="Brigandine Vest"/>
-    <string id="bC5aMfG0" text="Villages"/>
-    <string id="BCU6RezA" text="Smiths"/>
-    <string id="BCy1KpvR" text="Lacalion"/>
-    <string id="bDMmX9YI" text="Luichan"/>
-    <string id="bdpjqoGe" text="Segmented Cervelliere over Mail"/>
-    <string id="beMSPAOG" text="Leather Studded Helm over Headcloth"/>
-    <string id="bF7HmNGQ" text="Khuzait Khanate"/>
-    <string id="bfQLwMUp" text="Clans"/>
-    <string id="bgjiFSHZ" text="Battanians"/>
-    <string id="bGyrPe8c" text="Production"/>
-    <string id="bHbR5Mgy" text="Losys"/>
-    <string id="bhdkegZ4" text="All towns had their share of projects that were constantly in need of both skilled and unskilled labor. You learned how hoists and scaffolds were constructed, how planks and stones were hewn and fitted, and other skills."/>
-    <string id="bhE2i6OU" text="served as a baron's groom."/>
-    <string id="bHTdXTwC" text="Alary"/>
-    <string id="bHx8jaeI" text="Warrior"/>
-    <string id="bIiBytSB" text="Archers"/>
-    <string id="billionabbr" text="b"/>
-    <string id="bjJkW9dO" text="View Profile"/>
-    <string id="bjVMtW3W" text="Your family were merchants who lived in one of Sturgia's great river ports, organizing the shipment of the north's bounty of furs, honey and other goods to faraway lands."/>
-    <string id="bKBa7ahF" text="Long Simple Robe"/>
-    <string id="Bl72Ribb" text="Padded Leather Shoulders"/>
-    <string id="BlidMNGT" text="Relation"/>
-    <string id="BLZ4mdhb" text="Your family were small farmers with just enough land to feed themselves and make a small profit. People like them were the pillars of the kingdom's economy, as well as the backbone of the levy."/>
-    <string id="bmHAYBwX" text="Catila"/>
-    <string id="BNnLbOkN" text="Adinea"/>
-    <string id="bNnQt4jN" text="Blacksmith"/>
-    <string id="BNuZ6nvd" text="Daniria"/>
-    <string id="bqeWVVEE" text="Your actions have started a war with {QUEST_GIVER.LINK}'s faction. {?QUEST_GIVER.GENDER}She{?}He{\?} cancels your agreement and the quest is a failure."/>
-    <string id="bQKbW8Tx" text="Thasyna"/>
-    <string id="BrjpmaJH" text="Games Lost"/>
-    <string id="BryUh6yQ" text="Steel Cap"/>
-    <string id="bSo9hKwr" text="{PERSUASION_OPTION_LINE} {SUCCESS_CHANCE}"/>
-    <string id="bTKiN0hr" text="worked in the village smithy."/>
-    <string id="btsMpRcA" text="Your family owned a smithy in a city. Your father played an active if minor role in the town council, and also served in the militia."/>
-    <string id="bTUGfbH5" text="Rugged Gambeson"/>
-    <string id="bubcrmTC" text="Nasal Helmet over Padded Cloth"/>
-    <string id="bV75iwKa" text="Save"/>
-    <string id="bVzkrtUc" text="Pugio"/>
-    <string id="bWb245zO" text="Voleos"/>
-    <string id="bWlmGDf3" text="When a sudden storm caused the local stream to rise suddenly, your neighbors needed quick-thinking leadership. You provided it, directing them to build levees to save their homes."/>
-    <string id="bxa4JHlU" text="Studded Leather Vambraces"/>
-    <string id="bXAg5w19" text="Younger recruits, or those of a slighter build, or those too poor to buy shield and armor tend to join the skirmishers. Fighting with bow and javelin, they try to stay out of reach of the main enemy forces."/>
-    <string id="ByxdPJzA" text="Fur Cap with Ear Flaps"/>
-    <string id="bz5lXkHS" text="Sleeveless Padded Short Coat"/>
-    <string id="bz7Glmsm" text="Skills"/>
-    <string id="c2pdihCB" text="Caravans"/>
-    <string id="C4n1rgBC" text="Seega"/>
-    <string id="C4qjBqLO" text="Sturgians"/>
-    <string id="c7UNJSNi" text="Woven Leather Shoulders"/>
-    <string id="C8bVbM65" text="Tunic with Leather Vest"/>
-    <string id="CAO0bycV" text="Heavy Tunic"/>
-    <string id="captainasleader" text="Captain"/>
-    <string id="cbF9jdQo" text="Your parents didn't give you much money, but they did leave just enough for you to purchase a plot of unused land at the edge of the village. You cleared away rocks and dug an irrigation ditch, raised a few seasons of crops, than sold it for a considerable profit."/>
-    <string id="cbnvgVhH" text="Raider"/>
-    <string id="CBUdkmIw" text="Colored Kaftan"/>
-    <string id="CbxLZdVg" text="Lycos"/>
-    <string id="CcWpkREW" text="Heavy Mail Shirt with Wide Belt"/>
-    <string id="cDetN1Ao" text="Makeshift Kite Sparring Shield"/>
-    <string id="cdmrCQfC" text="Hurunag"/>
-    <string id="cDWbwBwI" text="joined the kern."/>
-    <string id="CDXUehf0" text="Good, good."/>
-    <string id="cEhDJAQp" text="Infantryman Gambeson with Skirts"/>
-    <string id="CePmep0z" text="Poacher"/>
-    <string id="Ch5NpCd0" text="Increased Ranged Damage"/>
-    <string id="CH7b5LaX" text="I have changed my mind."/>
-    <string id="character_creation_content_16" text="As a child you were noted for..."/>
-    <string id="CIDdPt1I" text="Bronze Lamellar over Mail"/>
-    <string id="CITG915d" text="joined a commander's staff."/>
-    <string id="cjH1WFwy" text="Fur Rimmed Cap"/>
-    <string id="cjhhuTZD" text="Cured Leather Lamellar Armor"/>
-    <string id="cK5DE88I" text="N/A"/>
-    <string id="cKz1cyuM" text="Your clan is now at war with {QUEST_GIVER_SETTLEMENT_FACTION}. Quest is canceled."/>
-    <string id="cL1lO5iP" text="Ergeon"/>
-    <string id="CLTk2CMs" text="Infantryman Gambeson with Straps"/>
-    <string id="CLYcnUra" text="Belted Leather Cuirass"/>
-    <string id="cMdtLfGB" text="Tassled Robes"/>
-    <string id="cOgmdp9e" text="Decline"/>
-    <string id="Cp7dI87a" text="Vanguard"/>
-    <string id="cPbHqGrI" text="Kick Player"/>
-    <string id="CPI0wkaZ" text="Hickory Crossbow"/>
-    <string id="CsjtWt1g" text="Tavern Keeper"/>
-    <string id="csUq1RCC" text="You were employed as a hired hand at the town's stables. The overseers recognized that you had a knack for horses, and you were allowed to exercise them and sometimes even break in new steeds."/>
-    <string id="CtJPuRDa" text="Padded Leather Overcoat"/>
-    <string id="CTtjSwRb" text="Noon"/>
-    <string id="CvVJyKYA" text="Thelea"/>
-    <string id="cZIhxH9e" text="Pacarios"/>
-    <string id="D0xDRqvm" text="{PERSUASION_REACTION}"/>
-    <string id="D33fIGQe" text="Never mind."/>
-    <string id="D358wBWJ" text="Heavy Lamellar over Hauberk"/>
-    <string id="D6sMSANW" text="Amalgun"/>
-    <string id="d8D98oFG" text="Melidir"/>
-    <string id="d8DrtmwP" text="Visored Helmet over Mail Coif"/>
-    <string id="D9JrTpwU" text="Curved Boots"/>
-    <string id="dacwWKE2" text="Worn Kite Shield"/>
-    <string id="DaE0N37L" text="Notables"/>
-    <string id="dB6cFDmz" text="/"/>
-    <string id="DbavaIis" text="Iron Nasalhelm over Mail"/>
-    <string id="Dc4ia4m9" text="Padded Cap"/>
-    <string id="ddEu5IFQ" text="I hope so."/>
-    <string id="dDmcqTzb" text="Yours wasn't the kind of reputation that local legends are made of, but it was the kind that wins you respect among those around you. You were consistently fair and honest in your business dealings and helpful to those in trouble. In doing so, you got a sense of what made people tick."/>
-    <string id="DeWp2GjP" text="Shield Breaker"/>
-    <string id="DFidSjIf" text="Most children around you had only the most rudimentary education, but you lingered after class to study letters and mathematics. You were fascinated by the marketplace - weights and measures, tallies and accounts, the chatter about profits and losses."/>
-    <string id="DIgsfYfz" text="You took your family's goods to the nearest town to sell your produce and buy supplies. It was hard work, but you enjoyed the hubbub of the marketplace."/>
-    <string id="Dj64aJKQ" text="Billhook"/>
-    <string id="DjeAJtix" text="Maybe it was a love affair, or maybe you cheated at dice, or maybe you just chose your words poorly when drinking with a dangerous crowd. Anyway, on one of your trips into town you got into the kind of trouble from which only a quick tongue or quick feet get you out alive."/>
-    <string id="DKqLY1aJ" text="Equip"/>
-    <string id="dlBFVkDj" text="About the task you gave me..."/>
-    <string id="DM6luo3c" text="Continue"/>
-    <string id="DoiwC1Qa" text="Mail Chausses"/>
-    <string id="DOYS7dmq" text="Strapped Leather Bracers"/>
-    <string id="dPQGxmJ7" text="Reinforced Mail Mittens"/>
-    <string id="dQBArrqh" text="Manage Alley"/>
-    <string id="ds294zxi" text="Anything else?"/>
-    <string id="dS4zm0UT" text="Studded Leather over Aketon"/>
-    <string id="DsCkf6Pb" text="Growing up, you spent most of your time..."/>
-    <string id="dVekhkIU" text="Fur Coat over Tunic"/>
-    <string id="DvGueBrU" text="Linen{@Plural}rolls of linen{\@}"/>
-    <string id="dwFZFQ6V" text="Lysica"/>
-    <string id="dWr3nuBq" text="Reinforced Iron Rimmed Kite Shield"/>
-    <string id="DwzrsJxS" text="Jamanys"/>
-    <string id="DXczLzml" text="Status"/>
-    <string id="dxlkHhw5" text="Games Won"/>
-    <string id="dzXaXKaC" text="Very well."/>
-    <string id="e0KdfaNe" text="Save As"/>
-    <string id="e139gKZc" text="Return to the Game"/>
-    <string id="E1OwmQFb" text="Back"/>
-    <string id="E31IJyqs" text="Recruit troops"/>
-    <string id="e4lKZhgv" text="Roughtied Leather Bracers"/>
+    <string id="028iCb8B" text="Викинути"/>
+    <string id="02c5bQSM" text="{.m}Рейнджер{.R_n20_a_ke_p}"/>
+    <string id="09gOOa0h" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Такі як вони були основою аграрно-орієнтованої економіки Імперії та були кістяком її армії."/>
+    <string id="09z8Q08f" text="{.f}Баттанія{.R_n10}"/>
+    <string id="0a6Vz7wi" text="Булава горян з зубцями"/>
+    <string id="0B27RrYJ" text="Ваш батько був управителем у місцевого вельможі. Він доглядав за його володіннями, вирішував суперечки в селі та допомагав збирати податки. Сам він бився в лицарських обладунках у кавалерійському загоні свого господаря."/>
+    <string id="0CQgia2a" text="Піхота"/>
+    <string id="0e17RZrZ" text="Міська варта проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю."/>
+    <string id="0oGz5rVx" text="Не всі, хто записується в армію, йдуть на війну та ще менше тих, хто бере участь в справжніх битвах. Ви зробили і те, і інше. І вам навіть вдалося вбити ворожого воїна в прямому бою сам на сам, на очах у своїх побратимів."/>
+    <string id="0rBsbw1T" text="Вимкнено"/>
+    <string id="0SpLcthg" text="{.p}Прянощі{.R_np2}{@Plural}{.p}Мішок{.R_n22_p} прянощів{\@}"/>
+    <string id="0SsLGsXk" text="{.p}Грабіжник{.R_n20_p}"/>
+    <string id="0Suu1Q9q" text="Ватажкам банд, які контролювали нетрі кальрадійських міст, завжди були потрібні діти бідняків для передачі повідомлень та допомоги у війнах за території, а шукачі гострих відчуттів, сини та доньки купців, часом, також потрапляли до цієї компанії."/>
+    <string id="0XEaaoah" text="Ваша родина була шанованими торговцями в місті-оазисі. Вони водили каравани через пустелю і були експертами в тонкощах переговорів про перетин територій пустельних племен."/>
+    <string id="11KckWau" text="Ваша родина належала до числа бідних мігрантів, які жили в нетрях, що виростали за стінами річкових міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких було досить багато в тих місцях."/>
+    <string id="18NtjryL" text="Свита барона"/>
+    <string id="1bdDdwub" text="Піти геть..."/>
+    <string id="1Bm1Wk1v" text="Гравець {KILLERPLAYERNAME} вбив гравця {KILLEDPLAYERNAME}!"/>
+    <string id="1BXuUR3s" text="Ігролад"/>
+    <string id="1cKxsHSh" text="Скасувати"/>
+    <string id="1CPdu9K0" text="Вихід"/>
+    <string id="1cYka5tR" text="Вийти"/>
+    <string id="1EkEElZd" text="Вландійський чемпіон"/>
+    <string id="1GpTOIqU" text="{.p}Оливка{.R_n10_p2}{@Plural}{.p}Бочка{.R_n10_p2} оливок{\@}"/>
+    <string id="1IEroJKs" text="Коли було необхідно організувати загін, щоб наздогнати конокрадів, ваша громада звернулася до вас, оскільки ви були очевидним вибором. Ви вистежили викрадачів, оточили їх, змусили здатися і повернути вкрадене."/>
+    <string id="1JlzQIXE" text="Створити битву"/>
+    <string id="1jqxlEkT" text="Цілісність стін"/>
+    <string id="1jX7yxSW" text="{.p}Шкіра{.R_n10_p1}{@Plural}{.p}Тюк{.R_n20_p} шкір{\@}"/>
+    <string id="1r0tDsrR" text="{.m}Карфід{.R_n20_a_ke}"/>
+    <string id="1sbJQR4H" text="До того, як ви вирушили назустріч пригодам, вашим найбільшим досягненням було..."/>
+    <string id="1SUTcF0J" text="винятковою силою."/>
+    <string id="1zFYpSSY" text="Воїни"/>
+    <string id="1zXrlaav" text="У понівеченій війною Кальрадії, а особливо на прикордонних територіях та територіях племен, деякі жінки, як і чоловіки, вчаться воювати з раннього віку. Ви..."/>
+    <string id="20moIxs1" text="Ваша родина обробляла землю в одному з оазисів Нахаси та доглядала за пальмовими садами, які давали фініки знамениті у всій пустелі. Ваш батько був членом головного піхотного загону свого племені та воював разом зі своїми родичами під прапором еміра."/>
+    <string id="22a9fyiQ" text="Ваша родина з покоління в покоління обробляла один з невеликих клаптиків ріллі в степу. Коли прийшли хузаїти, вони перестали платити податки імператорові та давати рекрутів для його армії, а натомість почали служити ханові."/>
+    <string id="275LD0Gh" text="{.m}Лук{.R_n20_u_zi_p}"/>
+    <string id="2AcfBbCR" text="Підтвердити"/>
+    <string id="2awf1tei" text="Міська варта проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
+    <string id="2Bh8DS8S" text="Ви уникнули служби в одному з головних армійських підрозділів вашого королівства, замість цього, ви приєднались до його обозу, в якому перевозили дружин, коханок і слуг, а також тих, хто заробляє собі на життя турботою, розвагою або обманом солдатів."/>
+    <string id="2cSOn9qb" text="Міські торговці"/>
+    <string id="2fYYfHUI" text="Ваш батько працював на &quot;фітіві&quot;, одного з громил, які стежать за порядком у бідних кварталах міст-оазисів. Він вирішував суперечки через землю, виграшу у кості чи образ, підкріплюючи свій авторитет за допомогою традиційного посоху фітіві."/>
+    <string id="2I2uKJlw" text="Покращення"/>
+    <string id="2iDtlgM0" text="Швидкість"/>
+    <string id="2m1kWsao" text="Ви допомагали копати колодязі, ремонтувати будинки та лагодити зламані плуги. Ви дізналися про основи будівництва, а також про те, що необхідно для успішного ведення сільського господарства."/>
+    <string id="2MdVVkVL" text="Ваша родина домовилася, щоб ви супроводжували вождя вашого народу. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
+    <string id="2N0ZP2GB" text="Ви ніколи не змогли б самостійно купити собі спорядження, але оскільки ви були достатньо хорошим вершником, місцевий лорд позичив вам коня і спорядження. Ви приєдналися до загону важкої кавалерії, тренуючись володіти лицарським списом."/>
+    <string id="2OJEyP0d" text="Лісоруби"/>
+    <string id="2OqAomZy" text="Інженер"/>
+    <string id="2oy7atk6" text="в доках і на будівництвах."/>
+    <string id="2qisE5ys" text="У вашої родини було мало землі, тому вони заробляли на життя в лісі, полюючи та ставлячи пастки. З раннього дитинства вас вчили, що такі навички, як пошук слідів звірів та вбивство здобичі одним пострілом, дуже часто рятуватимуть вас від голодної смерті."/>
+    <string id="2SDWhGmQ" text="У всіх королівствах Кальрадії розуміють цінність хорошої легкої кавалерії і кінних лучників, тому з радістю наймають кочівників і мешканців прикордоння. Ви були настільки вправним вершником, що ваші сусіди скинулися і купили вам маленького поні та гарний лук, щоб ви могли відправитись на військову службу."/>
+    <string id="2TptWc4m" text="з вуличними бандами."/>
+    <string id="2XEbqNQz" text="перемога над ворогом в бою."/>
+    <string id="2YYRyrOO" text="{.p}Вландієць{.R_n22_a_p}"/>
+    <string id="2ZarUUbw" text="Ні"/>
+    <string id="2zcrC0h1" text="Нормально"/>
+    <string id="3bqwOJ8z" text="Раннє дитинство"/>
+    <string id="3CpNUnVl" text="Шкода воїнам вашого підрозділу в ближньому бою: {BONUS_AMOUNT}%."/>
+    <string id="3CsACce8" text="Розвідник"/>
+    <string id="3DV3GoHb" text="Клан вашої родини ніколи не присягав на вірність хану і ніколи не осідав, вважаючи за краще жити в глибокому степу подалі від його влади. Вони залишалися одними з найкращих слідопитів і розвідників у степу, адже вміння вчасно помітити ворога, що наближається, і швидко відійти - часто єдине, що захищало їх стада від нападів сусідів."/>
+    <string id="3iq3rOh8" text="Гравець {KILLEDPLAYERNAME} загинув!"/>
+    <string id="3lauB1HH" text="Сільський знахар відправляв вас у гори на пошуки лікарських рослин. Ви дізналися, які трави загоюють рани або збивають температуру, і як їх знайти."/>
+    <string id="3o6FDRsq" text="Журнал"/>
+    <string id="3PzgpFGq" text="Зменшена шкода від атак ближнього бою"/>
+    <string id="3RBVn5yi" text="навчалися воювати в піхоті."/>
+    <string id="3sRdGQou" text="Зберегти та вийти"/>
+    <string id="3UxfT9Bu" text="{.n}Хутро{.R_n2n}{@Plural}{.p}Тюк{.R_n20_p} хутра{\@}"/>
+    <string id="3VosbFR0" text="Цілителі"/>
+    <string id="3Z91Nxbf" text="Міські волоцюги"/>
+    <string id="45kZUyjh" text="Так"/>
+    <string id="46orXtt0" text="Рекрути, озброєні списом і щитом, набрані у дрібних фермерів, завжди складали основу більшості армій Кальрадії."/>
+    <string id="4AfHO0BA" text="Броня"/>
+    <string id="4B2i8oxo" text="Бойовий дух загону"/>
+    <string id="4BfbPgkY" text="{.m}Султанат{.R_n20_u} асераїв"/>
+    <string id="4C4WiTb2" text="{.p}Асерай{.R_n20_p}"/>
+    <string id="4cHMe6H2" text="{.m}Темун{.R_n20_a_ke}"/>
+    <string id="4cU98rkg" text="стояли на варті в гарнізоні."/>
+    <string id="4Dd2xgPm" text="Ваш батько був бардом, який мандрував від однієї вождівської зали до іншої. Він заробляв на життя тим, що приходив до баттанського аристократа і оспівував його та водночас висміював його ворогів, а потім приходив до його ворогів і робив те ж саме, тільки змінював імена у своїх піснях на протилежні. Від нього ви навчилися, що добре підвішений язик і голова на плечах завжди можуть врятувати вас від важкої праці в полі."/>
+    <string id="4eOHPops" text="{.f}Кераміка{.R_n10_p1}{@Plural}{.p}Ящик{.R_n20_p} кераміки{\@}"/>
+    <string id="4f5xwzX0" text="Ваша родина влаштувала вас на службу до імперського стратега. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
+    <string id="4gOGGbeQ" text="{.f}Родина{.R_n10}"/>
+    <string id="4HcrY0S2" text="Села"/>
+    <string id="4IuXGSdc" text="Ковалі"/>
+    <string id="4kvKQuXM" text="{.p}Баттанець{.R_n22_p}"/>
+    <string id="4KYF5iCd" text="У будь-якому місті вистачало проєктів, які потребували як кваліфікованої, так і некваліфікованої робочої сили. Там ви дізналися, як влаштовані лебідки та конструюються риштування, як обтесувати дошки та каміння, як їх припасовували та інші навички."/>
+    <string id="4lEEqyCg" text="служили конюхом у барона."/>
+    <string id="4MwHbMFs" text="Воїн"/>
+    <string id="4n6n3KL7" text="Ваша родина була торговцями, що жили в одному з великих річкових портів Стургії. Вони організовували відправлення багатств півночі - хутра, меду та інших товарів - у далекі краї."/>
+    <string id="4NaOKslb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак, такі як вони були кістяком економіки королівства і податкові надходження від них складали основу казни."/>
+    <string id="4pqIsPhp" text="працювали у сільській кузні."/>
+    <string id="4PrfimcK" text="Ваша сім'я володіла кузнею в місті. Батько мав вплив, хоч і незначний, у міській раді, а також служив в ополченні."/>
+    <string id="4wdgiTta" text="Зберегти"/>
+    <string id="4WYY0X59" text="Коли раптовий шторм спричинив різке підняття рівня води в місцевій річці, вашим сусідам знадобився кмітливий лідер. І ви проявили себе, швидко організувавши будівництво греблі для порятунку власних домівок."/>
+    <string id="4YfjgtO2" text="Молоді новобранці чи ті, хто має більш худорляву статуру, або хто занадто бідний, щоб купити собі щит і зброю, зазвичай приєднуються до застрільників. Воюючи з луком і метальним списом, вони намагаються залишатися поза досяжністю основних сил противника."/>
+    <string id="4YTJJaTG" text="Уміння"/>
+    <string id="4YxbZlbi" text="{.p}Стургієць{.R_n22_p}"/>
+    <string id="51EcVnzd" text="Капітан"/>
+    <string id="564PHXk3" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли купити ділянку невикористаної землі на краю села. Ви очистили землю від каменів і вирили зрошувальну канаву, виростили кілька урожаїв, а потім продали його зі значним прибутком."/>
+    <string id="5c4cHL9Z" text="приєднались до керна."/>
+    <string id="5DSafcSC" text="Збільшена шкода в дальньому бою"/>
+    <string id="5EiKEdi5" text="Я передумав."/>
+    <string id="5eTb2xr7" text="У дитинстві ви вирізнялися за..."/>
+    <string id="5HXS8HEY" text="приєдналися до обслуги командира."/>
+    <string id="5k4dxUEJ" text="Відхилити"/>
+    <string id="5kbeAC7k" text="Авангард"/>
+    <string id="5n4rWI9T" text="Вас найняли на міську конюшню як найманого робітника. Наглядачі визнали, що ви маєте хист до коней, і дозволили вам тренувати їх, а іноді навіть гнуздати нових жеребців."/>
+    <string id="5nEh20ju" text="Обід"/>
+    <string id="5P0KqBAw" text="Ваша репутація не була такою, про яку складають місцеві легенди, але вона була такою, що принесла вам повагу серед оточуючих. Ви були незмінно справедливим і чесним в угодах, які ви укладали та допомагали тим, хто потрапляв у біду. При цьому ви добре розуміли людей та їх мотиви."/>
+    <string id="5QSGoRFj" text="Щитолом"/>
+    <string id="5rj7xQE4" text="Більшість дітей навколо вас мали лише базову освіту, але ви затримувалися після уроків, щоб вчитись читати та рахувати. Вас зачаровував ринок - ваги та міри, списки та рахунки, розмови про доходи та видатки."/>
+    <string id="5siAbi69" text="Ви відвозили товари, які виробляла ваша родина, у найближче місто, продавали їх, а на отримані гроші купляли припаси. Хоч ця робота і була важкою, але вам подобався весь цей гомін і метушня на ринку."/>
+    <string id="5sMBbn7y" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, в одну з чергових ваших поїздок до міста ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
+    <string id="5tbWdY1j" text="Спорядити"/>
+    <string id="5Unqsx3N" text="Підрісши, більшу частину свого часу ви почали проводити..."/>
+    <string id="5VzWRMTn" text="{.n}Полотно{.R_n2n}{@Plural}{.p}Рулон{.R_n20_p} полотна{\@}"/>
+    <string id="5yFy4U4i" text="Статус"/>
+    <string id="63TAYbkx" text="Зберегти як"/>
+    <string id="64rWqBLN" text="Повернутися в гру"/>
+    <string id="651FhzdR" text="Найняти воїнів"/>
+    <string id="6bUSbsKC" text="{.p}Степовий{.R_adj} {.p}бандит{.R_n20_p}"/>
+    <string id="6bx9IhpD" text="Бедуїни"/>
+    <string id="6Db7aDbF" text="Броня (ноги)"/>
+    <string id="6Dk7LClc" text="{.m}Ерен{.R_n20_a_ke}"/>
+    <string id="6fA31IxF" text="Ваша родина нашкребла грошей на базову шкільну освіту для вас, і ви повною мірою цим скористалися, жадібно поглинаючи книги по історії, математиці та філософії та обговорюючи прочитане зі своїм викладачем та однокласниками."/>
+    <string id="6GSXsdeX" text="{.n}Вино{.R_n2n}{@Plural}{.p}Амфора{.R_n10_p1} вина{\@}"/>
+    <string id="6hwZwODh" text="{.f}Імперія{.R_n10_p1}"/>
+    <string id="6LFj919J" text="Приєднатись"/>
+    <string id="6LMiTKZz" text="зі своїм репетитором."/>
+    <string id="6n44BIll" text="{.f}Твердий{.R_adj} {.f}деревина{.R_n10}{@Plural}{.p}Колода{.R_n10_p1} твердої деревини{\@}"/>
+    <string id="6P1ruzsC" text="були слугами вождя."/>
+    <string id="6pNrNj93" text="Досягнувши юнацтва у Кальрадії, війна, звісно, не змогла пройти повз вас. Ви..."/>
+    <string id="6vtmYjTW" text="Літо"/>
+    <string id="6XxiMU52" text="Намісник"/>
+    <string id="79ElOr2x" text="Ніч"/>
+    <string id="7AFlpaem" text="{KEY} Використання"/>
+    <string id="7AYJ3SjK" text="Якщо у дитинстві у вашій зграї вовченят і був лідер, то це, безумовно, були ви. Всі інші діти йшли за вами, оскільки ви вирішували, у що і де грати. Ви керували ними в цих іграх і різного роду бешкетах."/>
+    <string id="7b8Cwogx" text="Стать"/>
+    <string id="7cHsIMLP" text="Ваше рідне місто на короткий час потрапило в облогу і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки і тепер по праву пишається тим, що показав себе справжнім воїном."/>
+    <string id="7D3jvAfS" text="{.f}Вландія{.R_n10}"/>
+    <string id="7dAy51ln" text="доглядаючи за кіньми."/>
+    <string id="7EAEIUIY" text="За замовчуванням"/>
+    <string id="7eWmU2mF" text="Ваша родина була торговцями в одному з головних міст Імперії. Іноді вони організовували каравани до сусідніх міст і обговорювали різноманітні питання в міській раді."/>
+    <string id="7h6cXdW7" text="Родичі нойона"/>
+    <string id="7HbspP6x" text="Швидкість переміщення їздових тварин у вашому підрозділі: {BONUS_AMOUNT}%."/>
+    <string id="7Hv984Sf" text="Фермери в оазисі"/>
+    <string id="7jBroUUQ" text="Сержант"/>
+    <string id="7LmUe8fQ" text="Вечір"/>
+    <string id="7qySRF2T" text="Особисті охоронці вождя"/>
+    <string id="7UkzXWTQ" text="товариськістю."/>
+    <string id="7Xynf4IA" text="подорожували з обозом."/>
+    <string id="888lmJqs" text="Лідер загону"/>
+    <string id="8a6dnLd2" text="Ваша сім'я володіла кількома кіньми в міській стайні, тому ви взяли на себе відповідальність за їхній догляд. Часто вечорами ви виводили їх за міські мури та влаштовували перегони на полях, змагаючись з іншими дітьми."/>
+    <string id="8ba4tpRU" text="Вчинити ворожу дію"/>
+    <string id="8bwpVpgy" text="Торгівля"/>
+    <string id="8hDoWBIa" text="Фермери"/>
+    <string id="8HMyTKF6" text="Ваш батько був рабом-охоронцем одного з асерайських емірів. Він бився в рядах важкої кінноти свого господаря і був звільнений - можливо, за проявлену в бою доблесть, а можливо, сплативши викуп, на який він накопичив зі здобичі, отриманої від битв. Потім він одружився з вашою матір'ю."/>
+    <string id="8nNLS96w" text="Ополчення"/>
+    <string id="8OkPHu4f" text="навчалися воювати в кавалерії."/>
+    <string id="8SNS2wF9" text="Тренування"/>
+    <string id="8tHbqjmB" text="Член загону"/>
+    <string id="8uBew3nD" text="Улан"/>
+    <string id="8UBfIenN" text="{.n}Пиво{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} пива{\@}"/>
+    <string id="8Yiwt1z6" text="Броня (тіло)"/>
+    <string id="8ZNOgT8Z" text="Ваш батько був членом боярської дружини, &quot;соратників&quot;, які складали його свиту. Він сидів за столом, поряд з паном у великій залі, наглядав за боярськими маєтками, а в бою стояв поруч з ним у центрі стіни із щитів."/>
+    <string id="915frsPd" text="Міські торговці"/>
+    <string id="927d3urB" text="Ваша сім'я найняла вам приватного викладача, і ви повною мірою цим скористалися, жадібно читаючи книги по історії, математиці та філософії та обговорюючи прочитане зі своїм наставником та однокласниками."/>
+    <string id="92M0Pb5T" text="Вовки і ведмеді на півночі та гієни і леопарди на півдні Кальрадії є постійними загрозами для сільської худоби. Ви разом з групою односельців вирушили, щоб усунути одну з таких загроз. І саме ваша стріла виявилась фатальною для звіра."/>
+    <string id="9ACJsI6S" text="Добробут"/>
+    <string id="9aehD627" text="Пікінер"/>
+    <string id="9aoQYpZs" text="{.m}Майстер{.R_n22_a_ke} арени"/>
+    <string id="9BENgwRK" text="{.f}Сіль{.R_n30}{@Plural}{.p}Мішок{.R_n22_p} солі{\@}"/>
+    <string id="9cDw6vPF" text="Челядь поміщика"/>
+    <string id="9cHyHQ7a" text="{.m}Ратагост{.R_n20_a_ke}"/>
+    <string id="9CnRKZOb" text="Найманці"/>
+    <string id="9Eyd2qGo" text="{.n}Зерно{.R_n2n}{@Plural}{.p}Мішок{.R_n22_p} з зерном{\@}"/>
+    <string id="9FgxK9se" text="Ваш батько був довіреним офіцером місцевого аристократа-землевласника. Він їздив з панською кавалерією і воював як улан, закований у важку броню."/>
+    <string id="9ks4u5cH" text="Кінний воїн"/>
+    <string id="9pgOGq7X" text="Ваша сім'я влаштувала вас на службу до збіднілого вландійського барона. Вам не доручали нічого надто важливого - здебільшого ви доправляли послання та доглядали за конем барона. Але це дало вам можливість побачити, як планують походи та шикують загони перед відправленням у битву."/>
+    <string id="9sokmYMZ" text="День"/>
+    <string id="9xyXdX4I" text="Клан"/>
+    <string id="9y0zpKUF" text="Ваші батьки були цілителями, збирали трави та лікували хворих. За старою баттанською традицією на їх плечі також лягало вирішення численних суперечок між кланами."/>
+    <string id="9ZyXl25X" text="Ваша сім'я входила до найближчого оточення хузаїтського нойона і розділяла з ним трапезу в юрті вождя. Ваш батько допомагав своєму вождю в управлінні справами клану і бився в лавах броньованих уланів у центрі бойової лінії хузайтів."/>
+    <string id="a1BGHdaU" text="Гарнізон"/>
+    <string id="A1zFbFta" text="Вашій родині був потрібен хтось надійний, хто б зміг провести караван до сусіднього міста. Ви організували припаси для походу, забезпечили постійну охорону від бандитів і безпечно доправили караван до місця призначення."/>
+    <string id="a2ajWcI3" text="Тип гри"/>
+    <string id="a3Vc59WV" text="Ви були дуже прудким та пильно стежили за всім навколо. Зазвичай це давало вам можливість уникати будь-яких неприємностей, але ви також могли постояти за себе в бійці з іншими дітьми, якщо були загнані в кут."/>
+    <string id="A6llHL9s" text="Ваша родина належала до бідних мігрантів, які жили в нетрях, що виростали за стінами імперських міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких завжди було багато в Імперії, і ви рано познайомились з темною стороною життя."/>
+    <string id="a6qaFH7L" text="Користув."/>
+    <string id="a8arFSra" text="Модулі"/>
+    <string id="A8MJWbhf" text="Інтервал автозбереження"/>
+    <string id="AAqB4QxB" text="Фракція:"/>
+    <string id="AB1mV5Pg" text="на ринках і караванних дворах."/>
+    <string id="abCBBVaU" text="Разом з іншими прудконогими юнаками ви виганяли на пасовища поблизу села отари овець, кіз та іншої рогатої худоби. Ви відповідали за цю худобу, тому завжди брали з собою пригорщу камінців, щоб кидати ними в хижаків, які завжди крутились десь неподалік, вичікуючи свого шансу вполювати тварину, що відбилась від стада."/>
+    <string id="AbEh2y8o" text="Броня коня"/>
+    <string id="AccBcEIt" text="Ваша родина була ковалями, шанованою професією серед баттанців. Вони виготовляли все - від вишуканих філігранних прикрас з геометричними візерунками до добре збалансованих довгих мечів, яким віддавала перевагу баттанська аристократія."/>
+    <string id="acp2IcMs" text="Переміщення"/>
+    <string id="AdafHtud" text="{.p}Пустельний{.R_adj} {.p}бандит{.R_n20_p}"/>
+    <string id="ADJBbfbQ" text="Шкода щитам воїнів вашого підрозділу: {BONUS_AMOUNT}%."/>
+    <string id="AdK4Ilzw" text="лідерськими здібностями."/>
+    <string id="AeBzTj6w" text="відома витівка у місті."/>
+    <string id="aEke8dSb" text="Завдання"/>
+    <string id="aeLgc0cU" text="Броня (руки)"/>
+    <string id="aeouhelq" text="Шкода воїнам вашого підрозділу від дальніх атак: {BONUS_AMOUNT}%."/>
+    <string id="aezwJGvY" text="Без обмежень"/>
+    <string id="afH90aNs" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
+    <string id="aGbTPme1" text="{.n}М'ясо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_a_p} м'яса{\@}"/>
+    <string id="agn93v7y" text="Ваша сім'я входила до кола довірених осіб баттанського вождя і сиділа за його столом у головній залі. Ваш батько допомагав вождю керувати справами клану і вправно володів традиційною зброєю баттанської еліти - дворучним мечем або фальксом і луком."/>
+    <string id="agqzAXa9" text="{.f}Олія{.R_n10}{@Plural}{.p}Амфора{.R_n10_p1} олії{\@}"/>
+    <string id="ahiBhAqU" text="Юна зрілість"/>
+    <string id="Ai7qIb9I" text="Соратники боярина"/>
+    <string id="aIkffnN6" text="Вашій сім'ї заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак, такі як вони були основою економіки королівства, а також складали кістяк її армії."/>
+    <string id="AK0lNDmN" text="майстерністю поводження з кіньми."/>
+    <string id="alMmQrhK" text="за читанням і навчанням."/>
+    <string id="ALWqXMiP" text="Ваша сім'я була далекою ріднею еміра. Доходу з землі було достатньо, щоб ваш батько міг дозволити собі коня, але він не був настільки заможним, щоб купити обладунки, необхідні для важкої кавалерії. Тому він воював в рядах легких вершників, якими славиться пустеля."/>
+    <string id="AmBEgOyq" text="Зменшений штраф точності в дальньому бою"/>
+    <string id="aN85Kfnq" text="{.p}Гірський{.R_adj} {.p}бандит{.R_n20_p}"/>
+    <string id="AobNdBBU" text="успішне полювання на втікачів."/>
+    <string id="aoPbMKwB" text="Безпека"/>
+    <string id="aOwcs7Un" text="Очки фокусу"/>
+    <string id="aQeOcLX4" text="Енциклопедія"/>
+    <string id="aQN4Dlx2" text="{.p}Інструмент{.R_n20_p}{@Plural}{.p}Ящик{.R_n20_p} інструментів{\@}"/>
+    <string id="ArbBALwc" text="Полонені"/>
+    <string id="arCGUuR5" text="Вас завжди тягнуло до тварин, тому найбільше часу ви проводили в сільській стайні. Ви вміли заспокоювати коней і через це вам іноді доручали об'їжджати молодих жеребців. Ви вивчили основи ветеринарного мистецтва, тому за потреби навіть могли лікувати людей."/>
+    <string id="ArPvuBYK" text="Воїни-раби"/>
+    <string id="aseraifaction" text="Збільшена швидкість верхової їзди"/>
+    <string id="aseraimembers" text="на тренувальному майданчику варти."/>
+    <string id="aSNUtnbH" text="Зменшена шкода бойовому духу при потрясіннях"/>
+    <string id="at4MdVBJ" text="Налаштування"/>
+    <string id="aTncHUfL" text="Швидкість переміщення піхоти вашого підрозділу: {BONUS_AMOUNT}%."/>
+    <string id="aVGSZhCN" text="Весна"/>
+    <string id="AVoWvlue" text="Зима"/>
+    <string id="aVzcyhhy" text="Збільшена шкода при зіткненні"/>
+    <string id="Awc23bFS" text="Броня (голова)"/>
+    <string id="awQrcrt2" text="{.m}Аркор{.R_n20_a_ke}"/>
+    <string id="axaK9y6E" text="{.m}Оксамит{.R_n20_u}{@Plural}{.p}Рулон{.R_n20_p} оксамиту{\@}"/>
+    <string id="Axe5FkET" text="Очки здоров'я"/>
+    <string id="Ay0G3f7I" text="ОК"/>
+    <string id="aYoIrpe0" text="Збалансованість"/>
+    <string id="aZxHIra4" text="Юність"/>
+    <string id="b1pqUQju" text="приєдналися до застрільників."/>
+    <string id="b2aRoXsb" text="Шкода від атак у ближньому бою воїнам вашого підрозділу: {BONUS_AMOUNT}%."/>
+    <string id="b2d9BYxT" text="Фільтри"/>
+    <string id="b2EDkbhD" text="Помилка"/>
+    <string id="b4lDDcli" text="Зменшена шкода від дальніх атак"/>
+    <string id="BAaS5Dkc" text="Міські ковалі"/>
+    <string id="bAidg8fV" text="Збільшена швидкість пересування воїнів"/>
+    <string id="BavVxSoC" text="{.p}Пірат{.R_n20_p}"/>
+    <string id="BbhGL8XT" text="Назва"/>
+    <string id="bC5aMfG0" text="Одноручна зброя"/>
+    <string id="BCU6RezA" text="{.f}Стургія{.R_n10}"/>
+    <string id="BCy1KpvR" text="Ваша сім'я була частиною кочового клану, що блукав пустинними землями Нахаси в пошуках води та пасовищ для кіз і верблюдів."/>
+    <string id="bDMmX9YI" text="Грати"/>
+    <string id="bdpjqoGe" text="Лідер клану"/>
+    <string id="beMSPAOG" text="Народність"/>
+    <string id="bF7HmNGQ" text="{.f}Ельтильда{.R_n10_ko}"/>
+    <string id="bfQLwMUp" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли взяти кредит і побудувати невелику майстерню. Ви виплатили борг і продали свою справу, отримавши хороший прибуток."/>
+    <string id="bgjiFSHZ" text="продавали товари на ринку."/>
+    <string id="bGyrPe8c" text="Хірург"/>
+    <string id="bHbR5Mgy" text="{.f}Риба{.R_n10}{@Plural}{.p}Бочка{.R_n10_p2} риби{\@}"/>
+    <string id="bhdkegZ4" text="відома витівка."/>
+    <string id="bhE2i6OU" text="Ви спостерігали, як міська варта вправлялась в стрільбі та вдосконалювала свої навички оборони стін на випадок облоги."/>
+    <string id="bHTdXTwC" text="Ваша родина була купцями в одному з головних міст королівства. Вони організовували каравани до сусідніх міст і мали вплив у місцевій гільдії купців."/>
+    <string id="bHx8jaeI" text="Ваша родина походила з одного з купецьких кланів, які домінували в містах східної Кальрадії до завоювання хузаїтами. Ваші родичі швидко пристосувалися до нових господарів і продовжили відправляти каравани, гарантуючи, що доходи від мита, які колись йшли в імперську казну, тепер надходитимуть до ханства."/>
+    <string id="bIiBytSB" text="Власник"/>
+    <string id="billionabbr" text="увагою до деталей."/>
+    <string id="bjJkW9dO" text="Їжа"/>
+    <string id="bjVMtW3W" text="{.f}Корова{.R_n10_p1}{@Plural}{.p}Корова{.R_n10_p1}{\@}"/>
+    <string id="bKBa7ahF" text="Перемога"/>
+    <string id="Bl72Ribb" text="Вийти в головне меню"/>
+    <string id="BlidMNGT" text="Підлітковий період"/>
+    <string id="BLZ4mdhb" text="Дрібні землевласники"/>
+    <string id="bmHAYBwX" text="Інтендант"/>
+    <string id="BNnLbOkN" text="Маневровість"/>
+    <string id="bNnQt4jN" text="пасли овець."/>
+    <string id="BNuZ6nvd" text="Ви справили враження на варту вождя і вам дозволили тренуватися разом з ними, готуючись до того, щоб одного дня ви стали одним із них."/>
+    <string id="bqeWVVEE" text="Ви допомагали своїй родині вести справи, ходили на ринок за покупками та стежили за прибуттям караванів."/>
+    <string id="bQKbW8Tx" text="Гравець"/>
+    <string id="BrjpmaJH" text="Берсерк"/>
+    <string id="BryUh6yQ" text="Ви вирушали з місцевим мисливцем у дику місцевість, допомагаючи йому розставляти пастки та ловити дрібних тварин."/>
+    <string id="bSo9hKwr" text="Вплив"/>
+    <string id="bTKiN0hr" text="Далі"/>
+    <string id="btsMpRcA" text="Шкода"/>
+    <string id="bTUGfbH5" text="Застрільник"/>
+    <string id="bubcrmTC" text="{.p}Лісовий{.R_adj} {.p}бандит{.R_n20_p}"/>
+    <string id="bV75iwKa" text="Вільні землевласники"/>
+    <string id="bVzkrtUc" text="{.m}Замок{.R_n22_u} Атаконія"/>
+    <string id="bWb245zO" text="{.m}Замок{.R_n22_u} Мекаловея"/>
+    <string id="bWlmGDf3" text="{.f}Санала{.R_n10}"/>
+    <string id="bxa4JHlU" text="Барди"/>
+    <string id="bXAg5w19" text="Родичі еміра"/>
+    <string id="ByxdPJzA" text="Інформація"/>
+    <string id="bz5lXkHS" text="У всіх королівствах Кальрадії розуміють цінність хорошої легкої кавалерії, тому з радістю наймають кочівників і мешканців прикордоння. Ви були настільки вправним вершником, що ваші сусіди скинулися і купили вам маленького поні та в'язку дротиків, щоб ви змогли відправитись на військову службу."/>
+    <string id="bz7Glmsm" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
+    <string id="c2pdihCB" text="Дворучна зброя"/>
+    <string id="C4n1rgBC" text="Зменшена шкода по щиту"/>
+    <string id="C4qjBqLO" text="полювали на дрібну дичину."/>
+    <string id="c7UNJSNi" text="Точність"/>
+    <string id="C8bVbM65" text="полювання на небезпечного звіра."/>
+    <string id="CAO0bycV" text="Члени племені"/>
+    <string id="captainasleader" text="Здобич"/>
+    <string id="cbF9jdQo" text="допомагали на будівництвах."/>
+    <string id="cbnvgVhH" text="Торговці"/>
+    <string id="CBUdkmIw" text="{.m}Мончуг{.R_n20_a_ke}"/>
+    <string id="CbxLZdVg" text="Волоцюги"/>
+    <string id="CcWpkREW" text="Пошук..."/>
+    <string id="cDetN1Ao" text="Вуличні бандити"/>
+    <string id="cdmrCQfC" text="займалися збором лікарських трав."/>
+    <string id="cDWbwBwI" text="Багато баттанців воюють в складі керну, універсальної бойової одиниці, яка може як виснажити ворожу лінію дротиками, так і приєднатися згодом до фінальної атаки, кинувшись на ворога з несамовитим бойовим кличем."/>
+    <string id="CDXUehf0" text="{.m}Арбалет{.R_n20_a_p}"/>
+    <string id="cEhDJAQp" text="Утримуйте '{EXTEND_KEY}', щоб дізнатись більше."/>
+    <string id="CePmep0z" text="{.p}Грабіжник{.R_n20_p}"/>
+    <string id="Ch5NpCd0" text="Село"/>
+    <string id="CH7b5LaX" text="Ваша сім'я мала власну майстерню в місті, де виготовляла товари із сировини з навколишніх сіл. Ваш батько відігравав активну, хоча й незначну роль у міській раді, а також служив у ополченні."/>
+    <string id="character_creation_content_16" text="{.f}Дублений{.R_adj} {.f}шкіра{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} дубленої шкіри{\@}"/>
+    <string id="CIDdPt1I" text="Кінний лучник"/>
+    <string id="CITG915d" text="Попередній перегляд"/>
+    <string id="cjH1WFwy" text="Збільшена шкода в ближньому бою"/>
+    <string id="cjhhuTZD" text="Ваша сім'я займала середнє положення в одному з хузаїтських кланів. Хоч у вашого батька і було кілька власних стад, але він не був багатим. Коли хузаїтська орда відправлялась на битву, він бився в лавах кінних лучників, обстрілюючи стрілами і виснажуючи ворога, перш ніж списоносці завдавали останнього удару."/>
+    <string id="cK5DE88I" text="Смерті"/>
+    <string id="cKz1cyuM" text="Особисте"/>
+    <string id="cL1lO5iP" text="{CURR_TEMPLATE_NAME} (створено)"/>
+    <string id="CLTk2CMs" text="Міські ремісники"/>
+    <string id="CLYcnUra" text="{.n}Масло{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} масла{\@}"/>
+    <string id="cMdtLfGB" text="Шамани"/>
+    <string id="cOgmdp9e" text="Рейтингова таблиця"/>
+    <string id="Cp7dI87a" text="за роботою в стайнях."/>
+    <string id="cPbHqGrI" text="{.p}Хузаїт{.R_n20_p}"/>
+    <string id="CPI0wkaZ" text="їздили з розвідниками."/>
+    <string id="CsjtWt1g" text="Купити товари"/>
+    <string id="csUq1RCC" text="{.m}Шовк{.R_n20_u}-{.m}сирець{.R_n22_u}{@Plural}{.p}Рулон{.R_n20_p} шовку-сирецю{\@}"/>
+    <string id="CtJPuRDa" text="Штраф до бойового духу воїнам вашого підрозділу при втратах: {BONUS_AMOUNT}%."/>
+    <string id="CTtjSwRb" text="Ви завжди були уважними до інших людей, вміли добре вгадувати їхні мотиви. Ви вивчали, як саме можна впливати на людей, і те, що ви дізнавалися від дорослих, випробовували на своїх друзях."/>
+    <string id="CvVJyKYA" text="Посередник"/>
+    <string id="cZIhxH9e" text="виживання в облозі."/>
+    <string id="D0xDRqvm" text="Ваша сім'я займала середнє положення в баттанському клані і займалась обробкою власної землі. Ваш батько бився у керні - головному бойовому загоні свого народу, виконуючи славетний баттанський бойовий клич перед тим як кинутись в атаку."/>
+    <string id="D33fIGQe" text="Кінна стрільба з лука"/>
+    <string id="D358wBWJ" text="очолювання каравану."/>
+    <string id="D6sMSANW" text="Готово"/>
+    <string id="d8D98oFG" text="Назва клану"/>
+    <string id="d8DrtmwP" text="Ваша родина була охоронцями священних традицій хузаїтів та передавали волю духів дикої природи та предків. Вони доглядали за хворими і ділилися мудрістю, вирішували суперечки та давали практичні поради."/>
+    <string id="D9JrTpwU" text="{.m}Сир{.R_n20_u}{@Plural}{.p}Бочка{.R_n10_p2} сиру{\@}"/>
+    <string id="dacwWKE2" text="{.m}Нукар{.R_n20_a_ke}"/>
+    <string id="DaE0N37L" text="{.f}Шерсть{.R_n30}{@Plural}{.p}Тюк{.R_n20_p} шерсті{\@}"/>
+    <string id="dB6cFDmz" text="Як і всі сільські діти, ви допомагали, працюючи в полі. Але ви також..."/>
+    <string id="DbavaIis" text="Ваша родина не визнавала боярської влади. Вони самі добували собі прожиток глибоко в лісі, вирубуючи та випалюючи поля, які обробляли рік-два, а потім йшли далі. Вони полювали і ставили капкани на лисиць, зайців, горностаїв та інших хутрових звірів."/>
+    <string id="Dc4ia4m9" text="порятунок свого села від повені."/>
+    <string id="ddEu5IFQ" text="Ранок"/>
+    <string id="dDmcqTzb" text="Аудіо"/>
+    <string id="DeWp2GjP" text="Ваші батьки:"/>
+    <string id="DFidSjIf" text="інвестиція грошей в землю."/>
+    <string id="DIgsfYfz" text="Мисливець"/>
+    <string id="Dj64aJKQ" text="інвестиція грошей в майстерню."/>
+    <string id="DjeAJtix" text="Кочівники"/>
+    <string id="DKqLY1aJ" text="{.m}Льон{.R_n20_u}{@Plural}{.p}Мішок{.R_n22_p} льону{\@}"/>
+    <string id="dlBFVkDj" text="Розформувати"/>
+    <string id="DM6luo3c" text="математичними здібностями."/>
+    <string id="DoiwC1Qa" text="Ви стали підмайстром у місцевого коваля. Ви навчилися нагрівати та кувати метал, годинами б'ючи молотом аж до болю в м'язах, загартовуючи як зброю, так і свою міць."/>
+    <string id="DOYS7dmq" text="Прийняти"/>
+    <string id="dPQGxmJ7" text="Виберіть: {SELECTION}"/>
+    <string id="dQBArrqh" text="Мисливці"/>
+    <string id="ds294zxi" text="Все"/>
+    <string id="dS4zm0UT" text="Ви були досить великим як на свій вік і тому інші діти завжди намагалися взяти вас із собою, коли збирались на бійку з хлопцями із сусіднього села. Ви могли тягнути плуг і кидати сокиру не гірше дорослого."/>
+    <string id="DsCkf6Pb" text="Вірність"/>
+    <string id="dVekhkIU" text="добре ставлення до людей."/>
+    <string id="DvGueBrU" text="{.p}Коштовність{.R_n30_p}{@Plural}{.p}Коштовність{.R_n30_p}{\@}"/>
+    <string id="dwFZFQ6V" text="Ваша сім'я жила в селі, але не мала власної землі. Тому батько після повернення з роботи одразу ж надовго вирушав до лісу, полюючи на дичину аби прогодувати власну сім'ю (завжди пильно стежачи, щоб не потрапити на очі панським єгерям)."/>
+    <string id="dWr3nuBq" text="Кавалерія"/>
+    <string id="DwzrsJxS" text="Робота ніг"/>
+    <string id="DXczLzml" text="Ваш батько приєднався до одного з численних загонів вландійських найманців, які так сильно звикли до війни, служачи своєму пану, що вже навіть не уявляли мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і тому брала вас із собою у всі криваві походи."/>
+    <string id="dxlkHhw5" text="Шкода при зіткненнях вершникам вашого підрозділу: {BONUS_AMOUNT}%."/>
+    <string id="dzXaXKaC" text="Почекати тут деякий час"/>
+    <string id="e0KdfaNe" text="Тип"/>
+    <string id="e139gKZc" text="Вільні фермери"/>
+    <string id="E1OwmQFb" text="тренувалися з охоронцями вождя."/>
+    <string id="E31IJyqs" text="{.f}Глина{.R_n10}{@Plural}{.p}Мішок{.R_n22_p} глини{\@}"/>
+    <string id="e4lKZhgv" text="Атакувати"/>
     <string id="E4WhEvu7" text="Sotherys"/>
     <string id="e6csp4ha" text="Steppe Bandits"/>
     <string id="eALf5d30" text="Thanks!"/>
