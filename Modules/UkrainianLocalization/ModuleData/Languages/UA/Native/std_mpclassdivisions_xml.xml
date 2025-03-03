@@ -4,7 +4,7 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="0o6o94sk" text="You are an expert at charging in with your mount to break defensive lines.{newline} {newline}+50% Speed Bonus Damage on Mount"/>
+    <string id="0o6o94sk" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="0TtCRwmr" text="Athletic"/>
     <string id="0yGhTKey" text="Grants Extra Arrows."/>
     <string id="10u6mqIX" text="Replaces Nomad Short Bow with Recurved Bow, deals more damage, but is slower."/>
