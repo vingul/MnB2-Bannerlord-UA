@@ -1,20 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/> 
+    <tag language="Українська" />
   </tags>
   <strings>
-    <string id="2ZarUUbw" text="Гравець {KILLERPLAYERNAME} вбив гравця {KILLEDPLAYERNAME}!"/>
-    <string id="5VIbo2Cb" text="Не вдалося встановити з'єднання із сервером. Перевірте підключення до мережі інтернет і повторіть спробу."/>
-    <string id="9CnRKZOb" text="Гравець {KILLEDPLAYERNAME} загинув!"/>
-    <string id="bUh0x6rA" text="Редактор"/>
-    <string id="dismissnotification" text="Відхилити"/>
-    <string id="ksq1IBh3" text="Немає з'єднання"/>
-    <string id="NqarFr4P" text="Налаштування"/>
-    <string id="ODQmOrIw" text="Титри"/>
-    <string id="V8BXjyYq" text="Відключено під час встановлення."/>
-    <string id="xsC8Ierj" text="({BATTLE_COMBATANT})"/>
-    <string id="YbpzLHzk" text="Вийти з гри"/>
-    <string id="YDYnuBmC" text="Багатокористувацька гра"/>
+    <string id="bUh0x6rA" text="Редактор" />
+    <string id="ODQmOrIw" text="Титри" />
+    <string id="xsC8Ierj" text="({BATTLE_COMBATANT})" />
+    <string id="YbpzLHzk" text="Вийти з гри" />
   </strings>
 </base>

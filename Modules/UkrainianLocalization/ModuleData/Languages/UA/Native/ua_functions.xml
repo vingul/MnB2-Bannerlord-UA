@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
     <tag language="Українська" />
   </tags>
-	<functions>
-		<function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}"/>
-		<function functionName="adjectiveGenderCreator" functionBody="{?$0!.m}{.mCreator}{:?$0!.f}{.fCreator}{:?$0!.n}{.nCreator}{:?$0!.p}{.pCreator}{:}{.nCreator}{\?}"/>
-		<!--
+  <functions>
+    <function functionName="PLURAL" functionBody="{?$0.Plural}{$0.Plural}{?}{$0}{\?}" />
+    <function functionName="adjectiveGenderCreator" functionBody="{?$0!.m}{.mCreator}{:?$0!.f}{.fCreator}{:?$0!.n}{.nCreator}{:?$0!.p}{.pCreator}{:}{.nCreator}{\?}" />
+    <!--
 			GET_PLURAL_VALUE повертає:
 			0: якщо число закінчується на 1 (але не на 11, наприклад, для 211 поверне 2)
 			1: якщо число закінчується на 2, 3 або 4 (але не на 12, 13 або 14, в цих випадках поверне 2)
@@ -17,6 +17,6 @@
 			Можна також (для коротшого запису):
 			динар{#GET_PLURAL_VALUE(TRADE_AMOUNT)}{#}и{#}ів{\#}
 		-->
-		<function functionName="GET_PLURAL_VALUE" functionBody="{?($0 - ($0 / 100 * 100)) / 10 == 1}2{:?($0 - ($0 / 10 * 10)) == 0}2{:?($0 - ($0 / 10 * 10)) == 1}0{:?($0 - ($0 / 10 * 10)) &lt; 5}1{:}2{\?}"/>
-	</functions>
+    <function functionName="GET_PLURAL_VALUE" functionBody="{?($0 - ($0 / 100 * 100)) / 10 == 1}2{:?($0 - ($0 / 10 * 10)) == 0}2{:?($0 - ($0 / 10 * 10)) == 1}0{:?($0 - ($0 / 10 * 10)) &lt; 5}1{:}2{\?}" />
+  </functions>
 </base>

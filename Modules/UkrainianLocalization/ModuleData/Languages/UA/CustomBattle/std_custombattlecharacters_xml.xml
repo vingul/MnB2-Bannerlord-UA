@@ -1,20 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/> 
+    <tag language="Українська" />
   </tags>
   <strings>
-    <string id="4MwHbMFs" text="{.m}Карфід{.R_n20_a_ke}"/>
-    <string id="aSNUtnbH" text="{.m}Темун{.R_n20_a_ke}"/>
-    <string id="CpLuMow4" text="{.m}Гастонд{.R_n20_a_ke}"/>
-    <string id="ekcBrNN1" text="{.m}Ерен{.R_n20_a_ke}"/>
-    <string id="iOYRpw24" text="{.m}Ратагост{.R_n20_a_ke}"/>
-    <string id="NzbJtdPe" text="{.m}Арентор{.R_n20_a_ke}"/>
-    <string id="O75XlydW" text="{.m}Аркор{.R_n20_a_ke}"/>
-    <string id="Pya9aCTd" text="{.f}Ельтильда{.R_n10_ko}"/>
-    <string id="qGDbHbvl" text="{.f}Нілія{.R_n10_ko}"/>
-    <string id="Toj0vayQ" text="{.m}Мончуг{.R_n20_a_ke}"/>
-    <string id="UTm3ZfIw" text="{.m}Беларн{.R_n20_a_ke}"/>
-    <string id="WTCIOhvV" text="{.m}Нукар{.R_n20_a_ke}"/>
+    <string id="CpLuMow4" text="{.m}Гастонд{.R_n20_a_ke}" />
+    <string id="NzbJtdPe" text="{.m}Арентор{.R_n20_a_ke}" />
+    <string id="qGDbHbvl" text="{.f}Нілія{.R_n10_ko}" />
+    <string id="UTm3ZfIw" text="{.m}Беларн{.R_n20_a_ke}" />
   </strings>
 </base>

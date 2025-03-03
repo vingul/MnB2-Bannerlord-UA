@@ -1,90 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/> 
+    <tag language="Українська" />
   </tags>
   <strings>
-    <string id="0DMM0agr" text="Вплив на воїнів дальнього бою"/>
-    <string id="3CpNUnVl" text="Скасування"/>
-    <string id="5zeL8sa9" text="Ви отримали {A0} впливу."/>
-    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT} п"/>
-    <string id="7AI8jA0b" text="Необхідно ввести текст."/>
-    <string id="7WdWK2Dt" text="Зберегти гру"/>
-    <string id="7yaDnyKb" text="Немає додаткового впливу від уміння."/>
-    <string id="8OkPHu4f" text="Ні"/>
-    <string id="9NuttOBC" text="Завантажити"/>
-    <string id="aeouhelq" text="Так"/>
-    <string id="aG6XMhA1" text="Збережений файл гри з такою назвою вже існує."/>
-    <string id="Ahy035gM" text="Вартість будівництва"/>
-    <string id="akHsjtPh" text="Ви ще не зустрічались з цим персонажем."/>
-    <string id="azJulvrp" text="{?IS_BETTING}Ви втратите {BET_AMOUNT}{GOLD_ICON}, якщо здастеся.{newline}{?}{\?}Ви дійсно хочете здатися?"/>
-    <string id="B3W6fcQX" text="Введений текст не може перевищувати {MAX_LENGTH} символів."/>
-    <string id="billionabbr" text="млрд"/>
-    <string id="bV75iwKa" text="Зберегти"/>
-    <string id="CiIWjF3f" text="+{PRISONERAMOUNT} пол."/>
-    <string id="cp2XDjeq" text="Збереження..."/>
-    <string id="CqAhj27p" text="{ITEM_NAME}: {ITEM_NUMBER}"/>
-    <string id="deleteaction" text="Видалити"/>
-    <string id="DeXfSjgY" text="Не вдається створити новий файл збереження. Досягнуто ліміт збережень."/>
-    <string id="DM6luo3c" text="Продовжити"/>
-    <string id="eiWQoW9j" text="Ви отримали {A0} слави."/>
-    <string id="eL8nhkhQ" text="Створити новий слот збереження"/>
-    <string id="FFiPLPbs" text="Оновити збереження"/>
-    <string id="GaOE4bdd" text="Пропустити всі раунди"/>
-    <string id="gDKhs4lD" text="☠ {A0} загинув на полі бою."/>
-    <string id="gYATKZJp" text="{NUMBER}%"/>
-    <string id="gZIOG0wl" text="Вплив на кінних лучників"/>
-    <string id="GZWPHmAw" text="День: {DAY}"/>
-    <string id="HH2mZq8J" text="Ви впевнені, що хочете видалити це збереження?"/>
-    <string id="hiCxFj4E" text="Збережені кампанії"/>
-    <string id="hUSmlhNh" text="{CURRENT_PAGE}/{TOTAL_PAGES}"/>
-    <string id="Hxf6bzmR" text="Динарів у наявності"/>
-    <string id="hYL3CFHX" text="Ви хочете перезаписати цю збережену гру?"/>
-    <string id="hZrwUIaq" text="Здоров'я"/>
-    <string id="IwhpeT8C" text="Рівень: {PLAYER_LEVEL}"/>
-    <string id="IXwOaa98" text="Розмір загону"/>
-    <string id="JXyxj1J5" text="Модулі"/>
-    <string id="kXRdeawC" text="Текст не може містити спеціальні символи."/>
-    <string id="L9GnQvsq" text="Ставка: {BETTED_DENARS}"/>
-    <string id="lPMYSSAa" text="Необхідні інструменти"/>
-    <string id="M1AEHJ76" text="Зверніть увагу, що це збереження створено для сесії, в якій включений режим «Залізна воля». Для даної сесії не передбачено інших файлів збереження. Ви впевнені, що хочете видалити це збереження?"/>
-    <string id="M4WMKyE1" text="Введений текст включає зарезервований текст."/>
-    <string id="mapbardenarvalue" text="{DENAR_AMOUNT}{VALUE_ABBREVIATION}"/>
-    <string id="millionabbr" text="млн"/>
-    <string id="nvemmBZz" text="Ви отримали {AMOUNT}% здобичі та полонених"/>
-    <string id="nVGqjtaa" text="Кампанія {ID}"/>
-    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT} ран."/>
-    <string id="o9PIe7am" text="Пошкоджено"/>
-    <string id="oBbiVeKE" text="Очки здоров'я"/>
-    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
-    <string id="oZrVNUOk" text="Помилка"/>
-    <string id="PY00wRz4" text="Не вдалося видалити файл збереження."/>
-    <string id="Q1HIlJxe" text="Перезаписати"/>
-    <string id="QHV8aeEg" text="Видалити збереження"/>
-    <string id="qIeDZoSx" text="Придбано: {ITEMS}"/>
-    <string id="qSi4DlT4" text="Їжа"/>
-    <string id="raD9MK3O" text="Складність"/>
-    <string id="RoYPofhK" text="Пошкоджене збереження"/>
-    <string id="Rtakaivj" text="Введений текст має містити принаймні один символ, що не є пробілом."/>
-    <string id="RVPidk5a" text="Вплив"/>
-    <string id="SRjrhb0A" text="Кількість вотчин у володінні"/>
-    <string id="SSLUHH6j" text="Вплив на піхоту"/>
-    <string id="str_save_text_ps4" text="Гра зберігається. Будь ласка, не вимикайте консоль."/>
-    <string id="str_save_text_ps5" text="Гра зберігається. Будь ласка, не вимикайте консоль."/>
-    <string id="TFJTOYea" text="Проблема вирішена"/>
-    <string id="thousandabbr" text="тис."/>
-    <string id="tQOPRBFg" text="Пошук..."/>
-    <string id="uncategorized_save" text="Без категорії"/>
-    <string id="vjhkoUFS" text="Гра зберігається. Будь ласка, не вимикайте консоль."/>
-    <string id="WAKz9xX8" text="Ви отримали {A0} бойового духу."/>
-    <string id="WDlVhNuq" text="Назвіть файл збереження"/>
-    <string id="WiNRdfsm" text="Готово"/>
-    <string id="X8i3jZn8" text="Вплив на кавалерію"/>
-    <string id="xlEZ02Qw" text="При використанні функції «Зберегти як» на карті кампанії графіка персонажу вимикається."/>
-    <string id="xu5NA6AW" text="Ви отримали {A0}% здобичі."/>
-    <string id="xzzSaN4b" text="Очікується: {OVERALL_EXPECTED_DENARS}"/>
-    <string id="yF5fpwNE" text="Всього: {TOTAL}"/>
-    <string id="YgyHVu8S" text="Продано: {ITEMS}"/>
-    <string id="ZDPIq4hi" text="Завантажте вибраний файл збереження, перезапишіть її поточною версією гри та поверніться на цей екран."/>
+    <string id="0DMM0agr" text="Вплив на воїнів дальнього бою" />
+    <string id="1QAEyN2V" text="Cheat Used: {CHEAT}" />
+    <string id="1tiF5JhE" text="{TITLE} &gt; {SUBTITLE}" />
+    <string id="5zeL8sa9" text="Ви отримали {A0} впливу." />
+    <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT} п" />
+    <string id="7AI8jA0b" text="Необхідно ввести текст." />
+    <string id="7WdWK2Dt" text="Зберегти гру" />
+    <string id="7yaDnyKb" text="Немає додаткового впливу від уміння." />
+    <string id="9svpUWeo" text="Save version ({SAVE_VERSION}) is higher than the current version ({CURRENT_VERSION})." />
+    <string id="aG6XMhA1" text="Збережений файл гри з такою назвою вже існує." />
+    <string id="Ahy035gM" text="Вартість будівництва" />
+    <string id="azJulvrp" text="{?IS_BETTING}Ви втратите {BET_AMOUNT}{GOLD_ICON}, якщо здастеся.{newline}{?}{\?}Ви дійсно хочете здатися?" />
+    <string id="B3W6fcQX" text="Введений текст не може перевищувати {MAX_LENGTH} символів." />
+    <string id="CiIWjF3f" text="+{PRISONERAMOUNT} пол." />
+    <string id="cp2XDjeq" text="Збереження..." />
+    <string id="CqAhj27p" text="{ITEM_NAME}: {ITEM_NUMBER}" />
+    <string id="deleteaction" text="Видалити" />
+    <string id="DeXfSjgY" text="Не вдається створити новий файл збереження. Досягнуто ліміт збережень." />
+    <string id="eiWQoW9j" text="Ви отримали {A0} слави." />
+    <string id="eL8nhkhQ" text="Створити новий слот збереження" />
+    <string id="FFiPLPbs" text="Оновити збереження" />
+    <string id="Fm0rjkH7" text="Ironman" />
+    <string id="GaOE4bdd" text="Пропустити всі раунди" />
+    <string id="gDKhs4lD" text="☠ {A0} загинув на полі бою." />
+    <string id="gZIOG0wl" text="Вплив на кінних лучників" />
+    <string id="GZWPHmAw" text="День: {DAY}" />
+    <string id="HH2mZq8J" text="Ви впевнені, що хочете видалити це збереження?" />
+    <string id="hiCxFj4E" text="Збережені кампанії" />
+    <string id="hUSmlhNh" text="{CURRENT_PAGE}/{TOTAL_PAGES}" />
+    <string id="hYL3CFHX" text="Ви хочете перезаписати цю збережену гру?" />
+    <string id="hZrwUIaq" text="Здоров'я" />
+    <string id="IwhpeT8C" text="Рівень: {PLAYER_LEVEL}" />
+    <string id="jCdZY3i4" text="{PERK_NAME} ({SKILL_LEVEL} - {SKILL})" />
+    <string id="kXRdeawC" text="Текст не може містити спеціальні символи." />
+    <string id="L9GnQvsq" text="Ставка: {BETTED_DENARS}" />
+    <string id="lPMYSSAa" text="Необхідні інструменти" />
+    <string id="M1AEHJ76" text="Зверніть увагу, що це збереження створено для сесії, в якій включений режим «Залізна воля». Для даної сесії не передбачено інших файлів збереження. Ви впевнені, що хочете видалити це збереження?" />
+    <string id="M4WMKyE1" text="Введений текст включає зарезервований текст." />
+    <string id="nvemmBZz" text="Ви отримали {AMOUNT}% здобичі та полонених" />
+    <string id="nVGqjtaa" text="Кампанія {ID}" />
+    <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT} ран." />
+    <string id="o9PIe7am" text="Пошкоджено" />
+    <string id="OYtysXzk" text="Cheats" />
+    <string id="pgXuyHxH" text="Captain Perks" />
+    <string id="PY00wRz4" text="Не вдалося видалити файл збереження." />
+    <string id="Q1HIlJxe" text="Перезаписати" />
+    <string id="QHV8aeEg" text="Видалити збереження" />
+    <string id="qIeDZoSx" text="Придбано: {ITEMS}" />
+    <string id="raD9MK3O" text="Складність" />
+    <string id="RoYPofhK" text="Пошкоджене збереження" />
+    <string id="Rtakaivj" text="Введений текст має містити принаймні один символ, що не є пробілом." />
+    <string id="SRjrhb0A" text="Кількість вотчин у володінні" />
+    <string id="SSLUHH6j" text="Вплив на піхоту" />
+    <string id="str_save_text_ps4" text="Гра зберігається. Будь ласка, не вимикайте консоль." />
+    <string id="str_save_text_ps5" text="Гра зберігається. Будь ласка, не вимикайте консоль." />
+    <string id="TFJTOYea" text="Проблема вирішена" />
+    <string id="uncategorized_save" text="Без категорії" />
+    <string id="vjhkoUFS" text="Гра зберігається. Будь ласка, не вимикайте консоль." />
+    <string id="WAKz9xX8" text="Ви отримали {A0} бойового духу." />
+    <string id="WDlVhNuq" text="Назвіть файл збереження" />
+    <string id="X8i3jZn8" text="Вплив на кавалерію" />
+    <string id="xlEZ02Qw" text="При використанні функції «Зберегти як» на карті кампанії графіка персонажу вимикається." />
+    <string id="xu5NA6AW" text="Ви отримали {A0}% здобичі." />
+    <string id="xzzSaN4b" text="Очікується: {OVERALL_EXPECTED_DENARS}" />
+    <string id="yF5fpwNE" text="Всього: {TOTAL}" />
+    <string id="YgyHVu8S" text="Продано: {ITEMS}" />
+    <string id="ZDPIq4hi" text="Завантажте вибраний файл збереження, перезапишіть її поточною версією гри та поверніться на цей екран." />
   </strings>
 </base>

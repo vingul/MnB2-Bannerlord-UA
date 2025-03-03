@@ -1,22 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/> 
+    <tag language="Українська" />
   </tags>
   <strings>
-    <string id="312lNJTM" text="Налаштуйте свій особистий прапор, вибравши символ свого клану"/>
-    <string id="3CpNUnVl" text="Скасувати"/>
-    <string id="3ZO5cMLu" text="Налаштуйте символ свого прапору"/>
-    <string id="9NuttOBC" text="Завантажити"/>
-    <string id="AbEh2y8o" text="Зберегти і вийти"/>
-    <string id="bV75iwKa" text="Зберегти"/>
-    <string id="e0KdfaNe" text="Зберегти як"/>
-    <string id="lBQXP6Wj" text="Почати гру"/>
-    <string id="NqarFr4P" text="Налаштування"/>
-    <string id="PXT6aA4J" text="Налаштування кампанії"/>
-    <string id="RamV6yLM" text="Вийти в головне меню"/>
-    <string id="Rvr1bcu8" text="Далі"/>
-    <string id="UAD5gWKK" text="Повернутися до навчання"/>
-    <string id="WiNRdfsm" text="Готово"/>
+    <string id="312lNJTM" text="Налаштуйте свій особистий прапор, вибравши символ свого клану" />
+    <string id="3ZO5cMLu" text="Налаштуйте символ свого прапору" />
+    <string id="lBQXP6Wj" text="Почати гру" />
+    <string id="UAD5gWKK" text="Повернутися до навчання" />
   </strings>
 </base>
