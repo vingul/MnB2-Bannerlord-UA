@@ -4,7 +4,7 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="07OrsbVH" text="{.m}Арбалет{.R_n20_a_p}"/>
+    <string id="07OrsbVH" text="Strong Bolt"/>
     <string id="0h7l0uK3" text="Steppe Superior Bow"/>
     <string id="0LoGEHxz" text="Desert Mail Coif"/>
     <string id="0PSC0Vkf" text="Goggled Helmet over Leather"/>
@@ -311,7 +311,7 @@
     <string id="TjoKgbV6" text="Closed Goggled Helmet"/>
     <string id="tKODIU0F" text="Leather Lamellar Shoulders"/>
     <string id="TmJubG8W" text="Battania Shoulder Strap Cloak"/>
-    <string id="TTWL7RLe" text="Crossbow"/>
+    <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="TV02bZ4t" text="Worn Horseman Kite Shield"/>
     <string id="TziEtAIK" text="Vlandia Chainmail"/>
     <string id="u2QRZy2x" text="Mp Testing Sword"/>
