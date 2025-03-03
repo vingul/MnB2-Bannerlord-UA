@@ -4,7 +4,7 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="uunRVBPN" text="Steam is not running."/>
-    <string id="XSU8Bbbb" text="Invalid Steam session."/>
+    <string id="uunRVBPN" text="Steam не запущений."/>
+    <string id="XSU8Bbbb" text="Некоректна сесія Steam."/>
   </strings>
 </base>
