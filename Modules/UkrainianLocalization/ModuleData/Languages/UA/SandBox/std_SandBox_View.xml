@@ -1,26 +1,26 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська" />
+    <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="0tJ1oarX" text="Продовжити кампанію" />
-    <string id="171fTtIN" text="Пісочниця" />
-    <string id="5Saniypu" text="Продовжити" />
-    <string id="60LTq0tQ" text="Не вдається знайти файл збереження останньої гри." />
-    <string id="6mN03uTP" text="Збережені ігри" />
-    <string id="6WHz63af" text="Transfer PS4™ Console Save" />
-    <string id="A7349NHy" text="Важливе королівське рішення" />
-    <string id="aWMZQKXZ" text="Збережіть гру хоча б один раз, щоб продовжити" />
-    <string id="bFzZwwjT" text="Перевірити" />
-    <string id="gbm8MssI" text="Another save file with same name already exists. Do you want to overwrite?" />
-    <string id="ifkdZmxr" text="No PS4™ Console save was found" />
-    <string id="j09m7S2E" text="Achievements are disabled in SandBox mode!" />
-    <string id="oKTBTIu2" text="Save transfer was failed" />
-    <string id="PJK980ka" text="Select a PS4™ Console save file to transfer" />
-    <string id="qP8YxzsH" text="Max save count was reached. Please delete some saves before transferring any." />
-    <string id="t6W3UjG0" text="Здається, файл збереження пошкоджено. Спробуйте розпочати нову кампанію або завантажте іншу гру з меню Збережені ігри." />
-    <string id="tHGHDaFH" text="PS4™ Console save was successfully transferred" />
-    <string id="XcVVE1mp" text="No saved games found." />
+    <string id="0tJ1oarX" text="Продовжити кампанію"/>
+    <string id="171fTtIN" text="Пісочниця"/>
+    <string id="5Saniypu" text="Продовжити"/>
+    <string id="60LTq0tQ" text="Не вдається знайти файл збереження останньої гри."/>
+    <string id="6mN03uTP" text="Збережені ігри"/>
+    <string id="6WHz63af" text="Transfer PS4™ Console Save"/>
+    <string id="A7349NHy" text="Важливе королівське рішення"/>
+    <string id="aWMZQKXZ" text="Save the game at least once to continue"/>
+    <string id="bFzZwwjT" text="Examine"/>
+    <string id="gbm8MssI" text="Another save file with same name already exists. Do you want to overwrite?"/>
+    <string id="ifkdZmxr" text="No PS4™ Console save was found"/>
+    <string id="j09m7S2E" text="Achievements are disabled in SandBox mode!"/>
+    <string id="oKTBTIu2" text="Save transfer was failed"/>
+    <string id="PJK980ka" text="Select a PS4™ Console save file to transfer"/>
+    <string id="qP8YxzsH" text="Max save count was reached. Please delete some saves before transferring any."/>
+    <string id="t6W3UjG0" text="Save game file appear to be corrupted. Try starting a new campaign or load another one from Saved Games menu."/>
+    <string id="tHGHDaFH" text="PS4™ Console save was successfully transferred"/>
+    <string id="XcVVE1mp" text="No saved games found."/>
   </strings>
 </base>
