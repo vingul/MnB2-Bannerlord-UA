@@ -251,7 +251,7 @@
     <string id="33aaUcaX" text="Battania Horse Harness"/>
     <string id="7S6BjECG" text="Mule Harness with Pack"/>
     <string id="8el5a3sF" text="Chicken"/>
-    <string id="9X2l53vY" text="Silver Ore{@Plural}loads of silver ore{\@}"/>
+    <string id="9X2l53vY" text="{.f}Срібний{.R_adj} {.f}руда{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} срібної руди{\@}"/>
     <string id="ABWvOCTE" text="Nahasa Camel{@Plural}Nahasa camels{\@}"/>
     <string id="amqJbdDV" text="Scale Barding"/>
     <string id="ApiPJ1NJ" text="Husnphree{@Plural}Husnphree camels{\@}"/>
@@ -294,7 +294,7 @@
     <string id="nhaiQ9oX" text="Steppe Hunter{@Plural}Steppe hunters{\@}"/>
     <string id="NNUXGwTc" text="Karahan{@Plural}Karahan horses{\@}"/>
     <string id="NRB3V6yP" text="Reinforced Half Plate Barding"/>
-    <string id="NtsdmmW9" text="Date Fruit{@Plural}sacks of date fruit{\@}"/>
+    <string id="NtsdmmW9" text="{.p}Фінік{.R_n20_p}{@Plural}{.p}Мішок{.R_n22_p} з фініками{\@}"/>
     <string id="OaQE1Frx" text="Steppe Saddle"/>
     <string id="OflbQCw6" text="Camel Saddle with Light Load"/>
     <string id="Og0FswFV" text="Omor Trotter{@Plural}Omor trotters{\@}"/>
@@ -325,7 +325,7 @@
     <string id="Wj98Otmo" text="Steppe Charger{@Plural}Steppe Chargers{\@}"/>
     <string id="XkwOTdVQ" text="Celtic Frost"/>
     <string id="yy7RvQKN" text="Bo staff"/>
-    <string id="ZgVVPGTb" text="Grapes{@Plural}sacks of grapes{\@}"/>
+    <string id="ZgVVPGTb" text="{.m}Виноград{.R_n20}{@Plural}{.p}Ящик{.R_n20_p} винограду{\@}"/>
     <string id="ZJYVpjuR" text="Camel Saddle with Heavy Load"/>
     <string id="zPbDZ9VA" text="Bedouin Common Saddle"/>
     <string id="18ZFPXsO" text="Huscarl Plated Boots"/>
