@@ -67,7 +67,7 @@
     <string id="7uJkrHeg" text="Aproned Feminine Coat"/>
     <string id="aJLikenm" text="Infantryman Gambeson"/>
     <string id="ALbtxxyC" text="Cavalry Lamellar Armor"/>
-    <string id="aM2EPdXj" text="Red Tabard over Mail Hauberk"/>
+    <string id="aM2EPdXj" text="{.m}Червоний{.R_adj} {.m}табард{.R_n20_u} поверх довгої кольчуги"/>
     <string id="aSJbMKdb" text="Highland Tartan with Chest Plate"/>
     <string id="atSRQkCE" text="Heavy Mail Hauberk"/>
     <string id="atu9tCq8" text="Tailored Dress"/>
