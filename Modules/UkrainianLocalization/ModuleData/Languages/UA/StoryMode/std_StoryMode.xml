@@ -308,7 +308,7 @@
     <string id="kJxPtbHo" text="At the end of the day, what have we gained? The Sturgians hate us worse than ever. The Vlandians too. The Empire, I suppose, is shattered. What can I say... I believe that wars should have a goal. But I am a minority, it seems, among our people.[ib:closed]"/>
     <string id="kqj1Wp0f" text="You have decided to keep the Dragon Banner within the kingdom you are ruling."/>
     <string id="kTaYz2mo" text="You talked with {HERO.NAME}."/>
-    <string id="kvTEeUWO" text="Wrong way!"/>
+    <string id="kvTEeUWO" text="Не в той бік!"/>
     <string id="kw9sltab" text="The Battanians had planned an ambush up in a wooded pass for the imperial vanguard, then the Vlandians and Sturgians were to come sweeping down on their flanks in the battle. Our scouts found the Battanian ambush, but Neretzes did not listen, and blundered into it anyway."/>
     <string id="kwW6v202" text="Вийти на позицію для стрільби"/>
     <string id="KXj8bsao" text="So... If you intend to use the banner to save the Empire, I'll tell you what I know. But if you want to go backward, not forward, then I will not help you.[ib:closed][if:convo_undecided_closed]"/>
@@ -503,7 +503,7 @@
     <string id="VLD5416o" text="Companion Hired"/>
     <string id="vxDVCK3n" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again."/>
     <string id="w0CUaEU7" text="You haven't cut my throat yet, which was a wise move. I'm sure I can find a way to be worth more to you alive than dead.[if:convo_calm_friendly]"/>
-    <string id="W49eUmpT" text="You can dismount from horse with {CROUCH_KEY}, or {ACTION_KEY} while looking at the horse."/>
+    <string id="W49eUmpT" text="Ви можете злізти з коня натиснувши {CROUCH_KEY} або {ACTION_KEY}, коли дивитеся на коня."/>
     <string id="w6Wa3lSL" text="Retreated"/>
     <string id="W7hi7jS4" text="Eh, well, I dared to hope, I suppose. All right then, I'm not going to grovel to you, so get it over with.[ib:hip][if:convo_uncomfortable_voice]"/>
     <string id="wajioDaK" text="I stayed with Neretzes until we were forced back to our camp by the Sturgian infantry, and then fought on the battlements. Eventually we could hold them no longer. I did not see what happened to Neretzes or to our banner. Arenicos got us out of there, and got us home. I did not respect Arenicos before, but that day I saw he was worthy to be Emperor."/>
