@@ -44,7 +44,7 @@
     <string id="1MStGeRa" text="Beaten opponent: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1o1TyPib" text="Additional Companion Limit"/>
     <string id="1PwQxaOu" text="Здається, підготовка до турніру йде повним ходом."/>
-    <string id="1pxLpZ4r" text="Calculating:"/>
+    <string id="1pxLpZ4r" text="Розсудливість:"/>
     <string id="1sJcKkVP" text="Guard"/>
     <string id="1wkANMRC" text="Our plan is to try and hold this narrow pass."/>
     <string id="1XE7yeaP" text="After this prisoner gains {CONFORMITY_AMOUNT} conformity, one more prisoner will be available for recruitment."/>
@@ -460,7 +460,7 @@
     <string id="CaeFx54J" text="Influence Gained: + {INFLUENCE} {INFLUENCE_ICON}"/>
     <string id="caFEBWSY" text="Your opponent has bested you. You've lost."/>
     <string id="cAgI2lPn" text="Намісник {SETTLEMENT_NAME}{.v_rod}"/>
-    <string id="calculatinglevel3trait" text="Calculating"/>
+    <string id="calculatinglevel3trait" text="Розсудливість"/>
     <string id="caPP57v9" text="Move to Reserve"/>
     <string id="CaW72yB3" text="Total Cost"/>
     <string id="cBNSgpZN" text="You will gain &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; relation with {CLAN_NAME}"/>
