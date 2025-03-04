@@ -11,7 +11,7 @@
     <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT} п"/>
     <string id="7AI8jA0b" text="Необхідно ввести текст."/>
     <string id="7WdWK2Dt" text="Зберегти гру"/>
-    <string id="7yaDnyKb" text="Немає додаткового впливу від уміння."/>
+    <string id="7yaDnyKb" text="Немає додаткового впливу від здібності."/>
     <string id="9svpUWeo" text="Save version ({SAVE_VERSION}) is higher than the current version ({CURRENT_VERSION})."/>
     <string id="aG6XMhA1" text="Збережений файл гри з такою назвою вже існує."/>
     <string id="Ahy035gM" text="Вартість будівництва"/>
