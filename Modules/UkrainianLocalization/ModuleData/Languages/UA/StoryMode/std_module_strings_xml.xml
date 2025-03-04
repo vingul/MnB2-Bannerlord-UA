@@ -150,24 +150,24 @@
     <string id="VzE9aVBh" text="На верхній панелі ви можете побачити портрети важливих NPC.{newline}{newline} Клацніть на портрет і виберіть в меню &quot;Відвідати&quot;."/>
     <string id="w4Ajm40u" text="{.m}Фарок{.R_n20_a}"/>
     <string id="wbdzBBPp" text="Поверніться до важливої особи і дізнайтеся більше про завдання, навівши курсор на кнопку &quot;Відвідати&quot; та натиснувши {CONSOLE_ACTION_KEY}."/>
-    <string id="wgK6QxXm" text="This is your crime rating with the faction that owns the settlement. You gain a rating by robbing or attacking a kingdom's subjects. Players with a rating of 30 or higher in a neutral kingdom will be barred from its settlements, while an independent player with a crime rating of 60 or higher will be attacked on sight. Crime rating will decay over time.{newline}{newline}You can get more details on crime rating from the encyclopedia."/>
-    <string id="wq9sNkMc" text="Leaving a Mission"/>
+    <string id="wgK6QxXm" text="Це ваша кримінальна слава у фракції, яка володіє поселенням. Ви отримуєте цю славу, грабуючи або нападаючи на підданих королівства. Гравцям з славою 30 або вище в нейтральному королівстві буде заборонено відвідувати його поселення, а на незалежного гравця з кримінальною славою 60 або вище нападуть відразу, як тільки побачать. Кримінальна слава з часом знижується.{newline}{newline}Більш детально про кримінальну славу ви можете дізнатися в енциклопедії."/>
+    <string id="wq9sNkMc" text="Залишити місію"/>
     <string id="WTF4ZIe7" text="Джату"/>
-    <string id="wZPdOclh" text="Encyclopedia Settlements"/>
-    <string id="x4xx1Zd6" text="Battle Commands"/>
-    <string id="xCHBC7S9" text="Click on the &quot;Visit&quot; button to return to the notable and learn more about the task ahead."/>
-    <string id="xDyzNFic" text="Encyclopedia Concepts"/>
-    <string id="xFWG6uZ8" text="Sieges are an integral part of warfare in Calradia, as they are the main way to conquer towns and castles."/>
-    <string id="xORASoex" text="You can click on &quot;+&quot; button to add 10 cohesion. Be aware that boosting it costs some influence."/>
+    <string id="wZPdOclh" text="Енциклопедія: Поселення"/>
+    <string id="x4xx1Zd6" text="Бойові команди"/>
+    <string id="xCHBC7S9" text="Натисніть на кнопку &quot;Відвідати&quot;, щоб повернутися до важливої особи і дізнайтеся більше про завдання, що стоїть перед вами."/>
+    <string id="xDyzNFic" text="Енциклопедія: Поняття"/>
+    <string id="xFWG6uZ8" text="Облоги є невід'ємною частиною війни в Кальрадії, оскільки це основний спосіб завоювання міст і замків."/>
+    <string id="xORASoex" text="Щоб збільшити згуртованість на 10, натисніть на кнопку &quot;+&quot;. Майте на увазі, що це коштуватиме вам певної кількості впливу."/>
     <string id="Xr50xGhr" text=" ({TIME_SCORE} секунди)"/>
-    <string id="yF9agd1M" text="Fog of War"/>
-    <string id="yhTaDeLf" text="You can create new formations to divide your troops into smaller groups to have finer control. You can also determine what percentage of the selected troop type should start the battle in these formations by manipulating the sliders inside the formation cards.{newline}{newline}Try creating a new formation by selecting its type and adjust a formation's troop weight."/>
-    <string id="yrlPHYpa" text="Choosing Perk Upgrades"/>
-    <string id="Z7zWkAV8" text="You can ransom your prisoners off to the ransom broker.{newline}{newline}You can find him in the tavern area."/>
+    <string id="yF9agd1M" text="Туман війни"/>
+    <string id="yhTaDeLf" text="Ви можете створювати нові підрозділи, щоб розділяти своїх воїнів на менші групи для кращого контролю. Ви також можете визначити, який відсоток вибраного типу військ повинен починати бій у цих підрозділах, маніпулюючи повзунками всередині карток підрозділів.{newline}{newline}Спробуйте створити новий підрозділ, вибравши його тип і відрегулювавши вагу військ у підрозділі."/>
+    <string id="yrlPHYpa" text="Вибір покращення здібностей"/>
+    <string id="Z7zWkAV8" text="Ви можете отримати викуп за полонених у посередника.{newline}{newline}Його можна знайти в районі таверни."/>
     <string id="z9eC5hjv" text="Спис і щит"/>
-    <string id="zF0xUaXd" text="Investigate kingdoms to keep up with the fiefs, clans, and wars of the kingdoms of the Calradia."/>
-    <string id="zN9iNaIW" text="Raiding Village"/>
+    <string id="zF0xUaXd" text="Вивчайте королівства, щоб бути в курсі справ щодо феодів, кланів і війн королівств Калрадії."/>
+    <string id="zN9iNaIW" text="Набіг на село"/>
     <string id="ZozwfwVl" text="Захистіть себе ({HIT} / {ALL})"/>
-    <string id="ZW9OGfEt" text="Rescuing &amp; Taking Prisoners"/>
+    <string id="ZW9OGfEt" text="Визволення та захоплення полонених"/>
   </strings>
 </base>
