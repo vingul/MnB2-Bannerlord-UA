@@ -96,38 +96,38 @@
     <string id="lfkwsa5f" text="Відстеження"/>
     <string id="LGuJctoZ" text="Вдарте тренера ({HIT} / {ALL})"/>
     <string id="lN1RQ260" text="Попадіть по мішенях ({HIT} / {ALL})"/>
-    <string id="lRPvkRJy" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to follow by opening the order menu with {HOLD_OPEN_ORDER_KEY} and movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Follow Me&quot; with {SECOND_ORDER_CATEGORY_KEY}."/>
-    <string id="LS1whiyj" text="The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him."/>
+    <string id="lRPvkRJy" text="На початку бою ваші солдати будуть утримувати свої позиції. Ви можете наказати їм слідувати за вами, відкривши меню наказів за допомогою {HOLD_OPEN_ORDER_KEY}, далі - категорію наказів про рух за допомогою {FIRST_ORDER_CATEGORY_KEY} і в ній вибравши команду &quot;За мною&quot; за допомогою {SECOND_ORDER_CATEGORY_KEY}."/>
+    <string id="LS1whiyj" text="Меню вгорі праворуч показує важливих людей у поточному поселені, в якому ви знаходитесь.{newline}{newline}Натисніть на портрет старости, щоб поспілкуватися з ним."/>
     <string id="m2uEbrkh" text="{.m}Найджун{.R_n20_a_ke}"/>
-    <string id="MCeCa7SE" text="Troop pages allow you to see the skills and equipment sets of the selected troop. Try investigating upgrade trees to plan your army composition ahead of time."/>
-    <string id="mfugkRoz" text="Hideouts &amp; Orders"/>
+    <string id="MCeCa7SE" text="Сторінки воїнів дозволяють вам побачити уміння та набори спорядження обраного воїна. Спробуйте дослідити дерева модернізації, щоб спланувати склад своєї армії заздалегідь."/>
+    <string id="mfugkRoz" text="Укриття та накази"/>
     <string id="MgBazeaE" text="Альте"/>
-    <string id="MmFO0Erq" text="You can hold {MISSION_INDICATORS_KEY} to see the location of the Headman.{newline}{newline}Once you are near him, press {INTERACTION_KEY} to speak with him."/>
-    <string id="mo30kGdz" text="Assign Roles"/>
+    <string id="MmFO0Erq" text="Щоб побачити де знаходиться староста, утримуйте {MISSION_INDICATORS_KEY}.{newline}{newline}Опинившись біля нього, натисніть {INTERACTION_KEY}, щоб поговорити з ним."/>
+    <string id="mo30kGdz" text="Призначення ролей"/>
     <string id="MqeQco4z" text="Спис (на коні)"/>
-    <string id="mvYbXi4O" text="You can tell your men to charge by opening the order menu with {HOLD_OPEN_ORDER_KEY} and movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Charge&quot; with {THIRD_ORDER_CATEGORY_KEY}."/>
-    <string id="N8YVPdBw" text="You gain a level every time your total skill points total reaches a target value. Leveling up grants focus points to spend.{newline}{newline}If you have free focus points you will see it by a small indicator over the character screen button. Press {CONSOLE_ACTION_KEY} while the cursor is on the character button to review different skills and choose one to increase focus."/>
-    <string id="NED1z7Pe" text="To leave a mission, you can hold down {LEAVE_MISSION_KEY}.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits."/>
+    <string id="mvYbXi4O" text="Ви можете наказати своїм солдатам наступати, відкривши меню наказів за допомогою {HOLD_OPEN_ORDER_KEY}, далі - категорію наказів про рух за допомогою {FIRST_ORDER_CATEGORY_KEY} і в ній вибравши команду &quot;В атаку&quot; за допомогою {THIRD_ORDER_CATEGORY_KEY}."/>
+    <string id="N8YVPdBw" text="Ви отримуєте рівень щоразу, коли ваша загальна кількість очок умінь досягає певного значення. Підвищення рівня дає очки фокусу.{newline}{newline}Якщо у вас є незадіяні очки фокусу, ви побачите маленький індикатор над кнопкою персонажа. Щоб переглянути свої уміння і потратити на них свої очки фокусу, наведіть курсор на кнопку персонажа і натисніть {CONSOLE_ACTION_KEY}."/>
+    <string id="NED1z7Pe" text="Щоб покинути поточну місію, утримуйте {LEAVE_MISSION_KEY}.{newline}{newline}Це поверне вас до меню поселення, де ви зможете придбати припаси і найняти рекрутів."/>
     <string id="NWxC3CbS" text="{.m}Фодор{.R_n20_a_ke}"/>
-    <string id="o5ho2Txg" text="Army Cohesion"/>
+    <string id="o5ho2Txg" text="Згуртованість армії"/>
     <string id="OA9bQ8QJ" text="{.f}Алея{.R_n10_ko_p1}"/>
     <string id="odbkXZkz" text="Переміщення вашого загону здійснюється за допомогою клацання миші по карті. На місці клацання залишиться позначка, якщо тільки ви не клацнули на недосяжну ділянку, таку як гори чи море.{newline}{newline}Вирушаємо до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}!"/>
     <string id="oj7B1GOT" text="Відвідування поселень"/>
     <string id="OJmYUcaU" text="Дворучний меч"/>
-    <string id="oKl1p2er" text="You can call other lords to your banner. Press {CONSOLE_ACTION_KEY} while the cursor is on the highlighted army icon on the lower right to do so."/>
+    <string id="oKl1p2er" text="Ви можете прикликати інших лордів під свій прапор. Для цього наведіть курсор на виділену піктограму армії внизу праворуч і натисніть {CONSOLE_ACTION_KEY}."/>
     <string id="okM9QUFA" text="Дротики"/>
-    <string id="oq3SvXCm" text="Some of your troops now have enough experience for an upgrade.{newline}{newline}To review and upgrade your troops press {CONSOLE_ACTION_KEY} while the cursor is on the highlighted party screen button."/>
+    <string id="oq3SvXCm" text="Деякі з ваших воїнів тепер мають достатньо досвіду для покращення.{newline}{newline}Щоб переглянути та покращити свої війська, наведіть курсор на підсвічену кнопку загону і натисніть {CONSOLE_ACTION_KEY}."/>
     <string id="P7KbSBvr" text="Тренування бою на коні"/>
     <string id="pAf5Mt3X" text="{.f}Алішка{.R_n10_ko}"/>
-    <string id="Ph2nk4Ms" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to charge by opening the movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Follow Me&quot; with {SECOND_ORDER_CATEGORY_KEY}."/>
-    <string id="pKtXgb6b" text="You can choose an available perk by pressing {CONSOLE_ACTION_KEY} while the cursor is on its button."/>
-    <string id="pow4wUAM" text="Raiding villages will weaken the economy of the owner's faction by disrupting the flow of supplies between the village and its bound settlement. Also, the raiding party will get some resources from raiding."/>
-    <string id="q3mOBLFn" text="Choosing Skill Focus"/>
+    <string id="Ph2nk4Ms" text="На початку бою ваші солдати будуть утримувати свої позиції. Ви можете наказати їм наступати, відкривши меню наказів про рух за допомогою {FIRST_ORDER_CATEGORY_KEY} і в ній вибравши команду &quot;За мною&quot; за допомогою {SECOND_ORDER_CATEGORY_KEY}."/>
+    <string id="pKtXgb6b" text="Ви можете вибрати доступну здібність, натиснувши {CONSOLE_ACTION_KEY}, коли курсор буде на цій кнопці."/>
+    <string id="pow4wUAM" text="Нападаючи на села ви послаблюєте економіку фракції, яка ним володіє, порушуючи потік постачання між селом і пов'язаним з ним поселенням. Крім того, сторона, що здійснює набіг, отримає певні ресурси від грабунку."/>
+    <string id="q3mOBLFn" text="Вибір уміння для фокусу"/>
     <string id="q65JaEBW" text="{.f}Аля{.R_n10_ko}"/>
-    <string id="q71nXdD4" text="Go to trainer"/>
-    <string id="QewGND2m" text="Sieges"/>
+    <string id="q71nXdD4" text="Підійти до тренера"/>
+    <string id="QewGND2m" text="Облоги"/>
     <string id="QHhdmvLj" text="Тренувальний бій"/>
-    <string id="qjMhakoM" text="Notice how your army cohesion has dropped to a low point, and it is more likely that your army will disperse.{newline}You can press {CONSOLE_ACTION_KEY} while the cursor is on the army management button to boost your cohesion."/>
+    <string id="qjMhakoM" text="Зверніть увагу, що згуртованість вашої армії впала до низького рівня, і є велика ймовірність того, що ваша армія розбіжиться.{newline}Щоб підвищити згуртованість армії, наведіть курсор на кнопку управління армією і натисніть {CONSOLE_ACTION_KEY}."/>
     <string id="qNrWU4Or" text="Тренування ближнього бою"/>
     <string id="QVChn4mG" text="Food items are also trade goods. You can find trade goods easily with the &quot;Miscellaneous&quot; filter."/>
     <string id="rLEIuqZO" text="After a hard-fought battle, you may have the choice to take some prisoners or recruit those that you have freed from your enemy.{newline}{newline}Both options are done by transferring the troops to your party with the little arrow button on the left."/>
