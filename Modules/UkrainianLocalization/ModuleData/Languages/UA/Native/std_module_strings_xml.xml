@@ -460,7 +460,7 @@
     <string id="CaeFx54J" text="Influence Gained: + {INFLUENCE} {INFLUENCE_ICON}"/>
     <string id="caFEBWSY" text="Your opponent has bested you. You've lost."/>
     <string id="cAgI2lPn" text="Намісник {SETTLEMENT_NAME}{.v_rod}"/>
-    <string id="calculatinglevel3trait" text="Розсудливість"/>
+    <string id="calculatinglevel3trait" text="Розсудливий"/>
     <string id="caPP57v9" text="Move to Reserve"/>
     <string id="CaW72yB3" text="Total Cost"/>
     <string id="cBNSgpZN" text="You will gain &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; relation with {CLAN_NAME}"/>
