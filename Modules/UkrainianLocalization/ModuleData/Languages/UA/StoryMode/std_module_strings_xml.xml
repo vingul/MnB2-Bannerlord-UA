@@ -95,7 +95,7 @@
     <string id="LA4oaC7b" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Order your troops to follow you with the {FIRST_ORDER_CATEGORY_KEY} and {SECOND_ORDER_CATEGORY_KEY} shortcuts and try to take them on in small groups."/>
     <string id="lfkwsa5f" text="Track"/>
     <string id="LGuJctoZ" text="Attack to trainer ({HIT} / {ALL})"/>
-    <string id="lN1RQ260" text="Shoot targets ({HIT} / {ALL})"/>
+    <string id="lN1RQ260" text="Попадіть по мішенях ({HIT} / {ALL})"/>
     <string id="lRPvkRJy" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to follow by opening the order menu with {HOLD_OPEN_ORDER_KEY} and movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Follow Me&quot; with {SECOND_ORDER_CATEGORY_KEY}."/>
     <string id="LS1whiyj" text="The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him."/>
     <string id="m2uEbrkh" text="Najun"/>
