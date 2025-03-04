@@ -142,7 +142,7 @@
     <string id="5cGXHF1a" text="Сьогодні"/>
     <string id="5CYdyMzj" text="Залишилось"/>
     <string id="5DBDy2si" text="You trapped enemies."/>
-    <string id="5eH0lCEO" text="Disable Current Tutorial Step"/>
+    <string id="5eH0lCEO" text="Пропустити поточний урок навчального посібника"/>
     <string id="5H0cDmm1" text="Отримайте ще {SKILL_LEVEL_FOR_LEVEL_UP} {#GET_PLURAL_VALUE(SKILL_LEVEL_FOR_LEVEL_UP)}очко{#}очки{#}очків{\#} умінь, щоб підняти рівень персонажу.&#10;"/>
     <string id="5IOct2ob" text="Order Requirement"/>
     <string id="5jVYwNCQ" text="Unpaid Wages"/>
@@ -338,7 +338,7 @@
     <string id="AqHr4nRR" text="fourth"/>
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
     <string id="aR4e8B2A" text="II"/>
-    <string id="archers" text="Archers"/>
+    <string id="archers" text="Стрільці"/>
     <string id="arfabNbu" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} died in battle."/>
     <string id="arHXmqqc" text="a beg"/>
     <string id="ARQY0vAz" text="Can't manage the army during an encounter"/>
