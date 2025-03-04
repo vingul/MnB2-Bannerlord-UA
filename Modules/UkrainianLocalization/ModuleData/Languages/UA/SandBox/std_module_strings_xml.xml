@@ -56,7 +56,7 @@
     <string id="DV7u7B6A" text="Hero Prisoners Taken"/>
     <string id="ehdBvNmN" text="Вимкнути смерть для всіх героїв"/>
     <string id="EhELIf65" text="Teruin"/>
-    <string id="fbaQp3ox" text="Вмикає автоматичний розподіл навичок для членів вашого клану."/>
+    <string id="fbaQp3ox" text="Вмикає автоматичний розподіл здібностей для членів вашого клану."/>
     <string id="fDQuQ8Ph" text="Prisoners Recruited"/>
     <string id="FiRWs5vF" text="В режимі «Залізна воля» у вас є тільки один файл збереження, який автоматично перезаписується при виході з гри."/>
     <string id="freebooterdifficulty" text="Рекрут"/>
@@ -131,7 +131,7 @@
     <string id="taU38mMa" text="Campaign play time (Real World Time)"/>
     <string id="Tv35SPaB" text="Denars earned from Ransoms"/>
     <string id="TyNDRFPg" text="Ймовірність того, що члени вашого клану помруть після того, як втратять свідомість у бою."/>
-    <string id="TZ9ugd1p" text="Автоматично розподіляти уміння для членів клану"/>
+    <string id="TZ9ugd1p" text="Автоматично розподіляти здібності для членів клану"/>
     <string id="uBajEuVL" text="In game windows, you can open the encyclopedia entry for an item by pressing {ENCYCLOPEDIA_SHORTCUT}. This works for troop portraits, town icons, and most other elements."/>
     <string id="UcgNVM0P" text="Дуже легко (+2 додатково)"/>
     <string id="UfQotsfo" text="Rank #"/>
