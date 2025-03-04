@@ -543,7 +543,7 @@
     <string id="XWL3XcIq" text="{FACTION} Defeated"/>
     <string id="Xx94UrYe" text="I might be. What are you carrying? Honest goods, or weapons? How about you let us have a look."/>
     <string id="y150haHv" text="Disrupt Supply Lines"/>
-    <string id="y3fn2vWY" text="Recruit Troops"/>
+    <string id="y3fn2vWY" text="Найняти воїнів"/>
     <string id="Y6OJHdMH" text="I am a busy man, but there is always time to talk about the blessed battle of Pendraic.[if:convo_mocking_teasing][ib:confident3]"/>
     <string id="Y6SqyQwn" text="Meet with {HERO.NAME}"/>
     <string id="y84UnOQX" text="Assemble the Dragon Banner"/>
