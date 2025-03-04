@@ -587,7 +587,7 @@
     <string id="Ldp6ckgj" text="Don't worry, either I or one of my companions should be able to find her and see what's going on."/>
     <string id="lF5HkBDy" text="As you wish."/>
     <string id="LGrzKlET" text="Let me know how much of a challenge you can stand and we'll get started. I'm ready to offer you a {DIFFICULTY} challenge and {?IS_BETTING}a bet of {BET_AMOUNT}{GOLD_ICON}.{?}friendly game.{\?}"/>
-    <string id="lh0so0uX" text="Do you want to load the saved game with different modules?"/>
+    <string id="lh0so0uX" text="Ви впевнені, що хочете завантажити гру, збережену з іншими модулями?"/>
     <string id="LJ2AoQyS" text="Well, well. What do we have here? Must be one of our lucky days, [if:convo_huge_smile]huh? Release all the valuables you carry and nobody gets hurt."/>
     <string id="LKGivHYp" text="The pittance they call a wage these days... I don't want to leave my kin, but I'm thinking I might have to try my luck in some other town."/>
     <string id="Ll2wN2Gm" text="This is how it goes, friend. This is our turf. We answer to {ALLEY_BOSS.NAME}, and {?ALLEY_BOSS.GENDER}she's{?}he's{\?} like the {?ALLEY_BOSS.GENDER}queen{?}king{\?} here. So if you haven't got a good reason to be here, clear out."/>
