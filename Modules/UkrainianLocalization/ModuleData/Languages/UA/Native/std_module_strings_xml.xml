@@ -12,7 +12,7 @@
     <string id="08aYzc2F" text="Headman"/>
     <string id="09ooh9I3" text="Pawns travel toward the opponent's home-tile. Upon reaching the last tile, they will move back towards their own home-tile. Enemy pawns can be captured along the way."/>
     <string id="0amC7X1h" text="War Declaration"/>
-    <string id="0DiBS84d" text="Merciful"/>
+    <string id="0DiBS84d" text="Милосердний"/>
     <string id="0GZ19XHb" text="Harness"/>
     <string id="0hCHIcVk" text="Skirmish on mount"/>
     <string id="0IjUokET" text="How much? How much money? Be quick.[ib:hip][rf:convo_angry]"/>
@@ -309,7 +309,7 @@
     <string id="agIbuP9a" text="Heh! That's quite the bruise you're sporting. But don't worry; everybody gets trounced once in a while. The important thing is to pick yourself up, dust yourself off and keep fighting. That's what champions do."/>
     <string id="agkgu85j" text="You have arrived at {SETTLEMENT} to lay siege to it."/>
     <string id="aGNfjmsz" text="&lt;b&gt;Ladder&lt;/b&gt;"/>
-    <string id="aGSMGMfn" text="Mercy:"/>
+    <string id="aGSMGMfn" text="Милосердя:"/>
     <string id="agYpWI9u" text="Success Chance"/>
     <string id="aH4KnzBu" text="Cautious"/>
     <string id="AhcKMabs" text="Raided villages"/>
@@ -418,7 +418,7 @@
     <string id="bN8gqxtB" text="End Battle"/>
     <string id="BNAHlS9P" text="Are you sure? You won't be able to undo this action."/>
     <string id="bNoCJyi9" text="Honorable"/>
-    <string id="bO5kjF3G" text="Honor:"/>
+    <string id="bO5kjF3G" text="Гідність:"/>
     <string id="BObPGFCw" text="Take and Equip"/>
     <string id="bPCAdgLs" text="Choose formation to lead"/>
     <string id="BPVFAl7J" text="Our plan is to attack with full force around our infantry."/>
@@ -664,7 +664,7 @@
     <string id="FpI5JMZq" text="Transactions have been reset"/>
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} increase to village growth."/>
     <string id="fQ2RLaOa" text="Clan Does Not Own Any Fiefs"/>
-    <string id="fQAGU9GW" text="Generosity:"/>
+    <string id="fQAGU9GW" text="Великодушність:"/>
     <string id="FqwHAxuM" text="Two Handed Polearm"/>
     <string id="FRepQsmO" text="Турнір буде у формі лицарського поєдинку."/>
     <string id="frt7AmX0" text="Гарнізон {MAJOR_PARTY_LEADER}{.v_rod}"/>
@@ -806,7 +806,7 @@
     <string id="i4g81l3E" text="Relation: {NUM}"/>
     <string id="i5ROjI8K" text="On {DAY_OF_YEAR}, {YEAR}, you found the artifact which Tacteos mentioned."/>
     <string id="I6OJtaMT" text="Ніколи"/>
-    <string id="I8xMpWxO" text="Daring"/>
+    <string id="I8xMpWxO" text="Сміливість"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
     <string id="IbkODMHV" text="Знаходьте сліди та укриття. Подорожуйте по складній місцевості. (Розвідник)"/>
     <string id="iBZc9RbE" text="Let's wait for everyone."/>
@@ -1444,7 +1444,7 @@
     <string id="troopclassname" text="{FORMATION_CLASS}"/>
     <string id="trRLa9pi" text="You have encountered {PARTY}. Fighting them will cause a war with the {KINGDOM}."/>
     <string id="tSbH6mTJ" text="Can't Use With Shields"/>
-    <string id="Tsn6bCft" text="Generous"/>
+    <string id="Tsn6bCft" text="Великодушний"/>
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="TSWen983" text="Active Quest"/>
     <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
@@ -1469,7 +1469,7 @@
     <string id="Uaw5VF3D" text="Your opponent wants to forfeit. Do you accept your win? If you don't, you will continue playing."/>
     <string id="UaYsPbER" text="Unpaid wages"/>
     <string id="uB245vWg" text="Food:"/>
-    <string id="uBxHeyxy" text="Valor:"/>
+    <string id="uBxHeyxy" text="Доблесть:"/>
     <string id="uCikaIoq" text="Splendid. See, my lads and I, we're not cruel men. A bit greedy though, that can't be denied, so do be generous.[ib:hip][rf:convo_bemused]"/>
     <string id="UckVajhO" text="Слави отримано: +{RENOWN}"/>
     <string id="UCo8oT1Q" text="War Strategy"/>
@@ -1639,7 +1639,7 @@
     <string id="xwWUDia6" text="Ставка"/>
     <string id="xWydBJyS" text="Rebels in {SETTLEMENT} have risen against their lord, {RULER}."/>
     <string id="Xx9EbSwG" text="Boot"/>
-    <string id="XxLCJb0W" text="Honest"/>
+    <string id="XxLCJb0W" text="Чесний"/>
     <string id="xycMiCIq" text="I have not found any profitable trades recently."/>
     <string id="XzggyCPW" text="This hero is busy."/>
     <string id="xZxbFuDI" text="The jackals will feed well tonight, then."/>
