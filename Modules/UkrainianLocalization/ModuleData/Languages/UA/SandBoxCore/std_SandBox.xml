@@ -153,7 +153,7 @@
     <string id="8LghFfQO" text="Help {ISSUE_GIVER.NAME} to rob {TARGET_MERCHANT.NAME} by acting as their guard."/>
     <string id="8N3cs42a" text="So... The word is that {NOTABLE.LINK} is looking to cut costs at {?NOTABLE.GENDER}her{?}his{\?} {.%}{SHOP_TYPE}{.%}. They say {?NOTABLE.GENDER}she{?}he{\?}'s been docking the men's wages right and left."/>
     <string id="8NDuezga" text="Now, I was talking to my {RANDOM_RELATIVE}, and he tells me he bought some {._}{PLURAL(ITEM_NAME)} around here for cheap and took it to {TOWN_NAME}. Said he made {PRICE_DIFF}{GOLD_ICON} of profit on each one."/>
-    <string id="8SK2BZum" text="You have cleared an alley which belonged to a gang leader. Now, you can either take it over for your own benefit or leave it empty to help the town. To own an alley, you will need to assign a suitable clan member and some troops to watch over it. This will provide denars to your clan, but also increase your crime rating."/>
+    <string id="8SK2BZum" text="Ви розчистили провулок, який належав ватажку банди. Тепер ви можете або забрати його під свій контроль, або залишити порожнім, щоб допомогти місту. Щоб отримати провулок у свою власність, вам потрібно призначити відповідного члена клану та декілька воїнів, щоб наглядати за ним. Це принесе гроші вашому клану, а також підвищить вашу кримінальну славу."/>
     <string id="8VlqJteC" text="I was just jesting. I need you more than ever. Now go back to your job."/>
     <string id="8Wy1OCsr" text="The {WEAPON} of {BESIEGER} hit wall of {SETTLEMENT}!"/>
     <string id="8XM8CHIm" text="brother-in-law"/>
