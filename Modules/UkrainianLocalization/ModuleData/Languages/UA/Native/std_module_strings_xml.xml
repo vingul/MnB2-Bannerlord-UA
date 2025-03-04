@@ -1254,7 +1254,7 @@
     <string id="Q2alNolf" text="my kinswoman {REFERING_HERO.LINK}"/>
     <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are retreating."/>
     <string id="Q3hlcBa4" text="Part of"/>
-    <string id="Q3KrMlLd" text="CHARGE!"/>
+    <string id="Q3KrMlLd" text="В АТАКУ!"/>
     <string id="Q67Wys0i" text="Патрулює біля {SETTLEMENT_NAME}{.v_rod}."/>
     <string id="Q7ONA10T" text="&lt;b&gt;Trebuchet&lt;/b&gt;{NEWLINE}Somewhat inaccurate but devastating against walls."/>
     <string id="q7xpz1xb" text="Торгівля з селами"/>
@@ -1670,7 +1670,7 @@
     <string id="YgcirtUD" text="Plains Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
     <string id="ygY1oKQD" text="We are at your service, {?PLAYER.GENDER}madam{?}sir{\?}. Point us in the direction of those who need hurting, and we'll do the rest.[ib:convo_approving]"/>
     <string id="YhLweMrP" text="Armors"/>
-    <string id="Yj0cQVLH" text="Charge!"/>
+    <string id="Yj0cQVLH" text="В атаку!"/>
     <string id="yjXoftYs" text="Last seen {?IS_IN_SETTLEMENT}at{?}near{\?} {SETTLEMENT}."/>
     <string id="YK3nXtoM" text="Friends"/>
     <string id="YkagFP1z" text="my mother {REFERING_HERO.LINK}"/>
