@@ -88,7 +88,7 @@
     <string id="JXbP1ula" text="Ви можете керувати переміщенням персонажу за допомогою {CONSOLE_MOVEMENT_KEY}.{newline}{newline}А тепер спробуйте пересуватися в усі чотири сторони!"/>
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill."/>
     <string id="KbpiRMnO" text="Click on the &quot;Visit&quot; button to start conversation."/>
-    <string id="kwW6v202" text="Go to shooting position"/>
+    <string id="kwW6v202" text="Вийти на позицію для стрільби"/>
     <string id="L0tOoWpV" text="Go to normal trainer"/>
     <string id="L24eYhaX" text="Mount the horse"/>
     <string id="L2biDS8U" text="Notables in towns will post orders for new weapons. They'll have requirements for you to complete and they'll pay you for the ordered weapon.{newline}{newline}You can view these orders by clicking on the highlighted button, at the top right."/>
