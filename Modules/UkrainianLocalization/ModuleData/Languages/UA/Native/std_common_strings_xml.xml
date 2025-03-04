@@ -12,7 +12,7 @@
     <string id="0B27RrYJ" text="{.f}Баттанія{.R_n10}"/>
     <string id="0CQgia2a" text="{.m}Кулхарн{.R_n20_u_ke}"/>
     <string id="0e17RZrZ" text="{.m}Арбалест{.R_n20_a_p}"/>
-    <string id="0oGz5rVx" text="Honor"/>
+    <string id="0oGz5rVx" text="Гідність"/>
     <string id="0rBsbw1T" text="No effect"/>
     <string id="0SpLcthg" text="{.f}Булава{.R_n10_p1} горян з зубцями"/>
     <string id="0SsLGsXk" text="Long Padded Robe"/>
@@ -45,7 +45,7 @@
     <string id="2Bh8DS8S" text="Siga"/>
     <string id="2cSOn9qb" text="Gambeson over Mail Armor"/>
     <string id="2fYYfHUI" text="Martira"/>
-    <string id="2I2uKJlw" text="Mercy"/>
+    <string id="2I2uKJlw" text="Милосердя"/>
     <string id="2iDtlgM0" text="Closed Warlord Helmet"/>
     <string id="2m1kWsao" text="Leather Studded Helm over Thinhide"/>
     <string id="2MdVVkVL" text="Kettle Hat over Padded Coif"/>
@@ -551,7 +551,7 @@
     <string id="Itv3fgJm" text="{.n}Зерно{.R_n2n}{@Plural}{.p}Мішок{.R_n22_p} з зерном{\@}"/>
     <string id="IU63oxWD" text="Jemynon"/>
     <string id="IuD9SaQM" text="Burlap Dress"/>
-    <string id="IuWu5Bu7" text="Generosity"/>
+    <string id="IuWu5Bu7" text="Великодушність"/>
     <string id="iVataLxL" text="Leather Strips over Padded Robe"/>
     <string id="ivKl4mV2" text="Ваш батько був довіреним офіцером місцевого аристократа-землевласника. Він їздив з панською кавалерією і воював як улан, закований у важку броню."/>
     <string id="iW9iKbb8" text="Nothing."/>
@@ -950,7 +950,7 @@
     <string id="tMLH04n4" text="Kettle Hat over Mail Coif"/>
     <string id="tMwsE9IR" text="Strapped Leather Boots"/>
     <string id="Toj0vayQ" text="{.m}Мончуг{.R_n20_a_ke}"/>
-    <string id="toQLHG6x" text="Valor"/>
+    <string id="toQLHG6x" text="Доблесть"/>
     <string id="Tp7zXWGa" text="Nasal Helmet over Padded Coif"/>
     <string id="TPoK3GSj" text="Волоцюги"/>
     <string id="tpQLvMSM" text="Nasal Helmet over Mail"/>
