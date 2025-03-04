@@ -161,7 +161,7 @@
     <string id="1V9GeKr8" text="Fah...I don't need more men. Thank you."/>
     <string id="1vnaskLR" text="It was a pleasure to work with you, chief. Farewell...[if:convo_nonchalant][ib:normal2]"/>
     <string id="1vQul57Y" text="The caravan got lost and it was {CHILD.NAME} who spotted the landmarks that got it back on track."/>
-    <string id="1vYgkaaK" text="Honor represents your reputation for respecting your formal commitments, like keeping your word and obeying the law."/>
+    <string id="1vYgkaaK" text="Гідність - це ваша репутація за дотримання взятих на себе зобов'язань, таких як дотримання свого слова і дотримання законів."/>
     <string id="1WbsW7I7" text="{QUEST_GIVER.NAME} won’t need anymore daggers. You can go back to {?QUEST_GIVER.GENDER}her{?}him{\?} to get your reward."/>
     <string id="1WxrzNXx" text="He'll be delighted. I'll tell him to join you as soon as possible."/>
     <string id="1XuYGQcT" text="{ISSUE_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}her{?}his{\?} local smith needs {REQUESTED_ITEM} to forge more tools. You asked your companion {COMPANION.LINK} to help the local smith and craft {REQUESTED_ITEM_COUNT} {?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?} for the village. Your companion will rejoin your party in {RETURN_DAYS} days."/>
@@ -988,7 +988,7 @@
     <string id="AThZtg7U" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided against making peace with the {KINGDOM}, with his {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council evenly divided on the matter."/>
     <string id="atk3PTae" text="Deserters are extorting from the villagers of {SETTLEMENT} and have killed several who resisted."/>
     <string id="aTPc7AkY" text="All right. But I can only hire {MERCENARY_COUNT} of you. Here is {GOLD_AMOUNT}{GOLD_ICON}"/>
-    <string id="Au7VCWTa" text="Mercy represents your general aversion to suffering and your willingness to help strangers or even enemies."/>
+    <string id="Au7VCWTa" text="Милосердя відображає вашу нелюбов до страждань і готовність допомагати незнайомим людям або навіть ворогам."/>
     <string id="auCinAKs" text="never tires out."/>
     <string id="auftprN9" text="allowing the common people to elect tribes to represent them"/>
     <string id="auIRGa2V" text="Каменярі"/>
@@ -2282,7 +2282,7 @@
     <string id="IkhQPr3Z" text="{VALUE} щоденного приросту вірності у підконтрольному поселенні."/>
     <string id="iKYd8PQc" text="Excellent. I'll have the whereabouts of the goods delivered to you right away...[if:convo_nonchalant][ib:confident]"/>
     <string id="iKYSgoZx" text="You're a handsome devil, I'll give you that."/>
-    <string id="IKzqzPDS" text="Generosity represents your loyalty to your kin and those who serve you, and your gratitude to those who have done you a favor."/>
+    <string id="IKzqzPDS" text="Великодушність - це ваша відданість рідним і тим, хто вам служить, а також ваша вдячність тим, хто зробив вам послугу."/>
     <string id="il2khBNl" text="You just looted this party."/>
     <string id="IL3QWZ93" text="{QUEST_GIVER.LINK}, an artisan from {SETTLEMENT}, has told you about local merchant asking ridiculous amounts of money for the raw materials that {?QUEST_GIVER.GENDER}she{?}he{\?} needs to continue {?QUEST_GIVER.GENDER}her{?}his{\?} work. You said that you can bring {?QUEST_GIVER.GENDER}her{?}him{\?} {REQUESTED_AMOUNT} {.%}{?REQUESTED_AMOUNT &gt; 1}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}. {?QUEST_GIVER.GENDER}She{?}He{\?} is willing to pay {REWARD_AMOUNT}{GOLD_ICON} for these items."/>
     <string id="Il7pDS8i" text="People remark on how much {?PLAYER_CHILD}your{?}the{\?} baby resembles {?CHILD.GENDER}her{?}his{\?} parents. {CHILD.NAME} definitely has {?PLAYER_IS_FATHER}your{?}{?CHILD.GENDER}her{?}his{\?} father's{\?}..."/>
@@ -3797,7 +3797,7 @@
     <string id="sbkrplXi" text="{VALUE}% шкоди від випаду древковою зброєю."/>
     <string id="sbmWGPYG" text="You are besieging {SETTLEMENT}. {FURTHER_EXPLANATION}"/>
     <string id="sBpcOmoi" text="It is something I must do, {LORD_SALUTATION}."/>
-    <string id="SBTTId7I" text="{VALUE}% greater chance of creating masterwork weapons."/>
+    <string id="SBTTId7I" text="{VALUE}% більше шансу створити шедевральну зброю."/>
     <string id="sbugaHdU" text="Right. Cheers, then."/>
     <string id="SbYlYGFA" text="Sorry. No one like that has passed through here for a while."/>
     <string id="sC4ZLZ8x" text="{COMMENT}"/>
@@ -4119,7 +4119,7 @@
     <string id="UGda4FDZ" text="{CHILD.NAME} found work with an artisan for a season, keeping {?CHILD.GENDER}her{?}his{\?} high birth a secret."/>
     <string id="UgfmaQgx" text="Leave {DEFENDER}"/>
     <string id="ugHO6Sa6" text="I need more {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?}, specifically, we need {MOUNT_COUNT} and they need to be {PLURAL(MOUNT_NAME)}, because we know how to use them and how they fit our needs. Bring them to me and a bag of {REWARD}{GOLD_ICON} will be right in your pocket.[if:convo_undecided_closed]"/>
-    <string id="Ugm9nO49" text="Valor represents your reputation for risking your life to win glory or wealth or advance your cause."/>
+    <string id="Ugm9nO49" text="Доблесть - це ваша репутація, коли ви ризикуєте життям, задля здобуття слави, багатства чи просування своїх інтересів."/>
     <string id="UgRGBWhn" text="{VALUE} до безпеки на день під час очікування у місті."/>
     <string id="UHCKXapl" text="The metalworkers' guild asked for them. Don't worry, they'll be melted into scrap."/>
     <string id="uHJltZ5D" text="Коваль власної долі"/>
