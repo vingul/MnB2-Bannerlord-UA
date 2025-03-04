@@ -790,7 +790,7 @@
     <string id="QxIXbHai" text="I want to speak with a prisoner (Cheat)."/>
     <string id="qxY2ASqp" text="Take over the alley"/>
     <string id="QyGQanO7" text="There's no doubt that {NOTABLE.FIRSTNAME} is a stiff-necked old goat, but you can't say {?NOTABLE.GENDER}she{?}he{\?}'s not honest as the day is long."/>
-    <string id="R0AbAxqX" text="Achievements are disabled due to unofficial modules."/>
+    <string id="R0AbAxqX" text="Досягнення вимкнено через наявність неофіційних модулів."/>
     <string id="R2HP4EiX" text="I don't have any more questions."/>
     <string id="r7xdYj4q" text="Module Mismatch"/>
     <string id="RB4uQpPV" text="You're going to pay me a lot then, {REWARD}{GOLD_ICON} to be exact. But at that price, I agree."/>
