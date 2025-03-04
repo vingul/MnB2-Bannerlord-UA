@@ -310,7 +310,7 @@
     <string id="rmjcrnll" text="Palmatian{@Plural}Palmatian horses{\@}"/>
     <string id="rO0oKtAo" text="Campaign Banner Small"/>
     <string id="TXpQetkh" text="War Camel{@Plural}war camels{\@}"/>
-    <string id="U3SWNkFt" text="Work Horse{@Plural}work horses{\@}"/>
+    <string id="U3SWNkFt" text="{.m}Робочий{.R_adj} {.m}кінь{.R_n21_a}{@Plural}{.p}робочий{.R_adj} {.p}кінь{.R_n21_p}{\@}"/>
     <string id="uPrWdLxV" text="Revyl Chaser"/>
     <string id="uRqm1nJ7" text="Light Saddle"/>
     <string id="uTt4HX6V" text="Tyal Horse{@Plural}Tyal horses{\@}"/>
