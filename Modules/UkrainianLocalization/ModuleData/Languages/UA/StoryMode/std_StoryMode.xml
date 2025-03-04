@@ -230,7 +230,7 @@
     <string id="GDNXavAl" text="There's nothing special about our Empire. [if:convo_calm_friendly]Any one of these petty kings and khans and sultans could probably get lucky and conquer Calradia and do as good a job ruling it as we did. But the point is - we already did it. Our greatest crimes are in the past. Let us not undo what has already been done."/>
     <string id="GGfM1HKn" text="Welcome to MBII Bannerlord"/>
     <string id="GicEcLx2" text="See you there then. But, remember, if this is a trap or something, that will cost you your life."/>
-    <string id="gJBNUAJd" text="Finish the track and hit as many targets as you can."/>
+    <string id="gJBNUAJd" text="Завершіть маршрут та влучте у якомога більше мішеней."/>
     <string id="gL241Hoz" text="Very nice. Superstitious twaddle, of course, but people will believe you. Very well, oh heir to Calradios, go forth![if:convo_nonchalant]"/>
     <string id="gL3WCqM5" text="Settlement Count"/>
     <string id="gOI8lKcl" text="ви втекли на швидких конях."/>
@@ -242,7 +242,7 @@
     <string id="gYYGGflb" text="Ми не можемо втрачати час. Ми зробимо більше, якщо розділимося. (Пропустити урок)"/>
     <string id="GZaYmg95" text="You've successfully finished the sword tutorial."/>
     <string id="H2FMIJmw" text="My wolves! Kill them![ib:aggressive][if:convo_furious]"/>
-    <string id="h31YaM4b" text="Mount the horse."/>
+    <string id="h31YaM4b" text="Забратися на коня."/>
     <string id="h68qCoz3" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}. He has been abducted by bandits, who intend to sell him into slavery."/>
     <string id="h9VP4ypW" text="Find and meet {HERO.LINK} to learn more about Neretzes' Banner. She is currently in {SETTLEMENT}."/>
     <string id="hadftxlO" text="We have strayed too far from our path. I'll take the lead for some time. You follow me."/>
@@ -278,7 +278,7 @@
     <string id="iQrwsvb1" text="We had no choice but to go to war. Anyone who tells you they would have done otherwise is either a liar or a coward or both. The Sturgians attacked us, and needed to be chastised. We lost an army and a banner. But we did not lose our honor, and without honor the Empire would be finished."/>
     <string id="iR4QCTxv" text="Weaken Empire"/>
     <string id="itRoeaJf" text="We heard you took our little brother and sister. Where are they?"/>
-    <string id="IYnFgEgy" text="Тоді продовжимо. (Увімкнути навчання бою)"/>
+    <string id="IYnFgEgy" text="Тоді продовжимо. (Пройти навчання бою)"/>
     <string id="izCbZEZg" text="Conspiracy Commander{%Commander is male.}"/>
     <string id="j2dW9fZt" text="Attack from up."/>
     <string id="J4qetbZb" text="I found this strange looking metal piece though. It doesn't look too valuable, but it could be the artifact {TACTEOS.NAME} was talking about. Maybe we can sell it to one of the noble clans for a hefty price.[if:convo_astonished]"/>
@@ -401,7 +401,7 @@
     <string id="qg05CSZb" text="You have defeated all the raiders near {TARGET_SETTLEMENT}. Many people now hope you can bring peace and prosperity back to the region."/>
     <string id="qhAhPWdp" text="ви надихнули людей на втечу."/>
     <string id="qIltCuBe" text="Get on the road now. Once I locate the little ones, I'll come find you.[ib:normal][if:convo_calm_friendly]"/>
-    <string id="QLgkR3qN" text="You've successfully finished the track in ({TIME_SCORE}) seconds. You've received ({PENALTY_SECONDS}) seconds penalty from ({MISSED_TARGETS}) missed targets."/>
+    <string id="QLgkR3qN" text="Ви успішно пройшли маршрут за ({TIME_SCORE}) секунди. Ви отримали ({PENALTY_SECONDS}) секунди штрафу за ({MISSED_TARGETS}) {#GET_PLURAL_VALUE(MISSED_TARGETS)}пропущену ціль{#}пропущені цілі{#}пропущених цілей{\#}."/>
     <string id="qMUfOtyk" text="You talked with {HERO.LINK}."/>
     <string id="qNR8WKcX" text="You should join a kingdom before supporting it with the Dragon Banner."/>
     <string id="qoA4UPly" text="Nothing can bring the Palaic people back. They are now imperial. But it is an insult to our name, to our gods, to our memory, that the state which destroyed our shrines and fortresses should last and thrive.[if:convo_empathic_voice]"/>
@@ -496,7 +496,7 @@
     <string id="VbJvL8yB" text="Oh you can't trust me. But you need me, and I figure you have enough men that you could easily slit my throat pretty quickly if I lead you into a trap. And I don't need to trust you - you're my vehicle of revenge, not my partner.[if:convo_grave]"/>
     <string id="vCBuF6dq" text="Recruit 4 recruits. Click &quot;Recruit Troops&quot; option on village menu to recruit troops."/>
     <string id="vDRRsed8" text="You'd better help us get our brother and sister back, or you'll swing from a tree."/>
-    <string id="veHe94Ec" text="You've successfully finished the track in ({TIME_SCORE}) seconds without missing any targets!"/>
+    <string id="veHe94Ec" text="Ви успішно пройшли маршрут за ({TIME_SCORE}) секунди без жодного промаху по мішені!"/>
     <string id="VeY3PQFL" text="You chose to defeat the Empire."/>
     <string id="vjOHmHOH" text="The ambush... Masterfully planned and executed, that none can deny. But I will also not deny that the Sturgians fought the main body of the imperial forces, and the Vlandians fought their famous cavalry, so I don't think the greatest glory went to the sons of Battania.[if:convo_contemptuous]"/>
     <string id="vJyTsFdU" text="It doesn't look like much and I suspect this lot would give it away for a few coins, but I got it from a mercenary whom I treated once, and swore it was related to 'Neretzes's Folly'. I don't know what that means, except that Neretzes was, of course, the emperor who died in battle some years back. Maybe you can find out its true value.[if:convo_calm_friendly]"/>
