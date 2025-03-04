@@ -84,13 +84,13 @@
     <string id="JEhe0TvD" text="You have an active quest! You can learn more about it by pressing {CONSOLE_ACTION_KEY} while the cursor is on the quest log on the lower left of your screen."/>
     <string id="jLWPSiOR" text="Speak to the Headman"/>
     <string id="JoYrhCGB" text="Trying to find something specific? Use filters on the left bar to narrow out the results."/>
-    <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL})"/>
+    <string id="jWvle1tC" text="Завершіть маршрут та влучте у якомога більше мішеней ({HIT} / {ALL})"/>
     <string id="JXbP1ula" text="Ви можете керувати переміщенням персонажу за допомогою {CONSOLE_MOVEMENT_KEY}.{newline}{newline}А тепер спробуйте пересуватися в усі чотири сторони!"/>
     <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill."/>
     <string id="KbpiRMnO" text="Click on the &quot;Visit&quot; button to start conversation."/>
     <string id="kwW6v202" text="Вийти на позицію для стрільби"/>
     <string id="L0tOoWpV" text="Go to normal trainer"/>
-    <string id="L24eYhaX" text="Mount the horse"/>
+    <string id="L24eYhaX" text="Забратися на коня"/>
     <string id="L2biDS8U" text="Notables in towns will post orders for new weapons. They'll have requirements for you to complete and they'll pay you for the ordered weapon.{newline}{newline}You can view these orders by clicking on the highlighted button, at the top right."/>
     <string id="LA4oaC7b" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Order your troops to follow you with the {FIRST_ORDER_CATEGORY_KEY} and {SECOND_ORDER_CATEGORY_KEY} shortcuts and try to take them on in small groups."/>
     <string id="lfkwsa5f" text="Track"/>
