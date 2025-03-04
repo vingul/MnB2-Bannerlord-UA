@@ -131,25 +131,25 @@
     <string id="qNrWU4Or" text="Тренування ближнього бою"/>
     <string id="QVChn4mG" text="Їжею також можна торгувати. Ви легко можете знайти товари для торгівлі за допомогою фільтру &quot;Інше&quot;."/>
     <string id="rLEIuqZO" text="Після запеклої битви у вас може з'явитися вибір: взяти кількох полонених або завербувати тих, кого ви звільнили з полону ворога.{newline}{newline}Обидва варіанти виконуються шляхом військ на сторону свого загону за допомогою маленької кнопки зі стрілкою зліва."/>
-    <string id="rVaufuNb" text="You have opened a page where your character has very little information. Arriving at settlements and meeting people of interest related to this page will reveal more and up to date information."/>
-    <string id="Rvn8tGB0" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Recruit Troops&quot; button."/>
-    <string id="SbLp73Z3" text="You can assign roles to your clan members in your party. They'll give bonuses according to their skills and perks.{newline}{newline}You can start the assignment process through the higlighted area."/>
-    <string id="SJ5Yp3eI" text="Troop upgrades will cost you denars and troop experience. Some troops may have two possible upgrade paths and may require items such as horses."/>
-    <string id="sYkqpuFx" text="Bannerlord has many different elements that affect the world of Calradia. You can always use filters to learn more about the game concepts."/>
-    <string id="TVqGNr8b" text="Keeping up with Clans of Caldraia allows you to follow up on allies and foes alike. You can check their members, fiefs, and power levels upon reveal."/>
+    <string id="rVaufuNb" text="Ви відкрили сторінку, на якій у вашого персонаж дуже мало інформації. Ви зможете наповнити її більшою кількістю актуальної інформації, навідуючись в поселення та зустрічаючись з різними людьми."/>
+    <string id="Rvn8tGB0" text="Ваш брат попросив вас найняти щонайменше 4 чоловіків, перш ніж відправитись на пошук розбійників.{newline}{newline}Ви можете найняти війська в селах і містах, натиснувши кнопку &quot;Найняти воїнів&quot;."/>
+    <string id="SbLp73Z3" text="Ви можете призначати ролі членам свого клану у вашому загоні. Вони даватимуть бонуси відповідно до їхніх умінь та здібностей.{newline}{newline}Щоб розпочати процес призначення ролей, натисніть на підсвічену область."/>
+    <string id="SJ5Yp3eI" text="Для покращення воїнів необхідні гроші та досвід, який здобувають ці воїни. Деякі воїни можуть мати два варіанти покращення і можуть потребувати додаткових предметів, такі як коні."/>
+    <string id="sYkqpuFx" text="Bannerlord має багато різних елементів, які впливають на світ Кальрадії. Ви завжди можете скористатися фільтрами, щоб дізнатися більше про концепції гри."/>
+    <string id="TVqGNr8b" text="Стежачи за кланами Кальрадії, ви більше дізнаєтесь як про союзників, так і про ворогів. Ви можете стежити за членами цих кланів, феодами та рівнем їх могутності, після того, як їх зустрінете."/>
     <string id="tZtrK3cs" text="Тренування стрільби верхи"/>
-    <string id="TZZaO7iI" text="When your skill points reach a required threshold, one or more perks will become available.{newline}{newline}This will be notified by a small indicator over the character screen button.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on the character button to view available perk choices."/>
-    <string id="Uge82Njb" text="Have you decided what to do?"/>
+    <string id="TZZaO7iI" text="Коли ваші очки умінь досягнуть певного порогу, стане доступним одна або кілька здібностей.{newline}{newline}Про це сповістить невеликий індикатор над кнопкою персонажа.{newline}{newline}Щоб переглянути варіанти доступних здібностей наведіть курсор на кнопку персонажа і натисніть {CONSOLE_ACTION_KEY}."/>
+    <string id="Uge82Njb" text="Ви вже вирішили, що робити?"/>
     <string id="uW4htMut" text="Меч і щит"/>
-    <string id="uWEUYE1m" text="You can choose an available perk by clicking on its button."/>
-    <string id="v3Ibi438" text="Press {CONSOLE_ACTION_KEY} while the cursor is on the &quot;Visit&quot; button to start conversation."/>
-    <string id="vdEoBkpr" text="You must maintain food supplies at all times. If you run out of food, your party will lose morale. Your troops may desert you because of low morale.{newline}{newline}You can see your food reserve on the info bar. Hover over it to see how much food your party consumes each day. Since your party needs food, go to marketplace now to purchase some."/>
-    <string id="VMcd4nma" text="The Encyclopedia has information on all the towns, castles, and villages of Calradia. Once visited or revealed, you can track up-to-date information from the encyclopedia."/>
-    <string id="VRLsCOQa" text="Kingdom Decision"/>
-    <string id="VvpPbvpm" text="You can call other lords to your banner. Click on the highlighted army icon on the lower right to do so."/>
-    <string id="VzE9aVBh" text="You can see portraits of Important NPCs on the top bar.{newline}{newline}Click on the portrait and choose visit from the menu."/>
+    <string id="uWEUYE1m" text="Щоб обрати доступну здібність, натиснувши на її кнопку."/>
+    <string id="v3Ibi438" text="Щоб почати розмову, наведіть курсор на кнопку &quot;Відвідати&quot; і натисніть {CONSOLE_ACTION_KEY}."/>
+    <string id="vdEoBkpr" text="Ви постійно повинні слідкувати за запасом їжі. Якщо у вас закінчиться їжа, ваш загін втратить бойовий дух. Ваші війська можуть покинути вас через низький бойовий дух.{newline}{newline}На інформаційній панелі можна бачити свій запас їжі. Наведіть на неї курсор, щоб побачити, скільки їжі ваш загін споживає щодня. Оскільки вашому загону потрібна їжа, вирушайте на ринок, щоб придбати її."/>
+    <string id="VMcd4nma" text="Енциклопедія містить інформацію про всі міста, замки та села Кальрадії. Відвідавши або дізнавшись про них, ви зможете отримувати актуальну інформацію в енциклопедії."/>
+    <string id="VRLsCOQa" text="Королівське рішення"/>
+    <string id="VvpPbvpm" text="Ви можете закликати інших лордів під свій прапор. Для цього клацніть на підсвічену іконку армії внизу праворуч."/>
+    <string id="VzE9aVBh" text="На верхній панелі ви можете побачити портрети важливих NPC.{newline}{newline} Клацніть на портрет і виберіть в меню &quot;Відвідати&quot;."/>
     <string id="w4Ajm40u" text="{.m}Фарок{.R_n20_a}"/>
-    <string id="wbdzBBPp" text="Return to the notable and learn more about the task ahead by pressing {CONSOLE_ACTION_KEY} while the cursor is on the &quot;Visit&quot; button."/>
+    <string id="wbdzBBPp" text="Поверніться до важливої особи і дізнайтеся більше про завдання, навівши курсор на кнопку &quot;Відвідати&quot; та натиснувши {CONSOLE_ACTION_KEY}."/>
     <string id="wgK6QxXm" text="This is your crime rating with the faction that owns the settlement. You gain a rating by robbing or attacking a kingdom's subjects. Players with a rating of 30 or higher in a neutral kingdom will be barred from its settlements, while an independent player with a crime rating of 60 or higher will be attacked on sight. Crime rating will decay over time.{newline}{newline}You can get more details on crime rating from the encyclopedia."/>
     <string id="wq9sNkMc" text="Leaving a Mission"/>
     <string id="WTF4ZIe7" text="Джату"/>
