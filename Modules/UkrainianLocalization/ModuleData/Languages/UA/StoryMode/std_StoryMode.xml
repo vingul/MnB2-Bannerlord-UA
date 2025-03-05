@@ -108,7 +108,7 @@
     <string id="atUTLABh" text="You have chosen to support the {KINGDOM} by presenting them the Dragon Banner, taking the advice of {MENTOR.LINK}."/>
     <string id="awgBkdXx" text="Поверніться до меню села і проведіть підготовку до зустрічі з бандитами, а потім дізнайтеся про завдання, яке має для вас староста."/>
     <string id="AxKDQJ4G" text="You told {MENTOR.LINK} that you will create your own kingdom to defeat the Empire. You can do that by speaking to one of your governors once you fulfill the requirements. {?MENTOR.GENDER}She{?}He{\?} expects to talk to you once you succeed."/>
-    <string id="ay1gPPsP" text="Find another piece of the banner for Arzagos"/>
+    <string id="ay1gPPsP" text="Знайти іншу частину банера для Арзагоса"/>
     <string id="aY4zWYpg" text="You have have received an important message from {MENTOR.LINK}."/>
     <string id="aYozMy3Z" text="We lost because the Vlandians broke their oaths, and fought us when they should have fought with us. I was given command of the cataphracts, and we easily crushed their crossbowmen. Their knights gave us more trouble. Meanwhile, the Sturgian infantry came down and attacked our main force. That's where my father fell. "/>
     <string id="b6hQWKHe" text="Grow your party to {PARTY_SIZE} men"/>
@@ -238,7 +238,7 @@
     <string id="GVMGXfxS" text="You can use our family name if you like or make up a new one. You will have a better chance of obtaining an audience with nobles and it'll be easier for me to find you by asking around.[if:convo_normal]"/>
     <string id="GW7Zg3IP" text="Conspiracy War Party"/>
     <string id="gX0RzZoT" text="Let's just go speak to the headman."/>
-    <string id="GxlPj4GC" text="Find the hideout that Istiana told you about and get the next banner piece."/>
+    <string id="GxlPj4GC" text="Знайдіть лігво, про яке вам розповіла Істіана, і отримайте наступну частину банера."/>
     <string id="gYYGGflb" text="Ми не можемо втрачати час. Ми зробимо більше, якщо розділимося. (Пропустити урок)"/>
     <string id="GZaYmg95" text="Ви успішно закінчили тренування з володіння мечем."/>
     <string id="H2FMIJmw" text="My wolves! Kill them![ib:aggressive][if:convo_furious]"/>
@@ -342,7 +342,7 @@
     <string id="MOVWOyeh" text="Clearly you have been chosen by Heaven for a great purpose. I see the makings of a new legend here... Allow me to call you 'Bannerlord.'[ib:normal][if:convo_relaxed_happy]"/>
     <string id="MREvo37b" text="Якщо ви зможете його розшукати, цього Тактеоса, ми будемо дуже вдячні. Можливо, якщо він живий і здоровий, він розповість вам трохи більше про ці свої 'пошуки'.[if:convo_normal]"/>
     <string id="mtiaY2Pa" text="How can I support an existing kingdom?"/>
-    <string id="mU1bC1mp" text="You encountered the raider party."/>
+    <string id="mU1bC1mp" text="Ви зіткнулися з групою грабіжників."/>
     <string id="MU2O1SaZ" text="There is an army waiting for you outside."/>
     <string id="mWMkslbn" text="He led us here. Where are my brothers and my sister?"/>
     <string id="mxKhvbn7" text="You have decided to unify the Empire."/>
@@ -514,9 +514,9 @@
     <string id="WN1tHPnB" text="We should have gone on to seize all the western empire. If Derthert had any manhood, we'd have done so. But his heart was never in the war. He believed he'd broken his oath to the Empire by helping the Sturgians, and it gnawed at him. He'd have made a fine lackey. Instead he's our king.[if:convo_contemptuous]"/>
     <string id="WN6aHR6m" text="You were defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="wO19nK2y" text="You have weakened the Empire."/>
-    <string id="WTjAYUoD" text="Find another piece of the banner for Istiana"/>
+    <string id="WTjAYUoD" text="Знайти іншу частину банера для Істіани"/>
     <string id="WUa1gnkS" text="Look, right before the battle, our high king, Aeril, disappears. And his adopted son Caladog becomes king. That sets tongues to wagging, you know? But let me tell you - old Aeril could never in his life have won such a victory as did Caladog, that day."/>
-    <string id="wvHvnEog" text="Find the hideout that Arzagos told you about and get the next banner piece."/>
+    <string id="wvHvnEog" text="Знайдіть лігво, про яке вам розповів Арзагос, і отримайте наступну частину банера."/>
     <string id="WWcG7kPr" text="A 'buyer'? Think bigger than that. Let me just say that, if you can find the missing pieces, I am sure I can help you put it to good use.[ib:confident2][if:convo_calm_friendly]"/>
     <string id="wWLnZ6G4" text="Since your hunt for your kin is fruitless, how about you clear off and save your own lives? Either that or I force you to lick up all the blood you've spilled here with your tongues. Or... You and I could settle this, one on one.[if:convo_angry_voice]"/>
     <string id="WysXGbM6" text="Right click to defend"/>
@@ -558,7 +558,7 @@
     <string id="yRAl8YRL" text="Yes. I was a junior officer on Neretzes' staff. People say much about the battle that betrays a lack of understanding, of Neretzes and of the circumstances he faced.[if:convo_undecided_closed][ib:closed]"/>
     <string id="ysRVZiA6" text="As you explore Calradia, you can learn more about your artifact and its importance by asking any lord or lady about the Empire's recent history."/>
     <string id="yub8ZSFP" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK}. Now, you may want to talk with {IMPERIAL_MENTOR.LINK} and take {?IMPERIAL_MENTOR.GENDER}her{?}his{\?} opinions too. {?IMPERIAL_MENTOR.GENDER}She{?}He{\?} is currently in {SETTLEMENT_LINK}."/>
-    <string id="z3VamNrX" text="Send in your troops."/>
+    <string id="z3VamNrX" text="Відправити свої війська."/>
     <string id="Z54ZrDG9" text="Until next time, then."/>
     <string id="z8LQn2Uh" text="Ви прибули до лігва."/>
     <string id="Z9mcDuDi" text="Досягнення вимкнені!"/>
