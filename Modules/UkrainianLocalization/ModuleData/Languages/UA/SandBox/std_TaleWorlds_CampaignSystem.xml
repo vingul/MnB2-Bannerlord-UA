@@ -402,7 +402,7 @@
     <string id="4Ybbhzjw" text="Politician"/>
     <string id="4YNqWPEu" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я відновлюються після кожного наступального бою."/>
     <string id="4YuFTXxC" text="You successfully raided the village."/>
-    <string id="4z1t75be" text="{FIRSTNAME} of the {CLAN_NAME}"/>
+    <string id="4z1t75be" text="{FIRSTNAME} з клану {CLAN_NAME}{.v_rod}"/>
     <string id="511LONpe" text="{NUMBER_OF_TROOPS} troops joined you."/>
     <string id="51ahPi69" text="I understand that your men are still chasing those poachers. I realize that this mess might take a little time to clean up.[ib:normal2][if:convo_grave]"/>
     <string id="52GFRUTE" text="Keep your coin, headman. Your people's blessings are enough."/>
