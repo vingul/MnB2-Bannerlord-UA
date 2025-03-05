@@ -43,7 +43,7 @@
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: "/>
     <string id="6DuCoCc2" text="You need to confirm your changes in order to engage in a conversation."/>
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Швидкість: "/>
-    <string id="7l0LGKRk" text="Date Started"/>
+    <string id="7l0LGKRk" text="Датою початку"/>
     <string id="7tBOCHm6" text="Sigil Color:"/>
     <string id="7tKjfMSb" text="Alleys"/>
     <string id="84oSzquz" text="Recently Escaped Captivity"/>
@@ -83,7 +83,7 @@
     <string id="Bcs9s2tC" text="Right Click to Remove"/>
     <string id="bd7oAQq6" text="Daily"/>
     <string id="bDwTWrru" text="No delay"/>
-    <string id="BEXTcJaS" text="Time Due"/>
+    <string id="BEXTcJaS" text="Часом до закінчення"/>
     <string id="bfWlTVjs" text="Remove assignee"/>
     <string id="BgqZWbga" text="The nobles of the realm will dislike you for abandoning your fealty. Are you sure you want to leave the Kingdom?"/>
     <string id="BifGz0h4" text="Patrolling"/>
@@ -287,7 +287,7 @@
     <string id="OyyJSyIX" text="{FACTION_1} is paying {DENAR}{GOLD_ICON} as tribute to {FACTION_2}"/>
     <string id="P0To9aRW" text="Travel time: {TRAVEL_TIME}"/>
     <string id="P1hk0m4o" text="Character name cannot contain special characters"/>
-    <string id="P5YtNXHR" text="{LEADER.NAME}{.o} Party"/>
+    <string id="P5YtNXHR" text="Загін {LEADER.NAME}{.v_rod}"/>
     <string id="p7raHA9x" text="Refinement"/>
     <string id="pBVbKYwo" text="You will lose the ownership of the alley and the troops in it. Are you sure?"/>
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}"/>
@@ -306,7 +306,7 @@
     <string id="q1J4a8rr" text="Швидкість вивчення"/>
     <string id="Q1KwpZYu" text="Weapon usage does not match requirements"/>
     <string id="Q8dhryRX" text="Parties' Food"/>
-    <string id="qaQqAYGc" text="Moving to {LEADER.NAME}{.o} Party"/>
+    <string id="qaQqAYGc" text="Прямує до загону {LEADER.NAME}{.v_rod}"/>
     <string id="QBB0KQ2Z" text="Parties' Average Morale"/>
     <string id="qBq70qDq" text="Current Project"/>
     <string id="qbqimqMb" text="{GOVERNOR.NAME} is on the way to be the new governor of {SETTLEMENT_NAME}"/>
@@ -426,7 +426,7 @@
     <string id="Y65gdbrx" text="Waiting in {TARGET_PARTY}"/>
     <string id="y6qCNFQj" text="Store Outputs in the Warehouse"/>
     <string id="Y7qbwrWE" text="Уміння героя {HERO_NAME}"/>
-    <string id="Y8EcVL1c" text="Last Updated"/>
+    <string id="Y8EcVL1c" text="Останнім оновленням"/>
     <string id="ybLA7ZXp" text="Already at Max"/>
     <string id="yD7rL5Nc" text="Helping ally party to defend {TARGET_SETTLEMENT}."/>
     <string id="ysireFjT" text="Sell This Workshop for {GOLD_AMOUNT}{GOLD_ICON}"/>
