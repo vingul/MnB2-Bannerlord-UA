@@ -114,7 +114,7 @@
     <string id="4AQmS4iA" text="+{BONUS_AMOUNT} до місткості гарнізону"/>
     <string id="4bq2mUf1" text="Eligible to create a Kingdom"/>
     <string id="4BQaqqzg" text="Security:"/>
-    <string id="4H1nDlBO" text="Weekly Wage"/>
+    <string id="4H1nDlBO" text="Тижнева платня"/>
     <string id="4Hdcxk0a" text="Aggressive"/>
     <string id="4jLW7hag" text="Dismiss from Army"/>
     <string id="4kKxsVzZ" text="Your alley {.%}{ALLEY_NAME}{.%} at {TOWN} is captured."/>
@@ -583,7 +583,7 @@
     <string id="EMCISbYJ" text="Бойове спорядження"/>
     <string id="empiremembers" text="{.p}Імперець{.R_n22_p}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
-    <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} умінь&#10; до {SKILL_NAME}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
+    <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} умінь&#10; до {SKILL_NAME}{.v_rod}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
     <string id="enhza8zr" text="Фракція"/>
     <string id="eNQgzubm" text="Бийтеся в пішому порядку. Пересувайтеся по карті пішки."/>
@@ -786,7 +786,7 @@
     <string id="hqIIEur1" text="You have encountered {ARMY}."/>
     <string id="hroWCoqV" text="Support for enacting"/>
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are waiting for other siege machines to arrive."/>
-    <string id="HuCClZqT" text="Wage"/>
+    <string id="HuCClZqT" text="Платня"/>
     <string id="husbandbrotherinlaw" text="brother-in-law"/>
     <string id="husbandfatherinlaw" text="father-in-law"/>
     <string id="husbandmotherinlaw" text="mother-in-law"/>
@@ -806,7 +806,7 @@
     <string id="i4g81l3E" text="Відношення: {NUM}"/>
     <string id="i5ROjI8K" text="On {DAY_OF_YEAR}, {YEAR}, you found the artifact which Tacteos mentioned."/>
     <string id="I6OJtaMT" text="Ніколи"/>
-    <string id="I8xMpWxO" text="Сміливість"/>
+    <string id="I8xMpWxO" text="Сміливий"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
     <string id="IbkODMHV" text="Знаходьте сліди та лігва. Подорожуйте по складній місцевості. (Розвідник)"/>
     <string id="iBZc9RbE" text="Let's wait for everyone."/>
@@ -834,7 +834,7 @@
     <string id="iNriAkLl" text="Used for increasing speed"/>
     <string id="ioKVFDcQ" text="{?AND} {?}and {\?}{SENTENCE_3} "/>
     <string id="ioKwRFcj" text="Consider making peace (Support: {SUPPORT}%)"/>
-    <string id="IoLK7Lec" text="Base size"/>
+    <string id="IoLK7Lec" text="Базова кількість"/>
     <string id="iORENG5d" text="Mercenaries cannot propose policies."/>
     <string id="IOtAJCVw" text="Total Influence: {TOTAL_INFLUENCE}"/>
     <string id="IPjqLEdQ" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#} назад"/>
@@ -1343,7 +1343,7 @@
     <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Recruit{?ISPLURAL}s{?} {\?}"/>
     <string id="rqWJL27J" text="Total Gold"/>
     <string id="RsBO5aOq" text="Weapon should have Swing {SWING_DAMAGE_TYPE} Damage"/>
-    <string id="RTmDiT0l" text="Current Party Size Bonus"/>
+    <string id="RTmDiT0l" text="Поточний бонус за розмір загону"/>
     <string id="rTuptXLg" text="Attacker Banner"/>
     <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are advancing."/>
     <string id="RUcYGbUH" text="У вас недостатньо очок"/>
