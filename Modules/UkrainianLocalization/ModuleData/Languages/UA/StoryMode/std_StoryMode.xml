@@ -285,7 +285,7 @@
     <string id="j9f9Ts7i" text="I have a better idea. We would have a better chance if we split up now. I'll take {RADAGOS.NAME} and go find the slaver market and look for a way to free the children. However we must be careful not to endanger their lives and it could be better to just buy them. We need to have our purses full for that though.[if:convo_normal]"/>
     <string id="jg3T5AyE" text="Як і більшість сімей у Кальрадії, ваше життя перевернула війна. Ваш дім був спустошений арміями, чий шлях проліг неподалік ваших земель. Зрештою, ви продали все і вирушили з батьком і матір'ю, старшим братом та молодшим братом і сестрою до нового міста, яке, як ви чули, було безпечнішим. Але ви не доїхали: на заїзд, в якому ви зупинилися, напали розбійники. Ваших батьків вбили, молодших брата і сестру схопили, але ви з братом вижили, тому що..."/>
     <string id="jGhWOnjx" text="Yes. It was madness. The greatest blow struck against the Empire in a lifetime, and we squandered it squabbling among ourselves about a flag.[if:convo_stern][ib:closed2]"/>
-    <string id="JhEzD45J" text="Purchase {GRAIN}"/>
+    <string id="JhEzD45J" text="Купити {._}{GRAIN}"/>
     <string id="JJo0i8an" text="Look around the village to find the party that captured the traveller whom the headman told you about."/>
     <string id="Jn4r0GjD" text="So, can you help me find a buyer for it?"/>
     <string id="jnOa3cbK" text="Before I reveal that information to you, I need to know more about your intentions. One could use the banner to restore the empire, but one could also use the banner to destroy it.[ib:closed][if:convo_angry_voice]"/>
@@ -340,7 +340,7 @@
     <string id="mN60B07k" text="You have lost the battle against raiders and failed to defeat conspiracy forces. Many of the locals feel that you've brought misfortune upon them, and want nothing to do with you."/>
     <string id="MnmblprY" text="So, where can I find the other pieces?"/>
     <string id="MOVWOyeh" text="Clearly you have been chosen by Heaven for a great purpose. I see the makings of a new legend here... Allow me to call you 'Bannerlord.'[ib:normal][if:convo_relaxed_happy]"/>
-    <string id="MREvo37b" text="If you can keep an eye out for him, this Tacteos, we'd be very grateful. Maybe, if he's alive and well, he'll tell you a little more about his 'quest.'[if:convo_normal]"/>
+    <string id="MREvo37b" text="Якщо ви зможете його розшукати, цього Тактеоса, ми будемо дуже вдячні. Можливо, якщо він живий і здоровий, він розповість вам трохи більше про ці свої 'пошуки'.[if:convo_normal]"/>
     <string id="mtiaY2Pa" text="How can I support an existing kingdom?"/>
     <string id="mU1bC1mp" text="You encountered the raider party."/>
     <string id="MU2O1SaZ" text="There is an army waiting for you outside."/>
@@ -508,7 +508,7 @@
     <string id="W7hi7jS4" text="Eh, well, I dared to hope, I suppose. All right then, I'm not going to grovel to you, so get it over with.[ib:hip][if:convo_uncomfortable_voice]"/>
     <string id="wajioDaK" text="I stayed with Neretzes until we were forced back to our camp by the Sturgian infantry, and then fought on the battlements. Eventually we could hold them no longer. I did not see what happened to Neretzes or to our banner. Arenicos got us out of there, and got us home. I did not respect Arenicos before, but that day I saw he was worthy to be Emperor."/>
     <string id="wbhKgpmr" text="Ви готові вирушити з братом на місію помсти та порятунку. Ось ваш персонаж. Продовжуйте, якщо готові, або верніться і внесіть зміни."/>
-    <string id="WDylM3dx" text="He set off on the road just a few hours before the raiders came through here. Well, he's not really a worldly type, just the kind of fellow who'd stumble into a trap and let himself be captured. We're worried about him.[if:convo_dismayed]"/>
+    <string id="WDylM3dx" text="Він вирушив у дорогу за кілька годин до того, як сюди навідалися бандити. Розумієте, він не надто пристосований до цього жорстокого світу. Він з тих людей хто, потрапивши в пастку, просто дає себе схопити. Ми хвилюємося за нього.[if:convo_dismayed]"/>
     <string id="weS3DJKA" text="Weakened by war, the ruler of the {FACTION} offers to make peace with {PLAYER_FACTION}."/>
     <string id="WIUbM9Hc" text="Виберіть зброю, щоб почати тренування."/>
     <string id="WN1tHPnB" text="We should have gone on to seize all the western empire. If Derthert had any manhood, we'd have done so. But his heart was never in the war. He believed he'd broken his oath to the Empire by helping the Sturgians, and it gnawed at him. He'd have made a fine lackey. Instead he's our king.[if:convo_contemptuous]"/>
@@ -528,7 +528,7 @@
     <string id="XdDQdSsW" text="I could feel the signs of heat-stroke creeping up and I told them but they just flogged me more... If your group hadn't come along... Maybe I have a way to thank you properly.[ib:normal][if:convo_thinking]"/>
     <string id="XEuhxpCX" text="Now, the Empire uses tricks and traps in war. No Battanian fears to meet an imperial soldier, man-to-man, but we thought it would be a good laugh to use their tricks against them. So we laid an ambush, on both sides of a wooded pass, and wouldn't you know? They marched right into it.[if:convo_happy]"/>
     <string id="Xg6jhfPt" text="Nimr returned, in well-deserved glory. A daughter of the Banu Qild took an interest in him, and they had a secret affair, as the youth sometimes do. As heroes do. But Nimr's acts wounded the Qildi's pride. They kidnapped him, slew him and hung him in a cage in their market. We will forgive the Empire and the Vlandians. The Qildis... better not ask me that.[if:convo_contemptuous][ib:confident]"/>
-    <string id="xGdoz9Pn" text="Що ж, востаннє ми бачили його кілька днів тому. При ньому була якась скриня, про яку він говорив дуже загадково. Він казав, що це якийсь своєрідний «квест», але більше нічого не розповідав.[if:convo_pondering]"/>
+    <string id="xGdoz9Pn" text="Що ж, востаннє ми бачили його кілька днів тому. При ньому була якась скриня, про яку він говорив дуже загадково. За його словами, він веде певні 'пошуки', але більше нічого не розповів.[if:convo_pondering]"/>
     <string id="XIIISsIg" text="There was never a prouder moment for the Bani Sarran.[if:convo_calm_friendly][ib:hip]"/>
     <string id="xjduipCO" text="Of course our glorious armies have been defeated many times, but I guess those commanders and emperors were not 'true sons.' Clever little legend. A child could see through it, if she tried, but of course people never try to see through the noble lies that bind us together. Thank Heaven for that.[ib:closed][if:convo_pondering]"/>
     <string id="xjk4hNXD" text="I did not fight in the battle. I stood on a hill telling my commanders where to go and who to attack. And we did rather well, I think you've heard. Still, we took losses - heavy losses, and gained little. And for this the barons blamed me, even though it was their idea to fight. I learned that day that a king should always lead, never follow. But it was a bitter lesson.[if:convo_contemptuous][ib:closed]"/>
