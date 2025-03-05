@@ -1649,7 +1649,7 @@
     <string id="ebUwP3Q3" text="Don't get involved."/>
     <string id="EC2n5DBl" text="Спостережний пункт"/>
     <string id="eC4laxrj" text="I'm still out recruiting."/>
-    <string id="ecdZglky" text="From Hearths"/>
+    <string id="ecdZglky" text="Від вогнищ"/>
     <string id="EcYGHEVS" text="You may be entitled to that land in recompense for your service to us. [Will cost {VALUE} influence]"/>
     <string id="ed5JVSQm" text="You asked the huntsman to spend as much time as possible outdoors, accustomizing the child to the dangers and hardships of the wild. You asked him to teach the child..."/>
     <string id="EdCkK2c4" text="{VALUE} денар{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} за кожну майстерню повертаються вам{newline}при захопленні ворогом міста з ними."/>
