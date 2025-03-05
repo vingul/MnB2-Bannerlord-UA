@@ -904,7 +904,7 @@
     <string id="Settlements.Settlement.name.castle_EN9" text="{.m}Замок{.R_n22_u} Мекаловея"/>
     <string id="Settlements.Settlement.name.town_A6" text="{.f}Санала{.R_n10}"/>
     <string id="SFybYZNK" text="Mengus"/>
-    <string id="shL0WElC" text="{TROOP.NAME}{.o} Party"/>
+    <string id="shL0WElC" text="Загін {TROOP.NAME}{.v_rod}"/>
     <string id="SHZ0P7Iu" text="Padded Leather Cape"/>
     <string id="siegeevent" text="Siege"/>
     <string id="sJ1R62Tn" text="Plumed Helmet"/>
