@@ -7,7 +7,7 @@
     <string id="4bIP3dka" text="Conspiracy Longbowman"/>
     <string id="6c5L2D91" text="Conspiracy Warmonger"/>
     <string id="6IetyqbY" text="Conspiracy Mounted Fighter"/>
-    <string id="8AHT9pt5" text="Training Master"/>
+    <string id="8AHT9pt5" text="Тренер"/>
     <string id="adR3pIDp" text="Conspiracy Noble Horseman"/>
     <string id="agvI8ymJ" text="Conspiracy Wilder"/>
     <string id="BAgYPdXW" text="Conspiracy Fighter"/>
@@ -28,7 +28,7 @@
     <string id="loRgnHVa" text="Conspiracy Trained Huntsman"/>
     <string id="mau9JLzO" text="Conspiracy Hunt Leader"/>
     <string id="mBa3kDNF" text="Conspiracy Battle Rider"/>
-    <string id="MrpOJn2h" text="Refugee"/>
+    <string id="MrpOJn2h" text="{.m}Біженець{.R_n22_a}"/>
     <string id="NdfXwR79" text="Conspiracy Knight Trainee"/>
     <string id="No2HgX5E" text="Radagos"/>
     <string id="O8QblvbQ" text="Tacteos"/>
