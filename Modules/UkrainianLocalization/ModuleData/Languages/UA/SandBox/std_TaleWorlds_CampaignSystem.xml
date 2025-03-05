@@ -1670,7 +1670,7 @@
     <string id="egXc7J72" text="Caravan guards are not elite troops, and may slack off if not held to a high standard of discipline. {CHILD.NAME} made sure that they stayed sober and alert."/>
     <string id="eH0roDGM" text="Our clan's lands are vulnerable. I owe it to those under my protection to seek peace."/>
     <string id="EhaMPtRX" text="Оточення"/>
-    <string id="EhxS7NQ4" text="So be it. Attack!"/>
+    <string id="EhxS7NQ4" text="Хай буде так. В атаку!"/>
     <string id="ei1JSeco" text="Найкращі ліки"/>
     <string id="eibt105C" text="The ruler maintains a prestigious guard force. It attracts warriors who might otherwise serve their local lord."/>
     <string id="EiFPu9Np" text="Right... {GOLD_AMOUNT} Here you are."/>
@@ -4885,7 +4885,7 @@
     <string id="Z9pq58h4" text="I am thinking of a different skill."/>
     <string id="Z9Rey6LC" text="Розуміння механізмів"/>
     <string id="Za6Du9Kf" text="Then you will pay with blood!"/>
-    <string id="za78F8gO" text="Don't attack! We surrender."/>
+    <string id="za78F8gO" text="Не нападайте! Ми здаємося."/>
     <string id="zady0hI7" text="{VALUE}% штрафу до швидкості під час перезаряджання."/>
     <string id="ZaIBcQxa" text="Kheshig"/>
     <string id="ZAqEJI9T" text="About the task {QUEST_GIVER.LINK} gave me."/>
