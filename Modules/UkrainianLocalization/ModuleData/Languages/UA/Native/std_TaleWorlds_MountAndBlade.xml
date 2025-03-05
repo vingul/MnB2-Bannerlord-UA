@@ -17,9 +17,9 @@
     <string id="bNYm3K6b" text="{KEY} Pick Up"/>
     <string id="bWi4aMO9" text="Arrow Barrel"/>
     <string id="CaSafuAH" text="Content Download Complete"/>
-    <string id="DRNDtkP2" text="Give preference to troops at higher tiers"/>
+    <string id="DRNDtkP2" text="Надавати перевагу воїнам вищих рівнів"/>
     <string id="DWWa3aIb" text="Give preference to troops with Thrown Weapons"/>
-    <string id="DzAkCzwd" text="High Tier"/>
+    <string id="DzAkCzwd" text="Високий рівень"/>
     <string id="Ea3K1PVR" text="Thrown Weapons"/>
     <string id="f83FU4X6" text="Polearms"/>
     <string id="F9AQxCax" text="Fork"/>
@@ -42,7 +42,7 @@
     <string id="NbpcDXtJ" text="Баліста"/>
     <string id="PSN8IaIg" text="Shields"/>
     <string id="Q1Ga032B" text="Не віддавайте перевагу жодному виду військ."/>
-    <string id="qaPgbwZv" text="Низький Рівень"/>
+    <string id="qaPgbwZv" text="Низький рівень"/>
     <string id="rwZAZSvX" text="{KEY} Move"/>
     <string id="sRTd3RI5" text="Графіка"/>
     <string id="TJj71hPO" text="{KEY} Close"/>
@@ -55,6 +55,6 @@
     <string id="wY1qP2qj" text="{KEY} Обрати"/>
     <string id="XvSRoOzM" text="Recently Played Players"/>
     <string id="ys9baYiQ" text="Кампанія"/>
-    <string id="zbpCRmuJ" text="Give preference to troops at lower tiers"/>
+    <string id="zbpCRmuJ" text="Надавати перевагу воїнам нижчих рівнів"/>
   </strings>
 </base>
