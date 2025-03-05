@@ -18,7 +18,7 @@
     <string id="dXfXpOX8" text="Conspiracy Hellion"/>
     <string id="GfHGXdpx" text="Conspiracy Raider"/>
     <string id="i8GS9pn9" text="Conspiracy Veteran Fighter"/>
-    <string id="IMwAoSax" text="Radagos's Raider"/>
+    <string id="IMwAoSax" text="{.m}Грабіжник{.R_n20_a_p} Радагоса"/>
     <string id="ixCSdUlD" text="Conpiracy Kern"/>
     <string id="j5Me8RDp" text="Conspiracy Trained Crossbowman"/>
     <string id="JbDdyuJ1" text="Conspiracy Caravan Master"/>
@@ -30,7 +30,7 @@
     <string id="mBa3kDNF" text="Conspiracy Battle Rider"/>
     <string id="MrpOJn2h" text="{.m}Біженець{.R_n22_a}"/>
     <string id="NdfXwR79" text="Conspiracy Knight Trainee"/>
-    <string id="No2HgX5E" text="Radagos"/>
+    <string id="No2HgX5E" text="{.m}Радагос{.R_n20_a_ke}"/>
     <string id="O8QblvbQ" text="{.m}Тактеос{.R_n20_a_ke}"/>
     <string id="osbMBjVt" text="Conspiracy Mounted Hunstman"/>
     <string id="SLxnu4XO" text="Galter"/>
