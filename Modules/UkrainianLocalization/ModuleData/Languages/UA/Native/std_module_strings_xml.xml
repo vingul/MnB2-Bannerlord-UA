@@ -9,7 +9,7 @@
     <string id="04GuLxE1" text="You cannot change the leader of your own party or disband it"/>
     <string id="07b4Wy0h" text="Choose Cavalry"/>
     <string id="082FNWAD" text="Traits"/>
-    <string id="08aYzc2F" text="Headman"/>
+    <string id="08aYzc2F" text="Староста"/>
     <string id="09ooh9I3" text="Pawns travel toward the opponent's home-tile. Upon reaching the last tile, they will move back towards their own home-tile. Enemy pawns can be captured along the way."/>
     <string id="0amC7X1h" text="War Declaration"/>
     <string id="0DiBS84d" text="Милосердний"/>
@@ -762,7 +762,7 @@
     <string id="hDktLs4a" text="You have acted wisely and with respect. You may go."/>
     <string id="HdTVkcII" text="Покращуйте стосунки з людьми. Спілкуйтеся з вельможами. Робіть обмін."/>
     <string id="hdyQFP2Z" text="You've been killed by a stray {MOUNT_NAME}!"/>
-    <string id="hE4XvvXv" text="Sort by:"/>
+    <string id="hE4XvvXv" text="Сортувати за:"/>
     <string id="HEQ2zEei" text="Відмінити"/>
     <string id="HEUDyfbG" text="{HERO.NAME} will join {CLAN_NAME}"/>
     <string id="hEWuE0Ch" text="You're the commander. You will be able to order all formations during the battle."/>
@@ -808,7 +808,7 @@
     <string id="I6OJtaMT" text="Ніколи"/>
     <string id="I8xMpWxO" text="Сміливість"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
-    <string id="IbkODMHV" text="Знаходьте сліди та укриття. Подорожуйте по складній місцевості. (Розвідник)"/>
+    <string id="IbkODMHV" text="Знаходьте сліди та лігва. Подорожуйте по складній місцевості. (Розвідник)"/>
     <string id="iBZc9RbE" text="Let's wait for everyone."/>
     <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the castle walls."/>
     <string id="icmyseoo" text="My lord"/>
@@ -871,7 +871,7 @@
     <string id="jbQ3LYBl" text="{.m}імператор{.R_n20_a_ke_p}"/>
     <string id="JbTCDDb0" text="Bolt"/>
     <string id="jCbYaCcg" text="Well met {PLAYER.LINK}. I am {CONVERSATION_CHARACTER.LINK}. Thanks for your help and I hope we meet again."/>
-    <string id="jd4ULLGr" text="Active Quests"/>
+    <string id="jd4ULLGr" text="Активні квести"/>
     <string id="JdNTRtpJ" text="Підтримуйте високий бойовий дух свого загону. Збирайте та очолюйте армії. Покращуйте своїх воїнів."/>
     <string id="Jelvod71" text="Capturing"/>
     <string id="jfIbp2Hg" text="Follow Up: "/>
