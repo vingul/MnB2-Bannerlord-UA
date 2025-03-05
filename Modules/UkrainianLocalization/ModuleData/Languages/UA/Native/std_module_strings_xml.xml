@@ -1671,7 +1671,7 @@
     <string id="ygY1oKQD" text="We are at your service, {?PLAYER.GENDER}madam{?}sir{\?}. Point us in the direction of those who need hurting, and we'll do the rest.[ib:convo_approving]"/>
     <string id="YhLweMrP" text="Armors"/>
     <string id="Yj0cQVLH" text="В атаку!"/>
-    <string id="yjXoftYs" text="Last seen {?IS_IN_SETTLEMENT}at{?}near{\?} {SETTLEMENT}."/>
+    <string id="yjXoftYs" text="В останнє бачили {?IS_IN_SETTLEMENT}в {SETTLEMENT}{.v_mis}{?}біля {SETTLEMENT}{.v_rod}{\?}."/>
     <string id="YK3nXtoM" text="Friends"/>
     <string id="YkagFP1z" text="my mother {REFERING_HERO.LINK}"/>
     <string id="ykZLXKH3" text="Renown: {RENOWN}"/>
