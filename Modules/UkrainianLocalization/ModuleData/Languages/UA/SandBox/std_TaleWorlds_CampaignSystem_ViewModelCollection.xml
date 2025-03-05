@@ -38,7 +38,7 @@
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
     <string id="5dkPxmZG" text="Garrison Wages"/>
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
-    <string id="63Ic1Ahe" text="Cost: {UPGRADE_COST} (You don't have)"/>
+    <string id="63Ic1Ahe" text="Вартість: {UPGRADE_COST} (У вас немає)"/>
     <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop."/>
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: "/>
     <string id="6DuCoCc2" text="You need to confirm your changes in order to engage in a conversation."/>
@@ -148,7 +148,7 @@
     <string id="flxDkoMh" text="Stage Complete"/>
     <string id="fpE7BQ7f" text="You don't have any upgradable troops."/>
     <string id="fPoB2u5m" text="Character name should be between {MIN} and {MAX} characters"/>
-    <string id="FYJC7cDD" text="Trait(s)"/>
+    <string id="FYJC7cDD" text="Риса(-и)"/>
     <string id="fz2kQjFS" text="Виберіть народність свого персонажа:"/>
     <string id="FzbeSkBb" text="One of your alleys has lost its leader or is lacking troops. It will be abandoned after {DAYS} days have passed. You can assign a new clan member from the clan screen or travel to the alley to add more troops, if you wish to keep it. Any troops left in the alley will be lost when it is abandoned."/>
     <string id="g08mptth" text="Moving to a party to be the new leader"/>
@@ -235,7 +235,7 @@
     <string id="LxWVtDF0" text="Manage Workshop"/>
     <string id="m1Yynagz" text="Page {NUMBER}"/>
     <string id="MaHMOzL2" text="Народність персонажа"/>
-    <string id="McJjNM50" text="Cost: {UPGRADE_COST}"/>
+    <string id="McJjNM50" text="Вартість: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Макс. кількість здоров'я"/>
     <string id="mdvnjI72" text="Troops are not upgradable in this screen."/>
     <string id="Mfbc4rQR" text="Charge Damage"/>
