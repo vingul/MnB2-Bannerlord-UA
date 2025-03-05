@@ -8,7 +8,7 @@
     <string id="3aYSoETE" text="{MOTHER.LINK} народила здорову дитину."/>
     <string id="6q9sb18u" text="{HERO_2.LINK} загинув."/>
     <string id="7SHqWNzE" text="Район «{COMMON_AREA}» {SETTLEMENT}{.v_mis} зачищено від бандитів."/>
-    <string id="7tx9sch3" text="Знайдено укриття"/>
+    <string id="7tx9sch3" text="Знайдено лігво"/>
     <string id="8Klpa7Xa" text="{INSULTER.LINK} присягнувся помститися {INSULTEE.LINK}."/>
     <string id="8wlvxzuP" text="{HERO_1.LINK} {?HERO_1.GENDER}зустріла{?}зустрів{\?} {HERO_2.LINK}{.v_rod}."/>
     <string id="a0qduLNq" text="{SETTLEMENT} тепер у безпеці."/>
