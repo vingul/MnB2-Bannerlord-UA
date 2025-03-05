@@ -76,7 +76,7 @@
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (tax)"/>
     <string id="2UCptBFi" text="the Sturgians"/>
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus"/>
-    <string id="2wclahIJ" text="Метання"/>
+    <string id="2wclahIJ" text="{.n}Метання{.R_n2n}"/>
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% bonus to taxes"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день{#}дні{#}днів{\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
     <string id="300TAI7u" text="Продати все"/>
@@ -753,7 +753,7 @@
     <string id="h6AJXR2e" text="Are you sure to retreat your party?"/>
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election"/>
     <string id="H9y9dLao" text="Щоб виграти більше, ви можете збільшити ставку. Кожного раунду коефіцієнти будуть мінятися, але ви не зможете поставити більше {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;."/>
-    <string id="haax8kMa" text="Древкова зброя"/>
+    <string id="haax8kMa" text="{.f}Древковий{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="hAgZBZP8" text="Forfeit"/>
     <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
     <string id="hbeUbpEA" text="Are you sure you want to cancel?"/>
@@ -1217,7 +1217,7 @@
     <string id="PHkC8Gia" text="Продати"/>
     <string id="PhoKHbhd" text="Битву виграно. Натисніть {leave_key}, щоб переглянути результати"/>
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}."/>
-    <string id="PiHpR4QL" text="Одноручна зброя"/>
+    <string id="PiHpR4QL" text="{.f}Одноручний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="PitdvCJI" text="Change Governor"/>
     <string id="pJBz7hhl" text="Gather your men, we have another job to do!"/>
     <string id="PJEuE208" text="Militia:"/>
@@ -1414,7 +1414,7 @@
     <string id="t6NXmyoF" text="{.a} {STR}"/>
     <string id="t6sgwieR" text="Crafted Value"/>
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rf:convo_bemused]"/>
-    <string id="t78atYqH" text="Дворучна зброя"/>
+    <string id="t78atYqH" text="{.f}Дворучний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="T8w5VRAy" text="Enemy troops are falling back to the castle."/>
     <string id="taaNCsVZ" text="Ви виграєте турнір, перемігши {TOURNAMENT_FINAL_OPPONENT}{.v_rod} у фінальному раунді."/>
     <string id="tAMBVG9B" text="third"/>
