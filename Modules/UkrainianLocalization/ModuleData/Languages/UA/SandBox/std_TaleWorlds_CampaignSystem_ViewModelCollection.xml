@@ -34,7 +34,7 @@
     <string id="4uMWNDoi" text="Thrust Speed"/>
     <string id="4vZLpzPi" text="+1 Renown / Day"/>
     <string id="4Y8u4JKO" text="You can't leave the kingdom while in an army"/>
-    <string id="5bzk75Ql" text="Переслідує загін {._}{TARGET_PARTY}{.v_rod}."/>
+    <string id="5bzk75Ql" text="Переслідує {TARGET_PARTY}{.v_zna}."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
     <string id="5dkPxmZG" text="Garrison Wages"/>
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
