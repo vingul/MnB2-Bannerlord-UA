@@ -20,7 +20,7 @@
     <string id="3PsQTf0z" text="I've got you cornered. Yield, or we shall attack.[ib:warrior][if:convo_aggressive]"/>
     <string id="3TGug4Vb" text="I know your name. They say you are a most valiant warrior. I can only hope that your honour and mercy matches your valor."/>
     <string id="3UucAOBW" text="I am {CONVERSATION_CHARACTER.LINK} of the {CLAN_NAME}."/>
-    <string id="48g7K7Zi" text="When you walk these roads, my friend, know that nothing escapes the notice of the Hidden Hand. Lords and emperors come and go, but we remain."/>
+    <string id="48g7K7Zi" text="Коли ти йдеш цими дорогами, мій друже, знай, що ніщо не вислизне від уваги Невидимої Руки. Лорди та імператори з'являються і зникають, а ми залишаємося."/>
     <string id="49sxmwcX" text="Still your tongue! You'll have need of it shortly, to beg for mercy"/>
     <string id="4Jo8JMZm" text="My lady"/>
     <string id="4Uagj1LN" text="Actually, I think I will keep you in captivity, as my prisoner."/>
