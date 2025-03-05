@@ -957,7 +957,7 @@
     <string id="aoJHP3Ud" text="I'm ready to rejoin you. I'm in your debt."/>
     <string id="aPbpBJq5" text="Тюремний архітектор"/>
     <string id="APEBfqyW" text="Greetings my {?PLAYER.GENDER}lady{?}lord{\?}. Do you wish something from me?[if:convo_innocent_smile][ib:normal2]"/>
-    <string id="apgpk6j1" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння «Древкова зброя» для піхоти вашого підрозділу."/>
+    <string id="apgpk6j1" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння Древкова зброя для піхоти вашого підрозділу."/>
     <string id="aPoS8wOW" text="You have limited access to Dungeon."/>
     <string id="apr2dH0n" text="{ISSUE_SETTLEMENT} Needs Grain Seeds"/>
     <string id="aPsDkV9w" text="You've done well by me in the past, {PLAYER.NAME}, and for that I will go along with your request, but know that I do not like you using our relationship this way.[ib:closed][if:convo_stern]"/>
@@ -1556,7 +1556,7 @@
     <string id="DOKcia5B" text="I'm {CONVERSATION_HERO.FIRSTNAME}. There's some who know me as {CONVERSATION_HERO.LINK}. That's a term of respect, by the way.[if:convo_mocking_revenge]"/>
     <string id="DOmb81Mu" text="(Undefined hideout type)"/>
     <string id="dov3iRlt" text="{ENEMY_RULER.NAME} of the {ENEMY_KINGDOM_INFORMAL_NAME} is vile and dangerous. We must deal with {?ENEMY_RULER.GENDER}her{?}him{\?} before it is too late."/>
-    <string id="dPD5zood" text="Daily Gold Change: {CHANGE}{GOLD_ICON}"/>
+    <string id="dPD5zood" text="Щоденна зміна золота: {CHANGE}{GOLD_ICON}"/>
     <string id="dpFFo2U2" text="I understand. I'll hold off on the decree, then."/>
     <string id="DphlPaF9" text="{AGGRESSOR_RULER.NAME} of the {AGGRESSOR_KINGDOM} has declared war on the {KINGDOM} despite opposition from {?AGGRESSOR_RULER.GENDER}her{?}his{\?} council."/>
     <string id="dPo5goLo" text="{VALUE}% впливу від виграних битв."/>
@@ -2369,7 +2369,7 @@
     <string id="J2Iok9lT" text="An ally has paid your ransom."/>
     <string id="j3Hcp9RQ" text="{VALUE} болт{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} у колчані кожного арбалетника вашого підрозділу."/>
     <string id="j3J0Hbax" text="Ваші арбалетні атаки ігнорують броню менше 20."/>
-    <string id="j3QNVqP5" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} фокусу для умінь «одноручна зброя» і «дворучна зброя»."/>
+    <string id="j3QNVqP5" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} фокусу для умінь Одноручна зброя і Дворучна зброя."/>
     <string id="J4UMplzb" text="{FACTION_LEADER} will decide who will own {SETTLEMENT_NAME}. You can give your support to one of the candidates."/>
     <string id="j4V4fVBd" text="I see... How can I help?"/>
     <string id="J4yakjtP" text="Splendid. You have served me well. Take your well-earned reward.[ib:hip][if:convo_grateful]"/>
@@ -3900,7 +3900,7 @@
     <string id="sy5Hbp04" text="Safe travels to you, my lady. I hope to see you again soon."/>
     <string id="sYfvsMwN" text="{QUEST_GIVER.LINK} asked you to raid {NUMBER_OF_TARGET_VILLAGE} {ENEMYFACTION_INFORMALNAME} villages to distract their lords and weaken their armies. {?QUEST_GIVER.GENDER}She{?}He{\?} offers {REWARD_GOLD}{GOLD_ICON} to thank you for your deeds."/>
     <string id="sYNFwOVg" text="Citizenship"/>
-    <string id="sYrG8rNy" text="{VALUE}% до споживання їжі, платні та втрат бойового духу у вашому загоні за кожне очко уміння керування понад 200."/>
+    <string id="sYrG8rNy" text="{VALUE}% до споживання їжі, платні та втрат бойового духу у вашому загоні за кожне очко уміння Керування понад 200."/>
     <string id="SyuxD1aY" text="You delivered the prisoners to {QUEST_GIVER.LINK} as promised and you shared half of the profit with the headman and the villagers."/>
     <string id="SyxQF0tM" text="{VALUE}% штрафу до ціни при продажу їжі."/>
     <string id="SzIPvqLk" text="Of course not. If you don't wish to fight yourself - and I understand you might be quite busy - you could use your influence to convince one of the nobles of this realm to hold their next tournament in my honor.[ib:demure2][if:convo_merry]"/>
@@ -3989,7 +3989,7 @@
     <string id="tMkMi5C7" text="wins wrestling matches."/>
     <string id="tmqYGwMa" text="Excellent, {PLAYER.NAME}, excellent. I have every confidence in you.[if:idle_happy]"/>
     <string id="tMUla7vz" text="{?CHILD.GENDER}She{?}He{\?} is light but strong, and can outrun almost all of {?CHILD.GENDER}her{?}his{\?} peers."/>
-    <string id="TmYKKarv" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння «Дворучна зброя» воїнам вашого підрозділу."/>
+    <string id="TmYKKarv" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння Дворучна зброя воїнам вашого підрозділу."/>
     <string id="Tn9g83ry" text="Enjoying your drink, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
     <string id="tNo1Dctm" text="Yes. If you pay me {BASE_REWARD_X_2}{GOLD_ICON}, I will release you"/>
     <string id="TnW3i5ul" text="We ran back there. I despise running. I prefer to be the wolf, not a rabbit."/>
@@ -4206,7 +4206,7 @@
     <string id="uZIlfFa2" text="We're disbanding. We're all going to {TARGET_SETTLEMENT_LINK}, then we're going our separate ways."/>
     <string id="UzKyyfbF" text="{VALUE}% золота, необхідного, щоб переконати лордів перейти до вашої фракції."/>
     <string id="UzMYZgoE" text="Besiege the castle."/>
-    <string id="uZPweUQg" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння «Древкова зброя» воїнам вашого підрозділу."/>
+    <string id="uZPweUQg" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння Древкова зброя воїнам вашого підрозділу."/>
     <string id="v0mZi3Zd" text="Devastate {DEVASTATE_INFLUENCE_COST_TEXT}"/>
     <string id="V0QmrGda" text="Before {CHILD.NAME} left, you asked your warrior to make sure that the young {?CHILD.GENDER}woman{?}man{\?}..."/>
     <string id="v1bkAxmK" text="You accepted {MERCHANT.LINK}'s request. You've handed over the goods."/>
@@ -4924,7 +4924,7 @@
     <string id="ziA4catk" text="Very good."/>
     <string id="ZJ2tJnJk" text="Settlement loyalty is increased by 0.5 per day{newline}Settlement security is decreased by 0.2 per day{newline}Clans lose 1 influence per day"/>
     <string id="zj4Sz28B" text="{VALUE}% штрафу до торгівлі в селах вашої народності."/>
-    <string id="zjctOvv8" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння «Верхова їзда» воїнам вашого підрозділу."/>
+    <string id="zjctOvv8" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння Верхова їзда воїнам вашого підрозділу."/>
     <string id="zJHhHRBw" text="{VALUE}% шкоди отримуваної вашими воїнами від снарядів."/>
     <string id="zjMqgbXz" text="We are working on it."/>
     <string id="zJujFbXU" text="You decided that the herders had more right to the disputed pasture than the landowner, {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}She{?}He{\?} probably feels betrayed."/>
