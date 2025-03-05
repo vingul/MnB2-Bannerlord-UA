@@ -198,7 +198,7 @@
     <string id="7chepLLh" text="Destroy siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
     <string id="7cMUohRm" text="Керуйте автобитвами. Вигравайте битви проти домінуючих сил противника. Уникайте зіткнень, навіть жертвуючи військами, якщо цього вимагає ситуація."/>
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
-    <string id="7EnFh9e5" text="Location: {LOCATION}"/>
+    <string id="7EnFh9e5" text="Місцезнаходження: {LOCATION}"/>
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing sparsely."/>
     <string id="7fjOwwVH" text="Sure, I'll give you a tip. I spoke to some traders who say they just bought some {.%}{ITEM_NAME}{.%} from {SETTLEMENT} at a price of {BUY_COST}{GOLD_ICON} and sold at {DESTINATION} for {SELL_COST}{GOLD_ICON}."/>
     <string id="7hj7Kaoz" text="Total Income"/>
@@ -317,7 +317,7 @@
     <string id="aHu7bgbx" text="On {DAY_OF_YEAR}, {YEAR}, {HERO_NAME} came of age."/>
     <string id="AI2Spvw0" text="Pick"/>
     <string id="AIh1Ik4A" text="Calradian Empire"/>
-    <string id="aiX4b5kS" text="Completed Quests"/>
+    <string id="aiX4b5kS" text="Завершені завдання"/>
     <string id="AIYWSAyK" text="Отримуйте прибуток від торгівлі. Відправляйте каравани."/>
     <string id="aJoNj6JX" text="Бийтеся дворучною короткою зброєю."/>
     <string id="aJXhsjmT" text="Greetings, traveller. Unless you wish your bones to be left in the sand to be gnawed upon by jackals, give us what we want."/>
@@ -480,7 +480,7 @@
     <string id="ckPhG1KV" text="Зв'язані села"/>
     <string id="CkwERBcS" text="Skirmish behind ally formation."/>
     <string id="cmn6qNoX" text="Skirmishers"/>
-    <string id="cMrROb6w" text="Available Quest"/>
+    <string id="cMrROb6w" text="Доступне завдання"/>
     <string id="cNaiQyva" text="sixteenth"/>
     <string id="CObuCGjA" text="Marriage offer from {CLAN_NAME}"/>
     <string id="CODsu5Ok" text="Нова кампанія"/>
@@ -704,7 +704,7 @@
     <string id="gdraqMso" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside."/>
     <string id="GDugjWao" text="Here is {MONEY}{GOLD_ICON}. Just take it and let us go."/>
     <string id="gE7QFy6y" text="{PRISONER.NAME} has escaped from {?PRISONER.GENDER}her{?}his{\?} place of captivity."/>
-    <string id="geJQxzgB" text="Quest Failed: {QUEST_TITLE}"/>
+    <string id="geJQxzgB" text="Провалено завдання: {QUEST_TITLE}"/>
     <string id="genericcharacterfirstname" text="{CHARACTER_FIRSTNAME}"/>
     <string id="genericcharactername" text="{CHARACTER_NAME}"/>
     <string id="genericclanname" text="{CLAN_NAME}"/>
@@ -734,7 +734,7 @@
     <string id="GPW3ku2Y" text="{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}"/>
     <string id="gQCEJvmf" text="daughter"/>
     <string id="GralaKWi" text="On {DAY_OF_YEAR}, {YEAR}, a child was born to {FATHER_NAME} and {MOTHER_NAME}."/>
-    <string id="Gre2v55i" text="Power: {POWER}"/>
+    <string id="Gre2v55i" text="Влада: {POWER}"/>
     <string id="GRX8NjWI" text="Size"/>
     <string id="gSVaitFE" text="Raiding {SETTLEMENT_NAME}"/>
     <string id="gT5zJaD7" text="I was knocked senseless by the enemy"/>
@@ -871,7 +871,7 @@
     <string id="jbQ3LYBl" text="{.m}імператор{.R_n20_a_ke_p}"/>
     <string id="JbTCDDb0" text="Bolt"/>
     <string id="jCbYaCcg" text="Well met {PLAYER.LINK}. I am {CONVERSATION_CHARACTER.LINK}. Thanks for your help and I hope we meet again."/>
-    <string id="jd4ULLGr" text="Активні квести"/>
+    <string id="jd4ULLGr" text="Активні завдання"/>
     <string id="JdNTRtpJ" text="Підтримуйте високий бойовий дух свого загону. Збирайте та очолюйте армії. Покращуйте своїх воїнів."/>
     <string id="Jelvod71" text="Capturing"/>
     <string id="jfIbp2Hg" text="Follow Up: "/>
@@ -1005,7 +1005,7 @@
     <string id="lqMQ6GXj" text="Surplus Food"/>
     <string id="lQQPKo02" text="Move to screen us against foes moving behind our back"/>
     <string id="lRAaUTjs" text="Drop"/>
-    <string id="lrAnY7Fb" text="Old Quests"/>
+    <string id="lrAnY7Fb" text="Старі завдання"/>
     <string id="LSsFOEQy" text="Менше доби"/>
     <string id="lTTWrL1Q" text="Quest Timed Out: {QUEST_TITLE}"/>
     <string id="lvc1Xgf8" text="Tavern Wench"/>
@@ -1116,7 +1116,7 @@
     <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}"/>
     <string id="NPJRmNAY" text="Can not be crafted."/>
     <string id="NqarFr4P" text="Налаштування"/>
-    <string id="NQbqtEqP" text="Cost: {COUNT}"/>
+    <string id="NQbqtEqP" text="Вартість: {COUNT}"/>
     <string id="NqSLYe6b" text="Renown:"/>
     <string id="NqtTPVzn" text="Attributes"/>
     <string id="NRbNsJ9C" text="This will cancel your changes! Are you sure?"/>
@@ -1275,7 +1275,7 @@
     <string id="Qg5suamT" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} but {?FIGHTER_GENDER}she{?}he{\?} has been defeated."/>
     <string id="qgHblOq4" text="You spotted an ambush."/>
     <string id="qgL4P2vO" text="Місто процвітає. Люди виглядають ситими та почуваються досить комфортно."/>
-    <string id="QgUej8DP" text="No Active Quest"/>
+    <string id="QgUej8DP" text="Немає активного завдання"/>
     <string id="qhhLVJAC" text="&lt;b&gt;Preparations&lt;/b&gt;"/>
     <string id="qHkTYCy0" text="Your troops will get {XP_AMOUNT} experience."/>
     <string id="qKg44yWp" text="Priority"/>
@@ -1283,7 +1283,7 @@
     <string id="QL2t7D44" text="Additional Workshop Limit"/>
     <string id="ql8Xr5ap" text="Siege Battle{newline}{newline}• Archers suffer major penalty while attacking.{newline}• Cavalry suffer medium penalty while attacking.{newline}• Horse archers suffer severe penalty while attacking."/>
     <string id="QlaGZAHq" text="New reinforcements have arrived!"/>
-    <string id="QLM6DWHB" text="Active Quest(s)"/>
+    <string id="QLM6DWHB" text="Активні завдання"/>
     <string id="qlnXblKO" text="{ISSUE_NAME}: Your troops have resolved the matter and have returned from their mission."/>
     <string id="QLRbhRKL" text="Issue"/>
     <string id="qlw2LWgu" text="Move in to range"/>
@@ -1446,7 +1446,7 @@
     <string id="tSbH6mTJ" text="Can't Use With Shields"/>
     <string id="Tsn6bCft" text="Великодушний"/>
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][if:convo_bared_teeth]"/>
-    <string id="TSWen983" text="Active Quest"/>
+    <string id="TSWen983" text="Активне завдання"/>
     <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using siege weapons."/>
     <string id="TVcqGJ1r" text="Main hero is imprisoned!"/>
