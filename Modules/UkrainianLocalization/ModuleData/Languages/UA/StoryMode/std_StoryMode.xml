@@ -261,7 +261,7 @@
     <string id="HqlXdzcv" text="Talk with Headman {HEADMAN.FIRSTNAME}"/>
     <string id="HrdVRMgR" text="Perhaps by saving my brother and sister you earned your life back. Very well, go now."/>
     <string id="HT9hW29s" text="Splendid! But I have a few things to do. There is a hideout near this city. {HIDEOUT_BOSS.LINK} keeps your siblings there. I will join you right where the path leads up, just out of sight of their scouts.[if:convo_snide_voice][ib:hip]"/>
-    <string id="HvGW2DvS" text="Track started."/>
+    <string id="HvGW2DvS" text="Заїзд розпочато."/>
     <string id="i3SSc0I4" text="{IMPERIAL_MENTOR.NAME}'s Plan"/>
     <string id="i5OOargr" text="Such are the fortunes of war. But what came afterwards... When word spread of what happened to our menfolk, the other clans - the Arkits in particular - knew we were weak. Our herds were raided. Anyone who protested was killed. Monchug did little to stop it. It taught us that valor will get you killed, but treachery will make you rich.[if:convo_angry]"/>
     <string id="IavuL9KI" text="Of course. I intend to use the banner to help save the Empire."/>
