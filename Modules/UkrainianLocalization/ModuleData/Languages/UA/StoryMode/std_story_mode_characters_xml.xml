@@ -14,7 +14,7 @@
     <string id="C658axDH" text="Conspiracy Mounted Master Archer"/>
     <string id="CPONpX33" text="Conspiracy Commander"/>
     <string id="CsHLuOEl" text="Conspiracy Spear Master"/>
-    <string id="daOtjNZp" text="Arzagos"/>
+    <string id="daOtjNZp" text="{.m}Арзагос{.R_n20_a_ke}"/>
     <string id="dXfXpOX8" text="Conspiracy Hellion"/>
     <string id="GfHGXdpx" text="Conspiracy Raider"/>
     <string id="i8GS9pn9" text="Conspiracy Veteran Fighter"/>
@@ -23,7 +23,7 @@
     <string id="j5Me8RDp" text="Conspiracy Trained Crossbowman"/>
     <string id="JbDdyuJ1" text="Conspiracy Caravan Master"/>
     <string id="JchFJ884" text="Conspiracy Packmaster"/>
-    <string id="kfhY01a7" text="Headman's Troop"/>
+    <string id="kfhY01a7" text="{.m}Воїн{.R_n20_a_ke_p} старости"/>
     <string id="LKPF1mjo" text="Conspiracy Warworn Crossbowman"/>
     <string id="loRgnHVa" text="Conspiracy Trained Huntsman"/>
     <string id="mau9JLzO" text="Conspiracy Hunt Leader"/>
@@ -33,8 +33,8 @@
     <string id="No2HgX5E" text="{.m}Радагос{.R_n20_a_ke}"/>
     <string id="O8QblvbQ" text="{.m}Тактеос{.R_n20_a_ke}"/>
     <string id="osbMBjVt" text="Conspiracy Mounted Hunstman"/>
-    <string id="SLxnu4XO" text="Galter"/>
-    <string id="uCmEaWOI" text="Istiana"/>
+    <string id="SLxnu4XO" text="{.m}Гальтер{.R_n20_a_ke}"/>
+    <string id="uCmEaWOI" text="{.f}Істіана{.R_n10_ko}"/>
     <string id="USA8hlVX" text="Conspiracy Guardian"/>
     <string id="VmFyP2Lp" text="Conspiracy Guardsman"/>
     <string id="XbsySjkl" text="Conspiracy Trained Spearman"/>
