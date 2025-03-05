@@ -2769,7 +2769,7 @@
     <string id="lkLNrscj" text="{FIRSTNAME} the {?FEMALE}Maid{?}Steward{\?}"/>
     <string id="lKWflUid" text="While you are waiting in {DEFENDER}, {ATTACKER} started an attack on it."/>
     <string id="Ll1EJHXF" text="Manage castle"/>
-    <string id="lLMlPcl4" text="You have discovered {HERO.NAME}"/>
+    <string id="lLMlPcl4" text="Ви познайомилися з {HERO.NAME}{.v_oru}"/>
     <string id="llVFTH6n" text="Yes. It's a good problem to have, though. As you may know, I deal in {PLURAL(SELECTED_ITEM)}. Our herds have increased this year, and we can no longer make a profit on the local market. I cannot however organize a drive to a new market. So, I propose a very simple deal.[if:convo_innocent_smile][ib:confident]"/>
     <string id="lmJYF6pQ" text="Tell me how I can help."/>
     <string id="LmTii9E2" text="It was a pleasure doing business with you. If only everyone was as honest as you.[if:convo_happy][ib:confident3]"/>
