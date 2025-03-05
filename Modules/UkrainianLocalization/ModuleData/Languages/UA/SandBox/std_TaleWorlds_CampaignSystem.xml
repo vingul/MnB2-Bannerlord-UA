@@ -1341,7 +1341,7 @@
     <string id="cHgLxbbc" text="Маневри перед боєм"/>
     <string id="chiIHo4b" text="Mangy {FIRSTNAME}"/>
     <string id="chj1X7VP" text="I do not believe we have any quarrel with you."/>
-    <string id="ChUDSiJw" text="Garrison and Party Expense"/>
+    <string id="ChUDSiJw" text="Витрати на гарнізон та загін"/>
     <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} a landowner in {SETTLEMENT}, asked you to train recruits for {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} gave you {NUMBER_OF_MEN} men, hoping to take them back when once they are veterans.{newline}You sent them with one of your companions {COMPANION.LINK} to hunt down some easy targets. You arranged to meet them in {RETURN_DAYS} days."/>
     <string id="ciCQnAj6" text="{VALUE}% шкоди щитам від воїнів вашого підрозділу."/>
     <string id="ciELES5v" text="Стрімкий удар"/>
@@ -2329,7 +2329,7 @@
     <string id="ITboR6C1" text="The men say we're running low on food. We should be more careful of that."/>
     <string id="iTgVn26a" text="You have failed to bring the weapons to {QUEST_GIVER.LINK} in time."/>
     <string id="itHCs6bB" text="I'm delivering {?TARGET_HERO.GENDER}her{?}him{\?} as I promised."/>
-    <string id="ithcVNfA" text="Загін {CLAN_NAME}{.v_rod}"/>
+    <string id="ithcVNfA" text="{.m}Загін{.R_n21_u_p} {CLAN_NAME}{.v_rod}"/>
     <string id="ITqVF9i4" text="You know {CURRENT_LIEGE.NAME} asks you to do dishonorable things, and no oath binds you to doing evil."/>
     <string id="ItS9F61H" text="You told {CHILD.NAME} that any young noble worth {?CHILD.GENDER}her{?}his{\?} salt should be able to bring down a deer from fifty paces away, or hit a rabbit on the run."/>
     <string id="ItueKmqd" text="Your clan is now at war with the {QUEST_GIVER_SETTLEMENT_FACTION}. You contract with {QUEST_GIVER.LINK} is canceled."/>
@@ -4420,7 +4420,7 @@
     <string id="wGAmNQGE" text="У {CHARACTER.NAME} не так багато досвіду в цьому умінні, щоб я зміг {?CHARACTER.GENDER}їй{?}йому{\?} чимось допомогти. Може попрацюємо над чимось іншим?"/>
     <string id="wglTyBbx" text="Thank you, friend. Go in peace.[ib:normal][if:convo_approving]"/>
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement."/>
-    <string id="WhHDg7ag" text="Загін {MALE_LESSER_NOBLE_NAME}{.v_rod}"/>
+    <string id="WhHDg7ag" text="{.m}Загін{.R_n21_u_p} {MALE_LESSER_NOBLE_NAME}{.v_rod}"/>
     <string id="wI393cla" text="Превентивна медицина"/>
     <string id="WIb9VvEM" text="Collected Troops"/>
     <string id="WJ7SnBgN" text="Effects settlement's garrison."/>
