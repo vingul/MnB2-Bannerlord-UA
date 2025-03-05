@@ -961,7 +961,7 @@
     <string id="kX8svveF" text="This item's cost is near it's average price"/>
     <string id="kx8ZfaST" text="All right. So how much do you value your life?[ib:hip][if:convo_bared_teeth]"/>
     <string id="kXno6ZuU" text="Battle finished..."/>
-    <string id="kyiibFu2" text="You have won the battle!"/>
+    <string id="kyiibFu2" text="Ви виграли битву!"/>
     <string id="kZ7gLqMz" text="If auto recruitment is enabled, the garrison will recruit troops from notables in the town center and nearby villages. The costs will be paid by the settlement owner."/>
     <string id="KZAQHSa2" text="Yet the prosperity is clearly not benefiting everyone equally. People seem angry, complaining endlessly about new rural migrants, rising prices, and those who are profiting more than others."/>
     <string id="L1Q4AysI" text="Profit"/>
@@ -1041,7 +1041,7 @@
     <string id="MfnYoLdc" text="Expenses"/>
     <string id="MGv4Uabd" text="You bet {BET_AMOUNT} on yourself but you have been defeated."/>
     <string id="mGWrSJLE" text="You cannot disband an army while it's in a map event."/>
-    <string id="mhAr3dfG" text="Quest Activated: {QUEST_TITLE}"/>
+    <string id="mhAr3dfG" text="Розпочато завдання: {QUEST_TITLE}"/>
     <string id="MHJCuM3N" text="Halt! Your foreign feet on this sacred land offend our ancestors. What are we going to do about that?[rf:convo_mocking_revenge]"/>
     <string id="mieKgbp8" text="Daily Rate Of Fire"/>
     <string id="minuteabbr" text="m"/>
@@ -1079,7 +1079,7 @@
     <string id="n3e3g6Rq" text="Поставити"/>
     <string id="N5fmlTza" text="{LEFT}, {RIGHT}"/>
     <string id="N6O2GtTK" text="Refining"/>
-    <string id="n6Q6vv5t" text="You plundered {GOLD} gold."/>
+    <string id="n6Q6vv5t" text="Ви забрали {GOLD} золота."/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are pulling back."/>
     <string id="N7yWipWU" text="River Crossing Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Cavalry suffer medium penalty while attacking.{newline}• Horse archers suffer minor penalty while attacking."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
@@ -1215,7 +1215,7 @@
     <string id="PH7pkve4" text="{ISSUE_NAME}: Your troops are resolving this problem."/>
     <string id="PhF8wNaG" text="Can't Use On Horseback"/>
     <string id="PHkC8Gia" text="Продати"/>
-    <string id="PhoKHbhd" text="Battle won. Press {leave_key} to view results"/>
+    <string id="PhoKHbhd" text="Битву виграно. Натисніть {leave_key}, щоб переглянути результати"/>
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}."/>
     <string id="PiHpR4QL" text="Одноручна зброя"/>
     <string id="PitdvCJI" text="Change Governor"/>
@@ -1531,7 +1531,7 @@
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>
     <string id="vnmy8Bjl" text="Total Expenses "/>
-    <string id="vo867CHX" text="Completed quests in the last year"/>
+    <string id="vo867CHX" text="Виконані завдання за останній рік"/>
     <string id="VOYhAyJh" text="Натисніть '{MODIFIER_KEY}' + '{CLICK_KEY}', щоб слідувати."/>
     <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Khatun{?}Khan{\?}"/>
     <string id="VpCa9ATa" text="Right. You're dead.[ib:aggressive][if:convo_insulted]"/>
@@ -1723,7 +1723,7 @@
     <string id="zg0q1aqD" text="You cannot disband a garrison party"/>
     <string id="Zg5Zmgui" text="We are returning from the market at {TOWN} back to our village."/>
     <string id="ZhiB1EOM" text="Prisoner at {SETTLEMENT_NAME}"/>
-    <string id="zkJPFtYn" text="Quest Completed: {QUEST_TITLE}"/>
+    <string id="zkJPFtYn" text="Виконано завдання: {QUEST_TITLE}"/>
     <string id="ZlJIpfWg" text="Speed bonus: {SPEED_BONUS}%."/>
     <string id="ZMdOAbTd" text="Армія, що атакувала"/>
     <string id="zNekjGmR" text="Recruit Prisoner"/>
