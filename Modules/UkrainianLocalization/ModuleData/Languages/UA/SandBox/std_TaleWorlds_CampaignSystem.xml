@@ -296,7 +296,7 @@
     <string id="3lfS4iCZ" text="Добре запряжений"/>
     <string id="3lxq5fvI" text="Pay a {AMOUNT}{GOLD_ICON} bribe to go to the lord's hall."/>
     <string id="3m2tQF9F" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду воїнам коли завершується будівництво облогового знаряддя."/>
-    <string id="3mJMAX0Y" text="{VALUE} воїн{#GET_PLURAL_VALUE(VALUE)}{#}а{#}ів{\#} до групи, що штурмує укриття."/>
+    <string id="3mJMAX0Y" text="{VALUE} воїн{#GET_PLURAL_VALUE(VALUE)}{#}а{#}ів{\#} до групи, що штурмує лігво."/>
     <string id="3MJSuB8G" text="So... In our lands, it's customary to pay us a tax for our protection. Unless you want a fight."/>
     <string id="3ML4EkWY" text="Виконроб"/>
     <string id="3MLtqFPt" text="Громовий розряд"/>
@@ -1161,7 +1161,7 @@
     <string id="bKfaMFVK" text="You can also send me a recruiter: a trustworthy companion who is good at leading men, and also enough of a rogue to win the trust of other rogues...[if:convo_undecided_open][ib:confident]"/>
     <string id="bkoJ57h3" text="Enter the Town"/>
     <string id="bKsb7tcr" text="Candidly, what do you think of our liege, {FIRST_NAME}?"/>
-    <string id="BkTiRPT4" text="Training Fields"/>
+    <string id="BkTiRPT4" text="Тренувальні полігони"/>
     <string id="BktSNgY4" text="We oppose this proposal"/>
     <string id="bkZOcbGu" text="Your men are still getting us the tools. I ask for your patience. We very much appreciate this."/>
     <string id="bLAw2di4" text="{VALUE}% швидкості лікування."/>
@@ -2329,7 +2329,7 @@
     <string id="ITboR6C1" text="The men say we're running low on food. We should be more careful of that."/>
     <string id="iTgVn26a" text="You have failed to bring the weapons to {QUEST_GIVER.LINK} in time."/>
     <string id="itHCs6bB" text="I'm delivering {?TARGET_HERO.GENDER}her{?}him{\?} as I promised."/>
-    <string id="ithcVNfA" text="{CLAN_NAME}{.o} Party"/>
+    <string id="ithcVNfA" text="Загін {CLAN_NAME}{.v_rod}"/>
     <string id="ITqVF9i4" text="You know {CURRENT_LIEGE.NAME} asks you to do dishonorable things, and no oath binds you to doing evil."/>
     <string id="ItS9F61H" text="You told {CHILD.NAME} that any young noble worth {?CHILD.GENDER}her{?}his{\?} salt should be able to bring down a deer from fifty paces away, or hit a rabbit on the run."/>
     <string id="ItueKmqd" text="Your clan is now at war with the {QUEST_GIVER_SETTLEMENT_FACTION}. You contract with {QUEST_GIVER.LINK} is canceled."/>
@@ -2488,7 +2488,7 @@
     <string id="jrPxbfnb" text="You did me a good turn. I hope I can repay you.[if:convo_focused_happy]"/>
     <string id="jRslIaiU" text="You can't recall a clan member while you are a prisoner."/>
     <string id="JrT9bBEK" text="{FACTION_LIEGE}'s {ETHNIC_TERM}"/>
-    <string id="JrTtFFfe" text="{VALUE}% дальності виявлення укриття."/>
+    <string id="JrTtFFfe" text="{VALUE}% дальності виявлення лігва."/>
     <string id="JsdkJbDL" text="{VALUE}% штрафу до точності метальної зброї при їзді верхи."/>
     <string id="JSI0FVZ1" text="You decided to forgive the villagers' back payments. The headman thanked you, as the villagers were already suffering."/>
     <string id="Jt0HGGlR" text="This is fair. Join us"/>
@@ -3267,7 +3267,7 @@
     <string id="p14S00jq" text="Consequences? You would shed the blood of {RULER.NAME}'s loyal servants just for raising their voices against oppression?[if:convo_confused_normal][ib:closed]"/>
     <string id="p1buAbOQ" text="The harvest has been poor, and rats have eaten much of our stores. We can eat less and tighten our belts, but if we don't have seed grain left over to plant, we'll starve next year.[if:convo_dismayed][ib:demure2]"/>
     <string id="p1Y3EU5O" text="Train Militia"/>
-    <string id="P2eOw2sQ" text="{VALUE} до відносин з кланом, який володіє поселенням, найближчим до зачищеного укриття. +1 до вірності міста, якщо це ваш клан."/>
+    <string id="P2eOw2sQ" text="{VALUE} до відносин з кланом, який володіє поселенням, найближчим до зачищеного лігва. +1 до вірності міста, якщо це ваш клан."/>
     <string id="p2rTaKo8" text="You have no claim to the throne. Even in the unlikely case that others follow you, another usurper will just rise up to defeat you."/>
     <string id="P2VNGJDa" text="Extortion by Deserters at {SETTLEMENT}"/>
     <string id="p2WPU1CU" text="Very good then. Now I know whom I slay."/>
@@ -4420,7 +4420,7 @@
     <string id="wGAmNQGE" text="У {CHARACTER.NAME} не так багато досвіду в цьому умінні, щоб я зміг {?CHARACTER.GENDER}їй{?}йому{\?} чимось допомогти. Може попрацюємо над чимось іншим?"/>
     <string id="wglTyBbx" text="Thank you, friend. Go in peace.[ib:normal][if:convo_approving]"/>
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement."/>
-    <string id="WhHDg7ag" text="{MALE_LESSER_NOBLE_NAME}{.o} Party"/>
+    <string id="WhHDg7ag" text="Загін {MALE_LESSER_NOBLE_NAME}{.v_rod}"/>
     <string id="wI393cla" text="Превентивна медицина"/>
     <string id="WIb9VvEM" text="Collected Troops"/>
     <string id="WJ7SnBgN" text="Effects settlement's garrison."/>
@@ -4642,7 +4642,7 @@
     <string id="xSaVRIN7" text="{QUEST_GIVER.LINK} has lost the ownership of {TARGET_CITY}. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="xSKhyecU" text="{VALUE}% платні бандитам."/>
     <string id="XsQ5rabf" text="The first thing that a steward must know is to how to count add numbers together. "/>
-    <string id="xss7eP0f" text="{PARTY} is raiding {SETTLEMENT}"/>
+    <string id="xss7eP0f" text="{PARTY} грабує {SETTLEMENT}{.v_zna}"/>
     <string id="XSWH8Z5B" text="I have no wish to fight you.[ib:closed][if:idle_angry]"/>
     <string id="xTDnna2J" text="{VALUE}% приближення для луків."/>
     <string id="xTKHO53L" text="This is outrageous. I declare that from now on that there shall be no price fixing."/>
