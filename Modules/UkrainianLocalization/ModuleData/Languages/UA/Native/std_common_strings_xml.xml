@@ -475,7 +475,7 @@
     <string id="Ghz90npw" text="Ваша сім'я володіла кількома кіньми в міській стайні, тому ви взяли на себе відповідальність за їхній догляд. Часто вечорами ви виводили їх за міські мури та влаштовували перегони на полях, змагаючись з іншими дітьми."/>
     <string id="gJG0xmAq" text="{QUEST_GIVER.LINK}'s village {QUEST_SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="GM3tAYMr" text="Вчинити ворожу дію"/>
-    <string id="GmcgoiGy" text="Торгівля"/>
+    <string id="GmcgoiGy" text="{.f}Торгівля{.R_n10}"/>
     <string id="GmU1to3Y" text="Statistics"/>
     <string id="GNdVXMue" text="Scarf"/>
     <string id="gQ2tAvCz" text="Фермери"/>
@@ -786,7 +786,7 @@
     <string id="PeozdF9h" text="Stitched Cured Leather Coat"/>
     <string id="pgbC8UkU" text="Rebellion"/>
     <string id="pgw7LMRo" text="Server over capacity."/>
-    <string id="PiHpR4QL" text="Одноручна зброя"/>
+    <string id="PiHpR4QL" text="{.f}Одноручний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="PjO7oY16" text="{.f}Стургія{.R_n10}"/>
     <string id="pKf56MdS" text="Bagai"/>
     <string id="PKhcPbBX" text="Ваша сім'я була частиною кочового клану, що блукав пустинними землями Нахаси в пошуках води та пасовищ для кіз і верблюдів."/>
@@ -928,7 +928,7 @@
     <string id="t2Oh6uty" text="Welcome Message"/>
     <string id="T2POVRtg" text="Auxiliary Armor with Straps"/>
     <string id="t3tq0eoW" text="Parties"/>
-    <string id="t78atYqH" text="Дворучна зброя"/>
+    <string id="t78atYqH" text="{.f}Дворучний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="T79exjaP" text="Зменшена шкода по щиту"/>
     <string id="T7m7ReTq" text="полювали на дрібну дичину."/>
     <string id="TAnabTdy" text="Точність"/>
