@@ -298,7 +298,7 @@
     <string id="abV5bff6" text="You capture a pawn."/>
     <string id="acbkKbT0" text="We should do something different."/>
     <string id="aCkzVUCR" text="Очки здоров'я: "/>
-    <string id="aCP5ZBbp" text="Relation:"/>
+    <string id="aCP5ZBbp" text="Відношення:"/>
     <string id="ADJQa8am" text="Mercenaries cannot support other clans."/>
     <string id="adtqbbGU" text="Distance to Army Leader"/>
     <string id="aebVkHyA" text="Give up the fight?"/>
@@ -779,7 +779,7 @@
     <string id="HNBAw1uO" text="{PARTY} has gained {AMOUNT_TO_ADD} renown. {CLAN}'s new renown is {NEW_RENOWN}."/>
     <string id="HNqy4Ctc" text="Cannot kick a companion who is solving an issue."/>
     <string id="hoebgN2u" text="If you proceed, selected clan members will start traveling and they will not be available until they arrive {SETTLEMENT_NAME}. Are you sure?"/>
-    <string id="homesettlement" text="Home"/>
+    <string id="homesettlement" text="Дім"/>
     <string id="hourabbr" text="h"/>
     <string id="HP9wMk1T" text="Can't access party screen right now!"/>
     <string id="HQgSPtK6" text="Are you sure you want to exit multiplayer?"/>
@@ -803,7 +803,7 @@
     <string id="I3Vfk5mz" text="twentieth"/>
     <string id="I42QtISB" text="Cannot kick main hero from clan."/>
     <string id="I4BbOX46" text="You are in {ARMY_LEADER}{.o} army."/>
-    <string id="i4g81l3E" text="Relation: {NUM}"/>
+    <string id="i4g81l3E" text="Відношення: {NUM}"/>
     <string id="i5ROjI8K" text="On {DAY_OF_YEAR}, {YEAR}, you found the artifact which Tacteos mentioned."/>
     <string id="I6OJtaMT" text="Ніколи"/>
     <string id="I8xMpWxO" text="Сміливість"/>
@@ -1327,7 +1327,7 @@
     <string id="rFvEZJu7" text="{ITEM_NAME} has been added to {PLAYER.LINK}'s inventory."/>
     <string id="rgmnL6sF" text="Desert Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
     <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to help defend the settlement from attackers."/>
-    <string id="RGqPxabq" text="Power"/>
+    <string id="RGqPxabq" text="Влада"/>
     <string id="rHSjMjWX" text="Resolve Decision"/>
     <string id="RiZ9lNAe" text="Рівень стін"/>
     <string id="RjgBIYvH" text="&lt;b&gt;Improved Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than the normal one."/>
@@ -1503,7 +1503,7 @@
     <string id="UX7reJ3K" text="We must rush to defend our siege machines lest the enemy destroy them."/>
     <string id="UxD6lPXa" text="You have gained {INFLUENCE} influence. New influence is {NEW_INFLUENCE}."/>
     <string id="UxyIkWah" text="Mercenaries cannot annex settlements."/>
-    <string id="uYFd4meY" text="Quest Given By"/>
+    <string id="uYFd4meY" text="Завдання дав"/>
     <string id="Uzsnek6O" text="Auto Recruitment"/>
     <string id="V03gbccF" text="You hit a friendly troop!"/>
     <string id="V0Kw3O7c" text="Навчання"/>
