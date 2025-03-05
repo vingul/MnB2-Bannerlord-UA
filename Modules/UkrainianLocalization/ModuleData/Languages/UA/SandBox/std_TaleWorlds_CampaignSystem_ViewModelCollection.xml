@@ -16,10 +16,10 @@
     <string id="1l4kpBDK" text="Failed to Apply Changes"/>
     <string id="1qm74K2t" text="Successful raids by {FACTION}"/>
     <string id="1UbocG5B" text="Denounce your rights and responsibilities from this fief by giving it back to the realm."/>
-    <string id="1xf8rHLH" text="You don't have any recruitable prisoners."/>
+    <string id="1xf8rHLH" text="У вас немає полонених, яких можна завербувати."/>
     <string id="2abtb4xu" text="Independent"/>
     <string id="2ckyCKR7" text="Reserve"/>
-    <string id="2Cq3tViJ" text="Party Troop Size Limit"/>
+    <string id="2Cq3tViJ" text="Ліміт кількості воїнів загону"/>
     <string id="2GWR9Cba" text="Hearth"/>
     <string id="2Hbr4TEj" text="Item name cannot start or end with a white space."/>
     <string id="2lFwF07j" text="Change Name"/>
@@ -146,7 +146,7 @@
     <string id="fI7a7RoE" text="Місткість інвентарю"/>
     <string id="FjJi1DJb" text="This hero is already a part of an another party."/>
     <string id="flxDkoMh" text="Stage Complete"/>
-    <string id="fpE7BQ7f" text="You don't have any upgradable troops."/>
+    <string id="fpE7BQ7f" text="У вас немає воїнів, яких можна було б покращити."/>
     <string id="fPoB2u5m" text="Character name should be between {MIN} and {MAX} characters"/>
     <string id="FYJC7cDD" text="Риса(-и)"/>
     <string id="fz2kQjFS" text="Виберіть народність свого персонажа:"/>
@@ -287,7 +287,7 @@
     <string id="OyyJSyIX" text="{FACTION_1} is paying {DENAR}{GOLD_ICON} as tribute to {FACTION_2}"/>
     <string id="P0To9aRW" text="Travel time: {TRAVEL_TIME}"/>
     <string id="P1hk0m4o" text="Character name cannot contain special characters"/>
-    <string id="P5YtNXHR" text="Загін {LEADER.NAME}{.v_rod}"/>
+    <string id="P5YtNXHR" text="{.m}Загін{.R_n21_u_p} {LEADER.NAME}{.v_rod}"/>
     <string id="p7raHA9x" text="Refinement"/>
     <string id="pBVbKYwo" text="You will lose the ownership of the alley and the troops in it. Are you sure?"/>
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}"/>
@@ -296,11 +296,11 @@
     <string id="pkbUiKFJ" text="Currently fighting an enemy."/>
     <string id="pnFgwLYG" text="Current Wage"/>
     <string id="POjDNVW3" text="Forging"/>
-    <string id="PpbopMjT" text="Transfer All Main Prisoners"/>
+    <string id="PpbopMjT" text="Перевести всіх основних полонених"/>
     <string id="PRE5RKpp" text="You must rest and spend time before you can do this action."/>
     <string id="pRP2sOWP" text="L-III : {BONUS}"/>
     <string id="PS02CqPu" text=" {PARTY_MEMBER.LINK} (Health: {MEMBER_HEALTH}%)"/>
-    <string id="Pvx4TU66" text="Transfer All Main Troops"/>
+    <string id="Pvx4TU66" text="Перевести всіх основних воїнів"/>
     <string id="Q0j1umAt" text="Requirement: {REQUIREMENT_NAME}"/>
     <string id="q1DVNQS7" text="Under Attack! ({RESPONSE_TIME} {?RESPONSE_TIME&gt;1}days{?}day{\?} left.)"/>
     <string id="q1J4a8rr" text="Швидкість вивчення"/>
@@ -332,7 +332,7 @@
     <string id="Ra17aK4e" text="Current Capital"/>
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}"/>
     <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
-    <string id="RClxLG6N" text="Holding"/>
+    <string id="RClxLG6N" text="Очікує"/>
     <string id="recruitVerb" text="Recruit"/>
     <string id="rgqA29b8" text="You don't have enough {SKILL_NAME} skill to equip this item"/>
     <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}."/>
@@ -357,8 +357,8 @@
     <string id="Sls0KQVn" text="Elections"/>
     <string id="slzfQzl3" text="This hero is lost"/>
     <string id="sqdzHOPe" text="Class"/>
-    <string id="Srr4rOSq" text="Transfer All Other Prisoners"/>
-    <string id="sVsaWZjg" text="Transfer All Other Troops"/>
+    <string id="Srr4rOSq" text="Перемістити всіх полонених"/>
+    <string id="sVsaWZjg" text="Перемістити всіх воїнів"/>
     <string id="sVZaIPoQ" text="Swing Speed"/>
     <string id="sWWxrafa" text="Current Limit"/>
     <string id="Syha8biz" text="Order Can Not Be Completed"/>
@@ -381,7 +381,7 @@
     <string id="UbZL2BJQ" text="Hitpoints"/>
     <string id="udPWHmOm" text="Difficulty:"/>
     <string id="uGMGjUZy" text="Send your clan members to {SETTLEMENT_NAME}"/>
-    <string id="UHLcmf9A" text="Party Prisoner Size Limit"/>
+    <string id="UHLcmf9A" text="Ліміт кількості полонених загону"/>
     <string id="uipNpzVw" text="Cannot disband the army right now."/>
     <string id="uJro3Bua" text="Over Limit"/>
     <string id="US7UmBbt" text="Armor Tier"/>
@@ -441,7 +441,7 @@
     <string id="ZcybPatO" text="Weapon Length"/>
     <string id="zduu7dpz" text="Prisoners are not recruitable in this screen."/>
     <string id="Zemk86FK" text="There is no town conquered by {FACTION}"/>
-    <string id="zFDoDbNj" text="Count"/>
+    <string id="zFDoDbNj" text="Кількість"/>
     <string id="zgnEagTJ" text="Halted"/>
     <string id="ZIn8W5ZG" text="Worth"/>
     <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
