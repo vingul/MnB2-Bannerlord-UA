@@ -159,7 +159,7 @@
     <string id="8ba4tpRU" text="Jawwal"/>
     <string id="8bwpVpgy" text="перемога над ворогом в бою."/>
     <string id="8hDoWBIa" text="Commoner Shirt"/>
-    <string id="8HMyTKF6" text="{.p}Вландієць{.R_n22_a_p}"/>
+    <string id="8HMyTKF6" text="{.f}Вландія{.R_n10}"/>
     <string id="8nNLS96w" text="Reinforced Oval Shield"/>
     <string id="8OkPHu4f" text="Ні"/>
     <string id="8SNS2wF9" text="Turban"/>
@@ -229,7 +229,7 @@
     <string id="arCGUuR5" text="The settlement is under siege."/>
     <string id="ArPvuBYK" text="Woven Turban"/>
     <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
-    <string id="aseraimembers" text="{.p}Асерай{.R_n20_p}"/>
+    <string id="aseraimembers" text="{.m}Султанат{.R_n20_u} асераїв"/>
     <string id="aSNUtnbH" text="{.m}Темун{.R_n20_a_ke}"/>
     <string id="at4MdVBJ" text="Fathid"/>
     <string id="aTncHUfL" text="стояли на варті в гарнізоні."/>
@@ -260,7 +260,7 @@
     <string id="beMSPAOG" text="Leather Studded Helm over Headcloth"/>
     <string id="bF7HmNGQ" text="Khuzait Khanate"/>
     <string id="bfQLwMUp" text="Clans"/>
-    <string id="bgjiFSHZ" text="{.p}Баттанець{.R_n22_p}"/>
+    <string id="bgjiFSHZ" text="{.f}Баттанія{.R_n10}"/>
     <string id="bGyrPe8c" text="Production"/>
     <string id="bHbR5Mgy" text="Losys"/>
     <string id="bhdkegZ4" text="У будь-якому місті вистачало проєктів, які потребували як кваліфікованої, так і некваліфікованої робочої сили. Там ви дізналися, як влаштовані лебідки та конструюються риштування, як обтесувати дошки та каміння, як їх припасовували та інші навички."/>
@@ -299,7 +299,7 @@
     <string id="bz7Glmsm" text="Уміння"/>
     <string id="c2pdihCB" text="Caravans"/>
     <string id="C4n1rgBC" text="Seega"/>
-    <string id="C4qjBqLO" text="{.p}Стургієць{.R_n22_p}"/>
+    <string id="C4qjBqLO" text="{.f}Стургія{.R_n10}"/>
     <string id="c7UNJSNi" text="Woven Leather Shoulders"/>
     <string id="C8bVbM65" text="Tunic with Leather Vest"/>
     <string id="CAO0bycV" text="Heavy Tunic"/>
@@ -801,7 +801,7 @@
     <string id="pRbKbPK3" text="Vadrios"/>
     <string id="PtfbqMeg" text="Brigandine over Mail"/>
     <string id="PTKyNh2O" text="Legionary Mail"/>
-    <string id="PUjDWe5j" text="Народність"/>
+    <string id="PUjDWe5j" text="Походження"/>
     <string id="PuRfbiW3" text="Erdurand"/>
     <string id="PVgSGCYK" text="Nasal Helmet over Mail Coif"/>
     <string id="pVkchhqX" text="{VICTIM.NAME} was lost."/>
@@ -1032,7 +1032,7 @@
     <string id="VhbasI9J" text="Castor"/>
     <string id="vimhFdZp" text="Heavy Nasalhelm over Leather"/>
     <string id="ViYdZUbQ" text="Disband Army"/>
-    <string id="vJOWy1QF" text="{.p}Хузаїт{.R_n20_p}"/>
+    <string id="vJOWy1QF" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="VkRIefyW" text="Luxury Scale Armor"/>
     <string id="vl2tgsKa" text="Urkhun"/>
     <string id="vLjgcdgB" text="Snow"/>
