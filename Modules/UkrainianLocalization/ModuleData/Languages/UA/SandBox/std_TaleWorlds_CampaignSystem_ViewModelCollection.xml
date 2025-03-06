@@ -149,7 +149,7 @@
     <string id="fpE7BQ7f" text="У вас немає воїнів, яких можна було б покращити."/>
     <string id="fPoB2u5m" text="Character name should be between {MIN} and {MAX} characters"/>
     <string id="FYJC7cDD" text="Риса(-и)"/>
-    <string id="fz2kQjFS" text="Виберіть народність свого персонажа:"/>
+    <string id="fz2kQjFS" text="Виберіть походження свого персонажа:"/>
     <string id="FzbeSkBb" text="One of your alleys has lost its leader or is lacking troops. It will be abandoned after {DAYS} days have passed. You can assign a new clan member from the clan screen or travel to the alley to add more troops, if you wish to keep it. Any troops left in the alley will be lost when it is abandoned."/>
     <string id="g08mptth" text="Moving to a party to be the new leader"/>
     <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom."/>
@@ -234,7 +234,7 @@
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}"/>
     <string id="LxWVtDF0" text="Manage Workshop"/>
     <string id="m1Yynagz" text="Page {NUMBER}"/>
-    <string id="MaHMOzL2" text="Народність персонажа"/>
+    <string id="MaHMOzL2" text="Походження персонажа"/>
     <string id="McJjNM50" text="Вартість: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Макс. кількість здоров'я"/>
     <string id="mdvnjI72" text="Troops are not upgradable in this screen."/>
