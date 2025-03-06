@@ -1161,7 +1161,7 @@
     <string id="bKfaMFVK" text="You can also send me a recruiter: a trustworthy companion who is good at leading men, and also enough of a rogue to win the trust of other rogues...[if:convo_undecided_open][ib:confident]"/>
     <string id="bkoJ57h3" text="Enter the Town"/>
     <string id="bKsb7tcr" text="Candidly, what do you think of our liege, {FIRST_NAME}?"/>
-    <string id="BkTiRPT4" text="Тренувальні полігони"/>
+    <string id="BkTiRPT4" text="{.p}Тренувальний{.R_adj} {.p}полігон{.R_n20_p}"/>
     <string id="BktSNgY4" text="We oppose this proposal"/>
     <string id="bkZOcbGu" text="Your men are still getting us the tools. I ask for your patience. We very much appreciate this."/>
     <string id="bLAw2di4" text="{VALUE}% швидкості лікування."/>
@@ -1613,7 +1613,7 @@
     <string id="dZDFxUvU" text="{A0}"/>
     <string id="e0HktW6w" text="I fear I cannot accept such a mission at the moment."/>
     <string id="e1sSXEOh" text="This is excellent news. If you could bring the goods, it would be an immense help, and the merchants would have to lower their prices. Thank you.[if:convo_excited][ib:hip2]"/>
-    <string id="E20BBKYo" text="{TOWN_NAME} has been besieged by {FACTION_NAME}."/>
+    <string id="E20BBKYo" text="{TOWN_NAME} було взято в облогу {FACTION_NAME}{.v_oru}."/>
     <string id="e2N77Ufi" text="{VALUE}% шкоди облоговим знаряддям оборонців."/>
     <string id="E3b8iKjc" text="allowing the ruler to appoint magistrates"/>
     <string id="E3BsEDav" text="Financial Help for Parties"/>
