@@ -25,7 +25,7 @@
     <string id="dfAE3liA" text="Клан {CLAN_NAME} приєднався до фракції {FACTION}."/>
     <string id="dmqy8OyY" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} нечесно веде справи."/>
     <string id="dzJOruIi" text="Район «{COMMON_AREA}» в {SETTLEMENT}{.v_mis} переходить до {HERO.LINK}{.v_rod}."/>
-    <string id="EHFibjkM" text="Місто {TOWN_NAME} було взято в облогу армією {LORD.LINK}{.v_rod} з {FACTION_NAME}{.v_rod}!"/>
+    <string id="EHFibjkM" text="{TOWN_NAME} було взято в облогу армією {LORD.LINK}{.v_rod} з {FACTION_NAME}{.v_rod}!"/>
     <string id="ELFgdGJZ" text="{MOTHER.LINK} завагітніла."/>
     <string id="eMRMptST" text="{MOTHER.LINK} народила дитину."/>
     <string id="ExbVzTZA" text="Клан {CLAN} буде битися на боці {KINGDOM}{.v_rod}."/>
@@ -41,7 +41,7 @@
     <string id="jZcV4gI7" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} став причиною поразки у битві через своє боягузство."/>
     <string id="KbakhGqB" text="{HERO_1.LINK} переміг загін {HERO_2.LINK}{.v_rod}."/>
     <string id="kMwv4QJK" text="{INSULTER.LINK} і {INSULTEE.LINK} посварилися через сватання."/>
-    <string id="kqwNCCbZ" text="Місто {TOWN_NAME} було взято в облогу армією {LORD.LINK}{.v_rod} з {FACTION_NAME}{.v_rod}!"/>
+    <string id="kqwNCCbZ" text="{TOWN_NAME} було взято в облогу армією {LORD.LINK}{.v_rod} з {FACTION_NAME}{.v_rod}!"/>
     <string id="ksr1bSTC" text="{PARTY} атакує {SETTLEMENT}{.v_zna}."/>
     <string id="MoYYusXJ" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} спричинив поразку у битві, не виконавши накази."/>
     <string id="nbVW2cJ8" text="Поселення {SETTLEMENT} атаковане армією {LORD.LINK}{.v_rod} з {FACTION_NAME}{.v_rod}"/>
