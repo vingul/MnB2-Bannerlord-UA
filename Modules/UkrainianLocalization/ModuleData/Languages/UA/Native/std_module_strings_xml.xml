@@ -581,7 +581,7 @@
     <string id="EL7lZLXN" text="Can Knockdown"/>
     <string id="elhSbQfW" text="my kinsman {REFERING_HERO.LINK}"/>
     <string id="EMCISbYJ" text="Бойове спорядження"/>
-    <string id="empiremembers" text="{.p}Імперець{.R_n22_p}"/>
+    <string id="empiremembers" text="{.f}Імперія{.R_n10_p1}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
     <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} умінь&#10; до {SKILL_NAME}{.v_rod}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
