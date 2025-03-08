@@ -280,7 +280,7 @@
     <string id="A38xbjqm" text="Engage"/>
     <string id="a3hmB91k" text="Будуйте та використовуйте облогові знаряддя. Успішно використовуйте їх при нападі та обороні."/>
     <string id="A3T5z4Mv" text="Defensive"/>
-    <string id="a3uKkLez" text="{LORD.LINK} знаходиться в дорозі поблизу {SETTLEMENT_NAME}{.v_rod}"/>
+    <string id="a3uKkLez" text="{LORD.LINK} знаходиться в дорозі поблизу {.S}{SETTLEMENT_NAME}{.v_rod}"/>
     <string id="a47CpGXN" text="Power Levels"/>
     <string id="a5j1v7tM" text="We've heard what happened to others who refused to join your cause. We've no desire to end up like them and no means to fight you. We'll wear your colors from now until it pleases you no more."/>
     <string id="a6D6Ga2F" text="Weapon Reach: "/>
@@ -294,7 +294,7 @@
     <string id="aayrvLOX" text="Be on your way. Safe journeys."/>
     <string id="abbALYlp" text="Ballista"/>
     <string id="aBgnQ1MO" text="Assign Governor"/>
-    <string id="aBssWwIu" text="Якщо ви продовжите, {GOVERNOR.NAME} стане новим губернатором {SETTLEMENT_NAME}{.v_rod}. Ви впевнені?"/>
+    <string id="aBssWwIu" text="Якщо ви продовжите, {GOVERNOR.NAME} стане новим губернатором {.S}{SETTLEMENT_NAME}{.v_rod}. Ви впевнені?"/>
     <string id="abV5bff6" text="You capture a pawn."/>
     <string id="acbkKbT0" text="We should do something different."/>
     <string id="aCkzVUCR" text="Очки здоров'я: "/>
@@ -583,7 +583,7 @@
     <string id="EMCISbYJ" text="Бойове спорядження"/>
     <string id="empiremembers" text="{.f}Імперія{.R_n10_p1}"/>
     <string id="eMsA4Vk0" text="This party will grow in size. It's current size target is {TARGET_SIZE}"/>
-    <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} умінь&#10; до {SKILL_NAME}{.v_rod}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
+    <string id="EMVLtu5L" text="{HERO.LINK} отримує {GAINED_POINTS} {#GET_PLURAL_VALUE(GAINED_POINTS)}очко{#}очки{#}очків{\#} умінь&#10; до {.S}{SKILL_NAME}{.v_rod}. Поточний рівень: {UPDATED_SKILL_LEVEL}."/>
     <string id="eMwbzp49" text="Battle lost..."/>
     <string id="enhza8zr" text="Фракція"/>
     <string id="eNQgzubm" text="Бийтеся в пішому порядку. Пересувайтеся по карті пішки."/>
@@ -1671,7 +1671,7 @@
     <string id="ygY1oKQD" text="We are at your service, {?PLAYER.GENDER}madam{?}sir{\?}. Point us in the direction of those who need hurting, and we'll do the rest.[ib:convo_approving]"/>
     <string id="YhLweMrP" text="Armors"/>
     <string id="Yj0cQVLH" text="В атаку!"/>
-    <string id="yjXoftYs" text="В останнє бачили {?IS_IN_SETTLEMENT}в {SETTLEMENT}{.v_mis}{?}біля {SETTLEMENT}{.v_rod}{\?}."/>
+    <string id="yjXoftYs" text="В останнє бачили {?IS_IN_SETTLEMENT}в {.S}{SETTLEMENT}{.v_mis}{?}біля {.S}{SETTLEMENT}{.v_rod}{\?}."/>
     <string id="YK3nXtoM" text="Friends"/>
     <string id="YkagFP1z" text="my mother {REFERING_HERO.LINK}"/>
     <string id="ykZLXKH3" text="Renown: {RENOWN}"/>
