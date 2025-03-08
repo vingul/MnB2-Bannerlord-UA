@@ -1638,7 +1638,7 @@
     <string id="eaQxeRh6" text="A boy runs out of the village and asks you to talk to the leader of the poachers. The villagers want to avoid a fight outside their homes."/>
     <string id="eAzwpqE1" text="Force peasants to give you goods"/>
     <string id="ebAZrm70" text="Peace Offer"/>
-    <string id="Ebb7aH3T" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} потрапив у полон до {CAPTURER_LORD.LINK}{.v_rod}{?CAPTURER_LORD_HAS_FACTION_LINK} з {CAPTURER_LORD_FACTION_LINK}{.v_rod}{?}{\?}."/>
+    <string id="Ebb7aH3T" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} {?PRISONER_LORD.GENDER}потрапила{?}потрапив{\?} у полон до {.S}{CAPTURER_LORD.LINK}{.v_rod}{?CAPTURER_LORD_HAS_FACTION_LINK} з {.S}{CAPTURER_LORD_FACTION_LINK}{.v_rod}{?}{\?}."/>
     <string id="EBCV0LcU" text="Lawspeakers"/>
     <string id="eBea9Ext" text="{VALUABLE_ITEM_COUNT} {VALUABLE_ITEM_NAME}{?IS_THERE_OTHER_ITEMS} and {?PLURAL}{OTHER_ITEMS_COUNT}other {OTHER_ITEMS_CATEGORY_PLURAL}{?}an other {OTHER_ITEMS_CATEGORY_SINGULAR}{\?}{?}{\?}"/>
     <string id="EBI3j6O8" text="Sure. You know where to find me."/>
@@ -2032,7 +2032,7 @@
     <string id="gOsori1b" text="Your captors have no more use for you and aren't in a murderous mood, so they let you go."/>
     <string id="GOt2uRcJ" text="In adolescence, {?CHILD.GENDER}she{?}he{\?} began to take on serious responsibilities and compete with adults as a near-equal. {?CHILD.GENDER}She{?}He{\?} managed to..."/>
     <string id="gp1qYbgb" text="Your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
-    <string id="gq8sgb2J" text="{TARGET_HERO.LINK} потрапив у полон до {OTHER_HERO.LINK}{.v_rod}."/>
+    <string id="gq8sgb2J" text="{TARGET_HERO.LINK} {?TARGET_HERO.GENDER}потрапила{?}потрапив{\?} у полон до {.S}{OTHER_HERO.LINK}{.v_rod}."/>
     <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} for {?QUEST_GIVER.GENDER}her{?}his{\?} party. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {MOUNT_COUNT} {PLURAL(MOUNT_NAME)} to {?QUEST_GIVER.GENDER}her{?}him{\?} or one of {?QUEST_GIVER.GENDER}her{?}his{\?} garrison commanders. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the task is done."/>
     <string id="gqboke7l" text="{VALUE} до максимуму загонів в клані."/>
     <string id="gqUtaPRM" text="The huntsman organizes hunts and keeps watch for poachers and thieves. Your child should learn how to handle hunting bows and crossbows and the basics of scouting and tracking."/>
@@ -2151,7 +2151,7 @@
     <string id="HknxaCpK" text="{TARGET_SETTLEMENT_OWNER.FACTION} and {QUEST_GIVER.FACTION} had made peace. Your agreement with {QUEST_GIVER.LINK} is moot."/>
     <string id="HkOatwqw" text="{VALUE}% розходу впливу при голосуванні за пропозиції по королівству, зроблених іншими людьми."/>
     <string id="HKT5MnjP" text="Bailiffs"/>
-    <string id="HkvlHhPN" text="{TARGET_HERO.LINK} потрапив у полон і був запроторений до в'язниці {.S}{SETTLEMENT}{.v_rod}."/>
+    <string id="HkvlHhPN" text="{TARGET_HERO.LINK} {?TARGET_HERO.GENDER}потрапила у полон і була запроторена{?}потрапив у полон і був запроторений{\?} до в'язниці {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="hl4pTsaO" text="Win this tournament"/>
     <string id="hLbn3SBE" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду в день всім воїнам при подорожі з бойовим духом в загоні вище 75."/>
     <string id="HM7auUMA" text="You are my friend, but even so, this is a risky conversation to have."/>
@@ -3437,7 +3437,7 @@
     <string id="q2ZDAm2v" text="{VALUE}% споживання їжі в підконтрольному поселенні під час облоги."/>
     <string id="Q39oLjSu" text="One of the entourage was thrown from a horse on the road. The young {?CHILD.GENDER}woman{?}man{\?} set the broken bone and ensured it healed cleanly."/>
     <string id="q3J9Wb8N" text="Якщо ти готов{?PLAYER.GENDER}а{?}ий{\?} заплатити {GOLD_AMOUNT} {GOLD_ICON}, я негайно ж тебе навчу. Ти впевнений у своєму рішенні?"/>
-    <string id="q3wD0rbq" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {._}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
+    <string id="q3wD0rbq" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
     <string id="q4wWEbsa" text="You decided not to deliver the items after listening to {COUNTER_OFFER_HERO.LINK}."/>
     <string id="q5IMLou4" text="{VALUE}% прибутку від мита в підконтрольному поселенні."/>
     <string id="Q72PJYtf" text="{VALUE} до розміру загону за кожне очко лідерства більше 250."/>
@@ -3560,7 +3560,7 @@
     <string id="qR9bEE6g" text="A building which provides the means required for the manufacture or repair of buildings. Improves project development speed. Also stonemasons reinforce the walls."/>
     <string id="QrAowQ5f" text="You have to collect the revenues first."/>
     <string id="qrej2bOU" text="Our pay has been arriving on time, so rest assured that we've got your back."/>
-    <string id="QRJQ9Wgv" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} потрапив у полон до {CAPTOR_FACTION}{.v_rod}."/>
+    <string id="QRJQ9Wgv" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} {?PRISONER_LORD.GENDER}потрапила{?}потрапив{\?} у полон до {.S}{CAPTOR_FACTION}{.v_rod}."/>
     <string id="qRoQuHe4" text="{VALUE} слави та впливу за кожну вирішену проблему."/>
     <string id="QRRgXOrN" text="As expected, your veterans have really sharpened up our boys. Please pass on my thanks to them, {?PLAYER.GENDER}madam{?}sir{\?}.[if:convo_focused_happy][ib:hip]"/>
     <string id="QRwaQIbm" text="Is in Kingdom"/>
@@ -3744,7 +3744,7 @@
     <string id="RUZHJMQO" text="Шкода від лука: +{a0}%"/>
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
     <string id="RVas572P" text="Raided"/>
-    <string id="RVDojUOM" text="Землями довкола {SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}., {FACTION_OFFICIAL} {._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
+    <string id="RVDojUOM" text="Землями довкола {.S}{SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}., {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
     <string id="rVIzHhLO" text="The young {?CHILD.GENDER}woman{?}man{\?}'s social graces helped put other merchants at ease as they exchanged information and worked out deals."/>
     <string id="RVLPQ4rm" text="My friend. I am almost sad that these meetings are going to come to an end. Well, a deal is a deal. I won't beat around the bush. Here's your final message: {DIRECTIVE}. I wish you luck, right up until the moment that you have to go down.[if:convo_mocking_teasing][ib:closed]"/>
     <string id="RVNPXS46" text="{VALUE}% безпеки, яку забезпечують кінні воїни у підконтрольному поселенні."/>
@@ -4193,7 +4193,7 @@
     <string id="uwmfgcM3" text="We need {REQUESTED_ITEM_COUNT} {.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%} in {NUMBER_OF_DAYS} days. The village is short on denars so we can make the payment in kind - with {?NUMBER_OF_EXCHANGE_ITEM &gt; 1}{NUMBER_OF_EXCHANGE_ITEM} {._}{PLURAL(EXCHANGE_ITEM)}{?}one {._}{EXCHANGE_ITEM}{\?}. What do you say?"/>
     <string id="uwmHjy7z" text="You cannot pillage a settlement that has your faction culture.{newline}"/>
     <string id="UwPs3wmj" text="My liege {NEW_LIEGE.NAME} would welcome your support. Join us!"/>
-    <string id="UWzQsHA2" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO} {MORALE_INFO}"/>
+    <string id="UWzQsHA2" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="Ux90sIph" text="{VALUE}% досвіду кавалерії гарнізону підконтрольного поселення."/>
     <string id="UXCjNTjF" text="Hurry up. I don't have that much time.[if:convo_annoyed]"/>
     <string id="UYdvhdDl" text="When cargo went missing, the young {?CHILD.GENDER}woman{?}man{\?} made the inquiries at the local black market that were necessary to get it back."/>
