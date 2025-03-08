@@ -383,7 +383,7 @@
     <string id="4ORpHfu2" text="{VALUE}% штрафу до ціни при купівлі глини, заліза, бавовни та срібла."/>
     <string id="4Pbfs4rV" text="Заводчик"/>
     <string id="4PdKPMNc" text="{VALUE}% штрафу до точності під час руху."/>
-    <string id="4pmvrnmN" text="Замком {SETTLEMENT_LINK} володіє {LORD.LINK}, {FACTION_OFFICIAL} {._}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
+    <string id="4pmvrnmN" text="Замком {SETTLEMENT_LINK} володіє {LORD.LINK}, {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
     <string id="4pOb934Y" text="understands how a victory is won."/>
     <string id="4rCIZ6e5" text="{QUEST_SETTLEMENT} was raided, Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="4RNREbPW" text="You managed to return all of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.{newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}.”"/>
@@ -402,7 +402,7 @@
     <string id="4Ybbhzjw" text="Politician"/>
     <string id="4YNqWPEu" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я відновлюються після кожного наступального бою."/>
     <string id="4YuFTXxC" text="You successfully raided the village."/>
-    <string id="4z1t75be" text="{FIRSTNAME} з клану {CLAN_NAME}{.v_rod}"/>
+    <string id="4z1t75be" text="{FIRSTNAME} з клану {.S}{CLAN_NAME}{.v_rod}"/>
     <string id="511LONpe" text="{NUMBER_OF_TROOPS} troops joined you."/>
     <string id="51ahPi69" text="I understand that your men are still chasing those poachers. I realize that this mess might take a little time to clean up.[ib:normal2][if:convo_grave]"/>
     <string id="52GFRUTE" text="Keep your coin, headman. Your people's blessings are enough."/>
@@ -2151,7 +2151,7 @@
     <string id="HknxaCpK" text="{TARGET_SETTLEMENT_OWNER.FACTION} and {QUEST_GIVER.FACTION} had made peace. Your agreement with {QUEST_GIVER.LINK} is moot."/>
     <string id="HkOatwqw" text="{VALUE}% розходу впливу при голосуванні за пропозиції по королівству, зроблених іншими людьми."/>
     <string id="HKT5MnjP" text="Bailiffs"/>
-    <string id="HkvlHhPN" text="{TARGET_HERO.LINK} потрапив у полон і був запроторений до в'язниці {SETTLEMENT}{.v_rod}."/>
+    <string id="HkvlHhPN" text="{TARGET_HERO.LINK} потрапив у полон і був запроторений до в'язниці {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="hl4pTsaO" text="Win this tournament"/>
     <string id="hLbn3SBE" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду в день всім воїнам при подорожі з бойовим духом в загоні вище 75."/>
     <string id="HM7auUMA" text="You are my friend, but even so, this is a risky conversation to have."/>
