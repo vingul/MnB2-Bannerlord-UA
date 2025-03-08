@@ -4,38 +4,38 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="1B57e3WC" text="{HERO} долає волю ради {FACTION}{.v_rod}"/>
+    <string id="1B57e3WC" text="{HERO} долає волю ради {.S}{FACTION}{.v_rod}"/>
     <string id="3aYSoETE" text="{MOTHER.LINK} народила здорову дитину."/>
     <string id="6q9sb18u" text="{HERO_2.LINK} загинув."/>
-    <string id="7SHqWNzE" text="Район «{COMMON_AREA}» {SETTLEMENT}{.v_mis} зачищено від бандитів."/>
+    <string id="7SHqWNzE" text="Район «{COMMON_AREA}» {.S}{SETTLEMENT}{.v_mis} зачищено від бандитів."/>
     <string id="7tx9sch3" text="Знайдено лігво"/>
     <string id="8Klpa7Xa" text="{INSULTER.LINK} присягнувся помститися {INSULTEE.LINK}."/>
-    <string id="8wlvxzuP" text="{HERO_1.LINK} {?HERO_1.GENDER}зустріла{?}зустрів{\?} {HERO_2.LINK}{.v_rod}."/>
+    <string id="8wlvxzuP" text="{HERO_1.LINK} {?HERO_1.GENDER}зустріла{?}зустрів{\?} {.S}{HERO_2.LINK}{.v_rod}."/>
     <string id="a0qduLNq" text="{SETTLEMENT} тепер у безпеці."/>
-    <string id="aheVbtmm" text="{ITEM} у {FACTION}{.v_rod}"/>
+    <string id="aheVbtmm" text="{ITEM} у {.S}{FACTION}{.v_rod}"/>
     <string id="aowJMil0" text="{KINGDOM}{.v_rod} більше не існує."/>
-    <string id="AQK4ADS5" text="{HERO_1.LINK} вбив {HERO_2.LINK}{.v_rod}"/>
-    <string id="AxMrFoea" text="{TOWN_NAME} було взято в облогу військами {LORD.LINK}{.v_rod} з {FACTION_NAME}{.v_rod}!"/>
+    <string id="AQK4ADS5" text="{HERO_1.LINK} {?HERO_1.GENDER}вбила{?}вбив{\?} {.S}{HERO_2.LINK}{.v_rod}"/>
+    <string id="AxMrFoea" text="{TOWN_NAME} було взято в облогу військами {.S}{LORD.LINK}{.v_rod} з {.S}{FACTION_NAME}{.v_rod}!"/>
     <string id="bNAxWneP" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} вимагає гроші з підприємців."/>
     <string id="bNDUtygL" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} скуповує товари, щоб спричинити ріст цін."/>
     <string id="Bovy7D7s" text="{MOTHER.LINK} народила мертве дитя."/>
-    <string id="bZvmjYPE" text="{PARTY} обороняє {SETTLEMENT}{.v_zna}."/>
-    <string id="Cae69FRp" text="{SETTLEMENT} знаходиться під захистом загону {PARTY}{.v_rod}."/>
-    <string id="cOnCiZeH" text="{HERO1} атакує район {HERO2}{.v_rod} в {SETTLEMENT}{.v_mis}{ADDITIONAL_INFO}"/>
+    <string id="bZvmjYPE" text="{PARTY} обороняє {.S}{SETTLEMENT}{.v_zna}."/>
+    <string id="Cae69FRp" text="{SETTLEMENT} знаходиться під захистом загону {.S}{PARTY}{.v_rod}."/>
+    <string id="cOnCiZeH" text="{HERO1} атакує район {.S}{HERO2}{.v_rod} в {.S}{SETTLEMENT}{.v_mis}{ADDITIONAL_INFO}"/>
     <string id="dfAE3liA" text="Клан {CLAN_NAME} приєднався до фракції {FACTION}."/>
     <string id="dmqy8OyY" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} нечесно веде справи."/>
-    <string id="dzJOruIi" text="Район «{COMMON_AREA}» в {SETTLEMENT}{.v_mis} переходить до {HERO.LINK}{.v_rod}."/>
-    <string id="EHFibjkM" text="{TOWN_NAME} було взято в облогу армією {LORD.LINK}{.v_rod} з {FACTION_NAME}{.v_rod}!"/>
+    <string id="dzJOruIi" text="Район «{COMMON_AREA}» в {.S}{SETTLEMENT}{.v_mis} переходить до {.S}{HERO.LINK}{.v_rod}."/>
+    <string id="EHFibjkM" text="{TOWN_NAME} було взято в облогу армією {.S}{LORD.LINK}{.v_rod} з {.S}{FACTION_NAME}{.v_rod}!"/>
     <string id="ELFgdGJZ" text="{MOTHER.LINK} завагітніла."/>
     <string id="eMRMptST" text="{MOTHER.LINK} народила дитину."/>
-    <string id="ExbVzTZA" text="Клан {CLAN} буде битися на боці {KINGDOM}{.v_rod}."/>
+    <string id="ExbVzTZA" text="Клан {CLAN} буде битися на боці {.S}{KINGDOM}{.v_rod}."/>
     <string id="F3MPgmhR" text="{CLAIMANT.LINK} заявляє, що {SETTLEMENT_NAME} має належати клану {CLAIMANT_CLAN}, а не клану {CURRENT_OWNER_CLAN}."/>
     <string id="FZdiWaBs" text="Район {HERO}{.v_rod} захоплено."/>
-    <string id="h5rkbVu3" text="{LORD.LINK} стає новим власником {SETTLEMENT}{.v_rod}."/>
+    <string id="h5rkbVu3" text="{LORD.LINK} стає новим власником {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="h78oPYTs" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} єретик."/>
-    <string id="hbWhfoWH" text="Поселення {SETTLEMENT} атаковане {LORD.LINK}{.v_oru} з {FACTION_NAME}{.v_rod}"/>
+    <string id="hbWhfoWH" text="Поселення {SETTLEMENT} атаковане {.S}{LORD.LINK}{.v_oru} з {.S}{FACTION_NAME}{.v_rod}"/>
     <string id="hJFCi1zu" text="{FACTION1} і {._}{FACTION2} уклали мир."/>
-    <string id="hopvV6Ch" text="{RULER_NAME} з {FACTION1_NAME}{.v_rod} оголошує війну {FACTION2_NAME}{.v_dav}."/>
+    <string id="hopvV6Ch" text="{RULER_NAME} з {.S}{FACTION1_NAME}{.v_rod} оголошує війну {.S}{FACTION2_NAME}{.v_dav}."/>
     <string id="hP57Caab" text="{VICTOR_PARTY} з {VICTOR_FACTION}{.v_rod} перемагає {DEFEATED_PARTY}{.v_rod} з {DEFEATED_FACTION}{.v_rod}."/>
     <string id="Jo3Lux3w" text="{HERO_1.LINK} несе відповідальність за смерть {HERO_2.LINK}{.v_rod}"/>
     <string id="jZcV4gI7" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} став причиною поразки у битві через своє боягузство."/>
