@@ -6,10 +6,10 @@
   <strings>
     <string id="1B57e3WC" text="{HERO} долає волю ради {.S}{FACTION}{.v_rod}"/>
     <string id="3aYSoETE" text="{MOTHER.LINK} народила здорову дитину."/>
-    <string id="6q9sb18u" text="{HERO_2.LINK} загинув."/>
+    <string id="6q9sb18u" text="{HERO_2.LINK} {?HERO_2.GENDER}загинула{?}загинув{\?}."/>
     <string id="7SHqWNzE" text="Район «{COMMON_AREA}» {.S}{SETTLEMENT}{.v_mis} зачищено від бандитів."/>
     <string id="7tx9sch3" text="Знайдено лігво"/>
-    <string id="8Klpa7Xa" text="{INSULTER.LINK} присягнувся помститися {INSULTEE.LINK}."/>
+    <string id="8Klpa7Xa" text="{INSULTER.LINK} {?INSULTER.GENDER}присягнулась{?}присягнувся{\?} помститися {.S}{INSULTEE.LINK}{.v_dav}."/>
     <string id="8wlvxzuP" text="{HERO_1.LINK} {?HERO_1.GENDER}зустріла{?}зустрів{\?} {.S}{HERO_2.LINK}{.v_rod}."/>
     <string id="a0qduLNq" text="{SETTLEMENT} тепер у безпеці."/>
     <string id="aheVbtmm" text="{ITEM} у {.S}{FACTION}{.v_rod}"/>
@@ -32,9 +32,9 @@
     <string id="F3MPgmhR" text="{CLAIMANT.LINK} заявляє, що {SETTLEMENT_NAME} має належати клану {CLAIMANT_CLAN}, а не клану {CURRENT_OWNER_CLAN}."/>
     <string id="FZdiWaBs" text="Район {HERO}{.v_rod} захоплено."/>
     <string id="h5rkbVu3" text="{LORD.LINK} стає новим власником {.S}{SETTLEMENT}{.v_rod}."/>
-    <string id="h78oPYTs" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} єретик."/>
+    <string id="h78oPYTs" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} — єретик."/>
     <string id="hbWhfoWH" text="Поселення {SETTLEMENT} атаковане {.S}{LORD.LINK}{.v_oru} з {.S}{FACTION_NAME}{.v_rod}"/>
-    <string id="hJFCi1zu" text="{FACTION1} і {._}{FACTION2} уклали мир."/>
+    <string id="hJFCi1zu" text="{FACTION1} і {FACTION2} уклали мир."/>
     <string id="hopvV6Ch" text="{RULER_NAME} з {.S}{FACTION1_NAME}{.v_rod} оголошує війну {.S}{FACTION2_NAME}{.v_dav}."/>
     <string id="hP57Caab" text="{VICTOR_PARTY} з {.S}{VICTOR_FACTION}{.v_rod} перемагає {.S}{DEFEATED_PARTY}{.v_rod} з {.S}{DEFEATED_FACTION}{.v_rod}."/>
     <string id="Jo3Lux3w" text="{HERO_1.LINK} {?HERO_1.GENDER}відповідальна{?}відповідальний{\?} за смерть {.S}{HERO_2.LINK}{.v_rod}"/>
@@ -46,17 +46,17 @@
     <string id="MoYYusXJ" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} спричинив поразку у битві, не виконавши накази."/>
     <string id="nbVW2cJ8" text="Поселення {SETTLEMENT} атаковане армією {.S}{LORD.LINK}{.v_rod} з {.S}{FACTION_NAME}{.v_rod}"/>
     <string id="nPF738Cb" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} підбурює народ до заворушень."/>
-    <string id="orDGbYZE" text="{INSULTER.LINK} і{INSULTEE.LINK} посварились."/>
+    <string id="orDGbYZE" text="{INSULTER.LINK} {?INSULTER.GENDER}посварилась{?}посварився{\?} з {INSULTEE.LINK}."/>
     <string id="P9RGAGFC" text="{MOTHER.LINK} померла під час пологів."/>
-    <string id="pBMMXwVa" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} намагався шахрайським шляхом заволодіти землею."/>
+    <string id="pBMMXwVa" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} {?INSULTEE.GENDER}намагалась{?}намагався{\?} шахрайським шляхом заволодіти землею."/>
     <string id="pHyqL3bw" text="{MOTHER.LINK} і {FATHER.LINK} стали батьками {.S}{HERO.LINK}{.v_rod}."/>
     <string id="PLiydbpQ" text="{PARTY} починає грабувати {.S}{SETTLEMENT}{.v_zna}."/>
     <string id="PsU1ri42" text="{PARTY1} бився з {.S}{PARTY2}{.v_oru}."/>
-    <string id="RpVrqXOU" text="{INSULTER.LINK} та {INSULTEE.LINK} посварилися через володіння вотчиною."/>
+    <string id="RpVrqXOU" text="{INSULTER.LINK} {?INSULTER.GENDER}посварилася{?}посварився{\?} {INSULTEE.LINK} через володіння вотчиною."/>
     <string id="S0oFKYfB" text="Клан {CLAN} більше не служить {.S}{KINGDOM}{.v_dav}."/>
     <string id="SLAkSrb5" text="{FACTION1_NAME} оголошує війну {.S}{FACTION2_NAME}{.v_dav}."/>
-    <string id="TsYCa2fZ" text="{FACTION1} і {._}{FACTION2} уклали мир."/>
-    <string id="WiiRaLyK" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} спричинив поразку у битві, поводячись необдумано."/>
+    <string id="TsYCa2fZ" text="{FACTION1} і {FACTION2} уклали мир."/>
+    <string id="WiiRaLyK" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} {?INSULTEE.GENDER}спричинила{?}спричинив{\?} поразку у битві, поводячись необдумано."/>
     <string id="WYHqMwwo" text="Клан {CLAN} було знищено."/>
     <string id="XRTcnnR2" text="{HERO.LINK} втікає."/>
     <string id="yUaE3eeX" text="Поселення {SETTLEMENT} зачищено."/>
