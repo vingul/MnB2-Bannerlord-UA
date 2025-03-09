@@ -348,7 +348,7 @@
     <string id="44f1ff0q" text="All the villages of {QUEST_GIVER.LINK} has been raided and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} has been canceled."/>
     <string id="44tA6fNa" text="I will try to earn your family's trust, then."/>
     <string id="49IwOe5E" text="As you wish...[if:convo_normal]"/>
-    <string id="4ADQ7YZj" text="{PERSON.LINK} виграв турнір в {TOWN}{.v_mis}."/>
+    <string id="4ADQ7YZj" text="{PERSON.LINK} {?PERSON.GENDER}виграла{?}виграв{\?} турнір в {.S}{TOWN}{.v_mis}."/>
     <string id="4ajo4jvp" text="{VALUE} до рівня рекрутування у відомих осіб в селах."/>
     <string id="4ATx01zS" text="{FIRSTNAME} the Rock"/>
     <string id="4bDHBIr1" text="You have completed your end of the bargain. {QUEST_GIVER.LINK} now considers you as a trustworthy {?PLAYER.GENDER}tradeswoman{?}tradesman{\?}."/>
@@ -1613,7 +1613,7 @@
     <string id="dZDFxUvU" text="{A0}"/>
     <string id="e0HktW6w" text="I fear I cannot accept such a mission at the moment."/>
     <string id="e1sSXEOh" text="This is excellent news. If you could bring the goods, it would be an immense help, and the merchants would have to lower their prices. Thank you.[if:convo_excited][ib:hip2]"/>
-    <string id="E20BBKYo" text="{TOWN_NAME} було взято в облогу {FACTION_NAME}{.v_oru}."/>
+    <string id="E20BBKYo" text="{TOWN_NAME} було взято в облогу {.S}{FACTION_NAME}{.v_oru}."/>
     <string id="e2N77Ufi" text="{VALUE}% шкоди облоговим знаряддям оборонців."/>
     <string id="E3b8iKjc" text="allowing the ruler to appoint magistrates"/>
     <string id="E3BsEDav" text="Financial Help for Parties"/>
@@ -4642,7 +4642,7 @@
     <string id="xSaVRIN7" text="{QUEST_GIVER.LINK} has lost the ownership of {TARGET_CITY}. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="xSKhyecU" text="{VALUE}% платні бандитам."/>
     <string id="XsQ5rabf" text="The first thing that a steward must know is to how to count add numbers together. "/>
-    <string id="xss7eP0f" text="{PARTY} грабує {SETTLEMENT}{.v_zna}"/>
+    <string id="xss7eP0f" text="{PARTY} грабує {.S}{SETTLEMENT}{.v_zna}"/>
     <string id="XSWH8Z5B" text="I have no wish to fight you.[ib:closed][if:idle_angry]"/>
     <string id="xTDnna2J" text="{VALUE}% приближення для луків."/>
     <string id="xTKHO53L" text="This is outrageous. I declare that from now on that there shall be no price fixing."/>
