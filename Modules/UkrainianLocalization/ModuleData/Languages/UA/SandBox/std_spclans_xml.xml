@@ -31,7 +31,7 @@
     <string id="AppNvfPv" text="{.m}Ормідовінг{.R_n20_a}"/>
     <string id="as2TiAIJ" text="{.n}Лісовий{.R_adj_long} {.n}братство{.R_n2n_p1}"/>
     <string id="b6SEM6Ab" text="{.p}Колтіт{.R_n20_p}"/>
-    <string id="B8c2mNKj" text="The Embers of the Flame are the descendants of a rebel movement that rose up nearly a century ago, after the saintly but ineffective teenaged Emperor Darusos was toppled by one of his generals. They claim that they are preparing the way for Heaven to bring back Darusos and usher in a golden age, but like so many other rebel movements in Calradia they have been forced to turn to extortion to survive."/>
+    <string id="B8c2mNKj" text="Тліюче Вогнище - нащадки повстанського руху, що виник майже століття тому, після того, як святий, але неефективний імператор-підліток Дарусос був скинутий одним із своїх генералів. Вони стверджують, що готують дорогу Небесам, які повернуть Дарусоса і розпочнуть золотий вік, але, як і багато інших повстанських рухів у Кальрадії, вони були змушені вдатися до здирництва, щоб вижити."/>
     <string id="bhxVA9w7" text="The Last Legion was created after the Emperor Arenicos abolished the last of the Empire's standing armies in the wake of the battle of Pendraic, relying instead on the archons' private retinues which were significantly cheaper and better at controlling territory. The Legion is made up of men who detested this change: they loved the old army, its standards and its unit histories and its camp life, and they blame the new system for destroying the empire. But an army does not hold together unless it is paid regularly, and they take contracts from imperial and foreign lords alike."/>
     <string id="bjemmmcF" text="{.m}Кореніос{.R_n20_a_ke}"/>
     <string id="bsPd5zri" text="Скольдерброди, або Брати Щита, - це група воїнів-найманців, які дуже серйозно ставляться до бою і тренувань. В основному це норди, але вони також приймають рекрутів з інших народів, за умови, що за них поручиться хтось із тих, хто вже служить у лавах Братів Щита. Їхні правила майже чернечі: жодних жінок у таборі, жодних розваг, і жодному брату не дозволяється ночувати за межами табору без особливого дозволу. У бою вони б'ються на списах і сокирах у стилі нордів, і їх цінують усі знатні доми півночі."/>
@@ -49,66 +49,66 @@
     <string id="Eu932blQ" text="{.m}Куловінг{.R_n20_a}"/>
     <string id="fvYgmrjG" text="Бану {.m}Сарран{.R_n20_a}"/>
     <string id="fXENjJJL" text="{.m}Остікос{.R_n20_a}"/>
-    <string id="GCy0xb6U" text="{.f}Організація{.R_n10}"/>
+    <string id="GCy0xb6U" text="{.n}Товариство{.R_n2n_p1}"/>
     <string id="ghilmanClanName" text="{.p}Гулям{.R_n20_p}"/>
-    <string id="gXeF1yKn" text="Harfit"/>
-    <string id="h7ujXmDx" text="Mestricaros"/>
-    <string id="HMnHaJac" text="fen Morcar"/>
-    <string id="hrWQWgaM" text="Pethros"/>
+    <string id="gXeF1yKn" text="{.p}Харфіт{.R_n20_p}"/>
+    <string id="h7ujXmDx" text="{.m}Местрікарос{.R_n20_a}"/>
+    <string id="HMnHaJac" text="фен {.m}Моркар{.R_n20_a}"/>
+    <string id="hrWQWgaM" text="{.m}Петрос{.R_n20_a}"/>
     <string id="j3KtHQzn" text="{.f}Рука{.R_n10_p1}"/>
-    <string id="k3djFmuO" text="fen Penraic"/>
-    <string id="kbGk2so8" text="Baltait"/>
-    <string id="khnadIv1" text="Brotherhood"/>
-    <string id="l6JtB97p" text="Banu Atij"/>
-    <string id="LqTTchsa" text="Legion of the Betrayed"/>
-    <string id="LTWTTQ71" text="Palladios"/>
-    <string id="lUfFxWlk" text="Banu Qaraz"/>
-    <string id="LygSwU3i" text="dey Jelind"/>
-    <string id="LZVzzczs" text="dey Fortes"/>
-    <string id="m0teef5g" text="Tigrit"/>
-    <string id="mddbprXj" text="Vagiroving"/>
-    <string id="mpjp1MT2" text="dey Arromanc"/>
-    <string id="mtZu1l2j" text="Embers of the Flame"/>
+    <string id="k3djFmuO" text="фен {.m}Пенрайк{.R_n20_a}"/>
+    <string id="kbGk2so8" text="{.p}Балтаїт{.R_n20_p}"/>
+    <string id="khnadIv1" text="{.n}Братство{.R_n2n}"/>
+    <string id="l6JtB97p" text="Бану {.m}Атіж{.R_n20_a}"/>
+    <string id="LqTTchsa" text="{.m}Легіон{.R_n20_u} Зраджених"/>
+    <string id="LTWTTQ71" text="{.m}Палладій{.R_n20_a}"/>
+    <string id="lUfFxWlk" text="Бану {.m}Караз{.R_n20_a}"/>
+    <string id="LygSwU3i" text="дей {.m}Джелінд{.R_n20_a}"/>
+    <string id="LZVzzczs" text="дей {.m}Фортес{.R_n20_a}"/>
+    <string id="m0teef5g" text="{.p}Тігріт{.R_n20_p}"/>
+    <string id="mddbprXj" text="{.m}Вагіровінг{.R_n20_a}"/>
+    <string id="mpjp1MT2" text="дей {.m}Арроманк{.R_n20_a}"/>
+    <string id="mtZu1l2j" text="{.n}Тліючий{.R_adj} Вогнище"/>
     <string id="MVHawAEp" text="{.f}Невидимий{.R_adj} {.f}Рука{.R_n10}"/>
-    <string id="nclQqoam" text="Serapides"/>
+    <string id="nclQqoam" text="{.p}Серапід{.R_n20_p}"/>
     <string id="nh4Y3LOc" text="{.p}Вовчий{.R_adj} {.p}шкура{.R_n10_p1}"/>
-    <string id="NI1paia1" text="Banu Ruwaid"/>
-    <string id="NObV048p" text="Beni Zilal"/>
+    <string id="NI1paia1" text="Бану {.m}Руваїд{.R_n20_a}"/>
+    <string id="NObV048p" text="Бені {.m}Зіляль{.R_n20_a}"/>
     <string id="nQOf27Rx" text="Невидима Рука - це мафія, яка домінує в сільській місцевості, а іноді й у містах південних районів Імперії. Вони процвітають, роблячи себе корисними для влади: придушуючи заворушення, змушуючи замовкнути небажаних проповідників і грабуючи купців, які конкурують з їхніми покровителями. Багато хто з них змінює респектабельне життя в містах і злочинне життя в сільській місцевості. Член Руки може проводити два-три місяці на рік у горах як розбійник, а потім повертатися до міста, щоб працювати охоронцем і «торговцем» краденим, добре знаючи, що ніхто не ставитиме йому зайвих запитань."/>
-    <string id="o0Xm5Rqk" text="Playerland"/>
-    <string id="o4wKMT9x" text="Banu Habbab"/>
-    <string id="o7ud4X2X" text="Forest People"/>
-    <string id="ObBvcDhJ" text="fen Giall"/>
-    <string id="OVQoC9fn" text="Comnos"/>
-    <string id="pdz4YsEf" text="Maneolis"/>
-    <string id="Q1nAHnV7" text="Khergit"/>
-    <string id="qFntgcGy" text="dey Tihr"/>
-    <string id="qoLWSdRE" text="fen Eingal"/>
+    <string id="o0Xm5Rqk" text="{.m}Ігроленд{.R_n20_a}"/>
+    <string id="o4wKMT9x" text="Бану {.m}Хаббаб{.R_n20_a}"/>
+    <string id="o7ud4X2X" text="{.m}Лісовий{.R_adj_long} {.m}народ{.R_n20_u_ke_p}"/>
+    <string id="ObBvcDhJ" text="фен {.m}Гіалл{.R_n20_a}"/>
+    <string id="OVQoC9fn" text="{.m}Комнос{.R_n20_a}"/>
+    <string id="pdz4YsEf" text="{.m}Манеоліс{.R_n20_a}"/>
+    <string id="Q1nAHnV7" text="{.p}Хергіт{.R_n20_p}"/>
+    <string id="qFntgcGy" text="дей {.m}Тір{.R_n20_a}"/>
+    <string id="qoLWSdRE" text="фен {.m}Ейнгал{.R_n20_a}"/>
     <string id="RWOYui01" text="The Jawwal, or “Roamers,” are the main bedouin confederacy in the Nahasa desert. They wander from highland to lowland grazing grounds, declaring huge swathes of the desert their “territory” in which any caravan must offer protection money. They compose poems of their deeds and mock other clans of the Banu Asera for having given up the “freedom” of black wool tents for stone houses in the oases. The other clans consider them boastful nuisances, though grudgingly respecting them as protectors of the old Aserai ways."/>
-    <string id="s0AVQCbJ" text="Togaroving"/>
-    <string id="SCTf5cay" text="Vatatzes"/>
-    <string id="Ssl38GEF" text="Legion"/>
-    <string id="tA3IRBgv" text="Impestores"/>
+    <string id="s0AVQCbJ" text="{.m}Тогаровінг{.R_n20_a}"/>
+    <string id="SCTf5cay" text="{.m}Ватацес{.R_n20_a}"/>
+    <string id="Ssl38GEF" text="{.m}Легіон{.R_n20_u}"/>
+    <string id="tA3IRBgv" text="{.m}Імпесторес{.R_n20_a}"/>
     <string id="tae3lhXh" text="The Company are Vlandians, mostly local levies who don't adjust well to peacetime and who have opted for a life of constant warfare. They are probably the least disciplined and most brigandish of Calradia's mercenaries, and a scourge to any bit of countryside where they are allowed to run loose. Still, like all mercenaries, they know that their future earnings depend on their reputation, so they honor their contracts and practice their skills, particularly with the crossbow, to ensure their employers receive their money's worth."/>
-    <string id="tdGvElSy" text="Dionicos"/>
-    <string id="txCNVmSV" text="Neretzes"/>
-    <string id="UmVjzPI4" text="Company of the Golden Boar"/>
-    <string id="UQHUu2bj" text="Leonipardes"/>
-    <string id="UW8BjPXR" text="Argoros"/>
-    <string id="vbLAA0RF" text="dey Valant"/>
-    <string id="VpF6skYs" text="Arkit"/>
-    <string id="W2HkbCeX" text="Ubroving"/>
-    <string id="W9n5iPbB" text="Yanserit"/>
-    <string id="wFR1ukg9" text="Banu Qild"/>
-    <string id="WssI6mOE" text="Kostoroving"/>
+    <string id="tdGvElSy" text="{.m}Діонікос{.R_n20_a}"/>
+    <string id="txCNVmSV" text="{.m}Неретцес{.R_n20_a}"/>
+    <string id="UmVjzPI4" text="{.n}Товариство{.R_n2n_p1} Золотого Кабана"/>
+    <string id="UQHUu2bj" text="{.m}Леоніпардес{.R_n20_a}"/>
+    <string id="UW8BjPXR" text="{.m}Аргорос{.R_n20_a}"/>
+    <string id="vbLAA0RF" text="дей {.m}Валант{.R_n20_a}"/>
+    <string id="VpF6skYs" text="{.p}Аркіт{.R_n20_p}"/>
+    <string id="W2HkbCeX" text="{.m}Убровінг{.R_n20_a}"/>
+    <string id="W9n5iPbB" text="{.p}Янсеріт{.R_n20_p}"/>
+    <string id="wFR1ukg9" text="Бану {.m}Кілд{.R_n20_a}"/>
+    <string id="WssI6mOE" text="{.m}Косторовінг{.R_n20_a}"/>
     <string id="xahrUc5n" text="Лісове братство розпочалося як вландійський селянський рух, учасники якого переховувалися в лісах, грабували багатих і роздавали награбоване бідним. Однак він зіткнувся з проблемами, з якими стикався любий довготривалий повстанський рух - потрібно було забезпечити постійне постачання їжі, а також гарантувати, що ніхто з бідноти не наважиться заробити мішечок монет, доносячи на них. Повільно, але впевнено, вони почали вдаватися до здирництва, терору та корумпованих угод з місцевою владою, щоб вижити, ставши мало чим відрізнятися від будь-якого іншого організованого бандитського угруповування в Кальрадії."/>
-    <string id="xbkYPXCt" text="Vetranis"/>
+    <string id="xbkYPXCt" text="{.m}Ветраніс{.R_n20_a}"/>
     <string id="XJbDRBfd" text="The Karakhergit are one of the last nomadic clans in the western steppe. The Urkhunid khans have tried to coax them into settling down, offering them farmlands and serfs in exchange for a commitment to pay taxes and supply military levies, but they have resisted. They are treated by the other clans with a combination of envy and contempt. They trade and sometimes even intermarry with their settled brethren, but they also do a limited amount of kidnapping for ransom and raiding of flocks, and scoff at those who would blame them for carrying on with the heroic old ways."/>
-    <string id="xqkKtWqa" text="Elaches"/>
-    <string id="xw0eTkkb" text="Vezhoving"/>
-    <string id="yQcZrUYi" text="dey Folcun"/>
-    <string id="zcLTthfN" text="Embers"/>
-    <string id="zvas3ieB" text="fen Derngil"/>
-    <string id="zY2TQC9t" text="Banu Arbas"/>
+    <string id="xqkKtWqa" text="{.m}Елахес{.R_n20_a}"/>
+    <string id="xw0eTkkb" text="{.m}Вежовінг{.R_n20_a}"/>
+    <string id="yQcZrUYi" text="дей {.m}Фолькун{.R_n20_a}"/>
+    <string id="zcLTthfN" text="{.p}Вуголь{.R_n22_p}"/>
+    <string id="zvas3ieB" text="фен {.m}Дернгіл{.R_n20_a}"/>
+    <string id="zY2TQC9t" text="Бану {.m}Арбас{.R_n20_a}"/>
   </strings>
 </base>
