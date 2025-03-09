@@ -88,7 +88,7 @@
     <string id="KbPD5cEw" text="Reduced to 1/3 (Very Easy)"/>
     <string id="KM7uAbL8" text="Шкода гравцю"/>
     <string id="Kqkf6HBN" text="No Companions with Issues Solved"/>
-    <string id="lfDzgLTa" text="{PROFESSION} в {LOCATION}{.v_mis}"/>
+    <string id="lfDzgLTa" text="{PROFESSION} в {.S}{LOCATION}{.v_mis}"/>
     <string id="LfpteADn" text="Задайте складність бойового ШІ."/>
     <string id="m0907jTh" text="When you are looking at tooltip, you can press {EXTEND_KEY} to see an extended version of the tooltip."/>
     <string id="M7HGkj18" text="Children Born"/>
