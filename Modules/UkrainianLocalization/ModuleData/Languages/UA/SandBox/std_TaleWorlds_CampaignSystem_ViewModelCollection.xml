@@ -134,7 +134,7 @@
     <string id="eIGFuGOx" text="Give Settlement"/>
     <string id="EkFDvG7z" text="Settlement Food Stocks"/>
     <string id="eoVW9z54" text="Average Morale"/>
-    <string id="EQHq3bHM" text="Прямує до {._}{TARGET_PARTY}{.v_rod}"/>
+    <string id="EQHq3bHM" text="Прямує до {TARGET_PARTY}{.v_rod}"/>
     <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}"/>
     <string id="F0a7hyp0" text="Risk of rebellion"/>
