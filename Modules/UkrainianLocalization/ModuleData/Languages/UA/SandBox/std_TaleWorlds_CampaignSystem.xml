@@ -2441,7 +2441,7 @@
     <string id="jiFCxZ4B" text="In that case you should send a good commander with some {TROOP_COUNT} men, just to be safe. And I'll send them back to you in {RETURN_DAYS} days. [if:convo_normal][ib:closed]"/>
     <string id="JiHaL6IV" text="Army has disbanded and your mission has been canceled."/>
     <string id="JIJnrSq0" text="I am {PLAYER.NAME}. And who are you?"/>
-    <string id="Jin8cj45" text="{FIRSTNAME} the Minter"/>
+    <string id="Jin8cj45" text="{FIRSTNAME} {?FEMALE}{.f}Карбувальниця{.R_n10_ko}{?}{.m}Карбувальник{.R_n20_a}{\?}"/>
     <string id="jiWr5Rlz" text="Воєначальник"/>
     <string id="JIWVeTMD" text="Your clan is now at war with {QUEST_GIVER.LINK}'s realm. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
     <string id="jjkJyKoy" text="Прокол"/>
