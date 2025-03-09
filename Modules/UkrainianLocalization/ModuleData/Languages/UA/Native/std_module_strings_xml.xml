@@ -989,7 +989,7 @@
     <string id="littlesister" text="Sister"/>
     <string id="lj8XH6O7" text="Can't access kingdom window right now!"/>
     <string id="ljcHO6PW" text="Security Drift"/>
-    <string id="LjUhEJxz" text="Караван {OWNER.NAME}{.v_rod}"/>
+    <string id="LjUhEJxz" text="{.m}Караван{.R_n20_u} {.S}{OWNER.NAME}{.v_rod}"/>
     <string id="LJwKdMdw" text="Wait for your opponent to get into position"/>
     <string id="lKIHqkAV" text="seventeenth"/>
     <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
