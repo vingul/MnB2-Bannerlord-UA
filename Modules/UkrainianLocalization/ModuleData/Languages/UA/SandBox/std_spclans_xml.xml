@@ -36,21 +36,21 @@
     <string id="bjemmmcF" text="{.m}Кореніос{.R_n20_a_ke}"/>
     <string id="bsPd5zri" text="Скольдерброди, або Брати Щита, - це група воїнів-найманців, які дуже серйозно ставляться до бою і тренувань. В основному це норди, але вони також приймають рекрутів з інших народів, за умови, що за них поручиться хтось із тих, хто вже служить у лавах Братів Щита. Їхні правила майже чернечі: жодних жінок у таборі, жодних розваг, і жодному брату не дозволяється ночувати за межами табору без особливого дозволу. У бою вони б'ються на списах і сокирах у стилі нордів, і їх цінують усі знатні доми півночі."/>
     <string id="BxCRDt5m" text="{.m}Візартос{.R_n20_a_ke}"/>
-    <string id="cd0yDTM1" text="Lonalion"/>
-    <string id="CibaXzG8" text="Phalentes"/>
-    <string id="CRSFOSil" text="Urkhunait"/>
-    <string id="CS4rSk99" text="dey Cortain"/>
-    <string id="cYTdzMQ4" text="Oburit"/>
-    <string id="DeSGiCgF" text="dey Rothad"/>
+    <string id="cd0yDTM1" text="{.m}Лоналіон{.R_n20_a}"/>
+    <string id="CibaXzG8" text="{.m}Фалентес{.R_n20_a}"/>
+    <string id="CRSFOSil" text="{.p}Урхунаїт{.R_n20_p}"/>
+    <string id="CS4rSk99" text="дей {.m}Кортейн{.R_n20_a}"/>
+    <string id="cYTdzMQ4" text="{.p}Обуріт{.R_n20_p}"/>
+    <string id="DeSGiCgF" text="дей {.m}Ротад{.R_n20_a}"/>
     <string id="dRaYhQva" text="The origins of the Beni Zilal, the Sons of the Shadows, are shrouded in legend. Many of the stories tell of a messianic preacher who ruled from a citadel deep in the desert, entrancing his followers with the help of halucinogenic herbs and terrorizing the Aserai nobility with the threat of assassination. Regardless of how much truth these stories contain, this brotherhood is now a powerful institution in the deep reaches of the Nahasa, collecting protection money from caravans passing through its territory and cutting deals with local potentates while it awaits the day when it may reveal its hand more openly."/>
-    <string id="Ds2vQVwr" text="Avlonos"/>
-    <string id="eC6qIOzz" text="Eleftheroi"/>
-    <string id="EnZHNc2k" text="Isyaroving"/>
-    <string id="Eu932blQ" text="Kuloving"/>
-    <string id="fvYgmrjG" text="Banu Sarran"/>
-    <string id="fXENjJJL" text="Osticos"/>
-    <string id="GCy0xb6U" text="Company"/>
-    <string id="ghilmanClanName" text="Ghilman"/>
+    <string id="Ds2vQVwr" text="{.m}Авлон{.R_n20_a}"/>
+    <string id="eC6qIOzz" text="{.p}Елефтерій{.R_n20_p}"/>
+    <string id="EnZHNc2k" text="{.m}Ізайровінг{.R_n20_a}"/>
+    <string id="Eu932blQ" text="{.m}Куловінг{.R_n20_a}"/>
+    <string id="fvYgmrjG" text="Бану {.m}Сарран{.R_n20_a}"/>
+    <string id="fXENjJJL" text="{.m}Остікос{.R_n20_a}"/>
+    <string id="GCy0xb6U" text="{.f}Організація{.R_n10}"/>
+    <string id="ghilmanClanName" text="{.p}Гулям{.R_n20_p}"/>
     <string id="gXeF1yKn" text="Harfit"/>
     <string id="h7ujXmDx" text="Mestricaros"/>
     <string id="HMnHaJac" text="fen Morcar"/>
@@ -71,7 +71,7 @@
     <string id="mtZu1l2j" text="Embers of the Flame"/>
     <string id="MVHawAEp" text="{.f}Невидимий{.R_adj} {.f}Рука{.R_n10}"/>
     <string id="nclQqoam" text="Serapides"/>
-    <string id="nh4Y3LOc" text="Wolfskins"/>
+    <string id="nh4Y3LOc" text="{.p}Вовчий{.R_adj} {.p}шкура{.R_n10_p1}"/>
     <string id="NI1paia1" text="Banu Ruwaid"/>
     <string id="NObV048p" text="Beni Zilal"/>
     <string id="nQOf27Rx" text="Невидима Рука - це мафія, яка домінує в сільській місцевості, а іноді й у містах південних районів Імперії. Вони процвітають, роблячи себе корисними для влади: придушуючи заворушення, змушуючи замовкнути небажаних проповідників і грабуючи купців, які конкурують з їхніми покровителями. Багато хто з них змінює респектабельне життя в містах і злочинне життя в сільській місцевості. Член Руки може проводити два-три місяці на рік у горах як розбійник, а потім повертатися до міста, щоб працювати охоронцем і «торговцем» краденим, добре знаючи, що ніхто не ставитиме йому зайвих запитань."/>
