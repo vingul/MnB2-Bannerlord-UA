@@ -68,7 +68,7 @@
     <string id="bDarsOFR" text="I am {CONVERSATION_CHARACTER.LINK} of the house of {CLAN_NAME}."/>
     <string id="bdiuV4qb" text="I know your name. They say you are a {?PLAYER.GENDER}woman{?}man{\?} of valor. If fate ever decrees that we cross swords, it would be an honor."/>
     <string id="BMc3VJcf" text="I don't know your name. But no matter. Some say there is greater honor to found a great lineage than to be born with one."/>
-    <string id="bNReoRmt" text="If you ever find yourself in a position to hire warriors, you should consider the Legion of the Betrayed. We know what it means to honor your word and contract, as we have seen the price of breaking faith."/>
+    <string id="bNReoRmt" text="Якщо вам коли-небудь знадобиться найняти воїнів, зверніть увагу на Легіон Зраджених. Ми знаємо, що означає дотримуватися свого слова і контракту, адже ми бачили ціну зради."/>
     <string id="brGfaXyo" text="I'm not sure what to make of you, except you're either very brave or very rash, or both."/>
     <string id="BRMngn5i" text="Enough! I am your prisoner. I can pay a ransom. I am worth more to you alive than dead.[if:convo_thinking]"/>
     <string id="C5JaFsDZ" text="{FIRST_NAME} is my liege. That's all there is to say."/>
