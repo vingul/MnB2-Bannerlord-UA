@@ -269,7 +269,7 @@
     <string id="BdpW8gUM" text="That looks good, let's play!"/>
     <string id="bEipgE5E" text="Ah, yes, these are the most interesting kinds of games, aren't they? [if:convo_excited]I won't deny myself the pleasure but clearly that deed is worth more to him than just the value of the land. I'll wager the deed, but you need to put up 1000 denars."/>
     <string id="bFjtk0Op" text="Well.. Sometimes when you learn a skill, you pick up a certain way of doing it that can help you in some circumstances and hurt you in others. If you wanted to retrain yourself, your companions, or members of your clan to do things a different way, you might try the tournament master at the arena. They'll help you - for a price, of course."/>
-    <string id="Bh4sZo9o" text="Караван {TARGET_MERCHANT}{.v_rod}"/>
+    <string id="Bh4sZo9o" text="{.m}Караван{.R_n20_u} {.S}{TARGET_MERCHANT}{.v_rod}"/>
     <string id="bhkC3kcQ" text="Speak respectfully about your elders, you filthy ragamuffin!"/>
     <string id="bHRZhYzd" text="No! I won't go anywhere near them! They'll kill me![ib:closed2][if:convo_stern]"/>
     <string id="bi7ZhwNO" text="No, we are doing fine."/>
