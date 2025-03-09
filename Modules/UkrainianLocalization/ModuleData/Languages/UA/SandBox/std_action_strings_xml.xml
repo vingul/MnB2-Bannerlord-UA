@@ -53,8 +53,8 @@
     <string id="PLiydbpQ" text="{PARTY} починає грабувати {.S}{SETTLEMENT}{.v_zna}."/>
     <string id="PsU1ri42" text="{PARTY1} бився з {.S}{PARTY2}{.v_oru}."/>
     <string id="RpVrqXOU" text="{INSULTER.LINK} та {INSULTEE.LINK} посварилися через володіння вотчиною."/>
-    <string id="S0oFKYfB" text="Клан {CLAN} більше не служить {KINGDOM}{.v_dav}."/>
-    <string id="SLAkSrb5" text="{FACTION1_NAME} оголошує війну {FACTION2_NAME}{.v_dav}."/>
+    <string id="S0oFKYfB" text="Клан {CLAN} більше не служить {.S}{KINGDOM}{.v_dav}."/>
+    <string id="SLAkSrb5" text="{FACTION1_NAME} оголошує війну {.S}{FACTION2_NAME}{.v_dav}."/>
     <string id="TsYCa2fZ" text="{FACTION1} і {._}{FACTION2} уклали мир."/>
     <string id="WiiRaLyK" text="{INSULTER.LINK} стверджує, що {INSULTEE.LINK} спричинив поразку у битві, поводячись необдумано."/>
     <string id="WYHqMwwo" text="Клан {CLAN} було знищено."/>
