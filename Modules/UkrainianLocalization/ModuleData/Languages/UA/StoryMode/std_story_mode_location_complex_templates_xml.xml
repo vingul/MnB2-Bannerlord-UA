@@ -4,6 +4,6 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="rQge8OSi" text="Тренувальний полігон"/>
+    <string id="rQge8OSi" text="{.m}Тренувальний{.R_adj} {.m}полігон{.R_n20_u}"/>
   </strings>
 </base>
