@@ -324,7 +324,7 @@
     <string id="cjhhuTZD" text="Cured Leather Lamellar Armor"/>
     <string id="cK5DE88I" text="N/A"/>
     <string id="cKz1cyuM" text="Your clan is now at war with {QUEST_GIVER_SETTLEMENT_FACTION}. Quest is canceled."/>
-    <string id="cL1lO5iP" text="Ergeon"/>
+    <string id="cL1lO5iP" text="{.m}Ерґон{.R_n20_a_ke}"/>
     <string id="CLTk2CMs" text="Infantryman Gambeson with Straps"/>
     <string id="CLYcnUra" text="Belted Leather Cuirass"/>
     <string id="cMdtLfGB" text="Tassled Robes"/>
