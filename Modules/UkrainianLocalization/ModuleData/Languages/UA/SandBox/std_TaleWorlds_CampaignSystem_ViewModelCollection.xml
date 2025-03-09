@@ -34,7 +34,7 @@
     <string id="4uMWNDoi" text="Thrust Speed"/>
     <string id="4vZLpzPi" text="+1 Renown / Day"/>
     <string id="4Y8u4JKO" text="You can't leave the kingdom while in an army"/>
-    <string id="5bzk75Ql" text="Переслідує {TARGET_PARTY}{.v_zna}."/>
+    <string id="5bzk75Ql" text="Переслідує {._}{TARGET_PARTY}{.v_zna}."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
     <string id="5dkPxmZG" text="Garrison Wages"/>
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
@@ -65,7 +65,7 @@
     <string id="a4oqWgUi" text="If there are no raw materials in the warehouse, the workshop will buy raw materials from the market until the warehouse is restocked"/>
     <string id="a8NoW1Q2" text="Are you sure you want to cancel your changes?"/>
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}"/>
-    <string id="AcMayd1p" text="Втікає від {TARGET_PARTY}{.v_rod}"/>
+    <string id="AcMayd1p" text="Втікає від {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="aE4ZRbB6" text=" {HEALTH}%"/>
     <string id="aFYwbosi" text="This hero is already leading a party."/>
     <string id="aGFxIvqx" text="Leave Member(s)"/>
@@ -134,7 +134,7 @@
     <string id="eIGFuGOx" text="Give Settlement"/>
     <string id="EkFDvG7z" text="Settlement Food Stocks"/>
     <string id="eoVW9z54" text="Average Morale"/>
-    <string id="EQHq3bHM" text="Прямує до {TARGET_PARTY}{.v_rod}"/>
+    <string id="EQHq3bHM" text="Прямує до {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}"/>
     <string id="F0a7hyp0" text="Risk of rebellion"/>
@@ -199,7 +199,7 @@
     <string id="j12VrGKz" text="Army"/>
     <string id="j3iwQmoA" text="Кількість очок фокусу: {CURRENT_AMOUNT}"/>
     <string id="j4BdjLYp" text="Start a conversation with this clan member."/>
-    <string id="J5u0uOKc" text="Втікає від загону {TARGET_PARTY}{.v_rod} в поселення."/>
+    <string id="J5u0uOKc" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} в поселення."/>
     <string id="J8ddrAOf" text="Governor Effects"/>
     <string id="j8uZBakZ" text="{PROPERTIES}"/>
     <string id="jdbT6nc9" text="Each {SUPPORTER_RANK} supporter provides {INFLUENCE_BONUS} per day."/>
@@ -257,7 +257,7 @@
     <string id="NkY3Kq9l" text="Item name cannot contain special characters."/>
     <string id="NLFeyz7m" text="Recently Released From Captivity"/>
     <string id="no0chrAH" text="This workshop has not been running for {DAY} {?PLURAL_DAYS}days{?}day{\?} because the production has not been profitable"/>
-    <string id="NRpbagbZ" text="Running to {TARGET_PARTY}"/>
+    <string id="NRpbagbZ" text="Втікає до {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="nuK4Afnr" text="Party is not eligible to join the army."/>
     <string id="NVUi4bB9" text="When the warehouse is full, the workshop will sell the products to the town market"/>
     <string id="NxEy5Nbt" text="High risk of rebellion"/>
@@ -277,7 +277,7 @@
     <string id="OpsiBFCu" text="... and {COUNT} more items."/>
     <string id="opU0Nr2G" text="Progress for unlocking a new piece."/>
     <string id="opVqBNLh" text="Effect"/>
-    <string id="OpzzCPiP" text="Following {TARGET_PARTY}"/>
+    <string id="OpzzCPiP" text="Слідує за {._}{TARGET_PARTY}{.v_oru}"/>
     <string id="oSfsqBwJ" text="No perks"/>
     <string id="OSsSBHKe" text="Settlement's Food"/>
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   "/>
@@ -328,7 +328,7 @@
     <string id="r0WIRUHo" text="Criminal Rating"/>
     <string id="R2AaCaPJ" text="Очікувані зміни"/>
     <string id="R4rTlKMU" text="Troop upgrades are currently disabled."/>
-    <string id="R8vuwKaf" text="Втікає від загону {TARGET_PARTY}{.v_rod} до союзників."/>
+    <string id="R8vuwKaf" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} до союзників."/>
     <string id="Ra17aK4e" text="Current Capital"/>
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}"/>
     <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
@@ -422,8 +422,8 @@
     <string id="XUtiwiYP" text="Довжина: "/>
     <string id="xW4BPVLX" text="Crafting History"/>
     <string id="xwRWjlar" text="Background Color:"/>
-    <string id="XYAVu2f0" text="Chasing {TARGET_PARTY}."/>
-    <string id="Y65gdbrx" text="Waiting in {TARGET_PARTY}"/>
+    <string id="XYAVu2f0" text="Переслідує {._}{TARGET_PARTY}{.v_zna}."/>
+    <string id="Y65gdbrx" text="Очікує в {._}{TARGET_PARTY}{.v_mis}"/>
     <string id="y6qCNFQj" text="Store Outputs in the Warehouse"/>
     <string id="Y7qbwrWE" text="Уміння героя {HERO_NAME}"/>
     <string id="Y8EcVL1c" text="Останнім оновленням"/>
