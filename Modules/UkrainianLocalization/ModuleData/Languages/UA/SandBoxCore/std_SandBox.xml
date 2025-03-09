@@ -269,7 +269,7 @@
     <string id="BdpW8gUM" text="That looks good, let's play!"/>
     <string id="bEipgE5E" text="Ah, yes, these are the most interesting kinds of games, aren't they? [if:convo_excited]I won't deny myself the pleasure but clearly that deed is worth more to him than just the value of the land. I'll wager the deed, but you need to put up 1000 denars."/>
     <string id="bFjtk0Op" text="Well.. Sometimes when you learn a skill, you pick up a certain way of doing it that can help you in some circumstances and hurt you in others. If you wanted to retrain yourself, your companions, or members of your clan to do things a different way, you might try the tournament master at the arena. They'll help you - for a price, of course."/>
-    <string id="Bh4sZo9o" text="Caravan of {TARGET_MERCHANT}"/>
+    <string id="Bh4sZo9o" text="Караван {TARGET_MERCHANT}{.v_rod}"/>
     <string id="bhkC3kcQ" text="Speak respectfully about your elders, you filthy ragamuffin!"/>
     <string id="bHRZhYzd" text="No! I won't go anywhere near them! They'll kill me![ib:closed2][if:convo_stern]"/>
     <string id="bi7ZhwNO" text="No, we are doing fine."/>
@@ -729,7 +729,7 @@
     <string id="pf4EIcBQ" text="Anything else? Because unless you've got business here, maybe you'd best move along.[if:convo_confused_annoyed][ib:closed]"/>
     <string id="pGfDkbBE" text="Unlock All Crafting Recipes"/>
     <string id="pGu2mcar" text="You have lost the battle against the combined forces of the {QUEST_GIVER.LINK} and the caravan."/>
-    <string id="pinSMuMe" text="Ну, один починається в {CLOSEST_TOURNAMENT}{.v_mis}, а потім ще один в {NEXT_CLOSEST_TOURNAMENT}{.v_mis}. Ти, певно, зможеш потрапити на будь-який з них, якщо поквапишся.[ib:hip]"/>
+    <string id="pinSMuMe" text="Ну, один починається в {.S}{CLOSEST_TOURNAMENT}{.v_mis}, а потім ще один в {.S}{NEXT_CLOSEST_TOURNAMENT}{.v_mis}. Ти, певно, зможеш потрапити на будь-який з них, якщо поквапишся.[ib:hip]"/>
     <string id="PJ7BhyOy" text="I said to that good-for-nothing... I said to him, 'You leave my daughter alone, or {NOTABLE.LINK} will hear about it.' Hah! I don't see him tomcatting around outside my home any more, that's for sure."/>
     <string id="PLgOm8tV" text="The townsfolk told you that the spy is not bald."/>
     <string id="PlIYRSIz" text="All right my {?PLAYER.GENDER}lady{?}lord{\?}, they will be ready."/>
