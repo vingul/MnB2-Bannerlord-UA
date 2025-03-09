@@ -43,7 +43,7 @@
     <string id="4OUnPjZc" text="Indeed. You'll have to find a way to do that. Maybe this bronze thing can help.[if:convo_empathic_voice]"/>
     <string id="4RaspRbe" text="Good. Then I will tell you what I know. I heard about one other piece.[if:convo_calm_friendly]"/>
     <string id="4SnDe0rA" text="The clans of the {FACTION} have defected to surrounding kingdoms as their leader has given up all hopes of restoring the Empire."/>
-    <string id="4vsPD3ec" text="{?PLAYER.GENDER}Сестро{?}Брате{\?}... Ми вже три дні вистежуємо цих виродків. Думаю, ми вже близько. Треба подумати, що буде, коли ми їх знайдемо. Як ми врятуємо {PLAYER_LITTLE_BROTHER.LINK}{.v_zna} і {PLAYER_LITTLE_SISTER.LINK}{.v_zna}? Чи готові ми до бою?[if:convo_grave]"/>
+    <string id="4vsPD3ec" text="{?PLAYER.GENDER}Сестро{?}Брате{\?}... Ми вже три дні вистежуємо цих виродків. Думаю, ми вже близько. Треба подумати, що буде, коли ми їх знайдемо. Як ми врятуємо {PLAYER_LITTLE_BROTHER.LINK}{.v_zna} і {.S}{PLAYER_LITTLE_SISTER.LINK}{.v_zna}? Чи готові ми до бою?[if:convo_grave]"/>
     <string id="4vsvniPd" text="I think we are on the right path now. You are the better rider so you should take the lead."/>
     <string id="4wS8eYYe" text="Achievements are disabled temporarily for this session due to service disconnection."/>
     <string id="4WZ9zJbF" text="I do not know where the other pieces are, you may need to keep searching for them.[if:convo_confused_normal]"/>
