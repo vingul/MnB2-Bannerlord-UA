@@ -1149,7 +1149,7 @@
     <string id="OGjq7rpg" text="We are taking our products to the market at {TOWN}."/>
     <string id="OgRtdJhu" text="Village Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers suffer medium penalty while attacking.{newline}• Horse archers gain medium penalty while attacking."/>
     <string id="ogtgc69b" text="You have been awarded the right to carry a banner. Your banner will signify your status and bring you honour. Which banner do you want to choose?"/>
-    <string id="OGxk0EXC" text="Турнір завершився. {TOURNAMENT_FINAL_PARTICIPANT_A} перемагає, здолавши {TOURNAMENT_FINAL_PARTICIPANT_B}{.v_zna} у фінальному двобої."/>
+    <string id="OGxk0EXC" text="Турнір завершився. Перемагає {TOURNAMENT_FINAL_PARTICIPANT_A}, здолавши {.S}{TOURNAMENT_FINAL_PARTICIPANT_B}{.v_zna} у фінальному двобої."/>
     <string id="oHaWR73d" text="ОК"/>
     <string id="Ohdrbpiw" text="Vlandian"/>
     <string id="OhLXo0gb" text="Criminal Governor"/>
