@@ -44,7 +44,7 @@
     <string id="6DuCoCc2" text="You need to confirm your changes in order to engage in a conversation."/>
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Швидкість: "/>
     <string id="7l0LGKRk" text="Датою початку"/>
-    <string id="7tBOCHm6" text="Sigil Color:"/>
+    <string id="7tBOCHm6" text="Колір емблеми:"/>
     <string id="7tKjfMSb" text="Alleys"/>
     <string id="84oSzquz" text="Recently Escaped Captivity"/>
     <string id="88WPmTKH" text="Get Input from the Warehouse"/>
@@ -268,7 +268,7 @@
     <string id="ODEnkg0o" text="Clan Strength"/>
     <string id="OGbskMfz" text="Unlocked Parts:"/>
     <string id="OhNYkblK" text="This hero has just escaped from captors and will be available after some time."/>
-    <string id="OkWLI5C8" text="Size:"/>
+    <string id="OkWLI5C8" text="Размір:"/>
     <string id="oM2Ta1di" text="Press {CONSOLE_KEY_NAME} to Reset Camera"/>
     <string id="Omjlnsk3" text="{ITEM_NAME} cannot be equipped on this slot."/>
     <string id="OMqHwpXF" text="One of your parties has lost its leader. It will disband after a day has passed. You can assign a new clan member to lead it, if you wish to keep the party.{newline}{newline}Do you want to assign a new leader?"/>
@@ -421,7 +421,7 @@
     <string id="xtt9Oxer" text="Productions"/>
     <string id="XUtiwiYP" text="Довжина: "/>
     <string id="xW4BPVLX" text="Crafting History"/>
-    <string id="xwRWjlar" text="Background Color:"/>
+    <string id="xwRWjlar" text="Колір фону:"/>
     <string id="XYAVu2f0" text="Переслідує {._}{TARGET_PARTY}{.v_zna}."/>
     <string id="Y65gdbrx" text="Очікує в {._}{TARGET_PARTY}{.v_mis}"/>
     <string id="y6qCNFQj" text="Store Outputs in the Warehouse"/>
