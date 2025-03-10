@@ -67,7 +67,7 @@
     <string id="3iq3rOh8" text="Kettle Helmet over Arming Coif"/>
     <string id="3lauB1HH" text="Bronze Lamellar Vest over Gambeson"/>
     <string id="3o6FDRsq" text="Captured Towns"/>
-    <string id="3PzgpFGq" text="Neutral"/>
+    <string id="3PzgpFGq" text="Нейтрально"/>
     <string id="3RBVn5yi" text="Zoros"/>
     <string id="3sRdGQou" text="Вийти"/>
     <string id="3UxfT9Bu" text="Wrapped Leather Cap"/>
@@ -445,7 +445,7 @@
     <string id="fpdXZ0fl" text="Рекрутинг"/>
     <string id="fptsl0Qn" text="Kilt over Plated Leather"/>
     <string id="FQntPChs" text="Ваша родина була торговцями в одному з головних міст Імперії. Іноді вони організовували каравани до сусідніх міст і обговорювали різноманітні питання в міській раді."/>
-    <string id="frBQ9mbP" text="Southern Empire"/>
+    <string id="frBQ9mbP" text="{.f}Південний{.R_adj} {.f}імперія{.R_n10}"/>
     <string id="frwBm3Oh" text="Cloth Headwrap"/>
     <string id="FsDZC8Yl" text="Full Helm over Mail Coif"/>
     <string id="fUmehyHq" text="Woven Leather Bracers"/>
@@ -511,7 +511,7 @@
     <string id="HkwJao2z" text="Fringed Steel Cap with Cheek Guards"/>
     <string id="ho5EndaV" text="Decision"/>
     <string id="hob3WVkU" text="Ваш батько був членом боярської дружини, &quot;соратників&quot;, які складали його свиту. Він сидів за столом, поряд з паном у великій залі, наглядав за боярськими маєтками, а в бою стояв поруч з ним у центрі стіни із щитів."/>
-    <string id="hometab" text="Home"/>
+    <string id="hometab" text="Головна"/>
     <string id="HqzVBfpl" text="Міські торговці"/>
     <string id="hRHPPQQP" text="Wrapped Headcloth"/>
     <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying."/>
@@ -624,7 +624,7 @@
     <string id="kmdjRAoG" text="Laced Cloth Coif"/>
     <string id="kmM68Qx4" text="лідерськими здібностями."/>
     <string id="kNXet6Um" text="відома витівка у місті."/>
-    <string id="koX9okuG" text="None"/>
+    <string id="koX9okuG" text="Нема"/>
     <string id="KoyU5yeY" text="Fringed Decorated Bronze Cap with Cheek Guards"/>
     <string id="Kqt8RHh7" text="Smithy"/>
     <string id="Kr8b1bxY" text="Infantryman Mail Vest"/>
@@ -637,21 +637,21 @@
     <string id="l5JDrvbW" text="Tartan Tunic"/>
     <string id="l5PPS5lG" text="Infantryman Mail over Leather"/>
     <string id="l69aXkKH" text="Push Fork"/>
-    <string id="L7wn49Uz" text="Diplomacy"/>
+    <string id="L7wn49Uz" text="Дипломатія"/>
     <string id="l91l1TJo" text="Colored Turban"/>
     <string id="L9weGfoX" text="Salea"/>
     <string id="labbKop6" text="Шкода воїнам вашого підрозділу від дальніх атак: {BONUS_AMOUNT}%."/>
     <string id="lAWwcO6b" text="Kingdom of Vlandia"/>
     <string id="lB4UF1GT" text="Long Tunic"/>
     <string id="Lbm7asY3" text="Tall Heater Shield"/>
-    <string id="lBn2pSBL" text="Members"/>
-    <string id="LBNzsqyb" text="Fiefs"/>
+    <string id="lBn2pSBL" text="Члени"/>
+    <string id="LBNzsqyb" text="Володіння"/>
     <string id="lbVB6KPl" text="Hood"/>
     <string id="lC5xsoSh" text="Без обмежень"/>
     <string id="lD1sl2XC" text="Camnon"/>
     <string id="lD5Ob3R4" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
     <string id="LE9mRhSs" text="Hespedia"/>
-    <string id="lEHjxPTs" text="Ally"/>
+    <string id="lEHjxPTs" text="Союзник"/>
     <string id="lEHtUGed" text="Diocosos"/>
     <string id="LgftnHPs" text="Woven Leather Vest"/>
     <string id="lgvtLEDA" text="Melchea"/>
@@ -715,7 +715,7 @@
     <string id="NBAGX54b" text="Avigos"/>
     <string id="NbgeKwVr" text="Workshops"/>
     <string id="ndfDy5B8" text="Tied Head Wrapping"/>
-    <string id="NF627oiX" text="Northern Empire"/>
+    <string id="NF627oiX" text="{.f}Північний{.R_adj} {.f}імперія{.R_n10_p1}"/>
     <string id="ngazFofr" text="Вас завжди тягнуло до тварин, тому найбільше часу ви проводили в сільській стайні. Ви вміли заспокоювати коней і через це вам іноді доручали об'їжджати молодих жеребців. Ви вивчили основи ветеринарного мистецтва, тому за потреби навіть могли лікувати людей."/>
     <string id="ngFVgwDD" text="Воїни-раби"/>
     <string id="NiBDR9ld" text="Decorated Bronze Helmet with Cheek Guards"/>
@@ -801,7 +801,7 @@
     <string id="pRbKbPK3" text="Vadrios"/>
     <string id="PtfbqMeg" text="Brigandine over Mail"/>
     <string id="PTKyNh2O" text="Legionary Mail"/>
-    <string id="PUjDWe5j" text="Походження"/>
+    <string id="PUjDWe5j" text="Приналежність"/>
     <string id="PuRfbiW3" text="Erdurand"/>
     <string id="PVgSGCYK" text="Nasal Helmet over Mail Coif"/>
     <string id="pVkchhqX" text="{VICTIM.NAME} was lost."/>
@@ -848,7 +848,7 @@
     <string id="qSi4DlT4" text="Їжа"/>
     <string id="qsVRoGUv" text="Open Head Scarf"/>
     <string id="qT6jIu3v" text="Fur Skirt with Tunic"/>
-    <string id="qtII2HbK" text="Wealth"/>
+    <string id="qtII2HbK" text="Багатство"/>
     <string id="qtwYBHIn" text="Thomund"/>
     <string id="QvfUqzpF" text="Mina"/>
     <string id="qVj5NqrL" text="Full Helm over Padded Cap"/>
@@ -913,7 +913,7 @@
     <string id="sO8Zh3ZH" text="Achievements are disabled due to cheat usage."/>
     <string id="SoTUisL3" text="Deltisos"/>
     <string id="SpJqhEEh" text="Барди"/>
-    <string id="sPmQz21k" text="Enemy"/>
+    <string id="sPmQz21k" text="Ворог"/>
     <string id="SrfYbg3x" text="Leader"/>
     <string id="SRncaw79" text="Urios"/>
     <string id="SvYpE52J" text="Fur Trimmed Tunic"/>
@@ -1155,7 +1155,7 @@
     <string id="yDykmlS7" text="Tartan Toga"/>
     <string id="YDYnuBmC" text="Multiplayer"/>
     <string id="yfa7tpbK" text="Все"/>
-    <string id="yG3YUySN" text="Western Empire"/>
+    <string id="yG3YUySN" text="{.f}Західний{.R_adj} {.f}імперія{.R_n10}"/>
     <string id="ygfhbfr0" text="Spiked Helmet"/>
     <string id="YGQ6UXCo" text="Mountain Hunting Bow"/>
     <string id="Yh7Dorsr" text="Striped Leather Harness"/>
