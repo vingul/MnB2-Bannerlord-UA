@@ -534,7 +534,7 @@
     <string id="DkaNhxpg" text="Are you sure you want to abdicate leadership?{?WILL_DESTROY}{newline}There are no other clans to take leadership. Your kingdom will be destroyed.{?}{\?}"/>
     <string id="dKcvwi6V" text="Well well, look at this! You'd best start coughing up some silver, friend, or me and my boys'll have to break you."/>
     <string id="dKXdN4BL" text="You are leading an army"/>
-    <string id="DM6luo3c" text="Continue"/>
+    <string id="DM6luo3c" text="Продовжити"/>
     <string id="dMKyWmJ6" text="You are trapped by enemies."/>
     <string id="dO5tqXT8" text="Ex-Spouse"/>
     <string id="DOaIBObZ" text="(Daily defaults become active when there are no projects under construction)"/>
@@ -804,7 +804,7 @@
     <string id="I42QtISB" text="Cannot kick main hero from clan."/>
     <string id="I4BbOX46" text="You are in {ARMY_LEADER}{.o} army."/>
     <string id="i4g81l3E" text="Відношення: {NUM}"/>
-    <string id="i5ROjI8K" text="On {DAY_OF_YEAR}, {YEAR}, you found the artifact which Tacteos mentioned."/>
+    <string id="i5ROjI8K" text="{DAY_OF_YEAR}, {YEAR} року ви знайшли артефакт, про який згадував Тактеос."/>
     <string id="I6OJtaMT" text="Ніколи"/>
     <string id="I8xMpWxO" text="Сміливий"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
