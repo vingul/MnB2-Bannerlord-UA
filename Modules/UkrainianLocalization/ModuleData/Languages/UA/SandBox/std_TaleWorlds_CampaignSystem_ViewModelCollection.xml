@@ -20,7 +20,7 @@
     <string id="2abtb4xu" text="Independent"/>
     <string id="2ckyCKR7" text="Reserve"/>
     <string id="2Cq3tViJ" text="Ліміт кількості воїнів загону"/>
-    <string id="2GWR9Cba" text="Hearth"/>
+    <string id="2GWR9Cba" text="Вогнища"/>
     <string id="2Hbr4TEj" text="Item name cannot start or end with a white space."/>
     <string id="2lFwF07j" text="Change Name"/>
     <string id="2nN1QuxZ" text="This quest will be failed unless completed in this time."/>
@@ -114,7 +114,7 @@
     <string id="cUUI8u2G" text="Smithy Stamina"/>
     <string id="cZCOa00c" text="{SUPPORTER_RANK} Supporters ({NUM})"/>
     <string id="d2K6gMsZ" text="Leave members. Need at least 1 companion."/>
-    <string id="d8jrv3nA" text="Add To Bookmarks"/>
+    <string id="d8jrv3nA" text="Додати в закладки"/>
     <string id="DAmdTxuC" text="Army Manage"/>
     <string id="dbBAJ8yi" text="You can change your banner and clan name later on clan screen"/>
     <string id="DbXZjPdf" text="Ефект стягу: "/>
