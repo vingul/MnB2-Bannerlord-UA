@@ -60,7 +60,7 @@
     <string id="Settlements.Settlement.name.castle_B1" text="{.m}Замок{.R_n22_u} Аб Комер"/>
     <string id="Settlements.Settlement.name.castle_B2" text="{.m}Замок{.R_n22_u} Лланок Хен"/>
     <string id="Settlements.Settlement.name.castle_B3" text="{.m}Замок{.R_n22_u} Друімор"/>
-    <string id="Settlements.Settlement.name.castle_B4" text="{.m}Замок{.R_n22_u} Пендраік"/>
+    <string id="Settlements.Settlement.name.castle_B4" text="{.m}Замок{.R_n22_u} Пендраїк"/>
     <string id="Settlements.Settlement.name.castle_B5" text="{.m}Замок{.R_n22_u} Ремтоіл"/>
     <string id="Settlements.Settlement.name.castle_B6" text="{.m}Замок{.R_n22_u} Флінтолг"/>
     <string id="Settlements.Settlement.name.castle_B7" text="{.m}Замок{.R_n22_u} Астер"/>
@@ -137,7 +137,7 @@
     <string id="Settlements.Settlement.name.castle_village_B2_2" text="{.m}Кантрек{.R_n20_u}"/>
     <string id="Settlements.Settlement.name.castle_village_B3_1" text="{.m}Друімор{.R_n20_u}"/>
     <string id="Settlements.Settlement.name.castle_village_B3_2" text="Тор {.f}Меліна{.R_n10}"/>
-    <string id="Settlements.Settlement.name.castle_village_B4_1" text="{.m}Пендраік{.R_n20_u}"/>
+    <string id="Settlements.Settlement.name.castle_village_B4_1" text="{.m}Пендраїк{.R_n20_u}"/>
     <string id="Settlements.Settlement.name.castle_village_B4_2" text="{.m}Ліндорн{.R_n20_u}"/>
     <string id="Settlements.Settlement.name.castle_village_B5_1" text="{.m}Ремтоіл{.R_n20_u}"/>
     <string id="Settlements.Settlement.name.castle_village_B5_2" text="Клейг {.m}Бан{.R_n20_u}"/>
