@@ -192,7 +192,7 @@
     <string id="epB0x816" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}. She has been abducted by bandits, who intend to sell her into slavery."/>
     <string id="EV5ykPuT" text="You and your men were defeated by {BOSS_NAME} and his conspirators. Rest of your men finds your broken body among the bloodied pile of corpses. Yet you live to fight another day."/>
     <string id="eV8R0SKp" text="Now you can decide what to do with the {DRAGON_BANNER}."/>
-    <string id="eVgAY7ts" text="Good Heaven, I'll need a better description than that. My men have harvested dozens of little brats in this region. Quite good hunting grounds! Already sent most of them south to a slave market I know, though.[ib:hip][if:convo_snide_voice]"/>
+    <string id="eVgAY7ts" text="О Господи, ти можеш описати мені їх краще? Мої люди вполювали десятки цих малих виродків у цьому районі. Досить непогані мисливські угіддя, я тобі скажу! Хоча знаєш, більшість з них я вже відправив на ринок рабів на півдні.[ib:hip][if:convo_snide_voice]"/>
     <string id="eVzg5Mtl" text="Conspiracy Caravan"/>
     <string id="EWD4Op6d" text="Повідомлення"/>
     <string id="exoZygYL" text="Very well. The Dragon Banner in your hands proclaims you the avenger of the Empire's crimes and its successor. Now go forth and claim your destiny![if:convo_calm_friendly]"/>
@@ -272,12 +272,12 @@
     <string id="ijyROgb4" text="I do not know where the other pieces are, you may need to keep searching for them.[if:convo_thinking]"/>
     <string id="ikhWkw7T" text="Ви успішно перемогли тренера-новачка. Перейдіть до тренера-ветерана."/>
     <string id="IL4FcHXv" text="You've pledged your allegiance to the {KINGDOM_NAME}!"/>
-    <string id="ImLQNYWC" text="Very well - I'll duel you."/>
+    <string id="ImLQNYWC" text="Гаразд. Викликаю тебе на дуель."/>
     <string id="IPP6MKfy" text="{MENTOR.LINK} notified you about a weapons caravan that will supply conspirators with weapons and armour."/>
     <string id="iQeMllr8" text="When it was just us fighting the horse archers, we were winning.. A man on foot can shoot as well or better than a man on horseback, all things being equal, and there were a lot more of us. So they started to go down and galloped off. The knights of course pursued, and that's when the problems started."/>
     <string id="iQrwsvb1" text="We had no choice but to go to war. Anyone who tells you they would have done otherwise is either a liar or a coward or both. The Sturgians attacked us, and needed to be chastised. We lost an army and a banner. But we did not lose our honor, and without honor the Empire would be finished."/>
     <string id="iR4QCTxv" text="Weaken Empire"/>
-    <string id="itRoeaJf" text="We heard you took our little brother and sister. Where are they?"/>
+    <string id="itRoeaJf" text="Ми чули, що це ти викрав наших брата і сестру. Де вони?"/>
     <string id="IYnFgEgy" text="Тоді продовжимо. (Пройти навчання бою)"/>
     <string id="izCbZEZg" text="Conspiracy Commander{%Commander is male.}"/>
     <string id="j2dW9fZt" text="Attack from up."/>
@@ -410,7 +410,7 @@
     <string id="qV1e0x8i" text="What is 'Neretzes' Folly'?"/>
     <string id="QVkuaezc" text="Hunt the conspiracy war party"/>
     <string id="QxeKZ3nE" text="Reach Clan Tier {CLAN_TIER}"/>
-    <string id="R3CnF55p" text="So... Who's this that comes through my place of business, killing my employees?[if:convo_confused_voice][ib:warrior2]"/>
+    <string id="R3CnF55p" text="Ну... І хто це тут вдирається на мою територію і вбиває моїх людей?[if:convo_confused_voice][ib:warrior2]"/>
     <string id="r48aEAbq" text="The {KINGDOM_NAME} has been defeated. Your quest to destroy the Empire has failed."/>
     <string id="R5kLv5kg" text="I am what they call Palaic. Palaic is a language that is no longer spoken, except by a few old people. Even the word 'Palaic' is imperial. We are a people who have forgotten who we are.[if:convo_focused_voice]"/>
     <string id="r8ZLabb0" text="I have gathered all pieces of the Dragon Banner. What now?"/>
@@ -518,7 +518,7 @@
     <string id="WUa1gnkS" text="Look, right before the battle, our high king, Aeril, disappears. And his adopted son Caladog becomes king. That sets tongues to wagging, you know? But let me tell you - old Aeril could never in his life have won such a victory as did Caladog, that day."/>
     <string id="wvHvnEog" text="Знайдіть лігво, про яке вам розповів Арзагос, і отримайте наступну частину банера."/>
     <string id="WWcG7kPr" text="A 'buyer'? Think bigger than that. Let me just say that, if you can find the missing pieces, I am sure I can help you put it to good use.[ib:confident2][if:convo_calm_friendly]"/>
-    <string id="wWLnZ6G4" text="Since your hunt for your kin is fruitless, how about you clear off and save your own lives? Either that or I force you to lick up all the blood you've spilled here with your tongues. Or... You and I could settle this, one on one.[if:convo_angry_voice]"/>
+    <string id="wWLnZ6G4" text="Оскільки ваші пошуки родичів виявилися марними, то ось моя пропозиція: ви забираєтесь звідси і рятуєте свої нікчемні життя. Або це, або я змушу вас всіх злизати своїми язиками всю ту кров, яку ви тут пролили. Або... Ми з тобою можемо вирішити все один на один.[if:convo_angry_voice]"/>
     <string id="WysXGbM6" text="Right click to defend"/>
     <string id="X1TJNkBV" text="We found your little brother and sister. But my former partner {HIDEOUT_BOSS.LINK} betrayed me. We came into his camp to negotiate the kids' release, and he seized us right then and there.[if:convo_angry_voice]"/>
     <string id="x3KpQouT" text="When they were all good and addled like frightened sheep, running this way and that, the rest of us warriors descended upon them with our falxes and swords. I cleaved this way and that. I took 12 heads, and mine was far from the greatest catch. Ah, the grandchildren tire of me telling this story...[if:convo_calm_friendly]"/>
