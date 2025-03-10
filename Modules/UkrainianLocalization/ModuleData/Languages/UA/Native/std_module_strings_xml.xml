@@ -69,7 +69,7 @@
     <string id="2JnLh6F0" text="Deceitful"/>
     <string id="2Jr3zWQz" text="Horses and Horse Harnesses"/>
     <string id="2Mic7nhz" text="Nobody in your party has enough {SKILL} skill to complete an order."/>
-    <string id="2noOKM5N" text="Trade bound settlement"/>
+    <string id="2noOKM5N" text="Торгові зв'язки з поселенням"/>
     <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} received as reward."/>
     <string id="2RIyK1bp" text="Weapons"/>
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} bonus to owner's influence"/>
@@ -118,7 +118,7 @@
     <string id="4Hdcxk0a" text="Aggressive"/>
     <string id="4jLW7hag" text="Dismiss from Army"/>
     <string id="4kKxsVzZ" text="Your alley {.%}{ALLEY_NAME}{.%} at {TOWN} is captured."/>
-    <string id="4KXvyxrK" text="Bound settlement"/>
+    <string id="4KXvyxrK" text="Пов'язане поселення"/>
     <string id="4l3BLxBC" text="Shoot from siege tower"/>
     <string id="4M8h8ufy" text="Not Usable With Two Hands"/>
     <string id="4ml9Bx6i" text="Multiplayer Perk"/>
@@ -136,7 +136,7 @@
     <string id="4Y5T7wp1" text="Cannot kick family members from clan."/>
     <string id="4ytmLxOy" text="Pregnant"/>
     <string id="59hbrhfY" text="Troop Current XP"/>
-    <string id="59PSpyu8" text="Bound settlement: {SETTLEMENT_LINK}"/>
+    <string id="59PSpyu8" text="Пов'язане поселення: {SETTLEMENT_LINK}"/>
     <string id="5a4cY5az" text="You can not perform this action while you are in a siege."/>
     <string id="5bqmaciE" text="{ARMY_MEMBER} to be at army"/>
     <string id="5cGXHF1a" text="Сьогодні"/>
@@ -1370,7 +1370,7 @@
     <string id="SEBZa2Lh" text="Boost Cohesion"/>
     <string id="secondabbr" text="s"/>
     <string id="SeQ0Q7r6" text="Ongoing Issue"/>
-    <string id="settlementtrack" text="Track"/>
+    <string id="settlementtrack" text="Стежити"/>
     <string id="sfcbd6QS" text="You've scored {CURRENT_PROGRESS} points out of the {TARGET_PROGRESS} needed to succeed in this persuasion attempt."/>
     <string id="SFddKpPz" text="Tightfisted"/>
     <string id="SFg3xgCM" text="Nearby"/>
