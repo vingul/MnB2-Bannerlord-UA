@@ -1648,7 +1648,7 @@
     <string id="Y20AQIvo" text="{PRISONER.NAME} has been captured by {CAPTOR_NAME}!"/>
     <string id="y3cP8Etv" text="Quest Canceled: {QUEST_TITLE}"/>
     <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from infantry cover."/>
-    <string id="Y4fht2kI" text="Notable Characters"/>
+    <string id="Y4fht2kI" text="Видатні постаті"/>
     <string id="y4MiEr0H" text="Типи воїнів"/>
     <string id="Y5byltUT" text="sultan"/>
     <string id="y8Catvvn" text="Ranged Weapons III"/>
