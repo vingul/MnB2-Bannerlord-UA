@@ -320,7 +320,7 @@
     <string id="3ssQAe1t" text="Good to hear that"/>
     <string id="3TIbxe5d" text="{FIRSTNAME} the Brewer"/>
     <string id="3tLU4AG7" text="{VALUE}% втрат від виснаження у підконтрольному поселенні при облозі."/>
-    <string id="3TmLIou4" text="Alive"/>
+    <string id="3TmLIou4" text="Живий"/>
     <string id="3UB3qhjk" text="{VALUE}% швидкості пересування для загонів, прикликаних до вашої армії."/>
     <string id="3uvbVxfx" text="You have delivered the weapons to {QUEST_GIVER.LINK} as promised."/>
     <string id="3v3ZTccn" text="You shall be numbered among the sons of Asera. Your blood is our blood. Our swords shall defend your rights as you defend ours. You may drink from our wells and rest in the shade of our trees. You may be granted the authority to judge disputes and collect revenues from oases and towns."/>
@@ -482,7 +482,7 @@
     <string id="5Wld45hP" text="forbidding tenants from leaving their lords' lands"/>
     <string id="5WR5DsOz" text="Rulers could make money fast by debasing the currency and minting more, but this would cause prices to rise."/>
     <string id="5wwO7ozf" text="{ARMY_LEADER}'s army has disbanded due to a lack of cohesion."/>
-    <string id="5xi0t1dD" text="Met Before"/>
+    <string id="5xi0t1dD" text="Вже зустрічалися"/>
     <string id="5Y4rnaDX" text="You can not transfer more than {UPPER_LIMIT} troops"/>
     <string id="5ZDCnrDQ" text="This will end the siege. You cannot take your siege engines with you, and they will be destroyed."/>
     <string id="5zF6vI5s" text="Lord Needs {?MOUNT_TYPE_IS_CAMEL}Camels{?}Horses{\?}"/>
