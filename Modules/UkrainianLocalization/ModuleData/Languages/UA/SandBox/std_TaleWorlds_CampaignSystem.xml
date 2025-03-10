@@ -1427,7 +1427,7 @@
     <string id="cvZH3cI1" text="I hope {QUEST_GIVER.NAME} has a plan to get that herd to market."/>
     <string id="CWfEUmiF" text="Right. I won't be going anywhere."/>
     <string id="cwFyqrfv" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я воїнам за кожні 2 очки уміння понад 200."/>
-    <string id="cwRkqIt4" text=" Kingdoms"/>
+    <string id="cwRkqIt4" text=" Королівства"/>
     <string id="cWyqiNrf" text="Примусова праця"/>
     <string id="CX6JHwbB" text="Aye? What is it?"/>
     <string id="CxavIji0" text="many more"/>
@@ -4518,7 +4518,7 @@
     <string id="x3y4bSJz" text="Your Clan Tier needs to be {TIER}.{newline} You need relations of {RELATION} with {HERO.NAME}."/>
     <string id="X4ITSQOl" text="Which of your people can help us?"/>
     <string id="x5POJVWw" text="Stop serving {FACTION}"/>
-    <string id="x6knoNnC" text=" Clans"/>
+    <string id="x6knoNnC" text=" Клани"/>
     <string id="X7Fod9WN" text="I am at your mercy.[if:convo_beaten]"/>
     <string id="x7k87vj3" text="What can I bring you, {?PLAYER.GENDER}madam{?}sir{\?}? Would you like to taste our local speciality, {DRINK} with {FOOD}?"/>
     <string id="Xa7PsIao" text="I am sorry. I will not marry without my family's blessing."/>
