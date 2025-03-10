@@ -60,7 +60,7 @@
     <string id="2a33tk2f" text="Daily Project"/>
     <string id="2Af5HRJU" text="Village Notables"/>
     <string id="2AhTA1ba" text="Our troops are falling back to the castle."/>
-    <string id="2aXJEgag" text="Strength: {ARMY_STRENGTH}"/>
+    <string id="2aXJEgag" text="Сила: {ARMY_STRENGTH}"/>
     <string id="2CfPklXG" text="Army Name"/>
     <string id="2CgZVkDj" text="{.m}архонт{.R_n20_a_ke_p}"/>
     <string id="2EzfAklA" text="You gave {COUNT} {ITEM} to {HERO.NAME}."/>
@@ -247,7 +247,7 @@
     <string id="8oaVYIlk" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ви не можете увійти, оскільки замок належить ворогу."/>
     <string id="8OkPHu4f" text="Ні"/>
     <string id="8Rkxc5jE" text="No Food"/>
-    <string id="8rzcgCO5" text="Sort By"/>
+    <string id="8rzcgCO5" text="Сортування"/>
     <string id="8ucLajpU" text="One Handed Axe"/>
     <string id="8UFjXbbW" text="Flank{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
     <string id="8ZZgNNaY" text="{USE_KEY}"/>
@@ -287,7 +287,7 @@
     <string id="a6FfHHVg" text="Building Effects"/>
     <string id="a6zaA9Um" text="+{BONUS_AMOUNT} increase to settlement militia."/>
     <string id="A7dcz7Yr" text="Melee Weapons II"/>
-    <string id="a8zwLVKj" text="Strength"/>
+    <string id="a8zwLVKj" text="Сила"/>
     <string id="aa5tNRb9" text="Critical Success Chance"/>
     <string id="AagJ9cSL" text="I do not know where {?ASKED_LORD.GENDER}she{?}he{\?} is."/>
     <string id="aaQtzfjL" text="Well done, {?PLAYER.GENDER}madam{?}sir{\?}. Keep the money and wine coming our way, and there's no foe in Calradia you need fear.[ib:convo_approving]"/>
@@ -1376,7 +1376,7 @@
     <string id="SFg3xgCM" text="Nearby"/>
     <string id="sFpNAqHs" text="Compassionate"/>
     <string id="Sj9Ux8jS" text="Дезертирства"/>
-    <string id="sJLUbnLl" text="Total Strength"/>
+    <string id="sJLUbnLl" text="Загальна сила"/>
     <string id="sKnYLPkn" text="{.m}король{.R_n20_a_p}"/>
     <string id="slKe6Gyc" text="Total food of army"/>
     <string id="SLNKWIj5" text="Hero's {TRAIT_NAME} trait needs to be {MAX_TRAIT_AMOUNT} or lower."/>
