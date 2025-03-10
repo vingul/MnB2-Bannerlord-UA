@@ -1378,7 +1378,7 @@
     <string id="cpg0oHZJ" text="Обман смерті"/>
     <string id="cpLFQzx0" text="Huntsman"/>
     <string id="cPPLAz8l" text="Слабке місце"/>
-    <string id="CpsPq6WD" text="the {DAY_ORDINAL} day of {SEASON_NAME}"/>
+    <string id="CpsPq6WD" text="{DAY_ORDINAL} день {.S}{._}{SEASON_NAME}{.v_rod}"/>
     <string id="cPvszBhr" text="{VALUE}% шкоди від кавалерії піхотним військам противника."/>
     <string id="CPxbG7Zp" text="Оплата обіцянкою"/>
     <string id="cQ6CzXKM" text="You have defeated all the brigands as {QUEST_GIVER.LINK} has asked. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful. And sends you the reward, {GOLD_AMOUNT}{GOLD_ICON} gold as promised."/>
@@ -3697,7 +3697,7 @@
     <string id="RmjvSKVq" text="My colleagues are waiting for your arrival. They won't be happy waiting too long with so many valuables at hand."/>
     <string id="rmmZayCT" text="{WOUNDED_COUNT} of your men got wounded because of illness."/>
     <string id="RmW8Wf83" text="{newline} • Party Gold Gain : {PARTY_GOLD_GAIN}"/>
-    <string id="rmydcPP3" text="Party Size:"/>
+    <string id="rmydcPP3" text="Розмір загону:"/>
     <string id="rMySUGLu" text="I am interested. What are they selling?"/>
     <string id="RNdrvZJQ" text="You have failed to bring the revenues to the {?QUEST_GIVER.GENDER}lady{?}lord{\?} in time."/>
     <string id="rNDRyFP4" text="You cleared the hideout and rescued the {QUEST_GIVER.LINK}'s associates. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. &quot;Thank you for rescuing my men. I'll remember this.&quot;"/>
