@@ -19,7 +19,7 @@
     <string id="0j9JnMNB" text="{ITEM_NAME} taken."/>
     <string id="0JyRvjSF" text="Our plan is to form a defensive line."/>
     <string id="0LgxcCbL" text="Order {NUMBER}"/>
-    <string id="0mDkVTWn" text="Heroes"/>
+    <string id="0mDkVTWn" text="Герої"/>
     <string id="0qCbsOif" text="Pistol"/>
     <string id="0RkO7oHP" text="captain"/>
     <string id="0rsySqR6" text="On {DAY_OF_YEAR}, {YEAR}, you heard of a conspiracy working in the shadows to forge the enemies of the Empire into an alliance."/>
@@ -925,7 +925,7 @@
     <string id="kftE5nvv" text="Броня коня"/>
     <string id="KGH8rjOP" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для грабежу."/>
     <string id="KGHlXL8H" text="Very well - we shall cleanse this land with your blood."/>
-    <string id="KGjFnVsR" text="Concepts"/>
+    <string id="KGjFnVsR" text="Концепції"/>
     <string id="kgqCVvIb" text="my brother {REFERING_HERO.LINK}"/>
     <string id="kHC5EjDJ" text="Town Bonus"/>
     <string id="kHC5EjEJ" text="Minor Faction Bonus"/>
@@ -1253,7 +1253,7 @@
     <string id="Q0qrw7F5" text="Add Focus"/>
     <string id="Q2alNolf" text="my kinswoman {REFERING_HERO.LINK}"/>
     <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are retreating."/>
-    <string id="Q3hlcBa4" text="Part of"/>
+    <string id="Q3hlcBa4" text="Входить до складу"/>
     <string id="Q3KrMlLd" text="В АТАКУ!"/>
     <string id="Q67Wys0i" text="Патрулює біля {SETTLEMENT_NAME}{.v_rod}."/>
     <string id="Q7ONA10T" text="&lt;b&gt;Trebuchet&lt;/b&gt;{NEWLINE}Somewhat inaccurate but devastating against walls."/>
