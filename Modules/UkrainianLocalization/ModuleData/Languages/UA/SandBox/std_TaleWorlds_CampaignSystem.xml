@@ -2067,7 +2067,7 @@
     <string id="gywyEgZa" text="{HIDEOUT_DESCRIPTION} There seems to be no one inside."/>
     <string id="Gyy4rwnD" text="{VALUE}% шансу, що війська будуть поранені, а не вбиті під час облогового бомбардування."/>
     <string id="GyZHauax" text="{QUEST_GIVER.LINK}, a rural landowner, has told you about {?QUEST_GIVER.GENDER}her{?}his{\?} problems with the local herders of {TARGET_SETTLEMENT}. Apparently {?QUEST_GIVER.GENDER}she{?}he{\?} purchased the right to use a nearby pasture. But the local herders of {TARGET_SETTLEMENT} refuse to clear out and are causing problems for {?QUEST_GIVER.GENDER}her{?}his{\?} herdsmen. You agreed to do the job yourself, and escort herders to pasture."/>
-    <string id="GYzkb4iB" text=" Parties"/>
+    <string id="GYzkb4iB" text=" Загони"/>
     <string id="GzodT3vS" text="You have failed to scout the enemy settlements in time."/>
     <string id="gZSdus34" text="I offer you one chance to surrender or die."/>
     <string id="GZwNgIon" text="Declare war against {OTHER_FACTION}"/>
