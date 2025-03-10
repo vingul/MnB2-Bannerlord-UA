@@ -1196,7 +1196,7 @@
     <string id="bOhbWapX" text="Приклад для наслідування"/>
     <string id="BOp61V4A" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {._}{REQUIRED_ITEM} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {ITEM_COUNT} {.%}{?(ITEM_COUNT &gt; 1)}{PLURAL(REQUIRED_ITEM)}{?}{REQUIRED_ITEM}{\?}{.%}  to {?QUEST_GIVER.GENDER}her{?}him{\?}. {PAYMENT_DESCRIPTION}"/>
     <string id="bOQEc7jA" text="I am a {?PLAYER.GENDER}woman{?}man{\?} of my word. I hope that it is sufficient."/>
-    <string id="bOTQ7Pta" text="Town"/>
+    <string id="bOTQ7Pta" text="Місто"/>
     <string id="bOtYmSP8" text="Road Tolls"/>
     <string id="boXP9vkF" text="{VALUE}% відстані виявлення сліду."/>
     <string id="bOyjQ4yr" text="If you can deliver {REQUESTED_AMOUNT} {.%}{?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%} to my contact {TARGET_HERO.LINK}, who you can find in {TARGET_SETTLEMENT}, that would help me survive for a time. The merchants of the town could be furious and lodge legal complaints of course, but hopefully you won't have to deal with that part."/>
@@ -3846,7 +3846,7 @@
     <string id="SLaJsVnq" text="Власне, я передум{?PLAYER.GENDER}ала{?}ав{\?}."/>
     <string id="sLjGguGy" text="Sure, they're bastards. But they'll be loyal bastards if you treat them well."/>
     <string id="SlmhqqH8" text="Town Walls"/>
-    <string id="SlubkZ1A" text="Eliminated"/>
+    <string id="SlubkZ1A" text="Ліквідовано"/>
     <string id="sMCN7eCp" text="Is there any other way to solve this problem?"/>
     <string id="smdvQWvu" text="{?PLAYER_CHILD}Your{?}This{\?} child loves animals of all kinds. You know that one day {?CHILD.GENDER}she{?}he{\?} will be a great rider."/>
     <string id="SN3pjZiK" text="You received a message from {QUEST_GIVER.LINK}.\n&quot;Thank you for clearing out that bandits' nest. Please accept these {REWARD}{GOLD_ICON} denars with our gratitude.&quot;"/>
@@ -3890,7 +3890,7 @@
     <string id="sVL8Z0lg" text="You met {QUEST_GIVER.LINK}'s associates near their hideout and demanded they turn over the goods to you, refusing to pay. They refused, and your only option now is to attack the hideout under cover of darkness and take the goods by force."/>
     <string id="SVrCpvpZ" text="Thank you {PLAYER.NAME}. Our people are grateful to you for what you have done today. Farewell.[if:convo_relaxed_happy]"/>
     <string id="svuD2vBo" text="You were knocked unconscious while trying to break {PRISONER.NAME} out of the dungeon.{newline}The guards caught you both and threw you in a cell."/>
-    <string id="sVXa3zFx" text="Castle"/>
+    <string id="sVXa3zFx" text="Замок"/>
     <string id="swgcsLOA" text="{VALUE}% більше здобичі з переможених селян і караванів."/>
     <string id="SXbW99CH" text="treated injuries."/>
     <string id="SXCudsWT" text="State Monopolies"/>
