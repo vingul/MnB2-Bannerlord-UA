@@ -13,7 +13,7 @@
     <string id="1Rht7WZI" text="I think I have heard your name. I believe you caused some trouble for us."/>
     <string id="267ch9fZ" text="That raid on {VILLAGE_NAME}... Hard on the farmers there. Well, anyway, I'm sure the {ENEMY_NAME} would have done the same to us."/>
     <string id="27KUtWGA" text="You came through on that task I gave you. I thank you."/>
-    <string id="2FWBCCw0" text="Sister"/>
+    <string id="2FWBCCw0" text="Сестра"/>
     <string id="2VkCAuiu" text="Yes... I believe I may have heard your name."/>
     <string id="2vMNJl7F" text="Very well. It is settled, then."/>
     <string id="3L7Rkswm" text="You can surrender, but I hope you don't. I'd enjoy sticking a blade into you until you squeal.[ib:warrior][if:convo_mocking_revenge]"/>
@@ -288,7 +288,7 @@
     <string id="wrIYDx9V" text="I'm free? Well... Good bye, then.[if:convo_nonchalant]"/>
     <string id="Wt4iJPcd" text="I've heard of you! It's very good to finally make your acquaintance."/>
     <string id="WVeS3Lsb" text="Seek not the things of this world, but thirst after the divine truth."/>
-    <string id="wWwoTzpG" text="Brother"/>
+    <string id="wWwoTzpG" text="Брат"/>
     <string id="x3EZDo5k" text="I hear you have a habit of attacking helpless villagers, like my tenants at {VILLAGE_NAME}. I think you'll find my men a tougher morsel to chew."/>
     <string id="xb5RGe0W" text="Thanks again for taking on that little matter for me. Best of luck."/>
     <string id="XBbdhx4M" text="Again, I'm glad to have your assistance."/>
