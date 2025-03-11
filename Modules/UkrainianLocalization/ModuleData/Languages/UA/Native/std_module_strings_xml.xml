@@ -64,7 +64,7 @@
     <string id="2CfPklXG" text="Army Name"/>
     <string id="2CgZVkDj" text="{.m}архонт{.R_n20_a_ke_p}"/>
     <string id="2EzfAklA" text="You gave {COUNT} {ITEM} to {HERO.NAME}."/>
-    <string id="2gpFPuZZ" text="Cruel"/>
+    <string id="2gpFPuZZ" text="Жорстокий"/>
     <string id="2Ja8KYVg" text="Offensive"/>
     <string id="2JnLh6F0" text="Deceitful"/>
     <string id="2Jr3zWQz" text="Horses and Horse Harnesses"/>
@@ -94,7 +94,7 @@
     <string id="3Gb7tKgJ" text="{LEFT} та {RIGHT}"/>
     <string id="3gkb0YCn" text="Pull back now or take command of your forces!"/>
     <string id="3IGjY8RG" text="Skirmish freely"/>
-    <string id="3IpiWM7H" text="Bandit"/>
+    <string id="3IpiWM7H" text="{.m}Бандит{.R_n20_a_ke}"/>
     <string id="3KD1KqHp" text="Siege Tower (Level 2)"/>
     <string id="3l8HsbHK" text="Heh. You made a wise choice. Come back this way and we can do business again.[ib:closed][rf:convo_bemused]"/>
     <string id="3lZchBXQ" text="{ISSUE_NAME}: Your troops failed to resolve the matter."/>
@@ -173,7 +173,7 @@
     <string id="6e82kCVB" text="Low-Grip Polearm"/>
     <string id="6GmsZ7AG" text="You gave {COUNT} {ITEM} to {PARTY_NAME}."/>
     <string id="6GSXsdeX" text="Швидкість"/>
-    <string id="6jp724SU" text="Enemies"/>
+    <string id="6jp724SU" text="Вороги"/>
     <string id="6Jx6qbZn" text="Defend{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} walls"/>
     <string id="6kqK0kUn" text="There is no need to stay on the defense. Patrol the area."/>
     <string id="6nQR7yYF" text="Почати"/>
@@ -311,7 +311,7 @@
     <string id="aGNfjmsz" text="&lt;b&gt;Ladder&lt;/b&gt;"/>
     <string id="aGSMGMfn" text="Милосердя:"/>
     <string id="agYpWI9u" text="Success Chance"/>
-    <string id="aH4KnzBu" text="Cautious"/>
+    <string id="aH4KnzBu" text="Обережний"/>
     <string id="AhcKMabs" text="Raided villages"/>
     <string id="aHKwty74" text="Cancel Action"/>
     <string id="aHu7bgbx" text="On {DAY_OF_YEAR}, {YEAR}, {HERO_NAME} came of age."/>
@@ -323,7 +323,7 @@
     <string id="aJXhsjmT" text="Greetings, traveller. Unless you wish your bones to be left in the sand to be gnawed upon by jackals, give us what we want."/>
     <string id="ajZTZoXQ" text="Two Handed Mace"/>
     <string id="AkgIYqHT" text="sultana"/>
-    <string id="AkUpgiBl" text="Tier {TIER_LEVEL}"/>
+    <string id="AkUpgiBl" text="Клас {TIER_LEVEL}"/>
     <string id="alEG3BOa" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {CLAN_LEADER}."/>
     <string id="AmbKQ7LT" text="Перемістити"/>
     <string id="AMhvD9om" text="Командувач армії"/>
@@ -473,7 +473,7 @@
     <string id="CgAGsR1P" text="twenty-ninth"/>
     <string id="chieftainfemale" text="{.m}вождь{.R_n20_a_p}"/>
     <string id="ChmM5tjf" text="The game is a draw!"/>
-    <string id="cJmI2poS" text="Info"/>
+    <string id="cJmI2poS" text="Інформація"/>
     <string id="cjZqTaHm" text="You don't have enough influence."/>
     <string id="CKGavOyA" text="Бийтеся списом або подібною одноручною чи дворучною древковою зброєю."/>
     <string id="cKKYSB0z" text="You have lost {AMOUNT}{GOLD_ICON}."/>
@@ -612,9 +612,9 @@
     <string id="evuR5kwf" text="Rumour has it the {ITEM_NAME} around here sells for cheaper than in other towns. If you were to buy some here and take it to {TOWN_NAME}, where it fetches a higher price, you could probably make around {PRICE_DIFF}{GOLD_ICON} of profit per item."/>
     <string id="EvvMNX3A" text="The starting player chooses one of four pawns to be removed from the board.{newline}Then, the other player selects one of his adjacant pawns to also be removed. If the pawn of the starting player was in the center, the other player has to remove one of two pawns in the center too.{newline}{newline}The game now begins."/>
     <string id="Ew11a1Tx" text="Catapult"/>
-    <string id="EWa1R7bv" text="Enemies "/>
+    <string id="EWa1R7bv" text="Вороги "/>
     <string id="EWq48MmD" text="{LEFT}: {RIGHT}"/>
-    <string id="EWRoIdbA" text="Bandits"/>
+    <string id="EWRoIdbA" text="{.p}Бандит{.R_n20_p}"/>
     <string id="exhusbandbrotherinlaw" text="Former brother-in-law"/>
     <string id="exhusbandfatherinlaw" text="Former father-in-law"/>
     <string id="exhusbandmotherinlaw" text="Former mother-in-law"/>
@@ -687,7 +687,7 @@
     <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}"/>
     <string id="FZBqNCvd" text="nobody"/>
     <string id="G0AWk1rX" text="Ladder"/>
-    <string id="g0gDsalr" text="Impulsive"/>
+    <string id="g0gDsalr" text="Імпульсивний"/>
     <string id="g1KLcfxT" text="Село процвітає. Повні мішки зерна, здорові тварини та навантажені вози свідчать про багаті врожаї."/>
     <string id="G4XXubLg" text="{.f}еміра{.R_n10_ko_p1}"/>
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!"/>
@@ -748,7 +748,7 @@
     <string id="gZmQvtxm" text="Battering Ram Roof"/>
     <string id="h03DZtbc" text="Heavy Horse"/>
     <string id="H0o13D7a" text="Shops"/>
-    <string id="H1emUb6k" text="Age:"/>
+    <string id="H1emUb6k" text="Вік:"/>
     <string id="H4rAiNlf" text="You bet {BET_AMOUNT} on yourself and you won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="h6AJXR2e" text="Are you sure to retreat your party?"/>
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election"/>
@@ -900,7 +900,7 @@
     <string id="JSokBXER" text="Heavy Infantry"/>
     <string id="jSXE0Gbj" text="Селян тут небагато і вони налякані, вони швидко розбігаються, коли бачать вас. Село у вашій повній владі."/>
     <string id="jtN3ayKE" text="Основна продукція"/>
-    <string id="JTyC3Xra" text="Closefisted"/>
+    <string id="JTyC3Xra" text="Скупий"/>
     <string id="Ju9ZiFT2" text="Melee Weapons V"/>
     <string id="Jw4oiIM4" text="On {DAY_OF_YEAR}, {YEAR}, {KING_NAME} was annointed {?IS_KING_MALE}Emperor{?}Empress{\?} of Calradia"/>
     <string id="jxatfzXh" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} died of natural causes."/>
@@ -1009,7 +1009,7 @@
     <string id="LSsFOEQy" text="Менше доби"/>
     <string id="lTTWrL1Q" text="Quest Timed Out: {QUEST_TITLE}"/>
     <string id="lvc1Xgf8" text="Tavern Wench"/>
-    <string id="lxLTCX5j" text="Occupation:"/>
+    <string id="lxLTCX5j" text="Статус:"/>
     <string id="LymKjMLk" text="Your men have just join your party"/>
     <string id="lZ1IDnpP" text="Give All"/>
     <string id="LZhRP3PM" text="Wait for other siege machines"/>
@@ -1017,7 +1017,7 @@
     <string id="lznqF0oO" text="Disbanding"/>
     <string id="M2b5mtAE" text="Companion of"/>
     <string id="m2YKBbdI" text="Hello there, little lost sheep. We are wolves of the mountains, and we would like a moment of your time...[rf:convo_mocking_revenge]"/>
-    <string id="m6A7RLby" text="Devious"/>
+    <string id="m6A7RLby" text="Підступний"/>
     <string id="M6cWtObI" text="The following heroes can craft this weapon:"/>
     <string id="M6tfHhq7" text="You have voted and the ruler has decided on the outcome."/>
     <string id="M9p0vPad" text="I know your name... {COMMENT_STRING_MAIN}"/>
@@ -1120,7 +1120,7 @@
     <string id="NqSLYe6b" text="Renown:"/>
     <string id="NqtTPVzn" text="Attributes"/>
     <string id="NRbNsJ9C" text="This will cancel your changes! Are you sure?"/>
-    <string id="NRpwZGxI" text="Soldier"/>
+    <string id="NRpwZGxI" text="Солдат"/>
     <string id="NSSsxBHV" text="Випадково"/>
     <string id="NvJru5Tz" text="Male Only"/>
     <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using murder holes."/>
@@ -1672,7 +1672,7 @@
     <string id="YhLweMrP" text="Armors"/>
     <string id="Yj0cQVLH" text="В атаку!"/>
     <string id="yjXoftYs" text="В останнє бачили {?IS_IN_SETTLEMENT}в {.S}{SETTLEMENT}{.v_mis}{?}біля {.S}{SETTLEMENT}{.v_rod}{\?}."/>
-    <string id="YK3nXtoM" text="Friends"/>
+    <string id="YK3nXtoM" text="Друзі"/>
     <string id="YkagFP1z" text="my mother {REFERING_HERO.LINK}"/>
     <string id="ykZLXKH3" text="Renown: {RENOWN}"/>
     <string id="ylQJwqKH" text="You're leaving hard earned, free loot behind! Are you sure?"/>
