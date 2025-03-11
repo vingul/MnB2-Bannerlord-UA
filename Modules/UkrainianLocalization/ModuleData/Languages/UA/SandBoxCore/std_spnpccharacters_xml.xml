@@ -151,7 +151,7 @@
     <string id="n89z19Dv" text="Hired Pike"/>
     <string id="nDoENDqD" text="Aserai Caravan Master"/>
     <string id="nPyqHxmf" text="Vlandian Sergeant"/>
-    <string id="NRvuCvMN" text="Sellsword"/>
+    <string id="NRvuCvMN" text="{.m}Найманий{.R_adj} {.m}мечник{.R_n20_a}{@Plural}{.p}Найманий{.R_adj} {.p}мечник{.R_n20_p}{\@}"/>
     <string id="o1jvmi9P" text="Khuzait Raider"/>
     <string id="OQPDvtpk" text="Vlandian Gallant"/>
     <string id="oseSwa56" text="Vlandian Knight"/>
