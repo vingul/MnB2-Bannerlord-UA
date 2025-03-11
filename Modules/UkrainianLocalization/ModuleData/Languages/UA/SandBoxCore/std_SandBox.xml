@@ -186,7 +186,7 @@
     <string id="A9uSikTY" text="Thank you my {?PLAYER.GENDER}lady{?}lord{\?}."/>
     <string id="aB1EZssb" text="Great, let's begin!"/>
     <string id="AbIUjOLZ" text="Sure. What do you want to know?"/>
-    <string id="abux36nq" text="{HERO.NAME} joined your party."/>
+    <string id="abux36nq" text="{HERO.NAME} {?HERO.GENDER}приєдналася{?}приєднався{\?} до вашого загону."/>
     <string id="aC0Fq6IE" text="Do not waste time, {PLAYER.NAME}. The spy probably won't linger any longer than he has to.[if:convo_thinking] Or she has to."/>
     <string id="aCwCaWGC" text="Your skills are not what I need."/>
     <string id="aD1BoB3c" text="Yes. Let's have another round."/>
