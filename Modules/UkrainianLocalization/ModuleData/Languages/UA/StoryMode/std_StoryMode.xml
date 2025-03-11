@@ -50,7 +50,7 @@
     <string id="5D5lOHSL" text="When you have recovered all pieces, return to me and I'll help you put them to use.[if:convo_calm_friendly]"/>
     <string id="5g9ZFGrN" text="Ви знаходитесь на тренувальному полігоні. Тут ви можете навчитися основам ведення бою."/>
     <string id="5j6qvGAF" text="Excellent work! When you unfurl this banner, and men see what they thought was lost, it will make a powerful impression.[ib:normal2][if:convo_astonished]"/>
-    <string id="5K4wvz3w" text="Find and meet {HERO.LINK} to learn more about Neretzes' Banner. He is currently in {SETTLEMENT}."/>
+    <string id="5K4wvz3w" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про прапор Неретцеса. Наразі він перебуває в {.S}{SETTLEMENT}{.v_dav}."/>
     <string id="5LJTeOBT" text="Я був з караваном і тут раптом вони просто вийшли з кущів. Ми були оточені та в меншості, тому ми одразу здалися. Я подумав, що вони збережуть нам життя, хоча б заради викупу. Але потім вони почали гнати нас на шаленій швидкості, без води, і мені здавалося, що я ось-ось впаду.[ib:nervous2]"/>
     <string id="5Mw4trfs" text="Як тільки завершите підготовку, приходьте до мене і поговоримо ще раз. Я можу запропонувати вам певну роботу, якщо ви збираєтесь переслідувати цих бандитів.[if:convo_pondering]"/>
     <string id="5PGokzW1" text="Talk is cheap. If you really want me that bad, I challenge you to a duel."/>
@@ -62,7 +62,7 @@
     <string id="6Dd3Pa07" text="You managed to thwart the conspiracy."/>
     <string id="6iytd81P" text="You are defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="6LQUuQhV" text="Thank you for your precious help."/>
-    <string id="6qgXAcZB" text="Neretzes, when he heard we were hesitating, sent us a message calling us cowards and traitors. And you say that to a Vlandian noble at your peril. Neretzes should have known what he was doing. We joined the Sturgians.[if:convo_undecided_closed]"/>
+    <string id="6qgXAcZB" text="Неретцес, почувши, що ми сумніваємося, прислав нам послання, в якому назвав нас боягузами та зрадниками. А так говорити з вландійською знаттю ніхто не має права. Неретцес мав би це розуміти. Ми приєдналися до стургійців.[if:convo_undecided_closed]"/>
     <string id="6UIa4784" text="Can you tell me anything about the battle of Pendraic?"/>
     <string id="6vCHovVH" text="ви перемогли одного з грабіжників."/>
     <string id="6YhGGJ7a" text="Finally, you need a capital for your realm. It can be any settlement you own, so long as they do not speak the imperial tongue. I will not help you create another Empire."/>
@@ -95,7 +95,7 @@
     <string id="A9fChKmz" text="The Empire was an old bear. Well-fed, slow-moving. It wanted to keep what it had. The Sturgians were, and are, hungry wolves. Like us. Sometimes wolves hunt in packs, and sometimes they don't. Sometimes one wolf wants the lion to kill his rival."/>
     <string id="aClquusd" text="Troop Count"/>
     <string id="ACyYhA2s" text="Знайти та врятувати лікаря"/>
-    <string id="AGIPUYvy" text="We had our shields but you can only point them in one direction at once. So we started to drop, one by one, until the Battanian falxmen came screaming out of the trees. Ordinarily they'd be very vulnerable to archers, but, well, old Neretzes hadn't thought to send any along with us. So they came upon us, chopping and slashing, and we fought until we broke."/>
+    <string id="AGIPUYvy" text="У нас були щити, але ж ними можна захиститися тільки з одного боку. Тож ми почали втрачати воїнів, один за одним, і в якийсь момент з-за дерев вискочили з криками баттанські воїни з фальксами. Зазвичай з ними могли б справитися звичайні лучники, але старий Неретцес не додумався послати їх з нами. Тож вони безперешкодно змогли дістатися нас і, рубаючи та колючи, досить швидко здолали наш опір."/>
     <string id="agrsO3qQ" text="Due to your successful skirmishes against {RAIDER_NAME}, a conspiracy war party is now patrolling around {SETTLEMENT}."/>
     <string id="aGX3L8mV" text="We heard that the Empire was making war on the Sturgians, or maybe it was the other way around. I thought that we had no stake in this quarrel but Nimr, a fiery young hero from the Bani Sarran, asked me for permission to take some young warriors, eager for glory."/>
     <string id="AHDQffXv" text="Have you assembled the banner?"/>
@@ -244,7 +244,7 @@
     <string id="H2FMIJmw" text="My wolves! Kill them![ib:aggressive][if:convo_furious]"/>
     <string id="h31YaM4b" text="Забратися на коня."/>
     <string id="h68qCoz3" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}. He has been abducted by bandits, who intend to sell him into slavery."/>
-    <string id="h9VP4ypW" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про прапор Неретцеса. Наразі вона знаходиться в {.S}{SETTLEMENT}{.v_dav}."/>
+    <string id="h9VP4ypW" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про прапор Неретцеса. Наразі вона перебуває в {.S}{SETTLEMENT}{.v_dav}."/>
     <string id="hadftxlO" text="We have strayed too far from our path. I'll take the lead for some time. You follow me."/>
     <string id="HCA9xOOo" text="You should be ruling a kingdom of non-imperial culture."/>
     <string id="HDBkwjgf" text="{NOBLE_ANSWER}"/>
