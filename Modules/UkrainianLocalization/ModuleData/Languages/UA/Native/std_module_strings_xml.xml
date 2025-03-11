@@ -1527,7 +1527,7 @@
     <string id="VI4gQt8Q" text="Mace"/>
     <string id="Vi6ojGrk" text="{FACTION_1_NAME} vs {FACTION_2_NAME}"/>
     <string id="vIpFgbU6" text="Light Armor"/>
-    <string id="VJNJsdif" text="{COMPANION.NAME} joined your party."/>
+    <string id="VJNJsdif" text="{COMPANION.NAME} {?COMPANION.GENDER}приєдналася{?}приєднався{\?} до вашого загону."/>
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
     <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>
     <string id="vnmy8Bjl" text="Total Expenses "/>
