@@ -655,7 +655,7 @@
     <string id="nh7a3Nog" text="Well well. Who did you bring to see us? [ib:confident][if:convo_irritable]Did he bring his funeral shroud with him? I hope so. He's not leaving here alive."/>
     <string id="Nhfl6tcM" text="Maybe, but that is your duty to your family."/>
     <string id="NIzQb6nT" text="Leave and meet {?QUEST_GIVER.GENDER}her{?}him{\?} later"/>
-    <string id="NMakguW4" text="{LEADER.LINK} has created an army around {SETTLEMENT}."/>
+    <string id="NMakguW4" text="{LEADER.LINK} {?LEADER.GENDER}створила{?}створив{\?} армію біля {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="nMFY2Pb0" text="We are doomed I say, doomed. A ruler who cannot control {?RULER.GENDER}her{?}his{\?} passions brings ruin on the realm."/>
     <string id="nmPaCLHp" text="{FIGHT_DEBRIEF} Бажаєте спробувати ще раз?"/>
     <string id="NMrzr7Me" text="Now, leave peacefully..."/>
