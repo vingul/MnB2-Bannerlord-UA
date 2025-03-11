@@ -343,7 +343,7 @@
     <string id="arHXmqqc" text="a beg"/>
     <string id="ARQY0vAz" text="Can't manage the army during an encounter"/>
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines."/>
-    <string id="aS3xHcD4" text="Son"/>
+    <string id="aS3xHcD4" text="Син"/>
     <string id="asHzEWnG" text="We shall stain the sands with your blood, then."/>
     <string id="AT5aTROe" text="seventh"/>
     <string id="ATsEQh7m" text="{SEASON} {?SEASON_IS_PLURAL}seasons{?}season{\?}"/>
@@ -398,11 +398,11 @@
     <string id="Bg83jhCR" text="Місто явно переживає не найкращі часи. Люди мають виснажений вигляд, а будівлі перебувають у жахливому стані."/>
     <string id="bg8co4he" text="Зарізати{newline}Ви не зможете скасувати цю дію."/>
     <string id="bh2v8n4K" text="{.m}Одяг{.R_n20_u_zi}{@Plural}{.p}Тюк{.R_n20_p} одягу{\@}"/>
-    <string id="bh9U2fsZ" text="Son-in-law"/>
+    <string id="bh9U2fsZ" text="Зять"/>
     <string id="BhGlPxqx" text="You can only disband mobile parties"/>
     <string id="BhiOmgst" text="Under Siege"/>
-    <string id="bigbrother" text="Brother"/>
-    <string id="bigsister" text="Sister"/>
+    <string id="bigbrother" text="{.m}Старший{.R_adj} {.m}брат{.R_n20_a_ke}"/>
+    <string id="bigsister" text="{.f}Старший{.R_adj} {.f}сестра{.R_n10_ko}"/>
     <string id="bih4MD9a" text="Меню паузи"/>
     <string id="BixmxJPX" text="Your vassals will be more inclined to take offensive actions against this enemy such as raids and sieges."/>
     <string id="bJ5SzaXp" text="Поранення"/>
@@ -536,7 +536,7 @@
     <string id="dKXdN4BL" text="You are leading an army"/>
     <string id="DM6luo3c" text="Продовжити"/>
     <string id="dMKyWmJ6" text="You are trapped by enemies."/>
-    <string id="dO5tqXT8" text="Ex-Spouse"/>
+    <string id="dO5tqXT8" text="{?NPC.GENDER}Колишня дружина{?}Колишній чоловік{\?}"/>
     <string id="DOaIBObZ" text="(Daily defaults become active when there are no projects under construction)"/>
     <string id="DOKG38dF" text="Навчання увімкнено"/>
     <string id="DPbv2cOo" text="Redeploying"/>
@@ -838,7 +838,7 @@
     <string id="iORENG5d" text="Mercenaries cannot propose policies."/>
     <string id="IOtAJCVw" text="Total Influence: {TOTAL_INFLUENCE}"/>
     <string id="IPjqLEdQ" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#} назад"/>
-    <string id="IQ4bSdf5" text="Sister-in-law"/>
+    <string id="IQ4bSdf5" text="{.f}Своячка{.R_n10_ko_p2}"/>
     <string id="iQao7Ct6" text="Starving Parties"/>
     <string id="iRo4meJR" text="Can't access encyclopedia right now!"/>
     <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w)"/>
@@ -985,8 +985,8 @@
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are protecting {#IS_LEFT}{#}left{#}multiple{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?} flank{#IS_LEFT}{#}{#}s{\#}."/>
     <string id="lh1yhgXw" text="Horse Equipment V"/>
     <string id="lihYjOSc" text="pcs."/>
-    <string id="littlebrother" text="Brother"/>
-    <string id="littlesister" text="Sister"/>
+    <string id="littlebrother" text="{.m}Молодший{.R_adj} {.m}брат{.R_n20_a_ke}"/>
+    <string id="littlesister" text="{.f}Молодший{.R_adj} {.f}сестра{.R_n10_ko}"/>
     <string id="lj8XH6O7" text="Can't access kingdom window right now!"/>
     <string id="ljcHO6PW" text="Security Drift"/>
     <string id="LjUhEJxz" text="{.m}Караван{.R_n20_u} {.S}{OWNER.NAME}{.v_rod}"/>
@@ -1061,7 +1061,7 @@
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender."/>
     <string id="MT4b8H9h" text="Unknown"/>
     <string id="mTTWkewD" text="Give"/>
-    <string id="MUCmJaXQ" text="Ruler of the {FACTION_INFORMAL_NAME}"/>
+    <string id="MUCmJaXQ" text="Правитель {FACTION_INFORMAL_NAME}{.v_rod}"/>
     <string id="MUStU7ab" text="brother"/>
     <string id="MW8rlyfL" text="Thrown"/>
     <string id="MWatMKoP" text="On {DAY_OF_YEAR}, {YEAR}, the secret pact between the imperial factions was revealed, as the armies of the former rivals took the field together."/>
@@ -1158,7 +1158,7 @@
     <string id="oiFt5bEV" text="Building Bonus"/>
     <string id="oiSW6MyB" text="Chest Armor"/>
     <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}"/>
-    <string id="oKct1ecg" text="Daughter"/>
+    <string id="oKct1ecg" text="Дочка"/>
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
     <string id="OLKGQGHU" text="I am lord of {TOWNS}."/>
     <string id="OLyjbawD" text="[More]"/>
@@ -1180,7 +1180,7 @@
     <string id="oVSS2Lp5" text="Horse Equipment III"/>
     <string id="OWCoBElc" text="You are taken captive by {PARTY_NAME}."/>
     <string id="owg6SqHF" text="{.m}емір{.R_n20_a_ke_p}"/>
-    <string id="owTlJjJc" text="Brother-in-law"/>
+    <string id="owTlJjJc" text="{.m}Шурин{.R_n20_a_ke}"/>
     <string id="OxiaKT0G" text="Sturgian"/>
     <string id="oYUAuLO7" text="You have sworn not to attack."/>
     <string id="OzazmGBi" text="the Khuzaits"/>
@@ -1224,7 +1224,7 @@
     <string id="pkyASW0A" text="Party / Payment Size Reach"/>
     <string id="pLZeP6L6" text="Assault walls{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
     <string id="pm0yiOmv" text="Earned: {DENAR_AMOUNT}{GOLD_ICON}"/>
-    <string id="pMb8Pe12" text="Daughter-in-law"/>
+    <string id="pMb8Pe12" text="Невістка"/>
     <string id="PMnSk81U" text="So you intend to fight, little sheep? Let's see your horns then."/>
     <string id="PN4Edq9W" text="Melee Weapons III"/>
     <string id="pn9KNMxb" text="You are trapped by enemies. But your men are in no condition to fight. Your only option is to surrender."/>
@@ -1394,7 +1394,7 @@
     <string id="SqUphVOm" text="Parties ({CURRENT} / {LIMIT})"/>
     <string id="SrfYbg3x" text="Leader"/>
     <string id="SRYuaoh1" text="This region is gripped by civil disorder, yet people must still go about their daily chores. For the most part, they not linger long in the markets or make eye contact. But you overhear hushed conversations about the rebels in the countryside. Some seem to be afraid of the rebels, others secretly thrilled that the tables have turned, even for a little while, on the rich and powerful."/>
-    <string id="strcharactertypelady" text="Lady"/>
+    <string id="strcharactertypelady" text="Леді"/>
     <string id="stS5PBIr" text="Preacher"/>
     <string id="svArZT0G" text="Details"/>
     <string id="Svem1NiV" text="Your opponent has been knocked unconscious and you are the winner!"/>
@@ -1460,7 +1460,7 @@
     <string id="Tyc4aAdz" text="Join the battle without leading any men."/>
     <string id="u3c9M8vx" text="{.f}архонтесса{.R_n10_ko_p1}"/>
     <string id="U7etPQA2" text="{FIRSTNAME} the {JOB_NAME}"/>
-    <string id="U7Z7f7ZT" text="Spouse"/>
+    <string id="U7Z7f7ZT" text="{?NPC.GENDER}Дружина{?}Чоловік{\?}"/>
     <string id="U8TPlwW9" text="Well met {PLAYER.LINK}. I am in your debt for what you just did. I hope one day I will find a way to repay it."/>
     <string id="U8VHRdwF" text="Броня (ноги): "/>
     <string id="ua15BlYh" text="Скинути все"/>
@@ -1520,7 +1520,7 @@
     <string id="vdKLq8T5" text="Walls{newline}Level {LEVEL}"/>
     <string id="veiFupWz" text="{?RULER.GENDER}Baroness{?}Baron{\?} {RULER.NAME}"/>
     <string id="VeOqrmx5" text="{LEFT}{FOCUS_ICON}{RIGHT}"/>
-    <string id="VeqwXwYc" text="Enemies are fleeing. You won the battle."/>
+    <string id="VeqwXwYc" text="Вороги тікають. Ви виграли битву."/>
     <string id="vgXYtMrj" text="Battle Survivors"/>
     <string id="VHjIJGja" text="You need to be in a kingdom"/>
     <string id="vhq22OyK" text="Prosp."/>
@@ -1657,7 +1657,7 @@
     <string id="yaxwYglT" text="Dispatched"/>
     <string id="YbabzW3H" text="You've been in prison at {SETTLEMENT_NAME} for {NUMBER_OF_DAYS} {?PLURAL}days{?}day{\?}."/>
     <string id="YbB2IpTR" text="Your relation is decreased by {MAGNITUDE} to {VALUE} with {HERO.NAME}."/>
-    <string id="yBnwGiuB" text="Lord"/>
+    <string id="yBnwGiuB" text="Лорд"/>
     <string id="Yc4xzip6" text="Do you want to execute {NAME}?"/>
     <string id="YCYwPPlJ" text="Вимкнути навчання"/>
     <string id="YeaFZzXS" text="On {DAY_OF_YEAR}, {YEAR}, {LEADER_NAME} declared the creation of a new realm, the {KINGDOM_NAME}."/>
