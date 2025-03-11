@@ -359,7 +359,7 @@
     <string id="b0Mv6mZy" text="Retake castle position!"/>
     <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are assaulting the walls."/>
     <string id="b1c0Sh4A" text="twenty-first"/>
-    <string id="B1j4F6i7" text="{?DAY_IS_PLURAL}Days{?}Day{\?}"/>
+    <string id="B1j4F6i7" text="{#GET_PLURAL_VALUE(DAY)}День{#}Дні{#}Днів{\#}"/>
     <string id="b1Ra7gHa" text="Ranged Weapons II"/>
     <string id="b1vtY2yU" text="Expected"/>
     <string id="b4lDDcli" text="{.f}Родина{.R_n10}"/>
@@ -977,7 +977,7 @@
     <string id="laV5aNhK" text="Unique"/>
     <string id="LAvXPBbs" text="Defend our siege engines!"/>
     <string id="lb13ceVM" text="{?RULER.GENDER}High Queen{?}High King{\?} {RULER.NAME}"/>
-    <string id="lbdSaDpI" text="Time Remaining"/>
+    <string id="lbdSaDpI" text="Залишилося часу"/>
     <string id="LBy6YDMV" text="Regroup"/>
     <string id="Lc1vIEnM" text="Wolves and sheep move in the same way by sliding along the lines on the board, one tile per turn."/>
     <string id="LEC8NhCV" text="Policies"/>
