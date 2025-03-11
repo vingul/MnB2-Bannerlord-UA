@@ -38,7 +38,7 @@
     <string id="1zFYpSSY" text="Fringed Decorated Steel Cap with Cheek Guards"/>
     <string id="1zXrlaav" text="Ваша родина була шанованими торговцями в місті-оазисі. Вони водили каравани через пустелю і були експертами в тонкощах переговорів про перетин територій пустельних племен."/>
     <string id="20moIxs1" text="Kettle over Laced Coif"/>
-    <string id="22a9fyiQ" text="Father"/>
+    <string id="22a9fyiQ" text="Батько"/>
     <string id="275LD0Gh" text="Shop Worker"/>
     <string id="2AcfBbCR" text="Military Tunic"/>
     <string id="2awf1tei" text="Tax"/>
@@ -425,7 +425,7 @@
     <string id="fBAf3OWb" text="Ornate Desert Battle Crown"/>
     <string id="FClEZIkT" text="Sovos"/>
     <string id="FDEIHpIN" text="Mirrored Brigandine Armor"/>
-    <string id="femalechild" text="Child"/>
+    <string id="femalechild" text="{.f}Дівчинка{.R_n10_ko}"/>
     <string id="fEQAPJ2e" text="{KEY} Використання"/>
     <string id="FF3dQKc1" text="Nethor"/>
     <string id="FfNwXtii" text="Якщо у дитинстві у вашій зграї вовченят і був лідер, то це, безумовно, були ви. Всі інші діти йшли за вами, оскільки ви вирішували, у що і де грати. Ви керували ними в цих іграх і різного роду бешкетах."/>
@@ -677,7 +677,7 @@
     <string id="m6uSOtE4" text="You don't have enough money."/>
     <string id="m9ZgghCo" text="Abagai"/>
     <string id="MafIe9yI" text="Юна зрілість"/>
-    <string id="malechild" text="Child"/>
+    <string id="malechild" text="{.m}Хлопчик{.R_n20_a}"/>
     <string id="malethug" text="Thug"/>
     <string id="MamotK0a" text="Padded Vambraces"/>
     <string id="mBVCyRY5" text="Decorated Legionary Mail"/>
@@ -976,7 +976,7 @@
     <string id="U8QfF3Gw" text="Long Woolen Tunic"/>
     <string id="Ua6CNLBZ" text="Село"/>
     <string id="UaN2lfwi" text="Weaponsmith"/>
-    <string id="UB4sqrWx" text="Mother"/>
+    <string id="UB4sqrWx" text="Матір"/>
     <string id="UC2XfY7V" text="Cloth Hood"/>
     <string id="uCyAnus4" text="Zostios"/>
     <string id="ud6rhXbn" text="Mostiros"/>
