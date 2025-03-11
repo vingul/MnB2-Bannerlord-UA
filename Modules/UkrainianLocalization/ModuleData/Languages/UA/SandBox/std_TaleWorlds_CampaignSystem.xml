@@ -20,7 +20,7 @@
     <string id="0A6BUASZ" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду щодня піхотинцям вашого загоні."/>
     <string id="0aMHHQL4" text="{VALUE}% швидкості перезаряджання для мангонелів і требушетів при облогах."/>
     <string id="0aU9dtvV" text="Time:"/>
-    <string id="0AUYrhGw" text="{VALUE} до максимального ліміту супутників."/>
+    <string id="0AUYrhGw" text="{VALUE} до ліміту кількості соратників."/>
     <string id="0AUZvSAq" text="{COMPANY_OF_TROUBLE_PERSUADE_ATTEMPT_1}"/>
     <string id="0aXG8dvJ" text="Make peace with the {KINGDOM_NAME}. No tribute will be paid."/>
     <string id="0B6HlgnN" text="{FIRSTNAME} the Lizard"/>
@@ -252,7 +252,7 @@
     <string id="2YiPE05P" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. Your companion will no doubt be very helpful."/>
     <string id="2YUUGQvG" text="Female"/>
     <string id="2zNrVsDj" text="{VALUE}% впливу на бойовий дух дружніх воїнів, коли ви вбиваєте дворучною зброєю."/>
-    <string id="30eSZeZd" text="{VALUE}% досвіду для супутників."/>
+    <string id="30eSZeZd" text="{VALUE}% досвіду для соратників."/>
     <string id="30hNRt3x" text="Тактика малих загонів"/>
     <string id="33mKghKQ" text="Please don't kill us. We surrender.[rf:idle_angry][ib:nervous]"/>
     <string id="34MdCd6u" text="You have sold the mercenaries to another lord as you promised. {QUEST_GIVER.LINK} is grateful and sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards."/>
@@ -2090,7 +2090,7 @@
     <string id="h83ZU95t" text="Глибокий колчан"/>
     <string id="h9i9VXLd" text="You cannot enter an enemy lord's hall."/>
     <string id="H9Px95rR" text="Villages grant 0.2 influence per day to the owner clan{newline}Towns gain 1 security but lose 1 militia per day"/>
-    <string id="H9tQfeBr" text="{VALUE}% плати за наймання та утримування супутників."/>
+    <string id="H9tQfeBr" text="{VALUE}% плати за наймання та утримування соратників."/>
     <string id="ha7EmrU9" text="Thank you for that information."/>
     <string id="HaAjWFrt" text="You told {?CHILD.GENDER}her{?}him{\?} that understanding people's motivations and turning them to your advantage is the difference between a warrior and a king."/>
     <string id="HAo6iIda" text="{HERO.NAME} is not eligible."/>
@@ -2849,7 +2849,7 @@
     <string id="M3af4N66" text="If you follow tournaments in this region, you'll know that I am a great devotee. I attend as many as I can - I love the spectacle, the tension... Despite this, I've never had a champion fight in my name, which is quite the fashion these days. Would you consider being my champion, {PLAYER.NAME}? I'm sure you could win glory for both of us.[if:convo_merry][ib:confident3]"/>
     <string id="M3aNEkBJ" text="Пліч-о-пліч"/>
     <string id="m3EkYCA6" text="Perhaps if you see how much I love you, you could come to love me over time."/>
-    <string id="m41r7FPw" text="{VALUE}% вартості найму супутника."/>
+    <string id="m41r7FPw" text="{VALUE}% вартості найму соратників."/>
     <string id="m41vdhSR" text="{QUEST_TARGET.LINK} is no longer alive. It might not be your fault that you didn't get the herd to {?QUEST_TARGET.GENDER}her{?}him{\?} in time, but many people will consider this breach of trust."/>
     <string id="M4IaRQJy" text="{VALUE}% точності мангонеля та требушета під час облогового бомбардування."/>
     <string id="m4kr4RXD" text="{?CHILD.GENDER}her{?}his{\?} strength."/>
@@ -4607,7 +4607,7 @@
     <string id="XmqJb7RN" text="{VALUE}% ефекту від прискорення проєктів у підконтрольному поселенні."/>
     <string id="Xmtlrrmf" text="Thank you.[ib:normal][if:convo_normal]  Don't forget to warn your men. These poachers are not ordinary bandits. Good luck."/>
     <string id="xmu89biL" text="Maybe I can help. What do you need exactly?"/>
-    <string id="XmwIHIMN" text="{VALUE} до максимуму супутників."/>
+    <string id="XmwIHIMN" text="{VALUE} до ліміту кількості соратників."/>
     <string id="XN7BX0qP" text="Максимальна складність луку: {a0}"/>
     <string id="xnR3sXJP" text="{PLAYER.NAME}"/>
     <string id="xnT03Yv0" text="I'm listening."/>
