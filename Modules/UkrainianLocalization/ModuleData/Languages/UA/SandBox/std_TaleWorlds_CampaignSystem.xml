@@ -250,7 +250,7 @@
     <string id="2y7gahYi" text="Добродушність"/>
     <string id="2y9DhzCR" text="You are about to lose sight of the caravan. Find the caravan before they are in danger!"/>
     <string id="2YiPE05P" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. Your companion will no doubt be very helpful."/>
-    <string id="2YUUGQvG" text="Female"/>
+    <string id="2YUUGQvG" text="Жінка"/>
     <string id="2zNrVsDj" text="{VALUE}% впливу на бойовий дух дружніх воїнів, коли ви вбиваєте дворучною зброєю."/>
     <string id="30eSZeZd" text="{VALUE}% досвіду для соратників."/>
     <string id="30hNRt3x" text="Тактика малих загонів"/>
@@ -395,7 +395,7 @@
     <string id="4uKTfTg9" text="Sorry. I don't have anything for you this time."/>
     <string id="4uqDestM" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} характеристик до Витривалості."/>
     <string id="4V8CS018" text="{VALUE}% втрат військ під час прориву до поселення в облозі або з нього."/>
-    <string id="4vleNtxb" text="Lord/Lady"/>
+    <string id="4vleNtxb" text="Лорд/Леді"/>
     <string id="4VxFPTT0" text="got bloodied."/>
     <string id="4Wvdk30M" text="Cheat: Follow me"/>
     <string id="4Xb1xtbF" text="{VALUE}% шкоди ворогу при битві з супротивником, що переважає в кількості."/>
@@ -557,7 +557,7 @@
     <string id="6RYVOb0c" text="Manager"/>
     <string id="6tBhhNaC" text="{FIRSTNAME} Rottentooth"/>
     <string id="6TYsIQav" text="After observing the villagers' hardships, you called back your men so as not put any more burden on them."/>
-    <string id="6u3t174w" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} is now free."/>
+    <string id="6u3t174w" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} тепер {?PRISONER_LORD.GENDER}вільна{?}вільний{\?}."/>
     <string id="6UKdUrPs" text="The men say the food's running out. We expect them to die for us if needed. Least we can do is let them die on a full belly."/>
     <string id="6vPCEaSR" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?} that would be very good. Merchants will not like this but the hard-working artisans like me will be grateful to you for this."/>
     <string id="6Wc1XErN" text="Wait, wait... You're not going anywhere just yet."/>
@@ -1071,7 +1071,7 @@
     <string id="b97khG1u" text="{VALUE}% пробиття броні метальною зброєю воїнами вашого підрозділу."/>
     <string id="b9NaTqyr" text="Extra Defender Defense"/>
     <string id="b9nvCgYF" text="A hunter knows how to prepare a trap and how to draw a prey to it, and, when dangerous predators are about, how to avoid becoming the hunted."/>
-    <string id="b9ty57rJ" text="Faction Leader"/>
+    <string id="b9ty57rJ" text="Лідер фракції"/>
     <string id="babDRxdu" text="I am trying to help some friends. They want a buyer for some goods, that, well, let's say that my friends might not have paid for these goods. These lads are camped close by, but would prefer not to come into town. You see?[if:convo_mocking_aristocratic][ib:hip]"/>
     <string id="baeO5Zkk" text="{TITLE}... {GRIEVANCE_SHORT_DESCRIPTION}"/>
     <string id="bai3aiDB" text="as an envoy."/>
@@ -3169,7 +3169,7 @@
     <string id="o9ouu97M" text="I will endeavor to be worthy of your affections."/>
     <string id="o9XKbana" text="helped the artisan."/>
     <string id="oAaKaXEy" text="I really like this meal. I'd like it served to all my men."/>
-    <string id="oAb4NqO5" text="Male"/>
+    <string id="oAb4NqO5" text="Чоловік"/>
     <string id="OaRB1oVI" text="So... Earlier, we had discussed the possibility of marriage."/>
     <string id="oaXAY8bw" text="{?PLAYER_CHILD}Your{?}The{\?} child asked to borrow money to trade with a passing caravan. You figure {?CHILD.GENDER}she{?}he{\?}'d be sharped and learn a lesson, but in fact the {?CHILD.GENDER}girl{?}boy{\?} secured a very lucrative deal."/>
     <string id="OB37sx91" text="Don't be a stranger, eh? Come see me again some time."/>
@@ -3358,7 +3358,7 @@
     <string id="plYfFg4A" text="learned how a victory is won."/>
     <string id="plZVwdlL" text="Send the revenue"/>
     <string id="pmg9KCqf" text="We have been at peace too long. Our men grow restless."/>
-    <string id="PMio7set" text="Marital Status"/>
+    <string id="PMio7set" text="Сімейний стан"/>
     <string id="pmrjUNEz" text="As it happens, I already have a mercenary contract that I wish to sell. So, no thank you.[if:convo_calm_friendly]"/>
     <string id="pnAq0a40" text="{VALUE}% швидкості пересування при переслідуванні ворожого загону."/>
     <string id="PNB9bHJd" text="{VALUE} до максимального ліміту полонених і -10% шансу втечі для ваших полонених."/>
@@ -3506,7 +3506,7 @@
     <string id="QHZeCDJy" text="A permanent space that hosts fairs. Citizens can gather, drink dance and socialize, increasing the daily morale of the settlement."/>
     <string id="qi0wKvPX" text="You failed to catch up to the caravan before it was overwhelmed. {QUEST_GIVER.LINK} will be very upset about this."/>
     <string id="qI4cicQz" text="It is a disgrace to keep paying tribute to the  {ENEMY_KINGDOM_INFORMAL_NAME}."/>
-    <string id="qIAgh9VL" text="Not Married"/>
+    <string id="qIAgh9VL" text="Не в шлюбі"/>
     <string id="QIDr1cTd" text="{VALUE}% отриманої шкоди від падіння і +100% завданої шкоди від удару ногою."/>
     <string id="QiHaWd75" text="Армії втрачають на 20% менше щоденної згуртованості."/>
     <string id="qItLTWR2" text="{VALUE}% швидкості вербування полонених класу 4 і вище."/>
@@ -4554,7 +4554,7 @@
     <string id="xdtwRyfB" text="Town garrison decided to sally out"/>
     <string id="xDzxaYed" text="Your word shall divide the spoils of victory and the bounties of peace."/>
     <string id="xe0dX5QQ" text="{VALUE}% штрафу до ціни при купівлі їжі."/>
-    <string id="xeawD38S" text="Married"/>
+    <string id="xeawD38S" text="У шлюбі"/>
     <string id="xeboujso" text="That's the right call. You seem a responsible type.[if:convo_nonchalant]"/>
     <string id="xEp10rIa" text="{VALUE}% шкоди від випаду древковою зброєю."/>
     <string id="xer2bta5" text="Your own Kingdom"/>
