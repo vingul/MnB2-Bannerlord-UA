@@ -1010,7 +1010,7 @@
     <string id="AWuEV99O" text="unleashes {?CHILD.GENDER}her{?}his{\?} fighting spirit."/>
     <string id="aWWzrwAw" text="The cost of revoking a fief from a clan is doubled{newline}Clans gain 0.1 influence for each fief they own"/>
     <string id="aXFYyBEQ" text="Showing mercy to a settlement that shares your faction's culture requires no influence.{newline}"/>
-    <string id="aXhPvVud" text="{HERO.LINK} created an army."/>
+    <string id="aXhPvVud" text="{HERO.LINK} {?HERO.GENDER}створила{?}створив{\?} армію."/>
     <string id="aXOgAKfj" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. I hope your people will be successful.[ib:hip][if:convo_excited]"/>
     <string id="AXsbnTBb" text="{QUEST_GIVER.LINK} has made peace with the {ENEMYFACTION_INFORMALNAME}. Your agreement with {QUEST_GIVER.LINK} has been canceled."/>
     <string id="AXy26AFb" text="Maybe I can help. What are the terms of agreement."/>
@@ -2786,7 +2786,7 @@
     <string id="lord_conversations_343" text="There is something I'd like to discuss."/>
     <string id="lord_conversations_344" text="I have a proposal that may spare us both unnecessary bloodshed."/>
     <string id="lord_conversations_345" text="Stay your hand! Perhaps we don't have to come to blows."/>
-    <string id="loVfqss6" text="{VALUE}% швидкості пересування воїнів дальнього бою вашого підрозділу."/>
+    <string id="loVfqss6" text="{VALUE}% швидкості пересування воїнам дальнього бою вашого підрозділу."/>
     <string id="lOwjyUi5" text="Raiding this village will cause a war with {KINGDOM}."/>
     <string id="LPBVTiV6" text="a strip of bacon"/>
     <string id="LpdAa1NY" text="Tier 5+ clans gain 0.5 influence per day, influence cost of inviting lower tier clans to army are increased by 20%"/>
@@ -3096,7 +3096,7 @@
     <string id="Nr49hlfC" text="Abandon army."/>
     <string id="nRkLFBMl" text="You failed to raid at least {NUMBER_OF_TARGET_VILLAGE} villages and then report back. {QUEST_GIVER.LINK} is disappointed."/>
     <string id="nrRvyKgL" text="I'll strike into their territory as you command, my {?ISSUE_OWNER.GENDER}lady{?}lord{\?}."/>
-    <string id="nRvR1Rpc" text="{VALUE}% швидкості пересування в бою воїнів вашого підрозділу."/>
+    <string id="nRvR1Rpc" text="{VALUE}% швидкості пересування в бою воїнам вашого підрозділу."/>
     <string id="Ns315pxY" text="Perhaps we are not meant for each other."/>
     <string id="Nsb6SD4y" text="After receiving word of an upcoming war against {ENEMY_FACTION}, {ARMY_NAME} decided to leave {SETTLEMENT_NAME}."/>
     <string id="nSwkI97I" text="Стіна щитів"/>
@@ -4448,7 +4448,7 @@
     <string id="WotPuijV" text="That's the right decision. Thank you.[if:convo_calm_friendly][ib:closed]"/>
     <string id="WOwaHClt" text="{COMPANION.LINK} reported that {?COMPANION.GENDER}she{?}he{\?} had resolved the matter. {NUMBER} {?(NUMBER &gt; 1)}troops{?}troop{\?} you sent joined back to your party."/>
     <string id="WOXMzO3Z" text="I must think carefully about this."/>
-    <string id="WpCx75Pc" text="{VALUE}% швидкості пересування в бою піхоти вашого підрозділу класу 3 і вище."/>
+    <string id="WpCx75Pc" text="{VALUE}% швидкості пересування в бою піхоті вашого підрозділу класу 3 і вище."/>
     <string id="WpidwcAV" text="If you have a companion who understands this type of work and {ALTERNATIVE_TROOP_AMOUNT} men, I can tell them where to go to get their hands on some prisoners."/>
     <string id="wPpeHeeX" text="Let me think about this some more."/>
     <string id="wPwbyBra" text="{VALUE}% шкоди, нанесеної щитам метальною зброєю."/>
@@ -4958,7 +4958,7 @@
     <string id="ZOEamqUd" text="Kingdom of {NAME}"/>
     <string id="Zoes3ojA" text="{?CHILD.GENDER}Her{?}His{\?} tutors continue to remark on {CHILD.NAME}'s progress, commending {?CHILD.GENDER}her{?}his{\?} {ATR}."/>
     <string id="ZOkUKXV2" text="your service"/>
-    <string id="zoNKoZDZ" text="{VALUE}% швидкості пересування в бою піхоти вашого підрозділу."/>
+    <string id="zoNKoZDZ" text="{VALUE}% швидкості пересування в бою піхоті вашого підрозділу."/>
     <string id="ZOTBiLiS" text="{?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {PAYMENT}{GOLD_ICON} when the task is done."/>
     <string id="ZpabPAtS" text="Have you put a stop to {MALE_LESSER_NOBLE_TITLE}{.s}?[if:convo_undecided_open]"/>
     <string id="ZPj0ZAO7" text="Yeah? What do you want with us?"/>
