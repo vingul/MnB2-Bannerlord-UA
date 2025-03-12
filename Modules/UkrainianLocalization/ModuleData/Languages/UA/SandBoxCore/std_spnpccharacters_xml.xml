@@ -88,7 +88,7 @@
     <string id="femalebeggar" text="Beggar"/>
     <string id="femaleinfant" text="Infant"/>
     <string id="femaleteenager" text="Teenager"/>
-    <string id="fHQ8ifKM" text="Imperial Trained Archer"/>
+    <string id="fHQ8ifKM" text="{.m}Імперський{.R_adj} {.m}тренований{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Імперський{.R_adj} {.p}тренований{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="FrTTT0G1" text="Sturgian Druzhinnik Champion"/>
     <string id="g1zvdEE3" text="Aserai Veteran Infantry"/>
     <string id="G9ByT85b" text="Hastati"/>
@@ -112,7 +112,7 @@
     <string id="IKvwsCaJ" text="Battanian Raider"/>
     <string id="IxcCmtxz" text="Battanian Militia Veteran Spearman"/>
     <string id="iXjMfCyp" text="Khuzait Horseman"/>
-    <string id="IZ8OmByJ" text="Imperial Trained Infantryman"/>
+    <string id="IZ8OmByJ" text="{.m}Імперський{.R_adj} {.m}тренований{.R_adj} {.m}піхотинець{.R_n22_a}{@Plural}{.p}Імперський{.R_adj} {.p}тренований{.R_adj} {.p}піхотинець{.R_n22_p}{\@}"/>
     <string id="J4k9mg65" text="Hired Spear"/>
     <string id="jaK1A7CI" text="Aserai Faris"/>
     <string id="JGsUtBT3" text="Imperial Legionary"/>
