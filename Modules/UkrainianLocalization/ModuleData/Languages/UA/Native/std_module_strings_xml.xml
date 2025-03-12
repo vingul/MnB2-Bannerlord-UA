@@ -703,7 +703,7 @@
     <string id="gCaT2BTu" text="{PRISONER.NAME} has been released from captivity following a peace treaty."/>
     <string id="gdraqMso" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside."/>
     <string id="GDugjWao" text="Here is {MONEY}{GOLD_ICON}. Just take it and let us go."/>
-    <string id="gE7QFy6y" text="{PRISONER.NAME} has escaped from {?PRISONER.GENDER}her{?}his{\?} place of captivity."/>
+    <string id="gE7QFy6y" text="{PRISONER.NAME} {?PRISONER.GENDER}втекла{?}втік{\?} з полону."/>
     <string id="geJQxzgB" text="Провалено завдання: {QUEST_TITLE}"/>
     <string id="genericcharacterfirstname" text="{CHARACTER_FIRSTNAME}"/>
     <string id="genericcharactername" text="{CHARACTER_NAME}"/>
@@ -755,7 +755,7 @@
     <string id="H9y9dLao" text="Щоб виграти більше, ви можете збільшити ставку. Кожного раунду коефіцієнти будуть мінятися, але ви не зможете поставити більше {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;."/>
     <string id="haax8kMa" text="{.f}Древковий{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="hAgZBZP8" text="Forfeit"/>
-    <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
+    <string id="haRRjDmy" text="Для покращення ви використаєте {TRADE_AMOUNT} кон{#GET_PLURAL_VALUE(TRADE_AMOUNT)}я{#}я{#}ей{\#}."/>
     <string id="hbeUbpEA" text="Ви дійсно бажаєте скасувати?"/>
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
     <string id="HD2wzAxz" text="Стургійці - нащадки чужоземних племен північної Кальрадії. Коли Імперія захопила їхні холодні ліси, у них з'явився ринок збуту розкішного хутра тварин, на яких вони здавна полювали. Стургійські полководці стали князями і почали боротися за владу за допомогою найманців з півночі, які переселялися в їхні володіння. Стургійці - витривалі мандрівники й мисливці, які звикли подорожувати на далекі відстані як заради торгівлі, так і заради грабежу."/>
@@ -1083,7 +1083,7 @@
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are pulling back."/>
     <string id="N7yWipWU" text="River Crossing Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Cavalry suffer medium penalty while attacking.{newline}• Horse archers suffer minor penalty while attacking."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
-    <string id="n9qR84YI" text="{PRISONER.NAME} has escaped from {SETTLEMENT}."/>
+    <string id="n9qR84YI" text="{PRISONER.NAME} {?PRISONER.GENDER}втекла{?}втік{\?} з {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="NaAA5kjG" text="Consider making peace, receiving {TRIBUTE} tribute/day. (Support: {SUPPORT}%)"/>
     <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}"/>
     <string id="NaNMRPv4" text="Aserai"/>
@@ -1598,7 +1598,7 @@
     <string id="WYfjyuHj" text="Well then... It was a long voyage, so do dig deep into your purse."/>
     <string id="WzcY3WMe" text="Reset Camera"/>
     <string id="wZnsFoQ6" text="I don't think we have met properly my friend. You just saved my life out there, and I still don't know your name..."/>
-    <string id="wZovddJ9" text="{PRISONER.NAME} has escaped from your party."/>
+    <string id="wZovddJ9" text="{PRISONER.NAME}, {?PRISONER.GENDER}яка перебувала{?}який перебував{\?} у вас в полоні, {?PRISONER.GENDER}втекла{?}втік{\?}."/>
     <string id="WZTRH6W9" text="Assignees"/>
     <string id="X1tny9v2" text="Successful Raids"/>
     <string id="x2mSJAVa" text="A player wins if his opponent has only one or no pawns left.{newline}{newline}Another way to win is by constructing a barrier that has all of the pawns of the opposing player on one side. When a barrier has been constructed, the player with the most pawns left wins."/>
