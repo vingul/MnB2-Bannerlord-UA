@@ -55,7 +55,7 @@
     <string id="0mKYUNb8" text="Hunting Rights"/>
     <string id="0MTzaxau" text="{?CHARACTER.GENDER}She{?}He{\?} retired from adventuring, and was last seen with a group of mountain hermits living a life of quiet contemplation."/>
     <string id="0mVwnCES" text="I must say something. Your men say their wages are late. We should take care that this doesn't happen."/>
-    <string id="0nhqJewP" text="{RULER.NAME} of the {KINGDOM} grants {SETTLEMENT} to {LEADER.NAME} with {?RULER.GENDER}her{?}his{\?} council's support."/>
+    <string id="0nhqJewP" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} передає {.S}{SETTLEMENT}{.v_zna} {.S}{LEADER.NAME}{.v_dav} за підтримки ради."/>
     <string id="0nqzQqGy" text="Sure. We will wait other parties around {GATHERING_SETTLEMENT} for a while, then follow us."/>
     <string id="0p0jXXIa" text="Reject the landlord's request for money and collect revenues as before."/>
     <string id="0Pd84h4W" text="I'll accept that."/>
@@ -2643,7 +2643,7 @@
     <string id="ksZXyDJG" text="Don't do anything stupid, like trying to run away. I will be watching you."/>
     <string id="Kt8tBtBG" text="We are paying too much tribute to the {ENEMY_KINGDOM_INFORMAL_NAME}."/>
     <string id="kTjsx8gN" text="Perhaps we should choose another set of laws and customs."/>
-    <string id="Ktpia7Pa" text="{RULER.NAME} of the {KINGDOM} grants {SETTLEMENT} to {LEADER.NAME} despite {?RULER.GENDER}her{?}his{\?} council's opposition."/>
+    <string id="Ktpia7Pa" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} передає {.S}{SETTLEMENT}{.v_zna} {.S}{LEADER.NAME}{.v_dav}, не зважаючи на заперечення ради."/>
     <string id="kUbovNbE" text="My {?PLAYER.GENDER}lady{?}lord{\?}. The agreed training time with you is over. I thank you for everything. It's been a very productive for me.[if:convo_delighted][ib:demure]"/>
     <string id="kuu7M6aQ" text="{VALUE}% швидше вербування полонених, які не є бандитами."/>
     <string id="kVd6nlXo" text="{VALUE}% шансу появи елітних воїнів в ополченні підконтрольного поселення."/>
@@ -3032,7 +3032,7 @@
     <string id="nb0wqaGA" text="You have made a deal with {NOTABLE.LINK} to betray {QUEST_GIVER.LINK}."/>
     <string id="nbbQfbli" text="{VALUE}% штрафу бойового духу ворога, коли його воїнів вбивають кінні війська зброєю дальнього бою."/>
     <string id="nbeCbTH6" text="My {?PLAYER.GENDER}lady{?}lord{\?}, we heard that you wish to issue a decree permitting artisans to behave like merchants. This will undo an arrangement here that's worked for generations. Please reconsider this."/>
-    <string id="nbmctMLk" text="{LEADER_NAME}{.o} Army"/>
+    <string id="nbmctMLk" text="{.f}Армія{.R_n10} {LEADER_NAME}{.v_rod}"/>
     <string id="NC2VGafO" text="They skin their beasts in the woods, then go into the village after midnight to stash the hides. The villagers are terrified of them, I believe. If you go into the village late at night, you should be able to track them down.[ib:normal][if:convo_thinking]"/>
     <string id="nc3carw2" text="{VALUE}% штрафу до точності при їзді верхи."/>
     <string id="nc9KELFA" text="trade goods"/>
@@ -4898,7 +4898,7 @@
     <string id="ZbvbsA4i" text="I can only hope that if they come to know my virtues, they will accept me."/>
     <string id="zbWsjfbn" text="I'm {CONVERSATION_HERO.FIRSTNAME}. Ask around about me. Let's just say I've got a talent for solving people's problems, so to speak.[if:convo_bemused]"/>
     <string id="zcf9M1Qh" text="Very well... You may go."/>
-    <string id="Zckbdm4Z" text="{RULER.NAME} of the {KINGDOM} takes {SETTLEMENT} as {?RULER.GENDER}her{?}his{\?} fief with {?RULER.GENDER}her{?}his{\?} council's support."/>
+    <string id="Zckbdm4Z" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} забирає {.S}{SETTLEMENT}{.v_zna} у свою власність за підтримки ради."/>
     <string id="ZCLVOXgM" text="Fruit trees and vegetable gardens outside the walls provide food as long as there is no siege."/>
     <string id="ZCPrYXaO" text="You have enough {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?}. Return back to {QUEST_GIVER.LINK}."/>
     <string id="zE3sKAb2" text="{FIRSTNAME} the Turner"/>
