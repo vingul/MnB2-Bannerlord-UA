@@ -756,7 +756,7 @@
     <string id="haax8kMa" text="{.f}Древковий{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="hAgZBZP8" text="Forfeit"/>
     <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
-    <string id="hbeUbpEA" text="Are you sure you want to cancel?"/>
+    <string id="hbeUbpEA" text="Ви впевнені, що хочете скасувати?"/>
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
     <string id="HD2wzAxz" text="Стургійці - нащадки чужоземних племен північної Кальрадії. Коли Імперія захопила їхні холодні ліси, у них з'явився ринок збуту розкішного хутра тварин, на яких вони здавна полювали. Стургійські полководці стали князями і почали боротися за владу за допомогою найманців з півночі, які переселялися в їхні володіння. Стургійці - витривалі мандрівники й мисливці, які звикли подорожувати на далекі відстані як заради торгівлі, так і заради грабежу."/>
     <string id="hDktLs4a" text="You have acted wisely and with respect. You may go."/>
@@ -1677,7 +1677,7 @@
     <string id="ykZLXKH3" text="Renown: {RENOWN}"/>
     <string id="ylQJwqKH" text="You're leaving hard earned, free loot behind! Are you sure?"/>
     <string id="ymBKDAuj" text="Show recent events in this war"/>
-    <string id="YMIFqVOk" text="Are you sure you want to surrender? All of your troops will be lost!"/>
+    <string id="YMIFqVOk" text="Ви впевнені, що хочете здатися? Всі ваші війська будуть втрачені!"/>
     <string id="YNND0kc9" text="Hooked Guarded Spears"/>
     <string id="yNyQ3RFa" text="{HERO.NAME} has died in childbirth."/>
     <string id="yOJAiSf4" text="No formation"/>
