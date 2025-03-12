@@ -348,7 +348,7 @@
     <string id="44f1ff0q" text="All the villages of {QUEST_GIVER.LINK} has been raided and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} has been canceled."/>
     <string id="44tA6fNa" text="I will try to earn your family's trust, then."/>
     <string id="49IwOe5E" text="As you wish...[if:convo_normal]"/>
-    <string id="4ADQ7YZj" text="{PERSON.LINK} {?PERSON.GENDER}виграла{?}виграв{\?} турнір в {.S}{TOWN}{.v_mis}."/>
+    <string id="4ADQ7YZj" text="{PERSON.LINK} {?PERSON.GENDER}виграла{?}виграв{\?} турнір в {.S}{TOWN}{.v_dav}."/>
     <string id="4ajo4jvp" text="{VALUE} до рівня рекрутування у відомих осіб в селах."/>
     <string id="4ATx01zS" text="{FIRSTNAME} the Rock"/>
     <string id="4bDHBIr1" text="You have completed your end of the bargain. {QUEST_GIVER.LINK} now considers you as a trustworthy {?PLAYER.GENDER}tradeswoman{?}tradesman{\?}."/>
