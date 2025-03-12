@@ -47,7 +47,7 @@
     <string id="1pxLpZ4r" text="Розсудливість:"/>
     <string id="1sJcKkVP" text="Guard"/>
     <string id="1wkANMRC" text="Our plan is to try and hold this narrow pass."/>
-    <string id="1XE7yeaP" text="Після того, як цей полонений досягне рівня підкореності {CONFORMITY_AMOUNT}, ще одного полоненого можна буде завербувати."/>
+    <string id="1XE7yeaP" text="Після того, як рівень підкореності цього полоненого збільшиться на {CONFORMITY_AMOUNT}, ще одного полоненого можна буде завербувати."/>
     <string id="1XVvU23F" text="Unable to use the clipboard text as body properties key!"/>
     <string id="1z0rLrhs" text="father"/>
     <string id="1Zq8mzzJ" text="Well now. Let's see what sort of fly has stumbled into our web.[rf:convo_mocking_revenge]"/>
@@ -577,7 +577,7 @@
     <string id="eJgaemO5" text="Зароблено на ставках: {BET} {GOLD_ICON}"/>
     <string id="ejhFyhyx" text="&lt;b&gt;Siege Tower&lt;/b&gt;&lt;br&gt;{NEWLINE}Brings the attackers to the same height as the wall and evens the odds against defenders."/>
     <string id="ekQP9052" text="Steppe Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
-    <string id="eKwhGmbI" text="Після того, як цей воїн отримає {XP_AMOUNT} од, ще одного воїна можна буде покращити"/>
+    <string id="eKwhGmbI" text="Після того, як цей воїн отримає ще {XP_AMOUNT} од, ще одного воїна можна буде покращити"/>
     <string id="EL7lZLXN" text="Can Knockdown"/>
     <string id="elhSbQfW" text="my kinsman {REFERING_HERO.LINK}"/>
     <string id="EMCISbYJ" text="Бойове спорядження"/>
