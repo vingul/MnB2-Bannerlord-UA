@@ -276,7 +276,7 @@
     <string id="oofSja21" text="Character name cannot start or end with a white space"/>
     <string id="OpsiBFCu" text="... and {COUNT} more items."/>
     <string id="opU0Nr2G" text="Progress for unlocking a new piece."/>
-    <string id="opVqBNLh" text="Effect"/>
+    <string id="opVqBNLh" text="Ефект"/>
     <string id="OpzzCPiP" text="Слідує за {._}{TARGET_PARTY}{.v_oru}"/>
     <string id="oSfsqBwJ" text="No perks"/>
     <string id="OSsSBHKe" text="Settlement's Food"/>
@@ -333,7 +333,7 @@
     <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}"/>
     <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
     <string id="RClxLG6N" text="Очікує"/>
-    <string id="recruitVerb" text="Recruit"/>
+    <string id="recruitVerb" text="Вербувати"/>
     <string id="rgqA29b8" text="You don't have enough {SKILL_NAME} skill to equip this item"/>
     <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}."/>
     <string id="Rkh2k1OA" text="Completion:"/>
