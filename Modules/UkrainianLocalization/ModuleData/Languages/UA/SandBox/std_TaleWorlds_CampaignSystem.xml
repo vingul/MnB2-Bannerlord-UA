@@ -2079,7 +2079,7 @@
     <string id="h2Wle7ZI" text="Well. That's a pity."/>
     <string id="H3B75sYi" text="A merchant asked you to follow a fake caravan that was sent out as a trap to destroy a particularly large and dangerous group of bandits."/>
     <string id="h3yEHb4U" text="Help {ATTACKER}."/>
-    <string id="h3YuHSRb" text="Are you sure you want to abandon the siege?"/>
+    <string id="h3YuHSRb" text="Ви дійсно бажаєте відмовитися від облоги?"/>
     <string id="h5eTEYON" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM}."/>
     <string id="h5np5kcC" text="All right, all right... We don't want any trouble here, okay? Go on.[if:convo_contemptuous]"/>
     <string id="H6l9cm7I" text="I've been paying attention to your subtler methods, {?PLAYER.GENDER}my lady{?}lord{\?}, I've been observing that courage and strength in numbers is not enough to win most engagements. You have to be aware of the situation and seize the opportunities when they present themselves.[if:convo_calm_friendly][ib:hip]"/>
@@ -3443,7 +3443,7 @@
     <string id="Q72PJYtf" text="{VALUE} до розміру загону за кожне очко лідерства більше 250."/>
     <string id="Q74nUiFJ" text="{VALUE}% швидкості загону."/>
     <string id="Q8LSfvIO" text="{VALUE}% точності балістам у підконтрольному поселенні."/>
-    <string id="Q8VN9UCq" text="Choose the prisoners to be ransomed"/>
+    <string id="Q8VN9UCq" text="Обрати полонених для продажу"/>
     <string id="Q9RXyDBz" text="{newline} • {HERO.NAME} must use {INFLUENCE_AMOUNT} influence to convince {MERCIFUL_LORD_COUNT} merciful leaders of this action:{newline} {MERCIFUL_LORDS}"/>
     <string id="Q9VCvUTg" text="{VALUE}% швидкості побудови ринків, печей та акведуків."/>
     <string id="qa3xzdbO" text="I think not. I'm going to give you one chance to leave this district, and never come back under pain of death."/>
@@ -4677,7 +4677,7 @@
     <string id="xYu4yVRU" text="Hey there friend. So... You don't need to know my name, but suffice to say that we're both friends of {QUEST_GIVER.LINK}. Here's {?QUEST_GIVER.GENDER}her{?}his{\?} message for you: {DIRECTIVE}.[ib:confident][if:convo_nonchalant]"/>
     <string id="XZe7YPLJ" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} броні для обладунків цивільних жителів."/>
     <string id="XZFQ1Jf6" text="Піти до замку"/>
-    <string id="xZIBKK0v" text="Ransom your prisoners ({RANSOM_AMOUNT}{GOLD_ICON})"/>
+    <string id="xZIBKK0v" text="Продати полонених ({RANSOM_AMOUNT}{GOLD_ICON})"/>
     <string id="XzK4niIb" text="I'll find an employer soon."/>
     <string id="XZOtTuxA" text="Обіцянки"/>
     <string id="xzq78nVm" text="As {?IS_FEMALE}queen{?}king{\?} you must decide who will own {SETTLEMENT_NAME}."/>
