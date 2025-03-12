@@ -63,7 +63,7 @@
     <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: "/>
     <string id="a4GDfSel" text="Reset Tutorials"/>
     <string id="a4oqWgUi" text="If there are no raw materials in the warehouse, the workshop will buy raw materials from the market until the warehouse is restocked"/>
-    <string id="a8NoW1Q2" text="Are you sure you want to cancel your changes?"/>
+    <string id="a8NoW1Q2" text="Ви дійсно бажаєте скасувати зміни?"/>
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}"/>
     <string id="AcMayd1p" text="Втікає від {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="aE4ZRbB6" text=" {HEALTH}%"/>
@@ -183,7 +183,7 @@
     <string id="i9OsCshW" text="This kingdom decision is not relevant anymore."/>
     <string id="idRXFzQ6" text="Already added to the army."/>
     <string id="Iefr8Fra" text="Tutorials have been reset."/>
-    <string id="IgoxNz2H" text="Upgrade Troops"/>
+    <string id="IgoxNz2H" text="Покращення воїнів"/>
     <string id="IJdjwXvn" text="Current Level: "/>
     <string id="InqmgBiF" text="Chosen Crew"/>
     <string id="Ioiqzz4E" text="You need to be in an army to boost cohesion"/>
@@ -214,7 +214,7 @@
     <string id="kjaACKUq" text="This action will cost {GOLD}{GOLD_ICON}"/>
     <string id="KjuxDQfn" text="Alley leader is dead."/>
     <string id="kMAQndom" text="Reset Changes?"/>
-    <string id="kqeA8rjL" text="Are you sure you want to disband your army?"/>
+    <string id="kqeA8rjL" text="Ви дійсно бажаєте розпустити свою армію?"/>
     <string id="kQsXUvgO" text="You are not under a kingdom."/>
     <string id="KTKBKmvp" text="Thrust Damage Factor "/>
     <string id="KTTyBbsp" text="Max HP"/>
@@ -337,7 +337,7 @@
     <string id="rgqA29b8" text="You don't have enough {SKILL_NAME} skill to equip this item"/>
     <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}."/>
     <string id="Rkh2k1OA" text="Completion:"/>
-    <string id="rkubGa4K" text="Are you sure want to give this settlement back to your kingdom?"/>
+    <string id="rkubGa4K" text="Ви дійсно бажаєте повернути це поселення назад своєму королівству?"/>
     <string id="rOKAvjtT" text="Gift Settlement"/>
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost"/>
     <string id="rThSy9ed" text="Необхідно: {UPGRADE_ITEM} (У вас жодного немає)"/>
