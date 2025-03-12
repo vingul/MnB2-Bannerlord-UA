@@ -387,7 +387,7 @@
     <string id="BdFaNDom" text="This hero is already an alley leader."/>
     <string id="bdFJgWp3" text="Defender Banner"/>
     <string id="Bdg4kSqC" text=" ({NUMBER_OF_MEN})"/>
-    <string id="bdJtVxQp" text="You will {?PAY_OR_GET}gain{?}lose{\?} {TRADE_AMOUNT}{INFLUENCE_ICON}"/>
+    <string id="bdJtVxQp" text="Ви {?PAY_OR_GET}отримаєте{?}втратите{\?} {TRADE_AMOUNT}{INFLUENCE_ICON}"/>
     <string id="bdQBpUba" text="So kind you are, not sending us home empty-handed."/>
     <string id="bdvTPbLB" text="Couchable"/>
     <string id="BE1scex6" text="Daily Workshop Profits"/>
@@ -756,7 +756,7 @@
     <string id="haax8kMa" text="{.f}Древковий{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="hAgZBZP8" text="Forfeit"/>
     <string id="haRRjDmy" text="You will use {TRADE_AMOUNT} {?IS_PLURAL}horses{?}horse{\?} for upgrades."/>
-    <string id="hbeUbpEA" text="Ви впевнені, що хочете скасувати?"/>
+    <string id="hbeUbpEA" text="Ви дійсно бажаєте скасувати?"/>
     <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}"/>
     <string id="HD2wzAxz" text="Стургійці - нащадки чужоземних племен північної Кальрадії. Коли Імперія захопила їхні холодні ліси, у них з'явився ринок збуту розкішного хутра тварин, на яких вони здавна полювали. Стургійські полководці стали князями і почали боротися за владу за допомогою найманців з півночі, які переселялися в їхні володіння. Стургійці - витривалі мандрівники й мисливці, які звикли подорожувати на далекі відстані як заради торгівлі, так і заради грабежу."/>
     <string id="hDktLs4a" text="You have acted wisely and with respect. You may go."/>
@@ -1245,7 +1245,7 @@
     <string id="pT9TZehy" text="Camp"/>
     <string id="puwXJDa9" text="Prosperity:"/>
     <string id="PVidxUQ8" text="Запаси їжі"/>
-    <string id="PvrRFwHM" text="You will {?PAY_OR_GET}gain{?}lose{\?} {TRADE_AMOUNT}{MORALE_ICON}"/>
+    <string id="PvrRFwHM" text="Ви {?PAY_OR_GET}отримаєте{?}втратите{\?} {TRADE_AMOUNT}{MORALE_ICON}"/>
     <string id="PVUeymMR" text="In Progress"/>
     <string id="pwFp1A5W" text="Sadistic"/>
     <string id="PYaUEZzn" text="Consider declaring war (Support: {SUPPORT}%)"/>
@@ -1677,7 +1677,7 @@
     <string id="ykZLXKH3" text="Renown: {RENOWN}"/>
     <string id="ylQJwqKH" text="You're leaving hard earned, free loot behind! Are you sure?"/>
     <string id="ymBKDAuj" text="Show recent events in this war"/>
-    <string id="YMIFqVOk" text="Ви впевнені, що хочете здатися? Всі ваші війська будуть втрачені!"/>
+    <string id="YMIFqVOk" text="Ви дійсно бажаєте здатися? Всі ваші війська будуть втрачені!"/>
     <string id="YNND0kc9" text="Hooked Guarded Spears"/>
     <string id="yNyQ3RFa" text="{HERO.NAME} has died in childbirth."/>
     <string id="yOJAiSf4" text="No formation"/>
