@@ -446,7 +446,7 @@
     <string id="BY5RMAoj" text="You have received {AMOUNT} {DAMAGE_TYPE} damage from {ATTACKER_NAME} ({LOST_HP_PERCENTAGE}% HP)."/>
     <string id="bZJs2AQX" text="Here's our money: {MONEY}{GOLD_ICON}. And here's our wares: {ITEM_LIST}. Just take them and let us live, {?PLAYER.GENDER}madam{?}sir{\?}."/>
     <string id="bzrOHiS8" text="People openly curse the authorities, as though they feel they have nothing to lose."/>
-    <string id="C0llOApK" text="{HERO}{.o} Army"/>
+    <string id="C0llOApK" text="{.f}Армія{.R_n10} {HERO}{.v_rod}"/>
     <string id="c1Ag8YJS" text="Баттанці ще пам'ятають ті часи, коли вся північна Кальрадія була вкрита лісами, а Імперія з її містами ще не порушила їхню первозданну красу. Ці грізні воїни зберігають вірність своїм традиціям. Вони розфарбовують обличчя, коли йдуть на війну, і навіть їхні вельможі воліють битися пішим строєм, використовують величезні сокири і смертоносні дворучні мечі."/>
     <string id="c1g7MC9D" text="Clan Tier Bonus"/>
     <string id="c3cdHImi" text="Capture your opponent's pawns by surrounding them on both sides. If a pawn moves in between two opposing pawns, it does not get captured.{newline}In the first two images, white pawns get captured by the black pawns. In the last two, there are no captures."/>
