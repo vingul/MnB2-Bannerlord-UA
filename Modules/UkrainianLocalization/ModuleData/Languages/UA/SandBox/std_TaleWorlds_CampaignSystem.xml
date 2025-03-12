@@ -2645,7 +2645,7 @@
     <string id="kTjsx8gN" text="Perhaps we should choose another set of laws and customs."/>
     <string id="Ktpia7Pa" text="{RULER.NAME} of the {KINGDOM} grants {SETTLEMENT} to {LEADER.NAME} despite {?RULER.GENDER}her{?}his{\?} council's opposition."/>
     <string id="kUbovNbE" text="My {?PLAYER.GENDER}lady{?}lord{\?}. The agreed training time with you is over. I thank you for everything. It's been a very productive for me.[if:convo_delighted][ib:demure]"/>
-    <string id="kuu7M6aQ" text="{VALUE}% швидше вербування в'язнів, які не є бандитами."/>
+    <string id="kuu7M6aQ" text="{VALUE}% швидше вербування полонених, які не є бандитами."/>
     <string id="kVd6nlXo" text="{VALUE}% шансу появи елітних воїнів в ополченні підконтрольного поселення."/>
     <string id="KVDMVbT1" text="This child started speaking earlier than most of {?CHILD.GENDER}her{?}his{\?} peers and can even string together simple sentences."/>
     <string id="KVlPhPSD" text="Settlement involved map event"/>
@@ -3348,7 +3348,7 @@
     <string id="Piq3oYmG" text="I'm fine, thank you."/>
     <string id="PitXi5n6" text="You know we are at war. Surrender or die."/>
     <string id="PIukmFYA" text="You decided not to get involved and left the village. You have failed to help {QUEST_GIVER.LINK} as promised."/>
-    <string id="PJMbfSPJ" text="You have {NUMBER} new prisoners to recruit."/>
+    <string id="PJMbfSPJ" text="У вас є {NUMBER} {?IS_PLURAL}нових полонених, яких{?}новий полонений, якого{\?} можна завербувати."/>
     <string id="pKquYFTX" text="Сталевар"/>
     <string id="pL3s39hv" text="Clever {FIRSTNAME}"/>
     <string id="PLbxHyPu" text="It varies. I fancy that I have a fine eye for assessing a ransom. There are a dozen little things about a man that will tell you whether he goes to bed hungry, or spices his meat with pepper and cloves from the east. The real money of course is in the aristocracy, and if you ever want to do my job you'll want to learn about every landowning family or tribal chief in Calradia, their estates, their offspring both lawful and bastard, and, of course, their credit with the merchants."/>
