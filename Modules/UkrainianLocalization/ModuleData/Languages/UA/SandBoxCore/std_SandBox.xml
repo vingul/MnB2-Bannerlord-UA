@@ -399,7 +399,7 @@
     <string id="fiMZ696A" text="Yes, I'll play again."/>
     <string id="FJ93PXVa" text="Wound All Enemies"/>
     <string id="fkkYatnM" text="Actually, I've changed my mind. I'll talk to {?HERO.GENDER}her{?}him{\?} later..."/>
-    <string id="fkOYvnVG" text="Round is over, your team is qualified for the next stage of the tournament."/>
+    <string id="fkOYvnVG" text="Раунд завершено, ваша команда пройшла до наступного етапу турніру."/>
     <string id="FnkYfyGa" text="the {WEAPON} of {BESIEGER} hit ranged engines of {SETTLEMENT}!"/>
     <string id="FNLtDFbn" text="Time to butcher and salt our meat for the winter."/>
     <string id="Fo47BuSY" text="Fine, you know {ALLEY_BOSS.NAME}, you can be here. Just no trouble, you understand?"/>
@@ -518,7 +518,7 @@
     <string id="jjkOBPkY" text="Can't let down your guard around here. Too many bastards up to no good."/>
     <string id="JjtmptiD" text="More men have hair than not, but this is another tile in the mosaic."/>
     <string id="JjXETjYb" text="Thank you.[ib:demure][if:convo_thinking] I have to add, I'm ready to pay you {REWARD_GOLD}{GOLD_ICON} denars for your trouble. He is hiding somewhere nearby. Go talk to him, and tell him that you're here to sort things out."/>
-    <string id="Jn0k20c3" text="Round is over, you survived the final round of the tournament."/>
+    <string id="Jn0k20c3" text="Раунд завершено, ви вийшли у фінальний раунд турніру."/>
     <string id="jOrPxxRM" text="А взагалі, неважливо."/>
     <string id="jPtG0Pu1" text="Unlock Fog of War"/>
     <string id="jqahxjWD" text="Heaven protect me![ib:aggressive][if:convo_astonished]"/>
@@ -580,7 +580,7 @@
     <string id="LaHWB3r0" text="Oh… I'm afraid there's been a misunderstanding. {PLAYER.NAME} is with us, you see.[if:convo_evil_smile] Did {TARGET_MERCHANT.LINK} stuff you with lies and then send you out to your doom? Oh, shameful, shameful. {?TARGET_MERCHANT.GENDER}She{?}He{\?} does that fairly often, unfortunately."/>
     <string id="lbNl0a8t" text="Also,"/>
     <string id="lbRMmZym" text="a healthy baby"/>
-    <string id="lcVauEKV" text="Round is over, you are disqualified from the tournament."/>
+    <string id="lcVauEKV" text="Раунд завершено, ви вибуваєте з турніру."/>
     <string id="LD4tGYCA" text="It's a deed to a plot of farmland. Not a big or valuable plot,[ib:normal][if:convo_disbelief] mind you, but I'd rather not have to explain to my men why they won't be sowing it this year. You can find the man who took it from me at the tavern in {TARGET_SETTLEMENT}. They call him the &quot;Game Host&quot;. Just be straight about what you're doing. He's in no position to work the land. I don't imagine that he'll turn down a chance to make more money off of it. Bring it back and {REWARD}{GOLD_ICON} is yours."/>
     <string id="LdCte9H0" text="I'll fight the other gang with you myself."/>
     <string id="LDGMSQJJ" text="Very well. Let me think on this a bit longer"/>
@@ -631,7 +631,7 @@
     <string id="mimt3Qph" text="Every day... More people in the markets... More people at the well... Where do they all come from?"/>
     <string id="MIxzaqzi" text="{QUEST_GIVER.LINK} told you that he lost a land deed in a wager in {TARGET_CITY}. He needs to buy it back, and he wants your companions to intimidate the seller into offering a reasonable price. You asked {COMPANION.LINK} to take {TROOP_COUNT} of your men to go and take care of it. They should report back to you in {RETURN_DAYS} days."/>
     <string id="Mk3Qfb4D" text="I don't want any trouble. Later."/>
-    <string id="MLyBN51z" text="Round is over, your team is disqualified from the tournament."/>
+    <string id="MLyBN51z" text="Раунд завершено, ваша команда вибуває з турніру."/>
     <string id="MN2v1AZQ" text="I hate you! You killed him! I can't believe it! I will hate you with all my heart till my dying days.[if:convo_angry]"/>
     <string id="mo4rbYvm" text="A couple of powerful wolves against a flock of helpless sheep. {GAME_NAME} is a game of uneven odds and seemingly all-powerful adversaries. But through strategy and sacrifice, even the sheep can dominate the wolves."/>
     <string id="MOmePlJQ" text="Could you hurry this along? I don't want him to find another buyer.[if:convo_pondering] Thank you."/>
@@ -917,7 +917,7 @@
     <string id="UxrXNSW7" text="As the ruler, you have let {TARGET_NOTABLE.LINK} to take {?TARGET_NOTABLE.GENDER}her{?}him{\?} kinsman's vengeance and failed to protect the boy as you have promised to {QUEST_GIVER.LINK}. {QUEST_GIVER.LINK} is furious."/>
     <string id="uXXH5GIU" text="Please, then, return to your wars and worry. I cannot help someone attain what they do not want. But I am not going anywhere, so if you desire my help at any time, do come again."/>
     <string id="uYrxCtDa" text="I should be able to find her and see what's going on."/>
-    <string id="uytwdSVH" text="Round is over, you are qualified for the next stage of the tournament."/>
+    <string id="uytwdSVH" text="Раунд завершено, ви пройшли до наступного етапу турніру."/>
     <string id="v0HhVu4z" text="How do workshops work in general?"/>
     <string id="v0XsM7Zz" text="If you send your best tracker with a few men, I am sure they will find my girl [if:convo_pondering]and be back to you in no more than {ALTERNATIVE_SOLUTION_WAIT_DAYS} days."/>
     <string id="V6jXzuMv" text="{COMPANION_ROLE}"/>
@@ -958,7 +958,7 @@
     <string id="wJCVlVF7" text="These nobles aren't like you and me. They've kept their wealth by crushing people like you for generations. Don't mess with them."/>
     <string id="WNKkdpN3" text="The {CLAN_NAME} left the {OLD_FACTION_NAME}."/>
     <string id="woMdU4Xl" text="I don't know where {?HERO.GENDER}she{?}he{\?} is."/>
-    <string id="wOqOQuJl" text="Round is over, your team survived the final round of the tournament."/>
+    <string id="wOqOQuJl" text="Раунд завершено, ваша команда вийшла у фінальний раунд турніру."/>
     <string id="wql79Eta" text="Good! We understand the spy is going to {TARGET_SETTLEMENT}. If they're trying to gather information,[ib:aggressive2][if:convo_undecided_open] they'll be wandering around the market asking questions in the guise of making small talk. Just go around talking to the townsfolk, and you should be able to figure out who it is."/>
     <string id="WqY4nvHc" text="{TARGET_NOTABLE.LINK}'s village {TARGET_SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="wqzyHirl" text="Look all around you. People making money hand over fist, draped in silks, smelling of wine and perfume. But is it the honest folk? I think not."/>
