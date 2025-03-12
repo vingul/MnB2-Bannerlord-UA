@@ -77,7 +77,7 @@
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}"/>
     <string id="av51ur2M" text="You need at least {REQUIRED_AMOUNT} denars to change the production type of this workshop."/>
     <string id="Avy8Gua1" text="Perks"/>
-    <string id="b8CqpGHx" text="Recruit Prisoners"/>
+    <string id="b8CqpGHx" text="Завербувати полонених"/>
     <string id="bAqDnkaT" text="Missile Speed"/>
     <string id="BbLTwhsA" text="Безлад на {REMAINING_TIME}"/>
     <string id="Bcs9s2tC" text="Right Click to Remove"/>
@@ -139,7 +139,7 @@
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}"/>
     <string id="F0a7hyp0" text="Risk of rebellion"/>
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Торгові плітки"/>
-    <string id="f4nc7FfE" text="Upgrade to {UPGRADE_NAME}"/>
+    <string id="f4nc7FfE" text="Покращити до {.S}{UPGRADE_NAME}{.v_rod}"/>
     <string id="f6vTzVar" text="Does not have a mobile party."/>
     <string id="FBYFcrWo" text="Leave in settlement"/>
     <string id="FdzsOvDq" text="This action is disabled while in a mission"/>
@@ -228,7 +228,7 @@
     <string id="Lm6Mkhru" text="Consequences"/>
     <string id="LpsoPtOo" text="Projects"/>
     <string id="LuC5ZZMu" text="{CRIMINAL_RATING} ({INCREASE}){CRIME_ICON}"/>
-    <string id="LVJKy6a8" text="This troop requires {PERK_NAME} ({PERK_SKILL}) perk to upgrade."/>
+    <string id="LVJKy6a8" text="Для покращення цього воїна необхідна здібність «{PERK_NAME}» ({PERK_SKILL})."/>
     <string id="LVmkE2Ow" text="Готових до бою воїнів"/>
     <string id="lVuGCYPC" text="Smithing Skill"/>
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}"/>
@@ -330,7 +330,7 @@
     <string id="R4rTlKMU" text="Troop upgrades are currently disabled."/>
     <string id="R8vuwKaf" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} до союзників."/>
     <string id="Ra17aK4e" text="Current Capital"/>
-    <string id="Raa4j4rF" text="Required: {UPGRADE_ITEM}"/>
+    <string id="Raa4j4rF" text="Необхідно: {UPGRADE_ITEM}"/>
     <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
     <string id="RClxLG6N" text="Очікує"/>
     <string id="recruitVerb" text="Вербувати"/>
@@ -340,7 +340,7 @@
     <string id="rkubGa4K" text="Are you sure want to give this settlement back to your kingdom?"/>
     <string id="rOKAvjtT" text="Gift Settlement"/>
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost"/>
-    <string id="rThSy9ed" text="Required: {UPGRADE_ITEM} (You have none)"/>
+    <string id="rThSy9ed" text="Необхідно: {UPGRADE_ITEM} (У вас жодного немає)"/>
     <string id="rUeWBOOi" text="Select an item to smelt"/>
     <string id="rwKBR4NE" text="Average Days Until Food Runs Out"/>
     <string id="s06mScpJ" text="If you have goods in the warehouse, they will be transferred to your party. Are you sure?"/>
@@ -371,7 +371,7 @@
     <string id="TEkWkzbH" text="Owned Caravans: {CARAVAN_COUNT}"/>
     <string id="tf7301NC" text="Healing Rate"/>
     <string id="tFGM0yav" text="This party is disbanding."/>
-    <string id="tnbCJyax" text="Some of your prisoners are recruitable."/>
+    <string id="tnbCJyax" text="Деякі з ваших полонених можуть бути завербовані."/>
     <string id="twtbH1zv" text="Stack Amount"/>
     <string id="Tx9Mynbt" text=" - Thrust Damage Type does not match. Should be: {TYPE}"/>
     <string id="txjiykNa" text="Огляд"/>
@@ -392,7 +392,7 @@
     <string id="vggt7exj" text="Set {CURINDEX}/{COUNT}"/>
     <string id="vIPrZCZ1" text="You can abdicate leadership from the kingdom screen."/>
     <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})"/>
-    <string id="Voa0sinH" text="Required: {NEEDED_EXP_AMOUNT}xp (You have {CURRENT_EXP_AMOUNT})"/>
+    <string id="Voa0sinH" text="Необхідно: {NEEDED_EXP_AMOUNT} од (У вас є {CURRENT_EXP_AMOUNT})"/>
     <string id="vOojEcIf" text="You cannot assign a prisoner member as a new party leader"/>
     <string id="Vq8yavES" text="Already in army."/>
     <string id="VtWa9Pmh" text="Raiding {TARGET_SETTLEMENT}."/>
@@ -439,7 +439,7 @@
     <string id="z8h0BRAb" text="Keep all holdings"/>
     <string id="zawBaxl5" text="Distance : {DISTANCE}"/>
     <string id="ZcybPatO" text="Weapon Length"/>
-    <string id="zduu7dpz" text="Prisoners are not recruitable in this screen."/>
+    <string id="zduu7dpz" text="Тут нема полонених, доступних для вербування."/>
     <string id="Zemk86FK" text="There is no town conquered by {FACTION}"/>
     <string id="zFDoDbNj" text="Кількість"/>
     <string id="zgnEagTJ" text="Halted"/>
