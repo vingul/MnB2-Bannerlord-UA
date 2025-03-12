@@ -4,15 +4,15 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="25pNV9E3" text="Village Center"/>
-    <string id="centerretreatcomplex" text="Center"/>
-    <string id="centertowncomplex" text="Center"/>
-    <string id="DO7Vk4iw" text="Tavern"/>
-    <string id="e7i3UP8q" text="House"/>
-    <string id="mMU3H6HZ" text="Arena"/>
-    <string id="O7lU6qaU" text="Castle Courtyard"/>
-    <string id="QTKck7Uj" text="Lords Hall"/>
-    <string id="x04UGQDn" text="Dungeon"/>
-    <string id="XkrL8Wok" text="Alley"/>
+    <string id="25pNV9E3" text="Центр села"/>
+    <string id="centerretreatcomplex" text="Центр"/>
+    <string id="centertowncomplex" text="Центр"/>
+    <string id="DO7Vk4iw" text="Таверна"/>
+    <string id="e7i3UP8q" text="Дім"/>
+    <string id="mMU3H6HZ" text="Арена"/>
+    <string id="O7lU6qaU" text="Внутрішній двір замку"/>
+    <string id="QTKck7Uj" text="Зала лорда"/>
+    <string id="x04UGQDn" text="Підземелля"/>
+    <string id="XkrL8Wok" text="Провулок"/>
   </strings>
 </base>
