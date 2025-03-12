@@ -161,7 +161,7 @@
     <string id="gTbE6t9I" text="Following requirements are not met:"/>
     <string id="gu5xmV0E" text="No other {WORKSHOP_NAME} in this town."/>
     <string id="gUUnZNGk" text="Moving to {SETTLEMENT_NAME} to be the new governor"/>
-    <string id="guxNZZWh" text="Requirements"/>
+    <string id="guxNZZWh" text="Вимоги"/>
     <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice"/>
     <string id="h0xoKxxo" text="Item name should be between {MIN} and {MAX} characters."/>
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}"/>
@@ -173,7 +173,7 @@
     <string id="hn9TPqhK" text="Weapon Tier"/>
     <string id="hOVPiG3z" text="Recently rebelled"/>
     <string id="hr4MuPnt" text="Required Materials"/>
-    <string id="hRSezxnT" text="Some of your troops are ready to upgrade."/>
+    <string id="hRSezxnT" text="Деякі з ваших воїнів готові до покращення."/>
     <string id="HTtWslIx" text="Market Food Stocks"/>
     <string id="hTzTMLsf" text="Дальність огляду"/>
     <string id="huqEEfGD" text="There is no successful raid for {FACTION}"/>
@@ -353,7 +353,7 @@
     <string id="sffGeQ1g" text="Gift"/>
     <string id="sFiU3Ss2" text="Клацніть, щоб скинути поворот камери"/>
     <string id="sFseX1Ka" text="Could not apply changes."/>
-    <string id="SK8G9QpE" text="Upgrd. Cost"/>
+    <string id="SK8G9QpE" text="Вартість покращ."/>
     <string id="Sls0KQVn" text="Elections"/>
     <string id="slzfQzl3" text="This hero is lost"/>
     <string id="sqdzHOPe" text="Class"/>
