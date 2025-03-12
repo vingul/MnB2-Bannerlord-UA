@@ -2633,7 +2633,7 @@
     <string id="kqJipMqc" text="Радіус виявлення слідів +{a0}%"/>
     <string id="kRASveAC" text="We're just harmless foresters..."/>
     <string id="KRfcro26" text="We're here to fight. Surrender or die!"/>
-    <string id="krTrNonp" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has escaped from captivity."/>
+    <string id="krTrNonp" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} {?PRISONER_LORD.GENDER}втекла{?}втік{\?} з полону."/>
     <string id="kru5Vpog" text="Yes. I'm glad to have the chance to talk to you. I keep an eye on the careers of champions like yourself for professional reasons, and I have a proposal that might interest a good fighter like you. Interested?[ib:confident3][if:convo_bemused]"/>
     <string id="KSeIOHDh" text="(One of the merchants in the town comes to talk as you are preparing to depart.)"/>
     <string id="KSrNutEO" text="{FACTION_LEADER} will decide if war will be declared on the {KINGDOM_NAME}. You can pick your stance regarding this decision."/>
@@ -3447,7 +3447,7 @@
     <string id="Q9RXyDBz" text="{newline} • {HERO.NAME} must use {INFLUENCE_AMOUNT} influence to convince {MERCIFUL_LORD_COUNT} merciful leaders of this action:{newline} {MERCIFUL_LORDS}"/>
     <string id="Q9VCvUTg" text="{VALUE}% швидкості побудови ринків, печей та акведуків."/>
     <string id="qa3xzdbO" text="I think not. I'm going to give you one chance to leave this district, and never come back under pain of death."/>
-    <string id="qa4FlTWS" text="{RULER.NAME} of the {KINGDOM} takes {SETTLEMENT} as {?RULER.GENDER}her{?}his{\?} fief despite {?RULER.GENDER}her{?}his{\?} council's opposition."/>
+    <string id="qa4FlTWS" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} забирає {.S}{SETTLEMENT}{.v_zna} у свою власність, не зважаючи на заперечення ради."/>
     <string id="qaFyoSF7" text="Good journeys to you, {PLAYER.NAME}."/>
     <string id="QAg8DQy6" text="You received a message from {QUEST_GIVER.LINK}.\n &quot;Thank you for fighting so valiantly in my name. Please take these {REWARD} denars with our gratitude.&quot;"/>
     <string id="QakanPLW" text="It will be years before the child can develop the strength, breathing techniques, and patience needed to wield a powerful bow, but it never hurts to start early."/>
