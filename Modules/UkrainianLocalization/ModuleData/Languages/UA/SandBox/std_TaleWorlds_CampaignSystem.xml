@@ -42,7 +42,7 @@
     <string id="0g7MZCAK" text="Workshop Income"/>
     <string id="0G8Q3AZv" text="I am thinking of a different attribute."/>
     <string id="0gwQGnm4" text="{ARMY_OWNER_TEXT} {ARMY_BEHAVIOR}"/>
-    <string id="0h5BrVdA" text="Your relation with notables in some of your settlements increased due to high loyalty"/>
+    <string id="0h5BrVdA" text="Ваші стосунки зі знаттю в деяких ваших населених пунктах покращилися через високу вірність"/>
     <string id="0I6xdead" text="taxing landowners on their property"/>
     <string id="0i8RgslK" text="Or, maybe one of your trusted companions can buy the {ITEM_TYPE}. I reckon they'll cost {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} denars, and they'd best take at least {ALTERNATIVE_TROOP_AMOUNT} men for protection.[if:convo_bored]"/>
     <string id="0J9dgA7j" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}очко{#}очки{#}очків{\#} до уміння «Лук» кінним лучникам вашого підрозділу."/>
@@ -388,7 +388,7 @@
     <string id="4rCIZ6e5" text="{QUEST_SETTLEMENT} was raided, Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="4RNREbPW" text="You managed to return all of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.{newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}.”"/>
     <string id="4RWpqxwE" text="{FIRSTNAME} the Broker"/>
-    <string id="4Sb0d8FY" text="Wait until nightfall to attack"/>
+    <string id="4Sb0d8FY" text="Дочекатися темряви, щоб атакувати"/>
     <string id="4t5zOiVF" text="{FIRSTNAME} of the Pillar"/>
     <string id="4tY23HWb" text="Of course. I'm welcome in every court in Calradia. There's not many who can say that! So always be sure to keep a pot of denars buried somewhere, and a loyal servant who can find it in a hurry."/>
     <string id="4u69jBeE" text="{VALUE}% шкоди щитами від воїнів вашого підрозділу."/>
@@ -1378,7 +1378,7 @@
     <string id="cpg0oHZJ" text="Обман смерті"/>
     <string id="cpLFQzx0" text="Huntsman"/>
     <string id="cPPLAz8l" text="Слабке місце"/>
-    <string id="CpsPq6WD" text="{DAY_ORDINAL} день {.S}{._}{SEASON_NAME}{.v_rod}"/>
+    <string id="CpsPq6WD" text="{.CS}{DAY_ORDINAL}{.CE} {.m}день{.R_n22_a} {.S}{._}{SEASON_NAME}{.v_rod}"/>
     <string id="cPvszBhr" text="{VALUE}% шкоди від кавалерії піхотним військам противника."/>
     <string id="CPxbG7Zp" text="Оплата обіцянкою"/>
     <string id="cQ6CzXKM" text="You have defeated all the brigands as {QUEST_GIVER.LINK} has asked. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful. And sends you the reward, {GOLD_AMOUNT}{GOLD_ICON} gold as promised."/>
@@ -2358,7 +2358,7 @@
     <string id="iyJaisRb" text="Village is successfully raided by the army you are following."/>
     <string id="IYRJKtkb" text="I'm afraid my finances will not allow for such a gift."/>
     <string id="iYtzlRSN" text="I would rather be your middleman on this matter. I need to keep my money. You can have your men load up the {.%}{SELECTED_ITEM}{.%} already."/>
-    <string id="iyWUDSm8" text="Passing by the slopes of the mountains, you see an outcrop crowned with the ruins of an ancient fortress."/>
+    <string id="iyWUDSm8" text="Проїжджаючи схилами гір, ви побачили виступ, увінчаний руїнами стародавньої фортеці."/>
     <string id="izuhKnXy" text="Purchase stolen goods from {ISSUE_GIVER.NAME}"/>
     <string id="izzbaMUf" text="Wise decision.[if:convo_undecided_closed][ib:normal]"/>
     <string id="J0Clb1RD" text="If you don't have the time, at least send one of your best companions with {TROOP_COUNT} experienced men for {RETURN_DAYS} days.[if:convo_stern][ib:closed]"/>
@@ -3382,7 +3382,7 @@
     <string id="PQt8lfTX" text="You have failed to return to the {QUEST_GIVER.LINK} in time. {QUEST_GIVER_VILLAGE} and its locals are aware of your misdemeanor."/>
     <string id="pr5vaFNc" text="{VALUE}% шансу заблокувати снаряди ззаду, коли у вас щит на спині."/>
     <string id="PRadDFN5" text="{SALUTATION}... Well, I hadn't expected this, but I'm very grateful."/>
-    <string id="prcBBqMR" text="{HIDEOUT_DESCRIPTION} You see armed men moving about. As you listen quietly, you hear scraps of conversation about raids, ransoms, and the best places to waylay travellers."/>
+    <string id="prcBBqMR" text="{HIDEOUT_DESCRIPTION} Ви бачите озброєних людей, які вештаються довкола. Тихо прислухаючись, ви чуєте уривки розмов про набіги, викупи та найкращі місця для нападів на подорожніх."/>
     <string id="PrUauabl" text="As long as the payment is as we talked, you got nothing to worry about."/>
     <string id="PrzguaEq" text="Thank you. I appreciate your people's help."/>
     <string id="pS8Iqeja" text="{QUEST_GIVER.LINK} is having problems with smugglers in {ORIGIN_CITY}. {?QUEST_GIVER.GENDER}She{?}He{\?} said that they get their goods from {TARGET_CITY}."/>
@@ -4241,7 +4241,7 @@
     <string id="vbbc6sIU" text="I regret to tell you that my progress under your tutelage is not satisfactory. I should return to my clan to resume my studies. Thank you for your trouble anyway."/>
     <string id="vbiA31xT" text="Extortion by Deserters at {SETTLEMENT}"/>
     <string id="VbRyXBsv" text="If you're going in the direction of {TARGET_SETTLEMENT}, you can perhaps take our herd there to {TARGET_HERO.LINK}. I am willing to pay {REWARD_AMOUNT}{GOLD_ICON} if you deliver them safe and sound.[if:convo_calm_friendly][ib:normal]"/>
-    <string id="VbU8Ue0O" text="After waiting for a while you find a good opportunity to close in undetected beneath the shroud of the night."/>
+    <string id="VbU8Ue0O" text="Зачекавши деякий час, ви отримуєте гарну нагоду непомітно наблизитися під покровом ночі."/>
     <string id="VbUnP1M5" text="Very well. For now, go in peace."/>
     <string id="VbWAsWWY" text="Guide the Tutor"/>
     <string id="vbxQoyN3" text="{RANDOM_HIRE_SENTENCE}"/>
@@ -4279,7 +4279,7 @@
     <string id="vLaoZhkF" text="I follow tournaments, you see, and like to both place and take bets. But of course I need someone who can not only win those tournaments but lose if necessary... if you understand what I mean. Not all the time. That would be too obvious. Here's what I propose. We enter into a partnership for five tournaments. Don't bother memorizing which ones you win and which ones you lose. Before each fight, an associate of my mine will let you know how you should place. Follow my instructions and I promise you will be rewarded handsomely. What do you say?[if:convo_bemused][ib:demure2]"/>
     <string id="VlbCFDWu" text="What do you want from me?"/>
     <string id="VldAzBo5" text="I need to say something. What we did to that village - it was wrong. They're innocent farmers and they shouldn't have their homes and fields ransacked and burned like that. I won't do that again."/>
-    <string id="VLLAOXve" text="Waiting until nightfall to ambush"/>
+    <string id="VLLAOXve" text="Очікування темряви для нападу із засідки"/>
     <string id="VlOGrGSn" text="Your character started off on the adventuring path at the age of..."/>
     <string id="VlPD0Dhh" text="Only noble vassals of {FACTION_LEADER} have the honour of carrying their own banners. However, after some time of mercenary service, perhaps you can earn the opportunity to swear homage to {FACTION_LEADER} and become his vassal, gaining the right to choose a banner of your own and fight under it in battle."/>
     <string id="VlU9nnLY" text="Good. Give us our due, and you can pass."/>
