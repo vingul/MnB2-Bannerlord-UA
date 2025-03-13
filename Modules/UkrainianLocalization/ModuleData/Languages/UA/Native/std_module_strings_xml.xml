@@ -129,7 +129,7 @@
     <string id="4QAwbFcQ" text="Nearby Hideout"/>
     <string id="4rRsmX8i" text="Good. Sometimes it's better to shear the sheep than eat them."/>
     <string id="4Skg9QhO" text="Trebuchet"/>
-    <string id="4tdVrFtU" text="thirty-first"/>
+    <string id="4tdVrFtU" text="тридцять {.m}перший{.R_adj}"/>
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are leading battle."/>
     <string id="4WD0kJSR" text="Arrr.. You'd best not be toying with us."/>
     <string id="4wYguFLZ" text="Solving issue"/>
@@ -157,7 +157,7 @@
     <string id="5SQaiYXi" text="FOUL! No hitting your opponent's horse. You have been disqualified!"/>
     <string id="5T7nyzda" text="I am glad to hear that. Killing is thirsty work for us too."/>
     <string id="5U70lB7k" text="Press {KEY} to hide"/>
-    <string id="5UpDD9eS" text="tenth"/>
+    <string id="5UpDD9eS" text="{.m}десятий{.R_adj}"/>
     <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing behind allies."/>
     <string id="5WWbQRQ5" text="A player wins if his opponent can't make any more jumps (captures)."/>
     <string id="5X9Sq4T4" text="{NUM} Lord(s)"/>
@@ -218,7 +218,7 @@
     <string id="7vdgxtwo" text="IV"/>
     <string id="7vrdpDFK" text="&lt;b&gt;Mangonel&lt;/b&gt;{NEWLINE}Throws rocks over a distance using torsion strings.{NEWLINE}Equally effective against walls, enemy siege engines and their operators."/>
     <string id="7W79uw0y" text="Back To Default"/>
-    <string id="7Wcnipag" text="fourteenth"/>
+    <string id="7Wcnipag" text="{.m}чотирнадцятий{.R_adj}"/>
     <string id="7WFFCVMa" text="Special"/>
     <string id="7xFRFV0P" text="Form a defensive ring."/>
     <string id="7Ywub9bC" text="Defenders are still holding the keep."/>
@@ -237,7 +237,7 @@
     <string id="8fLMcFFG" text="On {DAY_OF_YEAR}, {YEAR}, you unfurled the dragon banner and proclaimed your mission to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
     <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: "/>
     <string id="8Gh3Waa3" text="wife"/>
-    <string id="8iONwXCz" text="twenty-second"/>
+    <string id="8iONwXCz" text="двадцять {.m}другий{.R_adj}"/>
     <string id="8J7ABQhb" text="Noble Mount"/>
     <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} cohesion)"/>
     <string id="8kVhiTmu" text="Next Tier:"/>
@@ -324,7 +324,7 @@
     <string id="ajZTZoXQ" text="Two Handed Mace"/>
     <string id="AkgIYqHT" text="sultana"/>
     <string id="AkUpgiBl" text="Клас {TIER_LEVEL}"/>
-    <string id="alEG3BOa" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {CLAN_LEADER}."/>
+    <string id="alEG3BOa" text="Ваші відносини з {CLAN_LEADER}{.v_oru} покращилися на {MAGNITUDE} до {VALUE}."/>
     <string id="AmbKQ7LT" text="Перемістити"/>
     <string id="AMhvD9om" text="Командувач армії"/>
     <string id="anHqaNK0" text="{.f}королева{.R_n10_ko_p1}"/>
@@ -335,7 +335,7 @@
     <string id="ap1wEfdW" text="V"/>
     <string id="Aph8CcKO" text="Доступні очки характеристик.{newline}Ви можете використовувати ці очки для збільшення характеристик. Ви отримуєте по очку характеристик {#GET_PLURAL_VALUE(ATTRIBUTE_EVERY_LEVEL)}кожен рівень{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівні{#}кожні {ATTRIBUTE_EVERY_LEVEL} рівнів{\#} "/>
     <string id="aqCj9dhC" text="There is no need to stay on the defense. Siege their settlements!"/>
-    <string id="AqHr4nRR" text="fourth"/>
+    <string id="AqHr4nRR" text="{.m}четвертий{.R_adj}"/>
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
     <string id="aR4e8B2A" text="II"/>
     <string id="archers" text="Стрільці"/>
@@ -345,7 +345,7 @@
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines."/>
     <string id="aS3xHcD4" text="Син"/>
     <string id="asHzEWnG" text="We shall stain the sands with your blood, then."/>
-    <string id="AT5aTROe" text="seventh"/>
+    <string id="AT5aTROe" text="{.m}сьомий{.R_adj}"/>
     <string id="ATsEQh7m" text="{SEASON} {?SEASON_IS_PLURAL}seasons{?}season{\?}"/>
     <string id="AtulqwTG" text="Change Party Leader"/>
     <string id="AUDv8sEt" text="Active Issue"/>
@@ -358,7 +358,7 @@
     <string id="Ayrvf5yp" text="Вбивства"/>
     <string id="b0Mv6mZy" text="Retake castle position!"/>
     <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are assaulting the walls."/>
-    <string id="b1c0Sh4A" text="twenty-first"/>
+    <string id="b1c0Sh4A" text="двадцять {.m}перший{.R_adj}"/>
     <string id="B1j4F6i7" text="{#GET_PLURAL_VALUE(DAY)}День{#}Дні{#}Днів{\#}"/>
     <string id="b1Ra7gHa" text="Ranged Weapons II"/>
     <string id="b1vtY2yU" text="Expected"/>
@@ -470,7 +470,7 @@
     <string id="ccUEYdrU" text="Join Army"/>
     <string id="cDjq52h2" text="Sergant"/>
     <string id="centerformation" text="Center"/>
-    <string id="CgAGsR1P" text="twenty-ninth"/>
+    <string id="CgAGsR1P" text="двадцять {.m}дев'ятий{.R_adj}"/>
     <string id="chieftainfemale" text="{.m}вождь{.R_n20_a_p}"/>
     <string id="ChmM5tjf" text="The game is a draw!"/>
     <string id="cJmI2poS" text="Інформація"/>
@@ -481,7 +481,7 @@
     <string id="CkwERBcS" text="Skirmish behind ally formation."/>
     <string id="cmn6qNoX" text="Skirmishers"/>
     <string id="cMrROb6w" text="Доступне завдання"/>
-    <string id="cNaiQyva" text="sixteenth"/>
+    <string id="cNaiQyva" text="{.m}шістнадцятий{.R_adj}"/>
     <string id="CObuCGjA" text="Marriage offer from {CLAN_NAME}"/>
     <string id="CODsu5Ok" text="Нова кампанія"/>
     <string id="COhJ2HsU" text="It will be automatically resolved in {HOUR} hours."/>
@@ -556,7 +556,7 @@
     <string id="dyLYsWPf" text="Assuring Presence Perk Bonus"/>
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging at {?IS_PLURAL}different enemy formations{?}an enemy formation{\?}."/>
     <string id="Dzntsudy" text="You have inflicted {AMOUNT} {DAMAGE_TYPE} damage to {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)."/>
-    <string id="E05lmb5n" text="Your relation with {HERO_NAME} will &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;decrease&lt;/b&gt;&lt;/a&gt;"/>
+    <string id="E05lmb5n" text="Ваші відносини з {HERO_NAME}{.v_oru} &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;погіршаться&lt;/b&gt;&lt;/a&gt;"/>
     <string id="E0lb2Z2r" text="On {DAY_OF_YEAR}, {YEAR}, the conspiracy against the Empire succeeded in uniting its foes, as the armies of {FACTION_NAMES} took the field together."/>
     <string id="e1tZ4kEY" text="All Stuff"/>
     <string id="e4OPfBqt" text="Abstain"/>
@@ -570,10 +570,10 @@
     <string id="eDVvDS1i" text="Villagers"/>
     <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus to construction"/>
     <string id="eEmbb1MR" text="Виробництво"/>
-    <string id="eHBvuPk6" text="twenty-sixth"/>
+    <string id="eHBvuPk6" text="двадцять {.m}шостий{.R_adj}"/>
     <string id="EHkzaZBi" text="Турнір в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="ehsuyvdT" text="If you proceed, the party will be without a leader for {TRAVEL_DURATION} while your clan members travel. It will not be able to join any armies until its new leader arrives. Are you sure?"/>
-    <string id="Ej0QNsY9" text="fifteenth"/>
+    <string id="Ej0QNsY9" text="{.m}п'ятнадцятий{.R_adj}"/>
     <string id="eJgaemO5" text="Зароблено на ставках: {BET} {GOLD_ICON}"/>
     <string id="ejhFyhyx" text="&lt;b&gt;Siege Tower&lt;/b&gt;&lt;br&gt;{NEWLINE}Brings the attackers to the same height as the wall and evens the odds against defenders."/>
     <string id="ekQP9052" text="Steppe Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
@@ -627,7 +627,7 @@
     <string id="eyMU7X0e" text="You're a lord and voting. The ruler will vote in the end and decide the outcome."/>
     <string id="EZLs7hLL" text="You! Stop! Give us your silver. We're not playing games.[if:convo_angry]"/>
     <string id="EzrK2tnA" text="You cannot manage your army while in battle"/>
-    <string id="F3U9AtmF" text="ninth"/>
+    <string id="F3U9AtmF" text="{.m}дев'ятий{.R_adj}"/>
     <string id="F4RMyaR5" text="Ви зіткнулись з {._}{PARTY}{.v_oru}."/>
     <string id="F5UPr9jh" text="Взяти все"/>
     <string id="F6GhrriD" text="Create Kingdom"/>
@@ -673,7 +673,7 @@
     <string id="FRZfpryn" text="Bring forward the proposal to give this settlement to someone else"/>
     <string id="FS78CuPs" text="Уміння, які пов'язані з {ATTRIBUTE_NAME}{.v_oru}:"/>
     <string id="FSl1LFP6" text="{CLAN} has gained {AMOUNT_TO_ADD} renown. New renown is {NEW_RENOWN}."/>
-    <string id="fTyJB9wd" text="twenty-fourth"/>
+    <string id="fTyJB9wd" text="двадцять {.m}четвертий{.R_adj}"/>
     <string id="fUNa6FAo" text="During battles, holding down {MISSION_INDICATORS_KEY} shows markers on enemy and allied formations."/>
     <string id="FuxkL78G" text="{YEAR} {?YEAR_IS_PLURAL}years{?}year{\?}"/>
     <string id="FuYivUV1" text="On {DAY_OF_YEAR}, {YEAR}, you pledged allegiance to {RULER.NAME}, hoping that {?RULER.GENDER}she{?}he{\?} will lead the fight to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
@@ -800,7 +800,7 @@
     <string id="i0H8WLRx" text="You cannot expel a ruling clan."/>
     <string id="I2YhWaIt" text="Goods"/>
     <string id="i30TCtj2" text="ПАУЗА"/>
-    <string id="I3Vfk5mz" text="twentieth"/>
+    <string id="I3Vfk5mz" text="{.m}двадцятий{.R_adj}"/>
     <string id="I42QtISB" text="Cannot kick main hero from clan."/>
     <string id="I4BbOX46" text="You are in {ARMY_LEADER}{.o} army."/>
     <string id="i4g81l3E" text="Відношення: {NUM}"/>
@@ -843,7 +843,7 @@
     <string id="iRo4meJR" text="Can't access encyclopedia right now!"/>
     <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w)"/>
     <string id="ISJ8Tt8a" text="{COUNT} {.%}{?(COUNT &gt; 1)}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}"/>
-    <string id="ISz5bLEO" text="twelfth"/>
+    <string id="ISz5bLEO" text="{.m}дванадцятий{.R_adj}"/>
     <string id="itLpRUtF" text="Clan doesn't have any empty party slots."/>
     <string id="ITTGMEUJ" text="{.p}Фінік{.R_n20_p}{@Plural}{.p}Мішок{.R_n22_p} з фініками{\@}"/>
     <string id="itvLr7dL" text="Pick up"/>
@@ -859,7 +859,7 @@
     <string id="j2OaZPQz" text="Your troops will gain {XP_AMOUNT} experience for donating weapons and/or armor depending on your perks. They can gain maximum of {XP_DONATION_LIMIT} experience."/>
     <string id="J3ACAwbt" text="Your opponent constructed a barrier against you, but you have more pawns left. You win the game!"/>
     <string id="J3L0MuEU" text="Battle lost. Press {leave_key} to view results."/>
-    <string id="j46AltVv" text="twenty-eighth"/>
+    <string id="j46AltVv" text="двадцять {.m}восьмий{.R_adj}"/>
     <string id="j4F7tTzy" text="Клан"/>
     <string id="j4IdJPkE" text="Can't Reload on Horseback"/>
     <string id="J4NmLqib" text="Finished"/>
@@ -885,9 +885,9 @@
     <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions of the castle."/>
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}"/>
     <string id="jiKRLWD4" text="Show in encyclopedia"/>
-    <string id="jIZcOvMT" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} was executed."/>
+    <string id="jIZcOvMT" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року, {NAME} був страчений."/>
     <string id="JkpSoFQ8" text="Casualties Inflicted"/>
-    <string id="JKQjXH9M" text="twenty-seventh"/>
+    <string id="JKQjXH9M" text="двадцять {.m}сьомий{.R_adj}"/>
     <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
     <string id="JnoB0RZ4" text="Execute {?DYING_HERO.GENDER}Her{?}Him{\?}"/>
     <string id="jnTQbSsH" text="You see people gathering in the village to resist you. What do you want to do?"/>
@@ -934,7 +934,7 @@
     <string id="KiVCv1Bx" text="Besieging {SETTLEMENT_NAME}"/>
     <string id="KJDqOGEU" text="Our plan is to fall back in formation to fight another day."/>
     <string id="KkaVpLXd" text="Consider enacting this policy (Support: {SUPPORT}%)"/>
-    <string id="KkwLUO3o" text="sixth"/>
+    <string id="KkwLUO3o" text="{.m}шостий{.R_adj}"/>
     <string id="klZnvb15" text="Персонаж"/>
     <string id="kM1Y8XT0" text="You will not be dissapointed {?PLAYER.GENDER}madam{?}sir{\?}. You will not find better warriors in all Calradia.[ib:convo_approving]"/>
     <string id="kMAD20Ny" text="You are outside of {SETTLEMENT_NAME}. You cannot enter because the castle belongs to the enemy. Usually when you approach an enemy city the roads are deserted. This time, however, you pass some onlookers, and even hear the occasional cheer. You suspect that few among the population are loyal to the {FACTION_INFORMAL_NAME}, and that the militia is unlikely to take up arms in the castle's defense."/>
@@ -945,7 +945,7 @@
     <string id="kRraos2Z" text="You caused trouble on my territory... I didn't care for that."/>
     <string id="krtuDr9P" text="New SandBox"/>
     <string id="KSaxvbs9" text="Show on map"/>
-    <string id="ksDGaGIi" text="nineteenth"/>
+    <string id="ksDGaGIi" text="{.m}дев'ятнадцятий{.R_adj}"/>
     <string id="ktFeXrXl" text="You cannot make any moves. Skipping turn."/>
     <string id="KTGG9EgL" text="Safe journeys! Don't let yourself get robbed by anyone but us!"/>
     <string id="KTUcgvMZ" text="You will be over troop limit. This can negatively affect your party morale."/>
@@ -953,7 +953,7 @@
     <string id="kuKad3dj" text="{MISSION_MODE}"/>
     <string id="kuLjsNgz" text="Rural Notable"/>
     <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% reduction of garrison wages."/>
-    <string id="kVuucX4o" text="thirteenth"/>
+    <string id="kVuucX4o" text="{.m}тринадцятий{.R_adj}"/>
     <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are attacking siege weapons."/>
     <string id="Kw7awUCK" text="Balanced"/>
     <string id="kwKT6zKq" text="Your unit is expected to: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} and {?}{\?}{BEHAVIOUR_NAME_END}"/>
@@ -971,7 +971,7 @@
     <string id="l6a3grfK" text="your party"/>
     <string id="L7qKijnE" text="{ITEM_NAME}, won by {COMPANION.NAME} has been added to your inventory."/>
     <string id="L7teSXvq" text="You need to be the leader of an army to manage it"/>
-    <string id="l9Vve3bD" text="Осінь"/>
+    <string id="l9Vve3bD" text="{.f}Осінь{.R_n31}"/>
     <string id="lAgfGeXJ" text="Kingdom Faction"/>
     <string id="LApMSsnb" text="Очки фокусу"/>
     <string id="laV5aNhK" text="Unique"/>
@@ -991,7 +991,7 @@
     <string id="ljcHO6PW" text="Security Drift"/>
     <string id="LjUhEJxz" text="{.m}Караван{.R_n20_u} {.S}{OWNER.NAME}{.v_rod}"/>
     <string id="LJwKdMdw" text="Wait for your opponent to get into position"/>
-    <string id="lKIHqkAV" text="seventeenth"/>
+    <string id="lKIHqkAV" text="{.m}сімнадцятий{.R_adj}"/>
     <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
     <string id="Ll90uaxu" text="Successful Sieges"/>
     <string id="lNADu8JO" text="Roles"/>
@@ -1023,7 +1023,7 @@
     <string id="M9p0vPad" text="I know your name... {COMMENT_STRING_MAIN}"/>
     <string id="m9vD3VlN" text="This party will NOT grow or shrink in size. It will try to keep it's size as it is."/>
     <string id="Ma0PyWAC" text="Raiding, attacking parties and sieging have a higher weight in decisions. The party will pursue enemies farther."/>
-    <string id="ma49Ya6b" text="thirtieth"/>
+    <string id="ma49Ya6b" text="{.m}тридцятий{.R_adj}"/>
     <string id="MaBSSg7I" text="Battering Ram"/>
     <string id="MacceKIX" text="{RELATION_TEXT} of {BASE_HERO.NAME}"/>
     <string id="mAEaO8jM" text="{PRISONER.NAME} has been released."/>
@@ -1138,7 +1138,7 @@
     <string id="O69Vhqxk" text="So how much are you going to give us?[rf:convo_angry]"/>
     <string id="o7I8qayN" text="Ha! Nothing like a good jab in the gut to let you know you're alive, eh? Looks like you managed to take down {OPPONENT_COUNT} opponents. Not bad. But that won't bring you any prize money. Now, if I were you, I would go back there and show everyone what I can do..."/>
     <string id="O9xpd5bn" text="a baroness"/>
-    <string id="oAg4dtbB" text="twenty-fifth"/>
+    <string id="oAg4dtbB" text="двадцять {.m}п'ятий{.R_adj}"/>
     <string id="ObTSCxra" text="Vassal"/>
     <string id="OBXNbvkK" text="As you attempt to force the villagers to give you goods, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
     <string id="OCGaTxac" text="Нагорода турніру"/>
@@ -1259,7 +1259,7 @@
     <string id="Q7ONA10T" text="&lt;b&gt;Trebuchet&lt;/b&gt;{NEWLINE}Somewhat inaccurate but devastating against walls."/>
     <string id="q7xpz1xb" text="Торгівля з селами"/>
     <string id="Q8mI3b4K" text="No Policy Selected"/>
-    <string id="Q9h3y2oO" text="eighth"/>
+    <string id="Q9h3y2oO" text="{.m}восьмий{.R_adj}"/>
     <string id="QA8Gm9PY" text="A hot day, is it not? Don't tire yourself fighting. Give us what we want and we'll leave.[rf:convo_mocking_revenge]"/>
     <string id="qaueUlAp" text="Good. Now be careful out there. World's full of thieves, not all of them as kind as we are.[ib:closed][rf:convo_bemused]"/>
     <string id="QAv3upYr" text="Cloak"/>
@@ -1305,7 +1305,7 @@
     <string id="quantitysign" text="#"/>
     <string id="qUtYks66" text="Army of {ARMY_LEADER.LINK} is gathering near {SETTLEMENT_NAME}."/>
     <string id="QxdINoOA" text="kinswoman"/>
-    <string id="QxlDIo3q" text="fifth"/>
+    <string id="QxlDIo3q" text="{.m}п'ятий{.R_adj}"/>
     <string id="QY2nuTFB" text="Let's pull back!"/>
     <string id="qzRbMK8G" text="Your vassals will be more inclined to take defensive actions against this enemy such as responding to enemy raids and sieges."/>
     <string id="r312jCKr" text="Propose Peace"/>
@@ -1417,7 +1417,7 @@
     <string id="t78atYqH" text="{.f}Дворучний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="T8w5VRAy" text="Enemy troops are falling back to the castle."/>
     <string id="taaNCsVZ" text="Ви виграєте турнір, перемігши {TOURNAMENT_FINAL_OPPONENT}{.v_rod} у фінальному раунді."/>
-    <string id="tAMBVG9B" text="third"/>
+    <string id="tAMBVG9B" text="{.m}третій{.R_adj}"/>
     <string id="tb6e1wjQ" text="Enemy destroyed all of our siege engines!"/>
     <string id="tDA5dhn3" text="{.f}імператриця{.R_n10_ko_p1}"/>
     <string id="TDQId8c9" text="You've constructed a barrier against your opponent, and have more pawns left. You win the game!"/>
@@ -1431,7 +1431,7 @@
     <string id="Ti2GeG0U" text="Upon selection, this option will block one random option."/>
     <string id="ti5FwD4t" text="Unknown Party"/>
     <string id="TlP31w8l" text="Bricole"/>
-    <string id="TlvM7kuQ" text="eighteenth"/>
+    <string id="TlvM7kuQ" text="{.m}вісімнадцятий{.R_adj}"/>
     <string id="tMg5AF19" text="Can't access quests right now!"/>
     <string id="TmKbTxQy" text="khatun"/>
     <string id="TNLRC4Gf" text="Бийтеся одноручною короткою зброєю."/>
@@ -1455,7 +1455,7 @@
     <string id="twinfemale" text="Twin"/>
     <string id="twinmale" text="Twin"/>
     <string id="Txbga7js" text="You come across a battle between {ATTACKER} and {DEFENDER}"/>
-    <string id="TxeKpK3Y" text="Your relation is increased by {MAGNITUDE} to {VALUE} with {HERO.NAME}."/>
+    <string id="TxeKpK3Y" text="Ваші відносини з {HERO.NAME}{.v_oru} покращилися на {MAGNITUDE} до {VALUE}."/>
     <string id="tXl9REtA" text="Ополчення {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="Tyc4aAdz" text="Join the battle without leading any men."/>
     <string id="u3c9M8vx" text="{.f}архонтесса{.R_n10_ko_p1}"/>
@@ -1557,7 +1557,7 @@
     <string id="vZVJNTOD" text="Donation XP"/>
     <string id="vZzDCjDr" text="Currently nobody is willing to be recruited in this town."/>
     <string id="W1seGc3t" text="Cartridge"/>
-    <string id="w3v2S03V" text="Your relation with {HERO_NAME} will &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;increase&lt;/b&gt;&lt;/a&gt;"/>
+    <string id="w3v2S03V" text="Ваші відносини з {HERO_NAME}{.v_oru} &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;покращаться&lt;/b&gt;&lt;/a&gt;"/>
     <string id="W4iKIM2s" text="Small Shield"/>
     <string id="W5gPypVY" text="Використовуйте кузню, щоб створювати зброю, очищайте матеріали та переплавляйте стару зброю."/>
     <string id="w758X31N" text="Item"/>
@@ -1568,7 +1568,7 @@
     <string id="Wg2P3acK" text="Fire Catapult"/>
     <string id="WharCvcX" text="We must defend the walls and not let the enemy inside."/>
     <string id="WHED64rw" text="A new troop will be available here after some time."/>
-    <string id="WHtINdhX" text="twenty-third"/>
+    <string id="WHtINdhX" text="двадцять {.m}третій{.R_adj}"/>
     <string id="WhuufgY5" text="Notable Relations"/>
     <string id="wib91252" text="Profession: {PROFESSION}"/>
     <string id="wifebrotherinlaw" text="brother-in-law"/>
@@ -1652,18 +1652,18 @@
     <string id="y4MiEr0H" text="Типи воїнів"/>
     <string id="Y5byltUT" text="sultan"/>
     <string id="y8Catvvn" text="Ranged Weapons III"/>
-    <string id="y8tOrlnJ" text="eleventh"/>
+    <string id="y8tOrlnJ" text="{.m}одинадцятий{.R_adj}"/>
     <string id="Y94H6XnK" text="Прийняти"/>
     <string id="yaxwYglT" text="Dispatched"/>
     <string id="YbabzW3H" text="You've been in prison at {SETTLEMENT_NAME} for {NUMBER_OF_DAYS} {?PLURAL}days{?}day{\?}."/>
-    <string id="YbB2IpTR" text="Your relation is decreased by {MAGNITUDE} to {VALUE} with {HERO.NAME}."/>
+    <string id="YbB2IpTR" text="Ваші відносини з {HERO.NAME}{.v_oru} погіршилися на {MAGNITUDE} до {VALUE}."/>
     <string id="yBnwGiuB" text="Лорд"/>
     <string id="Yc4xzip6" text="Do you want to execute {NAME}?"/>
     <string id="YCYwPPlJ" text="Вимкнути навчання"/>
     <string id="YeaFZzXS" text="On {DAY_OF_YEAR}, {YEAR}, {LEADER_NAME} declared the creation of a new realm, the {KINGDOM_NAME}."/>
     <string id="yeEaBV29" text="We'll take it. You can live. Now go before I change my mind.[ib:closed][if:convo_normal]"/>
     <string id="yenZGMzi" text="Прискорити час"/>
-    <string id="YevUiidU" text="Your relation is decreased by {MAGNITUDE} to {VALUE} with {CLAN_LEADER}."/>
+    <string id="YevUiidU" text="Ваші відносини з {CLAN_LEADER}{.v_oru} погіршилися на {MAGNITUDE} до {VALUE}."/>
     <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} (tariff)"/>
     <string id="yFl9N7wz" text="Взяти"/>
     <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a skirmish line."/>
@@ -1693,7 +1693,7 @@
     <string id="ytYPOCZ8" text="{NUMBER}% Completed"/>
     <string id="YukbQgHJ" text="Швидкість снаряду: "/>
     <string id="yUo269Us" text="Thanks for your help, stranger. We haven't met properly yet, have we? What is your name?"/>
-    <string id="yVLv2Q23" text="Proceed"/>
+    <string id="yVLv2Q23" text="Продовжити"/>
     <string id="YvwQL9aa" text="Вага: "/>
     <string id="yWD4Nwy2" text="We should help our allies."/>
     <string id="YxEcX6pS" text="On {DAY_OF_YEAR}, {YEAR}, you found a second piece of the Dragon Banner of Calradios."/>
