@@ -2814,7 +2814,7 @@
     <string id="luDtfSN7" text="Елітні резерви"/>
     <string id="LUiQ6bpo" text="Very well, then. What is it?"/>
     <string id="LUNcUV2I" text="Ransom Offer"/>
-    <string id="LUro3Sqr" text="While spending time with {?PLAYER_CHILD}your{?}the{\?} child, you notice that {?CHILD.GENDER}she{?}he{\?} shows real ability in {RANDOM_OUTCOME}."/>
+    <string id="LUro3Sqr" text="Проводячи певний час з {?PLAYER_CHILD}вашою {?}{\?}дитиною, ви помічаєте, що у {?CHILD.GENDER}неї{?}нього{\?} неабиякі здібності у {RANDOM_OUTCOME}{.v_dav}."/>
     <string id="lutYwHwt" text="{VALUE}% досвіду воїнам, коли їх відправляють у битву з ворогом."/>
     <string id="lV0VOn99" text="This war has gone on too long."/>
     <string id="Lv2pbg8c" text="Побудова табору"/>
@@ -3909,7 +3909,7 @@
     <string id="t0UGXPV4" text="I'm interested in trading. What kind of products do you have?"/>
     <string id="T1N2w4uK" text="{VALUE}% шансу подвійного успіху при переконанні."/>
     <string id="t1tNPPNf" text="I can go meet them and seal this deal myself."/>
-    <string id="T3vJp4PG" text="Whoever grasps how prices work can pluck silver out of thin air."/>
+    <string id="T3vJp4PG" text="Той, хто розуміє, як влаштовані ціни, може отримувати срібло просто з повітря."/>
     <string id="T3x9hVg9" text="{FIRSTNAME} of the Chalice"/>
     <string id="T4q1DkfF" text="You have completed {QUEST_GIVER.NAME}'s request, you can go back to receive your reward or keep working on more orders."/>
     <string id="T5H3L9Kw" text="The fever has broken. You are weak but you feel you will recover. You rise from your bed from the first time in days, blinking in the sunlight."/>
