@@ -167,7 +167,7 @@
     <string id="Dfmg8stq" text="Eliminate {FACTION}"/>
     <string id="Dgdopl1b" text="How can I create my own imperial kingdom?"/>
     <string id="DIKPGwj1" text="Радий бачити, що ти в безпеці. Усі живі?"/>
-    <string id="DjQuB0TU" text="You saved your brothers and sister, and you decided to let {RADAGOS.LINK} go..."/>
+    <string id="DjQuB0TU" text="Ви врятували своїх братів і сестру і вирішили відпустити {RADAGOS.LINK}{.v_rod}..."/>
     <string id="DO4PE3Oo" text="Поточний розмір загону"/>
     <string id="Dp6newHS" text="Conquered Settlements"/>
     <string id="dPb2Vph3" text="My informants will tell me once you pledged your support...[ib:normal2][if:convo_nonchalant]"/>
@@ -221,7 +221,7 @@
     <string id="fUcwKbW8" text="If I win I will just kill you and let these poor excuses you call conspirators run away."/>
     <string id="FUwIgcZO" text="Are you sure about that? (This option will finish the tutorial, which has story elements, and start the full single player campaign. It is recommended that you pick this option only if you have already played the tutorial once.)"/>
     <string id="FWSwngVX" text="Ну що, вирушаємо в дорогу? Пам'ятайте - якщо я впаду з ніг від безсилля або втоплюся в якійсь річці, то для ваших маляток все буде скінчено. Я все розумію і не розраховую на комфортабельний паланкін, але краще просто не ускладнюйте мені подорож.[if:convo_uncomfortable_voice]"/>
-    <string id="FyzsAZx8" text="{RADAGOS.LINK} said that he knows where your siblings are. He offered to attack together. He will wait for you at the hideout that he mentioned about near {SETTLEMENT_LINK}. You can see the hideout marked on the map."/>
+    <string id="FyzsAZx8" text="{RADAGOS.LINK} розказав, де знаходяться ваші брати і сестра. Він запропонував напасти на викрадачів разом. {RADAGOS.LINK} чекатиме на вас у лігві, яке знаходиться біля {.S}{SETTLEMENT_LINK}{.v_rod}. Це лігво відмічене на карті."/>
     <string id="G9iXmhGK" text="Слухай, давай поговоримо. Я дам тобі мішечок срібла.[ib:weary][if:convo_confused_voice]"/>
     <string id="Ga8mDgab" text="You've been defeated at {HIDEOUT_BOSS.LINK}'s hideout. You can attack again when you are ready."/>
     <string id="gBbm9beO" text="Влучте у всі мішені. Залишилось влучити в {REMAINING_TARGET} мішен{#GET_PLURAL_VALUE(REMAINING_TARGET)}ь{#}і{#}ей{\#}."/>
@@ -257,7 +257,7 @@
     <string id="HL9lzfjY" text="Of course I can. You know my name, whose son I am.[if:convo_beaten][ib:closed]"/>
     <string id="hnFkhPhp" text="Цей параметр не доступний під час навчання."/>
     <string id="HOb07MJF" text="Я не дуже багато про це знаю. Але знаю двох, хто може розповісти. {IMPERIAL_MENTOR.LINK} — вона колись була неофіційною главою шпигунів Неретцеса. І ще є {ANTI_IMPERIAL_MENTOR.LINK}. Він був охоронцем Неретцеса, але люди кажуть, що з тих пір він дуже сильно змінився."/>
-    <string id="HPNuqbSf" text="Rescue Your Family"/>
+    <string id="HPNuqbSf" text="Врятувати свою сім'ю"/>
     <string id="HqlXdzcv" text="Поговорити зі старостою {HEADMAN.FIRSTNAME}{.v_oru}"/>
     <string id="HrdVRMgR" text="Мабуть, врятувавши моїх брата і сестру, ти заслужив своє життя. Гаразд, йди."/>
     <string id="HT9hW29s" text="Чудово! Але я маю ще кілька справ. Біля цього міста є лігво. {HIDEOUT_BOSS.LINK} тримає там твоїх брата і сестру. Зустрінемось недалеко від цього лігва. Так, щоб нас не помітили їх розвідники.[if:convo_snide_voice][ib:hip]"/>
@@ -369,7 +369,7 @@
     <string id="oKknZdXn" text="You should join the kingdom that you wish to support by talking to the leader. None will bring back the Palaic people, but the final victory of any one of those would be suitable vengeance."/>
     <string id="oL9BdThD" text="Choose one and pledge allegiance. When this civil war began, I was a bit torn... Rhagaea was the cleverest ruler, Garios probably the best fighter, and Lucon seemed to have the best grasp of our laws and traditions. But you can make up your own mind."/>
     <string id="OMrnTIe0" text="Ви рятуєте кількох полонених, яких рейдери тягнули за собою. Вони виглядають спраглими і виснаженими. Ви даєте їм трохи води і хліба, і через деякий час один з них, хитаючись, підводиться на ноги і підходить до вас."/>
-    <string id="ORnjaMlM" text="You were defeated by the raiders, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready.\nYou must have at least {NUMBER} members in your party. If you don't, go back to the village and recruit some more troops."/>
+    <string id="ORnjaMlM" text="Бандити перемогли вас, але ваш брат вас врятував. Однак не схоже, що вони кудись збираються, тому ви повинні напасти знову, як тільки будете готові.\nУ вашому загоні повинно бути щонайменше {NUMBER} людей. Якщо їх менше, поверніться до села і наберіть більше воїнів."/>
     <string id="Os79KwFa" text="Я був з авангардом. Неретцеc, очевидно, знав, що баттанці запланували засідку — хузаїтські розвідники сказали йому про це. Але він не потурбувався нас про це повідомити. Тож коли ми, ні про що не здогадуючись, йшли вверх, вздовж лісового струмка, на нас раптово з усіх сторін почали сипатися баттанські стріли.[if:convo_bored2][ib:normal2]"/>
     <string id="OS8YjyE5" text="You should collect all of the pieces of the Dragon Banner before deciding your path."/>
     <string id="OwcgxRXB" text="Weakened by the war, the {FACTION} has collapsed and its clans have defected to surrounding kingdoms."/>
@@ -568,7 +568,7 @@
     <string id="ZKdBlAmp" text="An arms caravan to resupply the conspirators will be soon on its way.{newline}{MENTOR.LINK}'s message:{newline}&quot;Our spies have learned about an arms caravan that is attempting to bring the conspirators high quality weapons and armor. We know that it will set out on its route from {QUEST_FROM_SETTLEMENT_NAME} to {QUEST_TO_SETTLEMENT_NAME} after {SPAWN_DAYS} days. We will find out and notify you about the new routes that it takes as it progresses.&quot;"/>
     <string id="ZkSthA9d" text="They say Olek the Old had pried the dragon banner out of the Emperor's dead hands. But then Prince Raganvad, who had not so much as drawn his sword in the battle, claimed it as a trophy. Olek, who was covered in his enemies' blood, laughed at Raganvad and told him to go find his own toy to play with. Raganvad struck him, so Olek broke the banner staff over his knee and threw it in his prince's face."/>
     <string id="zLRlmitp" text="Розібратися з «Божевіллям Неретцеса»"/>
-    <string id="ZpcV9MZE" text="You saved your brothers and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents."/>
+    <string id="ZpcV9MZE" text="Ви врятували своїх братів і сестру та вирішив стратити {RADAGOS.LINK}{.v_rod}, тому що він став причиною смерті ваших батьків."/>
     <string id="Zq9qXcCk" text="You are defeated by the {RADAGOS.NAME}' Party, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready. You must have at least {NUMBER} members in your party. If you don't, go back to {QUEST_VILLAGE} and recruit some more troops."/>
     <string id="ZqOvtLBM" text="У метушні під час нападу ви вигукнули, що хтось знайшов коштовності у підсобці, після чого ви з братом змогли пробратись до виходу, за яким ніхто не дивився."/>
     <string id="zRZd90cZ" text="I was there. I was just a young squire then."/>
