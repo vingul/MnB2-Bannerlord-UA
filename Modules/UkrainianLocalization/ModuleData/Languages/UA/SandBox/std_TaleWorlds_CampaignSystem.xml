@@ -42,7 +42,7 @@
     <string id="0g7MZCAK" text="Workshop Income"/>
     <string id="0G8Q3AZv" text="I am thinking of a different attribute."/>
     <string id="0gwQGnm4" text="{ARMY_OWNER_TEXT} {ARMY_BEHAVIOR}"/>
-    <string id="0h5BrVdA" text="Ваші стосунки зі знаттю в деяких ваших населених пунктах покращилися через високу вірність"/>
+    <string id="0h5BrVdA" text="Ваші відносини зі знаттю в деяких ваших населених пунктах покращилися через високу вірність"/>
     <string id="0I6xdead" text="taxing landowners on their property"/>
     <string id="0i8RgslK" text="Or, maybe one of your trusted companions can buy the {ITEM_TYPE}. I reckon they'll cost {COMPANION_NEED_GOLD_AMOUNT}{GOLD_ICON} denars, and they'd best take at least {ALTERNATIVE_TROOP_AMOUNT} men for protection.[if:convo_bored]"/>
     <string id="0J9dgA7j" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}очко{#}очки{#}очків{\#} до уміння «Лук» кінним лучникам вашого підрозділу."/>
@@ -2345,7 +2345,7 @@
     <string id="ivrmsCFC" text="{VALUE} до добробуту, коли проєкт в підконтрольному поселенні буде завершено."/>
     <string id="IvY187PJ" text="No matter. Anything else?"/>
     <string id="iWBrManr" text="Let it be known that you are adopted into the Khuzait confederacy, and that you shall be considered of the ancestry of the 12 sons of the she-wolf. You may sit in our councils of war and of peace. We shall ride to defend your flocks and avenge your blood if you fall. Your herds may graze in our lands and drink from our springs."/>
-    <string id="IwS1qeq9" text="Your relation is increased by {MAGNITUDE} with village notables."/>
+    <string id="IwS1qeq9" text="Ваш відносини з сільськими знатними особами покращилися на {MAGNITUDE}."/>
     <string id="iWWKTOik" text="I've got a trick up my sleeve. We'll bait them. I've paid some of my workers to spread rumors about a particularly fat caravan laden with silverware heading out towards {TARGET_SETTLEMENT}. It is a trap, of course. I've got a bunch of mercenaries going with it, disguised as packers. But they could use some backup. Go and follow my caravan. Stay at a proper distance, until they are attacked. Then move in to finish the bandits once and for all. My caravan master will pay you {REWARD}{GOLD_ICON} when the fight is over.[if:convo_mocking_revenge][ib:confident2]"/>
     <string id="Ix8YjLPD" text="Men within prisoner size"/>
     <string id="Ix98dg08" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}готова баліста{#}готові балісти{#}готових баліст{\#} одразу після побудови облогового табору."/>
@@ -2883,7 +2883,7 @@
     <string id="McHsHbH8" text="Зайти в кузню"/>
     <string id="mcrjFxDQ" text="Collect revenue"/>
     <string id="MdjZ56VR" text="{?CHILD.GENDER}She{?}He{\?} sits on the saddle so comfortably, like {?CHILD.GENDER}she{?}he{\?} was born on it."/>
-    <string id="ME5hmllb" text="Your relation with notables in some of your settlements increased due to high security"/>
+    <string id="ME5hmllb" text="Ваші відносини зі знаттю в деяких ваших населених пунктах покращилися через високу безпеку"/>
     <string id="MEr2aoeC" text="{VALUE} до броні кінним воїнам вашого підрозділу."/>
     <string id="mEsaiLOR" text="Very well then. If you happen to have any more prisoners, you know where to find me."/>
     <string id="MesU0nGW" text="{VALUE}% більше здобичі від сіл, що зазнали ворожих дій від вас."/>
@@ -3141,7 +3141,7 @@
     <string id="NzlwbSIj" text="{VALUE}% витрати витривалості під час переплавлення."/>
     <string id="Nzt8Xkro" text="You cannot ambush because the settlement walls are breached."/>
     <string id="NZynd8vT" text="&quot;This weapon is worthless. I'm not giving you a dime!&quot;"/>
-    <string id="o0qwDa0q" text="Your relation increased by {RELATION_VALUE} with nearby notables."/>
+    <string id="o0qwDa0q" text="Ваш відносини зі відомими особами біля вас покращилися на {RELATION_VALUE}."/>
     <string id="o1pZHZOF" text="{ATTACK_TEXT}!"/>
     <string id="O1XCNeZr" text="Для найняття лорда у свою армію необхідно на 20% більше впливу."/>
     <string id="o27lTMD4" text="Some villagers tried to resist. In the brawl, {WOUNDED_NUMBER} of your men got wounded."/>
@@ -3616,7 +3616,7 @@
     <string id="r3pGLoKN" text="I accept oaths only from those I can trust to keep them, {PLAYER.NAME}."/>
     <string id="r46NWboa" text="I'm going to market too. What kind of products do you have?"/>
     <string id="r4pLtP5V" text="You're right. We agreed on this price. Thank you for your efforts.[if:convo_nervous][ib:normal]"/>
-    <string id="r5Netxy0" text="Your relation is decreased by {MAGNITUDE} with village notables."/>
+    <string id="r5Netxy0" text="Ваш відносини з сільськими знатними особами погіршилися на {MAGNITUDE}."/>
     <string id="R5ObSaUN" text="Прогулятися по центру міста"/>
     <string id="R6dnhblo" text="Передислокація"/>
     <string id="R6V2Jv3a" text="You have delivered the weapons to the {QUEST_GIVER.LINK} as promised."/>
