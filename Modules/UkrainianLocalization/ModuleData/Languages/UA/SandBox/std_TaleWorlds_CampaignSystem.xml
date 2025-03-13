@@ -479,7 +479,7 @@
     <string id="5Vo8dJub" text="Governor's Culture"/>
     <string id="5vosR2YO" text="The host was the kind of man who likes to do his negotiations from the saddle in pursuit of deer, and {CHILD.NAME} joined in every expedition."/>
     <string id="5vs3qlQ8" text="Фаланга"/>
-    <string id="5Wld45hP" text="forbidding tenants from leaving their lords' lands"/>
+    <string id="5Wld45hP" text="забороняти селянам залишати землі своїх лордів"/>
     <string id="5WR5DsOz" text="Rulers could make money fast by debasing the currency and minting more, but this would cause prices to rise."/>
     <string id="5wwO7ozf" text="{ARMY_LEADER}'s army has disbanded due to a lack of cohesion."/>
     <string id="5xi0t1dD" text="Вже зустрічалися"/>
@@ -685,7 +685,7 @@
     <string id="8eHRth3U" text="my wife"/>
     <string id="8EtK0F1K" text="{VALUE}% дальності видимості під час подорожі степами та рівнинами."/>
     <string id="8f8UGq46" text="Спільнота ремісників"/>
-    <string id="8FPCRv5L" text="Serfdom"/>
+    <string id="8FPCRv5L" text="Кріпацтво"/>
     <string id="8G94SlPD" text="We are doing well, my {?HERO.GENDER}lady{?}lord{\?}. The merchants say business is brisk, and everything the people need appears to be in good supply."/>
     <string id="8GbGTDtL" text="{YOUNG_HERO.LINK}'s experience progress"/>
     <string id="8gF5qYw5" text="Your captors have been dispersed, and you are able to escape."/>
@@ -2721,7 +2721,7 @@
     <string id="lbHswWdb" text="Hunting is all about being aware of your surroundings and tracking your prey. You felt that the same skills would serve a lord well in journeys across the wild."/>
     <string id="LBiZ9Rie" text="You already possess this information."/>
     <string id="lbrOAvKj" text="Дальність виявлення +{a0}%"/>
-    <string id="Lbs2bNlg" text="The {KINGDOM} will start {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
+    <string id="Lbs2bNlg" text="{KINGDOM} почне {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="LbTETjZu" text="I want you to crush them. Go to {VILLAGE} and give them a lesson they won't forget.[ib:closed2][if:convo_grave]"/>
     <string id="lc0YIqby" text="Stage a prison break"/>
     <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Army Commander has canceled the mission."/>
