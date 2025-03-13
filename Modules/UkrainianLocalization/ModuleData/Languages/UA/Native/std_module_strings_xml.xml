@@ -366,7 +366,7 @@
     <string id="b5DWVsOZ" text="{HERO.NAME} has died in battle."/>
     <string id="B5J6DbpG" text="Remaining Days With Food: {REMAINING_DAYS}{newline}{newline}Total Food: {TOTAL_FOOD_AMOUNT}{newline}Daily Consumption: {DAILY_FOOD_CONSUMPTION}"/>
     <string id="b5t34yLX" text="Horse Harness"/>
-    <string id="b6biU4f1" text="Create New Party"/>
+    <string id="b6biU4f1" text="Створити новий загін"/>
     <string id="b778BvfW" text="This item is {PERCENTAGE}% more expensive than average"/>
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending."/>
     <string id="b7bWCXbk" text="Run along now, little sheep. And be careful of the other wolfpacks out there."/>
@@ -524,7 +524,7 @@
     <string id="dgaf7Jpb" text="Setup"/>
     <string id="DGbSsANY" text="{HERO.NAME} has died of old age."/>
     <string id="dGDYBpzz" text="western imperial"/>
-    <string id="DGOgsMfx" text="{PRISONER.NAME} has been released after {?PRISONER.GENDER}her{?}his{\?} ransom was paid."/>
+    <string id="DGOgsMfx" text="{PRISONER.NAME}{.v_rod} було звільнено з полону після того, як за {?PRISONER.GENDER}неї{?}нього{\?} сплатили викуп."/>
     <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}"/>
     <string id="DItheHi7" text="Stay behind in reserve"/>
     <string id="DIuI1moW" text="Gang Leader"/>
@@ -663,7 +663,7 @@
     <string id="forgeverb" text="Forge"/>
     <string id="FpI5JMZq" text="Transactions have been reset"/>
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} increase to village growth."/>
-    <string id="fQ2RLaOa" text="Клан не володіє жодної власності"/>
+    <string id="fQ2RLaOa" text="Клан не має жодної власності"/>
     <string id="fQAGU9GW" text="Великодушність:"/>
     <string id="FqwHAxuM" text="Two Handed Polearm"/>
     <string id="FRepQsmO" text="Турнір буде у формі лицарського поєдинку."/>
@@ -700,7 +700,7 @@
     <string id="gAX49b7b" text="You've constructed a barrier against your opponent, but you have an equal amount of pawns left. The game is a draw!"/>
     <string id="GAzaM1RC" text="Can be slaughtered for meat and hide"/>
     <string id="GbbGlcMZ" text="Pawns can move to any tile in a vertical or horizontal direction, but they can never jump over other pawns.{newline}Pawns can not move on or over the center tile. Once the king leaves this tile, he can also no longer cross it."/>
-    <string id="gCaT2BTu" text="{PRISONER.NAME} has been released from captivity following a peace treaty."/>
+    <string id="gCaT2BTu" text="{PRISONER.NAME} {?PRISONER.GENDER}була звільнена{?}був звільнений{\?} з полону згідно з мирним договором."/>
     <string id="gdraqMso" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside."/>
     <string id="GDugjWao" text="Here is {MONEY}{GOLD_ICON}. Just take it and let us go."/>
     <string id="gE7QFy6y" text="{PRISONER.NAME} {?PRISONER.GENDER}втекла{?}втік{\?} з полону."/>
@@ -1026,7 +1026,7 @@
     <string id="ma49Ya6b" text="{.m}тридцятий{.R_adj}"/>
     <string id="MaBSSg7I" text="Battering Ram"/>
     <string id="MacceKIX" text="{RELATION_TEXT} {.S}{BASE_HERO.NAME}{.v_rod}"/>
-    <string id="mAEaO8jM" text="{PRISONER.NAME} has been released."/>
+    <string id="mAEaO8jM" text="{PRISONER.NAME} {?PRISONER.GENDER}була звільнена{?}був звільнений{\?} з полону."/>
     <string id="MAkZQKp0" text="Skill Bonus / Penalty"/>
     <string id="maptimeplay" text="Продовжити"/>
     <string id="mAxXKaXp" text="Скинути"/>
@@ -1204,7 +1204,7 @@
     <string id="pcy8IXDf" text="{?RULER.GENDER}Queen{?}King{\?} {RULER.NAME}"/>
     <string id="PDdh1sBj" text="Назва"/>
     <string id="PdXqoa2W" text="Прямує до {SETTLEMENT_NAME}{.v_rod}."/>
-    <string id="PE4nuMc7" text="This page explains the game concepts in Bannerlord"/>
+    <string id="PE4nuMc7" text="Ця сторінка пояснює ігрові концепції в Bannerlord"/>
     <string id="PEKxMxal" text="You can now escape."/>
     <string id="pEm60xEX" text="Your opponent captures a pawn."/>
     <string id="PFbLgd1I" text="Surrender"/>
