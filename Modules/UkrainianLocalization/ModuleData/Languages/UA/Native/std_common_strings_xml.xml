@@ -185,7 +185,7 @@
     <string id="9sokmYMZ" text="Padmos"/>
     <string id="9xyXdX4I" text="Tharos"/>
     <string id="9y0zpKUF" text="You need to be the owner of this settlement!"/>
-    <string id="9ZyXl25X" text="second"/>
+    <string id="9ZyXl25X" text="{.m}другий{.R_adj}"/>
     <string id="a1BGHdaU" text="Guarded Armwraps"/>
     <string id="A1zFbFta" text="Reinforced Flat Kite Shield"/>
     <string id="a2ajWcI3" text="Viria"/>
@@ -416,7 +416,7 @@
     <string id="f3hTGKIP" text="Garitops"/>
     <string id="F4xD8gjJ" text="Francesca"/>
     <string id="F7OO5SAa" text="Досягнувши юнацтва у Кальрадії, війна, звісно, не змогла пройти повз вас. Ви..."/>
-    <string id="f7vOVQb7" text="Літо"/>
+    <string id="f7vOVQb7" text="{.n}Літо{.R_n2n}"/>
     <string id="F9HQABfN" text="Reinforced Wicker Square Shield"/>
     <string id="Fa2nKXxI" text="Намісник"/>
     <string id="FAPHmzxQ" text="Thawb"/>
@@ -732,15 +732,15 @@
     <string id="NUHzapSv" text="Long Hemp Tunic"/>
     <string id="NUmDuEqI" text="Imperial Riding Harness"/>
     <string id="Nv0eZmGL" text="Steel Nasal Cap"/>
-    <string id="nWbp3o3H" text="Весна"/>
-    <string id="nwqUFaU8" text="Зима"/>
+    <string id="nWbp3o3H" text="{.f}Весна{.R_n10}"/>
+    <string id="nwqUFaU8" text="{.f}Зима{.R_n10}"/>
     <string id="NXOOJs2X" text="Patrys"/>
     <string id="O2oBC9sH" text="Збільшена шкода при зіткненні"/>
     <string id="O37kzdXO" text="Light Harness"/>
     <string id="O3dhjtOS" text="Броня (голова)"/>
     <string id="O75XlydW" text="{.m}Аркор{.R_n20_a_ke}"/>
     <string id="O8TpGSDA" text="{.m}Оксамит{.R_n20_u}{@Plural}{.p}Рулон{.R_n20_p} оксамиту{\@}"/>
-    <string id="oAoTaAWg" text="first"/>
+    <string id="oAoTaAWg" text="{.m}перший{.R_adj}"/>
     <string id="oBbiVeKE" text="Очки здоров'я"/>
     <string id="oEJnxsQ1" text="Armwraps"/>
     <string id="oEvhhNNR" text="Leather Cavalier Boots"/>
@@ -997,7 +997,7 @@
     <string id="unaWKloT" text="Збільшена шкода в ближньому бою"/>
     <string id="UoHZGyZa" text="Helmet with Faceguard"/>
     <string id="UPaP0B2L" text="Alchyla"/>
-    <string id="uQgNPJnc" text="Manage Troops"/>
+    <string id="uQgNPJnc" text="Керування воїнами"/>
     <string id="uqO6e6vN" text="Kite Shield"/>
     <string id="URgZ4ai4" text="Ваша сім'я займала середнє положення в одному з хузаїтських кланів. Хоч у вашого батька і було кілька власних стад, але він не був багатим. Коли хузаїтська орда відправлялась на битву, він бився в лавах кінних лучників, обстрілюючи стрілами і виснажуючи ворога, перш ніж списоносці завдавали останнього удару."/>
     <string id="urUwa4bf" text="Looter"/>
@@ -1007,7 +1007,7 @@
     <string id="UvOa4elc" text="Green Hood"/>
     <string id="uW38UtSH" text="Eupitor"/>
     <string id="UxAl9iyi" text="Особисте"/>
-    <string id="uYjEknNX" text="{VICTIM.NAME}'s execution by {EXECUTER.NAME}"/>
+    <string id="uYjEknNX" text="Страта {.S}{VICTIM.NAME}{.v_rod} {.S}{EXECUTER.NAME}{.v_oru}"/>
     <string id="uZhHh7pm" text="{CURR_TEMPLATE_NAME} (створено)"/>
     <string id="V1QLbhRl" text="Sora"/>
     <string id="v48N6h1t" text="Міські ремісники"/>
