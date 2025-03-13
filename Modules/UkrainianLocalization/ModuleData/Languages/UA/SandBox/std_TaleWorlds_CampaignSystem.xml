@@ -343,7 +343,7 @@
     <string id="41wb8QaV" text="I know I can not force you to pay you what you owe me. But I think you will find that a good name is worth more than a few loads of {SELECTED_ITEM}..."/>
     <string id="4220dQ4j" text="{VALUE}% вартості утримання та покращення найманців у вашому загоні."/>
     <string id="428B377z" text="{ISSUE_GIVER.LINK}, a merchant of {QUEST_GIVER_SETTLEMENT}, told you that the poachers {?ISSUE_GIVER.GENDER}she{?}he{\?} hired are now out of control. You asked {COMPANION.LINK} to take {NEEDED_MEN_COUNT} of your men to go to {QUEST_VILLAGE} and kill the poachers. They should rejoin your party in {RETURN_DAYS} days."/>
-    <string id="43zzbI1J" text="enemy incursions"/>
+    <string id="43zzbI1J" text="вторгнення ворогів на наші землі"/>
     <string id="444rcko0" text="We need {GRAIN_AMOUNT} sacks of grain to meet our basic needs. And if you can find {LIVESTOCK_AMOUNT} live stocks and {WINE_AMOUNT} barrels of wine that would be a great favor. Men fight better after a good meal."/>
     <string id="44f1ff0q" text="All the villages of {QUEST_GIVER.LINK} has been raided and your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} has been canceled."/>
     <string id="44tA6fNa" text="I will try to earn your family's trust, then."/>
@@ -912,7 +912,7 @@
     <string id="AHtFRv5T" text="Ігнорування болю"/>
     <string id="ahydRFKe" text="There was someone who called {?INQUIRY_COMPANION.GENDER}herself{?}himself{\?} {INQUIRY_COMPANION.LINK}. Sounds like the kind of person who might interest you, no? {?INQUIRY_COMPANION.GENDER}She{?}He{\?} was headed for {COMPANION_SETTLEMENT}.[rb:positive]"/>
     <string id="aIaRIsw4" text="Scabby {FIRSTNAME}"/>
-    <string id="aiBQo2MR" text="an outbreak of unrest"/>
+    <string id="aiBQo2MR" text="спалах заворушень"/>
     <string id="aIbR4Nr3" text="Sure, but first you will need to pay me and my men {GOLD_AMOUNT} denars for our efforts."/>
     <string id="aih1Y62W" text="You have saved the village."/>
     <string id="aiIPozp6" text="{VALUE}% штрафу до швидкості загону при перегоні стада."/>
@@ -1249,7 +1249,7 @@
     <string id="bvEOmHWd" text="I think a man who knows how to trade alongside {ALTERNATIVE_TROOP_AMOUNT} [if:convo_undecided_open]fighters can get the job done without trouble. they will need {GOLD_REQUIRED_FOR_ALTERNATIVE_SOLUTION}{GOLD_ICON} denars to buy the animals. You or one of your companions, {?PLAYER.GENDER}madam{?}sir{\?} - it doesn't matter for us as long as you find the animals we need..."/>
     <string id="bVi0JKSx" text="You will be executed. You must face it as bravely as you can"/>
     <string id="BVIm1HPw" text="Party Name:"/>
-    <string id="bvRVu0fO" text="{SKILL1} and {SKILL2} gain {NUMBER_FP} Focus Point and {NUMBER_SP} Skill Points."/>
+    <string id="bvRVu0fO" text="{NUMBER_FP} очк{#GET_PLURAL_VALUE(NUMBER_FP)}о{#}и{#}ів{\#} фокусу і {NUMBER_SP} очк{#GET_PLURAL_VALUE(NUMBER_SP)}о{#}и{#}ів{\#} уміння до {.S}{SKILL1}{.v_rod} та {.S}{SKILL2}{.v_rod}."/>
     <string id="bVUQyN8t" text="{VALUE}% пробиття броні арбалетами."/>
     <string id="BvytaDUJ" text="Heaven protect us from the likes of you."/>
     <string id="bw0hEPN6" text="You already bought their contract from our clan. Why would I want to buy them back?[if:convo_confused_normal]"/>
@@ -1991,7 +1991,7 @@
     <string id="gGXelWQX" text="Issue owner power"/>
     <string id="GHbM1i6R" text="{QUEST_GIVER.LINK} needs {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} to speed up {?QUEST_GIVER.GENDER}her{?}his{\?} party."/>
     <string id="GhcUKfbJ" text="I don't think you can help me. I need someone who has some gold to spend...[ib:closed]"/>
-    <string id="gHgUwteP" text="natural disasters"/>
+    <string id="gHgUwteP" text="стихійні лиха"/>
     <string id="GhPGpR90" text="a plate of dates"/>
     <string id="gHTK6yH5" text="I don't want to fight, but I will if you make me.[ib:closed][if:idle_angry]"/>
     <string id="gHUQfWlg" text="Ваш прибуток зображається."/>
@@ -2400,7 +2400,7 @@
     <string id="jbAtOsIy" text="Рабська праця"/>
     <string id="jBN2LlgF" text="We'll fight to our last drop of blood!"/>
     <string id="jbPZTSP4" text="Стрілець"/>
-    <string id="Jc1YXXjN" text="an influx of wild beasts"/>
+    <string id="Jc1YXXjN" text="нашестя диких звірів"/>
     <string id="jd4qUGEA" text="I wish to discuss the final terms of my marriage with {COURTSHIP_PARTNER}."/>
     <string id="JDfnPFsW" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided to make peace with the {KINGDOM} despite the opposition of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council."/>
     <string id="JDGz56HX" text="If you start a rebellion, you're just going to get a lot of peasants around here killed..."/>
@@ -2496,7 +2496,7 @@
     <string id="JTt3Xu9t" text="Our kingdom is not at war, {PLAYER.NAME}. We have no use for mercenaries."/>
     <string id="Jtx8Czql" text="{VALUE}% швидкості перезаряджання арбалетів за кожне очко уміння вище 200."/>
     <string id="jU084S5S" text="{VALUE}% швидкості прицілювання з лука."/>
-    <string id="jukOfT2Z" text="Зовнішні події також вплинули на підлітковий вік {CHILD.NAME}{.v_rod}. Ви вважаєте, що на {?CHILD.GENDER}неї{?}нього{\?} частково вплинуло {RANDOM_OUTCOME}. Ця подія покращила {?CHILD.GENDER}її{?}його{\?} уміння в {.S}{SKILL_1}{.v_dav} та {.S}{SKILL_2}{.v_dav}."/>
+    <string id="jukOfT2Z" text="Зовнішні події також вплинули на підлітковий вік {CHILD.NAME}{.v_rod}. Ви вважаєте, що на {?CHILD.GENDER}її{?}його{\?} формування частково вплинули певні події. Зокрема {RANDOM_OUTCOME}. Ця подія покращила {?CHILD.GENDER}її{?}його{\?} уміння в {.S}{SKILL_1}{.v_mis} та {.S}{SKILL_2}{.v_mis}."/>
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
     <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
@@ -2998,7 +2998,7 @@
     <string id="mzDsT7lV" text="Військовий планувальник"/>
     <string id="mZmCmC6q" text="I don't think so."/>
     <string id="mznjEwjC" text="Місцевий ринок"/>
-    <string id="mzu6exTe" text="an outbreak of plague"/>
+    <string id="mzu6exTe" text="спалах чуми"/>
     <string id="mzUa3duw" text="{VALUE}% шкоди від сокири та булави."/>
     <string id="N0E8gd5H" text="{QUEST_GIVER.LINK} an artisan from {QUEST_GIVER_SETTLEMENT} has complained to you about not being able to sell their goods at the price they want because of the unfair local laws. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay {REWARD_AMOUNT}{GOLD_ICON} for you to take the goods to another town. You agreed to take {?QUEST_GIVER.GENDER}her{?}his{\?} goods to {TARGET_HERO.LINK} in {TARGET_SETTLEMENT}."/>
     <string id="N0eHkPV2" text="A craftsman makes parts and an engineer fits them together. The best artisans learn to do both."/>
@@ -4699,7 +4699,7 @@
     <string id="Y8jAaICu" text="One day {?PLAYER_CHILD}your{?}the{\?} child asks you which of your skills was most useful to you. You thought for a while, and answered..."/>
     <string id="y9AsEMnV" text="{VALUE}% споживання їжі у вашому загоні, поки він є частиною армії."/>
     <string id="Y9LNbRho" text="Thank you. I will put your men to good use."/>
-    <string id="y9RcWMbQ" text="a local rivalry"/>
+    <string id="y9RcWMbQ" text="локальні сутички між кланами"/>
     <string id="yA2P7w9N" text="{VALUE} додаткової вірності поселення під час очікування в ньому."/>
     <string id="ya7alenH" text="{VALUE}% споживання їжі міським населенням у підконтрольному поселенні."/>
     <string id="ya8VF98X" text="I swear by my ancestors that you are lawful {FACTION_TITLE}."/>
