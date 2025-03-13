@@ -64,7 +64,7 @@
     <string id="3aziL3Gs" text="Scout {CURRENTLY_HELD_SCOUT}"/>
     <string id="3bOcF1Cw" text="I can't spare anyone now. You will need to go alone."/>
     <string id="3E1XVyGM" text="You will lose the ownership of the alley."/>
-    <string id="3FvGk8k6" text="Your settlement {SETTLEMENT} is besieged by {PARTY} of {FACTION}!"/>
+    <string id="3FvGk8k6" text="Ваше поселення {SETTLEMENT} взято в облогу {.S}{PARTY}{.v_oru} з {.S}{FACTION}{.v_rod}!"/>
     <string id="3hv4P5OO" text="Would you care to pass the time with a game of {GAME_NAME}?"/>
     <string id="3kHmtbVZ" text="What my man did was wrong, there's no denying. But they hanged him, and now what am I to do? Do his children bear his guilt?"/>
     <string id="3oaVUNdr" text="I hope you won't be [if:convo_disbelief]regret with your decision, my {?PLAYER.GENDER}lady{?}lord{\?}."/>
@@ -142,7 +142,7 @@
     <string id="7uFFaSHv" text="Now some people say our {?OWNER.GENDER}lady{?}lord{\?} {OWNER.LINK} is as mean as a scalded cat. But I say most people are villains, and it's good they feel a little fear. Anyway, there's meat on the table these days, and who can argue with that?"/>
     <string id="7v2dMsW5" text="Your spouse {MOTHER} has just learned that she is with child."/>
     <string id="7wkHMnNM" text="Maybe {AMOUNT}{GOLD_ICON} will help you to remember me."/>
-    <string id="7WlQ0Twr" text="{WEAPON} of {SETTLEMENT} hit some soldiers of {BESIEGER}!"/>
+    <string id="7WlQ0Twr" text="{WEAPON} {.S}{SETTLEMENT}{.v_rod} влучила по декількох солдатах {.S}{BESIEGER}{.v_rod}!"/>
     <string id="89b5ao7P" text="As of now, I do not have 1000 denars to afford on gambling. I may get back to you once I get the required amount."/>
     <string id="8bnlS0IV" text="Ploughing, sowing... Got many weeks of that ahead of us still."/>
     <string id="8CW2y0p3" text="Troops have been joined to your party"/>
@@ -155,7 +155,7 @@
     <string id="8NDuezga" text="Now, I was talking to my {RANDOM_RELATIVE}, and he tells me he bought some {._}{PLURAL(ITEM_NAME)} around here for cheap and took it to {TOWN_NAME}. Said he made {PRICE_DIFF}{GOLD_ICON} of profit on each one."/>
     <string id="8SK2BZum" text="Ви розчистили провулок, який належав ватажку банди. Тепер ви можете або забрати його під свій контроль, або залишити порожнім, щоб допомогти місту. Щоб отримати провулок у свою власність, вам потрібно призначити відповідного члена клану та декілька воїнів, щоб наглядати за ним. Це принесе гроші вашому клану, а також підвищить вашу кримінальну славу."/>
     <string id="8VlqJteC" text="I was just jesting. I need you more than ever. Now go back to your job."/>
-    <string id="8Wy1OCsr" text="The {WEAPON} of {BESIEGER} hit wall of {SETTLEMENT}!"/>
+    <string id="8Wy1OCsr" text="{WEAPON} {.S}{BESIEGER}{.v_rod} поцілила в стіну {.S}{SETTLEMENT}{.v_rod}!"/>
     <string id="8XM8CHIm" text="brother-in-law"/>
     <string id="90YOVmcG" text="Good day to you."/>
     <string id="92mngWSd" text="All right. It's good to be back."/>
@@ -233,7 +233,7 @@
     <string id="ArNB7aaL" text="Where exactly did you have in mind?[if:convo_happy]"/>
     <string id="aRPLW15x" text="Thank you. I knew you are a reasonable[ib:aggressive][if:convo_evil_smile] {?PLAYER.GENDER}woman{?}man{\?}."/>
     <string id="ArseaKsm" text="Very well. Thanks for your time."/>
-    <string id="ASOW1MuQ" text="Your settlement {SETTLEMENT} is under attack by {PARTY} of {FACTION}!"/>
+    <string id="ASOW1MuQ" text="Ваше поселення {SETTLEMENT} атакує {PARTY} з {.S}{FACTION}{.v_rod}!"/>
     <string id="asVE53ac" text="Daughter returns to {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}She{?}He{\?} is happy. Sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards with a large pouch of {BASE_REWARD}{GOLD_ICON}."/>
     <string id="aSZvZRYC" text="A relative of {QUEST_GIVER.NAME} kills a relative of {TARGET_NOTABLE.NAME}. {QUEST_GIVER.NAME} offers to pay blood money for the crime but {TARGET_NOTABLE.NAME} wants revenge."/>
     <string id="AuMLELpp" text="Okay then lets go with better troops, I am ready to pay {AMOUNT}{GOLD_ICON} to create a caravan."/>
@@ -385,7 +385,7 @@
     <string id="eZq11NVD" text="And by the way, we take orders from {ALLEY_BOSS.NAME}, and no one else."/>
     <string id="F44s8kPB" text="Where is the caravan? My men can't wait here for too long.[if:convo_undecided_open]"/>
     <string id="F9Xjbchh" text="Thank you."/>
-    <string id="fa8sla4i" text="The {SIEGE_ENGINE} of {BESIEGER_PARTY} has been destroyed."/>
+    <string id="fa8sla4i" text="Знищено {.S}{._}{SIEGE_ENGINE}{.v_zna} {.S}{BESIEGER_PARTY}{.v_rod}."/>
     <string id="fasAZDvM" text="We're on our way to {HERO.LINK}...[ib:demure]"/>
     <string id="fcqdfY09" text="{CLAN_MEMBER.NAME} is in charge of the alley."/>
     <string id="fCrVeHP3" text="Ah! I was looking for this all day. How good of you to bring it back {?PLAYER.GENDER}madam{?}sir{\?}. Well, now that I know what an honest {?PLAYER.GENDER}lady{?}man{\?} you are, there can be no harm in letting you inside for a look. Go in.... Just so you know, though -- I'll be hanging onto the keys, in case you were thinking about undoing anyone's chains."/>
