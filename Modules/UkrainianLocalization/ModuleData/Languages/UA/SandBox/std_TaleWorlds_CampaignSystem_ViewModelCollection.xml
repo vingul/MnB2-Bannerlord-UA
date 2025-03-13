@@ -22,7 +22,7 @@
     <string id="2Cq3tViJ" text="Ліміт кількості воїнів загону"/>
     <string id="2GWR9Cba" text="Вогнища"/>
     <string id="2Hbr4TEj" text="Item name cannot start or end with a white space."/>
-    <string id="2lFwF07j" text="Change Name"/>
+    <string id="2lFwF07j" text="Змінити ім'я"/>
     <string id="2nN1QuxZ" text="Цей квест буде провалено, якщо ви не вкладетеся в зазначений час."/>
     <string id="3025020b83b218707499f0de3135ed0a" text="Маневровість: "/>
     <string id="305cf7f98458b22e9af72b60a131714f" text="Броня коня: "/>
@@ -45,7 +45,7 @@
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Швидкість: "/>
     <string id="7l0LGKRk" text="Датою початку"/>
     <string id="7tBOCHm6" text="Колір емблеми:"/>
-    <string id="7tKjfMSb" text="Alleys"/>
+    <string id="7tKjfMSb" text="Провулки"/>
     <string id="84oSzquz" text="Recently Escaped Captivity"/>
     <string id="88WPmTKH" text="Get Input from the Warehouse"/>
     <string id="8BJDQe6o" text="Prisoners captured by {FACTION}"/>
@@ -97,7 +97,7 @@
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Довжина: "/>
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Шкода при зіткненні: "/>
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Шкода: "/>
-    <string id="C9tKA0ul" text="Character name cannot be empty"/>
+    <string id="C9tKA0ul" text="Ім'я персонажа не може бути порожнім"/>
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Збалансованість: "/>
     <string id="CaRbMaZY" text="Daily Wage"/>
     <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}"/>
@@ -110,7 +110,7 @@
     <string id="Ck9HT8fQ" text="Summary"/>
     <string id="cnmRwV4s" text="Ammo Limit"/>
     <string id="CnsIzaWo" text="Field Battle"/>
-    <string id="CRi905Ao" text="In your party"/>
+    <string id="CRi905Ao" text="У вашому загоні"/>
     <string id="cUUI8u2G" text="Smithy Stamina"/>
     <string id="cZCOa00c" text="{SUPPORTER_RANK} Supporters ({NUM})"/>
     <string id="d2K6gMsZ" text="Leave members. Need at least 1 companion."/>
@@ -147,7 +147,7 @@
     <string id="FjJi1DJb" text="This hero is already a part of an another party."/>
     <string id="flxDkoMh" text="Stage Complete"/>
     <string id="fpE7BQ7f" text="У вас немає воїнів, яких можна було б покращити."/>
-    <string id="fPoB2u5m" text="Character name should be between {MIN} and {MAX} characters"/>
+    <string id="fPoB2u5m" text="Ім'я персонажу має мати довжину від {MIN} до {MAX} символів"/>
     <string id="FYJC7cDD" text="Риса(-и)"/>
     <string id="fz2kQjFS" text="Виберіть походження свого персонажа:"/>
     <string id="FzbeSkBb" text="One of your alleys has lost its leader or is lacking troops. It will be abandoned after {DAYS} days have passed. You can assign a new clan member from the clan screen or travel to the alley to add more troops, if you wish to keep it. Any troops left in the alley will be lost when it is abandoned."/>
@@ -198,7 +198,7 @@
     <string id="iZ3w6opW" text="Cohesion"/>
     <string id="j12VrGKz" text="Army"/>
     <string id="j3iwQmoA" text="Кількість очок фокусу: {CURRENT_AMOUNT}"/>
-    <string id="j4BdjLYp" text="Start a conversation with this clan member."/>
+    <string id="j4BdjLYp" text="Почати розмову з цим членом клану."/>
     <string id="J5u0uOKc" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} в поселення."/>
     <string id="J8ddrAOf" text="Governor Effects"/>
     <string id="j8uZBakZ" text="{PROPERTIES}"/>
@@ -244,7 +244,7 @@
     <string id="MIylzRc5" text="You can't perform this action while you are in a map event."/>
     <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})"/>
     <string id="mountTier" text="Рівень їздової тварини: "/>
-    <string id="mp68RYnD" text="Party Size Limit"/>
+    <string id="mp68RYnD" text="Ліміт розміру загону"/>
     <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
     <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}"/>
     <string id="myMbtwXi" text="Morale Bonus"/>
@@ -273,7 +273,7 @@
     <string id="Omjlnsk3" text="{ITEM_NAME} cannot be equipped on this slot."/>
     <string id="OMqHwpXF" text="One of your parties has lost its leader. It will disband after a day has passed. You can assign a new clan member to lead it, if you wish to keep the party.{newline}{newline}Do you want to assign a new leader?"/>
     <string id="Oo3fkeab" text="Difficulty: "/>
-    <string id="oofSja21" text="Character name cannot start or end with a white space"/>
+    <string id="oofSja21" text="Ім'я персонажу не може починатися або закінчуватися пробілом"/>
     <string id="OpsiBFCu" text="... and {COUNT} more items."/>
     <string id="opU0Nr2G" text="Progress for unlocking a new piece."/>
     <string id="opVqBNLh" text="Ефект"/>
@@ -286,7 +286,7 @@
     <string id="oUz16Nav" text="Reset Tutorial"/>
     <string id="OyyJSyIX" text="{FACTION_1} is paying {DENAR}{GOLD_ICON} as tribute to {FACTION_2}"/>
     <string id="P0To9aRW" text="Travel time: {TRAVEL_TIME}"/>
-    <string id="P1hk0m4o" text="Character name cannot contain special characters"/>
+    <string id="P1hk0m4o" text="Ім'я персонажу не повинно містити спеціальні символи"/>
     <string id="P5YtNXHR" text="{.m}Загін{.R_n21_u_p} {LEADER.NAME}{.v_rod}"/>
     <string id="p7raHA9x" text="Refinement"/>
     <string id="pBVbKYwo" text="You will lose the ownership of the alley and the troops in it. Are you sure?"/>
@@ -402,7 +402,7 @@
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)"/>
     <string id="W3hmFcfv" text="Abandon Alley"/>
     <string id="w8Yzf0F0" text="Destroyed"/>
-    <string id="wcSSgFyK" text="Character name cannot contain consecutive white spaces"/>
+    <string id="wcSSgFyK" text="В імені персонажу не повинно бути декількох пропусків підряд"/>
     <string id="weaponTier" text="Рівень зброї: "/>
     <string id="wGWYNYYX" text="This education stage is no longer relevant."/>
     <string id="WHRq5Dp0" text="No Smithing Perks"/>
