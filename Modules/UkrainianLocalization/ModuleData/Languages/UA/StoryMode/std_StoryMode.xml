@@ -569,7 +569,7 @@
     <string id="ZkSthA9d" text="They say Olek the Old had pried the dragon banner out of the Emperor's dead hands. But then Prince Raganvad, who had not so much as drawn his sword in the battle, claimed it as a trophy. Olek, who was covered in his enemies' blood, laughed at Raganvad and told him to go find his own toy to play with. Raganvad struck him, so Olek broke the banner staff over his knee and threw it in his prince's face."/>
     <string id="zLRlmitp" text="Розібратися з «Божевіллям Неретцеса»"/>
     <string id="ZpcV9MZE" text="Ви врятували своїх братів і сестру та вирішив стратити {RADAGOS.LINK}{.v_rod}, тому що він став причиною смерті ваших батьків."/>
-    <string id="Zq9qXcCk" text="You are defeated by the {RADAGOS.NAME}' Party, but your brother saved you. It doesn't look like they're going anywhere, though, so you should attack again once you're ready. You must have at least {NUMBER} members in your party. If you don't, go back to {QUEST_VILLAGE} and recruit some more troops."/>
+    <string id="Zq9qXcCk" text="Вас переміг загін {RADAGOS.NAME}{.v_rod}, але ваш брат врятував вас. Однак, схоже, вони нікуди не збираються йти, тож ви повинні атакувати знову, як тільки будете готові. У вашому загоні повинно бути щонайменше {NUMBER} людей. Якщо їх менше, поверніться до {.S}{QUEST_VILLAGE}{.v_rod} і найміть ще воїнів."/>
     <string id="ZqOvtLBM" text="У метушні під час нападу ви вигукнули, що хтось знайшов коштовності у підсобці, після чого ви з братом змогли пробратись до виходу, за яким ніхто не дивився."/>
     <string id="zRZd90cZ" text="I was there. I was just a young squire then."/>
     <string id="zTYd6Qai" text="The Empire has been united under the {FACTION}!"/>
