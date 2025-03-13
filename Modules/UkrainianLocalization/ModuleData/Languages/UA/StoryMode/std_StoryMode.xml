@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="01Y1DAqA" text="{MENTOR.LINK} has sent you a message: As you may know, I receive reports from my spies in marketplaces around here. There is a merchant who I have been following - I know he is connected with {OTHER_MENTOR.LINK}. Now, I hear he has bought up a large supply of weapons and armor in {QUEST_FROM_SETTLEMENT_NAME}, and plans to travel to {QUEST_TO_SETTLEMENT_NAME}. From there it will move onward. I expect that {OTHER_MENTOR.LINK} is arming {?OTHER_MENTOR.GENDER}her{?}his{\?} allies in the gangs in that area. If the caravan delivers its load, then I expect we will soon find some of our friends stabbed to death in the streets by hired thugs, and the rest of our friends too frightened to acknowledge us. I need you to track it down and destroy it. Try to intercept it on the first leg of its journey, before it gets to {QUEST_TO_SETTLEMENT_NAME}. If you fail, find out the next town to which it is going. It may take some time to find it, and when you do, it will be well guarded. But I trust in your perseverance, your skill and your understanding of how important this is. Good hunting."/>
-    <string id="0I9siaQY" text="Bastards... You're the kin of my captives, right? I saw {RADAGOS.LINK} with you. You know he can't be trusted?[if:convo_confused_annoyed][ib:aggressive]"/>
+    <string id="0I9siaQY" text="Виродки... Серед моїх полонених є ваші родичі, так? Я бачу, {RADAGOS.LINK} теж тут є. Ти ж знаєш, що йому не можна довіряти?[if:convo_confused_annoyed][ib:aggressive]"/>
     <string id="0IeByuam" text="It was a victory, of the kind that is almost as bad as a defeat.[if:convo_dismayed][ib:confident2]"/>
     <string id="0P4HqZiB" text="Is that true?[ib:normal][if:convo_shocked]"/>
     <string id="0pilmavQ" text="How can I create my own kingdom?"/>
@@ -20,13 +20,13 @@
     <string id="1xqmoDvS" text="Ми закінчили підготовку. Давай ще раз поговоримо зі старостою. Він сказав, що має для нас якусь роботу. Ми могли б скористатися його дружбою."/>
     <string id="1yi00v5w" text="{PLAYER.NAME}! Радий тебе бачити. Можеш не вірити, але я серйозно. Я шукав тебе...[if:convo_calm_friendly][ib:normal2]"/>
     <string id="2DZOCsy5" text="We waited for them, like wolves in the wood, as their vanguard came up the winding road. They came without archers to protect them. Caladog blew his horn, and our bowmen fired on them from all sides. They turned their shields one way, and were hit from the other. A glorious thing to watch...[if:convo_huge_smile]"/>
-    <string id="2GeiKTlS" text="I'll do you the honor of duelling you, and my men will stand down if you win.[if:convo_predatory]"/>
+    <string id="2GeiKTlS" text="Я роблю тобі честь, викликаючи тебе на дуель. І в разі твоєї перемоги мої люди відступлять.[if:convo_predatory]"/>
     <string id="2h7IlBmv" text="Not yet, I'm working on it..."/>
     <string id="2NHnVb9b" text="So Nimr went, and fought, and won glory, but also got a number of men killed, especially those of the Banu Qild. And he became boastful, and arrogant. And then... Well, that is the beginning of the great feud between Sarranis and Qildis, but the rest of the story I should perhaps leave for someone else.[ib:closed][if:convo_undecided_closed]"/>
     <string id="2XhW49TX" text="ви прогнали їх стрілами."/>
     <string id="3BjIb3CG" text="Or perhaps it was just Raganvad. He was stewing in his anger when up comes the Battanian king, Caladog. The Battanians had taken their time stripping the bodies of the imperial vanguard and the Sturgians were angry at them, so Raganvad called him a coward. Caladog sneers at him and walks off."/>
     <string id="3deb2lMd" text="To restore the Empire you should capture two thirds of settlements with imperial culture."/>
-    <string id="3dhvmJDp" text="Well... Looks like we've gotten your kin back to you, so my end of our deal is complete. I'll be making myself scarce now.[ib:hip][if:convo_uncomfortable_voice]"/>
+    <string id="3dhvmJDp" text="Що ж... Схоже, ми повернули тобі твою рідню, тож моя частина угоди виконана. Тепер я зникаю.[ib:hip][if:convo_uncomfortable_voice]"/>
     <string id="3G64Ej64" text="A buyer? I can help you do far more than that.[if:convo_astonished]"/>
     <string id="3Io5vmOk" text="War Progress with the {FACTION}"/>
     <string id="3Pq58i2u" text="Conspiracy base of operations discovered"/>
@@ -139,9 +139,9 @@
     <string id="bZI82WMt" text="Let's get this over with! Men Attack!"/>
     <string id="bzmcPtZ6" text="We know you. We were told to look out for you. We know what you're planning with {MENTOR.NAME}. You will fail, and you will die.[ib:closed][if:convo_predatory]"/>
     <string id="C0xbbPqE" text="I will duel you for your insolence! Die dog![ib:warrior][if:convo_furious]"/>
-    <string id="c1Q2irLi" text="Your men killed my parents. Did you really think you would not be punished?"/>
+    <string id="c1Q2irLi" text="Твої люди вбили моїх батьків. Ти справді думаєш, що уникнеш покарання?"/>
     <string id="c6pDNXbb" text="You can create your own kingdom or support an existing one...[if:convo_normal]"/>
-    <string id="C79Xxm1b" text="Don't let your conscience bother you about letting me go, by the way. I won't get back into slaving. Burned too many bridges with my old colleagues, you might say. I'll find some other way to earn my keep - mercenary work, perhaps. Anyway, maybe our paths will cross again.[if:convo_empathic_voice]"/>
+    <string id="C79Xxm1b" text="До речі, нехай вас не мучить совість, що ви мене відпустили. Я більше не повернуся в работоргівлю. Занадто багато мостів спалив зі старими соратниками, так би мовити. Знайду інший спосіб заробляти собі на прожиток — можливо, стану найманцем. Як би там не було, можливо, наші шляхи ще перетнуться.[if:convo_empathic_voice]"/>
     <string id="ccf67J3J" text="Ви схопили лук і випустили кілька стріл у бік нападників. Вони сховалися в укриття, давши вам з братом можливість втекти."/>
     <string id="cEaXehHy" text="I was just checking on something. You can move along."/>
     <string id="cepWNzEA" text="Скочивши на двох коней, які залишилися в стайні, що вже була охоплена полум'ям, ви з братом вирвалися з оточення і помчали геть."/>
@@ -166,7 +166,7 @@
     <string id="DfiACGay" text="Destroy Raiders"/>
     <string id="Dfmg8stq" text="Eliminate {FACTION}"/>
     <string id="Dgdopl1b" text="How can I create my own imperial kingdom?"/>
-    <string id="DIKPGwj1" text="So glad to see you safe. Is everyone okay?"/>
+    <string id="DIKPGwj1" text="Радий бачити, що ти в безпеці. Усі живі?"/>
     <string id="DjQuB0TU" text="You saved your brothers and sister, and you decided to let {RADAGOS.LINK} go..."/>
     <string id="DO4PE3Oo" text="Поточний розмір загону"/>
     <string id="Dp6newHS" text="Conquered Settlements"/>
@@ -210,7 +210,7 @@
     <string id="FHM5GcHW" text="Good. Then I will tell you what I know. I heard about one other piece.[ib:normal2][if:convo_calm_friendly]"/>
     <string id="flGyoqa6" text="Саме стургійці зустрілися віч-на-віч з вартою Неретцеса. Мій батько наказав мені триматися подалі, а сам повів своїх воїнів у бій, перебуваючи на чолі загону. Він спочатку відтіснив варту назад, а згодом, не витримавши натиску, вони порушили свій стрій і кинулись тікати до свого табору. Ми кинулися туди і атакували їхні барикади, розбивши їх. Але саме в той момент мій батько отримав удар імперською булавою і помер у момент свого тріумфу."/>
     <string id="flkmzKDz" text="Many Qildi youth went with him. They died in their hundreds. And there was no gain - except for Nimr, who for some reason people considered a hero. It was despicable how they fawned on him.[if:convo_annoyed]"/>
-    <string id="fM4eSVps" text="You said talking was a waste of time. You are {RADAGOS.NAME}'s property, now."/>
+    <string id="fM4eSVps" text="Ти казав, що розмови — це марнування часу. Відтепер ти — власність {RADAGOS.NAME}{.v_rod}."/>
     <string id="fp6QBO7l" text="Я повинен взяти наших людей з собою. {RADAGOS.NAME} — дуже слизький тип. Я не хочу, щоб він втік.[if:convo_confused_voice]"/>
     <string id="FPhWhjq7" text="Defeated"/>
     <string id="fprOWs1E" text="Now, when you are ready to declare your new kingdom, instruct the governor of your capital to have a proclamation read out throughout your lands."/>
@@ -222,7 +222,7 @@
     <string id="FUwIgcZO" text="Are you sure about that? (This option will finish the tutorial, which has story elements, and start the full single player campaign. It is recommended that you pick this option only if you have already played the tutorial once.)"/>
     <string id="FWSwngVX" text="Ну що, вирушаємо в дорогу? Пам'ятайте - якщо я впаду з ніг від безсилля або втоплюся в якійсь річці, то для ваших маляток все буде скінчено. Я все розумію і не розраховую на комфортабельний паланкін, але краще просто не ускладнюйте мені подорож.[if:convo_uncomfortable_voice]"/>
     <string id="FyzsAZx8" text="{RADAGOS.LINK} said that he knows where your siblings are. He offered to attack together. He will wait for you at the hideout that he mentioned about near {SETTLEMENT_LINK}. You can see the hideout marked on the map."/>
-    <string id="G9iXmhGK" text="Look, we can still talk. I'll give you a pouch of silver.[ib:weary][if:convo_confused_voice]"/>
+    <string id="G9iXmhGK" text="Слухай, давай поговоримо. Я дам тобі мішечок срібла.[ib:weary][if:convo_confused_voice]"/>
     <string id="Ga8mDgab" text="You've been defeated at {HIDEOUT_BOSS.LINK}'s hideout. You can attack again when you are ready."/>
     <string id="gBbm9beO" text="Влучте у всі мішені. Залишилось влучити в {REMAINING_TARGET} мішен{#GET_PLURAL_VALUE(REMAINING_TARGET)}ь{#}і{#}ей{\#}."/>
     <string id="GCbqpeDs" text="Навчання завершено. Тепер ви можете вільно досліджувати Кальрадію."/>
@@ -249,7 +249,7 @@
     <string id="HCA9xOOo" text="You should be ruling a kingdom of non-imperial culture."/>
     <string id="HDBkwjgf" text="{NOBLE_ANSWER}"/>
     <string id="HddJT1Ve" text="I wasn't there. I know {HERO.LINK} has some thoughts about it."/>
-    <string id="heoCaRIr" text="Nah... There's no more talking. Kill me or I kill you, that's how this ends.[ib:warrior][if:convo_bared_teeth]"/>
+    <string id="heoCaRIr" text="Ні... Більше ніяких розмов. Убий мене або я вб'ю тебе, ось як це все закінчиться.[ib:warrior][if:convo_bared_teeth]"/>
     <string id="hFYG3lXw" text="Well, that's what some people call the great Battle of Pendraic in the year 1077.[ib:normal][if:convo_normal]"/>
     <string id="hGPdLssq" text="The ruler of the {PLAYER_SUPPORTED_FACTION} has accepted the peace offered by the war-ravaged {FACTION}."/>
     <string id="HhFHRs7N" text="Create {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
@@ -267,12 +267,12 @@
     <string id="IavuL9KI" text="Of course. I intend to use the banner to help save the Empire."/>
     <string id="ib2TKPUa" text="The ruler of the {FACTION} is leading the alliance against you. Defeat their armies or force them to make peace by capturing their settlements and destroying their parties to achieve victory."/>
     <string id="ibm9EEPa" text="No, I need more time to decide."/>
-    <string id="IC9Vg5MA" text="Meet me there later, when you're ready to tell me everything.[if:convo_normal][ib:normal2]"/>
+    <string id="IC9Vg5MA" text="Зустрінемося там пізніше, коли будеш готовий мені все розповісти.[if:convo_normal][ib:normal2]"/>
     <string id="IITkXnnU" text="Кальрадія - це земля, повна небезпек, але також і можливостей. Щоб впоратися з викликами, які чекають на вас, вам потрібно створити свій клан.{newline}Ваш брат сказав вам, що є багато способів це зробити, але жодний з них не обійдеться без монети. Торгівля буде одним із таких способів, а іншим - битви та продаж полонених бандитів у містах. Який би шлях ви не обрали, подорожуючи наодинці, ви станете легкою здобиччю для тих, хто зустрінеться на вашому шляху.{newline}Ви знаєте, що можете найняти людей, які підуть за вами, у знатних людей сіл та міст, однак вони можуть попросити вас про послугу, перш ніж дозволити вам отримати доступ до своїх найцінніших бійців.{newline}Звісно, ви також можете знайти більш унікальних персонажів в тавернах Кальрадії. Однак вони, як правило, віддають перевагу більш відомим кланам."/>
     <string id="ijyROgb4" text="I do not know where the other pieces are, you may need to keep searching for them.[if:convo_thinking]"/>
     <string id="ikhWkw7T" text="Ви успішно перемогли тренера-новачка. Перейдіть до тренера-ветерана."/>
     <string id="IL4FcHXv" text="You've pledged your allegiance to the {KINGDOM_NAME}!"/>
-    <string id="ImLQNYWC" text="Гаразд. Викликаю тебе на дуель."/>
+    <string id="ImLQNYWC" text="Гаразд. Нехай буде дуель."/>
     <string id="IPP6MKfy" text="{MENTOR.LINK} notified you about a weapons caravan that will supply conspirators with weapons and armour."/>
     <string id="iQeMllr8" text="When it was just us fighting the horse archers, we were winning.. A man on foot can shoot as well or better than a man on horseback, all things being equal, and there were a lot more of us. So they started to go down and galloped off. The knights of course pursued, and that's when the problems started."/>
     <string id="iQrwsvb1" text="We had no choice but to go to war. Anyone who tells you they would have done otherwise is either a liar or a coward or both. The Sturgians attacked us, and needed to be chastised. We lost an army and a banner. But we did not lose our honor, and without honor the Empire would be finished."/>
@@ -315,7 +315,7 @@
     <string id="kYtRsxSL" text="We fought the Vlandians. We won, but there was a great slaughter. My husband's horse was slain and he was ridden down, though he died amid a pile of Vlandian dead. Elsewhere on the field, the Emperor was having his head hewn off with a Sturgian axe, and thus was in no position to pay us."/>
     <string id="KYW1UiKm" text="The Khergits were never the richest of the clans, but we made up for it with our valor. When word spread that the Emperor was promising silver for men to ride at his side, against the Sturgians and Battanians and others, of course our young brave boys lept at the chance. My husband, the bravest and best of them all, led them."/>
     <string id="kz5PJbV1" text="I shall. For your many crimes, {RADAGOS.NAME}, your life is forfeit."/>
-    <string id="kzgbBrYo" text="As you leave the hideout, {RADAGOS.LINK} comes to you and asks to talk."/>
+    <string id="kzgbBrYo" text="Коли ви виходите з лігва до вас підходить {RADAGOS.LINK} і починає розмову."/>
     <string id="L1V8L2N1" text="Так. Імператор Неретцес запропонував винайняти наших воїнів. Я не бачив у цьому нічого поганого.[ib:confident3][if:convo_bored]"/>
     <string id="L3Qb6lbp" text="Peace Offer from the {FACTION}"/>
     <string id="LbSvq3be" text="One other thing, {?PLAYER.GENDER}sister{?}brother{\?}. We want people to take us seriously. We may be leading men into battle soon. Let's give our family a name and a banner, like the nobles do."/>
@@ -329,14 +329,14 @@
     <string id="Lmfi0cYk" text="Ви переконали кількох постояльців заїзду до скоординованої втечі. Більшість з них нападники вбили або захопили в полон, але вам з братом вдалося втекти."/>
     <string id="lmG7uRK2" text="OK"/>
     <string id="lnAhXvbo" text="Є один мандрівний лікар, який час від часу заходить сюди. Його звати Тактеос. Він безкоштовно лікує людей... Ми його дуже поважаємо.[if:convo_thinking]"/>
-    <string id="LrItHItu" text="Okay brother, be careful. Take care."/>
+    <string id="LrItHItu" text="Гаразд, брате, будь обережним. Бережи себе."/>
     <string id="Lwdkj0hG" text="Yes, I intend to use the banner to help save the Empire."/>
     <string id="LXGXxKqw" text="Ah... Well, I suppose we can drop the charade. [ib:hip2][if:convo_nonchalant]I know who sent you, and I suppose you know who sent me. Certainly, you can see my wares, and then you can feel their sharp end in your belly."/>
     <string id="MDtTC5j5" text="Don't hurt us![ib:nervous][if:convo_nervous]"/>
     <string id="MfczTFxp" text="Це схоже на старий тренувальний полігон для легіонерів. Гадаю, ми можемо витратити трохи часу на те, щоб відновити свої навички. Практика може стати в пригоді, коли ми наздоженемо рейдерів."/>
     <string id="MJd5agS2" text="I would recommend that you gather a fairly large army, as you may soon be at war with more powerful and established realms."/>
     <string id="mmQRCHUM" text="А я своєю чергою матиму задоволення вбити цього виродка. То що скажете?[if:convo_snide_voice][ib:confident2]"/>
-    <string id="MMv3hsmI" text="Я не вшановую викликом на дуель мерзенних рабовласників. Хлопці, в атаку!"/>
+    <string id="MMv3hsmI" text="Я не беру участь у дуелях з мерзенними рабовласниками. Хлопці, в атаку!"/>
     <string id="mN60B07k" text="You have lost the battle against raiders and failed to defeat conspiracy forces. Many of the locals feel that you've brought misfortune upon them, and want nothing to do with you."/>
     <string id="MnmblprY" text="So, where can I find the other pieces?"/>
     <string id="MOVWOyeh" text="Clearly you have been chosen by Heaven for a great purpose. I see the makings of a new legend here... Allow me to call you 'Bannerlord.'[ib:normal][if:convo_relaxed_happy]"/>
@@ -344,7 +344,7 @@
     <string id="mtiaY2Pa" text="How can I support an existing kingdom?"/>
     <string id="mU1bC1mp" text="Ви зіткнулися з групою грабіжників."/>
     <string id="MU2O1SaZ" text="There is an army waiting for you outside."/>
-    <string id="mWMkslbn" text="He led us here. Where are my brothers and my sister?"/>
+    <string id="mWMkslbn" text="Він привів нас сюди. Де мої брати та сестра?"/>
     <string id="mxKhvbn7" text="You have decided to unify the Empire."/>
     <string id="mziMNKm2" text="You should be ruling a kingdom of the imperial culture."/>
     <string id="N5jJtZyr" text="As the Empire's nemesis, I am ready to declare my ownership of the Dragon Banner."/>
@@ -375,13 +375,13 @@
     <string id="OwcgxRXB" text="Weakened by the war, the {FACTION} has collapsed and its clans have defected to surrounding kingdoms."/>
     <string id="oX2aoilb" text="{MENTOR.NAME} knows of the rise of your {KINGDOM_NAME}. Rumors say {MENTOR.NAME} is planning to undo your progress. Be ready!"/>
     <string id="p0fmZY5r" text="Можливо, староста зможе нам допомогти. Спробуємо його знайти...[if:convo_pondering]"/>
-    <string id="p3Kia1OO" text="I'll take them to the nearest fortress immediately. They will be safe there."/>
+    <string id="p3Kia1OO" text="Я негайно ж відвезу їх до найближчої фортеці. Там вони будуть у безпеці."/>
     <string id="p4qJ4KSm" text="Якщо хочете дізнатися більше, то є дві людини, з якими ви могли б спробувати поговорити. {IMPERIAL_MENTOR.NAME} була свого роду неофіційною головою шпигунів Неретцеса. Вона живе неподалік від {IMPERIAL_MENTOR_SETTLEMENT}{.v_rod}."/>
     <string id="pa9LrHln" text="Здається, ми на місці. Отже... Спочатку нам потрібна їжа, а після цього, можливо, знайдемо кілька людей, які захотіли б піти з нами.[if:convo_thinking]"/>
     <string id="pCNSEPEP" text="Ти втік? Де мій брат? Що сталося?"/>
     <string id="PDlaPVIP" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}."/>
     <string id="peNBA0WW" text="Зав'язка"/>
-    <string id="PiKISvfu" text="{PLAYER.NAME}! I knew you'd come. Great Heaven. Damn, {?PLAYER.GENDER}sister{?}brother{\?}, nothing can stop you! I love you, {?PLAYER.GENDER}sister{?}brother{\?}.[if:convo_calm_friendly][ib:aggressive2]"/>
+    <string id="PiKISvfu" text="{PLAYER.NAME}! Я знав, що ти прийдеш. О, великі небеса. Чорт забирай, {?PLAYER.GENDER}сестро{?}брате{\?}, тебе ніщо не зупинить! Як же я тебе люблю, {?PLAYER.GENDER}сестро{?}брате{\?}.[if:convo_calm_friendly][ib:aggressive2]"/>
     <string id="PiOiQ3u5" text="Ви успішно закінчили тренування з володіння мечем і щитом."/>
     <string id="PJ5C3Dim" text="{ANTIIMPERIAL_MENTOR.NAME}'s Conspiracy"/>
     <string id="PknruSY5" text="Then you can come back when you have made up your mind.[ib:demure][if:convo_nonchalant]"/>
@@ -418,7 +418,7 @@
     <string id="RbXiEdXk" text="Досягніть 1-го рівня клану"/>
     <string id="rCX81DDR" text="The Empire has been destroyed!"/>
     <string id="rDuegB1L" text="Нарешті ви прибули! Я хочу сказати кілька слів, перш ніж ми атакуємо.[ib:confident2][if:convo_nonchalant]"/>
-    <string id="RefpTQpr" text="Maybe. Goodbye, {RADAGOS.NAME}..."/>
+    <string id="RefpTQpr" text="Можливо. Прощавай, {RADAGOS.NAME}..."/>
     <string id="RF3NoR3d" text="Здається, він керує не однією бандою, яка орудує в цьому районі. Якщо ваші родичі у них, то, гадаю, він має знати, де саме.[if:convo_pondering]"/>
     <string id="rfkKxdxp" text="You talked with {ANTI_IMPERIAL_MENTOR.LINK} too. Now you should make a decision."/>
     <string id="Ri6NmpEE" text="I will never forget when a messenger ran to tell me that my father was dead. But I knew I must swallow my grief, because now I was king. I rode down into the ruins of the imperial camp to take their banner as a trophy, my inheritance won by my father and passed down to me. Oh, some of the boyars were insubordinate. But I have since showed them that I am master.[if:convo_contemptuous]"/>
@@ -524,7 +524,7 @@
     <string id="x3KpQouT" text="When they were all good and addled like frightened sheep, running this way and that, the rest of us warriors descended upon them with our falxes and swords. I cleaved this way and that. I took 12 heads, and mine was far from the greatest catch. Ah, the grandchildren tire of me telling this story...[if:convo_calm_friendly]"/>
     <string id="X3pDRmjK" text="A victory, won by my father, claimed by Raganvad.[if:convo_annoyed][ib:warrior2]"/>
     <string id="X9Vmjipn" text="Attack from down."/>
-    <string id="xachJ1hb" text="Yes, we are all fine. The little ones are scared but fine... We need to be quick and get the hell out of this place.[if:convo_calm_friendly][ib:confident]"/>
+    <string id="xachJ1hb" text="Так, у нас все добре. Малі налякані, але з ними все гаразд... Треба швидше забиратися звідси.[if:convo_calm_friendly][ib:confident]"/>
     <string id="XdDQdSsW" text="Я відчував вже відчував ознаки теплового удару і сказав їм про це, але вони тільки ще більше почали мене шмагати... Якби не ваша група... Можливо, я знаю, як вам віддячити.[ib:normal][if:convo_thinking]"/>
     <string id="XEuhxpCX" text="Now, the Empire uses tricks and traps in war. No Battanian fears to meet an imperial soldier, man-to-man, but we thought it would be a good laugh to use their tricks against them. So we laid an ambush, on both sides of a wooded pass, and wouldn't you know? They marched right into it.[if:convo_happy]"/>
     <string id="Xg6jhfPt" text="Nimr returned, in well-deserved glory. A daughter of the Banu Qild took an interest in him, and they had a secret affair, as the youth sometimes do. As heroes do. But Nimr's acts wounded the Qildi's pride. They kidnapped him, slew him and hung him in a cage in their market. We will forgive the Empire and the Vlandians. The Qildis... better not ask me that.[if:convo_contemptuous][ib:confident]"/>
