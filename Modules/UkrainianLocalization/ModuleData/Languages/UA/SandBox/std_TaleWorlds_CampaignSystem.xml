@@ -1485,7 +1485,7 @@
     <string id="dbUybDTG" text="Майстерний вершник"/>
     <string id="DbXMSRmA" text="You got too close to the caravan. The bandits saw you and withdrew. {QUEST_GIVER.LINK}'s plan failed and {?QUEST_GIVER.GENDER}she{?}he{\?} will be very upset."/>
     <string id="DCF2JOiJ" text="Stonehead {FIRSTNAME}"/>
-    <string id="DcoDtW2A" text="Choose a Gift"/>
+    <string id="DcoDtW2A" text="Оберіть подарунок"/>
     <string id="dcsschkC" text="Збільшена площа захисту щита від снарядів."/>
     <string id="dCv4Qbr6" text="I don't think you can help me. You don't have enough troops for this task."/>
     <string id="dcVuMs9r" text="{VALUE}% шансу, що кавалерійський спис залишиться опущеним після вбивства ворога."/>
@@ -2166,7 +2166,7 @@
     <string id="hObVTgc7" text="You heard me. Yield or fight!"/>
     <string id="HOMeZ9bB" text="Let me think about it."/>
     <string id="hOVr77fd" text="You will never see the sunrise again![ib:warrior][if:convo_furious]"/>
-    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been released after battle."/>
+    <string id="hp4jLl3M" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} {?PRISONER_LORD.GENDER}була звільнена{?}був звільнений{\?} з полону після битви."/>
     <string id="HpWYfcgw" text="..and to uphold your rights under the laws of the Sturgians, and the rights of your kin, and to avenge their blood as thought it were my own."/>
     <string id="hq13B7Ok" text="Yes.. You might be correct."/>
     <string id="HQ6hyVNH" text="All right. Here is {TOTAL_PRICE}{GOLD_ICON}."/>
