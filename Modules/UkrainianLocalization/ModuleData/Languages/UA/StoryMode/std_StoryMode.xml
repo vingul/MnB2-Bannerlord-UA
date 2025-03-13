@@ -15,7 +15,7 @@
     <string id="1GgTNRNl" text="You can make your own claim to the rulership of the Empire and try to win the civil war, or support an existing claimant...[if:convo_normal]"/>
     <string id="1LrHV647" text="Conspiracy Strength"/>
     <string id="1RaUauBS" text="Ви успішно пройшли навчання."/>
-    <string id="1T7p0O7B" text="We have to be clever. {HIDEOUT_BOSS.LINK} is a cunning fellow, in a low and base kind of way.[if:convo_normal]"/>
+    <string id="1T7p0O7B" text="Ми повинні бути розумними. {HIDEOUT_BOSS.LINK} — дуже хитра і підла людина.[if:convo_normal]"/>
     <string id="1v6aYpDx" text="You must choose, but choose wisely. Or you can claim it yourself. I have no preference."/>
     <string id="1xqmoDvS" text="Ми закінчили підготовку. Давай ще раз поговоримо зі старостою. Він сказав, що має для нас якусь роботу. Ми могли б скористатися його дружбою."/>
     <string id="1yi00v5w" text="{PLAYER.NAME}! Радий тебе бачити. Можеш не вірити, але я серйозно. Я шукав тебе...[if:convo_calm_friendly][ib:normal2]"/>
@@ -90,7 +90,7 @@
     <string id="9XnFlRR0" text="На етапі навчання взаємодія з цією особою вимкнена."/>
     <string id="a0JxUMgo" text="What happened? Did you find the piece of the banner?"/>
     <string id="a0ZKBj6P" text="Be an independent clan"/>
-    <string id="a29lmPLd" text="I defeated you before. I know how your gang operates. Less talking, more raiding. C'mon..."/>
+    <string id="a29lmPLd" text="Я вже перемагав тебе раніше. Я знаю, як діє ваша братія. Давай. Менше розмов, більше дій."/>
     <string id="a4W7Gzka" text="Yes. Time is of the essence. (Skip tutorial)"/>
     <string id="A9fChKmz" text="The Empire was an old bear. Well-fed, slow-moving. It wanted to keep what it had. The Sturgians were, and are, hungry wolves. Like us. Sometimes wolves hunt in packs, and sometimes they don't. Sometimes one wolf wants the lion to kill his rival."/>
     <string id="aClquusd" text="Troop Count"/>
@@ -395,7 +395,7 @@
     <string id="q80FFaBj" text="Then there is {ANTI_IMPERIAL_MENTOR.NAME}, who was his bodyguard. He's supposed to be near {ANTI_IMPERIAL_MENTOR_SETTLEMENT} - though I hear he's changed quite a bit since then."/>
     <string id="qa0o7xaj" text="Clan Independence"/>
     <string id="Qb0wsarP" text="There was a warrior named Nimr, of the Bani Sarran. He was brave, but arrogant. Of course the young people loved him. He wanted to lead men to fight with the Empire, and though there was no gain for us, Unqid let him. Unqid can be weak sometimes.[if:convo_thinking]"/>
-    <string id="QbsDYITB" text="That you did, that you did. Lead on, then.[ib:closed2][if:convo_calm_friendly]"/>
+    <string id="QbsDYITB" text="Авжеж, авжеж. Ну, тоді вперед.[ib:closed2][if:convo_calm_friendly]"/>
     <string id="Qdz5Hely" text="Захищайтеся знизу."/>
     <string id="QF8B6XFS" text="All right then. Let us split up and look for the little ones separately. I'll send you a word if I find them before you do..."/>
     <string id="qg05CSZb" text="You have defeated all the raiders near {TARGET_SETTLEMENT}. Many people now hope you can bring peace and prosperity back to the region."/>
