@@ -259,7 +259,7 @@
     <string id="HOb07MJF" text="Я не дуже багато про це знаю. Але знаю двох, хто може розповісти. {IMPERIAL_MENTOR.LINK} — вона колись була неофіційною главою шпигунів Неретцеса. І ще є {ANTI_IMPERIAL_MENTOR.LINK}. Він був охоронцем Неретцеса, але люди кажуть, що з тих пір він дуже сильно змінився."/>
     <string id="HPNuqbSf" text="Rescue Your Family"/>
     <string id="HqlXdzcv" text="Поговорити зі старостою {HEADMAN.FIRSTNAME}{.v_oru}"/>
-    <string id="HrdVRMgR" text="Perhaps by saving my brother and sister you earned your life back. Very well, go now."/>
+    <string id="HrdVRMgR" text="Мабуть, врятувавши моїх брата і сестру, ти заслужив своє життя. Гаразд, йди."/>
     <string id="HT9hW29s" text="Чудово! Але я маю ще кілька справ. Біля цього міста є лігво. {HIDEOUT_BOSS.LINK} тримає там твоїх брата і сестру. Зустрінемось недалеко від цього лігва. Так, щоб нас не помітили їх розвідники.[if:convo_snide_voice][ib:hip]"/>
     <string id="HvGW2DvS" text="Заїзд розпочато."/>
     <string id="i3SSc0I4" text="{IMPERIAL_MENTOR.NAME}'s Plan"/>
@@ -314,7 +314,7 @@
     <string id="KXj8bsao" text="So... If you intend to use the banner to save the Empire, I'll tell you what I know. But if you want to go backward, not forward, then I will not help you.[ib:closed][if:convo_undecided_closed]"/>
     <string id="kYtRsxSL" text="We fought the Vlandians. We won, but there was a great slaughter. My husband's horse was slain and he was ridden down, though he died amid a pile of Vlandian dead. Elsewhere on the field, the Emperor was having his head hewn off with a Sturgian axe, and thus was in no position to pay us."/>
     <string id="KYW1UiKm" text="The Khergits were never the richest of the clans, but we made up for it with our valor. When word spread that the Emperor was promising silver for men to ride at his side, against the Sturgians and Battanians and others, of course our young brave boys lept at the chance. My husband, the bravest and best of them all, led them."/>
-    <string id="kz5PJbV1" text="I shall. For your many crimes, {RADAGOS.NAME}, your life is forfeit."/>
+    <string id="kz5PJbV1" text="Я зроблю це. За всі ті численні злочини, вчинені тобою, {RADAGOS.NAME}{.v_kly}, я позбавляю тебе життя."/>
     <string id="kzgbBrYo" text="Коли ви виходите з лігва до вас підходить {RADAGOS.LINK} і починає розмову."/>
     <string id="L1V8L2N1" text="Так. Імператор Неретцес запропонував винайняти наших воїнів. Я не бачив у цьому нічого поганого.[ib:confident3][if:convo_bored]"/>
     <string id="L3Qb6lbp" text="Peace Offer from the {FACTION}"/>
@@ -505,7 +505,7 @@
     <string id="w0CUaEU7" text="Ти ще не перерізав мені горло, що було мудрим рішенням. Я впевнений, що найду спосіб бути для тебе більш цінним живим, ніж мертвим.[if:convo_calm_friendly]"/>
     <string id="W49eUmpT" text="Ви можете злізти з коня натиснувши {CROUCH_KEY} або {ACTION_KEY}, коли дивитеся на коня."/>
     <string id="w6Wa3lSL" text="Retreated"/>
-    <string id="W7hi7jS4" text="Eh, well, I dared to hope, I suppose. All right then, I'm not going to grovel to you, so get it over with.[ib:hip][if:convo_uncomfortable_voice]"/>
+    <string id="W7hi7jS4" text="Ех, ну, я на це сподівався. Гаразд, я не буду перед тобою якось виправдовуватись, тож покінчимо з цим.[ib:hip][if:convo_uncomfortable_voice]"/>
     <string id="wajioDaK" text="Я {?SPEAKER.GENDER}була{?}був{\?} з Неретцесом, допоки стургійська піхота не відтіснила нас до табору, а потім ми билися з ними на барикадах. Врешті-решт ми не змогли більше їх утримувати. Я не {?SPEAKER.GENDER}бачила{?}бачив{\?}, що сталося з Неретцесом чи з нашим прапором. Аренікос витягнув нас звідти і повернув додому. Раніше я не {?SPEAKER.GENDER}поважала Аренікоса, але того дня я побачила{?}поважав Аренікоса, але того дня я побачив{\?}, що він гідний бути імператором."/>
     <string id="wbhKgpmr" text="Ви готові вирушити з братом на місію помсти та порятунку. Ось ваш персонаж. Продовжуйте, якщо готові, або верніться і внесіть зміни."/>
     <string id="WDylM3dx" text="Він вирушив у дорогу за кілька годин до того, як сюди навідалися бандити. Розумієте, він не надто пристосований до цього жорстокого світу. Він з тих людей хто, потрапивши в пастку, просто дає себе схопити. Ми хвилюємося за нього.[if:convo_dismayed]"/>
