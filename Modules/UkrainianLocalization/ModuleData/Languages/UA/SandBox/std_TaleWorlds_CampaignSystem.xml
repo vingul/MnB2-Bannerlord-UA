@@ -1412,7 +1412,7 @@
     <string id="CtImGA4A" text="Most tutors teach mathematics from tracing the path of stars in the sky, but you wanted your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} to focus on the more practical architectural treatises."/>
     <string id="cTmiNAlI" text="From Prosperity"/>
     <string id="CTqO5MBf" text="{VALUE}% шкоди від одноручної зброї."/>
-    <string id="CtsdrQ9N" text="Faction name cannot contain consecutive white spaces"/>
+    <string id="CtsdrQ9N" text="Назва фракції не повинна містити декілька пропусків підряд"/>
     <string id="cu2cLT5r" text="You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
     <string id="CU3u0c02" text="Childhood"/>
     <string id="CU9g49fo" text="Provide irrigation, increasing growth in bound villages."/>
@@ -2557,7 +2557,7 @@
     <string id="KavZKNaa" text="Рука допомоги"/>
     <string id="KB0fv5Me" text="The young {?CHILD.GENDER}woman{?}man{\?} charmed {?CHILD.GENDER}her{?}his{\?} way into a circle of nobles and was a welcome guest at well-set tables."/>
     <string id="Kb9uC4gQ" text="{VALUE}% вигідніші торгові угоди з караванами та селами."/>
-    <string id="kbaA7aC8" text="Trait Gained"/>
+    <string id="kbaA7aC8" text="Отримано рису"/>
     <string id="KbFJJfl6" text="I am sorry. I will do what I must."/>
     <string id="kbHJVxAo" text="Опір вибиттю з сідла: {a0}% від макс. здоров'я"/>
     <string id="KBmAqg54" text="No problem, you can pay what you can afford."/>
@@ -2725,7 +2725,7 @@
     <string id="LbTETjZu" text="I want you to crush them. Go to {VILLAGE} and give them a lesson they won't forget.[ib:closed2][if:convo_grave]"/>
     <string id="lc0YIqby" text="Stage a prison break"/>
     <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Army Commander has canceled the mission."/>
-    <string id="LCOZZMta" text="Faction name cannot start or end with a white space"/>
+    <string id="LCOZZMta" text="Назва фракції не повинна починатися або закінчуватися пробілами"/>
     <string id="LCsu8rXa" text="{VALUE}% швидше прицілювання з арбалета."/>
     <string id="lCYPxuWN" text="The enemy is alert, you cannot ambush right now."/>
     <string id="ldD4sVOi" text="{VALUE}% зменшення шкоди військам вашого підрозділу."/>
@@ -4175,7 +4175,7 @@
     <string id="uRZgz63l" text="{VALUE}% шкоди від одноручної зброї без щита."/>
     <string id="UsD0y74h" text="{VALUE}% шкоди від попадання в голову метальною зброєю."/>
     <string id="UsuOXc25" text="Thanks. [if:convo_stern][ib:closed]Show those troublemakers that the law is the law."/>
-    <string id="UT211jbX" text="Trait Lost"/>
+    <string id="UT211jbX" text="Втрачено рису"/>
     <string id="UTaXn4pb" text="Well, I have indeed been misinformed. You may go on your way..."/>
     <string id="Utq4svjd" text="Splendid. I will be sure that everyone in {MERCHANT_TOWN} hears of your honesty."/>
     <string id="UTRvswWE" text="As I recall, when you first hired me, it was to fight, not run away. Now, I'm sure what you did back there was sensible, but still, I've earned a bit of a reputation for bravery and I don't care to be called a coward. Those foes we can't beat - let's try to stay a little more clear of them next time, shall we?"/>
