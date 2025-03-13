@@ -233,7 +233,7 @@
     <string id="lVuGCYPC" text="Smithing Skill"/>
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}"/>
     <string id="LxWVtDF0" text="Manage Workshop"/>
-    <string id="m1Yynagz" text="Page {NUMBER}"/>
+    <string id="m1Yynagz" text="Сторінка {NUMBER}"/>
     <string id="MaHMOzL2" text="Походження персонажа"/>
     <string id="McJjNM50" text="Вартість: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Макс. кількість здоров'я"/>
@@ -313,7 +313,7 @@
     <string id="qdoJOH0j" text="Party Wage"/>
     <string id="qeclv74c" text="Taxes"/>
     <string id="QeToaiLt" text="Swing Damage"/>
-    <string id="QFfMd5q3" text="Next Page"/>
+    <string id="QFfMd5q3" text="Наступна сторінка"/>
     <string id="QGyoSLeY" text="Traveling to a settlement"/>
     <string id="qKUjgS6r" text="Settlement"/>
     <string id="QlbkxoSp" text=" {TOOLTIP_TROOPS} ({PARTY_SIZE})"/>
@@ -389,7 +389,7 @@
     <string id="v3OF6vBg" text="Yield"/>
     <string id="vdKiLwaf" text="Traveling"/>
     <string id="Ve5jkJqf" text="Auto Offer"/>
-    <string id="vggt7exj" text="Set {CURINDEX}/{COUNT}"/>
+    <string id="vggt7exj" text="Комплект {CURINDEX}/{COUNT}"/>
     <string id="vIPrZCZ1" text="You can abdicate leadership from the kingdom screen."/>
     <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})"/>
     <string id="Voa0sinH" text="Необхідно: {NEEDED_EXP_AMOUNT} од (У вас є {CURRENT_EXP_AMOUNT})"/>
@@ -445,7 +445,7 @@
     <string id="zgnEagTJ" text="Halted"/>
     <string id="ZIn8W5ZG" text="Worth"/>
     <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
-    <string id="zlcMGAbn" text="Previous Page"/>
+    <string id="zlcMGAbn" text="Попередня сторінка"/>
     <string id="zLFsnaqR" text="No Governor"/>
     <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss."/>
     <string id="ZUgoQ1Ws" text="Horse Type"/>
