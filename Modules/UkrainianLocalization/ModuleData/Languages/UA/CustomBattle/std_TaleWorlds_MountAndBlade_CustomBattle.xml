@@ -16,7 +16,7 @@
     <string id="bLXleed8" text="Персонаж гравця"/>
     <string id="customgamemapname" text="Карта"/>
     <string id="customgametitle" text="Карта"/>
-    <string id="cZzfNlxd" text="Осінь"/>
+    <string id="cZzfNlxd" text="{.f}Осінь{.R_n31}"/>
     <string id="dsMeB3vi" text="Без ушкоджень"/>
     <string id="DszSWnc3" text="Час доби"/>
     <string id="EcKMGoFv" text="Вилазка"/>
