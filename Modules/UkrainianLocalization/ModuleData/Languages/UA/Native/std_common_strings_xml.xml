@@ -383,7 +383,7 @@
     <string id="E4WhEvu7" text="Sotherys"/>
     <string id="e6csp4ha" text="{.p}Степовий{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="eALf5d30" text="Thanks!"/>
-    <string id="ebbyLN2i" text="Towns"/>
+    <string id="ebbyLN2i" text="Міста"/>
     <string id="ebHdQfbX" text="Spangenhelm with Padded Cloth"/>
     <string id="ecUwABe2" text="Desert"/>
     <string id="EEedqolz" text="Бедуїни"/>
@@ -519,7 +519,7 @@
     <string id="hunterhorse" text="Hunter"/>
     <string id="HVJ9ax8Z" text="Steppe Robe"/>
     <string id="HvjviTTW" text="Steel Cap with Cheek Guards"/>
-    <string id="hVZo7xdk" text="Castles"/>
+    <string id="hVZo7xdk" text="Замки"/>
     <string id="hXB6gvD2" text="Cured Leather Lamellar Shirt "/>
     <string id="hXijcZyp" text="Roughcloth Shortcoat"/>
     <string id="hXl25avg" text="Ваша сім'я найняла вам приватного викладача, і ви повною мірою цим скористалися, жадібно читаючи книги по історії, математиці та філософії та обговорюючи прочитане зі своїм наставником та однокласниками."/>
@@ -557,7 +557,7 @@
     <string id="iW9iKbb8" text="Nothing."/>
     <string id="IX3kafcb" text="Iron Spiked Kettle over Mail"/>
     <string id="ixqTFMVA" text="Кінний воїн"/>
-    <string id="IXwOaa98" text="Party Size"/>
+    <string id="IXwOaa98" text="Розмір загону"/>
     <string id="iYCR3xuQ" text="Principality of Sturgia"/>
     <string id="iZKtGI6Y" text="Ваша сім'я влаштувала вас на службу до збіднілого вландійського барона. Вам не доручали нічого надто важливого - здебільшого ви доправляли послання та доглядали за конем барона. Але це дало вам можливість побачити, як планують походи та шикують загони перед відправленням у битву."/>
     <string id="J00AF9Qv" text="Woven Leather Boots"/>
@@ -713,7 +713,7 @@
     <string id="N6QTvjMf" text="Полонені"/>
     <string id="n7c7tnx9" text="Warlord Helmet with Nose Guard"/>
     <string id="NBAGX54b" text="Avigos"/>
-    <string id="NbgeKwVr" text="Workshops"/>
+    <string id="NbgeKwVr" text="Майстерні"/>
     <string id="ndfDy5B8" text="Tied Head Wrapping"/>
     <string id="NF627oiX" text="{.f}Північний{.R_adj} {.f}імперія{.R_n10_p1}"/>
     <string id="ngazFofr" text="Вас завжди тягнуло до тварин, тому найбільше часу ви проводили в сільській стайні. Ви вміли заспокоювати коней і через це вам іноді доручали об'їжджати молодих жеребців. Ви вивчили основи ветеринарного мистецтва, тому за потреби навіть могли лікувати людей."/>
@@ -841,7 +841,7 @@
     <string id="qo8hwDNU" text="Rough Fur Armor"/>
     <string id="QOWyEJrm" text="You don't have enough denars."/>
     <string id="qPg3IDiq" text="Ваша родина походила з одного з купецьких кланів, які домінували в містах східної Кальрадії до завоювання хузаїтами. Ваші родичі швидко пристосувалися до нових господарів і продовжили відправляти каравани, гарантуючи, що доходи від мита, які колись йшли в імперську казну, тепер надходитимуть до ханства."/>
-    <string id="QPoA6vvx" text="Income"/>
+    <string id="QPoA6vvx" text="Дохід"/>
     <string id="qqW5n5Ox" text="Milos"/>
     <string id="qRqnrtdX" text="Власник"/>
     <string id="QrYjPUEf" text="увагою до деталей."/>
@@ -914,7 +914,7 @@
     <string id="SoTUisL3" text="Deltisos"/>
     <string id="SpJqhEEh" text="Барди"/>
     <string id="sPmQz21k" text="Ворог"/>
-    <string id="SrfYbg3x" text="Leader"/>
+    <string id="SrfYbg3x" text="Лідер"/>
     <string id="SRncaw79" text="Urios"/>
     <string id="SvYpE52J" text="Fur Trimmed Tunic"/>
     <string id="SW3lkPHe" text="Colored Bisht"/>
@@ -958,7 +958,7 @@
     <string id="tRIrbTvv" text="Вуличні бандити"/>
     <string id="TRwgSLD2" text="займалися збором лікарських трав."/>
     <string id="tTb28jyU" text="Багато баттанців воюють в складі керну, універсальної бойової одиниці, яка може як виснажити ворожу лінію дротиками, так і приєднатися згодом до фінальної атаки, кинувшись на ворога з несамовитим бойовим кличем."/>
-    <string id="tTLvo8sM" text="Clan Tier"/>
+    <string id="tTLvo8sM" text="Рівень клану"/>
     <string id="tTuaiLS6" text="Meritor"/>
     <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="tVyuxl8e" text="Ragged Robes"/>
@@ -1039,7 +1039,7 @@
     <string id="VlXOgIX6" text="їздили з розвідниками."/>
     <string id="vmMqs3Ck" text="Знать"/>
     <string id="VN4ctHIU" text="Купити товари"/>
-    <string id="vOgACpuD" text="Companions"/>
+    <string id="vOgACpuD" text="Соратники"/>
     <string id="VQSdhQE3" text="Heavy Scale Armor over Mail Hauberk"/>
     <string id="Vqu67a3b" text="{.m}Шовк{.R_n20_u}-{.m}сирець{.R_n22_u}{@Plural}{.p}Рулон{.R_n20_p} шовку-сирецю{\@}"/>
     <string id="vsavMoLZ" text="Segmented Cervelliere over Padded Cloth"/>
@@ -1146,7 +1146,7 @@
     <string id="Y4LhmAdi" text="Sure, boss. Go ahead."/>
     <string id="y6j1bJTH" text="Ви стали підмайстром у місцевого коваля. Ви навчилися нагрівати та кувати метал, годинами б'ючи молотом аж до болю в м'язах, загартовуючи як зброю, так і свою міць."/>
     <string id="Y94H6XnK" text="Прийняти"/>
-    <string id="Y9egTJg0" text="Daily Change"/>
+    <string id="Y9egTJg0" text="Щоденна зміна"/>
     <string id="yAZC6F7P" text="Ecsorios"/>
     <string id="YBGCXSEx" text="Debana"/>
     <string id="yCEMiKjB" text="Виберіть: {SELECTION}"/>
