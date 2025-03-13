@@ -971,7 +971,7 @@
     <string id="l6a3grfK" text="your party"/>
     <string id="L7qKijnE" text="{ITEM_NAME}, won by {COMPANION.NAME} has been added to your inventory."/>
     <string id="L7teSXvq" text="You need to be the leader of an army to manage it"/>
-    <string id="l9Vve3bD" text="Autumn"/>
+    <string id="l9Vve3bD" text="Осінь"/>
     <string id="lAgfGeXJ" text="Kingdom Faction"/>
     <string id="LApMSsnb" text="Очки фокусу"/>
     <string id="laV5aNhK" text="Unique"/>
@@ -1124,7 +1124,7 @@
     <string id="NSSsxBHV" text="Випадково"/>
     <string id="NvJru5Tz" text="Male Only"/>
     <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using murder holes."/>
-    <string id="nvswKHTZ" text="You paid {GOLD_AMOUNT}{GOLD_ICON}."/>
+    <string id="nvswKHTZ" text="Ви заплатили {GOLD_AMOUNT} {GOLD_ICON}."/>
     <string id="nxQaab9d" text="{SHOPNAME} ({SHOPTYPE})"/>
     <string id="ny32aoLJ" text="Horse Equipment II"/>
     <string id="nyGRpJT3" text="Queue"/>
