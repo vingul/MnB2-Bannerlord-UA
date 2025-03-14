@@ -198,7 +198,7 @@
     <string id="7chepLLh" text="Destroy siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
     <string id="7cMUohRm" text="Керуйте автобитвами. Вигравайте битви проти домінуючих сил противника. Уникайте зіткнень, навіть жертвуючи військами, якщо цього вимагає ситуація."/>
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
-    <string id="7EnFh9e5" text="Місцезнаходження: {LOCATION}"/>
+    <string id="7EnFh9e5" text="Місцеперебування: {LOCATION}"/>
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing sparsely."/>
     <string id="7fjOwwVH" text="Sure, I'll give you a tip. I spoke to some traders who say they just bought some {.%}{ITEM_NAME}{.%} from {SETTLEMENT} at a price of {BUY_COST}{GOLD_ICON} and sold at {DESTINATION} for {SELL_COST}{GOLD_ICON}."/>
     <string id="7hj7Kaoz" text="Загальний дохід"/>
@@ -392,7 +392,7 @@
     <string id="bdvTPbLB" text="Couchable"/>
     <string id="BE1scex6" text="Щоденний прибуток майстерень"/>
     <string id="bF38BIoe" text="Кількість: "/>
-    <string id="bFpLKvcS" text="khan"/>
+    <string id="bFpLKvcS" text="{.m}хан{.R_n20_a_ke}"/>
     <string id="BftxIurV" text="You need to resolve {DECISION_NAME} decision."/>
     <string id="bg6x6Hbv" text="Helm"/>
     <string id="Bg83jhCR" text="Місто явно переживає не найкращі часи. Люди мають виснажений вигляд, а будівлі перебувають у жахливому стані."/>
