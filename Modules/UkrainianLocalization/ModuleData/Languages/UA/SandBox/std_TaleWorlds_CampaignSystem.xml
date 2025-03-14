@@ -37,7 +37,7 @@
     <string id="0eAtiZbL" text="I have no answer to that."/>
     <string id="0EqPRs21" text="As {?IS_FEMALE}queen{?}king{\?} you must decide whether to enforce the policy of {POLICY_NAME}."/>
     <string id="0ewaZnfe" text="Very good. Keep them coming.[if:convo_mocking_aristocratic]"/>
-    <string id="0FIbRZsi" text="You can not help but notice how people are put at ease by {?PLAYER_CHILD}your {?CHILD.GENDER}daughter{?}son{\?}{?}the {?CHILD.GENDER}girl{?}boy{\?}{\?} and seek {?CHILD.GENDER}her{?}his{\?} company."/>
+    <string id="0FIbRZsi" text="Ви не можете не помітити, як люди почуваються невимушено біля {?PLAYER_CHILD}вашої {?CHILD.GENDER}дочки{?}сина{\?}{?}{?CHILD.GENDER}неї{?}нього{\?}{\?} і прагнуть потоваришувати з {?CHILD.GENDER}нею{?}ним{\?}."/>
     <string id="0FxtNPvV" text="You cannot devastate a settlement that has your faction culture.{newline}"/>
     <string id="0g7MZCAK" text="Workshop Income"/>
     <string id="0G8Q3AZv" text="I am thinking of a different attribute."/>
@@ -512,7 +512,7 @@
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Thank you. My lords see you as an example, and see your conquest of {TARGET_SETTLEMENT} as be a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service and gave you {REWARD}{GOLD_ICON}."/>
     <string id="6d4ZTvGv" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the realm. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
     <string id="6DQjKwt2" text="The influence cost of proposing settlement annexation is reduced by 50% for the ruler clan"/>
-    <string id="6EaKsRtu" text="Accidents are inevitable, and {?PLAYER_CHILD}your{?}the{\?} child isn't bothered by the sight of blood. {?CHILD.GENDER}She{?}He{\?} acts quickly to staunch bleeding and prevent infection."/>
+    <string id="6EaKsRtu" text="Нещасні випадки неминучі, але дитину не лякає вигляд крові. ?CHILD.GENDER}Вона{?}Він{\?} знає, що діяти треба швидко, щоб зупинити кровотечу і запобігти інфікуванню."/>
     <string id="6eHl9Tz4" text="I would like you to serve {PLAYER_FACTION} as mercenary."/>
     <string id="6EJbUGpi" text="You will be rewarded when your companion returns with the animals we discussed.[if:convo_approving]"/>
     <string id="6ETg3maz" text="Авторитетний командир"/>
@@ -608,7 +608,7 @@
     <string id="7gZo2SY4" text="Різьбяр"/>
     <string id="7h3wBoIt" text="Bloody {FIRSTNAME}"/>
     <string id="7H4HQNvF" text="Yes. Some of the families in this village need to raise a bit of money. [if:convo_calm_friendly][ib:normal2]They've put together a herd of {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} to sell in {TARGET_SETTLEMENT}, but with all the banditry on the roads, they can't drive it there on their own. We're not merchants or landowners. We can't afford any losses."/>
-    <string id="7Hd5yW7B" text="{?CHILD.GENDER}She{?}He{\?} is at home in the wilderness. {?CHILD.GENDER}She{?}He{\?} moves like a cat, and has very keen ears and eyes."/>
+    <string id="7Hd5yW7B" text="У дикій природі {?CHILD.GENDER}вона{?}він{\?} відчуває себе як вдома. Вміє рухатися, як кіт, і має дуже гострий слух та зір."/>
     <string id="7HpfrmIU" text="On a second thought... Now is not the right time to do this."/>
     <string id="7HvtT8bm" text="{.n}Кований{.R_adj} {.n}залізо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} кованого заліза{\@}"/>
     <string id="7hYUleHh" text="rode to the edge of the world."/>
@@ -1960,7 +1960,7 @@
     <string id="gAc8SWDt" text="There {?(PRISONER_COUNT &gt; 1)}are {PRISONER_COUNT} prisoners{?}is 1 prisoner{\?} here."/>
     <string id="GacrZ1Jl" text="Щоденні витрати на утримання воїнів у загоні збільшуються на 5%."/>
     <string id="GAh1gNYn" text="Enemies are already engaged in battle."/>
-    <string id="GARAmzFT" text="Щоб досягти успіху, ви повинні навчитися пересуватися швидше, працювати довше і битися наполегливіше, ніж будь-хто, проти кого ви виступите."/>
+    <string id="GARAmzFT" text="Щоб досягти успіху, необхідно навчитися рухатися швидше, працювати довше і битися запекліше, ніж будь-хто, проти кого ви виступите."/>
     <string id="GaXEmoFy" text="Sold {.%}{SELECTED_ITEM}{.%} amount:"/>
     <string id="gbAztaSq" text="{FIRSTNAME} the Gutting-Knife"/>
     <string id="GbOj39KC" text="I'm not sure why"/>
@@ -3988,7 +3988,7 @@
     <string id="tm9PiOMA" text="Special Weapon Order"/>
     <string id="tMkMi5C7" text="wins wrestling matches."/>
     <string id="tmqYGwMa" text="Excellent, {PLAYER.NAME}, excellent. I have every confidence in you.[if:idle_happy]"/>
-    <string id="tMUla7vz" text="{?CHILD.GENDER}She{?}He{\?} is light but strong, and can outrun almost all of {?CHILD.GENDER}her{?}his{\?} peers."/>
+    <string id="tMUla7vz" text="{?CHILD.GENDER}Вона худа, але сильна{?}Він худий, але сильний{\?} і може обігнати майже всіх своїх однолітків."/>
     <string id="TmYKKarv" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння Дворучна зброя воїнам вашого підрозділу."/>
     <string id="Tn9g83ry" text="Enjoying your drink, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
     <string id="tNo1Dctm" text="Yes. If you pay me {BASE_REWARD_X_2}{GOLD_ICON}, I will release you"/>
