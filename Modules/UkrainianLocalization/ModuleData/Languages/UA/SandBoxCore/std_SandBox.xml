@@ -214,7 +214,7 @@
     <string id="alruamIW" text="Hmm... You may be right. It's not worth it. I'll release the boy immediately.[ib:hip][if:convo_pondering]"/>
     <string id="AMlaYbJv" text="You don't have 1000 denars."/>
     <string id="aNZKqAAS" text="So what goes on here?"/>
-    <string id="AozaGCru" text="The {CLAN_NAME} and the {KINGDOM_NAME} have signed a mercenary contract."/>
+    <string id="AozaGCru" text="{CLAN_NAME} і {KINGDOM_NAME} підписали контракт про наймання на службу."/>
     <string id="ApG1xg7O" text="{PARTY_NAME} has left {ARMY_NAME}."/>
     <string id="aRDcoLX0" text="Now is not a good time, {PLAYER.NAME}. "/>
     <string id="arena_master_24" text="Тож чим ти хочеш зайнятися?"/>
