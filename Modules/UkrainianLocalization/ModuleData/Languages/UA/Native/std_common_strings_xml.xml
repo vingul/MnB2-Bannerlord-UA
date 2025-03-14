@@ -434,7 +434,7 @@
     <string id="FhZPjhli" text="Ваше рідне місто на короткий час потрапило в облогу і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки і тепер по праву пишається тим, що показав себе справжнім воїном."/>
     <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
     <string id="fk42FxCE" text="Layered Robe"/>
-    <string id="FkhJz0po" text="Місцезнаходження"/>
+    <string id="FkhJz0po" text="Розташування"/>
     <string id="FKpLEamz" text="доглядаючи за кіньми."/>
     <string id="FktkkUMK" text="Steel Round Shield"/>
     <string id="FLa5OuyK" text="Мандрівник"/>
@@ -509,7 +509,7 @@
     <string id="HkfY3Ds5" text="Броня (тіло)"/>
     <string id="HKRGEXqy" text="Ranger Mail"/>
     <string id="HkwJao2z" text="Fringed Steel Cap with Cheek Guards"/>
-    <string id="ho5EndaV" text="Decision"/>
+    <string id="ho5EndaV" text="Рішення"/>
     <string id="hob3WVkU" text="Ваш батько був членом боярської дружини, &quot;соратників&quot;, які складали його свиту. Він сидів за столом, поряд з паном у великій залі, наглядав за боярськими маєтками, а в бою стояв поруч з ним у центрі стіни із щитів."/>
     <string id="hometab" text="Головна"/>
     <string id="HqzVBfpl" text="Міські торговці"/>
@@ -1117,7 +1117,7 @@
     <string id="XiwTesky" text="Silk Kaftan"/>
     <string id="xj0MgUO0" text="Crime"/>
     <string id="XjMsnpgS" text="Tulag"/>
-    <string id="XjT8S4ng" text="Near {SETTLEMENT_NAME}"/>
+    <string id="XjT8S4ng" text="Біля {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="XkL1Re8b" text="Studded Leather Coat"/>
     <string id="xKXcqRJI" text="інвестиція грошей в землю."/>
     <string id="XKxeaF0I" text="Dalidos"/>
