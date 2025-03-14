@@ -292,7 +292,7 @@
     <string id="3JOd0l1N" text="{FIRSTNAME} the Spider"/>
     <string id="3KpgHPlo" text="The laws of {ISSUE_GIVER_SETTLEMENT} dictate that artisans sell their goods at a fixed rate to the merchants in town. And now they complain the price set by the merchants is not fair."/>
     <string id="3L8xN9uC" text="I believe it hasn't been long since we've last bartered."/>
-    <string id="3lDTSlpU" text="Навіть найвправніший мечник чи найсильніший майстер сокири для лансера — все одно, що кролик для орла."/>
+    <string id="3lDTSlpU" text="Навіть найвправніший мечник чи найсильніший майстер сокири для списоносця — все одно, що кролик для орла."/>
     <string id="3lfS4iCZ" text="Добре запряжений"/>
     <string id="3lxq5fvI" text="Pay a {AMOUNT}{GOLD_ICON} bribe to go to the lord's hall."/>
     <string id="3m2tQF9F" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду воїнам коли завершується будівництво облогового знаряддя."/>
@@ -587,7 +587,7 @@
     <string id="75vJc53f" text="Скотобійник"/>
     <string id="76TgEba5" text="letting the ruler collect extra taxes in wartime"/>
     <string id="76TOkicW" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду в день всім воїнам в загоні."/>
-    <string id="78dta9Ys" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що дешевше, безпечніше і мудріше вигравати битви без бою, якщо це можливо."/>
+    <string id="78dta9Ys" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що дешевше, безпечніше і мудріше, за можливості, вигравати битви не на полі бою."/>
     <string id="79h7xNeL" text="I will have one of my companions take care of this."/>
     <string id="79lEPn1u" text="The {ENEMY_KINGDOM_INFORMAL_NAME} have occupied our ancestral lands and they oppress our kinfolk."/>
     <string id="79Te4duG" text="As you wish.[if:convo_normal][ib:demure]"/>
@@ -2092,7 +2092,7 @@
     <string id="H9Px95rR" text="Villages grant 0.2 influence per day to the owner clan{newline}Towns gain 1 security but lose 1 militia per day"/>
     <string id="H9tQfeBr" text="{VALUE}% плати за наймання та утримування соратників."/>
     <string id="ha7EmrU9" text="Thank you for that information."/>
-    <string id="HaAjWFrt" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що вміння розуміти мотиви людей і використання цього знання на свою користь є тим, що відрізняє звичайного воїна і короля."/>
+    <string id="HaAjWFrt" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що вміння розуміти мотиви людей і використання цього знання на свою користь є тим, що відрізняє звичайного воїна від короля."/>
     <string id="HAo6iIda" text="{HERO.NAME} is not eligible."/>
     <string id="HAtHptbV" text="In the end, I don't think we have that much in common."/>
     <string id="HawJormK" text="That's fine, so long as your men know well enough to handle this quietly. Good luck."/>
@@ -2484,7 +2484,7 @@
     <string id="JQNKrAI3" text="Neutral Faction"/>
     <string id="jQpeuHIE" text="We oppose making peace at this time"/>
     <string id="jQsr4vDO" text="I'm still working on it."/>
-    <string id="jqstr7ZL" text="Навчіться запалювати в людях гордість, розбурхувати їхній гнів і розсіювати їхні страхи, і вони перетворяться з людей на левів, які зроблять для вас усе, що завгодно."/>
+    <string id="jqstr7ZL" text="Навчись запалювати в людях гордість, розбурхувати гнів та розсіювати їхні страхи, і вони перетворяться з людей на левів, які зроблять для тебе усе, що завгодно."/>
     <string id="jrPxbfnb" text="You did me a good turn. I hope I can repay you.[if:convo_focused_happy]"/>
     <string id="jRslIaiU" text="You can't recall a clan member while you are a prisoner."/>
     <string id="JrT9bBEK" text="{FACTION_LIEGE}'s {ETHNIC_TERM}"/>
@@ -2882,7 +2882,7 @@
     <string id="mbqoZ4WH" text="Багатодітність"/>
     <string id="McHsHbH8" text="Зайти в кузню"/>
     <string id="mcrjFxDQ" text="Collect revenue"/>
-    <string id="MdjZ56VR" text="{?CHILD.GENDER}She{?}He{\?} sits on the saddle so comfortably, like {?CHILD.GENDER}she{?}he{\?} was born on it."/>
+    <string id="MdjZ56VR" text="{?CHILD.GENDER}Вона{?}Він{\?} сидить у сідлі настільки впевнено, наче {?CHILD.GENDER}народилася{?}народився{\?} вже в ньому."/>
     <string id="ME5hmllb" text="Ваші відносини зі знаттю в деяких ваших населених пунктах покращилися через високу безпеку"/>
     <string id="MEr2aoeC" text="{VALUE} до броні кінним воїнам вашого підрозділу."/>
     <string id="mEsaiLOR" text="Very well then. If you happen to have any more prisoners, you know where to find me."/>
@@ -3464,7 +3464,7 @@
     <string id="qBKmIyYx" text="Сильні руки"/>
     <string id="qbLkFkWr" text="Usually when there is work to be done this child is nowhere to be found. You've learned some of {?CHILD.GENDER}her{?}his{\?} hiding places, but {?CHILD.GENDER}she{?}he{\?} always seems to find more."/>
     <string id="QbWK6sWo" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння «Лук» воїнам вашого підрозділу."/>
-    <string id="QbwNmxrn" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що вміння і мозок — це, звісно, добре, але в багатьох ситуаціях грубу силу нічим не замінити."/>
+    <string id="QbwNmxrn" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що майстерність і розум, безсумнівно важливі, але в багатьох ситуаціях грубу силу нічим не замінити."/>
     <string id="qBx8UbUt" text="Мули Аренікоса"/>
     <string id="qC298I3g" text="{VALUE}% штрафу до точності лучників вашого підрозділу."/>
     <string id="qcaaJLhx" text="Mercenary Contract"/>
