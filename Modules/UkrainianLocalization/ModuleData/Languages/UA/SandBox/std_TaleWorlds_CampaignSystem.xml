@@ -37,7 +37,7 @@
     <string id="0eAtiZbL" text="I have no answer to that."/>
     <string id="0EqPRs21" text="As {?IS_FEMALE}queen{?}king{\?} you must decide whether to enforce the policy of {POLICY_NAME}."/>
     <string id="0ewaZnfe" text="Very good. Keep them coming.[if:convo_mocking_aristocratic]"/>
-    <string id="0FIbRZsi" text="Ви не можете не помітити, як люди почуваються невимушено біля {?PLAYER_CHILD}вашої {?CHILD.GENDER}дочки{?}сина{\?}{?}{?CHILD.GENDER}неї{?}нього{\?}{\?} і прагнуть потоваришувати з {?CHILD.GENDER}нею{?}ним{\?}."/>
+    <string id="0FIbRZsi" text="Ви не можете не помітити, як люди почуваються невимушено біля {?PLAYER_CHILD}вашої {?CHILD.GENDER}дочки{?}сина{\?}{?}{?CHILD.GENDER}неї{?}нього{\?}{\?} і прагнуть з {?CHILD.GENDER}нею{?}ним{\?} потоваришувати."/>
     <string id="0FxtNPvV" text="You cannot devastate a settlement that has your faction culture.{newline}"/>
     <string id="0g7MZCAK" text="Workshop Income"/>
     <string id="0G8Q3AZv" text="I am thinking of a different attribute."/>
@@ -360,7 +360,7 @@
     <string id="4CuMDzvd" text="You asked your best warrior to take {?CHILD.GENDER}her{?}him{\?} under his wings and make sure {?CHILD.GENDER}she{?}he{\?} gets the taste of battle without being seriously harmed."/>
     <string id="4ElA7gRS" text="Вирішальна битва"/>
     <string id="4FdtVyj1" text="Корпус допомоги"/>
-    <string id="4fXpOe4N" text="A courier arrives from the {CLAN_NAME}. They hold {CAPTIVE_HERO.NAME} and are demanding {GOLD_AMOUNT}{GOLD_ICON} in ransom."/>
+    <string id="4fXpOe4N" text="Прибув кур'єр від клану {CLAN_NAME}{.v_rod}. Вони вимагають {GOLD_AMOUNT}{GOLD_ICON} за звільнення {.S}{CAPTIVE_HERO.NAME}{.v_rod} зі свого полону."/>
     <string id="4G3Aeqna" text="{KING.NAME}"/>
     <string id="4GgfFDWG" text="Making peace with the {KINGDOM_NAME}"/>
     <string id="4hUEryJ6" text="Вагомі послуги"/>
@@ -512,7 +512,7 @@
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Thank you. My lords see you as an example, and see your conquest of {TARGET_SETTLEMENT} as be a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service and gave you {REWARD}{GOLD_ICON}."/>
     <string id="6d4ZTvGv" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the realm. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
     <string id="6DQjKwt2" text="The influence cost of proposing settlement annexation is reduced by 50% for the ruler clan"/>
-    <string id="6EaKsRtu" text="Нещасні випадки неминучі, але дитину не лякає вигляд крові. ?CHILD.GENDER}Вона{?}Він{\?} знає, що діяти треба швидко, щоб зупинити кровотечу і запобігти інфікуванню."/>
+    <string id="6EaKsRtu" text="Нещасні випадки неминучі, але дитину не лякає вигляд крові. {?CHILD.GENDER}Вона{?}Він{\?} знає, що діяти треба швидко, щоб зупинити кровотечу і запобігти інфікуванню."/>
     <string id="6eHl9Tz4" text="I would like you to serve {PLAYER_FACTION} as mercenary."/>
     <string id="6EJbUGpi" text="You will be rewarded when your companion returns with the animals we discussed.[if:convo_approving]"/>
     <string id="6ETg3maz" text="Авторитетний командир"/>
@@ -630,7 +630,7 @@
     <string id="7Nudvd8S" text="{VALUE}% шансу збити ворога з ніг сильним ударом."/>
     <string id="7o4AfEhN" text="While you are resting, you hear news that a force led by {ATTACKER} has arrived outside of {DEFENDER} to raid it."/>
     <string id="7o68QryW" text="Not yet. I have some other business to attend to."/>
-    <string id="7ouzFASf" text="A courier arrives, bearing a message from {OFFERED_KINGDOM_LEADER.NAME}. {?OFFERED_KINGDOM_LEADER.GENDER}She{?}He{\?} remarks on your growing reputation, and asks if you would consider pledging yourself as a vassal of the {OFFERED_KINGDOM_NAME}. You should speak in person if you are interested."/>
+    <string id="7ouzFASf" text="Прибуває кур'єр з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона помітила{\?}Він помітив{\?} вашу зростаючу репутацію і запитує, чи не хотіли б ви стати васалом {OFFERED_KINGDOM_NAME}{.v_rod}. Якщо ви зацікавлені, то вам слід поговорити з ним особисто."/>
     <string id="7P3wiojT" text="гострий розум."/>
     <string id="7Pk3bFPC" text="Noble Retinues"/>
     <string id="7q0vbVdN" text="You betrayed the gang leader and refused the {MERCHANT.LINK}'s request. The goods stayed with you."/>
@@ -1797,7 +1797,7 @@
     <string id="F7yFADCx" text="Sure thing, boss.[ib:demure]"/>
     <string id="f8R0Hkxa" text="{VALUE}% маневровості."/>
     <string id="F9LlA26R" text="Actually, I think you're the one who ought to surrender."/>
-    <string id="FA2QZc7Q" text="A courier arrives, bearing a message from {OFFERED_KINGDOM_LEADER.NAME}. {?OFFERED_KINGDOM_LEADER.GENDER}She{?}He{\?} is offering you a contract as a mercenary."/>
+    <string id="FA2QZc7Q" text="Прибуває кур'єр з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона{\?}Він{\?} пропонує вам службу у {?OFFERED_KINGDOM_LEADER.GENDER}неї{\?}нього{\?} в якості найманця."/>
     <string id="FA5QlTvm" text="Виробник болтів"/>
     <string id="faa9sFfE" text="I do what I can to alleviate suffering in this world. I hope that is enough."/>
     <string id="fAdwIqbg" text="I think you should try to win my family's approval."/>
@@ -2093,7 +2093,7 @@
     <string id="H9tQfeBr" text="{VALUE}% плати за наймання та утримування соратників."/>
     <string id="ha7EmrU9" text="Thank you for that information."/>
     <string id="HaAjWFrt" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що вміння розуміти мотиви людей і використання цього знання на свою користь є тим, що відрізняє звичайного воїна від короля."/>
-    <string id="HAo6iIda" text="{HERO.NAME} is not eligible."/>
+    <string id="HAo6iIda" text="{HERO.NAME} не відповідає вимогам."/>
     <string id="HAtHptbV" text="In the end, I don't think we have that much in common."/>
     <string id="HawJormK" text="That's fine, so long as your men know well enough to handle this quietly. Good luck."/>
     <string id="haY6IEw2" text="{HERO.NAME} is currently in a battle right now."/>
@@ -3396,7 +3396,7 @@
     <string id="ptmYmT6B" text="{VALUE}% досвіду від боїв, яким ви ділитесь з воїнами вашого загону."/>
     <string id="PtWQ789Z" text="I'm not sure I trust you people."/>
     <string id="pUrSIed8" text="You have failed to escort the caravan to its destination."/>
-    <string id="PutoRsWp" text="A courier arrives from the {CLAN_NAME}. They offer you {GOLD_AMOUNT}{GOLD_ICON} in ransom if you will free {CAPTIVE_HERO.NAME}."/>
+    <string id="PutoRsWp" text="Прибув кур'єр від клану {CLAN_NAME}{.v_rod}. Вони пропонують вам {GOLD_AMOUNT}{GOLD_ICON} за звільнення {.S}{CAPTIVE_HERO.NAME}{.v_rod}."/>
     <string id="pV7DLTAu" text="I am sorry, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I cannot deliver the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} you requested."/>
     <string id="PV7RHgUl" text="Company of Trouble"/>
     <string id="pvkl6pZh" text="You cannot take troops."/>
@@ -3948,7 +3948,7 @@
     <string id="tdvnKIyS" text="Never mind."/>
     <string id="TdwKwExD" text="Thank you. You can find the caravan just outside the settlement.[if:convo_grateful]"/>
     <string id="TEhwK74M" text="We are willing to pay {REWARD}{GOLD_ICON} denars for {REQUESTED_ANIMAL_AMOUNT} healthy and strong [if:convo_normal][ib:demure]{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}. Unlike us, I'm sure you can travel distant villages easily and find the finest and cheapest ones there."/>
-    <string id="TENbJKpP" text="The {OFFERED_KINGDOM_NAME} is offering you work as a mercenary, paying {GOLD_AMOUNT}{GOLD_ICON} per influence point that you would gain from fighting on their behalf. Do you accept?"/>
+    <string id="TENbJKpP" text="{OFFERED_KINGDOM_NAME} пропонує вам службу в якості найманця, виплачуючи вам {GOLD_AMOUNT}{GOLD_ICON} за кожне очко впливу, здобуте у битвах на їхньому боці. Ви згодні?"/>
     <string id="tEsgNQOZ" text="{VALUE}% швидкості вербування піхотинців з-поміж полонених."/>
     <string id="TEUVTPIa" text="Well, we've been resting in town for a while, so our information is probably quite out of date."/>
     <string id="tf04Piaj" text="You told {?QUEST_GIVER.GENDER}her{?}him{\?} that you will sell the goods personally."/>
