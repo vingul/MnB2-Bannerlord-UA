@@ -364,7 +364,7 @@
     <string id="oa4XFhve" text="Дістатися до села {VILLAGE_NAME}"/>
     <string id="oaSTbNwz" text="So have you made up your mind now?"/>
     <string id="OffNcRby" text="Тоді гаразд. Вирушаймо в дорогу."/>
-    <string id="Og8nep1w" text="They had overextended themselves, chasing the imperial archers. Light foot before our knights - there was no contest. Let me tell you something - nine-tenths of victory is recognizing when your enemy has made a mistake. The rash perish as swiftly as the weak, and deserve it just as much.[ib:hip]"/>
+    <string id="Og8nep1w" text="Вони занадто розтягнулися, ганяючись за імперськими лучниками. Легка піхота проти наших лицарів — ніщо. Не було ніякого супротиву. Дозвольте я вам дещо розкажу: дев'яносто відсотків перемоги — це вміння розпізнати, коли твій ворог зробив помилку. Легковажні гинуть так само швидко, як і слабкі, і заслуговують на це не менше.[ib:hip]"/>
     <string id="OKgsM4nr" text="I curse that name. It took from me my husband, two brothers, more cousins than I can count.[ib:confident2][if:convo_stern]"/>
     <string id="oKknZdXn" text="You should join the kingdom that you wish to support by talking to the leader. None will bring back the Palaic people, but the final victory of any one of those would be suitable vengeance."/>
     <string id="oL9BdThD" text="Choose one and pledge allegiance. When this civil war began, I was a bit torn... Rhagaea was the cleverest ruler, Garios probably the best fighter, and Lucon seemed to have the best grasp of our laws and traditions. But you can make up your own mind."/>
@@ -434,7 +434,7 @@
     <string id="S5Dn2K3m" text="You couldn't stop the conspiracy."/>
     <string id="Sb46O8WO" text="{.m}Ортос{.R_n20_a_ke}"/>
     <string id="scjogyUD" text="Старий король Вадінслав був досить хоробрим. Він повів нас всіх у бій. Я стояв поруч з батьком, коли ми зустрілися з імперцями віч-на-віч, дивлячись один на одного поверх своїх щитів. Це було схоже на будь-яку іншу битву, де зустрічаються дві стіни з щитів — штовхаєш і намагаєшся встояти на ногах, але це важко описати словами. Скажу лише, що в таких битвах зазвичай перемагають стургійці.[ib:confident2]"/>
-    <string id="sejEf69A" text="I have heard no sweeter music than the thunder of our hooves as we bore down on the Aserai rabble. We fell on them like a falcon plunges upon a rabbit.[if:convo_bemused]"/>
+    <string id="sejEf69A" text="Я не чув солодшої музики, ніж грім наших копит, коли ми налетіли на збіговисько асерійців. Ми накинулися на них, як сокіл на кролика.[if:convo_bemused]"/>
     <string id="SF7dqoEe" text="Of course Nimr's arrogance doubled, and doubled again. And then he dealt us a great insult. I will not say what that insult was, because it longer exists. We wiped it out. In the traditional way. You may ask someone else about that."/>
     <string id="SFJFIaAD" text="Well... King Caladog's great victory... Who would dare say anything to tarnish its shine?[if:convo_undecided_open][ib:closed]"/>
     <string id="ShG19Xhi" text="Дякую..."/>
@@ -511,7 +511,7 @@
     <string id="WDylM3dx" text="Він вирушив у дорогу за кілька годин до того, як сюди навідалися бандити. Розумієте, він не надто пристосований до цього жорстокого світу. Він з тих людей хто, потрапивши в пастку, просто дає себе схопити. Ми хвилюємося за нього.[if:convo_dismayed]"/>
     <string id="weS3DJKA" text="Weakened by war, the ruler of the {FACTION} offers to make peace with {PLAYER_FACTION}."/>
     <string id="WIUbM9Hc" text="Виберіть зброю, щоб почати тренування."/>
-    <string id="WN1tHPnB" text="We should have gone on to seize all the western empire. If Derthert had any manhood, we'd have done so. But his heart was never in the war. He believed he'd broken his oath to the Empire by helping the Sturgians, and it gnawed at him. He'd have made a fine lackey. Instead he's our king.[if:convo_contemptuous]"/>
+    <string id="WN1tHPnB" text="Ми повинні були захопити всю західну імперію. Якби у Дертерта було хоч трохи мужності, ми б так і зробили. Але його серце ніколи не лежало до війни. Він вважав, що порушив присягу Імперії, допомагаючи стургійцям, і це гризло його. З нього вийшов би чудовий слуга. Натомість він наш король.[if:convo_contemptuous]"/>
     <string id="WN6aHR6m" text="You were defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="wO19nK2y" text="You have weakened the Empire."/>
     <string id="WTjAYUoD" text="Знайти іншу частину банера для Істіани"/>
@@ -571,7 +571,7 @@
     <string id="ZpcV9MZE" text="Ви врятували своїх братів і сестру та вирішив стратити {RADAGOS.LINK}{.v_rod}, тому що він став причиною смерті ваших батьків."/>
     <string id="Zq9qXcCk" text="Вас переміг загін {RADAGOS.NAME}{.v_rod}, але ваш брат врятував вас. Однак, схоже, вони нікуди не збираються йти, тож ви повинні атакувати знову, як тільки будете готові. У вашому загоні повинно бути щонайменше {NUMBER} людей. Якщо їх менше, поверніться до {.S}{QUEST_VILLAGE}{.v_rod} і найміть ще воїнів."/>
     <string id="ZqOvtLBM" text="У метушні під час нападу ви вигукнули, що хтось знайшов коштовності у підсобці, після чого ви з братом змогли пробратись до виходу, за яким ніхто не дивився."/>
-    <string id="zRZd90cZ" text="I was there. I was just a young squire then."/>
+    <string id="zRZd90cZ" text="Я був там. Тоді я був лише молодим зброєносцем."/>
     <string id="zTYd6Qai" text="The Empire has been united under the {FACTION}!"/>
     <string id="Zyn5FrTR" text="Ми матимемо це на увазі."/>
     <string id="Zz6IvIH9" text="Імперія на деякий час залишила нас у спокої, а Неретцес пропонував срібло людям, тож я подумав: «Чому б і ні? Нехай вони допоможуть Імперії.» Але я мав би здогадатися. Коли справа стосується війни, то найкраще, що ви можете зробити — це триматися від неї якомога далі."/>
