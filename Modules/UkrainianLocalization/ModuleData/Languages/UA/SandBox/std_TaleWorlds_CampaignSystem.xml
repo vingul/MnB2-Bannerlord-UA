@@ -1646,7 +1646,7 @@
     <string id="eBmaa49a" text="{VALUE}% шкоди в ближньому бою від воїнів вашого підрозділу."/>
     <string id="EbRDo6Lv" text="A hunter should be able to endure long treks over rough ground and pursue a wounded quarry until it drops."/>
     <string id="EbROfVJJ" text="Піднесений дух"/>
-    <string id="ebUwP3Q3" text="Don't get involved."/>
+    <string id="ebUwP3Q3" text="Не втручатися."/>
     <string id="EC2n5DBl" text="Спостережний пункт"/>
     <string id="eC4laxrj" text="I'm still out recruiting."/>
     <string id="ecdZglky" text="Від вогнищ"/>
@@ -2161,7 +2161,7 @@
     <string id="hMiJvlJ5" text="Yes, Since we last spoke, I've learned a lot about hand-to-hand combat, my {?PLAYER.GENDER}lady{?}lord{\?}. Correct timing and putting your whole body behind the blow means a lot more than I initially thought.[if:convo_calm_friendly][ib:warrior]"/>
     <string id="hMJVRJdw" text="Скасування штрафу до швидкості пересування зі щитом."/>
     <string id="hmrUcvwz" text="{VALUE}% витрати витривалості під час очистки."/>
-    <string id="HMt8Xo5p" text="{PARTY} is raiding {SETTLEMENT}. You decide to..."/>
+    <string id="HMt8Xo5p" text="{PARTY} здійснює набіг на {.S}{SETTLEMENT}{.v_zna}. Ви вирішуєте..."/>
     <string id="hnSFjIkM" text="As you wish. Your enemies are my enemies."/>
     <string id="hObVTgc7" text="You heard me. Yield or fight!"/>
     <string id="HOMeZ9bB" text="Let me think about it."/>
@@ -2451,7 +2451,7 @@
     <string id="Jk3mDlU6" text="Yeah... I've got some problems. A few years ago, I needed hides for my tannery and I hired some hunters. I didn't ask too many questions about where they came by the skins they sold me. Well, that was a bit of mistake. Now they've banded together as a gang and are trying to muscle me out of the leather business.[ib:closed2][if:convo_thinking]"/>
     <string id="jKHkGzUn" text="As agreed, {SELECTED_ITEM_COUNT} {?IS_PLURAL}{.%}{PLURAL(SELECTED_ITEM)}{.%} have been{?}{.%}{SELECTED_ITEM}{.%} has been{\?} added to your inventory."/>
     <string id="jKUmtH7z" text="{VALUE}% споживання їжі бандитами у вашому загоні."/>
-    <string id="jKWJpIES" text="{JOIN_ENCOUNTER_TEXT}. You decide to..."/>
+    <string id="jKWJpIES" text="{JOIN_ENCOUNTER_TEXT}. Ви вирішуєте..."/>
     <string id="jkYQmtIF" text="You need to have at least {GOLD_AMOUNT}{GOLD_ICON} to pay for the expenses beforehand."/>
     <string id="JL204Kc0" text="Sure... sure. We'll hand them over.."/>
     <string id="jL8ntljn" text="procures supplies."/>
@@ -2690,7 +2690,7 @@
     <string id="l5H9x7Lo" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} передає {.S}{SETTLEMENT}{.v_zna} {.S}{LEADER.NAME}{.v_dav}, хоч думки в {?RULER.GENDER}її{?}його{\?} раді й розділилися порівну."/>
     <string id="L5iagGyo" text="I am a brother in our order."/>
     <string id="l5kDEI6N" text="Imperial Towns"/>
-    <string id="l5YipTe3" text="{SETTLEMENT} is under siege. {FURTHER_EXPLANATION}"/>
+    <string id="l5YipTe3" text="{SETTLEMENT} в облозі. {FURTHER_EXPLANATION}"/>
     <string id="L6N2YLa6" text="{FIRSTNAME} the Finger"/>
     <string id="L700FNht" text="Delivered {RAW_MATERIAL}"/>
     <string id="L7AN6ybY" text="What do you want with us now?"/>
@@ -4165,7 +4165,7 @@
     <string id="uq7JwT1Z" text="Зменшення торгового штрафу +{a0}%"/>
     <string id="UqaNs3ck" text="You are not at war with the besiegers."/>
     <string id="UQc6zg1Q" text="Owned Alleys"/>
-    <string id="UqDNAZqM" text="Stop waiting"/>
+    <string id="UqDNAZqM" text="Припинити очікування"/>
     <string id="UQhRKJb9" text="Ignore the charges"/>
     <string id="UQtXV3kf" text="Certainly, you have always been close to our family."/>
     <string id="UrFzdy4z" text="Daily Consumption"/>
@@ -4611,7 +4611,7 @@
     <string id="XN7BX0qP" text="Максимальна складність луку: {a0}"/>
     <string id="xnR3sXJP" text="{PLAYER.NAME}"/>
     <string id="xnT03Yv0" text="I'm listening."/>
-    <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT} You decide to..."/>
+    <string id="xNyKVMHx" text="{JOIN_SIEGE_TEXT} Ви вирішуєте..."/>
     <string id="XO3SOlZx" text="Перевага в автобитвах: +{a0}%"/>
     <string id="xoARIHde" text="З найкращого боку"/>
     <string id="XOB0SMXC" text="{COMPANION.LINK} has successfully offloaded the stolen goods. {?QUEST_GIVER.GENDER}She{?}He{\?} returned to the party with {STOLEN_GOODS_SIZE} {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%}."/>
@@ -4732,7 +4732,7 @@
     <string id="YCC0hPuC" text="Ah, no. Slavers are rare these days. It used to be that, when the Empire and its neighbors made war upon each other, the defeated were usually taken as slaves. That helped pay for the war, you see! But today, for better or for worse, that is not practical. What with the frontiers broken and raiders crossing this way and that, there are far too many opportunities for captives to escape. But that does not mean that war cannot be profitable! Indeed it still can!"/>
     <string id="yccVH4KD" text="Thank you for listening to the voice of reason."/>
     <string id="YcdQ1MWq" text="Well.. It seems we have a fair amount in common."/>
-    <string id="ydbVysqv" text="You are waiting in {CURRENT_SETTLEMENT}."/>
+    <string id="ydbVysqv" text="Ви очікуєте в {CURRENT_SETTLEMENT}{.v_mis}."/>
     <string id="ydGffr9O" text="Thank you, good {?PLAYER.GENDER}lady{?}sire{\?}. I never forget someone who's done me a good turn.[if:convo_calm_friendly]"/>
     <string id="yDomN9L2" text="Property Effect"/>
     <string id="ydspCDIy" text="Low morale"/>
