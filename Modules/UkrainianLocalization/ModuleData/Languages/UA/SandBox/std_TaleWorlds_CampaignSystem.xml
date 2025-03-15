@@ -294,7 +294,7 @@
     <string id="3L8xN9uC" text="I believe it hasn't been long since we've last bartered."/>
     <string id="3lDTSlpU" text="Навіть найвправніший мечник чи найсильніший майстер сокири для списоносця — все одно, що кролик для орла."/>
     <string id="3lfS4iCZ" text="Добре запряжений"/>
-    <string id="3lxq5fvI" text="Pay a {AMOUNT}{GOLD_ICON} bribe to go to the lord's hall."/>
+    <string id="3lxq5fvI" text="Заплатити {AMOUNT}{GOLD_ICON} хабаря, щоб потрапити до зали лорда."/>
     <string id="3m2tQF9F" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду воїнам коли завершується будівництво облогового знаряддя."/>
     <string id="3mJMAX0Y" text="{VALUE} воїн{#GET_PLURAL_VALUE(VALUE)}{#}а{#}ів{\#} до групи, що штурмує лігво."/>
     <string id="3MJSuB8G" text="So... In our lands, it's customary to pay us a tax for our protection. Unless you want a fight."/>
@@ -958,7 +958,7 @@
     <string id="aPbpBJq5" text="Тюремний архітектор"/>
     <string id="APEBfqyW" text="Greetings my {?PLAYER.GENDER}lady{?}lord{\?}. Do you wish something from me?[if:convo_innocent_smile][ib:normal2]"/>
     <string id="apgpk6j1" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння Древкова зброя для піхоти вашого підрозділу."/>
-    <string id="aPoS8wOW" text="You have limited access to Dungeon."/>
+    <string id="aPoS8wOW" text="Доступ до в'язниці для вас закритий."/>
     <string id="apr2dH0n" text="{ISSUE_SETTLEMENT} Needs Grain Seeds"/>
     <string id="aPsDkV9w" text="You've done well by me in the past, {PLAYER.NAME}, and for that I will go along with your request, but know that I do not like you using our relationship this way.[ib:closed][if:convo_stern]"/>
     <string id="APSE3Q6r" text="What? No... I cannot, I cannot agree."/>
@@ -1149,7 +1149,7 @@
     <string id="bIWDtytH" text="the {ETHNIC_TERM}"/>
     <string id="BixmcFY3" text="Yes, we're hiring mercenaries. We pay you to fight, though, not just ride around the countryside. You'll get {MERCENARY_AWARD}{GOLD_ICON} whenever you take down an enemy party, or do a similar service."/>
     <string id="bj49Bq15" text="It's not that easy to find what you wanted. Be patient, please."/>
-    <string id="bJ6ygV3P" text="As you travel along the coast, you see a sheltered cove with what appears to the outlines of a camp."/>
+    <string id="bJ6ygV3P" text="Подорожуючи узбережжям, ви бачите захищену бухту і щось схоже на табір."/>
     <string id="BJbbahYe" text="Let {HERO.NAME} Go"/>
     <string id="bjJs0eeB" text="My lord, I note that you have not yet taken a wife."/>
     <string id="BjLYCHMD" text="{VALUE} впливу на день за кожне очко уміння харизми вище 200."/>
@@ -1532,7 +1532,7 @@
     <string id="dJVjbgyu" text="Any news about our tools {?PLAYER.GENDER}madame{?}sir{\?}?"/>
     <string id="dKEADOhG" text="You have protected the caravan belonging to {QUEST_GIVER.LINK} from {SETTLEMENT} as promised. {?QUEST_GIVER.GENDER}She{?}He{\?} was happy with your work."/>
     <string id="DKiLA9f2" text="Don't worry, I'll find them."/>
-    <string id="dl6YxNTT" text="Go to the lord's hall (Cheat)"/>
+    <string id="dl6YxNTT" text="Піти до зали лорда (Чіт-код)"/>
     <string id="dL8196qY" text="{YOUNG_HERO.LINK} has escaped. Find him to continue your quest."/>
     <string id="DLbFbYkR" text="I will have one of my companions and {ALTERNATIVE_COUNT} of my men patrol the area for {TOTAL_DAYS} days."/>
     <string id="DLc6NfiV" text="I shall win you the riches you deserve, or die in the attempt."/>
@@ -1594,7 +1594,7 @@
     <string id="DUB6zfSe" text="I have a bit of a dispute with {TARGET_SETTLEMENT}. I recently purchased the right to graze cattle in the nearby pastures from a landowner there. But now some of the herders are making problems.[if:convo_thinking][ib:closed]"/>
     <string id="DuQvj7zd" text="{NEWLINE}+{VALUE} до риси «{TRAIT_NAME}»"/>
     <string id="DV2kW53e" text="Ваші каравани збирають чутки у торговців."/>
-    <string id="dv2ZNazN" text="Go to the lord's hall"/>
+    <string id="dv2ZNazN" text="Піти до зали лорда"/>
     <string id="dvEkfaab" text="recognizing the common folk in the realm as full citizens"/>
     <string id="dW09queg" text="I do not see it as being in my current interest to make peace."/>
     <string id="dwtIc9AG" text="Досвідчений коваль"/>
@@ -1731,7 +1731,7 @@
     <string id="EsNDadiR" text="You have completed your end of your bargain and made some denars simply by using your smarts."/>
     <string id="eSpRuda1" text="You have decided to keep the borrowed troops {QUEST_GIVER.LINK} gave you to train. When {?QUEST_GIVER.GENDER}She{?}He{\?} hears about this {?QUEST_GIVER.GENDER}she{?}he{\?} sends you the following letter. {newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, I made it clear that I expected my men to be returned to me. I consider this a betrayal of my trust.”"/>
     <string id="essaRvXP" text="King's support"/>
-    <string id="esSm5V6t" text="Go to the dungeon"/>
+    <string id="esSm5V6t" text="Піти до в'язниці"/>
     <string id="EsYYcvcA" text="Затяжна перестрілка"/>
     <string id="ETbToaZC" text="You have failed to place in the tournaments as {QUEST_GIVER.LINK} wished."/>
     <string id="ETfx08db" text="see as much of the world as {?CHILD.GENDER}she{?}he{\?} could."/>
@@ -3287,7 +3287,7 @@
     <string id="p9F90bc0" text="New Smithing Part Unlocked: {PART_NAME} for {WEAPON_TYPE}."/>
     <string id="p9rzYV4T" text="Things have gotten worse for the village, [if:convo_dismayed][ib:nervous2]since we last met {?PLAYER.GENDER}madam{?}sir{\?}. Is it possible that we could pay you a bit less, what about {DISCOUNTED_REWARD}{GOLD_ICON} denars?"/>
     <string id="Pa1ZtapI" text="Okay. Okay then. We're going."/>
-    <string id="pa7oiQb1" text="Go to the dungeon (Cheat)"/>
+    <string id="pa7oiQb1" text="Піти до в'язниці (Чіт-код)"/>
     <string id="PAbVhuKi" text="Not yet. I'm still working on it."/>
     <string id="paelEWj1" text="Forum"/>
     <string id="PaG0Blui" text="Become a mercenary for {TARGET_FACTION}"/>
