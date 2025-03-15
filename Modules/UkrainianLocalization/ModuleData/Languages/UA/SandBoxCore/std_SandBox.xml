@@ -881,7 +881,7 @@
     <string id="tuaQ5uU3" text="I guess the only way to free you from this pretty boy's spell is to kill him."/>
     <string id="tuz8ZNT6" text="I wish to form a caravan in this town."/>
     <string id="tVb0nWxm" text="War is all about sacrifice. In {GAME_NAME} you must make sure that your opponent sacrifices more than you do. Every move can expose you or your opponent and must be carefully considered."/>
-    <string id="tWzLqegB" text="Tournament is over."/>
+    <string id="tWzLqegB" text="Турнір завершено."/>
     <string id="TXO1ihiZ" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. I have often thought about that. If I had a fief, with revenues, and perhaps a title to go with it, I could marry well and pass my wealth down to my heirs, and of course raise troops to help defend the realm."/>
     <string id="tXpmCzoZ" text="Well, there was one warrior. A handsome young lad. Didn't have any of those scars that some fighters pick up in battle, nor any of those marks or tattoos or whatever that [if:convo_pondering]some of the hard cases like to show off."/>
     <string id="tyyAfWRR" text="We already had a small scuffle with them recently. [if:convo_mocking_revenge]They'll be waiting for us to come down hard. Instead, we'll hold off for {NUMBER} days. Let them think that we're backing off… Then, after {NUMBER} days, your men and mine will hit them in the middle of the night when they least expect it. I'll send you a messenger when the time comes and we'll strike them down together."/>
