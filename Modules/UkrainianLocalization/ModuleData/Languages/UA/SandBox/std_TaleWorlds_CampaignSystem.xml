@@ -608,7 +608,7 @@
     <string id="7gZo2SY4" text="Різьбяр"/>
     <string id="7h3wBoIt" text="Bloody {FIRSTNAME}"/>
     <string id="7H4HQNvF" text="Yes. Some of the families in this village need to raise a bit of money. [if:convo_calm_friendly][ib:normal2]They've put together a herd of {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} to sell in {TARGET_SETTLEMENT}, but with all the banditry on the roads, they can't drive it there on their own. We're not merchants or landowners. We can't afford any losses."/>
-    <string id="7Hd5yW7B" text="У дикій природі {?CHILD.GENDER}вона{?}він{\?} відчуває себе як вдома. Вміє рухатися, як кіт, і має дуже гострий слух та зір."/>
+    <string id="7Hd5yW7B" text="У дикій природі {?CHILD.GENDER}вона{?}він{\?} відчуває себе як вдома. Вміє рухатися тихо, як {?CHILD.GENDER}кішка{?}кіт{\?}, і має дуже гострий слух та зір."/>
     <string id="7HpfrmIU" text="On a second thought... Now is not the right time to do this."/>
     <string id="7HvtT8bm" text="{.n}Кований{.R_adj} {.n}залізо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} кованого заліза{\@}"/>
     <string id="7hYUleHh" text="rode to the edge of the world."/>
