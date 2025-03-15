@@ -266,7 +266,7 @@
     <string id="3ApJ6LaX" text="You have transferred the recruits to {QUEST_GIVER.LINK} as promised."/>
     <string id="3b4sjuMu" text="{VALUE} до відносин з лордами та леді після успішного виконання ремісничих замовлень."/>
     <string id="3BvfOe1y" text="Very well then. You catch some more and you want me to take them off of your hands, you know where to find me..."/>
-    <string id="3cBfSJOI" text="Is there anything else?[ib:normal]"/>
+    <string id="3cBfSJOI" text="Щось іще?[ib:normal]"/>
     <string id="3cBX5x0x" text="{VALUE}% швидкості перезаряджання арбалетів."/>
     <string id="3cw5pRFM" text="I had not thought that I might marry a shieldmaiden. But it is intriguing. Tell me, have you killed men in battle?"/>
     <string id="3dhAfC4k" text="Smugglers of {ORIGIN_SETTLEMENT}"/>
@@ -1271,7 +1271,7 @@
     <string id="bXdzsTdb" text="Yes... I am weary of fighting you. I could offer you a truce of forty days. If you keep your word and do not molest my lands and subjects, we may talk again..."/>
     <string id="bXN2fbcv" text="Your men treat the residents of {SETTLEMENT_NAME} as wayward subjects of the {SETTLEMENT_CULTURE_NAME} rather than foes, and treat them relatively well."/>
     <string id="BXw5MwX7" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} grants {?ARMY_LEADER.GENDER}her{?}his{\?} men their customary right of pillage after a successful siege. {?ARMY_LEADER.GENDER}She{?}He{\?} tells them they may take property but must spare the townsfolk's lives."/>
-    <string id="bxWITUaN" text="having the greatest lords of the realm meet as a small privy council"/>
+    <string id="bxWITUaN" text="збирати найвидатніших лордів королівства на таємну раду"/>
     <string id="bXzAluln" text="When, after some time your forces regroup, you take a quick tally of your troops to see that your forces are intact."/>
     <string id="by1b61pn" text="Глибокі кишені"/>
     <string id="BYadInfL" text="добре збалансований меч."/>
@@ -1564,7 +1564,7 @@
     <string id="DPTPuyip" text="And {NUMBER} more..."/>
     <string id="dPU8UbKA" text="{QUEST_GIVER}'s Party"/>
     <string id="dpzbyUCa" text="I don't care for it any more than I did before."/>
-    <string id="DQBaaC0e" text="Is there anything else?"/>
+    <string id="DQBaaC0e" text="Щось іще?"/>
     <string id="dqbbT5DK" text="Могутні луки"/>
     <string id="dqg4nlo9" text="{?IS_BATTANIA}Bard{?}Minstrel{\?}s frequently sing of nature and the hunt and are often great travellers, skilled at living rough on the land. The child was encouraged to accompany the {?IS_BATTANIA}bard{?}minstrel{\?} on his roamings."/>
     <string id="dQl0Bnwm" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s faction. Your agreement with {QUEST_GIVER.LINK} has been canceled."/>
@@ -2395,7 +2395,7 @@
     <string id="jaLOtaRh" text="{VALUE}% шкоди від швидкості від древкової зброї кавалерії вашого підрозділу."/>
     <string id="jan55Git" text="{VALUE}% швидкості атаки одноручною зброєю за кожне очко уміння вище 250."/>
     <string id="Jat5GFDi" text="Нестримна сила"/>
-    <string id="JaZ7T2Wj" text="Lords' Privy Council"/>
+    <string id="JaZ7T2Wj" text="Таємна рада лордів"/>
     <string id="JBa4DO2u" text="{VALUE}% шкоди стінам під час облогового бомбардування."/>
     <string id="jbAtOsIy" text="Рабська праця"/>
     <string id="jBN2LlgF" text="We'll fight to our last drop of blood!"/>
