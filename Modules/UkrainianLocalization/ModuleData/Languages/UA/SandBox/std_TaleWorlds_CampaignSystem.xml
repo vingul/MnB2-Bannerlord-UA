@@ -1444,7 +1444,7 @@
     <string id="CzJZ5zhT" text="So it shall be proclaimed throughout your domain. May {KINGDOM_NAME} forever be victorious!"/>
     <string id="czuvE3PC" text="Do you think I will break my word for a handful more silver?"/>
     <string id="CZuYne8X" text="Singing, dancing and playing an instrument is important but the {?IS_BATTANIA}bard{?}minstrel{\?} knows more. You asked him to make sure the child is also skilled in..."/>
-    <string id="CZwrlJMJ" text="A courier with a marriage offer for {CLAN_MEMBER.NAME} from {OFFERING_CLAN_NAME} has arrived."/>
+    <string id="CZwrlJMJ" text="Прибув посланець з пропозицією руки і серця для {.S}{CLAN_MEMBER.NAME}{.v_rod} від {.S}{OFFERING_CLAN_NAME}{.v_rod}."/>
     <string id="d0kbtGYn" text="You don't have enough gold."/>
     <string id="d18Ul2Zl" text="a plate of sardines"/>
     <string id="D1biQObM" text="I will pay double whatever {ISSUE_OWNER.NAME} is paying you! Please consider my offer![if:convo_nervous2][ib:nervous]"/>
@@ -2181,7 +2181,7 @@
     <string id="HrOTTjgo" text="Полонені у вашому загоні збільшують вашу вантажопідйомність, як і звичайні воїни."/>
     <string id="HrTFr1ox" text="{VALUE}% швидкості виробництва у майстернях."/>
     <string id="HRwb3qJZ" text="Very well. But every day he's out there spreading sedition make things more dangerous for all of us.[if:convo_undecided_closed]"/>
-    <string id="hSdJ0UUv" text="Leave Army"/>
+    <string id="hSdJ0UUv" text="Покинути армію"/>
     <string id="hsIvt3WC" text="encouraging lords to fortify their estates"/>
     <string id="Ht3S4nvm" text="Let's do some diagnostics about your faction."/>
     <string id="HtHcEv7N" text="{newline} • Party Morale Change : {MORALE_CHANGE}"/>
