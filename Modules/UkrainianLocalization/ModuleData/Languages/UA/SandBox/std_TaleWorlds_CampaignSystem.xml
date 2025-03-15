@@ -1736,7 +1736,7 @@
     <string id="ETbToaZC" text="You have failed to place in the tournaments as {QUEST_GIVER.LINK} wished."/>
     <string id="ETfx08db" text="see as much of the world as {?CHILD.GENDER}she{?}he{\?} could."/>
     <string id="ETiOGIvT" text="{VALUE}% швидкості руху по степах і рівнинах."/>
-    <string id="etjMHPjQ" text="Go to dungeon"/>
+    <string id="etjMHPjQ" text="Піти до в'язниці"/>
     <string id="etKrpcHe" text="You must resolve pending decisions"/>
     <string id="ETKyjOkJ" text="You don't have enough denars to pay the fine."/>
     <string id="eTr0XHas" text="{FACTION_LEADER} will decide if {CLAN_NAME} will be expelled from {KINGDOM_NAME}. You can pick your stance regarding this decision."/>
@@ -2563,7 +2563,7 @@
     <string id="KBmAqg54" text="No problem, you can pay what you can afford."/>
     <string id="KbnGyw0v" text="Your master-at-arms is happy with the child's progress. He informs you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
     <string id="KbQQV5rI" text="My oath is my oath. I cannot break it. (Oath persuasion failed.)"/>
-    <string id="KBxajw4c" text="Enter the dungeon (Cheat)"/>
+    <string id="KBxajw4c" text="Увійти до в'язниці (Чіт-код)"/>
     <string id="kc3RfwFb" text="I'll try to be useful to you, {?PLAYER.GENDER}my lady{?}sir{\?}."/>
     <string id="kc3tLqGy" text="You command the sons of Asera in war and govern them in peace..."/>
     <string id="KC7rLf4b" text="The {?IS_BATTANIA}bard{?}minstrel{\?} had the child memorize the speeches of epic heroes, teaching {?CHILD.GENDER}her{?}him{\?} how to appeal to your people's pride in their ancestors."/>
@@ -3150,7 +3150,7 @@
     <string id="O3sh2iws" text="{VALUE}% споживання їжі у підконтрольному поселенні під час облоги."/>
     <string id="O4cknzhW" text="Irrigation"/>
     <string id="O4dWdKZd" text="Ach... So they say {LORD.LINK} got {?LORD.GENDER}his{?}her{\?} arse handed to {?LORD.GENDER}him{?}her{\?} by {OTHER_SIDE}. Grim times, friend."/>
-    <string id="O4flV28Q" text="There are no prisoners here."/>
+    <string id="O4flV28Q" text="Тут немає полонених."/>
     <string id="O4iki0FD" text="Ruler gains 5% tax from all settlements{newline}Towns lose 1 prosperity per day{newline}The influence cost of declaring war is doubled for the ruler clan"/>
     <string id="O4KI2lgT" text="My name is {PLAYER.NAME}."/>
     <string id="o57z0zB9" text="Шампур"/>
@@ -4150,7 +4150,7 @@
     <string id="UMn2QMIk" text="Did you hear {ENEMY_NAME} took {FORTRESS_NAME} by storm? Do you think they'll come here next?"/>
     <string id="umNyHc3A" text="Bound Village Issues"/>
     <string id="uNls3bOP" text="Рівень інформації про слід: {a0}"/>
-    <string id="UnQFawna" text="Enter the dungeon"/>
+    <string id="UnQFawna" text="Увійти до в'язниці"/>
     <string id="uO99raT7" text="Snotnose {FIRSTNAME}"/>
     <string id="uoDuiBZR" text="You cannot assign yourself as a governor"/>
     <string id="UOE7ejgq" text="Here is all I've got. Let's settle up and finish this business."/>
