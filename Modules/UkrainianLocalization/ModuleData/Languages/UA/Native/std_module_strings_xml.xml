@@ -371,7 +371,7 @@
     <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending."/>
     <string id="b7bWCXbk" text="Run along now, little sheep. And be careful of the other wolfpacks out there."/>
     <string id="b7U3Gvuu" text="Some of the angry villagers say that they have recently satisfied your demands. It looks like you'll have a fight on your hands if you continue."/>
-    <string id="BAaS5Dkc" text="Apply"/>
+    <string id="BAaS5Dkc" text="Застосувати"/>
     <string id="baFazbmR" text="{.n}Залізо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} заліза{\@}"/>
     <string id="baHmYsx3" text="Two Handed Weapon"/>
     <string id="bAHNQGAw" text="Our allies need help. Lift the siege!"/>
@@ -1358,7 +1358,7 @@
     <string id="rzsRQkXw" text="{CHAR_NAME} already have {PERK_NAME} perk."/>
     <string id="s1NEbhFL" text="In Queue"/>
     <string id="s2vaPUdG" text="Spear Brace"/>
-    <string id="S3ymfdwB" text="You have made changes. Do you want to apply them?"/>
+    <string id="S3ymfdwB" text="Ви зробили зміни. Хочете їх застосувати?"/>
     <string id="s5h0Yarn" text="Manage your army"/>
     <string id="s6ofDDii" text="Barricade"/>
     <string id="S9tmCkHz" text="This hero is clearing a common area."/>
@@ -1745,7 +1745,7 @@
     <string id="ZuRzP6kF" text="You cannot gather an army while in battle"/>
     <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}"/>
     <string id="ZvoyX6DX" text="Battanian"/>
-    <string id="zw5IEUuD" text="{TITLE}: Log updated."/>
+    <string id="zw5IEUuD" text="{TITLE}: Журнал оновлено."/>
     <string id="Zw60OTJe" text="Переважно люди задоволені, хоча можна почути деякі скарги на зростання цін, нерівномірний розподіл багатства та наплив людей із сіл."/>
     <string id="ZwyPnboN" text="+{BONUS_AMOUNT} bonus to settlement loyalty"/>
     <string id="zX4C3332" text="You shall be slain, then. Ready yourself."/>
