@@ -383,7 +383,7 @@
     <string id="4ORpHfu2" text="{VALUE}% штрафу до ціни при купівлі глини, заліза, бавовни та срібла."/>
     <string id="4Pbfs4rV" text="Заводчик"/>
     <string id="4PdKPMNc" text="{VALUE}% штрафу до точності під час руху."/>
-    <string id="4pmvrnmN" text="Замком {SETTLEMENT_LINK} володіє {LORD.LINK}, {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
+    <string id="4pmvrnmN" text="Замком {SETTLEMENT_LINK} володіє {LORD.LINK}, {FACTION_OFFICIAL} {.S}{FACTION_TERM}{.v_rod}. {KEEP_INFO}"/>
     <string id="4pOb934Y" text="understands how a victory is won."/>
     <string id="4rCIZ6e5" text="{QUEST_SETTLEMENT} was raided, Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="4RNREbPW" text="You managed to return all of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter.{newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}.”"/>
@@ -744,7 +744,7 @@
     <string id="8Z4vlcib" text="Your clan is now at war with the {ISSUE_GIVER.LINK}'s lord. Your agreement with {ISSUE_GIVER.LINK} was canceled."/>
     <string id="90ROmHcV" text="Very well. Follow us."/>
     <string id="93Z7G161" text="{VALUE}% швидкості пересування в бою без зброї та щита."/>
-    <string id="940TwBPs" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} over the objections of {?RULER.GENDER}her{?}his{\?} council."/>
+    <string id="940TwBPs" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} не виганяти клан {CLAN} з {.S}{KINGDOM}{.v_rod}, не зважаючи на заперечення своєї ради."/>
     <string id="94wCiGjB" text="So it seems as though {ENEMY_NAME} have had enough of war. Good. Peace is good."/>
     <string id="95jXfam8" text="Що це за уміння, якщо говорити в загальному? До якої риси характеру воно відноситься?"/>
     <string id="96m29Eb7" text="The Art of The Trade"/>
@@ -758,7 +758,7 @@
     <string id="9bFAsGmp" text="You have cleared the hideout. Your men found the {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%} stashed nearby."/>
     <string id="9Bnwttn6" text="Siege Workshop"/>
     <string id="9BoHka98" text="The young {?CHILD.GENDER}woman{?}man{\?} pursued enemy scouts while avoiding their main force. There was little fighting but a great deal of riding."/>
-    <string id="9Cbeagow" text="{RULER.NAME} has decided against giving {SETTLEMENT} to a new clan over the objections of {?RULER.GENDER}her{?}his{\?} council."/>
+    <string id="9Cbeagow" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} не передавати {.S}{SETTLEMENT}{.v_zna} новому клану, не зважаючи на заперечення своєї ради."/>
     <string id="9CjoaJwe" text="{VALUE}% шкоди від воїнів вашого підрозділу."/>
     <string id="9cZeHcAC" text="The cruelty of {CURRENT_LIEGE.NAME} is legendary. Who cares what he stands for if the realm is drenched in blood?"/>
     <string id="9d3tffnL" text="We do not need hired swords to win this war. You should seek your fortune elsewhere."/>
@@ -985,7 +985,7 @@
     <string id="aTeuX4L0" text="Regular"/>
     <string id="AtFv5RMW" text="Виплата данини"/>
     <string id="AtHjW2lY" text="Purchase stolen goods from {QUEST_GIVER.NAME}"/>
-    <string id="AThZtg7U" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has decided against making peace with the {KINGDOM}, with his {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council evenly divided on the matter."/>
+    <string id="AThZtg7U" text="{PEACEMAKER_RULER.NAME} з {.S}{KINGDOM_CONSIDERING_PEACE}{.v_rod} {?PEACEMAKER_RULER.GENDER}вирішила{?}вирішив{\?} не укладати мир з {.S}{KINGDOM}{.v_oru}, хоча думки в {?PEACEMAKER_RULER.GENDER}її{?}його{\?} раді з цього питання розділилися порівну."/>
     <string id="atk3PTae" text="Deserters are extorting from the villagers of {SETTLEMENT} and have killed several who resisted."/>
     <string id="aTPc7AkY" text="All right. But I can only hire {MERCENARY_COUNT} of you. Here is {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="Au7VCWTa" text="Милосердя відображає вашу нелюбов до страждань і готовність допомагати незнайомим людям або навіть ворогам."/>
@@ -1166,7 +1166,7 @@
     <string id="bkZOcbGu" text="Your men are still getting us the tools. I ask for your patience. We very much appreciate this."/>
     <string id="bLAw2di4" text="{VALUE}% швидкості лікування."/>
     <string id="bLfXzCyc" text="I'm at your service my {?ISSUE_OWNER.GENDER}lady{?}lord{\?}. Just tell me the details."/>
-    <string id="bLNocKd1" text="Continue.."/>
+    <string id="bLNocKd1" text="Продовжити..."/>
     <string id="bloxcikL" text="Добра підготовка"/>
     <string id="bLRGix1b" text="Yes, I have them with me."/>
     <string id="BLrwIj7s" text="More days pass in the darkness of your cell. You get through them as best you can, enduring the kicks and curses of the guards, watching your underfed body waste away more and more..."/>
@@ -1875,7 +1875,7 @@
     <string id="FoNfLOny" text="{ISSUE_OWNER.NAME} wants {TARGET_HERO.NAME} captured"/>
     <string id="FOoMM4AU" text="Continue siege preparations."/>
     <string id="FOYSHPoA" text="Your Clan Tier needs to be {TIER}.{newline}You also need a relation of {RELATION} with {HERO.NAME}."/>
-    <string id="fP8NHthR" text="{RULER.NAME} has decided against giving {SETTLEMENT} to a new clan, with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
+    <string id="fP8NHthR" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} не передавати {.S}{SETTLEMENT}{.v_zna} новому клану, хоч думки в {?RULER.GENDER}її{?}його{\?} раді з цього питання й розділилися порівну."/>
     <string id="fpaeONmG" text="{VALUE} додатково до відносин, коли ви покращуєте відносини з милосердними лордами."/>
     <string id="fPB1WdEy" text="{VALUE}% melee damage bonus from speed to mounted troops in your formation."/>
     <string id="FPbmUpy7" text="{QUEST_GIVER.NAME} is in quite a stew over the merchants' monopoly, so I hear."/>
@@ -1933,7 +1933,7 @@
     <string id="g0JOQQl0" text="Я не хочу цього робити прямо зараз."/>
     <string id="G1PN6ku4" text="We're disbanding."/>
     <string id="g2Zy1Bso" text="{VALUE}% шкоди від зброї мирних жителів."/>
-    <string id="G3qGLAeQ" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM} against the wishes of {?RULER.GENDER}her{?}his{\?} council."/>
+    <string id="G3qGLAeQ" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} вигнати клан {CLAN} з {.S}{KINGDOM}{.v_rod}, не зважаючи на заперечення своєї ради."/>
     <string id="g3SKNcMV" text="{VALUE}% шкоди щитам від ваших воїнів."/>
     <string id="G4kpabSf" text="{ISSUE_GIVER.LINK}, a headman from {ISSUE_SETTLEMENT}, has told you about recent bandit attacks on local villagers and asked you to clear out the outlaws' hideout. You asked {COMPANION.LINK} to take {TROOP_COUNT} of your best men to go and take care of it. They should report back to you in {RETURN_DAYS} days."/>
     <string id="G4xCqSNG" text="{VALUE}% шкоди від далекобійної зброї при їзді верхи."/>
@@ -2298,7 +2298,7 @@
     <string id="iN1kBsac" text="I don't think they'll be long now. Our hunters have spotted them making ready. Keep waiting."/>
     <string id="inFSdSiC" text="{VALUE}% шкоди щитам метальною зброєю від воїнів вашого підрозділу."/>
     <string id="InFseOAA" text="This limits the ability of magistrates to condemn those they consider criminals quickly. It prevents arbitrary abuse of power, but landowners or gang leaders can sometimes use threats or bribes to manipulate it."/>
-    <string id="Ing5gFbO" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has chosen not to make peace with the {KINGDOM} over the objections of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council."/>
+    <string id="Ing5gFbO" text="{PEACEMAKER_RULER.NAME} з {.S}{KINGDOM_CONSIDERING_PEACE}{.v_rod} {?PEACEMAKER_RULER.GENDER}вирішила{?}вирішив{\?} не укладати мир з {.S}{KINGDOM}{.v_oru}, не зважаючи на заперечення своєї ради."/>
     <string id="inkr6Dzy" text="Too bad. Perhaps someone else will be able to get me the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} that I need."/>
     <string id="InLGoUbB" text="Ринковий торговець"/>
     <string id="Instmiut" text="Your child is blessed with a strong and sonorous voice, making {?CHILD.GENDER}her{?}him{\?} seem older and wiser than {?CHILD.GENDER}her{?}his{\?} years."/>
@@ -2518,7 +2518,7 @@
     <string id="jyxo4YgW" text="Yes, he is a promising boy."/>
     <string id="jZ8Eqxbf" text="You are besieging the settlement."/>
     <string id="JZ8ihtoa" text="{VALUE} до початкового бойового духу воїнам вашого загону, якщо ви перебуваєте в меншості."/>
-    <string id="JzALLCEX" text="{RULER.NAME} has decided to give {SETTLEMENT} to a new clan, with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
+    <string id="JzALLCEX" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} передати {.S}{SETTLEMENT}{.v_zna} новому клану, хоч думки в {?RULER.GENDER}її{?}його{\?} раді з цього питання й розділилися порівну."/>
     <string id="jzbaH2NE" text="Very well, please accept these {BRIBE_MONEY}{GOLD_ICON} as a token of my gratitude."/>
     <string id="jZmBbA5M" text="{newline}        {BUILDING_NAME}"/>
     <string id="JZvywHNy" text="You think I'm daft? I'm not trusting you an inch."/>
@@ -2687,7 +2687,7 @@
     <string id="l4yDEvdV" text="You owe me one."/>
     <string id="l549ODcw" text="Sorry. I can't do that right now."/>
     <string id="l5aOTKUi" text="прекрасного жеребця."/>
-    <string id="l5H9x7Lo" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} передає {.S}{SETTLEMENT}{.v_zna} {.S}{LEADER.NAME}{.v_dav}, хоч думки в {?PEACEMAKER_RULER.GENDER}її{?}його{\?} раді й розділилися порівну."/>
+    <string id="l5H9x7Lo" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} передає {.S}{SETTLEMENT}{.v_zna} {.S}{LEADER.NAME}{.v_dav}, хоч думки в {?RULER.GENDER}її{?}його{\?} раді й розділилися порівну."/>
     <string id="L5iagGyo" text="I am a brother in our order."/>
     <string id="l5kDEI6N" text="Imperial Towns"/>
     <string id="l5YipTe3" text="{SETTLEMENT} is under siege. {FURTHER_EXPLANATION}"/>
@@ -2858,7 +2858,7 @@
     <string id="M5eUjgQl" text="Cured"/>
     <string id="M5iR1e5h" text="You have arrived at your fief of {SETTLEMENT_LINK}. {PROSPERITY_INFO}"/>
     <string id="m61UnySr" text="Yeah, you make a good point. If you find us, others can too. We will move elsewhere."/>
-    <string id="m6OVl6Dg" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM}, with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
+    <string id="m6OVl6Dg" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} вигнати клан {CLAN} з {.S}{KINGDOM}{.v_rod}, хоч думки в {?RULER.GENDER}її{?}його{\?} раді з цього питання й розділилися порівну."/>
     <string id="m6RcG1bD" text="{VALUE}% бонусу до шкоди від швидкості воїнам вашого підрозділу."/>
     <string id="m72wpzG2" text="Go on, I'm listening."/>
     <string id="M7CcfbIx" text="End Raiding"/>
@@ -2893,8 +2893,8 @@
     <string id="MFDb5duu" text="Splendid! I suspect that you may, in your line of work, occasionally acquire a few captives. I could possibly take them off your hands. I'd pay you, of course."/>
     <string id="mfYzCeGR" text="{CHARACTER.NAME} was {TITLE} of the {CHARACTER_FACTION_SHORT}. {FURTHER_DETAILS}."/>
     <string id="mg0yAzIb" text="{RETIREE.LINK} has retired."/>
-    <string id="Mg1PotzO" text="After a brief wait, the guards open the gates for you and allow your party inside."/>
-    <string id="mG9jW8Fp" text="Request entry to the castle."/>
+    <string id="Mg1PotzO" text="Після нетривалого очікування вартові відчиняють ворота і впускають ваш загін всередину."/>
+    <string id="mG9jW8Fp" text="Попросити дозволу увійти до замку."/>
     <string id="MGD8Ka2o" text="The residents attacked and killed {KILLED_NUMBER} of your troops who were separated from the rest."/>
     <string id="MgPubWOa" text="The epics are full of men and women who preferred words to the sword, and who could win the friendship of allies and the admiration of enemies."/>
     <string id="MharAceZ" text="A workshop dedicated to sieges. Contains tools and materials to repair walls, build and repair siege engines."/>
@@ -2949,7 +2949,7 @@
     <string id="mrjz1ka4" text="And in your lost baggage you had: {LOST_BAGGAGE}."/>
     <string id="mrmxEklL" text="So looks like it's war with {ENEMY_NAME}. Well, I don't deny they deserve it, but it will fall hardest on the poor folk like us."/>
     <string id="mrNdB0Hh" text="You refused the {MERCHANT.LINK}'s request and kept the goods."/>
-    <string id="mRrYn2qm" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has chosen not to make peace with the {KINGDOM} with the support of {?PEACEMAKER_RULER.GENDER}her{?}his{\?} council."/>
+    <string id="mRrYn2qm" text="{PEACEMAKER_RULER.NAME} з {.S}{KINGDOM_CONSIDERING_PEACE}{.v_rod} {?PEACEMAKER_RULER.GENDER}вирішила{?}вирішив{\?} не укладати мир з {.S}{KINGDOM}{.v_oru} за повної підтримки своєї ради."/>
     <string id="mrtDAhtL" text="Повелитель звірів"/>
     <string id="msDCQIY7" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. [if:convo_grateful][ib:confident]In these hard times, people like you are a gift from Heaven… The village will never forget that you were willing to help. Good luck."/>
     <string id="mseUsbjg" text="{VALUE}% швидкості зниження кримінальної слави."/>
@@ -3187,7 +3187,7 @@
     <string id="OdS0e6Sb" text="{NEW_LIEGE.NAME} stands up for what you believe in, while {CURRENT_LIEGE.NAME} does not."/>
     <string id="odzS6rhH" text="We're just harmless herdsmen..."/>
     <string id="Oe1bTJp6" text="No, I swear I won't."/>
-    <string id="Oe1NdVLe" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with {?RULER.GENDER}her{?}his{\?} council evenly split on the matter."/>
+    <string id="Oe1NdVLe" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} не виганяти клан {CLAN} з {.S}{KINGDOM}{.v_rod}, хоч думки в {?RULER.GENDER}її{?}його{\?} раді з цього питання й розділилися порівну."/>
     <string id="oE5etyy0" text="Штраф до швидкості і перезаряджання вашої зброї верхи: {a0}%"/>
     <string id="Oe5Tf7OZ" text="My foes may not fear my sword, but they should fear my cunning."/>
     <string id="Of7XnP5c" text="Vote for the new owner of {SETTLEMENT_NAME}"/>
@@ -3629,7 +3629,7 @@
     <string id="r8rwl9ZS" text="Delivered Recruits"/>
     <string id="r8VcYkUf" text="She expects you to fight in her name and win the tournament."/>
     <string id="R8vLC6j0" text="{VALUE}% шансу раз на день покращити на 1 відношення з випадковою відомою особою у підконтрольному поселенні."/>
-    <string id="R92XzKXE" text="Take a walk around the castle"/>
+    <string id="R92XzKXE" text="Прогулятися замком"/>
     <string id="R93r6aV7" text="{VALUE}% отримуваної шкоди від снарядів."/>
     <string id="R98gwuK1" text="{QUEST_GIVER.LINK} {?QUEST_GIVER.GENDER}lady{?}lord{\?} of {TARGET_SETTLEMENT} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} has been having issues with smugglers running between {TARGET_SETTLEMENT} and {ORIGIN_SETTLEMENT}. You promised to track the smugglers down and chase them away from {TARGET_SETTLEMENT}."/>
     <string id="r9F1W4KZ" text="Yes? Have you been able to train my men?[if:convo_astonished]"/>
@@ -3653,7 +3653,7 @@
     <string id="rCCG4mSJ" text="Відбиття снарядів"/>
     <string id="rCiKbsyW" text="Запасні скакуни"/>
     <string id="RCUGYkGP" text="I am {CONVERSATION_HERO.FIRSTNAME}, {FACTION_DESCRIPTION}."/>
-    <string id="rd229FYG" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM} with the support of {?RULER.GENDER}her{?}his{\?} council."/>
+    <string id="rd229FYG" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} вигнати клан {CLAN} з {.S}{KINGDOM}{.v_rod} за повної підтримки своєї ради."/>
     <string id="Rd3m5kyk" text="You have attacked the caravan."/>
     <string id="RdbLbpgO" text="Castle upgrade costs are reduced by 20%"/>
     <string id="REWGj2ge" text="a rising new clan"/>
@@ -3724,7 +3724,7 @@
     <string id="rSATpMpq" text="Сталеві щити"/>
     <string id="RScf2bnd" text="Thank you {?PLAYER.GENDER}milady{?}sir{\?}. My liege {?QUEST_GIVER.GENDER}lady{?}lord{\?} {QUEST_GIVER.NAME} sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards. Here is the reward {?QUEST_GIVER.GENDER}she{?}he{\?} has promised. I must take my leave now.[if:convo_bemused][ib:demure]"/>
     <string id="rsKhbZpJ" text="Смертельний постріл"/>
-    <string id="RSQbOjub" text="Request a meeting with someone."/>
+    <string id="RSQbOjub" text="Попросити про зустріч з кимось."/>
     <string id="rsQhD7sC" text="You thought that the villagers have paid enough, so departed from the settlement"/>
     <string id="Rt2w61N8" text="Don't get involved in this. [if:convo_confused_normal][ib:hip]We've grazed our herds on these hillsides since our fathers' fathers' time. We don't care if one rich bastard gave a couple of bags of silver to another rich bastard. We don't care about title deeds or courts of law or any of that. Custom is custom, and we're not going anywhere!"/>
     <string id="rTbVn6sJ" text="{VALUE}% штрафу за бартер на предмети."/>
@@ -3895,7 +3895,7 @@
     <string id="SXbW99CH" text="treated injuries."/>
     <string id="SXCudsWT" text="State Monopolies"/>
     <string id="SXgm2b1M" text="You're not going anywhere. Not with your valuables, anyway."/>
-    <string id="SxkaQbSa" text="You approach the gate. The men on the walls watch you closely."/>
+    <string id="SxkaQbSa" text="Ви підходите до воріт. Чоловіки на стінах пильно стежать за вами."/>
     <string id="sXwOLNo9" text="I don't like turning my back on the enemy like that. For me, death in battle is better than dishonor."/>
     <string id="sy5Hbp04" text="Safe travels to you, my lady. I hope to see you again soon."/>
     <string id="sYfvsMwN" text="{QUEST_GIVER.LINK} asked you to raid {NUMBER_OF_TARGET_VILLAGE} {ENEMYFACTION_INFORMALNAME} villages to distract their lords and weaken their armies. {?QUEST_GIVER.GENDER}She{?}He{\?} offers {REWARD_GOLD}{GOLD_ICON} to thank you for your deeds."/>
@@ -4269,7 +4269,7 @@
     <string id="VJoCtAvz" text="I gave an oath to my liege."/>
     <string id="VJYEoOAc" text="Well... You have a point. Go on. We won't bother you any more."/>
     <string id="vKaeKPJ5" text="Revenue collection was interrupted by a sudden brawl between your troops and young men of the village."/>
-    <string id="vkeHpUEB" text="{RULER.NAME} has decided against giving {SETTLEMENT} to a new clan with the support of with {?RULER.GENDER}her{?}his{\?} council."/>
+    <string id="vkeHpUEB" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} не передавати {.S}{SETTLEMENT}{.v_zna} новому клану за повної підтримки своєї ради."/>
     <string id="VktwHCN6" text="Your men have started to collect the tax of {VILLAGE}"/>
     <string id="VkUMPAfR" text="Thank you for your help. {QUEST_GIVER.LINK} will send your reward as soon as possible.[if:convo_calm_friendly][ib:demure]"/>
     <string id="vKwndBbe" text="Is there a way to prevent this?"/>
@@ -4371,7 +4371,7 @@
     <string id="W2vV5jzj" text="I'll go back to my family. I will remember your help..."/>
     <string id="w3GIUD3u" text="allowing the ruler to collect special tariffs"/>
     <string id="w3rcCibp" text="Then I will enter the tournament and reach round {ROUND_COUNT} my lady."/>
-    <string id="w3sfcpoa" text="{RULER.NAME} has decided to give {SETTLEMENT} to a new clan despite the opposition of {?RULER.GENDER}her{?}his{\?} council"/>
+    <string id="w3sfcpoa" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} передати {.S}{SETTLEMENT}{.v_zna} новому клану, не зважаючи на заперечення своєї ради."/>
     <string id="W3xUQxAa" text="encouraging lords to have large private armies"/>
     <string id="w4BzNJYl" text="Шанс виживання пораненого +{a0}%"/>
     <string id="w4yxgY3F" text="Greetings. If you have any prisoners, I will be happy to buy them from you."/>
@@ -4593,7 +4593,7 @@
     <string id="Xl5JTBJE" text="Leave the village, telling them you've collected enough."/>
     <string id="xlagNKZ2" text="Thank you. With their help, we should be able to make what we need.[if:convo_astonished]"/>
     <string id="Xlb7Xxyl" text="{CURRENT_LIEGE.LINK} stands for what I believe in."/>
-    <string id="XlbDnuJx" text="Approach the gates and hail the guard."/>
+    <string id="XlbDnuJx" text="Наблизитися до воріт і погукати вартових."/>
     <string id="xlddWniu" text="{VALUE}% шкоди від метальної зброї завданої воїнами вашого підрозділу."/>
     <string id="xlFEUjhk" text="Only my loyal vassals can own lands and castles in my realm. A mercenary can not be trusted with such a responsibility. However, after serving for some time, you can swear homage to me and become my vassal. Then you will be rewarded with a fief."/>
     <string id="xlm8oYhM" text="Your men reported that some of the goods were stolen from the baggage train."/>
@@ -4719,7 +4719,7 @@
     <string id="YBEB7GLa" text="All the borrowed troops in your party are gone. You are unable to return any of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. {newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, I understand that all my men are dead. I asked you to try and keep them alive. I do not know what to say to their kinfolk. This is a breach of my trust.”"/>
     <string id="YbGu9rSH" text="This character is already the governor of {SETTLEMENT_NAME}"/>
     <string id="YbioVwyr" text="{VALUE}% надходження від мит в підконтрольному поселенні."/>
-    <string id="yBL3TzXw" text="{RULER.NAME} chose not to expel the {CLAN} clan from the {KINGDOM} with the support of {?RULER.GENDER}her{?}his{\?} council."/>
+    <string id="yBL3TzXw" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} не виганяти клан {CLAN} з {.S}{KINGDOM}{.v_rod} за повної підтримки своєї ради."/>
     <string id="YBmzuIbm" text="{VALUE} до відносин з випадковою відомою особою вашого королівства при перемозі над ворожим лордом."/>
     <string id="YBqmnNGv" text="{NEWLINE}+{VALUE} золота"/>
     <string id="YbsVaZkb" text="Yes. I have brought your grain and livestock as you requested."/>
@@ -4954,7 +4954,7 @@
     <string id="ZnZAPDMo" text="So be it. You may ply your wit on the carrion-fowl.[if:idle_angry][ib:warrior]"/>
     <string id="zo13Dkoh" text="Crushfinger {FIRSTNAME}"/>
     <string id="zo1shYCL" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}her{?}his{\?} men need a special dagger that should be light and small enough to hide from the city guards. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to forge {REQUESTED_AMOUNT} daggers at the smith of {QUEST_SETTLEMENT}. {?QUEST_GIVER.GENDER}She{?}He{\?} guaranteed to pay at least {REWARD_PER_ITEM} denars for each dagger and he is ready to pay extra depending on the quality of the weapons."/>
-    <string id="Zo65bOpH" text="{RULER.NAME} has decided to give {SETTLEMENT} to a new clan with the support of with {?RULER.GENDER}her{?}his{\?} council."/>
+    <string id="Zo65bOpH" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} передати {.S}{SETTLEMENT}{.v_zna} новому клану за повної підтримки цього рішення з боку своєї ради."/>
     <string id="ZOEamqUd" text="Kingdom of {NAME}"/>
     <string id="Zoes3ojA" text="{?CHILD.GENDER}Her{?}His{\?} tutors continue to remark on {CHILD.NAME}'s progress, commending {?CHILD.GENDER}her{?}his{\?} {ATR}."/>
     <string id="ZOkUKXV2" text="your service"/>
