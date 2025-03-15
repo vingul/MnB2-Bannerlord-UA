@@ -692,7 +692,7 @@
     <string id="G4XXubLg" text="{.f}еміра{.R_n10_ko_p1}"/>
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!"/>
     <string id="g6J4Oe6z" text="Clan name needs to be between {MIN} - {MAX} characters."/>
-    <string id="g7zo28KR" text="You have encountered {PARTY}. They have no chance against your overwhelming power, and they surrender."/>
+    <string id="g7zo28KR" text="Ви зіткнулися з {._}{PARTY}{.v_oru}. У них немає шансів проти вашої переважаючої сили і вони здаються."/>
     <string id="g8nrakuu" text="Melee Weapons I"/>
     <string id="G95mB3b3" text="Can't access character window right now!"/>
     <string id="gA5fByM2" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are trying to retake {#IS_LEFT}{#}right wall{#}walls on multiple sides{\#}{?IS_MIDDLE}middle wall{?}{\?}{?IS_RIGHT}left wall{?}{\?}."/>
@@ -783,7 +783,7 @@
     <string id="hourabbr" text="h"/>
     <string id="HP9wMk1T" text="Can't access party screen right now!"/>
     <string id="HQgSPtK6" text="Are you sure you want to exit multiplayer?"/>
-    <string id="hqIIEur1" text="You have encountered {ARMY}."/>
+    <string id="hqIIEur1" text="Ви зіткнулись з {._}{ARMY}{.v_oru}."/>
     <string id="hroWCoqV" text="Support for enacting"/>
     <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are waiting for other siege machines to arrive."/>
     <string id="HuCClZqT" text="Платня"/>
@@ -1442,7 +1442,7 @@
     <string id="tQDbRfMs" text="We were separated in the heat of battle"/>
     <string id="tqSODeKW" text="You've killed yourself!"/>
     <string id="troopclassname" text="{FORMATION_CLASS}"/>
-    <string id="trRLa9pi" text="You have encountered {PARTY}. Fighting them will cause a war with the {KINGDOM}."/>
+    <string id="trRLa9pi" text="Ви зіткнулися з {._}{PARTY}{.v_oru}. Битва з ним призведе до війни з {.S}{KINGDOM}{.v_oru}."/>
     <string id="tSbH6mTJ" text="Can't Use With Shields"/>
     <string id="Tsn6bCft" text="Великодушний"/>
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][if:convo_bared_teeth]"/>
@@ -1501,7 +1501,7 @@
     <string id="uvIL0tP9" text="Seeing Range"/>
     <string id="uwPByaQg" text="Begin Assault"/>
     <string id="UX7reJ3K" text="We must rush to defend our siege machines lest the enemy destroy them."/>
-    <string id="UxD6lPXa" text="You have gained {INFLUENCE} influence. New influence is {NEW_INFLUENCE}."/>
+    <string id="UxD6lPXa" text="Ви отримали {INFLUENCE} впливу. Тепер у вас {NEW_INFLUENCE} впливу."/>
     <string id="UxyIkWah" text="Mercenaries cannot annex settlements."/>
     <string id="uYFd4meY" text="Завдання дав"/>
     <string id="Uzsnek6O" text="Auto Recruitment"/>
