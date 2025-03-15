@@ -502,7 +502,7 @@
     <string id="cyPGadJ6" text="Auto-Deploy"/>
     <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]"/>
     <string id="CZqZGAVB" text="Barter Offer is rejected!"/>
-    <string id="D2KdSGGJ" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside. Usually when you approach an enemy city the roads are deserted. This time, however, you pass some onlookers, and even hear the occasional cheer. You suspect that few among the population are loyal to the {FACTION_INFORMAL_NAME}, and that the militia is unlikely to take up arms in the city's defense."/>
+    <string id="D2KdSGGJ" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Вам заборонили проїзд всередину. Зазвичай, коли ви наближаєтесь до ворожого міста, дороги безлюдні. Однак цього разу ви проїжджаєте повз деяких роззяв і навіть чуєте поодинокі радісні вигуки. Ви підозрюєте, що мало хто з населення підтримує {.S}{FACTION_INFORMAL_NAME}{.v_rod}, і що місцеві ополченці навряд чи візьмуться за зброю для захисту міста."/>
     <string id="d4n8AuUh" text="Friendly troops are fleeing. You've lost the battle."/>
     <string id="d4OPyxom" text="Warehouse capacity exceeded."/>
     <string id="D5QlXOV0" text="Critical Fail and Fail Whole Persuasion Chance"/>
@@ -634,7 +634,7 @@
     <string id="f6gSyvnC" text="Стріляйте у ворогів з лука. Виконуйте складні постріли з великої відстані."/>
     <string id="f6pjlKdz" text="Вчора"/>
     <string id="f7t4saJu" text="Ціна"/>
-    <string id="F8g1TzoX" text="You are outside {SETTLEMENT_NAME}. You see the banner of {LORD.LINK} flying over the castle gate."/>
+    <string id="F8g1TzoX" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ви бачите стяг {.S}{LORD.LINK}{.v_rod}, що майорить над воротами замку."/>
     <string id="Fa16r8MN" text="Execute Prisoner"/>
     <string id="fAEvWw8z" text="The defenders have pulled back and are mounting a last stand inside the keep."/>
     <string id="fApjg2ae" text="the Aserai"/>
@@ -701,7 +701,7 @@
     <string id="GAzaM1RC" text="Can be slaughtered for meat and hide"/>
     <string id="GbbGlcMZ" text="Pawns can move to any tile in a vertical or horizontal direction, but they can never jump over other pawns.{newline}Pawns can not move on or over the center tile. Once the king leaves this tile, he can also no longer cross it."/>
     <string id="gCaT2BTu" text="{PRISONER.NAME} {?PRISONER.GENDER}була звільнена{?}був звільнений{\?} з полону згідно з мирним договором."/>
-    <string id="gdraqMso" text="You are outside of {SETTLEMENT_NAME}. You are not allowed inside."/>
+    <string id="gdraqMso" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Вам заборонили проїзд всередину."/>
     <string id="GDugjWao" text="Here is {MONEY}{GOLD_ICON}. Just take it and let us go."/>
     <string id="gE7QFy6y" text="{PRISONER.NAME} {?PRISONER.GENDER}втекла{?}втік{\?} з полону."/>
     <string id="geJQxzgB" text="Провалено завдання: {QUEST_TITLE}"/>
@@ -937,7 +937,7 @@
     <string id="KkwLUO3o" text="{.m}шостий{.R_adj}"/>
     <string id="klZnvb15" text="Персонаж"/>
     <string id="kM1Y8XT0" text="You will not be dissapointed {?PLAYER.GENDER}madam{?}sir{\?}. You will not find better warriors in all Calradia.[ib:convo_approving]"/>
-    <string id="kMAD20Ny" text="You are outside of {SETTLEMENT_NAME}. You cannot enter because the castle belongs to the enemy. Usually when you approach an enemy city the roads are deserted. This time, however, you pass some onlookers, and even hear the occasional cheer. You suspect that few among the population are loyal to the {FACTION_INFORMAL_NAME}, and that the militia is unlikely to take up arms in the castle's defense."/>
+    <string id="kMAD20Ny" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ви не можете увійти, оскільки замок належить ворогу. Зазвичай, коли ви наближаєтесь до ворожого міста, дороги безлюдні. Однак цього разу ви зустрічаєте роззяв і навіть чуєте поодинокі вітальні вигуки. Ви підозрюєте, що мало хто з населення підтримує {.S}{FACTION_INFORMAL_NAME}{.v_rod}, і що місцеві ополченці навряд чи візьмуться за зброю, щоб захистити замок."/>
     <string id="KOwCdwEU" text="mother"/>
     <string id="KQQaoouG" text="(Finished)"/>
     <string id="kRKYHQ6V" text="When a stack lands exactly on its home-tile, all pawns of the player who controls the stack are returned to that player's hand, and can be re-used. The pawns belonging to the other player are eliminated from the game."/>
@@ -1529,7 +1529,7 @@
     <string id="vIpFgbU6" text="Light Armor"/>
     <string id="VJNJsdif" text="{COMPANION.NAME} {?COMPANION.GENDER}приєдналася{?}приєднався{\?} до вашого загону."/>
     <string id="vLU6nNwp" text="You bet {BET_AMOUNT} on {FIGHTER_NAME} and {?FIGHTER_GENDER}she{?}he{\?} won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
-    <string id="vn7A8aXV" text="You are outside {SETTLEMENT_NAME}. Your banner flies over the castle gate."/>
+    <string id="vn7A8aXV" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ваш стяг майорить над воротами замку."/>
     <string id="vnmy8Bjl" text="Загальні витрати "/>
     <string id="vo867CHX" text="Виконані завдання за останній рік"/>
     <string id="VOYhAyJh" text="Натисніть '{MODIFIER_KEY}' + '{CLICK_KEY}', щоб слідувати."/>
@@ -1736,7 +1736,7 @@
     <string id="zpaLDTI4" text="Pay, and you may pass."/>
     <string id="ZPaw3WuO" text="Вландійці - нащадки шукачів пригод із заходу, які століттями жили під владою Імперії, поки не створили власне незалежне королівство. Із занепадом імперської влади вони перетворилися на добре організоване феодальне суспільство, кероване войовничими шляхетними лордами, які вважають за краще битися на конях зі списами і піками в руках."/>
     <string id="zqihwKAs" text="&lt;b&gt;Ballista&lt;/b&gt;{NEWLINE}Shoots bolts at deadly effect. Effective against soldiers."/>
-    <string id="ZqWOb1jM" text="You are outside the town of {SETTLEMENT_NAME}. You cannot enter because you are wanted by the {FACTION_TERM}."/>
+    <string id="ZqWOb1jM" text="Ви перебуваєте за межами {SETTLEMENT_NAME}{.v_rod}. Ви не можете увійти, оскільки перебуваєте у розшуку в {.S}{FACTION_TERM}{.v_rod}."/>
     <string id="ZR2bAa1p" text="Light Cavalry"/>
     <string id="zruLFJDG" text="Defending settlements has a higher weight in decisions. The party will also pursue enemies for a shorter distance."/>
     <string id="ztP8UKb8" text="Choose Infantry"/>
