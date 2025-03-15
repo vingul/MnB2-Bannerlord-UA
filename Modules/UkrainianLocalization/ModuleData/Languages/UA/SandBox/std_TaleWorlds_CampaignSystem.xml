@@ -1061,7 +1061,7 @@
     <string id="b6Spbd9O" text="{VICTIM.LINK} has been executed by {KILLER.LINK}."/>
     <string id="b6W74uyR" text="Тріски"/>
     <string id="b6Zc1yre" text="I don't think you can help me. You'd need a bit of influence..."/>
-    <string id="b7APCGY2" text="Talk to other members"/>
+    <string id="b7APCGY2" text="Поговорити з кимось іншим"/>
     <string id="B7HwvV6L" text="Повноцінний відпочинок"/>
     <string id="B7JVLc4u" text="Choose a Tutor"/>
     <string id="B7rEq40B" text="{LORD_INTRODUCTION_STRING} {TOWN_INFO_STRING}"/>
@@ -1112,7 +1112,7 @@
     <string id="bdWc1VEl" text="You've lost track of the deserter party."/>
     <string id="bdYtcgyB" text="never back down from a challenge."/>
     <string id="bdzt4TcN" text="Впевнена хода"/>
-    <string id="bdzZUVxf" text="Your clan tier is not high enough to request a meeting."/>
+    <string id="bdzZUVxf" text="Ваш рівень клану недостатньо високий, щоб просити про зустріч."/>
     <string id="bEab8stb" text="Okay. I'm waiting for your good news.[if:convo_undecided_open]"/>
     <string id="bEak0k5N" text="{TARGET_SETTLEMENT} is taken. You did not participate in this battle. Your agreement with {QUEST_GIVER.LINK} is moot."/>
     <string id="BeD9fahY" text="A pleasure to have met you."/>
@@ -3012,7 +3012,7 @@
     <string id="N4eLGduQ" text="Delivered Prisoners ({TOTAL_REWARD}{GOLD_ICON})"/>
     <string id="n4I3pWOn" text="As the ruler, you must decide if peace will be made with the {KINGDOM_NAME} by paying {TRIBUTE_PERCENTAGE} percent of the kingdom's income as tribute."/>
     <string id="N4p2GCsG" text="I'll assign one of my companions and {NEEDED_MEN_COUNT} of my men to protect your caravan for {RETURN_DAYS} days."/>
-    <string id="N4Qa0WsT" text="Join army"/>
+    <string id="N4Qa0WsT" text="Приєднатися до армії"/>
     <string id="n5aT1Y7s" text="Майстер планування"/>
     <string id="n5BGNLrc" text="That sounds good. But I can't afford any more men right now."/>
     <string id="N5jFSdGR" text="{VALUE}% штрафу за перевантаження."/>
@@ -3549,7 +3549,7 @@
     <string id="qPfJpwGa" text="You have persuaded the poachers to leave the district."/>
     <string id="qPJJnxM1" text="Успішне виконання замовлень на виготовлення від відомих людей покращує ваші відносини з ними на {VALUE}."/>
     <string id="qPpN2wW8" text="{VALUE}% штрафу до швидкості через перевантаження."/>
-    <string id="QpQQJjD6" text="The lord of this castle has forbidden you from coming inside these walls, and the guard sergeant informs you that his men will fire if you attempt to come any closer."/>
+    <string id="QpQQJjD6" text="Лорд цього замку заборонив вам заходити всередину і сержант вартових, виконуючи цей наказ, повідомив, що його люди будуть стріляти по вас, якщо ви спробуєте підійти ближче."/>
     <string id="QPv1b7f8" text="I haven't had the time yet."/>
     <string id="QqKNxmeF" text="Власник торгового двору"/>
     <string id="QQtJobYP" text="We need time to recover from the hardships of war."/>
@@ -4047,7 +4047,7 @@
     <string id="TyjDHQUv" text="Опір відкиданню: {a0}% від макс. здоров'я"/>
     <string id="TyultuzK" text="That's all I need to know. Thank you."/>
     <string id="TyvEmZbC" text="{CHILD.NAME} is usually the one who decides what games {?CHILD.GENDER}her{?}his{\?} friends will play, and leads them on imaginary adventures around the estate."/>
-    <string id="tYVW8iQN" text="Talk to army leader"/>
+    <string id="tYVW8iQN" text="Поговорити з лідером армії"/>
     <string id="tyzzUNN7" text="You instructed the artisan to teach your the child the basics of managing a workshop."/>
     <string id="tza4micZ" text="one-handed axes"/>
     <string id="tzBybYcf" text="I am interested. Who is this {?TARGET_HERO.GENDER}woman{?}man{\?}?"/>
@@ -4252,7 +4252,7 @@
     <string id="vDNbHDfq" text="Кремезний скакун"/>
     <string id="vEHaOSIT" text="a mug of sour beer"/>
     <string id="vEsmC6M6" text="Is there any way we could not be enemies?"/>
-    <string id="veWOovVv" text="Continue..."/>
+    <string id="veWOovVv" text="Продовжити..."/>
     <string id="VFO2aQ4l" text="You don't have enough men."/>
     <string id="VFO7rMzK" text="Return Days"/>
     <string id="VFVqjZwY" text="Your troops sweep through the {?IS_CITY}city{?}fortress{\?}, taking whatever loot they like and setting fire to the rest."/>
@@ -4844,7 +4844,7 @@
     <string id="yY5iDvAb" text="Прудконогий"/>
     <string id="YYl1W2jU" text="Forester"/>
     <string id="yym5kCG5" text="After a particularly hard winter your tenants began to murmur about rising up and seizing your granaries. {CHILD.NAME} convinced them to be patient and wait for relief."/>
-    <string id="yYTotiqW" text="Talk to..."/>
+    <string id="yYTotiqW" text="Поговорити з..."/>
     <string id="YYYBGdh5" text="{FIRSTNAME} of the Lamp"/>
     <string id="YYyoYwH2" text="{FIRSTNAME} of the Pasture"/>
     <string id="yyz111nn" text="Охоронці кажуть, що вони не можуть нікого просто так впускати."/>
