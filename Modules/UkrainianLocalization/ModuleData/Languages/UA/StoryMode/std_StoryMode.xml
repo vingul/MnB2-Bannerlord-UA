@@ -10,7 +10,7 @@
     <string id="0P4HqZiB" text="Is that true?[ib:normal][if:convo_shocked]"/>
     <string id="0pilmavQ" text="How can I create my own kingdom?"/>
     <string id="0wQlpbtL" text="In order for the Empire to go into its final decline, there should be fewer than {NUMBER} imperial-owned settlements. If this happens, another kingdom can become the dominant power in Calradia."/>
-    <string id="0yxEvgGf" text="It was a disaster for him - he died in it - but the victors didn't fare much better."/>
+    <string id="0yxEvgGf" text="Для нього це була справжня катастрофа — він загинув у цій битві. Але й переможцям теж добряче дісталося."/>
     <string id="1CLNFbzR" text="Good. Then I will tell you what I know. I heard about one other piece.[ib:normal2][if:convo_calm_friendly]"/>
     <string id="1GgTNRNl" text="You can make your own claim to the rulership of the Empire and try to win the civil war, or support an existing claimant...[if:convo_normal]"/>
     <string id="1LrHV647" text="Conspiracy Strength"/>
@@ -63,7 +63,7 @@
     <string id="6iytd81P" text="You are defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="6LQUuQhV" text="Thank you for your precious help."/>
     <string id="6qgXAcZB" text="Неретцес, почувши, що ми сумніваємося, прислав нам послання, в якому назвав нас боягузами та зрадниками. А так говорити з вландійською знаттю ніхто не має права. Неретцес мав би це розуміти. Ми приєдналися до стургійців.[if:convo_undecided_closed]"/>
-    <string id="6UIa4784" text="Can you tell me anything about the battle of Pendraic?"/>
+    <string id="6UIa4784" text="Можеш що-небудь розповісти про битву під Пендраїком?"/>
     <string id="6vCHovVH" text="ви перемогли одного з грабіжників."/>
     <string id="6YhGGJ7a" text="Finally, you need a capital for your realm. It can be any settlement you own, so long as they do not speak the imperial tongue. I will not help you create another Empire."/>
     <string id="77TavbOY" text="You have completed all tutorials. You can always come back to improve your score."/>
@@ -250,7 +250,7 @@
     <string id="HDBkwjgf" text="{NOBLE_ANSWER}"/>
     <string id="HddJT1Ve" text="I wasn't there. I know {HERO.LINK} has some thoughts about it."/>
     <string id="heoCaRIr" text="Ні... Більше ніяких розмов. Убий мене або я вб'ю тебе, ось як це все закінчиться.[ib:warrior][if:convo_bared_teeth]"/>
-    <string id="hFYG3lXw" text="Well, that's what some people call the great Battle of Pendraic in the year 1077.[ib:normal][if:convo_normal]"/>
+    <string id="hFYG3lXw" text="Ну, так дехто називає велику битву під Пендраїком у 1077 році.[ib:normal][if:convo_normal]"/>
     <string id="hGPdLssq" text="The ruler of the {PLAYER_SUPPORTED_FACTION} has accepted the peace offered by the war-ravaged {FACTION}."/>
     <string id="HhFHRs7N" text="Create {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
     <string id="HhuBPfJn" text="Підійти до тренера."/>
@@ -284,7 +284,7 @@
     <string id="J4qetbZb" text="Однак я знайшов цей дивний на вигляд металевий шматок. Він не виглядає надто цінним, але це може бути артефакт, про який говорив {TACTEOS.NAME}. Можливо, ми зможемо продати його одному зі знатних кланів за хорошу ціну.[if:convo_astonished]"/>
     <string id="j9f9Ts7i" text="У мене є краща ідея. У нас буде більше шансів, якщо ми зараз розділимося. Я візьму {RADAGOS.NAME}{.v_zna} і піду на ринок рабів та пошукаю спосіб звільнити дітей. Однак ми повинні бути обережними, щоб не наражати їхні життя на небезпеку, і, можливо, найкращим варіантом було б просто купити їх. Але для цього наші гаманці повинні бути повними.[if:convo_normal]"/>
     <string id="jg3T5AyE" text="Як і більшість сімей у Кальрадії, ваше життя перевернула війна. Ваш дім був спустошений арміями, чий шлях проліг неподалік ваших земель. Зрештою, ви продали все і вирушили з батьком і матір'ю, старшим братом та молодшим братом і сестрою до нового міста, яке, як ви чули, було безпечнішим. Але ви не доїхали: на заїзд, в якому ви зупинилися, напали розбійники. Ваших батьків вбили, молодших брата і сестру схопили, але ви з братом вижили, тому що..."/>
-    <string id="jGhWOnjx" text="Yes. It was madness. The greatest blow struck against the Empire in a lifetime, and we squandered it squabbling among ourselves about a flag.[if:convo_stern][ib:closed2]"/>
+    <string id="jGhWOnjx" text="Так. Це було якесь безглуздя. Імперії було завдано найсильнішого удару за весь час її існування, а ми все змарнували, пересварившись через якийсь прапор.[if:convo_stern][ib:closed2]"/>
     <string id="JhEzD45J" text="Купити {._}{GRAIN}"/>
     <string id="JJo0i8an" text="Пошукайте навколо села і знайдіть загін, що захопив лікаря, про якого вам розповів староста."/>
     <string id="Jn4r0GjD" text="So, can you help me find a buyer for it?"/>
@@ -566,7 +566,7 @@
     <string id="ZDEcFXIm" text="You may have one piece of the banner, but it's of little use in itself. You'll have to find the other parts. But once you can bring together the pieces, you'll have something of tremendous value.[if:convo_undecided_open]"/>
     <string id="ZhZ7MCeh" text="Що ж. Я визнаю свою поразку. Якщо вже я став твоїм полоненим, то дозволь мені представитися. Я Радагос.[ib:weary2][if:convo_uncomfortable_voice]"/>
     <string id="ZKdBlAmp" text="An arms caravan to resupply the conspirators will be soon on its way.{newline}{MENTOR.LINK}'s message:{newline}&quot;Our spies have learned about an arms caravan that is attempting to bring the conspirators high quality weapons and armor. We know that it will set out on its route from {QUEST_FROM_SETTLEMENT_NAME} to {QUEST_TO_SETTLEMENT_NAME} after {SPAWN_DAYS} days. We will find out and notify you about the new routes that it takes as it progresses.&quot;"/>
-    <string id="ZkSthA9d" text="They say Olek the Old had pried the dragon banner out of the Emperor's dead hands. But then Prince Raganvad, who had not so much as drawn his sword in the battle, claimed it as a trophy. Olek, who was covered in his enemies' blood, laughed at Raganvad and told him to go find his own toy to play with. Raganvad struck him, so Olek broke the banner staff over his knee and threw it in his prince's face."/>
+    <string id="ZkSthA9d" text="Кажуть, що Олек Cтарий вирвав знамено з драконом з рук мертвого імператора. Але тут принц Раґанвад, який жодного разу навіть не витягнув меча в битві, зажадав його собі як трофей. Олек, який був весь у крові своїх ворогів, посміявся з Раґанвада і сказав йому, щоб той пошукав собі іншу іграшку для забавки. Раґанвад вдарив його, тоді Олек переламав через коліно древко прапора і жбурнув його в обличчя принца."/>
     <string id="zLRlmitp" text="Розібратися з «Божевіллям Неретцеса»"/>
     <string id="ZpcV9MZE" text="Ви врятували своїх братів і сестру та вирішив стратити {RADAGOS.LINK}{.v_rod}, тому що він став причиною смерті ваших батьків."/>
     <string id="Zq9qXcCk" text="Вас переміг загін {RADAGOS.NAME}{.v_rod}, але ваш брат врятував вас. Однак, схоже, вони нікуди не збираються йти, тож ви повинні атакувати знову, як тільки будете готові. У вашому загоні повинно бути щонайменше {NUMBER} людей. Якщо їх менше, поверніться до {.S}{QUEST_VILLAGE}{.v_rod} і найміть ще воїнів."/>
