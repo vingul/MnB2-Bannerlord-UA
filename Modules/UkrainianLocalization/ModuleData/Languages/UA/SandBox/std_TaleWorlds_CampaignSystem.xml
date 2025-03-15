@@ -1287,7 +1287,7 @@
     <string id="bZQQPtJr" text="{TARGET_SETTLEMENT} has a problem with smugglers. We depend on tariffs for income. People complain, but if we don't collect, then there's no money to keep up the walls and pay the garrison, and believe me if an enemy army came around and pillaged the place because it wasn't defended properly, they'd complain about that too."/>
     <string id="BZwKEIm5" text="{ISSUE_GIVER.LINK} wants you to sell {?ISSUE_GIVER.GENDER}her{?}his{\?} goods for a price above the global average."/>
     <string id="C06TxxnM" text="I'll bring you at least {WANTED_PRISONER_AMOUNT} prisoners as soon as possible."/>
-    <string id="C2KeQd0a" text="{ENCOUNTER_LEADER.LINK} thanks you for helping in the siege of {SETTLEMENT}. You were able to loot your fallen foes, but you do not participate in the sack of the {?IS_TOWN}town{?}castle{\?} as you are not part of the army that took it."/>
+    <string id="C2KeQd0a" text="{ENCOUNTER_LEADER.LINK} дякує вам за допомогу в облозі {.S}{SETTLEMENT}{.v_rod}. Ви змогли забрати собі майно полеглих ворогів, але ви не берете участі в розграбуванні {?IS_TOWN}міста{?}замку{\?}, оскільки не входите до складу армії, яка його захопила."/>
     <string id="c2Yrci3B" text="I believe that we need a strong ruler in this realm. I don't want to find myself at odds with you."/>
     <string id="C2ZGNwwh" text="{COMPANION.NAME} {COMPANION_SCALED_PARAMETERS}"/>
     <string id="C3yPNCDt" text="a servant of the Heavens"/>
@@ -4995,7 +4995,7 @@
     <string id="ZUYOXMFo" text="{VALUE}% шкоди, яку отримують воїни вашого підрозділу від дальніх атак."/>
     <string id="zUzfRYzf" text="{VALUE}% точності ваших облогових знарядь у підконтрольному поселенні під час облогових бомбардувань."/>
     <string id="zVEvl8WQ" text="{VALUE}% менше шкоди воїнам класу 3 і вище, коли ваші війська відправляються у бій."/>
-    <string id="ZVsJf5Ff" text="Join the continuing siege."/>
+    <string id="ZVsJf5Ff" text="Приєднатися до подальшої облоги."/>
     <string id="ZvZN6UkU" text="Trash Item"/>
     <string id="zw7a9eIt" text="{ISSUE_GIVER.NAME} wants you to take {?ISSUE_GIVER.GENDER}her{?}his{\?} mercenaries and transfer them to another lord before they cause any trouble."/>
     <string id="Zw95lDI3" text="Hmm.. That might not work out."/>
