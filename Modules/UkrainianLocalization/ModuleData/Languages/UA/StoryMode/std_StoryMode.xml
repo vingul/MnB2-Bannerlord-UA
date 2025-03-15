@@ -83,7 +83,7 @@
     <string id="9aYCfBVz" text="The city was in a state of panic after hearing rumors of what happened. Arenicos kept things from descending into chaos. When it came time for the Senate to choose the next Emperor, there was no question that it should be him. I loved him before as a man, but that day learned to love him as something more: what a gift he was to the people of Calradia![ib:demure2]"/>
     <string id="9E6faNBg" text="I will need to embroider a proper legend about you. Divine omens at your birth, that kind of thing. For now, we can call you 'Bannerlord,' who brings down the wrath of Heaven on the impudent barbarians.[ib:confident2][if:convo_relaxed_happy]"/>
     <string id="9kGnzjrU" text="Timer Started."/>
-    <string id="9sAGLK6R" text="Yes. I was tasked by Derthert with command of the crossbowmen.[if:convo_grave][ib:confident3]"/>
+    <string id="9sAGLK6R" text="Так. Дертерт доручив мені командувати арбалетниками.[if:convo_grave][ib:confident3]"/>
     <string id="9tpTkKdY" text="Tell me which path you choose when you've made progress."/>
     <string id="9VxUSDQ7" text="Мене звати Тактеос. За фахом я лікар. Я займався, свого роду, пошуками, але тепер я розумію, що не зовсім створений для таких речей.[ib:nervous][if:convo_pondering]"/>
     <string id="9xaEPyNV" text="Лігво {RADAGOS.NAME}{.v_rod}"/>
@@ -121,7 +121,7 @@
     <string id="bHveKDUI" text="So have you made up your mind now?[ib:closed][if:convo_nonchalant]"/>
     <string id="bJjAqCxk" text="Я втік - один з його людей, свідоміший за інших, розрізав мої пута, коли інші спали — але я не можу залишити зрадника в живих. Тому я вирішив знайти вас і запропонувати угоду.[if:convo_focused_voice][ib:hip]"/>
     <string id="bkZFbCRx" text="Ми шукаємо двох дітей, яких захопили бандити. Ви щось про них знаєте?"/>
-    <string id="BleybhsD" text="Imperial cataphracts showed up, armored head to foot and their horses too, so they just ignored our shooting and tore right through us. I was swept away in the retreat and saw no more of the battle. King Derthert had a good enough plan but the barons - Ingalther, Aldric, that lot - ignored him, as they always do."/>
+    <string id="BleybhsD" text="З'явилися імперські катафрактарії, броньовані з ніг до голови, як і їхні коні. Тому вони просто проігнорували наші постріли і промчалися просто крізь нас. Мені вдалося відступити і більше я не бачив битви. У короля Дертера був досить хороший план, але барони Інгальтер, Альдрік та інші проігнорували його, як вони завжди це роблять."/>
     <string id="bmitHhDt" text="Our dear old beloved King Aeril, a wonderful man but with a heart perhaps just a might too tender, did not wish for us to go off to war. But then he disappeared and I, his son-in-law, ascended to the kingship. The clans cried out for war! They had a hundred years of crimes against them to avenge. I, a father to my people, gave them what they wanted.[if:convo_calm_friendly]"/>
     <string id="bNcGO33Q" text="Ми думаємо, що вони пішли на північ. Гадаю, тут є кілька людей, які залюбки приєднаються до вас, якщо ви заплатите їм за спорядження.[if:convo_thinking]"/>
     <string id="bNqLQKQS" text="У вас закінчилася їжа. На північ звідси є село {VILLAGE_NAME}, де ви зможете купити провізію і знайти допомогу."/>
@@ -173,7 +173,7 @@
     <string id="dPb2Vph3" text="My informants will tell me once you pledged your support...[ib:normal2][if:convo_nonchalant]"/>
     <string id="DQzEgUzu" text="Ви поговорили з {HERO.LINK}{.v_oru} і отримали цінну інформацію, яка може допомогти вам розібратися в артефакті."/>
     <string id="Dr63pCHt" text="{MENTOR.LINK} has sent you a message about bandit attacks near {TARGET_SETTLEMENT}, and advises you to go there and eliminate them all before their actions turn the locals against your movement. "/>
-    <string id="duD8SJDb" text="Our knights spotted a mass of Aserai light infantry spread across a valley, and charged them. They weren't ready to meet the onslaught, and were routed. But then a bunch of Khuzaits showed up and kept their distance, giving the knights a hard time, shooting their horses out from under them. That's when we showed up."/>
+    <string id="duD8SJDb" text="Наші лицарі помітили велику кількість легкої піхоти асераїв, розкиданої по долині, і атакували їх. Вони не були готові відбити атаку і були розгромлені. Але тут з'явився загін хузаїтів, який почав здалеку обстрілювати лицарів, вбивши чимало їхніх коней. І тоді з'явилися ми."/>
     <string id="DuUhVWaV" text="Дозволь розповісти трохи про себе... Я була довіреною особою старого імператора Неретцеса. Оскільки я жінка, то офіційно я не була головою його шпигунів, але все ж таки виконувала цю роль. Неретцес мені подобався, і я була дуже вдячна йому за довіру, але гарним імператором він не був. Занадто впертий і принциповий. Напевно, мені варто було його отруїти.[ib:demure2][if:convo_empathic_voice]"/>
     <string id="dWVsS3D8" text="The bravest and most valiant son of our clan, Nimr, led off a large group of Aserai warriors to fight for the Empire, for gold and glory. I went with them. When we saw the Battanian archers come down from the hills, Nimr was ready. He gave the word: we held our shields over our heads as the arrows rained down, then threw our javelins and charged. We cut them down."/>
     <string id="DyE3luNM" text="You need to have at least {NUMBER} member in your party to deal with the raider party. Go back to village to recruit more troops."/>
@@ -248,7 +248,7 @@
     <string id="hadftxlO" text="We have strayed too far from our path. I'll take the lead for some time. You follow me."/>
     <string id="HCA9xOOo" text="You should be ruling a kingdom of non-imperial culture."/>
     <string id="HDBkwjgf" text="{NOBLE_ANSWER}"/>
-    <string id="HddJT1Ve" text="I wasn't there. I know {HERO.LINK} has some thoughts about it."/>
+    <string id="HddJT1Ve" text="Мене там не було. Але я знаю, що {HERO.LINK} має певні думки з цього приводу."/>
     <string id="heoCaRIr" text="Ні... Більше ніяких розмов. Убий мене або я вб'ю тебе, ось як це все закінчиться.[ib:warrior][if:convo_bared_teeth]"/>
     <string id="hFYG3lXw" text="Ну, так дехто називає велику битву під Пендраїком у 1077 році.[ib:normal][if:convo_normal]"/>
     <string id="hGPdLssq" text="The ruler of the {PLAYER_SUPPORTED_FACTION} has accepted the peace offered by the war-ravaged {FACTION}."/>
@@ -274,7 +274,7 @@
     <string id="IL4FcHXv" text="You've pledged your allegiance to the {KINGDOM_NAME}!"/>
     <string id="ImLQNYWC" text="Гаразд. Нехай буде дуель."/>
     <string id="IPP6MKfy" text="{MENTOR.LINK} notified you about a weapons caravan that will supply conspirators with weapons and armour."/>
-    <string id="iQeMllr8" text="When it was just us fighting the horse archers, we were winning.. A man on foot can shoot as well or better than a man on horseback, all things being equal, and there were a lot more of us. So they started to go down and galloped off. The knights of course pursued, and that's when the problems started."/>
+    <string id="iQeMllr8" text="Коли ми билися з кінними лучниками, то все йшло добре — ми перемагали... Піший стрілець може стріляти не гірше, а то й краще, ніж кінний, за рівних умов, а нас тоді було набагато більше. Тож вони почали програвати і поскакали геть. Лицарі, звісно, погналися за ними, і тут почалися проблеми."/>
     <string id="iQrwsvb1" text="We had no choice but to go to war. Anyone who tells you they would have done otherwise is either a liar or a coward or both. The Sturgians attacked us, and needed to be chastised. We lost an army and a banner. But we did not lose our honor, and without honor the Empire would be finished."/>
     <string id="iR4QCTxv" text="Weaken Empire"/>
     <string id="itRoeaJf" text="Ми чули, що це ти викрав наших брата і сестру. Де вони?"/>
@@ -444,7 +444,7 @@
     <string id="sn3Eabme" text="Of course. I did not witness the battle, but my husband Arenicos spoke frequently of it.[if:convo_calm_friendly]"/>
     <string id="sSaZVD2e" text="Мій батько забрав імператорський прапор з драконом з рук мертвого Неретцеса — це відома історія —, але тоді молодший принц Раґанвад спробував забрати його собі. Мій батько переламав держак прапору через коліно і кинув йому, сказавши, щоб той шукав собі інші іграшки для забавки. Ха! Це був гарний день.[if:convo_huge_smile]"/>
     <string id="StLYbEQZ" text="Нам потрібна допомога. Якісь бандити забрали в полон наших молодших брата і сестру. Ми думаємо, що вони могли тут проїжджати."/>
-    <string id="str_continue" text="Continue..."/>
+    <string id="str_continue" text="Продовжити..."/>
     <string id="SVcr0EJM" text="Caravan is moving on to {TO_SETTLEMENT_LINK} from {FROM_SETTLEMENT_LINK}."/>
     <string id="SvYCz6z6" text="You've lost. You can restart the training by interacting weapon rack."/>
     <string id="t71lPdyb" text="How so?"/>
