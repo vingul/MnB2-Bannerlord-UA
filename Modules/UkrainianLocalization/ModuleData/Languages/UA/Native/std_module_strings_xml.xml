@@ -328,7 +328,7 @@
     <string id="AmbKQ7LT" text="Перемістити"/>
     <string id="AMhvD9om" text="Командувач армії"/>
     <string id="anHqaNK0" text="{.f}королева{.R_n10_ko_p1}"/>
-    <string id="anrHk7ea" text="{PARTY} is leading the attack on the enemy. You'll be joining {?ARMY_COMMANDER_GENDER}her{?}him{\?} with your troops."/>
+    <string id="anrHk7ea" text="{PARTY} очолює атаку на ворога. Ви приєднуєтесь до {?ARMY_COMMANDER_GENDER}неї{?}нього{\?} разом зі своїми військами."/>
     <string id="aNSAaHk9" text="Bagh Chal is a game of Sheep (white) versus Wolves (black).{newline}The wolves have four pawns that start on the four corners of the board. Every turn, one sheep is placed on the board, and one wolf makes a move or capture until all sheep have been placed on the board.{newline}After all sheep have been placed, the sheep can now also move on the board."/>
     <string id="anSH3M5W" text="{NUM1} x {NUM2}"/>
     <string id="aOvxxLZ8" text="Різноманітність їжі"/>
@@ -802,7 +802,7 @@
     <string id="i30TCtj2" text="ПАУЗА"/>
     <string id="I3Vfk5mz" text="{.m}двадцятий{.R_adj}"/>
     <string id="I42QtISB" text="Cannot kick main hero from clan."/>
-    <string id="I4BbOX46" text="You are in {ARMY_LEADER}{.o} army."/>
+    <string id="I4BbOX46" text="Ви перебуваєте в армії {ARMY_LEADER}{.v_rod}."/>
     <string id="i4g81l3E" text="Відношення: {NUM}"/>
     <string id="i5ROjI8K" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року ви знайшли артефакт, про який згадував Тактеос."/>
     <string id="I6OJtaMT" text="Ніколи"/>
@@ -1178,7 +1178,7 @@
     <string id="ou9asw1a" text="Swing {SWING_DAMAGE_TYPE} Damage: "/>
     <string id="OviaJ1tA" text="Інше"/>
     <string id="oVSS2Lp5" text="Horse Equipment III"/>
-    <string id="OWCoBElc" text="You are taken captive by {PARTY_NAME}."/>
+    <string id="OWCoBElc" text="Ви потрапили в полон до {PARTY_NAME}{.v_rod}."/>
     <string id="owg6SqHF" text="{.m}емір{.R_n20_a_ke_p}"/>
     <string id="owTlJjJc" text="{.m}Шурин{.R_n20_a_ke}"/>
     <string id="OxiaKT0G" text="Sturgian"/>
@@ -1645,7 +1645,7 @@
     <string id="xZxbFuDI" text="The jackals will feed well tonight, then."/>
     <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a defensive ring around ranged troops."/>
     <string id="y1uH6Og1" text="Horse Equipment IV"/>
-    <string id="Y20AQIvo" text="{PRISONER.NAME} has been captured by {CAPTOR_NAME}!"/>
+    <string id="Y20AQIvo" text="{PRISONER.NAME} {?PRISONER.GENDER}була захоплена{?}був захоплений{\?} в полон {.S}{CAPTOR_NAME}{.v_oru}!"/>
     <string id="y3cP8Etv" text="Quest Canceled: {QUEST_TITLE}"/>
     <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from infantry cover."/>
     <string id="Y4fht2kI" text="Видатні постаті"/>
