@@ -969,7 +969,7 @@
     <string id="l4uTnJct" text="You need to select an outcome and how much you want to support that outcome."/>
     <string id="l57Dk2DQ" text="Dungeon Limit Exceeded ({TROOP_NUMBER} prisoners)"/>
     <string id="l6a3grfK" text="your party"/>
-    <string id="L7qKijnE" text="{ITEM_NAME}, won by {COMPANION.NAME} has been added to your inventory."/>
+    <string id="L7qKijnE" text="{ITEM_NAME}, виграний {.S}{COMPANION.NAME}{.v_oru}, додано до вашого інвентарю."/>
     <string id="L7teSXvq" text="You need to be the leader of an army to manage it"/>
     <string id="l9Vve3bD" text="{.f}Осінь{.R_n31}"/>
     <string id="lAgfGeXJ" text="Kingdom Faction"/>
