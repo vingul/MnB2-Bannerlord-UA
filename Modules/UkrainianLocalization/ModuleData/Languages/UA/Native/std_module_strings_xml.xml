@@ -804,7 +804,7 @@
     <string id="I42QtISB" text="Cannot kick main hero from clan."/>
     <string id="I4BbOX46" text="You are in {ARMY_LEADER}{.o} army."/>
     <string id="i4g81l3E" text="Відношення: {NUM}"/>
-    <string id="i5ROjI8K" text="{DAY_OF_YEAR}, {YEAR} року ви знайшли артефакт, про який згадував Тактеос."/>
+    <string id="i5ROjI8K" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року ви знайшли артефакт, про який згадував Тактеос."/>
     <string id="I6OJtaMT" text="Ніколи"/>
     <string id="I8xMpWxO" text="Сміливий"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
@@ -885,7 +885,7 @@
     <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions of the castle."/>
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}"/>
     <string id="jiKRLWD4" text="Show in encyclopedia"/>
-    <string id="jIZcOvMT" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року, {NAME} був страчений."/>
+    <string id="jIZcOvMT" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} був страчений."/>
     <string id="JkpSoFQ8" text="Casualties Inflicted"/>
     <string id="JKQjXH9M" text="двадцять {.m}сьомий{.R_adj}"/>
     <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
@@ -1296,7 +1296,7 @@
     <string id="qpmpTdla" text="Notable"/>
     <string id="qQLh6S2w" text="ОУ {CURRENTAMOUNT}/{TARGETAMOUNT}"/>
     <string id="qR0s1VvE" text="Ви чуєте деякі скарги на ціни, дефіцит і жадібних торговців, але загалом нічого особливого."/>
-    <string id="qSC0t1lY" text="On {DAY_OF_YEAR}, {YEAR}, {FIRST_HERO} married {SECOND_HERO}."/>
+    <string id="qSC0t1lY" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {FIRST_HERO} {?FIRST_HERO.GENDER}одружилась{?}одружився{\?} з {.S}{SECOND_HERO}{.v_oru}."/>
     <string id="qsh0I4Rm" text="Your opponent rolls a {DICE_ROLL}."/>
     <string id="qt7WSK15" text="{SETTLEMENT_NAME} (Raided)"/>
     <string id="QTbZPyha" text="Accompanying"/>
@@ -1311,7 +1311,7 @@
     <string id="r312jCKr" text="Propose Peace"/>
     <string id="R4eS65oX" text="Some of the angry villagers grab their tools and prepare to resist you. It looks like you'll have a fight on your hands if you continue."/>
     <string id="R5IOmwN1" text="Building Siege Camp"/>
-    <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK} married {MARRIED_TO.LINK}."/>
+    <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK} {?MARRIED_HERO.GENDER}одружилась{?}одружився{\?} з {.S}{MARRIED_TO.LINK}{.v_oru}."/>
     <string id="R7v2UD8b" text="You move a pawn."/>
     <string id="R9DiQfax" text="Battle"/>
     <string id="RaAnj4On" text="Захисники"/>
