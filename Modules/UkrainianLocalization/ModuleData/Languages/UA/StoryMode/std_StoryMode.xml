@@ -37,7 +37,7 @@
     <string id="4cw169Kb" text="third and the final"/>
     <string id="4d5SP6B6" text="{MENTOR.LINK} suggested that you should support an anti-imperial kingdom by offering them the Dragon Banner."/>
     <string id="4hdp6SK0" text="Переможи тренера!"/>
-    <string id="4IS4Lou7" text="I ran too. And any man who tells you he wouldn't, in those circumstances, is a liar. When I was sitting in the cold woods later that night, hiding with other fugitives, listening to the barbarians whoop and holler as they chopped off heads as trophies - I promise them that no Calradian soldier should again be led into battle by an emperor who knows so little of war.[if:convo_thinking][ib:hip]"/>
+    <string id="4IS4Lou7" text="Я теж втік. І кожен, хто скаже вам, що не втік би за тих обставин — брехун. Коли пізніше тієї ночі я сидів у холодному лісі, ховаючись з іншими втікачами, слухаючи, як горланять ті варвари, відрубуючи голови як трофеї, я пообіцяв їм, що жодного кальрадійського солдата більше не поведе в бій на стільки безмозглий імператор, який нічого не знає про війну.[if:convo_thinking][ib:hip]"/>
     <string id="4Oc6MEvR" text="Ah... For any son of Battania, there will be no prouder moment in his life than that day. Any true son of Battania, anyway.[if:convo_calm_friendly][ib:hip]"/>
     <string id="4olAbDTq" text="It will be a powerful tool in our hands. People will believe that the Heavens have transferred dominion over Calradia from the Empire to us.[if:convo_pondering]"/>
     <string id="4OUnPjZc" text="Саме так. Тобі доведеться знайти спосіб це зробити. Можливо, ця бронзова штука тобі в цьому допоможе.[if:convo_empathic_voice]"/>
@@ -304,7 +304,7 @@
     <string id="KH07mJ5k" text="Very well, come back when you are ready."/>
     <string id="KhL2ctsi" text="Тепер ви готові вирушати. Поговоріть ще раз зі старостою. Він сказав, що має для вас завдання."/>
     <string id="kIklPYto" text="Are you ready to leave here?"/>
-    <string id="kJwV17Jx" text="Yes. We will never forget that day... The day we learned that the old men who claimed they had the right to rule us were doddering incompetents.[if:convo_stern][ib:closed]"/>
+    <string id="kJwV17Jx" text="Так. Ми ніколи не забудемо той день... День, коли ми дізналися, що старці, які стверджували, що мають право керувати нами, виявилися брехливими нездарами.[if:convo_stern][ib:closed]"/>
     <string id="kJxPtbHo" text="At the end of the day, what have we gained? The Sturgians hate us worse than ever. The Vlandians too. The Empire, I suppose, is shattered. What can I say... I believe that wars should have a goal. But I am a minority, it seems, among our people.[ib:closed]"/>
     <string id="kqj1Wp0f" text="You have decided to keep the Dragon Banner within the kingdom you are ruling."/>
     <string id="kTaYz2mo" text="Ви поговорили з {HERO.NAME}{.v_oru}."/>
