@@ -1413,7 +1413,7 @@
     <string id="cTmiNAlI" text="From Prosperity"/>
     <string id="CTqO5MBf" text="{VALUE}% шкоди від одноручної зброї."/>
     <string id="CtsdrQ9N" text="Назва фракції не повинна містити декілька пропусків підряд"/>
-    <string id="cu2cLT5r" text="You spy though the trees what seems to be a clearing in the forest with what appears to be the outlines of a camp."/>
+    <string id="cu2cLT5r" text="Крізь дерева ви помічаєте галявину в лісі, на якій, схоже, видніються обриси табору."/>
     <string id="CU3u0c02" text="Childhood"/>
     <string id="CU9g49fo" text="Provide irrigation, increasing growth in bound villages."/>
     <string id="cUaUTwx5" text="Потрійна шкода щитам від кавалерійського списа."/>
@@ -1910,7 +1910,7 @@
     <string id="fvutqQH6" text="always hits {?CHILD.GENDER}her{?}his{\?} mark."/>
     <string id="fW0XS9JC" text="{ELEMENT_NUMBER} {ELEMENT_CHAR_NAME}"/>
     <string id="FWHvvZFq" text="&quot;This is exactly what I wanted. Here is your money, you've earned it.&quot;"/>
-    <string id="FwIgakj8" text="Help {DEFENDER}."/>
+    <string id="FwIgakj8" text="Допомогти {DEFENDER}{.v_dav}."/>
     <string id="fwQtClVo" text="I will deal with {?TARGET_HERO.GENDER}her{?}him{\?} right away! "/>
     <string id="FwtFtpwp" text="How?"/>
     <string id="FX0GjiNa" text="{VALUE}% швидкості до військових проєктів у підконтрольному поселенні."/>
@@ -1957,7 +1957,7 @@
     <string id="G9OTNRs4" text="{VALUE}% вантажопідйомності для воїнів у вашому загоні."/>
     <string id="g9qLrEb4" text="Великий інвестор"/>
     <string id="Ga5E2saO" text="Because it would be easier to work elsewhere."/>
-    <string id="gAc8SWDt" text="There {?(PRISONER_COUNT &gt; 1)}are {PRISONER_COUNT} prisoners{?}is 1 prisoner{\?} here."/>
+    <string id="gAc8SWDt" text="Тут {PRISONER_COUNT} {?(PRISONER_COUNT &gt; 1)}полонених{?}полонений{\?}."/>
     <string id="GacrZ1Jl" text="Щоденні витрати на утримання воїнів у загоні збільшуються на 5%."/>
     <string id="GAh1gNYn" text="Enemies are already engaged in battle."/>
     <string id="GARAmzFT" text="Щоб досягти успіху, необхідно навчитися рухатися швидше, працювати довше і битися запекліше, ніж будь-хто, проти кого ви виступите."/>
@@ -2078,7 +2078,7 @@
     <string id="h1GdWZjk" text="avoids chores."/>
     <string id="h2Wle7ZI" text="Well. That's a pity."/>
     <string id="H3B75sYi" text="A merchant asked you to follow a fake caravan that was sent out as a trap to destroy a particularly large and dangerous group of bandits."/>
-    <string id="h3yEHb4U" text="Help {ATTACKER}."/>
+    <string id="h3yEHb4U" text="Допомогти {ATTACKER}{.v_dav}."/>
     <string id="h3YuHSRb" text="Ви дійсно бажаєте відмовитися від облоги?"/>
     <string id="h5eTEYON" text="{RULER.NAME} has expelled the {CLAN} clan from the {KINGDOM}."/>
     <string id="h5np5kcC" text="All right, all right... We don't want any trouble here, okay? Go on.[if:convo_contemptuous]"/>
@@ -2615,7 +2615,7 @@
     <string id="km6aX5ev" text="Yeah... Go on, then."/>
     <string id="kmdxvkEV" text="{VALUE}% бойового духу для воїнів дальнього бою вашого загону на початку битви."/>
     <string id="KMmAG5bk" text="{VALUE}% споживання їжі, поки ваш загін знаходиться в облоговому таборі."/>
-    <string id="kmsNUfbA" text="Donate prisoners"/>
+    <string id="kmsNUfbA" text="Передати полонених"/>
     <string id="KN6khbSl" text="Clan Influence"/>
     <string id="kNW1qYSi" text="{HERO.NAME} is leading a party right now."/>
     <string id="knWgaYdk" text="Загострене лезо"/>
@@ -4671,7 +4671,7 @@
     <string id="xxZeGhqf" text="{MALE_LESSER_NOBLE_NAME}{.o} Revolt"/>
     <string id="Xy4brTbf" text="You don't have {BRIBE_AMOUNT} denars."/>
     <string id="XYDhkb6h" text="Royal Commissions"/>
-    <string id="xYeMbApi" text="{PARTY} has sallied out to attack you!"/>
+    <string id="xYeMbApi" text="{PARTY} вирішив влаштувати вилазку, щоб напасти на вас!"/>
     <string id="Xykn90RV" text="{VALUE}% шкоди вашій піхоті від воїнів дальнього бою, коли ваші воїни відправляються у бій."/>
     <string id="XYRZIPD8" text="guiding the caravan."/>
     <string id="xYu4yVRU" text="Hey there friend. So... You don't need to know my name, but suffice to say that we're both friends of {QUEST_GIVER.LINK}. Here's {?QUEST_GIVER.GENDER}her{?}his{\?} message for you: {DIRECTIVE}.[ib:confident][if:convo_nonchalant]"/>
