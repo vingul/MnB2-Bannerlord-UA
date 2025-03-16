@@ -4,26 +4,26 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="0Ikzzm71" text="Шеф морських нальотчиків"/>
-    <string id="0qDNS83n" text="Кочовий бандит"/>
-    <string id="9laVlEH9" text="Горець"/>
-    <string id="Bg63YFnh" text="Лідер степових бандитів"/>
-    <string id="C1Fkzdvu" text="Лідер морський нальотчиків"/>
-    <string id="C8DE6L73" text="Дезертир"/>
+    <string id="0Ikzzm71" text="{.m}Ватажок{.R_n22_a} морських грабіжників"/>
+    <string id="0qDNS83n" text="{.m}Кочовий{.R_adj} {.m}бандит{.R_n20_a}"/>
+    <string id="9laVlEH9" text="{.m}Горець{.R_n20_a}"/>
+    <string id="Bg63YFnh" text="{.m}Лідер{.R_n20_a_ke} степових бандитів"/>
+    <string id="C1Fkzdvu" text="{.m}Лідер{.R_n20_a_ke} морських грабіжників"/>
+    <string id="C8DE6L73" text="{.m}Дезертир{.R_n20_a}"/>
     <string id="C8hwcOdF" text="Кінний грабіжник"/>
     <string id="cdbSCr6G" text="Харамі"/>
-    <string id="dc2qxanZ" text="Лідер лісових бандитів"/>
-    <string id="dq2cP8h0" text="Морський нальотчик"/>
+    <string id="dc2qxanZ" text="{.m}Лідер{.R_n20_a_ke} лісових бандитів"/>
+    <string id="dq2cP8h0" text="{.m}Морський{.R_adj} {.m}грабіжник{.R_n20_a}"/>
     <string id="freebootertroop" text="Вільний мисливець"/>
     <string id="HadsURl8" text="Волоцюга"/>
     <string id="J6Yksji5" text="Кінний розбійник"/>
-    <string id="Nr8NkHXU" text="Воїн морських нальотчиків"/>
+    <string id="Nr8NkHXU" text="{.m}Воїн{.R_n20_a} морських грабіжників"/>
     <string id="P6Md9DpR" text="Дорожній розбійник"/>
-    <string id="Q2V4uQrr" text="Лідер пустельних розбійників"/>
+    <string id="Q2V4uQrr" text="{.m}Лідер{.R_n20_a_ke} пустельних розбійників"/>
     <string id="sFgODQ1q" text="{.m}Лісовий{.R_adj} {.m}розбійник{.R_n20_a}"/>
     <string id="uOAnHN47" text="Бедуїн-розбійник"/>
     <string id="ZA4bgJ5V" text="Степовий бандит"/>
-    <string id="ziOBJSzR" text="Лідер гірських бандитів"/>
+    <string id="ziOBJSzR" text="{.m}Лідер{.R_n20_a_ke} гірських бандитів"/>
     <string id="ZKdiaaFo" text="Розбійник"/>
   </strings>
 </base>
