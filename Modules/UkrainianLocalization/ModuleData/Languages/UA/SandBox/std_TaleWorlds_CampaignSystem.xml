@@ -137,7 +137,7 @@
     <string id="1NtZ4BJh" text="{QUEST_GIVER.LINK}: Thank you. My lords see the conquest of {TARGET_SETTLEMENT} was a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service. Because you didn't lead the army {?QUEST_GIVER.GENDER}She{?}He{\?} gave you {LESSER_REWARD}{GOLD_ICON} of denars."/>
     <string id="1OKEl18y" text="This is for {COMPANION.NAME}"/>
     <string id="1oPRugXl" text="Trick knife throws and swift evasions can entertain a marketplace crowd, but are useful on the battlefield as well. "/>
-    <string id="1OQubYTT" text="Marriage Offer"/>
+    <string id="1OQubYTT" text="Пропозиція шлюбу"/>
     <string id="1OU1ZkaZ" text="{SALUTATION_BY_PLAYER}, I wish to be more than a mercenary. Is there a way I could pledge myself as a vassal?"/>
     <string id="1PC4D2fx" text="{VALUE}% шкоди від швидкості при використанні дворучної зброї пішки."/>
     <string id="1PCaW5YI" text="My liege {QUEST_GIVER.NAME} also instructed me to present you the sum of {REWARD_GOLD}{GOLD_ICON} denars for the prisoners exchange."/>
@@ -1352,7 +1352,7 @@
     <string id="cJOGUpSS" text="Any news about my orders?"/>
     <string id="CjuVoxaC" text="Yes, Here are your animals."/>
     <string id="CkJarFvq" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду воїнам під час найму."/>
-    <string id="cKtJBdPD" text="I wish to offer my hand in marriage."/>
+    <string id="cKtJBdPD" text="Я хочу запропонувати вам свою руку і серце."/>
     <string id="cL9BX7ph" text="As long as the payment is good, I agree."/>
     <string id="CLBXxPdh" text="{VALUE}% вартості найму воїнів дальнього бою."/>
     <string id="ClrLzkvx" text="{VALUE}% шкоди від воїнів, коли їх відправляють в атаку, за кожне очко уміння тактики вище 225."/>
@@ -1444,7 +1444,7 @@
     <string id="CzJZ5zhT" text="So it shall be proclaimed throughout your domain. May {KINGDOM_NAME} forever be victorious!"/>
     <string id="czuvE3PC" text="Do you think I will break my word for a handful more silver?"/>
     <string id="CZuYne8X" text="Singing, dancing and playing an instrument is important but the {?IS_BATTANIA}bard{?}minstrel{\?} knows more. You asked him to make sure the child is also skilled in..."/>
-    <string id="CZwrlJMJ" text="Прибув посланець з пропозицією руки і серця для {.S}{CLAN_MEMBER.NAME}{.v_rod} від {.S}{OFFERING_CLAN_NAME}{.v_rod}."/>
+    <string id="CZwrlJMJ" text="Прибув посланець з пропозицією шлюбу для {.S}{CLAN_MEMBER.NAME}{.v_rod} від клану «{.S}{OFFERING_CLAN_NAME}{.v_rod}»."/>
     <string id="d0kbtGYn" text="You don't have enough gold."/>
     <string id="d18Ul2Zl" text="a plate of sardines"/>
     <string id="D1biQObM" text="I will pay double whatever {ISSUE_OWNER.NAME} is paying you! Please consider my offer![if:convo_nervous2][ib:nervous]"/>
@@ -4261,7 +4261,7 @@
     <string id="vh4bBfYq" text="You have accepted {TARGET_HERO.LINK}'s offer and freed {?TARGET_HERO.GENDER}her{?}him{\?}. {?TARGET_HERO.GENDER}She{?}He{\?} and {?TARGET_HERO.GENDER}her{?}his{\?} clan would be very happy. On the other hand {ISSUE_OWNER.LINK} will feel {?ISSUE_OWNER.GENDER}she{?}he{\?} is betrayed and be furious."/>
     <string id="VHdyQYKI" text="Зменшення кількості принесених у жертву військ при спробі втечі +{a0}%"/>
     <string id="vHKkVkAF" text="You have fought well. You are free to go."/>
-    <string id="Vi5Ylvr1" text="{LORD.NAME} is gathering army near {SETTLEMENT}"/>
+    <string id="Vi5Ylvr1" text="{LORD.NAME} збирає армію біля {.S}{SETTLEMENT}{.v_rod}"/>
     <string id="vivNLdHp" text="Зв'язки серед найманців"/>
     <string id="VIztLFNQ" text="You need to discuss this with our leader {LEADER.LINK}."/>
     <string id="VJbQNVDu" text="You don't deserve my coin. This contract is over."/>
