@@ -1159,7 +1159,7 @@
     <string id="Bk62qb7O" text="Ironskull {FIRSTNAME}"/>
     <string id="BK9ww4NU" text="{QUEST_GIVER.LINK} asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods for at least {UNIT_PRICE}{GOLD_ICON} per {UNIT_NAME} and return to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} told you that any profit that the deal would make above this price is yours to keep. You asked {COMPANION.LINK} to take {TROOP_COUNT} of your best men to go and take care of it. They should report back to you in {RETURN_DAYS} days."/>
     <string id="bKfaMFVK" text="You can also send me a recruiter: a trustworthy companion who is good at leading men, and also enough of a rogue to win the trust of other rogues...[if:convo_undecided_open][ib:confident]"/>
-    <string id="bkoJ57h3" text="Enter the Town"/>
+    <string id="bkoJ57h3" text="Увійти до міста"/>
     <string id="bKsb7tcr" text="Candidly, what do you think of our liege, {FIRST_NAME}?"/>
     <string id="BkTiRPT4" text="{.p}Тренувальний{.R_adj} {.p}полігон{.R_n20_p}"/>
     <string id="BktSNgY4" text="We oppose this proposal"/>
@@ -1270,7 +1270,7 @@
     <string id="BxazyNwY" text="We have {PRODUCTS}. We can let you have them for {TOTAL_PRICE}{GOLD_ICON}."/>
     <string id="bXdzsTdb" text="Yes... I am weary of fighting you. I could offer you a truce of forty days. If you keep your word and do not molest my lands and subjects, we may talk again..."/>
     <string id="bXN2fbcv" text="Your men treat the residents of {SETTLEMENT_NAME} as wayward subjects of the {SETTLEMENT_CULTURE_NAME} rather than foes, and treat them relatively well."/>
-    <string id="BXw5MwX7" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} grants {?ARMY_LEADER.GENDER}her{?}his{\?} men their customary right of pillage after a successful siege. {?ARMY_LEADER.GENDER}She{?}He{\?} tells them they may take property but must spare the townsfolk's lives."/>
+    <string id="BXw5MwX7" text="{DEFAULT_TEXT}Після успішної облоги {ARMY_LEADER.LINK} дозволяє своїм воїнам здійснити грабунок. {?ARMY_LEADER.GENDER}Вона{?}Він{\?} каже їм, що вони можуть забирати майно, але повинні зберегти мешканцям міста життя."/>
     <string id="bxWITUaN" text="збирати найвидатніших лордів королівства на таємну раду"/>
     <string id="bXzAluln" text="When, after some time your forces regroup, you take a quick tally of your troops to see that your forces are intact."/>
     <string id="by1b61pn" text="Глибокі кишені"/>
@@ -3318,7 +3318,7 @@
     <string id="PE14ZF7l" text="Let me try and convince you. (Persuasion)"/>
     <string id="PE97ZWvX" text="Not just anybody. If you have a companion that has your complete trust, then I'll agree... Just make sure he is well guarded. Goods attract bandits, as I'm sure you know. I suppose {ALTERNATIVE_TROOP_AMOUNT} well-armed men would be enough.[if:convo_innocent_smile][ib:confident]"/>
     <string id="PeaiNrSu" text="Чистий випад"/>
-    <string id="peHCARhM" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} has ordered that {SETTLEMENT} to be laid waste. {?ARMY_LEADER.GENDER}Her{?}His{\?} troops sweep through the {?IS_CITY}city{?}fortress{\?} taking whatever loot they like and setting fire to the rest."/>
+    <string id="peHCARhM" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK}{?ARMY_LEADER.GENDER}віддала{?}віддав{\?} наказ знищити {SETTLEMENT}. {?ARMY_LEADER.GENDER}ЇЇ{?}Його{\?} війська проносяться {?IS_CITY}містом{?}замком{\?}, забираючи все, що їм сподобалось, а решту спалюючи."/>
     <string id="peUxzLsY" text="&quot;Your&quot; goods? These are my goods now."/>
     <string id="PexmGuOd" text="{?PLAYER.GENDER}Madam{?}Sir{\?}, I am happy to tell that the men you left are patrolling, and already we feel safer. Thank you again.[ib:demure][if:convo_grateful]"/>
     <string id="pF47ldtJ" text="piece of armour"/>
@@ -4023,7 +4023,7 @@
     <string id="TuIyqMWG" text="The artisans and the merchants are at each other's throats right now. I bet {QUEST_GIVER.NAME} is planning something."/>
     <string id="TuqmbbqB" text="Ah, yes. Unfortunately, this is no discussion to be had while I am captive. We shall discuss our future after I am freed from these chains."/>
     <string id="tuv1O7ig" text="Витиснути всі соки"/>
-    <string id="tvAdOGzc" text="{ARMY_LEADER}'s army has disbanded. The kingdom is now at peace."/>
+    <string id="tvAdOGzc" text="Армія {ARMY_LEADER}{.v_rod} розпущена. У королівстві настав мир."/>
     <string id="tvoN5ynt" text="Ноу-хау"/>
     <string id="tvpAb5qH" text="You are already oath-bound to serve {FACTION_NAME}, are you not?"/>
     <string id="TVRbkuhC" text="{FIRSTNAME} of the Trident"/>
