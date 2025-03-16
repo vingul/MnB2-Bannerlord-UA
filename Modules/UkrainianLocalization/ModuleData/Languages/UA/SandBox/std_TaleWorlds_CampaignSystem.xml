@@ -654,7 +654,7 @@
     <string id="7yOCFsG5" text="{VALUE}% шкоди від воїнів вашого підрозділу на рівнинах, степах і пустелях."/>
     <string id="82aiVoV9" text="You will regret this in the long run...[ib:closed2][if:convo_angry]"/>
     <string id="83iwPPVH" text="Контрольоване кування"/>
-    <string id="83n7Oa7e" text="burnished {?CHILD.GENDER}her{?}his{\?} social skills."/>
+    <string id="83n7Oa7e" text="відшліфовуванням своїх соціальних навичок."/>
     <string id="84vpd3LI" text="Army Dispersed"/>
     <string id="84x0gfUf" text="I would prefer it if you attended to this yourself. But if you have any companions who can handle a force of {REQUIRED_TROOP_AMOUNT} men, one of them can take care of it."/>
     <string id="84ZwbJaq" text="You persuaded the smugglers to move away from {TARGET_SETTLEMENT}. They are now far away from {TARGET_SETTLEMENT} and {QUEST_GIVER.LINK} is satisfied."/>
@@ -1364,7 +1364,7 @@
     <string id="cnaxgN5b" text="You have failed to bring the troops in time."/>
     <string id="cnbeJh6Y" text="Після багатьох спроб {?CHILD.GENDER}вона таки змогла{?}він таки зміг{\?} чесно і безкомпромісно перемогти свого наставника під час спарингу."/>
     <string id="CNbPKRXX" text="Then I'll make it worth your while. (-{BRIBE_MONEY}{GOLD_ICON})"/>
-    <string id="CNYoZKyf" text="dabbled in intrigue."/>
+    <string id="CNYoZKyf" text="плетінням інтриг."/>
     <string id="cO61R3va" text="We've got no quarrel with you."/>
     <string id="cODzH0Ke" text="Well, if you don't want to go yourself to meet them, I'm sure you can send a trusted aide with 10 or so men to load and guard those {STOLEN_GOODS_SIZE} {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%}. I am sure our people can seal the deal by themselves."/>
     <string id="COEifaao" text="We recently lost our leader. We are now waiting for new orders."/>
@@ -1965,7 +1965,7 @@
     <string id="gbAztaSq" text="{FIRSTNAME} the Gutting-Knife"/>
     <string id="GbOj39KC" text="I'm not sure why"/>
     <string id="gbXLb2WE" text="I shall claim it."/>
-    <string id="gCBZlAzs" text="treated an injury."/>
+    <string id="gCBZlAzs" text="лікуванням поранення."/>
     <string id="GcCfYKDl" text="Farewell, then."/>
     <string id="GCH6RgIQ" text="How tough are they?"/>
     <string id="gChji1JO" text="About the food... These men are ready to spill their blood for you, but there won't be much blood in their veins to shed if their bellies are empty."/>
