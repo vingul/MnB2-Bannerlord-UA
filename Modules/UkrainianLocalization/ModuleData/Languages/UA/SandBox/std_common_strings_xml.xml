@@ -10,7 +10,7 @@
     <string id="averageWealthStatus" text="Середній"/>
     <string id="cc1d7mkq" text="Рівень"/>
     <string id="ePmSvu1s" text="{AMOUNT}{GOLD_ICON}"/>
-    <string id="GZxFIeiJ" text="Рід занять"/>
+    <string id="GZxFIeiJ" text="Статус"/>
     <string id="Hxf6bzmR" text="Динарів у наявності"/>
     <string id="I1CMeL9R" text="Кінні стрільці"/>
     <string id="mapbardenarvalue" text="{DENAR_AMOUNT}{VALUE_ABBREVIATION}"/>
