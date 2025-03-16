@@ -20,7 +20,7 @@
     <string id="Nr8NkHXU" text="Воїн морських нальотчиків"/>
     <string id="P6Md9DpR" text="Дорожній розбійник"/>
     <string id="Q2V4uQrr" text="Лідер пустельних розбійників"/>
-    <string id="sFgODQ1q" text="Лісовий розбійник"/>
+    <string id="sFgODQ1q" text="{.m}Лісовий{.R_adj} {.m}розбійник{.R_n20_a}"/>
     <string id="uOAnHN47" text="Бедуїн-розбійник"/>
     <string id="ZA4bgJ5V" text="Степовий бандит"/>
     <string id="ziOBJSzR" text="Лідер гірських бандитів"/>
