@@ -693,7 +693,7 @@
     <string id="OgTUrRlR" text="Chair"/>
     <string id="oIA9lkpc" text="You have given birth to {DELIVERED_CHILDREN}."/>
     <string id="OIBiRTRP" text="{QUEST_GIVER.LINK} is waiting for you at {SETTLEMENT}."/>
-    <string id="OiCCfAeC" text="{SETTLEMENT} is taken. Election is started."/>
+    <string id="OiCCfAeC" text="{SETTLEMENT} захоплено. Розпочато голосування."/>
     <string id="OiPqa3L8" text="This settlement's ownership will be decided through voting."/>
     <string id="ojpW4WRD" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s lord. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
     <string id="oJt4bemH" text="{QUEST_GIVER.LINK}, a landowner from {QUEST_SETTLEMENT}, told you about an incident that is about to turn into an ugly feud. One young man killed another in an quarrel and the victim's family refused blood money compensation, demanding vengeance instead."/>
