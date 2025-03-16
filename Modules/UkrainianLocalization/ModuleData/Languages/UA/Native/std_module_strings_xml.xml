@@ -307,7 +307,7 @@
     <string id="aepux62p" text="You can not annex a settlement until ownership decision is complete."/>
     <string id="af4G3RYV" text=" (battle)"/>
     <string id="agIbuP9a" text="Heh! That's quite the bruise you're sporting. But don't worry; everybody gets trounced once in a while. The important thing is to pick yourself up, dust yourself off and keep fighting. That's what champions do."/>
-    <string id="agkgu85j" text="You have arrived at {SETTLEMENT} to lay siege to it."/>
+    <string id="agkgu85j" text="Ви прибули до {SETTLEMENT}{v._rod} і готуєте облогу."/>
     <string id="aGNfjmsz" text="&lt;b&gt;Ladder&lt;/b&gt;"/>
     <string id="aGSMGMfn" text="Милосердя:"/>
     <string id="agYpWI9u" text="Success Chance"/>
@@ -1310,7 +1310,7 @@
     <string id="qzRbMK8G" text="Your vassals will be more inclined to take defensive actions against this enemy such as responding to enemy raids and sieges."/>
     <string id="r312jCKr" text="Propose Peace"/>
     <string id="R4eS65oX" text="Some of the angry villagers grab their tools and prepare to resist you. It looks like you'll have a fight on your hands if you continue."/>
-    <string id="R5IOmwN1" text="Building Siege Camp"/>
+    <string id="R5IOmwN1" text="Будівництво облогового табору"/>
     <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK} {?MARRIED_HERO.GENDER}одружилась{?}одружився{\?} з {.S}{MARRIED_TO.LINK}{.v_oru}."/>
     <string id="R7v2UD8b" text="You move a pawn."/>
     <string id="R9DiQfax" text="Battle"/>
@@ -1482,7 +1482,7 @@
     <string id="UgMbCUMO" text="my father {REFERING_HERO.LINK}"/>
     <string id="ugX2RRDY" text="I was taken and held for ransom"/>
     <string id="uhcIXeba" text="Ви викидаєте предмети. Ви впевнені, що хочете це зробити?"/>
-    <string id="uinDitbl" text="We must breach the walls."/>
+    <string id="uinDitbl" text="Ми повинні проломити стіни."/>
     <string id="UIqPXN62" text="Вражайте ворогів метальною зброєю."/>
     <string id="UJ01br0b" text="This hero does not have required {SKILL} skill to complete this order."/>
     <string id="um1Z5swc" text="the lady {REFERING_HERO.LINK}"/>
