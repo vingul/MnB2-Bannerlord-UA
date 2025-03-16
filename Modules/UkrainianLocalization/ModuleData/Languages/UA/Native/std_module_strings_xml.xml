@@ -463,7 +463,7 @@
     <string id="calculatinglevel3trait" text="Розсудливий"/>
     <string id="caPP57v9" text="Move to Reserve"/>
     <string id="CaW72yB3" text="Total Cost"/>
-    <string id="cBNSgpZN" text="You will gain &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; relation with {CLAN_NAME}"/>
+    <string id="cBNSgpZN" text="Ви отримаєте &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; до відносин з {.S}{CLAN_NAME}{.v_oru}"/>
     <string id="cBY2MxY0" text="princess"/>
     <string id="cBZ6OlKW" text="Javelin"/>
     <string id="CcAG3D8Q" text="NotAssigned"/>
@@ -482,7 +482,7 @@
     <string id="cmn6qNoX" text="Skirmishers"/>
     <string id="cMrROb6w" text="Доступне завдання"/>
     <string id="cNaiQyva" text="{.m}шістнадцятий{.R_adj}"/>
-    <string id="CObuCGjA" text="Marriage offer from {CLAN_NAME}"/>
+    <string id="CObuCGjA" text="Пропозиція шлюбу від клану «{CLAN_NAME}»"/>
     <string id="CODsu5Ok" text="Нова кампанія"/>
     <string id="COhJ2HsU" text="It will be automatically resolved in {HOUR} hours."/>
     <string id="CoHPb7DL" text="Our plan is to crush them with our cavalry and sweep the rest with a follow up attack."/>
@@ -560,7 +560,7 @@
     <string id="E0lb2Z2r" text="On {DAY_OF_YEAR}, {YEAR}, the conspiracy against the Empire succeeded in uniting its foes, as the armies of {FACTION_NAMES} took the field together."/>
     <string id="e1tZ4kEY" text="All Stuff"/>
     <string id="e4OPfBqt" text="Abstain"/>
-    <string id="eAGeVRjI" text="You received {GOLD_AMOUNT}{GOLD_ICON}."/>
+    <string id="eAGeVRjI" text="Ви отримали {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="EAicirVE" text="Fearless"/>
     <string id="eaIQXj6O" text="Доступні очки характеристик: {NUMBER}"/>
     <string id="ealIwlQH" text="Defending {SETTLEMENT_NAME}"/>
@@ -764,7 +764,7 @@
     <string id="hdyQFP2Z" text="You've been killed by a stray {MOUNT_NAME}!"/>
     <string id="hE4XvvXv" text="Сортувати за:"/>
     <string id="HEQ2zEei" text="Відмінити"/>
-    <string id="HEUDyfbG" text="{HERO.NAME} will join {CLAN_NAME}"/>
+    <string id="HEUDyfbG" text="{HERO.NAME} приєднається до {.S}{CLAN_NAME}{.v_rod}"/>
     <string id="hEWuE0Ch" text="You're the commander. You will be able to order all formations during the battle."/>
     <string id="hfSW9FTN" text="Ranged Weapons V"/>
     <string id="hJypvWMR" text="Refine"/>
@@ -1296,14 +1296,14 @@
     <string id="qpmpTdla" text="Notable"/>
     <string id="qQLh6S2w" text="ОУ {CURRENTAMOUNT}/{TARGETAMOUNT}"/>
     <string id="qR0s1VvE" text="Ви чуєте деякі скарги на ціни, дефіцит і жадібних торговців, але загалом нічого особливого."/>
-    <string id="qSC0t1lY" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {FIRST_HERO} {?FIRST_HERO.GENDER}одружилась{?}одружився{\?} з {.S}{SECOND_HERO}{.v_oru}."/>
+    <string id="qSC0t1lY" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {FIRST_HERO} і {SECOND_HERO} одружилися."/>
     <string id="qsh0I4Rm" text="Your opponent rolls a {DICE_ROLL}."/>
     <string id="qt7WSK15" text="{SETTLEMENT_NAME} (Raided)"/>
     <string id="QTbZPyha" text="Accompanying"/>
     <string id="qtmj7h2r" text="  0"/>
     <string id="QtXf82OD" text="Weapon should have Thrust {THRUST_DAMAGE_TYPE} Damage"/>
     <string id="quantitysign" text="#"/>
-    <string id="qUtYks66" text="Army of {ARMY_LEADER.LINK} is gathering near {SETTLEMENT_NAME}."/>
+    <string id="qUtYks66" text="Армія {.S}{ARMY_LEADER.LINK}{.v_rod} збирається біля {.S}{SETTLEMENT_NAME}{.v_rod}."/>
     <string id="QxdINoOA" text="kinswoman"/>
     <string id="QxlDIo3q" text="{.m}п'ятий{.R_adj}"/>
     <string id="QY2nuTFB" text="Let's pull back!"/>
