@@ -730,7 +730,7 @@
     <string id="8trsbRav" text="{FIRSTNAME} the {?FEMALE}Widow{?}Orphan{\?}"/>
     <string id="8uBbbwY9" text="Макс. складність їздової тварини: {a0}"/>
     <string id="8UyOJNhU" text="My thanks. It feels good to be {?PLAYER.GENDER}free{?}a free man{\?} once again."/>
-    <string id="8UzRj1YW" text="Enter the Village"/>
+    <string id="8UzRj1YW" text="Увійти до села"/>
     <string id="8Wa6OxG8" text="It's secret. You must be new in your post if you don't know who I am and what I do."/>
     <string id="8WaoQpYn" text="Oh there will be one, all right.[if:convo_predatory][ib:warrior]"/>
     <string id="8wdzSgfZ" text="If you have work for me, we could discuss it."/>
@@ -1629,7 +1629,7 @@
     <string id="E9GhODyh" text="I am very grateful to you for sparing your men to help us get what we need for a fair price.[if:convo_approving][ib:normal2]"/>
     <string id="E9s2bjqw" text="I can only hope that some day you could change your mind."/>
     <string id="e9xd15Db" text="I am looking for some people to hire with specific skills. Would you happen to know anyone looking for work in the towns of the {FACTION_INFORMAL_NAME}? "/>
-    <string id="eabR87ne" text="Enter the Settlement"/>
+    <string id="eabR87ne" text="Увійти до поселення"/>
     <string id="eah0gBXu" text="Good to meet you."/>
     <string id="EaifHOao" text="Yes, {?PLAYER.GENDER}my lady{?}sir{\?}, I will."/>
     <string id="EaIO20WN" text="So be it."/>
@@ -3744,7 +3744,7 @@
     <string id="RUZHJMQO" text="Шкода від лука: +{a0}%"/>
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
     <string id="RVas572P" text="Raided"/>
-    <string id="RVDojUOM" text="Землями довкола {.S}{SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}., {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
+    <string id="RVDojUOM" text="Землями довкола {.S}{SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}, {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
     <string id="rVIzHhLO" text="The young {?CHILD.GENDER}woman{?}man{\?}'s social graces helped put other merchants at ease as they exchanged information and worked out deals."/>
     <string id="RVLPQ4rm" text="My friend. I am almost sad that these meetings are going to come to an end. Well, a deal is a deal. I won't beat around the bush. Here's your final message: {DIRECTIVE}. I wish you luck, right up until the moment that you have to go down.[if:convo_mocking_teasing][ib:closed]"/>
     <string id="RVNPXS46" text="{VALUE}% безпеки, яку забезпечують кінні воїни у підконтрольному поселенні."/>
@@ -4067,7 +4067,7 @@
     <string id="U3LdMEXb" text="Debts"/>
     <string id="U3LR7dyK" text="Good. I'll be waiting for your messengers.[if:convo_thinking]"/>
     <string id="U3u2D6Ze" text="I give you my word and bond, to stand by your banner in battle so long as my breath remains..."/>
-    <string id="U4azeSib" text="Take a walk through the lands"/>
+    <string id="U4azeSib" text="Прогулятися територією"/>
     <string id="u57OuUZR" text="{VALUE}% пробиття броні вашими атаками."/>
     <string id="u5zNNZKa" text="Ефективний вугляр"/>
     <string id="u6GM5Spa" text=" Armies"/>
