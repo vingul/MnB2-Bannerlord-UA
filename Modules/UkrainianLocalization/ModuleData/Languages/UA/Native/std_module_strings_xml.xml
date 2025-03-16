@@ -1219,7 +1219,7 @@
     <string id="Pia30xtc" text="{?ASKED_LORD.GENDER}She{?}He{\?} is currently at {TOWN_NAME}."/>
     <string id="PiHpR4QL" text="{.f}Одноручний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="PitdvCJI" text="Change Governor"/>
-    <string id="pJBz7hhl" text="Gather your men, we have another job to do!"/>
+    <string id="pJBz7hhl" text="Збирайте своїх людей, у нас з'явилася ще одна справа!"/>
     <string id="PJEuE208" text="Militia:"/>
     <string id="pkyASW0A" text="Party / Payment Size Reach"/>
     <string id="pLZeP6L6" text="Assault walls{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
@@ -1393,7 +1393,7 @@
     <string id="spkv1rOW" text="Changing a Party Leader"/>
     <string id="SqUphVOm" text="Загони ({CURRENT} / {LIMIT})"/>
     <string id="SrfYbg3x" text="Лідер"/>
-    <string id="SRYuaoh1" text="This region is gripped by civil disorder, yet people must still go about their daily chores. For the most part, they not linger long in the markets or make eye contact. But you overhear hushed conversations about the rebels in the countryside. Some seem to be afraid of the rebels, others secretly thrilled that the tables have turned, even for a little while, on the rich and powerful."/>
+    <string id="SRYuaoh1" text="Цей регіон охоплений громадянськими заворушеннями, але люди продовжують займатися своїми повсякденними справами. Здебільшого вони не затримуються на ринках і не дивляться один одному в очі. Але в селах можна почути тихі розмови про повстанців. Одні, здається, бояться повстанців, інші потай радіють, що багаті і сильні світу цього, хоча б на деякий час, втратили свою владу."/>
     <string id="strcharactertypelady" text="Леді"/>
     <string id="stS5PBIr" text="Preacher"/>
     <string id="svArZT0G" text="Details"/>
