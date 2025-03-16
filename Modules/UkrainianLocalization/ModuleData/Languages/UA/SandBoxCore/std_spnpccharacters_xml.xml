@@ -251,7 +251,7 @@
     <string id="yrGYZsQ7" text="Imperial Veteran Infantryman"/>
     <string id="z6RMWTaA" text="Tavern Maid"/>
     <string id="ZhKoCVby" text="Imperial Militia Spearman"/>
-    <string id="ZK0GXYCx" text="Sword Sister"/>
+    <string id="ZK0GXYCx" text="{.f}Сестра{.R_n10_ko} меча{@Plural}{.p}Сестра{.R_n10_p2} меча{\@}"/>
     <string id="ZKuabzhK" text="Khuzait Noble's Son"/>
     <string id="Zmajp2o1" text="Sturgian Militia Spearman"/>
     <string id="zqaGJBYZ" text="Vlandian Militia Veteran Crossbowman"/>
