@@ -10,20 +10,20 @@
     <string id="Bg63YFnh" text="{.m}Лідер{.R_n20_a_ke} степових бандитів"/>
     <string id="C1Fkzdvu" text="{.m}Лідер{.R_n20_a_ke} морських грабіжників"/>
     <string id="C8DE6L73" text="{.m}Дезертир{.R_n20_a}"/>
-    <string id="C8hwcOdF" text="Кінний грабіжник"/>
+    <string id="C8hwcOdF" text="{.m}Кінний{.R_adj} {.m}грабіжник{.R_n20_a}"/>
     <string id="cdbSCr6G" text="Харамі"/>
     <string id="dc2qxanZ" text="{.m}Лідер{.R_n20_a_ke} лісових бандитів"/>
     <string id="dq2cP8h0" text="{.m}Морський{.R_adj} {.m}грабіжник{.R_n20_a}"/>
-    <string id="freebootertroop" text="Вільний мисливець"/>
-    <string id="HadsURl8" text="Волоцюга"/>
-    <string id="J6Yksji5" text="Кінний розбійник"/>
+    <string id="freebootertroop" text="{.m}Вільний{.R_adj} {.m}мисливець{.R_n22_a}"/>
+    <string id="HadsURl8" text="{.f}Волоцюга{.R_n10}"/>
+    <string id="J6Yksji5" text="{.m}Кінний{.R_adj} {.m}мародер{.R_n20_a}"/>
     <string id="Nr8NkHXU" text="{.m}Воїн{.R_n20_a} морських грабіжників"/>
-    <string id="P6Md9DpR" text="Дорожній розбійник"/>
+    <string id="P6Md9DpR" text="{.m}Дорожній{.R_adj} {.m}розбійник{.R_n20_a}"/>
     <string id="Q2V4uQrr" text="{.m}Лідер{.R_n20_a_ke} пустельних розбійників"/>
     <string id="sFgODQ1q" text="{.m}Лісовий{.R_adj} {.m}розбійник{.R_n20_a}"/>
-    <string id="uOAnHN47" text="Бедуїн-розбійник"/>
-    <string id="ZA4bgJ5V" text="Степовий бандит"/>
+    <string id="uOAnHN47" text="{.m}Бедуїн{.R_n20_a}-{.m}розбійник{.R_n20_a}"/>
+    <string id="ZA4bgJ5V" text="{.m}Степовий{.R_adj} {.m}бандит{.R_n20_a}"/>
     <string id="ziOBJSzR" text="{.m}Лідер{.R_n20_a_ke} гірських бандитів"/>
-    <string id="ZKdiaaFo" text="Розбійник"/>
+    <string id="ZKdiaaFo" text="{.m}Розбійник{.R_n20_a}"/>
   </strings>
 </base>
