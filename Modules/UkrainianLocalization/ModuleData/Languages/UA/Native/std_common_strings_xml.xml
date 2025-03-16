@@ -778,7 +778,7 @@
     <string id="p9cQARqf" text="Highborn Mail Armor"/>
     <string id="PbJAOKKZ" text="Збільшена швидкість пересування воїнів"/>
     <string id="pbp0GQdO" text="Ban Player"/>
-    <string id="pBUc2pL8" text="{.p}Пірат{.R_n20_p}"/>
+    <string id="pBUc2pL8" text="{.p}Морський{.R_adj} {.p}грабіжник{.R_n20_p}"/>
     <string id="pCBkH35Q" text="Danos"/>
     <string id="PDdh1sBj" text="Назва"/>
     <string id="pdqi2qz1" text="You can not do this action while your alley is under attack."/>
