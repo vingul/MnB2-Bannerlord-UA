@@ -4,7 +4,7 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="0gi5Fp8c" text="Veteran Sword Sister"/>
+    <string id="0gi5Fp8c" text="{.m}Ветеран{.R_n20_a} сестер меча{@Plural}{.p}Ветеран{.R_n20_p} сестер меча{\@}"/>
     <string id="0GkJB08d" text="Sturgian Veteran Caravan Guard"/>
     <string id="1gAasy1t" text="Lake Rat Veteran"/>
     <string id="1PsLlMaQ" text="Imperial Equite"/>
