@@ -3093,7 +3093,7 @@
     <string id="NQOQb0C9" text="'And many thousand bodies lay a-rotting in the sun \n But things like that must be you know for kingdoms to be won'"/>
     <string id="nQStXojH" text="If {?CURRENT_LIEGE.GENDER}she{?}he{\?} ever violated {?CURRENT_LIEGE.GENDER}her{?}his{\?} oath to you, it absolves you of your duty to {?CURRENT_LIEGE.GENDER}her{?}him{\?}."/>
     <string id="Nr1GPYSr" text="Мистецтво облоги"/>
-    <string id="Nr49hlfC" text="Abandon army."/>
+    <string id="Nr49hlfC" text="Вийти зі складу армії."/>
     <string id="nRkLFBMl" text="You failed to raid at least {NUMBER_OF_TARGET_VILLAGE} villages and then report back. {QUEST_GIVER.LINK} is disappointed."/>
     <string id="nrRvyKgL" text="I'll strike into their territory as you command, my {?ISSUE_OWNER.GENDER}lady{?}lord{\?}."/>
     <string id="nRvR1Rpc" text="{VALUE}% швидкості пересування в бою воїнам вашого підрозділу."/>
