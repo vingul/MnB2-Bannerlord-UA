@@ -190,7 +190,7 @@
     <string id="EoLcoaHM" text="We'll see..."/>
     <string id="EOSyvdFG" text="Then the Vlandian knights came. We were attacked on two sides and the Emperor, who could have sent men to save us, took his time. Perhaps he wanted the best of the Aserai to die, lest we become too powerful later. But that betrayal was nothing compared to what we received from our fellow Aserai of the Banu Qild."/>
     <string id="epB0x816" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}. She has been abducted by bandits, who intend to sell her into slavery."/>
-    <string id="EV5ykPuT" text="You and your men were defeated by {BOSS_NAME} and his conspirators. Rest of your men finds your broken body among the bloodied pile of corpses. Yet you live to fight another day."/>
+    <string id="EV5ykPuT" text="Ви та ваші люди зазнали поразки від {BOSS_NAME}{.v_rod} та його змовників. Решта ваших людей знаходять ваше пошматоване тіло серед закривавленої купи трупів. Але ви вижили і продовжите свою боротьбу."/>
     <string id="eV8R0SKp" text="Now you can decide what to do with the {DRAGON_BANNER}."/>
     <string id="eVgAY7ts" text="О Господи, ти можеш описати мені їх краще? Мої люди вполювали десятки цих малих виродків у цьому районі. Досить непогані мисливські угіддя, я тобі скажу! Хоча знаєш, більшість з них я вже відправив на ринок рабів на півдні.[ib:hip][if:convo_snide_voice]"/>
     <string id="eVzg5Mtl" text="Conspiracy Caravan"/>
@@ -414,7 +414,7 @@
     <string id="r48aEAbq" text="The {KINGDOM_NAME} has been defeated. Your quest to destroy the Empire has failed."/>
     <string id="R5kLv5kg" text="I am what they call Palaic. Palaic is a language that is no longer spoken, except by a few old people. Even the word 'Palaic' is imperial. We are a people who have forgotten who we are.[if:convo_focused_voice]"/>
     <string id="r8ZLabb0" text="I have gathered all pieces of the Dragon Banner. What now?"/>
-    <string id="rbjjDYXj" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again."/>
+    <string id="rbjjDYXj" text="Грабіжники розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, щоб мати змогу атакувати знову."/>
     <string id="RbXiEdXk" text="Досягніть 1-го рівня клану"/>
     <string id="rCX81DDR" text="The Empire has been destroyed!"/>
     <string id="rDuegB1L" text="Нарешті ви прибули! Я хочу сказати кілька слів, перш ніж ми атакуємо.[ib:confident2][if:convo_nonchalant]"/>
@@ -480,7 +480,7 @@
     <string id="uFsMzAuR" text="Speak to whichever one you choose, or come back to me if you wish to claim the banner for yourself.[if:convo_normal]"/>
     <string id="uhYXopnJ" text="Have you finished your preparations?[if:convo_undecided_open]"/>
     <string id="UjyZ7GFk" text="Impressive, most impressive. Well, things will get interesting now.[ib:normal2][if:convo_astonished]"/>
-    <string id="Uk7F483P" text="You were defeated by the {BOSS_NAME} in the duel. Your men takes your wounded body to the safety. As agreed, conspirators quickly leave and disappear without a trace."/>
+    <string id="Uk7F483P" text="У результаті двобою ви зазнали поразки від {BOSS_NAME}{.v_rod}. Ваші люди віднесли ваше поранене тіло в безпечне місце. Як і домовлялися, змовники забираються геть і зникають безслідно."/>
     <string id="UkNUuyr1" text="Переможених загонів"/>
     <string id="ULn7iWlz" text="It will be a powerful tool in our hands. People will believe that the Heavens intend us to restore the Empire of Calradia.[if:convo_pondering]"/>
     <string id="uNgu02FH" text="Вони і на вашу сім'ю напали? Дуже шкода це чути. Ці виродки встигли повбивати та пограбувати і в цих краях.[ib:normal2][if:convo_dismayed]"/>
@@ -501,7 +501,7 @@
     <string id="vjOHmHOH" text="The ambush... Masterfully planned and executed, that none can deny. But I will also not deny that the Sturgians fought the main body of the imperial forces, and the Vlandians fought their famous cavalry, so I don't think the greatest glory went to the sons of Battania.[if:convo_contemptuous]"/>
     <string id="vJyTsFdU" text="Вона не виглядає дуже цінною, і підозрюю, що ці грабіжники віддали б її за кілька монет, але я отримав її від найманця, якого колись лікував, і він присягався, що вона пов'язана з 'Божевіллям Неретцеса'. Я не знаю, що це означає, окрім того, що Неретцес був імператором, який загинув у битві кілька років тому. Можливо, вам вдасться з'ясувати її справжнє цінність.[if:convo_calm_friendly]"/>
     <string id="VLD5416o" text="Соратників найнято"/>
-    <string id="vxDVCK3n" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait to be able to attack again."/>
+    <string id="vxDVCK3n" text="Грабіжники розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, щоб мати змогу напасти знову."/>
     <string id="w0CUaEU7" text="Ти ще не перерізав мені горло, що було мудрим рішенням. Я впевнений, що найду спосіб бути для тебе більш цінним живим, ніж мертвим.[if:convo_calm_friendly]"/>
     <string id="W49eUmpT" text="Ви можете злізти з коня натиснувши {CROUCH_KEY} або {ACTION_KEY}, коли дивитеся на коня."/>
     <string id="w6Wa3lSL" text="Retreated"/>
@@ -512,8 +512,8 @@
     <string id="weS3DJKA" text="Weakened by war, the ruler of the {FACTION} offers to make peace with {PLAYER_FACTION}."/>
     <string id="WIUbM9Hc" text="Виберіть зброю, щоб почати тренування."/>
     <string id="WN1tHPnB" text="Ми повинні були захопити всю західну імперію. Якби у Дертерта було хоч трохи мужності, ми б так і зробили. Але його серце ніколи не лежало до війни. Він вважав, що порушив присягу Імперії, допомагаючи стургійцям, і це гризло його. З нього вийшов би чудовий слуга. Натомість він наш король.[if:convo_contemptuous]"/>
-    <string id="WN6aHR6m" text="You were defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again."/>
-    <string id="wO19nK2y" text="You have weakened the Empire."/>
+    <string id="WN6aHR6m" text="Бандити розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, перш ніж атакувати знову."/>
+    <string id="wO19nK2y" text="Ви послабили Імперію."/>
     <string id="WTjAYUoD" text="Знайти іншу частину банера для Істіани"/>
     <string id="WUa1gnkS" text="Look, right before the battle, our high king, Aeril, disappears. And his adopted son Caladog becomes king. That sets tongues to wagging, you know? But let me tell you - old Aeril could never in his life have won such a victory as did Caladog, that day."/>
     <string id="wvHvnEog" text="Знайдіть лігво, про яке вам розповів Арзагос, і отримайте наступну частину банера."/>
@@ -535,16 +535,16 @@
     <string id="xknCpvcb" text="Заспокойся. Я зараз тобі все розповім.[ib:closed2][if:convo_grave]"/>
     <string id="xL3WGYsw" text="Collected Pieces"/>
     <string id="XlSHcfsP" text="This option will end the tutorial!"/>
-    <string id="XQrmVPKL" text="{PLAYER.LINK} I hope this letter finds you well. I have learned from a spy in {LOCATION_LINK} that our adversaries have set up a camp in its environs. She could not tell me what they plan to do, but if you raided the camp, stole some of their supplies, and brought it back to me, we could get some idea of their wicked intentions. Search around {LOCATION_LINK} to find the hideout."/>
+    <string id="XQrmVPKL" text="{PLAYER.LINK}, сподіваюся у вас все добре. Я дізнався від шпигунки в {.S}{LOCATION_LINK}{.v_mis}, що наші вороги розбили табір в його околицях. Вона не знає, що вони планують робити, але якщо ви нападете на табір, викрадете деякі їх речі і принесете їх мені, ми зможемо отримати певне уявлення про їхні злі наміри. Щоб знайти їх лігво, пошукайте в околицях {.S}{LOCATION_LINK}{.v_rod}."/>
     <string id="Xrz05hYE" text="Прогулятися"/>
-    <string id="XSzmugWh" text="You were defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again."/>
+    <string id="XSzmugWh" text="Грабіжники розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, перш ніж атакувати знову."/>
     <string id="XtC0hXhr" text="Support {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
     <string id="xVFupnFu" text="Ви успішно влучили в усі мішені за ({TIME_SCORE}) секунди."/>
     <string id="XWL3XcIq" text="{FACTION} Defeated"/>
     <string id="Xx94UrYe" text="I might be. What are you carrying? Honest goods, or weapons? How about you let us have a look."/>
     <string id="y150haHv" text="Disrupt Supply Lines"/>
     <string id="y3fn2vWY" text="Найняти воїнів"/>
-    <string id="Y6OJHdMH" text="I am a busy man, but there is always time to talk about the blessed battle of Pendraic.[if:convo_mocking_teasing][ib:confident3]"/>
+    <string id="Y6OJHdMH" text="Я дуже зайнята людина, але на те, щоб поговорити про благословенну битву під Пендраїком, в мене завжди знайдеться час.[if:convo_mocking_teasing][ib:confident3]"/>
     <string id="Y6SqyQwn" text="Meet with {HERO.NAME}"/>
     <string id="y84UnOQX" text="Assemble the Dragon Banner"/>
     <string id="ya8eMCpj" text="Unify the Empire"/>
