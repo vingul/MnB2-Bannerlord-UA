@@ -377,7 +377,7 @@
     <string id="4MQQf3wp" text="We are waiting for your arrival. "/>
     <string id="4n71Xoyq" text="You have failed to bring the weapons to the {QUEST_GIVER.LINK} in time."/>
     <string id="4nbnFMNZ" text="I can't promise to win, my lady."/>
-    <string id="4nUhnWZ3" text="Було багато бенкетів і промов. З того, що ви чули, {?CHILD.GENDER}вона{?}він{\?} чудово себе {?CHILD.GENDER}проявила{?}проявив{\?}."/>
+    <string id="4nUhnWZ3" text="{?PLAYER_CHILD}Ваша дитина{?}Дитина{\?} побувала на багатьох урочистих зустрічах і бенкетах, де було багато спілкування. З того, що ви чули, {?CHILD.GENDER}вона{?}він{\?} чудово себе {?CHILD.GENDER}проявила{?}проявив{\?}."/>
     <string id="4NYPsxgY" text="I need to leave. Good-bye, for now."/>
     <string id="4Onw6Gxa" text="{VALUE}% швидкості загону за кожне очко уміння розвідника вище 200."/>
     <string id="4ORpHfu2" text="{VALUE}% штрафу до ціни при купівлі глини, заліза, бавовни та срібла."/>
@@ -477,7 +477,7 @@
     <string id="5uW9zKTN" text="Велика різниця"/>
     <string id="5Vk6I1sf" text="Between your followers, your rivals and your enemies, you must have met a lot of interesting people..."/>
     <string id="5Vo8dJub" text="Governor's Culture"/>
-    <string id="5vosR2YO" text="Господар був з тих людей, які люблять говорити про справи, перебуваючи в сідлі і переслідуючи оленів. І {CHILD.NAME}{.v_dav} {?CHILD.GENDER}приєднувалася{?}приєднувався{\?} до кожного такого «обговорення»."/>
+    <string id="5vosR2YO" text="Господар був з тих людей, які люблять говорити про справи, перебуваючи в сідлі і переслідуючи оленя. І {CHILD.NAME}{.v_dav} {?CHILD.GENDER}приєднувалася{?}приєднувався{\?} до кожного такого «обговорення»."/>
     <string id="5vs3qlQ8" text="Фаланга"/>
     <string id="5Wld45hP" text="забороняти селянам залишати землі своїх лордів"/>
     <string id="5WR5DsOz" text="Rulers could make money fast by debasing the currency and minting more, but this would cause prices to rise."/>
@@ -668,7 +668,7 @@
     <string id="8a13MGzr" text="All I can say is that I try to repay good with good, and evil with evil."/>
     <string id="8aajPkKG" text="{VALUE}% шансу втечі для ув'язнених героїв."/>
     <string id="8AbHxCM8" text="{CAPTIVITY_TEXT}\nWaiting in captivity..."/>
-    <string id="8AjlID6z" text="Ви чуєте розмови про компрометуючі листи та язики, яким платять за мовчання. Ви не знаєте, що саме сталося, але {?PLAYER_CHILD}ваша {?}{\?}дитина виглядає більш розсудливою, ніж була, коли вирушала в подорож."/>
+    <string id="8AjlID6z" text="Ви слухаєте розповіді про компрометуючі листи та язики, яким платять за мовчання. Ви не знаєте, що саме сталося, але {?PLAYER_CHILD}ваша {?}{\?}дитина виглядає більш розсудливою, ніж вона була, коли вирушала в подорож."/>
     <string id="8AKmJwv7" text="Довговічність"/>
     <string id="8alDLq0s" text="not to be too choosy about travelling companions."/>
     <string id="8avwit9N" text="{QUEST_GIVER.LINK}, the army commander of {FACTION} has told you that they need detailed information about enemy fortifications and troop numbers of the enemy. {?QUEST_GIVER.GENDER}She{?}He{\?} wanted you to scout {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}."/>
@@ -864,7 +864,7 @@
     <string id="ac8PkfhG" text="Increases tax income from the region"/>
     <string id="aCA83avL" text="You have placed in the tournaments as {QUEST_GIVER.LINK} wished."/>
     <string id="aCGgBilx" text="I would like help fine-tuning another skill."/>
-    <string id="aCMZafK5" text="Бійка сталася через дрібну образу, і лише до першої крові. Але ви все одно відчуваєте полегшення, що перша кров, про яку йшлося, належала іншій юній особі."/>
+    <string id="aCMZafK5" text="Бійка сталася через дрібну образу, і лише до першої крові. Але ви все одно відчуваєте полегшення, коли дізнаєтесь, що перша кров, про яку йшлося, належала іншій юній особі."/>
     <string id="aCO0Md8z" text="When {?CHILD.GENDER}she{?}he{\?} was ambused on patrol, {CHILD.NAME} fought the attackers off with sheer willpower."/>
     <string id="acOOsQaC" text="The food's running out. That's not fair to the men. We should take care that the food doesn't run out."/>
     <string id="acqSONrT" text="I will handle these smugglers myself."/>
@@ -4763,7 +4763,7 @@
     <string id="YjoXyFDX" text="Owner Culture"/>
     <string id="YjsRb88D" text="That's your right, my {?PLAYER.GENDER}lady{?}lord{\?}. But if you can't get the support of the merchants here when you next need it, well, don't say no one said anything."/>
     <string id="YjxCkglX" text="You've failed to complete this quest in time. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
-    <string id="Yk3xrawy" text="Коли {CHILD.NAME} {?CHILD.GENDER}повернулась{?}повернувся{\?}, то {?CHILD.GENDER}розповіла{?}розповів{\?} вам історію про те, як {?CHILD.GENDER}вона займалася{?}він займався{\?} {RANDOM_OUTCOME} Ця подія підвищила {?CHILD.GENDER}її{?}його{\?} вміння в {.S}{SKILL}{.v_dav}."/>
+    <string id="Yk3xrawy" text="Коли {CHILD.NAME} {?CHILD.GENDER}повернулась{?}повернувся{\?}, то {?CHILD.GENDER}розповіла{?}розповів{\?} вам історію про те, як {?CHILD.GENDER}вона займалася{?}він займався{\?} {RANDOM_OUTCOME} Ця подія підвищила {?CHILD.GENDER}її{?}його{\?} вміння в {.S}{SKILL}{.v_mis}."/>
     <string id="yKz5e5H4" text="Yes. I have the goods right here. I brought {REQUESTED_AMOUNT} {.%}{?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%} as we agreed."/>
     <string id="YkZKXsIn" text="Платня основному загону"/>
     <string id="YLjksPbk" text="You're a kind {?PLAYER.GENDER}woman, [if:convo_happy]madam{?}man, sir{\?}. You understand what poor folk like us are up against."/>
