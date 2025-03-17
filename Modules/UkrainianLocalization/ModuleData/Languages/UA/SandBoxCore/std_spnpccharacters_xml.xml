@@ -8,13 +8,13 @@
     <string id="0GkJB08d" text="{.m}Стургійський{.R_adj} {.m}ветеран{.R_n20_a} караванної варти{@Plural}{.p}Стургійський{.R_adj} {.p}ветеран{.R_n20_p} караванної варти{\@}"/>
     <string id="1gAasy1t" text="{.m}Ветеран{.R_n20_a} Озерних щурів{@Plural}{.p}Ветеран{.R_n20_p} Озерних щурів{\@}"/>
     <string id="1PsLlMaQ" text="Imperial Equite"/>
-    <string id="1WfDVpya" text="Sturgian Archer"/>
+    <string id="1WfDVpya" text="{.m}Стургійський{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Стургійський{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="1zObCG2o" text="Battanian Fian Champion"/>
     <string id="2gUjKT5H" text="Battanian Horseman"/>
     <string id="2HDPaohZ" text="{.m}Лісник{.R_n20_a}-{.m}експерт{.R_n20_a}{@Plural}{.p}Лісник{.R_n20_p}-{.p}експерт{.R_n20_p}{\@}"/>
     <string id="5b6KjY5b" text="Vlandian Billman"/>
     <string id="5JFkQn5U" text="{.m}Хузаїтський{.R_adj} {.m}лучник{.R_n20_a}-{.m}ветеран{.R_n20_a} ополчення{@Plural}{.p}Хузаїтський{.R_adj} {.p}лучник{.R_n20_p}-{.p}ветеран{.R_n20_p} ополчення{\@}"/>
-    <string id="5VBPoGYO" text="Aserai Light Archer"/>
+    <string id="5VBPoGYO" text="{.m}Асерайський{.R_adj} {.m}легкий{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Асерайський{.R_adj} {.p}легкий{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="6C3OMP1X" text="Battanian Scout"/>
     <string id="6hhspFvz" text="{.m}Хузаїтський{.R_adj} {.m}ветеран{.R_n20_a} караванної варти{@Plural}{.p}Хузаїтський{.R_adj} {.p}ветеран{.R_n20_p} караванної варти{\@}"/>
     <string id="6j9iJMRr" text="Lake Rat Recruit"/>
@@ -41,9 +41,9 @@
     <string id="AoFZUbun" text="Aserai Vanguard Faris"/>
     <string id="arb5nRri" text="Aserai Tribesman"/>
     <string id="aseraipeasantwoman" text="Aserai Peasant"/>
-    <string id="aUHtqC9o" text="Vlandian Militia Spearman"/>
-    <string id="B4ls6R2b" text="Aserai Master Archer"/>
-    <string id="b4QPaEnA" text="Battanian Militia Archer"/>
+    <string id="aUHtqC9o" text="{.m}Вландійський{.R_adj} {.m}списоносець{.R_n22_a} ополчення{@Plural}{.p}Вландійський{.R_adj} {.p}списоносець{.R_n22_p} ополчення{\@}"/>
+    <string id="B4ls6R2b" text="{.m}Асерайський{.R_adj} {.m}майстер{.R_n22_a}-{.m}лучник{.R_n20_a}{@Plural}{.p}Асерайський{.R_adj} {.p}майстер{.R_n22_p}-{.p}лучник{.R_n20_p}{\@}"/>
+    <string id="b4QPaEnA" text="{.m}Баттанський{.R_adj} {.m}лучник{.R_n20_a} ополчення{@Plural}{.p}Баттанський{.R_adj} {.p}лучник{.R_n20_p} ополчення{\@}"/>
     <string id="B7oI7AZG" text="Khuzait Khan's Guard"/>
     <string id="battaniapeasantwoman" text="Battania Peasant"/>
     <string id="BBJKgKj2" text="Sturgian Recruit"/>
@@ -57,17 +57,17 @@
     <string id="brlJJW5I" text="Sturgian Soldier"/>
     <string id="bTApMxWr" text="Vlandian Banner Knight"/>
     <string id="Btb7p3mD" text="Battanian Fian"/>
-    <string id="byPNCb5e" text="Sturgian Heavy Spearman"/>
+    <string id="byPNCb5e" text="{.m}Стургійський{.R_adj} {.m}важкий{.R_adj} {.m}списоносець{.R_n22_a}{@Plural}{.p}Стургійський{.R_adj} {.p}важкий{.R_adj} {.p}списоносець{.R_n22_p}{\@}"/>
     <string id="c5rVdg75" text="{.m}Імперський{.R_adj} {.m}списоносець{.R_n22_a}-{.m}ветеран{.R_n20_a} ополчення{@Plural}{.p}Імперський{.R_adj} {.p}списоносець{.R_n22_p}-{.p}ветеран{.R_n20_p} ополчення{\@}"/>
     <string id="cDgsaaRB" text="Karakhergit Nomad"/>
     <string id="CDUvlu4d" text="Imperial Palatine Guard"/>
     <string id="cEKbOxRA" text="{.m}Елефтерій{.R_n20_a}-{.m}ветеран{.R_n20_a}{@Plural}{.p}Елефтерій{.R_n20_p}-{.p}ветеран{.R_n20_p}{\@}"/>
-    <string id="CfO7eDsv" text="Sturgian Spearman"/>
+    <string id="CfO7eDsv" text="{.m}Стургійський{.R_adj} {.m}списоносець{.R_n22_a}{@Plural}{.p}Стургійський{.R_adj} {.p}списоносець{.R_n22_p}{\@}"/>
     <string id="CJxF6fky" text="Sturgian Heroic Line Breaker"/>
-    <string id="CKoq1wQa" text="Khuzait Militia Archer"/>
+    <string id="CKoq1wQa" text="{.m}Хузаїтський{.R_adj} {.m}лучник{.R_n20_a} ополчення{@Plural}{.p}Хузаїтський{.R_adj} {.p}лучник{.R_n20_p} ополчення{\@}"/>
     <string id="cOt1onbR" text="Triarii"/>
     <string id="cP1bu5GK" text="Khuzait Heavy Lancer"/>
-    <string id="CPcJ2gRF" text="Aserai Militia Archer"/>
+    <string id="CPcJ2gRF" text="{.m}Асерайський{.R_adj} {.m}лучник{.R_n20_a} ополчення{@Plural}{.p}Асерайський{.R_adj} {.p}лучник{.R_n20_p} ополчення{\@}"/>
     <string id="cPQx1RXt" text="Sturgian Armed Trader"/>
     <string id="CRzrHomf" text="Sturgian Druzhinnik"/>
     <string id="cSdSSXsO" text="{.m}Чемпіон{.R_n20_a} «Кабанів»{@Plural}{.p}Чемпіон{.R_n20_p} «Кабанів»{\@}"/>
@@ -80,7 +80,7 @@
     <string id="e8qbF7Ey" text="Imperial Menavliaton"/>
     <string id="ECxiXTbF" text="Artisan Notary"/>
     <string id="ehACDRBk" text="Hidden Pawn"/>
-    <string id="eHVgfyPH" text="Khuzait Horse Archer"/>
+    <string id="eHVgfyPH" text="{.m}Хузаїтський{.R_adj} {.m}кінний{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Хузаїтський{.R_adj} {.p}кінний{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="empirepeasantwoman" text="Empire Peasant"/>
     <string id="eYIMQafj" text="Imperial Heavy Horseman"/>
     <string id="f2a1fPca" text="{.m}Хузаїтський{.R_adj} {.m}списоносець{.R_n22_a}-{.m}ветеран{.R_n20_a} ополчення{@Plural}{.p}Хузаїтський{.R_adj} {.p}списоносець{.R_n22_p}-{.p}ветеран{.R_n20_p} ополчення{\@}"/>
@@ -92,7 +92,7 @@
     <string id="FrTTT0G1" text="Sturgian Druzhinnik Champion"/>
     <string id="g1zvdEE3" text="{.m}Асерайський{.R_adj} {.m}піхотинець{.R_n22_a}-{.m}ветеран{.R_n20_a}{@Plural}{.p}Асерайський{.R_adj} {.p}піхотинець{.R_n22_p}-{.p}ветеран{.R_n20_p}{\@}"/>
     <string id="G9ByT85b" text="Hastati"/>
-    <string id="Gd0y7SxJ" text="Vlandian Spearman"/>
+    <string id="Gd0y7SxJ" text="{.m}Вландійський{.R_adj} {.m}списоносець{.R_n22_a}{@Plural}{.p}Вландійський{.R_adj} {.p}списоносець{.R_n22_p}{\@}"/>
     <string id="GEnwDYp1" text="Vlandian Recruit"/>
     <string id="ghilmanUnit" text="Ghilman"/>
     <string id="GUQ3zfg2" text="Battanian Volunteer"/>
@@ -116,9 +116,9 @@
     <string id="J4k9mg65" text="Hired Spear"/>
     <string id="jaK1A7CI" text="Aserai Faris"/>
     <string id="JGsUtBT3" text="Imperial Legionary"/>
-    <string id="jRFfRZv2" text="Sturgian Militia Archer"/>
+    <string id="jRFfRZv2" text="{.m}Стургійський{.R_adj} {.m}лучник{.R_n20_a} ополчення{@Plural}{.p}Стургійський{.R_adj} {.p}лучник{.R_n20_p} ополчення{\@}"/>
     <string id="juBPAThy" text="{.m}Баттанський{.R_adj} {.m}ветеран{.R_n20_a} караванної варти{@Plural}{.p}Баттанський{.R_adj} {.p}ветеран{.R_n20_p} караванної варти{\@}"/>
-    <string id="KAJKOooN" text="Khuzait Heavy Horse Archer"/>
+    <string id="KAJKOooN" text="{.m}Хузаїтський{.R_adj} {.m}важкий{.R_adj} {.m}кінний{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Хузаїтський{.R_adj} {.p}важкий{.R_adj} {.p}кінний{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="KbyRj9b3" text="Karakhergit Elder"/>
     <string id="khuzaitpeasantwoman" text="Khuzait Peasant"/>
     <string id="kih9DwL4" text="Vlandian Crossbowman"/>
@@ -126,12 +126,12 @@
     <string id="kPCcelVX" text="Trader "/>
     <string id="kppseK3N" text="Khuzait Tribal Warrior"/>
     <string id="kyt087eN" text="{.m}Розвідник{.R_n20_a}-{.m}ветеран{.R_n20_a}{@Plural}{.p}Розвідник{.R_n20_p}-{.p}ветеран{.R_n20_p}{\@}"/>
-    <string id="L0cGAnWw" text="Battanian Militia Spearman"/>
+    <string id="L0cGAnWw" text="{.m}Баттанський{.R_adj} {.m}списоносець{.R_n22_a} ополчення{@Plural}{.p}Баттанський{.R_adj} {.p}списоносець{.R_n22_p} ополчення{\@}"/>
     <string id="l6NFOl8c" text="Khuzait Armed Trader"/>
-    <string id="LbjxH9yp" text="Imperial Archer"/>
+    <string id="LbjxH9yp" text="{.m}Імперський{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Імперський{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="LEJukldW" text="Imperial Armed Trader"/>
     <string id="LKb8DXby" text="Battanian Caravan Master"/>
-    <string id="lkrV8jZa" text="Khuzait Archer"/>
+    <string id="lkrV8jZa" text="{.m}Хузаїтський{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Хузаїтський{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="LNNXiPyV" text="Gang Leader Bodyguard"/>
     <string id="Loc1XOIk" text="Khuzait Hunter"/>
     <string id="LsHFY6p5" text="Aserai Mamluke Regular"/>
@@ -143,7 +143,7 @@
     <string id="maleinfant" text="Infant"/>
     <string id="maleteenager" text="Teenager"/>
     <string id="Mcbjdntz" text="Jawwal Camel Rider"/>
-    <string id="MDIuyBHP" text="Khuzait Militia Spearman"/>
+    <string id="MDIuyBHP" text="{.m}Хузаїтський{.R_adj} {.m}списоносець{.R_n22_a} ополчення{@Plural}{.p}Хузаїтський{.R_adj} {.p}списоносець{.R_n22_p} ополчення{\@}"/>
     <string id="mrBbsiPN" text="Young Wolf"/>
     <string id="muu5cofb" text="Townsman"/>
     <string id="MYwUFMsz" text="Imperial Elite Cataphract"/>
@@ -156,20 +156,20 @@
     <string id="OQPDvtpk" text="Vlandian Gallant"/>
     <string id="oseSwa56" text="Vlandian Knight"/>
     <string id="P4lcbA0b" text="Aserai Mamluke Heavy Cavalry"/>
-    <string id="P8EATvn8" text="Imperial Militia Archer"/>
+    <string id="P8EATvn8" text="{.m}Імперський{.R_adj} {.m}лучник{.R_n20_a} ополчення{@Plural}{.p}Імперський{.R_adj} {.p}лучник{.R_n20_p} ополчення{\@}"/>
     <string id="Pd9qAiOu" text="{.m}Асерайський{.R_adj} {.m}списоносець{.R_n22_a}-{.m}ветеран{.R_n20_a} ополчення{@Plural}{.p}Асерайський{.R_adj} {.p}списоносець{.R_n22_p}-{.p}ветеран{.R_n20_p} ополчення{\@}"/>
     <string id="PJNW1UWK" text="Shop Keeper"/>
     <string id="pooybAKI" text="Vlandian Swordsman"/>
     <string id="pRbbJHkU" text="Imperial Bucellarii"/>
     <string id="PU2zIMu0" text="Puppeteer"/>
-    <string id="pzmgMODE" text="Sturgian Caravan Guard"/>
+    <string id="pzmgMODE" text="{.m}Стургійський{.R_adj} {.m}вартовий{.R_adj} каравану{@Plural}{.p}Стургійський{.R_adj} {.p}вартовий{.R_adj} каравану{\@}"/>
     <string id="q7b4pQc9" text="Seasoned Wolf"/>
     <string id="q7VeZazL" text="{.m}Баттанський{.R_adj} {.m}застрільник{.R_n20_a}{@Plural}{.p}Баттанський{.R_adj} {.p}застрільник{.R_n20_p}{\@}"/>
     <string id="qAsnj7vU" text="Imperial Elite Menavliaton"/>
     <string id="qAvxmnav" text="Jawwal Bedouin"/>
     <string id="QbSjMefR" text="Vlandian Caravan Master"/>
     <string id="qBVNIhme" text="{.m}Елефтерій{.R_n20_a}-{.m}експерт{.R_n20_a}{@Plural}{.p}Елефтерій{.R_n20_p}-{.p}експерт{.R_n20_p}{\@}"/>
-    <string id="qfaTMEBw" text="Battanian Caravan Guard"/>
+    <string id="qfaTMEBw" text="{.m}Баттанський{.R_adj} {.m}вартовий{.R_adj} каравану{@Plural}{.p}Баттанський{.R_adj} {.p}вартовий{.R_adj} каравану{\@}"/>
     <string id="QfVe3IVw" text="Hired Crossbow"/>
     <string id="QGPAEtj7" text="{.m}Ветеран{.R_n20_a} варягів{@Plural}{.p}Ветеран{.R_n20_p} варягів{\@}"/>
     <string id="QgQfYcSw" text="Vlandian Cavalry"/>
@@ -182,7 +182,7 @@
     <string id="rIqwYlSK" text="Khuzait Nomad"/>
     <string id="riT39wKu" text="Sapling"/>
     <string id="RJNNsaSP" text="Sturgian Brigand"/>
-    <string id="rQ0t0Wws" text="Vlandian Caravan Guard"/>
+    <string id="rQ0t0Wws" text="{.m}Вландійський{.R_adj} {.m}вартовий{.R_adj} каравану{@Plural}{.p}Вландійський{.R_adj} {.p}вартовий{.R_adj} каравану{\@}"/>
     <string id="s3IJIFUw" text="Imperial Recruit"/>
     <string id="S6BosJUq" text="{.m}Елефтерій{.R_n20_a}-{.m}рекрут{.R_n20_a}{@Plural}{.p}Елефтерій{.R_n20_p}-{.p}рекрут{.R_n20_p}{\@}"/>
     <string id="SAILNYbu" text="Vlandian Infantry"/>
@@ -194,10 +194,10 @@
     <string id="sturgianhuntertroop" text="Sturgian Hunter"/>
     <string id="sturgiapeasantwoman" text="Sturgia Peasant"/>
     <string id="SvAADOwm" text="Vlandian Levy Crossbowman"/>
-    <string id="TbBnWiao" text="Imperial Caravan Guard"/>
+    <string id="TbBnWiao" text="{.m}Імперський{.R_adj} {.m}вартовий{.R_adj} каравану{@Plural}{.p}Імперський{.R_adj} {.p}вартовий{.R_adj} каравану{\@}"/>
     <string id="TCuNAyPG" text="Aserai Mamluke Cavalry"/>
     <string id="thbcgVVO" text="Trader"/>
-    <string id="THOfB9DZ" text="Khuzait Caravan Guard"/>
+    <string id="THOfB9DZ" text="{.m}Хузаїтський{.R_adj} {.m}вартовий{.R_adj} каравану{@Plural}{.p}Хузаїтський{.R_adj} {.p}вартовий{.R_adj} каравану{\@}"/>
     <string id="THyv3q9f" text="Imperial Sergeant Crossbowman"/>
     <string id="tIDOJvId" text="Aserai Mamluke Guard"/>
     <string id="tke6VCV6" text="Aserai Infantry"/>
@@ -212,7 +212,7 @@
     <string id="uDseaKcb" text="Sturgian Caravan Master"/>
     <string id="UdTc1PGo" text="Imperial Crossbowman"/>
     <string id="ueasbGtd" text="{.m}Лісник{.R_n20_a}-{.m}ветеран{.R_n20_a}{@Plural}{.p}Лісник{.R_n20_p}-{.p}ветеран{.R_n20_p}{\@}"/>
-    <string id="ULaNn3pp" text="Aserai Militia Spearman"/>
+    <string id="ULaNn3pp" text="{.m}Асерайський{.R_adj} {.m}списоносець{.R_n22_a} ополчення{@Plural}{.p}Асерайський{.R_adj} {.p}списоносець{.R_n22_p} ополчення{\@}"/>
     <string id="uPypJHlm" text="Elite Mercenary Maceman"/>
     <string id="UrSjhs4x" text="Vlandian Voulgier"/>
     <string id="UsvCnAS7" text="Blaze"/>
@@ -228,14 +228,14 @@
     <string id="VqrQ096u" text="Khuzait Kheshig"/>
     <string id="VtlvxEs7" text="Battanian Clan Warrior"/>
     <string id="vxlAJIiU" text="Jawwal Recruit"/>
-    <string id="w6YwFaG7" text="Khuzait Spearman"/>
+    <string id="w6YwFaG7" text="{.m}Хузаїтський{.R_adj} {.m}списоносець{.R_n22_a}{@Plural}{.p}Хузаїтський{.R_adj} {.p}списоносець{.R_n22_p}{\@}"/>
     <string id="WEHDGbEE" text="Khuzait Caravan Master"/>
     <string id="WH7EGGIg" text="Barber"/>
     <string id="wrYJBc4g" text="Aserai Mamluke Palace Guard"/>
     <string id="wtmCSMrC" text="Aserai Footman"/>
     <string id="X12lazIs" text="Vlandian Armed Trader"/>
     <string id="X3KYysuv" text="Dancer"/>
-    <string id="X4GvzDdW" text="Battanian Falxman"/>
+    <string id="X4GvzDdW" text="{.m}Баттанський{.R_adj} {.m}воїн{.R_n20_a} з фальксом{@Plural}{.p}Баттанський{.R_adj} {.p}воїн{.R_n20_p} з фальксами{\@}"/>
     <string id="X6CQ9CMZ" text="Vlandian Sharpshooter"/>
     <string id="XgjXfmM1" text="Prison Guard"/>
     <string id="xJ4koSsx" text="Spark"/>
@@ -243,17 +243,17 @@
     <string id="xnzpQbwQ" text="Sturgian Horse Raider"/>
     <string id="XzDObEiH" text="Vlandian Squire"/>
     <string id="YE4RGuzU" text="{.m}Вландійський{.R_adj} {.m}ветеран{.R_n20_a} караванної варти{@Plural}{.p}Вландійський{.R_adj} {.p}ветеран{.R_n20_p} караванної варти{\@}"/>
-    <string id="yG42k5GC" text="Aserai Caravan Guard"/>
+    <string id="yG42k5GC" text="{.m}Асерайський{.R_adj} {.m}вартовий{.R_adj} каравану{@Plural}{.p}Асерайський{.R_adj} {.p}вартовий{.R_adj} каравану{\@}"/>
     <string id="YGexslSX" text="{.m}Ветеран{.R_n20_a} Скольдербродів{@Plural}{.p}Ветеран{.R_n20_p} Скольдербродів{\@}"/>
-    <string id="yhBagy1Y" text="Aserai Archer"/>
+    <string id="yhBagy1Y" text="{.m}Асерайський{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Асерайський{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="yMqWnBfT" text="{.m}Баттанський{.R_adj} {.m}ветеран{.R_n20_a} з фальксом{@Plural}{.p}Баттанський{.R_adj} {.p}ветеран{.R_n20_p} з фальксами{\@}"/>
     <string id="yPF32fbh" text="Vlandian Footman"/>
     <string id="yrGYZsQ7" text="Imperial Veteran Infantryman"/>
     <string id="z6RMWTaA" text="Tavern Maid"/>
-    <string id="ZhKoCVby" text="Imperial Militia Spearman"/>
+    <string id="ZhKoCVby" text="{.m}Імперський{.R_adj} {.m}списоносець{.R_n22_a} ополчення{@Plural}{.p}Імперський{.R_adj} {.p}списоносець{.R_n22_p} ополчення{\@}"/>
     <string id="ZK0GXYCx" text="{.f}Сестра{.R_n10_ko} меча{@Plural}{.p}Сестра{.R_n10_p2} меча{\@}"/>
     <string id="ZKuabzhK" text="Khuzait Noble's Son"/>
-    <string id="Zmajp2o1" text="Sturgian Militia Spearman"/>
+    <string id="Zmajp2o1" text="{.m}Стургійський{.R_adj} {.m}списоносець{.R_n22_a} ополчення{@Plural}{.p}Стургійський{.R_adj} {.p}списоносець{.R_n22_p} ополчення{\@}"/>
     <string id="zqaGJBYZ" text="{.m}Вландійський{.R_adj} {.m}арбалетник{.R_n20_a}-{.m}ветеран{.R_n20_a} ополчення{@Plural}{.p}Вландійський{.R_adj} {.p}арбалетник{.R_n20_p}-{.p}ветеран{.R_n20_p} ополчення{\@}"/>
     <string id="ZSU7sMYX" text="Khuzait Darkhan"/>
   </strings>
