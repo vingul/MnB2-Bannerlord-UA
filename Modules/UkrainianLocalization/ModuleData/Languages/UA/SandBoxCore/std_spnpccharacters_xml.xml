@@ -106,7 +106,7 @@
     <string id="HsboF2mR" text="{.m}Імперський{.R_adj} {.m}лучник{.R_n20_a}-{.m}ветеран{.R_n20_a} ополчення{@Plural}{.p}Імперський{.R_adj} {.p}лучник{.R_n20_p}-{.p}ветеран{.R_n20_p} ополчення{\@}"/>
     <string id="HYx5NZSk" text="Sturgian Otrok"/>
     <string id="i5DfUz6D" text="{.m}Баттанський{.R_adj} {.m}лучник{.R_n20_a}-{.m}ветеран{.R_n20_a} ополчення{@Plural}{.p}Баттанський{.R_adj} {.p}лучник{.R_n20_p}-{.p}ветеран{.R_n20_p} ополчення{\@}"/>
-    <string id="IfjWyWjc" text="Imperial Infantryman"/>
+    <string id="IfjWyWjc" text="{.m}Імперський{.R_adj} {.m}піхотинець{.R_n22_a}{@Plural}{.p}Імперський{.R_adj} {.p}піхотинець{.R_n22_p}{\@}"/>
     <string id="ifL3F7E2" text="Gallant Sword Sister"/>
     <string id="IHczn7ti" text="Battanian Highborn Warrior"/>
     <string id="IKvwsCaJ" text="Battanian Raider"/>
@@ -248,7 +248,7 @@
     <string id="yhBagy1Y" text="{.m}Асерайський{.R_adj} {.m}лучник{.R_n20_a}{@Plural}{.p}Асерайський{.R_adj} {.p}лучник{.R_n20_p}{\@}"/>
     <string id="yMqWnBfT" text="{.m}Баттанський{.R_adj} {.m}ветеран{.R_n20_a} з фальксом{@Plural}{.p}Баттанський{.R_adj} {.p}ветеран{.R_n20_p} з фальксами{\@}"/>
     <string id="yPF32fbh" text="Vlandian Footman"/>
-    <string id="yrGYZsQ7" text="Imperial Veteran Infantryman"/>
+    <string id="yrGYZsQ7" text="{.m}Імперський{.R_adj} {.m}піхотинець{.R_n22_a}-{.m}ветеран{.R_n20_a}{@Plural}{.p}Імперський{.R_adj} {.p}піхотинець{.R_n22_p}-{.p}ветеран{.R_n20_p}{\@}"/>
     <string id="z6RMWTaA" text="Tavern Maid"/>
     <string id="ZhKoCVby" text="{.m}Імперський{.R_adj} {.m}списоносець{.R_n22_a} ополчення{@Plural}{.p}Імперський{.R_adj} {.p}списоносець{.R_n22_p} ополчення{\@}"/>
     <string id="ZK0GXYCx" text="{.f}Сестра{.R_n10_ko} меча{@Plural}{.p}Сестра{.R_n10_p2} меча{\@}"/>
