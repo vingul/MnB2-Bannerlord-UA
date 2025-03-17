@@ -434,7 +434,7 @@
     <string id="S5Dn2K3m" text="You couldn't stop the conspiracy."/>
     <string id="Sb46O8WO" text="{.m}Ортос{.R_n20_a_ke}"/>
     <string id="scjogyUD" text="Старий король Вадінслав був досить хоробрим. Він повів нас всіх у бій. Я стояв поруч з батьком, коли ми зустрілися з імперцями віч-на-віч, дивлячись один на одного поверх своїх щитів. Це було схоже на будь-яку іншу битву, де зустрічаються дві стіни з щитів — штовхаєш і намагаєшся встояти на ногах, але це важко описати словами. Скажу лише, що в таких битвах зазвичай перемагають стургійці.[ib:confident2]"/>
-    <string id="sejEf69A" text="Я не чув солодшої музики, ніж грім наших копит, коли ми налетіли на збіговисько асерійців. Ми накинулися на них, як сокіл на кролика.[if:convo_bemused]"/>
+    <string id="sejEf69A" text="Я не чув солодшої музики, ніж грім наших копит, коли ми налетіли на збіговисько асераїв. Ми накинулися на них, як сокіл на кролика.[if:convo_bemused]"/>
     <string id="SF7dqoEe" text="Of course Nimr's arrogance doubled, and doubled again. And then he dealt us a great insult. I will not say what that insult was, because it longer exists. We wiped it out. In the traditional way. You may ask someone else about that."/>
     <string id="SFJFIaAD" text="Well... King Caladog's great victory... Who would dare say anything to tarnish its shine?[if:convo_undecided_open][ib:closed]"/>
     <string id="ShG19Xhi" text="Дякую..."/>
