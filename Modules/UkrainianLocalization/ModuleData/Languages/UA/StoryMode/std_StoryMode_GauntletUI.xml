@@ -4,10 +4,10 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="4Ygn4OGE" text="Enable Cheats"/>
-    <string id="75nwCTEn" text="Clan Screen is disabled during Tutorial."/>
-    <string id="UjERCi2F" text="This feature is disabled."/>
-    <string id="WFNLizqL" text="You've supported a kingdom through main story line. Leaving this kingdom will fail your quest.{newline}{newline}Are you sure?"/>
-    <string id="YkbOfPRU" text="Enabling cheats will disable the achievements this game. Do you want to proceed?"/>
+    <string id="4Ygn4OGE" text="Увімкнути чіт-коди"/>
+    <string id="75nwCTEn" text="Вікно Клану недоступне на час навчання."/>
+    <string id="UjERCi2F" text="Цю функцію вимкнено."/>
+    <string id="WFNLizqL" text="Ви підтримували королівство протягом основної сюжетної лінії. Покинувши це королівство, ви провалите своє завдання.{newline}{newline}Ви впевнені?"/>
+    <string id="YkbOfPRU" text="Увімкнення чіт-кодів призведе до вимкнення досягнень у цій грі. Ви хочете продовжити?"/>
   </strings>
 </base>
