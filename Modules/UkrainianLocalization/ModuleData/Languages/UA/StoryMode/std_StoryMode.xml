@@ -72,11 +72,11 @@
     <string id="7ULaG8aT" text="Then you can come back when you made your mind up.[ib:closed][if:convo_insulted]"/>
     <string id="7VFLb3Qj" text="Ви прибули в село."/>
     <string id="7wmkPNbI" text="Захищайтеся справа."/>
-    <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}."/>
+    <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} є молодшою сестрою {.S}{PLAYER.LINK}{.v_rod}."/>
     <string id="80NOk1Ee" text="You could not unify the Empire."/>
     <string id="8b4Ndfep" text="О, звісно. У мене немає жодних сумнівів щодо цього.[if:convo_nonchalant]"/>
     <string id="8GCW5IRO" text="Раніше я намагався дізнатися більше про неї, але тепер, коли з мене вибили все бажання подорожувати, я навряд чи наважуся відійти від колодязя далі, ніж на 20 кроків.[ib:closed2][if:convo_shocked]"/>
-    <string id="8OIwHZF1" text="Hideout"/>
+    <string id="8OIwHZF1" text="Лігво"/>
     <string id="8QX1QHAJ" text="Attack from left."/>
     <string id="9aRqqx3U" text="The caravan has delivered its supplies to the conspirators. A stronger adversary awaits us..."/>
     <string id="9aY0ifwi" text="We shall meet again...[if:convo_insulted]"/>
@@ -185,7 +185,7 @@
     <string id="ehnbi5yD" text="Боюся, я не бачив дітей. Але після того, як на наш караван напали, ватажок нападників, якого вони називають Радагосом, зібрав всі наші найцінніші речі, в тому числі скриню, яка була у мене, і поїхав з ними.[ib:closed][if:convo_empathic_voice]"/>
     <string id="EitTbGvB" text="I am not sure. I haven't made up my mind about this."/>
     <string id="eJX7rhch" text="Ви успішно відбудували свій клан."/>
-    <string id="elJCacQO" text="I am working on it."/>
+    <string id="elJCacQO" text="Я працюю над цим."/>
     <string id="eNJBjYG8" text="You successfully assembled the Dragon Banner of Calradios."/>
     <string id="EoLcoaHM" text="We'll see..."/>
     <string id="EOSyvdFG" text="Then the Vlandian knights came. We were attacked on two sides and the Emperor, who could have sent men to save us, took his time. Perhaps he wanted the best of the Aserai to die, lest we become too powerful later. But that betrayal was nothing compared to what we received from our fellow Aserai of the Banu Qild."/>
@@ -215,7 +215,7 @@
     <string id="FPhWhjq7" text="Defeated"/>
     <string id="fprOWs1E" text="Now, when you are ready to declare your new kingdom, instruct the governor of your capital to have a proclamation read out throughout your lands."/>
     <string id="frk7T3ue" text="It will not be easy, but I can explain in detail..."/>
-    <string id="fRMIoPUK" text="Give me more time."/>
+    <string id="fRMIoPUK" text="Дай мені більше часу."/>
     <string id="FRSas4xT" text="Conspiracy Troops"/>
     <string id="ft6zzDrJ" text="Добре, переконав. Ходімо."/>
     <string id="fUcwKbW8" text="If I win I will just kill you and let these poor excuses you call conspirators run away."/>
@@ -223,7 +223,7 @@
     <string id="FWSwngVX" text="Ну що, вирушаємо в дорогу? Пам'ятайте - якщо я впаду з ніг від безсилля або втоплюся в якійсь річці, то для ваших маляток все буде скінчено. Я все розумію і не розраховую на комфортабельний паланкін, але краще просто не ускладнюйте мені подорож.[if:convo_uncomfortable_voice]"/>
     <string id="FyzsAZx8" text="{RADAGOS.LINK} розказав, де знаходяться ваші брати і сестра. Він запропонував напасти на викрадачів разом. {RADAGOS.LINK} чекатиме на вас у лігві, яке знаходиться біля {.S}{SETTLEMENT_LINK}{.v_rod}. Це лігво відмічене на карті."/>
     <string id="G9iXmhGK" text="Слухай, давай поговоримо. Я дам тобі мішечок срібла.[ib:weary][if:convo_confused_voice]"/>
-    <string id="Ga8mDgab" text="You've been defeated at {HIDEOUT_BOSS.LINK}'s hideout. You can attack again when you are ready."/>
+    <string id="Ga8mDgab" text="Вас було розгромлено у лігві {HIDEOUT_BOSS.LINK}{.v_rod}. Ви знову зможете напасти, коли будете готові."/>
     <string id="gBbm9beO" text="Влучте у всі мішені. Залишилось влучити в {REMAINING_TARGET} мішен{#GET_PLURAL_VALUE(REMAINING_TARGET)}ь{#}і{#}ей{\#}."/>
     <string id="GCbqpeDs" text="Навчання завершено. Тепер ви можете вільно досліджувати Кальрадію."/>
     <string id="gdgbaMOP" text="I am not sure I share your views."/>
@@ -254,7 +254,7 @@
     <string id="hGPdLssq" text="The ruler of the {PLAYER_SUPPORTED_FACTION} has accepted the peace offered by the war-ravaged {FACTION}."/>
     <string id="HhFHRs7N" text="Create {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
     <string id="HhuBPfJn" text="Підійти до тренера."/>
-    <string id="HL9lzfjY" text="Of course I can. You know my name, whose son I am.[if:convo_beaten][ib:closed]"/>
+    <string id="HL9lzfjY" text="Звичайно, я можу. Ти ж знаєш моє ім'я і хто мій батько.[if:convo_beaten][ib:closed]"/>
     <string id="hnFkhPhp" text="Цей параметр не доступний під час навчання."/>
     <string id="HOb07MJF" text="Я не дуже багато про це знаю. Але знаю двох, хто може розповісти. {IMPERIAL_MENTOR.LINK} — вона колись була неофіційною главою шпигунів Неретцеса. І ще є {ANTI_IMPERIAL_MENTOR.LINK}. Він був охоронцем Неретцеса, але люди кажуть, що з тих пір він дуже сильно змінився."/>
     <string id="HPNuqbSf" text="Врятувати свою сім'ю"/>
@@ -262,7 +262,7 @@
     <string id="HrdVRMgR" text="Мабуть, врятувавши моїх брата і сестру, ти заслужив своє життя. Гаразд, йди."/>
     <string id="HT9hW29s" text="Чудово! Але я маю ще кілька справ. Біля цього міста є лігво. {HIDEOUT_BOSS.LINK} тримає там твоїх брата і сестру. Зустрінемось недалеко від цього лігва. Так, щоб нас не помітили їх розвідники.[if:convo_snide_voice][ib:hip]"/>
     <string id="HvGW2DvS" text="Заїзд розпочато."/>
-    <string id="i3SSc0I4" text="{IMPERIAL_MENTOR.NAME}'s Plan"/>
+    <string id="i3SSc0I4" text="План {IMPERIAL_MENTOR.NAME}{.v_rod}"/>
     <string id="i5OOargr" text="Such are the fortunes of war. But what came afterwards... When word spread of what happened to our menfolk, the other clans - the Arkits in particular - knew we were weak. Our herds were raided. Anyone who protested was killed. Monchug did little to stop it. It taught us that valor will get you killed, but treachery will make you rich.[if:convo_angry]"/>
     <string id="IavuL9KI" text="Of course. I intend to use the banner to help save the Empire."/>
     <string id="ib2TKPUa" text="The ruler of the {FACTION} is leading the alliance against you. Defeat their armies or force them to make peace by capturing their settlements and destroying their parties to achieve victory."/>
