@@ -231,7 +231,7 @@
     <string id="aseraifaction" text="{.m}Султанат{.R_n20_u} асераїв"/>
     <string id="aseraimembers" text="{.m}Султанат{.R_n20_u} асераїв"/>
     <string id="aSNUtnbH" text="{.m}Темун{.R_n20_a_ke}"/>
-    <string id="at4MdVBJ" text="Fathid"/>
+    <string id="at4MdVBJ" text="{.m}Фатід{.R_n20_a_ke}"/>
     <string id="aTncHUfL" text="стояли на варті в гарнізоні."/>
     <string id="aVGSZhCN" text="Pavise Shield"/>
     <string id="AVoWvlue" text="{RANK} ({NUMBER})"/>
