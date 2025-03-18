@@ -305,7 +305,7 @@
     <string id="3nbuRBJK" text="Forget it."/>
     <string id="3nfPGbN0" text="Donated prisoners exceed party capacity."/>
     <string id="3NROvpcO" text="Slowhand {FIRSTNAME}"/>
-    <string id="3nT5wWzb" text="Surrender."/>
+    <string id="3nT5wWzb" text="Здатися."/>
     <string id="3NX8H4TJ" text="Your companion has protected the caravan that belongs to {ISSUE_GIVER.LINK} from {SETTLEMENT} as promised. {?ISSUE_GIVER.GENDER}She{?}He{\?} was happy with your work."/>
     <string id="3O1Pg3Ie" text="На {?CHILD.GENDER}її{?}його{\?} 14-й день народження ви подарували {CHILD.NAME}{.v_dav} особливий подарунок. Ви бачили як {?CHILD.GENDER}вона{?}він{\?} цінує його і тому вірите, що цей подарунок вплине на те, ким {?CHILD.GENDER}вона{?}він{\?} стане. Ви подарували {?CHILD.GENDER}їй{?}йому{\?}..."/>
     <string id="3OW1QQNx" text="The raid was ended by the battle outside of the village."/>
@@ -3533,7 +3533,7 @@
     <string id="QmaIRD7P" text="{VALUE}% швидкості руху вночі."/>
     <string id="qmwv27To" text="{FIRSTNAME} the Mouse"/>
     <string id="QNaKmkt9" text="We're paid to guard this caravan. If you want to rob it, it's going to be over our dead bodies![rf:idle_angry][ib:aggressive]"/>
-    <string id="qNgGoqmI" text="Try to get away."/>
+    <string id="qNgGoqmI" text="Спробувати втекти."/>
     <string id="qNSOb7pJ" text="Once again, this is not something I'm happy with..."/>
     <string id="QNV1b5s5" text="Are those poachers still in business?[ib:normal2][if:convo_undecided_open]"/>
     <string id="qNxdWLFY" text="So you want me to hunt them down?"/>
