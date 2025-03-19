@@ -80,7 +80,7 @@
     <string id="8QX1QHAJ" text="Атакуйте зліва."/>
     <string id="9aRqqx3U" text="The caravan has delivered its supplies to the conspirators. A stronger adversary awaits us..."/>
     <string id="9aY0ifwi" text="Ми ще зустрінемося...[if:convo_insulted]"/>
-    <string id="9aYCfBVz" text="The city was in a state of panic after hearing rumors of what happened. Arenicos kept things from descending into chaos. When it came time for the Senate to choose the next Emperor, there was no question that it should be him. I loved him before as a man, but that day learned to love him as something more: what a gift he was to the people of Calradia![ib:demure2]"/>
+    <string id="9aYCfBVz" text="Місто було в паніці після чуток про те, що сталося. Аренікос не допустив хаосу. Коли прийшов час Cенату обирати наступного імператора, не було жодних сумнівів, що це мав бути саме він. Я любила його і раніше. Як людину. Але того дня я зрозуміла, що він став чимось значно більшим, і не лише для мене, а для всього народу Кальрадії![ib:demure2]"/>
     <string id="9E6faNBg" text="I will need to embroider a proper legend about you. Divine omens at your birth, that kind of thing. For now, we can call you 'Bannerlord,' who brings down the wrath of Heaven on the impudent barbarians.[ib:confident2][if:convo_relaxed_happy]"/>
     <string id="9kGnzjrU" text="Timer Started."/>
     <string id="9sAGLK6R" text="Так. Дертерт доручив мені командувати арбалетниками.[if:convo_grave][ib:confident3]"/>
@@ -299,7 +299,7 @@
     <string id="karjORwI" text="To hell with that! Why would I want to duel with you?"/>
     <string id="kaZ1XtDX" text="You are not strong enough to attack. Recruit more troops from the village."/>
     <string id="kbyqtszZ" text="I'm listening.."/>
-    <string id="kdR3CeL8" text="My husband's small force held together, and were joined by stragglers and fugitives. He described the march back - no food, little water, marching day and night to keep ahead of the enemy's outriders. But they survived - the only organized imperial force to do so."/>
+    <string id="kdR3CeL8" text="Невеликий загін мого чоловіка тримався разом, згодом до нього приєдналися втікачі та ті, що відстали. Він так описував свій шлях: без їжі, обмаль води, на марші вдень і вночі, щоб ворог не зміг їх догнати. І вони впоралися — єдине організоване імперське військо, яке змогло вижити."/>
     <string id="Ke7f4XSC" text="I present you with the Dragon Banner of Calradios."/>
     <string id="KH07mJ5k" text="Very well, come back when you are ready."/>
     <string id="KhL2ctsi" text="Тепер ви готові вирушати. Поговоріть ще раз зі старостою. Він сказав, що має для вас завдання."/>
@@ -441,7 +441,7 @@
     <string id="sJeYHMGG" text="You have unified the Empire."/>
     <string id="sJoO1JzN" text="Коли ми добряче потовкли імперців, вони поламали свій стрій і кинулися за оборонні вали. Звідти вони обстрілювали нас дротиками, закидували камінням і своїм проклятим вогнем. Нам довелося по драбинах, один за одним, підніматися на вали. Вадінслава вдарили булавою, і він впав, а потім мій батько піднявся нагору, рубаючи всіх на ходу, згуртував нас і привів до перемоги."/>
     <string id="SmVwMrUM" text="The banner of Calradios is part of a legend. It was said to be carried by Calradios the Great, who first led his people to this land, to conquer and despoil. The legend says that no army led by a true son of Calradios shall be defeated in battle.[ib:confident2][if:convo_thinking]"/>
-    <string id="sn3Eabme" text="Of course. I did not witness the battle, but my husband Arenicos spoke frequently of it.[if:convo_calm_friendly]"/>
+    <string id="sn3Eabme" text="Звісно. Я не була свідком битви, але мій чоловік Аренікос часто розповідав про неї.[if:convo_calm_friendly]"/>
     <string id="sSaZVD2e" text="Мій батько забрав імператорський Стяг Дракона з рук мертвого Неретцеса — це відома історія —, але тоді молодший принц Раґанвад спробував забрати його собі. Мій батько переламав держак стягу через коліно і кинув йому, сказавши, щоб той шукав собі інші іграшки для забавки. Ха! Це був гарний день.[if:convo_huge_smile]"/>
     <string id="StLYbEQZ" text="Нам потрібна допомога. Якісь бандити забрали в полон наших молодших брата і сестру. Ми думаємо, що вони могли тут проїжджати."/>
     <string id="str_continue" text="Продовжити..."/>
@@ -527,7 +527,7 @@
     <string id="xachJ1hb" text="Так, у нас все добре. Малі налякані, але з ними все гаразд... Треба швидше забиратися звідси.[if:convo_calm_friendly][ib:confident]"/>
     <string id="XdDQdSsW" text="Я вже відчував ознаки теплового удару і сказав їм про це, але вони тільки ще дужче почали мене шмагати... Якби не ваша група... Можливо, я знаю, як вам віддячити.[ib:normal][if:convo_thinking]"/>
     <string id="XEuhxpCX" text="Now, the Empire uses tricks and traps in war. No Battanian fears to meet an imperial soldier, man-to-man, but we thought it would be a good laugh to use their tricks against them. So we laid an ambush, on both sides of a wooded pass, and wouldn't you know? They marched right into it.[if:convo_happy]"/>
-    <string id="Xg6jhfPt" text="Nimr returned, in well-deserved glory. A daughter of the Banu Qild took an interest in him, and they had a secret affair, as the youth sometimes do. As heroes do. But Nimr's acts wounded the Qildi's pride. They kidnapped him, slew him and hung him in a cage in their market. We will forgive the Empire and the Vlandians. The Qildis... better not ask me that.[if:convo_contemptuous][ib:confident]"/>
+    <string id="Xg6jhfPt" text="Німр повернувся із заслуженою славою. В нього закохалася донька Бану Кілд, і у них зав'язався таємний роман, як це іноді буває у молоді. Як буває у героїв. Але це зачепило гордість клану Кілд. Вони викрали його, вбили і вивісили перед усіма в клітці на ринку. Ми пробачимо Імперію, ми пробачимо вландійців. А от щодо Бану Квілд... краще не питай про це.[if:convo_contemptuous][ib:confident]"/>
     <string id="xGdoz9Pn" text="Що ж, востаннє ми бачили його кілька днів тому. При ньому була якась скриня, про яку він говорив дуже загадково. За його словами, він веде певні 'пошуки', але більше нічого не розповів.[if:convo_pondering]"/>
     <string id="XIIISsIg" text="Це був момент найбільшої гордості для Бані Сарран.[if:convo_calm_friendly][ib:hip]"/>
     <string id="xjduipCO" text="Of course our glorious armies have been defeated many times, but I guess those commanders and emperors were not 'true sons.' Clever little legend. A child could see through it, if she tried, but of course people never try to see through the noble lies that bind us together. Thank Heaven for that.[ib:closed][if:convo_pondering]"/>
