@@ -1444,7 +1444,7 @@
     <string id="CzJZ5zhT" text="So it shall be proclaimed throughout your domain. May {KINGDOM_NAME} forever be victorious!"/>
     <string id="czuvE3PC" text="Do you think I will break my word for a handful more silver?"/>
     <string id="CZuYne8X" text="Singing, dancing and playing an instrument is important but the {?IS_BATTANIA}bard{?}minstrel{\?} knows more. You asked him to make sure the child is also skilled in..."/>
-    <string id="CZwrlJMJ" text="Прибув посланець з пропозицією шлюбу для {.S}{CLAN_MEMBER.NAME}{.v_rod} від клану «{.S}{OFFERING_CLAN_NAME}{.v_rod}»."/>
+    <string id="CZwrlJMJ" text="Прибув посланець з пропозицією шлюбу для {.S}{CLAN_MEMBER.NAME}{.v_rod} від клану «{OFFERING_CLAN_NAME}»."/>
     <string id="d0kbtGYn" text="You don't have enough gold."/>
     <string id="d18Ul2Zl" text="a plate of sardines"/>
     <string id="D1biQObM" text="I will pay double whatever {ISSUE_OWNER.NAME} is paying you! Please consider my offer![if:convo_nervous2][ib:nervous]"/>
