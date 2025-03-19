@@ -875,7 +875,7 @@
     <string id="JdNTRtpJ" text="Підтримуйте високий бойовий дух свого загону. Збирайте та очолюйте армії. Покращуйте своїх воїнів."/>
     <string id="Jelvod71" text="Capturing"/>
     <string id="jfIbp2Hg" text="Follow Up: "/>
-    <string id="jFL2rgkP" text="У вас залишаються воїни та/або полонені! Ви впевнені?"/>
+    <string id="jFL2rgkP" text="У вас ще залишилися воїни та/або полонені, яких можна забрати у свій загін! Ви впевнені?"/>
     <string id="JflqTj4T" text="Інше"/>
     <string id="JG2bgZMM" text="Skirmish in front of ally {AI_SIDE} {CLASS}"/>
     <string id="jGFEbaex" text="Dice Roll"/>
@@ -1675,7 +1675,7 @@
     <string id="YK3nXtoM" text="Друзі"/>
     <string id="YkagFP1z" text="my mother {REFERING_HERO.LINK}"/>
     <string id="ykZLXKH3" text="Слава: {RENOWN}"/>
-    <string id="ylQJwqKH" text="You're leaving hard earned, free loot behind! Are you sure?"/>
+    <string id="ylQJwqKH" text="Ви впевнені, що хочете залишити цю, важко зароблену здобич?"/>
     <string id="ymBKDAuj" text="Show recent events in this war"/>
     <string id="YMIFqVOk" text="Ви дійсно бажаєте здатися? Всі ваші війська будуть втрачені!"/>
     <string id="YNND0kc9" text="Hooked Guarded Spears"/>
