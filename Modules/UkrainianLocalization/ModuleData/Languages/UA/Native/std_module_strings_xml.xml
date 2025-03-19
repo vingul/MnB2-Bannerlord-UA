@@ -1277,7 +1277,7 @@
     <string id="qgL4P2vO" text="Місто процвітає. Люди виглядають ситими та почуваються досить комфортно."/>
     <string id="QgUej8DP" text="Немає активного завдання"/>
     <string id="qhhLVJAC" text="&lt;b&gt;Preparations&lt;/b&gt;"/>
-    <string id="qHkTYCy0" text="Your troops will get {XP_AMOUNT} experience."/>
+    <string id="qHkTYCy0" text="Ваші війська отримають {XP_AMOUNT} очк{#GET_PLURAL_VALUE(XP_AMOUNT)}о{#}и{#}ів{\#} досвіду."/>
     <string id="qKg44yWp" text="Priority"/>
     <string id="QKGVAVcc" text="Governor Perks"/>
     <string id="QL2t7D44" text="До ліміту майстерень"/>
