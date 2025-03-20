@@ -858,7 +858,7 @@
     <string id="abLgPWzf" text="I will continue to honor our deal. Do not forget to do your end, that's all."/>
     <string id="ABmCO23x" text="{QUEST_GIVER.NAME} Needs Help With Brigands"/>
     <string id="abmSQFR5" text="{YOUNG_HERO.LINK} has died under your care. {QUEST_GIVER.LINK} is furious."/>
-    <string id="abpzOR0D" text="Choose a prisoner to break out"/>
+    <string id="abpzOR0D" text="Виберіть полоненого для втечі"/>
     <string id="AbulTQm9" text="{VALUE}% швидкості вербування полонених 1, 2 і 3 класів."/>
     <string id="ABYGws1M" text="I'll bring you {NEEDED_AMOUNT} of those by myself."/>
     <string id="ac8PkfhG" text="Increases tax income from the region"/>
@@ -2221,7 +2221,7 @@
     <string id="i3eT3Zjb" text="Ефективний металург"/>
     <string id="I3GUAb9a" text="I understand your concern, Headman, but I made an agreement. How about I share the profit with you and your people?"/>
     <string id="i4GboakR" text="{VALUE}% безпеки від воїнів дальнього бою у гарнізоні підконтрольного поселення."/>
-    <string id="I4SjNT6Y" text="This will cost you {BRIBE_COST}{GOLD_ICON}.{?ENOUGH_GOLD}{?} You don't have enough money.{\?}"/>
+    <string id="I4SjNT6Y" text="Це коштуватиме вам {BRIBE_COST}{GOLD_ICON}.{?ENOUGH_GOLD}{?} У вас недостатньо коштів.{\?}"/>
     <string id="I5f6Xg3a" text="You must have heard of my deeds. I speak to you as one warrior to another."/>
     <string id="I5LyCJzj" text="Пастух"/>
     <string id="I6oqLFXh" text="focuses on the big picture."/>
@@ -2723,7 +2723,7 @@
     <string id="lbrOAvKj" text="Дальність виявлення +{a0}%"/>
     <string id="Lbs2bNlg" text="{KINGDOM} почне {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="LbTETjZu" text="I want you to crush them. Go to {VILLAGE} and give them a lesson they won't forget.[ib:closed2][if:convo_grave]"/>
-    <string id="lc0YIqby" text="Stage a prison break"/>
+    <string id="lc0YIqby" text="Організувати втечу з в'язниці"/>
     <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Army Commander has canceled the mission."/>
     <string id="LCOZZMta" text="Назва фракції не повинна починатися або закінчуватися пробілами"/>
     <string id="LCsu8rXa" text="{VALUE}% швидше прицілювання з арбалета."/>
