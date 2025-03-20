@@ -1045,7 +1045,7 @@
     <string id="b36QZ1aZ" text="{LYRIC_SCRAP}"/>
     <string id="b3bJXMt2" text="{NUMBER_OF_TROOPS} required troops"/>
     <string id="b3GrvocA" text="You told your men to go carefully, but still collect the revenues. The village notables seemed upset with your decision."/>
-    <string id="b3iBOVXN" text="Passing by a wadi, you see what looks like a camouflaged well to tap the groundwater left behind by rare rainfalls."/>
+    <string id="b3iBOVXN" text="Проходячи повз пересохле річище, ви помічаєте щось схоже на замаскований колодязь для збору води, яка накопичується після рідкісних в цій місцевості дощів."/>
     <string id="b3PsxeiB" text="Оцінювач"/>
     <string id="B3WyJjBx" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT}, asked you to buy some weapons for {?QUEST_GIVER.GENDER}her{?}his{\?} private business. {?QUEST_GIVER.GENDER}She{?}He{\?} offered you {REWARD_GOLD}{GOLD_ICON} for their delivery. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to buy {NEEDED_AMOUNT} {NEEDED_TYPE} and deliver them to {SETTLEMENT} where {QUEST_GIVER.LINK}'s men will be waiting for you. {?QUEST_GIVER.GENDER}She{?}He{\?} promised to give you {REWARD_GOLD}{GOLD_ICON} for your troubles."/>
     <string id="b3YNi4LG" text="I am {CONVERSATION_HERO.LINK}. {FACTION_DESCRIPTION}"/>
