@@ -92,7 +92,7 @@
     <string id="a0ZKBj6P" text="Be an independent clan"/>
     <string id="a29lmPLd" text="Я вже перемагав тебе раніше. Я знаю, як діє ваша братія. Давай. Менше розмов, більше дій."/>
     <string id="a4W7Gzka" text="Yes. Time is of the essence. (Skip tutorial)"/>
-    <string id="A9fChKmz" text="The Empire was an old bear. Well-fed, slow-moving. It wanted to keep what it had. The Sturgians were, and are, hungry wolves. Like us. Sometimes wolves hunt in packs, and sometimes they don't. Sometimes one wolf wants the lion to kill his rival."/>
+    <string id="A9fChKmz" text="Імперія була як старий ведмідь. Вгодований, повільний. Вона хотіла зберегти те, що мала. Стургійці були і є голодними вовками. Як і ми. Іноді вовки полюють зграями, а іноді ні. Іноді вовк хоче, щоб лев убив його суперника."/>
     <string id="aClquusd" text="Troop Count"/>
     <string id="ACyYhA2s" text="Знайти та врятувати лікаря"/>
     <string id="AGIPUYvy" text="У нас були щити, але ж ними можна захиститися тільки з одного боку. Тож ми почали втрачати воїнів, один за одним, і в якийсь момент з-за дерев вискочили з криками баттанські воїни з фальксами. Зазвичай з ними могли б справитися звичайні лучники, але старий Неретцес не додумався послати їх з нами. Тож вони безперешкодно змогли дістатися нас і, рубаючи та колючи, досить швидко здолали наш опір."/>
@@ -364,7 +364,7 @@
     <string id="oa4XFhve" text="Дістатися до села {VILLAGE_NAME}"/>
     <string id="oaSTbNwz" text="So have you made up your mind now?"/>
     <string id="OffNcRby" text="Тоді гаразд. Вирушаймо в дорогу."/>
-    <string id="Og8nep1w" text="Вони занадто розтягнулися, ганяючись за імперськими лучниками. Легка піхота проти наших лицарів — ніщо. Не було ніякого супротиву. Дозвольте я вам дещо розкажу: дев'яносто відсотків перемоги — це вміння розпізнати, коли твій ворог зробив помилку. Легковажні гинуть так само швидко, як і слабкі, і заслуговують на це не менше.[ib:hip]"/>
+    <string id="Og8nep1w" text="Вони занадто розтягнулися, ганяючись за імперськими лучниками. Легка піхота проти наших лицарів — ніщо. Не було ніякого супротиву. Дозвольте я вам дещо розкажу: дев'яносто відсотків перемоги — це вміння розпізнати момент, коли твій ворог зробив помилку. Легковажні гинуть так само швидко, як і слабкі, і заслуговують на це не менше.[ib:hip]"/>
     <string id="OKgsM4nr" text="I curse that name. It took from me my husband, two brothers, more cousins than I can count.[ib:confident2][if:convo_stern]"/>
     <string id="oKknZdXn" text="You should join the kingdom that you wish to support by talking to the leader. None will bring back the Palaic people, but the final victory of any one of those would be suitable vengeance."/>
     <string id="oL9BdThD" text="Choose one and pledge allegiance. When this civil war began, I was a bit torn... Rhagaea was the cleverest ruler, Garios probably the best fighter, and Lucon seemed to have the best grasp of our laws and traditions. But you can make up your own mind."/>
@@ -434,8 +434,8 @@
     <string id="S5Dn2K3m" text="You couldn't stop the conspiracy."/>
     <string id="Sb46O8WO" text="{.m}Ортос{.R_n20_a_ke}"/>
     <string id="scjogyUD" text="Старий король Вадінслав був досить хоробрим. Він повів нас всіх у бій. Я стояв поруч з батьком, коли ми зустрілися з імперцями віч-на-віч, дивлячись один на одного поверх своїх щитів. Це було схоже на будь-яку іншу битву, де зустрічаються дві стіни з щитів — штовхаєш і намагаєшся встояти на ногах, але це важко описати словами. Скажу лише, що в таких битвах зазвичай перемагають стургійці.[ib:confident2]"/>
-    <string id="sejEf69A" text="Я не чув солодшої музики, ніж грім наших копит, коли ми налетіли на збіговисько асераїв. Ми накинулися на них, як сокіл на кролика.[if:convo_bemused]"/>
-    <string id="SF7dqoEe" text="Of course Nimr's arrogance doubled, and doubled again. And then he dealt us a great insult. I will not say what that insult was, because it longer exists. We wiped it out. In the traditional way. You may ask someone else about that."/>
+    <string id="sejEf69A" text="Я не чув солодшої музики, ніж гуркіт копит нашої кінноти, яка налетіла на те збіговисько асераїв. Ми накинулися на них, як сокіл на кролика.[if:convo_bemused]"/>
+    <string id="SF7dqoEe" text="Звісно, зарозумілість Німра подвоїлася, а потім ще раз подвоїлася. А потім він завдав нам страшної образи. Смертельно страшної. Я не буду говорити, в чому полягала та образа, бо її вже немає. Ми її стерли. У звичний для нас спосіб. Ви можете запитати про це в когось іншого."/>
     <string id="SFJFIaAD" text="Well... King Caladog's great victory... Who would dare say anything to tarnish its shine?[if:convo_undecided_open][ib:closed]"/>
     <string id="ShG19Xhi" text="Дякую..."/>
     <string id="sJeYHMGG" text="You have unified the Empire."/>
@@ -453,7 +453,7 @@
     <string id="T8naYoGH" text="Поговорити зі знаттю"/>
     <string id="taOCFKtZ" text="You need to recruit more troops to deal with the raider party. Go back to village to recruit more troops."/>
     <string id="TB20aFsf" text="You probably are aware that I am {CONVERSATION_HERO.FIRSTNAME}. I am not sure why you have sought me out, but know that my old life, as imperial lap-dog, is over."/>
-    <string id="tBGtavMG" text="Most of those who went were Khergits. They are a young clan. Their lineage is not like ours. They were always looking to prove themselves. Anyway, at the battle, their noyan, Solun, was slain alongside most of the males of his house. What can I say? A thirst for glory is dangerous, both to the thirsty one and those around him."/>
+    <string id="tBGtavMG" text="Більшість з тих, хто поїхав, були Хергітами. Це молодий клан. Їхній родовід не схожий на наш. Вони завжди прагнули проявити себе. Так от, у битві загинув їхній нойон, Солун, разом з більшістю чоловіків свого роду. Що тут скажеш? Жага слави небезпечна, як для самого спраглого, так і для тих, хто його оточує."/>
     <string id="TcRH7abK" text="When you have recovered all pieces, return to me and I'll help you put them to use.[if:convo_calm_friendly]"/>
     <string id="TEgoba7R" text="Good. Then I will tell you what I know. I heard about one other piece.[ib:confident2][if:convo_calm_friendly]"/>
     <string id="TeMExjrH" text="This option is disabled during current active quest."/>
@@ -490,7 +490,7 @@
     <string id="upyNhwZ9" text="Yes, I intend to use the banner to help destroy the empire."/>
     <string id="US0VAHiE" text="You have eliminated a {RAIDER_NAME} party."/>
     <string id="uvbCyLiR" text="Is that true? Well, that is interesting.[ib:normal][if:convo_astonished]"/>
-    <string id="UVuwofhS" text="Clans rise, clans fall. My duty is to all the Khuzaits. Look at it this way. Were it not for her husband's death, Lady Mesui would never have inherited the leadership of the Khergits. Death creates opportunity. The survivors of a great battle make a great show of mourning, but inside they rejoice.[ib:closed][if:convo_mocking_revenge]"/>
+    <string id="UVuwofhS" text="Клани зростають, клани занепадають. Мій обов'язок — служити всім хузаїтам. Поглянь на це з іншого боку. Якби не смерть свого чоловіка, леді Месуї ніколи б не успадкувала владу в клані Хергітів. Смерть створює можливості. Ті, хто вижив у великій битві, вдають жалобу, але всередині вони радіють.[ib:closed][if:convo_mocking_revenge]"/>
     <string id="V5K8RpAa" text="{MENTOR.LINK}'s message: “Greetings, {PLAYER.NAME}. We have a new problem. I've had reports from my agents of unusual bandit activity near {TARGET_SETTLEMENT}. They appear to be raiding and killing travellers {?IS_EMPIRE}under the protection of the Empire{?}who aren't under the protection of the Empire{\?}, and leaving the others alone. This seems very much like the work of {NEMESIS_MENTOR.LINK}, to terrorize local merchants so that no one will stand up for our cause. I advise you to wipe these bandits out as quickly as possible. That would send a good message, both to our allies and our enemies.”"/>
     <string id="vaLehwRl" text="We had given an oath to the Empire, to join them if attacked. It seemed clear to me that we should have honored our oath, that the Battanians and Sturgians were aggressors, but, there is always room to argue details. Ultimately our barons did not wish to fight with the Empire, so they resisted coming to its help.[if:convo_undecided_closed]"/>
     <string id="VbJvL8yB" text="Так, ти не можеш мені довіряти. Але я тобі потрібен. І, думаю, у тебе достатньо людей, щоб досить швидко перерізати мені горлянку, якщо я заманю тебе в пастку. А мені не треба тобі довіряти — ти мій засіб помсти, а не партнер.[if:convo_grave]"/>
@@ -511,7 +511,7 @@
     <string id="WDylM3dx" text="Він вирушив у дорогу за кілька годин до того, як сюди навідалися бандити. Розумієте, він не надто пристосований до цього жорстокого світу. Він з тих людей хто, потрапивши в пастку, просто дає себе схопити. Ми хвилюємося за нього.[if:convo_dismayed]"/>
     <string id="weS3DJKA" text="Weakened by war, the ruler of the {FACTION} offers to make peace with {PLAYER_FACTION}."/>
     <string id="WIUbM9Hc" text="Виберіть зброю, щоб почати тренування."/>
-    <string id="WN1tHPnB" text="Ми повинні були захопити всю західну імперію. Якби у Дертерта було хоч трохи мужності, ми б так і зробили. Але його серце ніколи не лежало до війни. Він вважав, що порушив присягу Імперії, допомагаючи стургійцям, і це гризло його. З нього вийшов би чудовий слуга. Натомість він наш король.[if:convo_contemptuous]"/>
+    <string id="WN1tHPnB" text="Ми повинні були захопити всю Західну Імперію. Якби у Дертерта було хоч трохи мужності, ми б так і зробили. Але його серце ніколи не лежало до війни. Він вважав, що порушив присягу Імперії, допомагаючи стургійцям, і це гризло його. З нього вийшов би чудовий слуга. Натомість він наш король.[if:convo_contemptuous]"/>
     <string id="WN6aHR6m" text="Бандити розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, перш ніж атакувати знову."/>
     <string id="wO19nK2y" text="Ви послабили Імперію."/>
     <string id="WTjAYUoD" text="Знайти іншу частину стягу для Істіани"/>
