@@ -448,7 +448,7 @@
     <string id="5id9mGrc" text="Ви поруч з ареною. {ADDITIONAL_STRING}"/>
     <string id="5IQriov5" text="You avoided critical failure because of {PERK_NAME}."/>
     <string id="5j6mIuu1" text="What? I don't understand."/>
-    <string id="5JaGVr0U" text="While traveling by a low range of hills, you see what appears to be the remains of a campsite in a stream gully."/>
+    <string id="5JaGVr0U" text="Подорожуючи вздовж невисокої смуги пагорбів, ви помічаєте залишки табору у видолинку струмка."/>
     <string id="5jAH0VV7" text="Heir Come of Age"/>
     <string id="5JTEvvaO" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}очко{#}очки{#}очків{\#} фокусу: {SKILL_ONE} і {SKILL_TWO}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}очко{#}очки{#}очків{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
     <string id="5kxDhBWk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are not high enough but can be useful with sufficient garrison support."/>
