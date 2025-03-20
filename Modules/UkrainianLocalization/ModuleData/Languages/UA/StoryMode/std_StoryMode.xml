@@ -69,7 +69,7 @@
     <string id="77TavbOY" text="Ви пройшли весь курс навчання. Ви завжди можете повернутися, щоб покращити свої результати."/>
     <string id="7FWF01bW" text="Біженці"/>
     <string id="7O8IwMgU" text="О, тобі вам точно знадобиться моя допомога, якщо ви хочете повернути їх назад живими. Розумієте, у моїх хлопців є досить конкретні інструкції, що їм треба робити, якщо хтось спробує їх врятувати..."/>
-    <string id="7ULaG8aT" text="Then you can come back when you made your mind up.[ib:closed][if:convo_insulted]"/>
+    <string id="7ULaG8aT" text="Тоді ти приходь, коли приймеш рішення.[ib:closed][if:convo_insulted]"/>
     <string id="7VFLb3Qj" text="Ви прибули в село."/>
     <string id="7wmkPNbI" text="Захищайтеся справа."/>
     <string id="7XTkTi9B" text="{PLAYER_LITTLE_SISTER.NAME} є молодшою сестрою {.S}{PLAYER.LINK}{.v_rod}."/>
@@ -133,7 +133,7 @@
     <string id="bT9yspaQ" text="You have lost the battle against the conspiracy's caravan. A stronger adversary awaits us..."/>
     <string id="btAV7mmq" text="You are defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="BTY2aZCt" text="Увійдіть до тренувального майданчика."/>
-    <string id="bWdsH2Ls" text="За все життя в політиці, я вивчив одну важливу річ: немає нічого гіршого за хаос. Чи варто говорити, що я краще за будь-кого знаю про всю ту брехню та жорстокість, на яких трималася ця імперія? Але всі ті вбивства, які я вчинив за 10 років служби у Неретцеса, не зрівняються з кількістю загиблих за одну лише годину штурму армією міста.[if:convo_snide_voice]"/>
+    <string id="bWdsH2Ls" text="Життя в політиці навчило мене одну важливу річ: немає нічого гіршого за хаос. Чи варто говорити, що я краще за будь-кого знаю про всю ту брехню та жорстокість, на яких трималася ця імперія? Але всі ті вбивства, вчинені мною за 10 років служби у Неретцеса, не зрівняються з кількістю загиблих за одну лише годину штурму армією міста.[if:convo_snide_voice]"/>
     <string id="BXMKgTXl" text="This will make a great impression. It will attract allies, but also probably make you new enemies. Are you sure you're ready?[if:convo_astonished]"/>
     <string id="bXYFXLgg" text="Збільште кількість денарів на 1000"/>
     <string id="bZI82WMt" text="Покінчимо з цим! В атаку!"/>
@@ -183,7 +183,7 @@
     <string id="EdUppdLZ" text="ви перехитрили грабіжників."/>
     <string id="eH8z6Fws" text="Despite its Dragon Banner, the {PLAYER_SUPPORTED_KINGDOM} has been destroyed!"/>
     <string id="ehnbi5yD" text="Боюся, я не бачив дітей. Але після того, як на наш караван напали, ватажок нападників, якого вони називають Радагосом, зібрав всі наші найцінніші речі, в тому числі скриню, яка була у мене, і поїхав з ними.[ib:closed][if:convo_empathic_voice]"/>
-    <string id="EitTbGvB" text="I am not sure. I haven't made up my mind about this."/>
+    <string id="EitTbGvB" text="Я не впевнений. Я ще не прийняв рішення щодо цього."/>
     <string id="eJX7rhch" text="Ви успішно відбудували свій клан."/>
     <string id="elJCacQO" text="Я працюю над цим."/>
     <string id="eNJBjYG8" text="You successfully assembled the Dragon Banner of Calradios."/>
@@ -204,7 +204,7 @@
     <string id="F7VxtCSd" text="Цей параметр не доступний під час навчання."/>
     <string id="FaQDaRri" text="Я пройду навчання. Я маю знати, що зможу битися, якщо доведеться. (Продовження уроку)"/>
     <string id="fBJRdxh2" text="Try again."/>
-    <string id="FBp2ranI" text="So, can you help me find a buyer for it?"/>
+    <string id="FBp2ranI" text="Тож, ти можеш допомогти мені знайти покупця на цю частину стягу?"/>
     <string id="fC60rYwy" text="Атакуйте справа."/>
     <string id="Fgta5mF6" text="Before I answer, you and I need to know more about each other. I don't know what you know about me.  I was a citizen of the Empire. I was a commander in the imperial armies. But I am not imperial.[ib:confident][if:convo_thinking]"/>
     <string id="FHM5GcHW" text="Good. Then I will tell you what I know. I heard about one other piece.[ib:normal2][if:convo_calm_friendly]"/>
@@ -227,7 +227,7 @@
     <string id="gBbm9beO" text="Влучте у всі мішені. Залишилось влучити в {REMAINING_TARGET} мішен{#GET_PLURAL_VALUE(REMAINING_TARGET)}ь{#}і{#}ей{\#}."/>
     <string id="GCbqpeDs" text="Навчання завершено. Тепер ви можете вільно досліджувати Кальрадію."/>
     <string id="gdgbaMOP" text="I am not sure I share your views."/>
-    <string id="GDNXavAl" text="There's nothing special about our Empire. [if:convo_calm_friendly]Any one of these petty kings and khans and sultans could probably get lucky and conquer Calradia and do as good a job ruling it as we did. But the point is - we already did it. Our greatest crimes are in the past. Let us not undo what has already been done."/>
+    <string id="GDNXavAl" text="У нашій Імперії немає нічого особливого. [if:convo_calm_friendly]Будь-кому з цих дрібних королів, ханів і султанів, може колись пощастити завоювати всю Кальрадію і правити нею не гірше за нас. Але справа в тому, що ми це вже зробили. Наші найстрашніші злочини вже залишилися в минулому. Давайте не будемо проходити через все це саме заново."/>
     <string id="GGfM1HKn" text="Welcome to MBII Bannerlord"/>
     <string id="GicEcLx2" text="Побачимося там. Але пам'ятай, якщо це пастка або щось подібне, це коштуватиме тобі життя."/>
     <string id="gJBNUAJd" text="Завершіть заїзд та влучте у якомога більше мішеней."/>
@@ -264,7 +264,7 @@
     <string id="HvGW2DvS" text="Заїзд розпочато."/>
     <string id="i3SSc0I4" text="План {IMPERIAL_MENTOR.NAME}{.v_rod}"/>
     <string id="i5OOargr" text="Such are the fortunes of war. But what came afterwards... When word spread of what happened to our menfolk, the other clans - the Arkits in particular - knew we were weak. Our herds were raided. Anyone who protested was killed. Monchug did little to stop it. It taught us that valor will get you killed, but treachery will make you rich.[if:convo_angry]"/>
-    <string id="IavuL9KI" text="Of course. I intend to use the banner to help save the Empire."/>
+    <string id="IavuL9KI" text="Звісно. Я маю намір використати стяг для порятунку Імперії."/>
     <string id="ib2TKPUa" text="The ruler of the {FACTION} is leading the alliance against you. Defeat their armies or force them to make peace by capturing their settlements and destroying their parties to achieve victory."/>
     <string id="ibm9EEPa" text="No, I need more time to decide."/>
     <string id="IC9Vg5MA" text="Зустрінемося там пізніше, коли будеш готовий мені все розповісти.[if:convo_normal][ib:normal2]"/>
@@ -288,7 +288,7 @@
     <string id="JhEzD45J" text="Купити {._}{GRAIN}"/>
     <string id="JJo0i8an" text="Пошукайте навколо села і знайдіть загін, що захопив лікаря, про якого вам розповів староста."/>
     <string id="Jn4r0GjD" text="So, can you help me find a buyer for it?"/>
-    <string id="jnOa3cbK" text="Before I reveal that information to you, I need to know more about your intentions. One could use the banner to restore the empire, but one could also use the banner to destroy it.[ib:closed][if:convo_angry_voice]"/>
+    <string id="jnOa3cbK" text="Перш ніж я відкрию тобі цю інформацію, я хочу дізнатися більше про твої наміри. Цей стяг можна використати як для відновлення імперії, так і для її знищення.[ib:closed][if:convo_angry_voice]"/>
     <string id="JOJ09cLW" text="Поїхали."/>
     <string id="jPKIN2r4" text="І ще одне. Коли ти розмовлятимеш зі знатними особами чи іншими важливими людьми, не забудь представлятися як людина з якоїсь далекої, але дуже поважної сім'ї.[if:convo_thinking]"/>
     <string id="JTPmw3cb" text="You couldn't complete the quest in time."/>
@@ -311,7 +311,7 @@
     <string id="kvTEeUWO" text="Не в той бік!"/>
     <string id="kw9sltab" text="Баттанці планували влаштувати засідку на лісистому перевалі для імперського авангарду, після чого з флангів мали кинутись в атаку вландійці та стургійці. Наші розвідники знайшли баттанську засідку, але Неретцес їх не послухав і все одно відправив воїнів в неї."/>
     <string id="kwW6v202" text="Вийти на позицію для стрільби"/>
-    <string id="KXj8bsao" text="So... If you intend to use the banner to save the Empire, I'll tell you what I know. But if you want to go backward, not forward, then I will not help you.[ib:closed][if:convo_undecided_closed]"/>
+    <string id="KXj8bsao" text="Отже... Якщо ви бажаєте використати цей стяг для порятунку Імперії, я розповім вам те, що знаю. Але якщо ви хочете йти назад, а не вперед, то я вам не допомагатиму.[ib:closed][if:convo_undecided_closed]"/>
     <string id="kYtRsxSL" text="We fought the Vlandians. We won, but there was a great slaughter. My husband's horse was slain and he was ridden down, though he died amid a pile of Vlandian dead. Elsewhere on the field, the Emperor was having his head hewn off with a Sturgian axe, and thus was in no position to pay us."/>
     <string id="KYW1UiKm" text="The Khergits were never the richest of the clans, but we made up for it with our valor. When word spread that the Emperor was promising silver for men to ride at his side, against the Sturgians and Battanians and others, of course our young brave boys lept at the chance. My husband, the bravest and best of them all, led them."/>
     <string id="kz5PJbV1" text="Я зроблю це. За всі ті численні злочини, вчинені тобою, {RADAGOS.NAME}{.v_kly}, я позбавляю тебе життя."/>
@@ -338,7 +338,7 @@
     <string id="mmQRCHUM" text="А я своєю чергою матиму задоволення вбити цього виродка. То що скажете?[if:convo_snide_voice][ib:confident2]"/>
     <string id="MMv3hsmI" text="Я не беру участь у дуелях з мерзенними рабовласниками. Хлопці, в атаку!"/>
     <string id="mN60B07k" text="You have lost the battle against raiders and failed to defeat conspiracy forces. Many of the locals feel that you've brought misfortune upon them, and want nothing to do with you."/>
-    <string id="MnmblprY" text="So, where can I find the other pieces?"/>
+    <string id="MnmblprY" text="Тож, де мені шукати інші частини?"/>
     <string id="MOVWOyeh" text="Clearly you have been chosen by Heaven for a great purpose. I see the makings of a new legend here... Allow me to call you 'Bannerlord.'[ib:normal][if:convo_relaxed_happy]"/>
     <string id="MREvo37b" text="Якщо ви зможете його розшукати, цього Тактеоса, ми будемо дуже вдячні. Можливо, якщо він живий і здоровий, він розповість вам трохи більше про ці свої 'пошуки'.[if:convo_normal]"/>
     <string id="mtiaY2Pa" text="How can I support an existing kingdom?"/>
@@ -517,7 +517,7 @@
     <string id="WTjAYUoD" text="Знайти іншу частину стягу для Істіани"/>
     <string id="WUa1gnkS" text="Look, right before the battle, our high king, Aeril, disappears. And his adopted son Caladog becomes king. That sets tongues to wagging, you know? But let me tell you - old Aeril could never in his life have won such a victory as did Caladog, that day."/>
     <string id="wvHvnEog" text="Знайдіть лігво, про яке вам розповів Арзагос, і отримайте наступну частину стягу."/>
-    <string id="WWcG7kPr" text="A 'buyer'? Think bigger than that. Let me just say that, if you can find the missing pieces, I am sure I can help you put it to good use.[ib:confident2][if:convo_calm_friendly]"/>
+    <string id="WWcG7kPr" text="«Покупця»? Думай масштабніше. Якщо ти знайдеш всі відсутні шматки, то я допоможу тобі отримати набагато більше користі з цього.[ib:confident2][if:convo_calm_friendly]"/>
     <string id="wWLnZ6G4" text="Оскільки ваші пошуки родичів виявилися марними, то ось моя пропозиція: ви забираєтесь звідси і рятуєте свої нікчемні життя. Або це, або я змушу вас всіх злизати своїми язиками всю ту кров, яку ви тут пролили. Або... Ми з тобою можемо вирішити все один на один.[if:convo_angry_voice]"/>
     <string id="WysXGbM6" text="Right click to defend"/>
     <string id="X1TJNkBV" text="Ми знайшли ваших молодших брата і сестру. Але мій колишній напарник {HIDEOUT_BOSS.LINK} зрадив мене. Ми прийшли в його табір, щоб домовитися про звільнення дітей, а він нас одразу ж схопив.[if:convo_angry_voice]"/>
@@ -530,7 +530,7 @@
     <string id="Xg6jhfPt" text="Німр повернувся із заслуженою славою. В нього закохалася донька Бану Кілд, і у них зав'язався таємний роман, як це іноді буває у молоді. Як буває у героїв. Але це зачепило гордість клану Кілд. Вони викрали його, вбили і вивісили перед усіма в клітці на ринку. Ми пробачимо Імперію, ми пробачимо вландійців. А от щодо Бану Квілд... краще не питай про це.[if:convo_contemptuous][ib:confident]"/>
     <string id="xGdoz9Pn" text="Що ж, востаннє ми бачили його кілька днів тому. При ньому була якась скриня, про яку він говорив дуже загадково. За його словами, він веде певні 'пошуки', але більше нічого не розповів.[if:convo_pondering]"/>
     <string id="XIIISsIg" text="Це був момент найбільшої гордості для Бані Сарран.[if:convo_calm_friendly][ib:hip]"/>
-    <string id="xjduipCO" text="Of course our glorious armies have been defeated many times, but I guess those commanders and emperors were not 'true sons.' Clever little legend. A child could see through it, if she tried, but of course people never try to see through the noble lies that bind us together. Thank Heaven for that.[ib:closed][if:convo_pondering]"/>
+    <string id="xjduipCO" text="Звичайно, наші славні армії багато разів зазнавали поразки, але мабуть, ті полководці та імператори не були «справжніми синами». Хитра байка. Навіть дитина могла б зрозуміти цю хитрість, якби постаралася, але, звичайно, люди ніколи не намагаються побачити правди у благородній брехні, яка зв'язує нас разом. Дякувати небесам за це.[ib:closed][if:convo_pondering]"/>
     <string id="xjk4hNXD" text="I did not fight in the battle. I stood on a hill telling my commanders where to go and who to attack. And we did rather well, I think you've heard. Still, we took losses - heavy losses, and gained little. And for this the barons blamed me, even though it was their idea to fight. I learned that day that a king should always lead, never follow. But it was a bitter lesson.[if:convo_contemptuous][ib:closed]"/>
     <string id="xknCpvcb" text="Заспокойся. Я зараз тобі все розповім.[ib:closed2][if:convo_grave]"/>
     <string id="xL3WGYsw" text="Collected Pieces"/>
