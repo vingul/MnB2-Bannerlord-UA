@@ -1410,7 +1410,7 @@
     <string id="T592iYI4" text="You roll a {DICE_ROLL}."/>
     <string id="T5VsEnNE" text="Men Count"/>
     <string id="t5X1TNBq" text="Use siege machines{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
-    <string id="t6DiaDQ3" text="a begum"/>
+    <string id="t6DiaDQ3" text="беґум"/>
     <string id="t6NXmyoF" text="{.a} {STR}"/>
     <string id="t6sgwieR" text="Crafted Value"/>
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rf:convo_bemused]"/>
