@@ -32,7 +32,7 @@
     <string id="3Pq58i2u" text="Conspiracy base of operations discovered"/>
     <string id="3XbTo6O7" text="Also, of course, I recommend that you have as large an army as you can gather."/>
     <string id="3YHL3wpM" text="{BROTHER.NAME}:"/>
-    <string id="40oa2Nav" text="The banner of Calradios is part of a legend. They say it was carried by Calradios the Great as he led his small band of exiles into this land to make a new home for themselves. They say that, so long as it is carried by a true son of Calradios, he shall never be defeated in battle. Or a daughter, I imagine, although that has never come up.[ib:confident][if:convo_undecided_closed]"/>
+    <string id="40oa2Nav" text="Стяг Кальрадіоса — це легенда. Кажуть, що його ніс сам Кальрадіос Великий, коли привів свій невеликий загін вигнанців на цю землю, щоб побудувати тут новий дім. Кажуть, що якщо справжній син Кальрадіоса буде нести цей стяг, то він ніколи не зазнає поразки в бою. Або дочка, гадаю, хоча про це ніколи не йшлося.[ib:confident][if:convo_undecided_closed]"/>
     <string id="4Baa38ra" text="We won, barely, with the help of the imperials, but the Khergits were mauled. Since then, the Khergits have been rather weak - and you know what happens to the weak. Still, no one told them to put all their eggs in one basket like that.[if:convo_bored2]"/>
     <string id="4cw169Kb" text="third and the final"/>
     <string id="4d5SP6B6" text="{MENTOR.LINK} suggested that you should support an anti-imperial kingdom by offering them the Dragon Banner."/>
@@ -50,15 +50,15 @@
     <string id="5D5lOHSL" text="When you have recovered all pieces, return to me and I'll help you put them to use.[if:convo_calm_friendly]"/>
     <string id="5g9ZFGrN" text="Ви знаходитесь на тренувальному полігоні. Тут ви можете навчитися основам ведення бою."/>
     <string id="5j6qvGAF" text="Excellent work! When you unfurl this banner, and men see what they thought was lost, it will make a powerful impression.[ib:normal2][if:convo_astonished]"/>
-    <string id="5K4wvz3w" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про стяг Неретцеса. Наразі він перебуває в {.S}{SETTLEMENT}{.v_dav}."/>
+    <string id="5K4wvz3w" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про стяг Неретцеса. Наразі він перебуває в {.S}{SETTLEMENT}{.v_mis}."/>
     <string id="5LJTeOBT" text="Я був з караваном і тут раптом вони просто вийшли з кущів. Ми були оточені та в меншості, тому ми одразу здалися. Я подумав, що вони збережуть нам життя, хоча б заради викупу. Але потім вони почали гнати нас на шаленій швидкості, без води, і мені здавалося, що я ось-ось впаду.[ib:nervous2]"/>
     <string id="5Mw4trfs" text="Як тільки завершите підготовку, приходьте до мене і поговоримо ще раз. Я можу запропонувати вам певну роботу, якщо ви збираєтесь переслідувати цих бандитів.[if:convo_pondering]"/>
     <string id="5PGokzW1" text="Talk is cheap. If you really want me that bad, I challenge you to a duel."/>
     <string id="5qhaDtef" text="No. Let me rethink this."/>
-    <string id="5QiuMoe6" text="I believe I have a piece of the Dragon Banner of Calradios."/>
+    <string id="5QiuMoe6" text="Здається, у мене є шматок Стягу Дракона Кальрадіоса."/>
     <string id="5soUEFEJ" text="{TACTEOS.NAME} сказав, що якщо запропонувати цю штуку правильній людині, то вона викладе за неї цілий статок. Звичайно, через це тебе також можуть легко і вбити. Тож будь обережним. Нікому не розказує, що в тебе є ця річ. Постарайся зрозуміти її вартість і те, кому її можна продати.[if:convo_pondering]"/>
-    <string id="5UHbg6D0" text="So. What brings you to me?"/>
-    <string id="6aDiS9eP" text="I am {CONVERSATION_HERO.FIRSTNAME}. You probably already know that, though. Once I wielded great power, but now... Anyway, I am most curious what you might want with me."/>
+    <string id="5UHbg6D0" text="Отже. Що привело тебе до мене?"/>
+    <string id="6aDiS9eP" text="Я {CONVERSATION_HERO.FIRSTNAME}. Ти, напевно, вже це знаєш. Колись у мене було багато влади, але тепер... Хай там як, мені дуже цікаво, що тобі від мене потрібно."/>
     <string id="6Dd3Pa07" text="You managed to thwart the conspiracy."/>
     <string id="6iytd81P" text="You are defeated by the bandits in the hideout but you managed to escape. You need to wait a while before attacking again."/>
     <string id="6LQUuQhV" text="Thank you for your precious help."/>
@@ -392,7 +392,7 @@
     <string id="pVKkclVk" text="Interactions are limited during tutorial phase. This interaction is disabled."/>
     <string id="pX5cx3b4" text="I mean you no harm. We're hunting a group of raiders who took our brother and sister."/>
     <string id="Q2obAF4E" text="So! You have much to do. I will await news of your success. Return to me when you wish to declare your ownership of the banner to the world."/>
-    <string id="q80FFaBj" text="Then there is {ANTI_IMPERIAL_MENTOR.NAME}, who was his bodyguard. He's supposed to be near {ANTI_IMPERIAL_MENTOR_SETTLEMENT} - though I hear he's changed quite a bit since then."/>
+    <string id="q80FFaBj" text="Ще є {ANTI_IMPERIAL_MENTOR.NAME}, який був його охоронцем. Він має бути поблизу {.S}{ANTI_IMPERIAL_MENTOR_SETTLEMENT}{.v_rod}. Хоча, я чув, він дуже змінився з того часу."/>
     <string id="qa0o7xaj" text="Clan Independence"/>
     <string id="Qb0wsarP" text="Був один воїн на ім'я Німр, з роду Бані Сарран. Він був хоробрим, але зарозумілим. Звичайно, молодь любила його. Він хотів повести людей на війну з Імперією, і хоча нам ця війна була невигідною, Ункід дозволив йому це зробити. Ункід іноді буває занадто слабохарактерним.[if:convo_thinking]"/>
     <string id="QbsDYITB" text="Авжеж, авжеж. Ну, тоді вперед.[ib:closed2][if:convo_calm_friendly]"/>
@@ -447,7 +447,7 @@
     <string id="str_continue" text="Продовжити..."/>
     <string id="SVcr0EJM" text="Caravan is moving on to {TO_SETTLEMENT_LINK} from {FROM_SETTLEMENT_LINK}."/>
     <string id="SvYCz6z6" text="You've lost. You can restart the training by interacting weapon rack."/>
-    <string id="t71lPdyb" text="How so?"/>
+    <string id="t71lPdyb" text="Це як?"/>
     <string id="T7OTmJUp" text="{MENTOR.LINK} has a message for you"/>
     <string id="T7ye4wUT" text="King Aeril disappeared while hunting, and Caladog becomes king. He leads the tribes to war. Oh, we were eager enough, even though Aeril had made a truce with the Emperor, sealed by oaths. When we were dazzled with the prospect of vengeance, who cares about our sacred word and honor?[ib:confident]"/>
     <string id="T8naYoGH" text="Поговорити зі знаттю"/>
@@ -545,7 +545,7 @@
     <string id="y150haHv" text="Disrupt Supply Lines"/>
     <string id="y3fn2vWY" text="Найняти воїнів"/>
     <string id="Y6OJHdMH" text="Я дуже зайнята людина, але на те, щоб поговорити про благословенну битву під Пендраїком, в мене завжди знайдеться час.[if:convo_mocking_teasing][ib:confident3]"/>
-    <string id="Y6SqyQwn" text="Meet with {HERO.NAME}"/>
+    <string id="Y6SqyQwn" text="Зустрітися з {HERO.NAME}{.v_oru}"/>
     <string id="y84UnOQX" text="Assemble the Dragon Banner"/>
     <string id="ya8eMCpj" text="Unify the Empire"/>
     <string id="YAWCkOYa" text="Сліди виглядають свіжими, і я бачив дим на горизонті. Вони не можуть рухатися надто швидко, якщо все ще займаються мародерством і набігами. Ні, я впевнений, що ми зможемо врятувати малих... або загинемо, намагаючись."/>
