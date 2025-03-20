@@ -97,7 +97,7 @@
     <string id="ACyYhA2s" text="Знайти та врятувати лікаря"/>
     <string id="AGIPUYvy" text="У нас були щити, але ж ними можна захиститися тільки з одного боку. Тож ми почали втрачати воїнів, один за одним, і в якийсь момент з-за дерев вискочили з криками баттанські воїни з фальксами. Зазвичай з ними могли б справитися звичайні лучники, але старий Неретцес не додумався послати їх з нами. Тож вони безперешкодно змогли дістатися нас і, рубаючи та колючи, досить швидко здолали наш опір."/>
     <string id="agrsO3qQ" text="Due to your successful skirmishes against {RAIDER_NAME}, a conspiracy war party is now patrolling around {SETTLEMENT}."/>
-    <string id="aGX3L8mV" text="We heard that the Empire was making war on the Sturgians, or maybe it was the other way around. I thought that we had no stake in this quarrel but Nimr, a fiery young hero from the Bani Sarran, asked me for permission to take some young warriors, eager for glory."/>
+    <string id="aGX3L8mV" text="Ми чули, що Імперія воює зі стургійцями, а може, все було навпаки. Втім, я вважав, що нам немає ніякого діла до їх чвар, але Німр, запальний молодий герой з Бані Сарран, попросив у мене дозволу взяти з собою кількох молодих воїнів, спраглих до слави."/>
     <string id="AHDQffXv" text="Have you assembled the banner?"/>
     <string id="AhthUkMu" text="People say they're still about. We're sleeping in the woods, not going back until they're gone. You hunt them down and kill every one, you hear! Heaven protect you! Heaven guide your swords![if:convo_nervous2][ib:nervous]"/>
     <string id="AhWyBEhd" text="Він був одним із довірених воєначальників імператора. Він не зміг запобігти неминучому розгрому Неретцеса, але йому вдалося дещо врятувати в тій катастрофі. Коли стургійці прорвалися через наші барикади, він зумів вивести групу особистих охоронців Неретцеса."/>
@@ -128,7 +128,7 @@
     <string id="Bo66bfTh" text="Own {?IS_IMPERIAL}an Imperial Settlement{?}a Settlement{\?} "/>
     <string id="BrHU0NuE" text="Maybe. But if we do, you won't live to see it."/>
     <string id="bSDt8FN5" text="Я {?PLAYER.GENDER}готова{?}готовий{\?}. Поїхали!"/>
-    <string id="BstbQV5Z" text="It was a tragedy that gnawed at the roots of all the great families of Calradia, even ours, so far away from the battle.[if:convo_annoyed][ib:normal2]"/>
+    <string id="BstbQV5Z" text="Це була трагедія, яка зачепила за живе всі великі родини Кальрадії, навіть нашу, таку далеку від тієї битви.[if:convo_annoyed][ib:normal2]"/>
     <string id="bsWSecYa" text="{PLAYER_BROTHER.NAME} is the elder brother of {PLAYER.LINK}. He has gone in search of the family's two youngest siblings, {PLAYER_LITTLE_BROTHER.NAME} and {PLAYER_LITTLE_SISTER.NAME}."/>
     <string id="bT9yspaQ" text="You have lost the battle against the conspiracy's caravan. A stronger adversary awaits us..."/>
     <string id="btAV7mmq" text="You are defeated by the raiders in the hideout but you managed to escape. You need to wait a while before attacking again."/>
@@ -136,7 +136,7 @@
     <string id="bWdsH2Ls" text="За все життя в політиці, я вивчив одну важливу річ: немає нічого гіршого за хаос. Чи варто говорити, що я краще за будь-кого знаю про всю ту брехню та жорстокість, на яких трималася ця імперія? Але всі ті вбивства, які я вчинив за 10 років служби у Неретцеса, не зрівняються з кількістю загиблих за одну лише годину штурму армією міста.[if:convo_snide_voice]"/>
     <string id="BXMKgTXl" text="This will make a great impression. It will attract allies, but also probably make you new enemies. Are you sure you're ready?[if:convo_astonished]"/>
     <string id="bXYFXLgg" text="Збільште кількість денарів на 1000"/>
-    <string id="bZI82WMt" text="Let's get this over with! Men Attack!"/>
+    <string id="bZI82WMt" text="Покінчимо з цим! В атаку!"/>
     <string id="bzmcPtZ6" text="We know you. We were told to look out for you. We know what you're planning with {MENTOR.NAME}. You will fail, and you will die.[ib:closed][if:convo_predatory]"/>
     <string id="C0xbbPqE" text="I will duel you for your insolence! Die dog![ib:warrior][if:convo_furious]"/>
     <string id="c1Q2irLi" text="Твої люди вбили моїх батьків. Ти справді думаєш, що уникнеш покарання?"/>
@@ -156,7 +156,7 @@
     <string id="cRvSuYC8" text="Оберіть іншу зброю або перейдіть на іншу тренувальну ділянку."/>
     <string id="CvBoRaFv" text="Ви встигли схопити ніж у метушні під час нападу і закололи нападника, який перегородив вам шлях."/>
     <string id="cYibaPhn" text="The barbarians just kept coming and coming. I fought my way out with some loyal men, and made my way back to the capital. But I found that Arenicos had got there before me, and had himself declared Emperor. He always was a cunning operator."/>
-    <string id="D4MuSwRB" text="A sad day for the Banu Qild. But we had our vengeance.[if:convo_stern][ib:hip]"/>
+    <string id="D4MuSwRB" text="Це був сумний день для Бану Кілда. Але ми помстилися.[if:convo_stern][ib:hip]"/>
     <string id="D9RoNGJg" text="Купіть 2 {._}{PLURAL(GRAIN)}. Клацніть на пункт &quot;Купити товари&quot; в меню села, щоб купити продукти."/>
     <string id="DaBN0O7N" text="You have failed to defeat all raider parties in time. Many of the locals feel that you've brought misfortune upon them, and want nothing to do with you."/>
     <string id="Db63Pe03" text="You have defeated the caravan and acquired its supplies. {OTHER_MENTOR.LINK}'s allies will not have their weapons. This will give us time and resources to prepare."/>
@@ -209,7 +209,7 @@
     <string id="Fgta5mF6" text="Before I answer, you and I need to know more about each other. I don't know what you know about me.  I was a citizen of the Empire. I was a commander in the imperial armies. But I am not imperial.[ib:confident][if:convo_thinking]"/>
     <string id="FHM5GcHW" text="Good. Then I will tell you what I know. I heard about one other piece.[ib:normal2][if:convo_calm_friendly]"/>
     <string id="flGyoqa6" text="Саме стургійці зустрілися віч-на-віч з вартою Неретцеса. Мій батько наказав мені триматися подалі, а сам повів своїх воїнів у бій, перебуваючи на чолі загону. Він спочатку відтіснив варту назад, а згодом, не витримавши натиску, вони порушили свій стрій і кинулись тікати до свого табору. Ми кинулися туди і атакували їхні барикади, розбивши їх. Але саме в той момент мій батько отримав удар імперською булавою і помер у момент свого тріумфу."/>
-    <string id="flkmzKDz" text="Many Qildi youth went with him. They died in their hundreds. And there was no gain - except for Nimr, who for some reason people considered a hero. It was despicable how they fawned on him.[if:convo_annoyed]"/>
+    <string id="flkmzKDz" text="З ним пішло багато молоді з Кілду. Вони гинули сотнями. І ніхто не отримав жодної вигоди від цього — окрім Німра, якого люди чомусь вважали героєм. Було огидно дивитися, як вони підлещувалися до нього.[if:convo_annoyed]"/>
     <string id="fM4eSVps" text="Ти казав, що розмови — це марнування часу. Відтепер ти — власність {RADAGOS.NAME}{.v_rod}."/>
     <string id="fp6QBO7l" text="Я повинен взяти наших людей з собою. {RADAGOS.NAME} — дуже слизький тип. Я не хочу, щоб він втік.[if:convo_confused_voice]"/>
     <string id="FPhWhjq7" text="Defeated"/>
@@ -394,7 +394,7 @@
     <string id="Q2obAF4E" text="So! You have much to do. I will await news of your success. Return to me when you wish to declare your ownership of the banner to the world."/>
     <string id="q80FFaBj" text="Then there is {ANTI_IMPERIAL_MENTOR.NAME}, who was his bodyguard. He's supposed to be near {ANTI_IMPERIAL_MENTOR_SETTLEMENT} - though I hear he's changed quite a bit since then."/>
     <string id="qa0o7xaj" text="Clan Independence"/>
-    <string id="Qb0wsarP" text="There was a warrior named Nimr, of the Bani Sarran. He was brave, but arrogant. Of course the young people loved him. He wanted to lead men to fight with the Empire, and though there was no gain for us, Unqid let him. Unqid can be weak sometimes.[if:convo_thinking]"/>
+    <string id="Qb0wsarP" text="Був один воїн на ім'я Німр, з роду Бані Сарран. Він був хоробрим, але зарозумілим. Звичайно, молодь любила його. Він хотів повести людей на війну з Імперією, і хоча нам ця війна була невигідною, Ункід дозволив йому це зробити. Ункід іноді буває занадто слабохарактерним.[if:convo_thinking]"/>
     <string id="QbsDYITB" text="Авжеж, авжеж. Ну, тоді вперед.[ib:closed2][if:convo_calm_friendly]"/>
     <string id="Qdz5Hely" text="Захищайтеся знизу."/>
     <string id="QF8B6XFS" text="All right then. Let us split up and look for the little ones separately. I'll send you a word if I find them before you do..."/>
