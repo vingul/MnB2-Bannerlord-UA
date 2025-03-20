@@ -102,7 +102,7 @@
     <string id="3sRdGQou" text="Вийти"/>
     <string id="3sWa2Hmt" text="my son {REFERING_HERO.LINK}"/>
     <string id="3syV6ymi" text="Blunt"/>
-    <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}w"/>
+    <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}ран."/>
     <string id="3TXGG01D" text="You chose well, {?PLAYER.GENDER}madam{?}sir{\?}. My lads know how to keep their word and earn their pay.[ib:convo_approving]"/>
     <string id="3uR8wLko" text="our liege {REFERING_HERO.LINK}"/>
     <string id="3vT6TQmF" text="{PLAYER.LINK}, you are in {SIDE_STRING} {CLASS_NAME}."/>
@@ -841,7 +841,7 @@
     <string id="IQ4bSdf5" text="{.f}Своячка{.R_n10_ko_p2}"/>
     <string id="iQao7Ct6" text="Starving Parties"/>
     <string id="iRo4meJR" text="Can't access encyclopedia right now!"/>
-    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w)"/>
+    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}ран.)"/>
     <string id="ISJ8Tt8a" text="{COUNT} {.%}{?(COUNT &gt; 1)}{PLURAL(ITEM)}{?}{ITEM}{\?}{.%}"/>
     <string id="ISz5bLEO" text="{.m}дванадцятий{.R_adj}"/>
     <string id="itLpRUtF" text="У клані немає порожніх слотів для загону."/>
@@ -1110,7 +1110,7 @@
     <string id="NLmaID0O" text="{HERO.NAME} has been executed by {KILLER.NAME}."/>
     <string id="nMcvafHY" text="Активно"/>
     <string id="nNDdo3I9" text="One Handed Sword"/>
-    <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)"/>
+    <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}ран.)"/>
     <string id="nNRKCYpR" text="Inside production"/>
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})"/>
     <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}"/>
@@ -1510,7 +1510,7 @@
     <string id="V0OMMQ1F" text="A magisterial performance, {PLAYER.LINK}. Whack! Crack! You took down {OPPONENT_COUNT} of them. The crowd loved it. And you earned a prize of {PRIZE}{GOLD_ICON}."/>
     <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Looted)"/>
     <string id="v3cY44N1" text="You cannot annex a ruling clan's settlement."/>
-    <string id="v4nltcfz" text="{PARTY_LIST_TAG}{TOTAL_COUNT}/{MAX_COUNT} ({COUNT} + {WEAK_COUNT}w)"/>
+    <string id="v4nltcfz" text="{PARTY_LIST_TAG}{TOTAL_COUNT}/{MAX_COUNT} ({COUNT} + {WEAK_COUNT}ран.)"/>
     <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} bonus to prosperity change"/>
     <string id="V7ESaOJU" text="Choose your banner"/>
     <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!"/>
