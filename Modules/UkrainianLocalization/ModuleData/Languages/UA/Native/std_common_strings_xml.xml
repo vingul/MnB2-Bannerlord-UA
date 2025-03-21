@@ -217,7 +217,7 @@
     <string id="aIkffnN6" text="Characters"/>
     <string id="AK0lNDmN" text="Jeweled Plumed Battle Crown"/>
     <string id="alMmQrhK" text="Бойовий дух загону"/>
-    <string id="ALWqXMiP" text="Yes, I am sure."/>
+    <string id="ALWqXMiP" text="Так, я впевнен{?PLAYER.GENDER}а{?}ий{\?}."/>
     <string id="AmBEgOyq" text="Зрозуміло..."/>
     <string id="aN85Kfnq" text="{SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="AobNdBBU" text="Cheap Paddings"/>
