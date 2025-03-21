@@ -4,7 +4,7 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="A1QabTDA" text="Стяг Дракона"/>
+    <string id="A1QabTDA" text="{.m}Стяг{.R_n20_a_zi} Дракона"/>
     <string id="IzT8jY82" text="Перша частина Стягу Дракона"/>
     <string id="LVXy2C8y" text="Друга частина Стягу Дракона"/>
     <string id="PRsvWzGW" text="Третя частина Стягу Дракона"/>
