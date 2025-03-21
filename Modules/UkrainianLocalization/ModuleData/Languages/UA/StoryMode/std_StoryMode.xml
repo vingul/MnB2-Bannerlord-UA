@@ -371,7 +371,7 @@
     <string id="OMrnTIe0" text="Ви рятуєте кількох полонених, яких рейдери тягнули за собою. Вони виглядають спраглими і виснаженими. Ви даєте їм трохи води і хліба, і через деякий час один з них, хитаючись, підводиться на ноги і підходить до вас."/>
     <string id="ORnjaMlM" text="Бандити перемогли вас, але ваш брат вас врятував. Однак не схоже, що вони кудись збираються, тому ви повинні напасти знову, як тільки будете готові.\nУ вашому загоні повинно бути щонайменше {NUMBER} людей. Якщо їх менше, поверніться до села і наберіть більше воїнів."/>
     <string id="Os79KwFa" text="Я був з авангардом. Неретцеc, очевидно, знав, що баттанці запланували засідку — хузаїтські розвідники сказали йому про це. Але він не потурбувався нас про це повідомити. Тож коли ми, ні про що не здогадуючись, йшли вверх, вздовж лісового струмка, на нас раптово з усіх сторін почали сипатися баттанські стріли.[if:convo_bored2][ib:normal2]"/>
-    <string id="OS8YjyE5" text="You should collect all of the pieces of the Dragon Banner before deciding your path."/>
+    <string id="OS8YjyE5" text="Вам необхідно зібрати всі частини Стягу Дракона, перш ніж вирішити, яким шляхом йти далі."/>
     <string id="OwcgxRXB" text="Weakened by the war, the {FACTION} has collapsed and its clans have defected to surrounding kingdoms."/>
     <string id="oX2aoilb" text="{MENTOR.NAME} knows of the rise of your {KINGDOM_NAME}. Rumors say {MENTOR.NAME} is planning to undo your progress. Be ready!"/>
     <string id="p0fmZY5r" text="Можливо, староста зможе нам допомогти. Спробуємо його знайти...[if:convo_pondering]"/>
@@ -533,8 +533,8 @@
     <string id="xjduipCO" text="Звичайно, наші славні армії багато разів зазнавали поразки, але мабуть, ті полководці та імператори не були «справжніми синами». Хитра байка. Навіть дитина могла б зрозуміти цю хитрість, якби постаралася, але, звичайно, люди ніколи не намагаються побачити правди у благородній брехні, яка зв'язує нас разом. Дякувати небесам за це.[ib:closed][if:convo_pondering]"/>
     <string id="xjk4hNXD" text="I did not fight in the battle. I stood on a hill telling my commanders where to go and who to attack. And we did rather well, I think you've heard. Still, we took losses - heavy losses, and gained little. And for this the barons blamed me, even though it was their idea to fight. I learned that day that a king should always lead, never follow. But it was a bitter lesson.[if:convo_contemptuous][ib:closed]"/>
     <string id="xknCpvcb" text="Заспокойся. Я зараз тобі все розповім.[ib:closed2][if:convo_grave]"/>
-    <string id="xL3WGYsw" text="Collected Pieces"/>
-    <string id="XlSHcfsP" text="This option will end the tutorial!"/>
+    <string id="xL3WGYsw" text="Зібрано шматків"/>
+    <string id="XlSHcfsP" text="Це завершить навчання!"/>
     <string id="XQrmVPKL" text="{PLAYER.LINK}, сподіваюся у вас все добре. Я дізнався від шпигунки в {.S}{LOCATION_LINK}{.v_mis}, що наші вороги розбили табір в його околицях. Вона не знає, що вони планують робити, але якщо ви нападете на табір, викрадете деякі їх речі і принесете їх мені, ми зможемо отримати певне уявлення про їхні злі наміри. Щоб знайти їх лігво, пошукайте в околицях {.S}{LOCATION_LINK}{.v_rod}."/>
     <string id="Xrz05hYE" text="Прогулятися"/>
     <string id="XSzmugWh" text="Грабіжники розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, перш ніж атакувати знову."/>
@@ -546,7 +546,7 @@
     <string id="y3fn2vWY" text="Найняти воїнів"/>
     <string id="Y6OJHdMH" text="Я дуже зайнята людина, але на те, щоб поговорити про благословенну битву під Пендраїком, в мене завжди знайдеться час.[if:convo_mocking_teasing][ib:confident3]"/>
     <string id="Y6SqyQwn" text="Зустрітися з {HERO.NAME}{.v_oru}"/>
-    <string id="y84UnOQX" text="Assemble the Dragon Banner"/>
+    <string id="y84UnOQX" text="Зібрати Стяг Дракона"/>
     <string id="ya8eMCpj" text="Unify the Empire"/>
     <string id="YAWCkOYa" text="Сліди виглядають свіжими, і я бачив дим на горизонті. Вони не можуть рухатися надто швидко, якщо все ще займаються мародерством і набігами. Ні, я впевнений, що ми зможемо врятувати малих... або загинемо, намагаючись."/>
     <string id="yCzcfKNM" text="Firstly, your clan must be independent. You cannot be pledged to an existing realm."/>
