@@ -34,7 +34,7 @@
     <string id="3YHL3wpM" text="{BROTHER.NAME}:"/>
     <string id="40oa2Nav" text="Стяг Кальрадіоса — це легенда. Кажуть, що його ніс сам Кальрадіос Великий, коли привів свій невеликий загін вигнанців на цю землю, щоб побудувати тут новий дім. Кажуть, що якщо справжній син Кальрадіоса буде нести цей стяг, то він ніколи не зазнає поразки в бою. Або дочка, гадаю, хоча про це ніколи не йшлося.[ib:confident][if:convo_undecided_closed]"/>
     <string id="4Baa38ra" text="We won, barely, with the help of the imperials, but the Khergits were mauled. Since then, the Khergits have been rather weak - and you know what happens to the weak. Still, no one told them to put all their eggs in one basket like that.[if:convo_bored2]"/>
-    <string id="4cw169Kb" text="third and the final"/>
+    <string id="4cw169Kb" text="третю і останню"/>
     <string id="4d5SP6B6" text="{MENTOR.LINK} suggested that you should support an anti-imperial kingdom by offering them the Dragon Banner."/>
     <string id="4hdp6SK0" text="Переможи тренера!"/>
     <string id="4IS4Lou7" text="Я теж втік. І кожен, хто скаже вам, що не втік би за тих обставин — брехун. Коли пізніше тієї ночі я сидів у холодному лісі, ховаючись з іншими втікачами, слухаючи, як горланять ті варвари, відрубуючи голови як трофеї, я пообіцяв їм, що жодного кальрадійського солдата більше не поведе в бій на стільки безмозглий імператор, який нічого не знає про війну.[if:convo_thinking][ib:hip]"/>
@@ -191,7 +191,7 @@
     <string id="EOSyvdFG" text="Потім прийшли вландійські лицарі. Нас атакували з двох боків, а імператор, який міг би послати людей, щоб врятувати нас, не поспішав. Можливо, він хотів, щоб загинули найкращі з асераїв, аби ми не стали надто могутніми. Але ця зрада — ніщо у порівнянні з тим, що ми отримали від наших братів з Бану Кілд."/>
     <string id="epB0x816" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}. She has been abducted by bandits, who intend to sell her into slavery."/>
     <string id="EV5ykPuT" text="Ви та ваші люди зазнали поразки від {BOSS_NAME}{.v_rod} та його змовників. Решта ваших людей знаходять ваше пошматоване тіло серед закривавленої купи трупів. Але ви вижили і продовжите свою боротьбу."/>
-    <string id="eV8R0SKp" text="Now you can decide what to do with the {DRAGON_BANNER}."/>
+    <string id="eV8R0SKp" text="Тепер вам потрібно вирішити, що робити з {DRAGON_BANNER}{.v_oru}."/>
     <string id="eVgAY7ts" text="О Господи, ти можеш описати мені їх краще? Мої люди вполювали десятки цих малих виродків у цьому районі. Досить непогані мисливські угіддя, я тобі скажу! Хоча знаєш, більшість з них я вже відправив на ринок рабів на півдні.[ib:hip][if:convo_snide_voice]"/>
     <string id="eVzg5Mtl" text="Conspiracy Caravan"/>
     <string id="EWD4Op6d" text="Повідомлення"/>
