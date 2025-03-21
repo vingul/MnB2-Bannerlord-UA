@@ -410,7 +410,7 @@
     <string id="ewSpZ10R" text="Rough Padded Cap"/>
     <string id="ExjMoUiT" text="{.f}Твердий{.R_adj} {.f}деревина{.R_n10}{@Plural}{.p}Колода{.R_n10_p1} твердої деревини{\@}"/>
     <string id="EXLY9mEb" text="Reinforced Large Round Shield"/>
-    <string id="EZ19JOGj" text="{MENTOR.NAME}'s House"/>
+    <string id="EZ19JOGj" text="Дім {MENTOR.NAME}{.v_rod}"/>
     <string id="F13aYbuk" text="Lavalios"/>
     <string id="F2bgujPo" text="були слугами вождя."/>
     <string id="f3hTGKIP" text="Garitops"/>
