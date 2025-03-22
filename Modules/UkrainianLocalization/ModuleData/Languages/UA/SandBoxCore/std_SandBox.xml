@@ -958,7 +958,7 @@
     <string id="wJCVlVF7" text="These nobles aren't like you and me. They've kept their wealth by crushing people like you for generations. Don't mess with them."/>
     <string id="WNKkdpN3" text="The {CLAN_NAME} left the {OLD_FACTION_NAME}."/>
     <string id="woMdU4Xl" text="I don't know where {?HERO.GENDER}she{?}he{\?} is."/>
-    <string id="wOqOQuJl" text="Раунд завершено, ваша команда виграла у фінальному раунді турніру."/>
+    <string id="wOqOQuJl" text="Раунд завершено, ви виграли у фіналі турніру."/>
     <string id="wql79Eta" text="Good! We understand the spy is going to {TARGET_SETTLEMENT}. If they're trying to gather information,[ib:aggressive2][if:convo_undecided_open] they'll be wandering around the market asking questions in the guise of making small talk. Just go around talking to the townsfolk, and you should be able to figure out who it is."/>
     <string id="WqY4nvHc" text="{TARGET_NOTABLE.LINK}'s village {TARGET_SETTLEMENT} was raided. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="wqzyHirl" text="Look all around you. People making money hand over fist, draped in silks, smelling of wine and perfume. But is it the honest folk? I think not."/>
