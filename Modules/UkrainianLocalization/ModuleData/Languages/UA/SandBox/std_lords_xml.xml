@@ -85,7 +85,7 @@
     <string id="cdViCKs7" text="Siaramus"/>
     <string id="CfuGI5RK" text="Diarbhain"/>
     <string id="cjuYkvlX" text="Panalea"/>
-    <string id="CLqPbdiZ" text="Lucon"/>
+    <string id="CLqPbdiZ" text="{.m}Люкон{.R_n20_a_ke}"/>
     <string id="codK1ezX" text="Eleduran"/>
     <string id="cqu8MATS" text="Esachei"/>
     <string id="CS4unEGi" text="Beathag"/>
@@ -150,7 +150,7 @@
     <string id="hzUbrsG6" text="Unagen"/>
     <string id="I2gnhOc2" text="Honoratus"/>
     <string id="I6pJg72E" text="Sevin"/>
-    <string id="I72U5ttG" text="Garios"/>
+    <string id="I72U5ttG" text="{.m}Ґаріос{.R_n20_a_ke}"/>
     <string id="i7GvKab4" text="Apolanea"/>
     <string id="IbgH3J03" text="Viviana"/>
     <string id="IgSZcCW0" text="Karith"/>
@@ -182,7 +182,7 @@
     <string id="k3cm9EgA" text="Undul"/>
     <string id="k7vF5gWy" text="Irmgard"/>
     <string id="kAbug2ja" text="Eodisia"/>
-    <string id="kadJAjaA" text="Rhagaea"/>
+    <string id="kadJAjaA" text="{.f}Раґея{.R_n10}"/>
     <string id="KDznbXh9" text="Jigur"/>
     <string id="KFYNhxLC" text="Suna"/>
     <string id="kHo2jIcm" text="Zorina"/>
