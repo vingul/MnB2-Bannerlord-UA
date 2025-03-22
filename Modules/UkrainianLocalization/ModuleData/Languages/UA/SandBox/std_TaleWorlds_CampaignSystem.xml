@@ -4460,7 +4460,7 @@
     <string id="wrpsJM2u" text="Yes... I hired a band of mercenaries for a campaign some time back. But... normally mercenaries have their own peculiar kind of honor. You pay them, they fight for you, you don't, they go somewhere else. But these ones have made it pretty clear that if I don't keep renewing the contract, they'll turn bandit. I can't afford that right now.[if:convo_thinking][ib:closed]"/>
     <string id="WRwA0VVS" text="Кого з членів свого клану ти б хоті{?PLAYER.GENDER}ла{?}в{\?}, щоб я перенавчив?"/>
     <string id="WSAS3XLC" text="There was someone here not long ago, went by the name of {INQUIRY_COMPANION.LINK}. {?INQUIRY_COMPANION.GENDER}She{?}He{\?} left for {COMPANION_SETTLEMENT}. Perhaps you can find them there, or on the road.[rb:positive]"/>
-    <string id="wsbkjJhz" text="Arena is closed at night."/>
+    <string id="wsbkjJhz" text="Вночі арена зачинена."/>
     <string id="wScKLt7F" text="Let me put things this way... It's not grown on me at all since the last time it happened."/>
     <string id="wsDNxArW" text="{PEACEMAKER_RULER.NAME} of the {KINGDOM_CONSIDERING_PEACE} has chosen not to make peace with the {KINGDOM}."/>
     <string id="wsGDDXPN" text="{QUEST_GIVER.LINK}, the headman from {QUEST_GIVER_SETTLEMENT} has asked you to deliver {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} to {TARGET_HERO.LINK} in {TARGET_SETTLEMENT}. {?QUEST_GIVER.GENDER}She{?}He{\?} fears such a large herd will attract attention from the brigands on the way. {QUEST_GIVER.LINK} offers {REWARD_AMOUNT}{GOLD_ICON} for the herd's delivery."/>
