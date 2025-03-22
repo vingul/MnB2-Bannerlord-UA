@@ -1416,7 +1416,7 @@
     <string id="t6xdCj43" text="Oh, indeed we can, indeed we can. Provided you have a fat purse and are ready to lighten it, of course.[ib:hip][rf:convo_bemused]"/>
     <string id="t78atYqH" text="{.f}Дворучний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="T8w5VRAy" text="Enemy troops are falling back to the castle."/>
-    <string id="taaNCsVZ" text="Ви виграєте турнір, перемігши {TOURNAMENT_FINAL_OPPONENT}{.v_rod} у фінальному раунді."/>
+    <string id="taaNCsVZ" text="Ви виграєте турнір, перемігши {TOURNAMENT_FINAL_OPPONENT}{.v_zna} у фінальному раунді."/>
     <string id="tAMBVG9B" text="{.m}третій{.R_adj}"/>
     <string id="tb6e1wjQ" text="Enemy destroyed all of our siege engines!"/>
     <string id="tDA5dhn3" text="{.f}імператриця{.R_n10_ko_p1}"/>
