@@ -49,7 +49,7 @@
     <string id="4WZ9zJbF" text="Щодо іншої частини стягу, то я не знаю, де вона знаходиться. Вам доведеться розпитати когось іншого про неї.[if:convo_confused_normal]"/>
     <string id="5D5lOHSL" text="Коли знайдете всі частини, повертайтеся до мене і я розповім вам, що з ними робити.[if:convo_calm_friendly]"/>
     <string id="5g9ZFGrN" text="Ви знаходитесь на тренувальному полігоні. Тут ви можете навчитися основам ведення бою."/>
-    <string id="5j6qvGAF" text="Чудова робота! Коли ви розгорнете цей стяг, і люди побачать те, що вони вважали втраченим назавжди, це справить сильне враження.[ib:normal2][if:convo_astonished]"/>
+    <string id="5j6qvGAF" text="Чудова робота! Це справить сильне враження на людей, коли вони побачать як велично майорить цей стяг, який вони вважали назавжди втраченим.[ib:normal2][if:convo_astonished]"/>
     <string id="5K4wvz3w" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про стяг Неретцеса. Наразі він перебуває в {.S}{SETTLEMENT}{.v_mis}."/>
     <string id="5LJTeOBT" text="Я був з караваном і тут раптом вони просто вийшли з кущів. Ми були оточені та в меншості, тому ми одразу здалися. Я подумав, що вони збережуть нам життя, хоча б заради викупу. Але потім вони почали гнати нас на шаленій швидкості, без води, і мені здавалося, що я ось-ось впаду.[ib:nervous2]"/>
     <string id="5Mw4trfs" text="Як тільки завершите підготовку, приходьте до мене і поговоримо ще раз. Я можу запропонувати вам певну роботу, якщо ви збираєтесь переслідувати цих бандитів.[if:convo_pondering]"/>
@@ -89,11 +89,11 @@
     <string id="9xaEPyNV" text="Лігво {RADAGOS.NAME}{.v_rod}"/>
     <string id="9XnFlRR0" text="На етапі навчання взаємодія з цією особою вимкнена."/>
     <string id="a0JxUMgo" text="What happened? Did you find the piece of the banner?"/>
-    <string id="a0ZKBj6P" text="Be an independent clan"/>
+    <string id="a0ZKBj6P" text="Бути незалежним кланом"/>
     <string id="a29lmPLd" text="Я вже перемагав тебе раніше. Я знаю, як діє ваша братія. Давай. Менше розмов, більше дій."/>
     <string id="a4W7Gzka" text="Yes. Time is of the essence. (Skip tutorial)"/>
     <string id="A9fChKmz" text="Імперія була як старий ведмідь. Вгодований, повільний. Вона хотіла зберегти те, що мала. Стургійці були і є голодними вовками. Як і ми. Іноді вовки полюють зграями, а іноді ні. Іноді вовк хоче, щоб лев убив його суперника."/>
-    <string id="aClquusd" text="Troop Count"/>
+    <string id="aClquusd" text="Кількість воїнів"/>
     <string id="ACyYhA2s" text="Знайти та врятувати лікаря"/>
     <string id="AGIPUYvy" text="У нас були щити, але ж ними можна захиститися тільки з одного боку. Тож ми почали втрачати воїнів, один за одним, і в якийсь момент з-за дерев вискочили з криками баттанські воїни з фальксами. Зазвичай з ними могли б справитися звичайні лучники, але старий Неретцес не додумався послати їх з нами. Тож вони безперешкодно змогли дістатися нас і, рубаючи та колючи, досить швидко здолали наш опір."/>
     <string id="agrsO3qQ" text="Due to your successful skirmishes against {RAIDER_NAME}, a conspiracy war party is now patrolling around {SETTLEMENT}."/>
@@ -107,7 +107,7 @@
     <string id="atnUtXdO" text="The {KINGDOM_NAME} has been defeated. Your quest to restore the Empire has failed."/>
     <string id="atUTLABh" text="You have chosen to support the {KINGDOM} by presenting them the Dragon Banner, taking the advice of {MENTOR.LINK}."/>
     <string id="awgBkdXx" text="Поверніться до меню села і проведіть підготовку до зустрічі з бандитами, а потім дізнайтеся про завдання, яке має для вас староста."/>
-    <string id="AxKDQJ4G" text="You told {MENTOR.LINK} that you will create your own kingdom to defeat the Empire. You can do that by speaking to one of your governors once you fulfill the requirements. {?MENTOR.GENDER}She{?}He{\?} expects to talk to you once you succeed."/>
+    <string id="AxKDQJ4G" text="Ви сказали {MENTOR.LINK}{.v_dav}, що створите власне королівство, щоб перемогти Імперію. Щоб створити королівство, поговоріть з одним зі своїх намісників після того, як виконаєте всі вимоги. Після створення королівства поговоріть з {MENTOR.LINK}{.v_oru} ще раз."/>
     <string id="ay1gPPsP" text="Знайти іншу частину стягу для Арзагоса"/>
     <string id="aY4zWYpg" text="You have have received an important message from {MENTOR.LINK}."/>
     <string id="aYozMy3Z" text="We lost because the Vlandians broke their oaths, and fought us when they should have fought with us. I was given command of the cataphracts, and we easily crushed their crossbowmen. Their knights gave us more trouble. Meanwhile, the Sturgian infantry came down and attacked our main force. That's where my father fell. "/>
@@ -115,7 +115,7 @@
     <string id="b7Z1OBas" text="Тож, ти думаєш ми скоро наздоженемо цих бандитів?"/>
     <string id="bdbZLJf3" text="Неретцес був зобов'язаний помститися за напади баттанців на нашу землю. Він виступив з усіма силами, які зміг зібрати. Вландійці зрадили нас, але цього і слід було очікувати від безчесних варварів. Удача була на боці ворога. Але що дійсно важливо, так це те, що ми вчинили так, як вимагала наша честь.[if:convo_thinking]"/>
     <string id="BdYaRvhm" text="Я не знаю, хто ви, але я у вас у боргу. Ці розбійники загнали б нас на смерть.[ib:nervous2][if:convo_uncomfortable_voice]"/>
-    <string id="BekWpXmR" text="Heeding the advice of {MENTOR.LINK}, you have created a kingdom to oppose the Empire. You can tell {?MENTOR.GENDER}her{?}him{\?} that you will support your own kingdom."/>
+    <string id="BekWpXmR" text="Прислухавшись до порад {MENTOR.LINK}{.v_rod}, ви створили власне королівство аби протистояти Імперії. Ви можете сказати {?MENTOR.GENDER}їй{?}йому{\?}, що будете покладатись на власне королівство на шляху досягнення вашої цілі."/>
     <string id="bESRdcRo" text="Створити свій клан"/>
     <string id="bhQ6Jbom" text="Ви натрапляєте на скриню зі старим шматком бронзи в середині. Цей шматок настільки побитий і поїдений корозією, що це могло б бути що завгодно - від якогось кубка до корони. Це, мабуть, та скриня, про яку вам говорив {TACTEOS.NAME}, і яка має відношення до «Божевілля Неретцеса»."/>
     <string id="bHveKDUI" text="So have you made up your mind now?[ib:closed][if:convo_nonchalant]"/>
@@ -125,7 +125,7 @@
     <string id="bmitHhDt" text="Наш старий любий король Аеріл був чудовою людиною, але з надто ніжним серцем, і не хотів, щоб ми йшли на війну. Але потім він пропав, і я, як його зять, зійшов на престол. Клани жадали війни! Вони хотіли помсти за століття гноблення. І я, як батько свого народу, дав їм те, чого вони прагнули.[if:convo_calm_friendly]"/>
     <string id="bNcGO33Q" text="Ми думаємо, що вони пішли на північ. Гадаю, тут є кілька людей, які залюбки приєднаються до вас, якщо ви заплатите їм за спорядження.[if:convo_thinking]"/>
     <string id="bNqLQKQS" text="У вас закінчилася їжа. На північ звідси є село {VILLAGE_NAME}, де ви зможете купити провізію і знайти допомогу."/>
-    <string id="Bo66bfTh" text="Own {?IS_IMPERIAL}an Imperial Settlement{?}a Settlement{\?} "/>
+    <string id="Bo66bfTh" text="Володіти {?IS_IMPERIAL}імперським {?}{\?}поселенням "/>
     <string id="BrHU0NuE" text="Maybe. But if we do, you won't live to see it."/>
     <string id="bSDt8FN5" text="Я {?PLAYER.GENDER}готова{?}готовий{\?}. Поїхали!"/>
     <string id="BstbQV5Z" text="Це була трагедія, яка зачепила за живе всі великі родини Кальрадії, навіть нашу, таку далеку від тієї битви.[if:convo_annoyed][ib:normal2]"/>
@@ -228,11 +228,11 @@
     <string id="GCbqpeDs" text="Навчання завершено. Тепер ви можете вільно досліджувати Кальрадію."/>
     <string id="gdgbaMOP" text="Я не {?PLAYER.GENDER}впевнена{?}впевнений{\?}, що поділяю ваші погляди."/>
     <string id="GDNXavAl" text="У нашій Імперії немає нічого особливого. [if:convo_calm_friendly]Будь-кому з цих дрібних королів, ханів і султанів, може колись пощастити завоювати всю Кальрадію і правити нею не гірше за нас. Але справа в тому, що ми це вже зробили. Наші найстрашніші злочини вже залишилися в минулому. Тож давайте не будемо проходити через все це саме заново."/>
-    <string id="GGfM1HKn" text="Welcome to MBII Bannerlord"/>
+    <string id="GGfM1HKn" text="Ласкаво просимо до MBII Bannerlord"/>
     <string id="GicEcLx2" text="Побачимося там. Але пам'ятай, якщо це пастка або щось подібне, це коштуватиме тобі життя."/>
     <string id="gJBNUAJd" text="Завершіть заїзд та влучте у якомога більше мішеней."/>
     <string id="gL241Hoz" text="Very nice. Superstitious twaddle, of course, but people will believe you. Very well, oh heir to Calradios, go forth![if:convo_nonchalant]"/>
-    <string id="gL3WCqM5" text="Settlement Count"/>
+    <string id="gL3WCqM5" text="Кількість поселень"/>
     <string id="gOI8lKcl" text="ви втекли на швидких конях."/>
     <string id="gSBGpUBm" text="Знайдіть лігво {RADAGOS.LINK}{.v_rod}."/>
     <string id="GVMGXfxS" text="Можеш взяти наше прізвище, якщо хочеш, або вигадати собі нове. У тебе буде більше шансів домогтися аудієнції зі знаттю, а мені буде легше знайти тебе, розпитуючи людей.[if:convo_normal]"/>
@@ -252,7 +252,7 @@
     <string id="heoCaRIr" text="Ні... Більше ніяких розмов. Убий мене або я вб'ю тебе, ось як це все закінчиться.[ib:warrior][if:convo_bared_teeth]"/>
     <string id="hFYG3lXw" text="Ну, так дехто називає велику битву під Пендраїком у 1077 році.[ib:normal][if:convo_normal]"/>
     <string id="hGPdLssq" text="The ruler of the {PLAYER_SUPPORTED_FACTION} has accepted the peace offered by the war-ravaged {FACTION}."/>
-    <string id="HhFHRs7N" text="Create {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
+    <string id="HhFHRs7N" text="Створити {?IS_IMPERIAL}імперську фракцію{?}неімперське королівство{\?}"/>
     <string id="HhuBPfJn" text="Підійти до тренера."/>
     <string id="HL9lzfjY" text="Звичайно, я можу. Ти ж знаєш моє ім'я і хто мій батько.[if:convo_beaten][ib:closed]"/>
     <string id="hnFkhPhp" text="Цей параметр не доступний під час навчання."/>
@@ -339,7 +339,7 @@
     <string id="MMv3hsmI" text="Я не беру участь у дуелях з мерзенними рабовласниками. Хлопці, в атаку!"/>
     <string id="mN60B07k" text="You have lost the battle against raiders and failed to defeat conspiracy forces. Many of the locals feel that you've brought misfortune upon them, and want nothing to do with you."/>
     <string id="MnmblprY" text="Тож, де мені шукати інші частини?"/>
-    <string id="MOVWOyeh" text="Вочевидь, ви були обрані Небесами для великої мети. Я бачу тут зачатки нової легенди... Дозвольте мені називати вас «Воєводою».[ib:normal][if:convo_relaxed_happy]"/>
+    <string id="MOVWOyeh" text="Вочевидь, ви були обрані Небесами для великої мети. Я вже бачу як народжується  нова велика легенда... Дозвольте мені називати вас «Воєводою».[ib:normal][if:convo_relaxed_happy]"/>
     <string id="MREvo37b" text="Якщо ви зможете його розшукати, цього Тактеоса, ми будемо дуже вдячні. Можливо, якщо він живий і здоровий, він розповість вам трохи більше про ці свої 'пошуки'.[if:convo_normal]"/>
     <string id="mtiaY2Pa" text="Як мені підтримати існуюче королівство?"/>
     <string id="mU1bC1mp" text="Ви зіткнулися з групою грабіжників."/>
@@ -348,7 +348,7 @@
     <string id="mxKhvbn7" text="You have decided to unify the Empire."/>
     <string id="mziMNKm2" text="Ви маєте правити королівством імперського походження."/>
     <string id="N5jJtZyr" text="Як заклятий ворог Імперії, я готовий заявити про своє право власності на Стяг Дракона."/>
-    <string id="N5Qg5ick" text="You told {MENTOR.LINK} that you will create your own imperial faction. You can do that by speaking to one of your governors once you fulfill the requirements. {?MENTOR.GENDER}She{?}He{\?} expects to talk to you once you succeed."/>
+    <string id="N5Qg5ick" text="Ви сказали {MENTOR.LINK}{.v_dav}, що створите власну імперську фракцію. Ви можете зробити це, поговоривши з одним зі своїх намісників, як тільки виконаєте всі вимоги. Після того, як створите фракцію, {?MENTOR.GENDER}вона{?}він{\?} очікуватиме на розмову з вами."/>
     <string id="n8pmVHNn" text="Yes, I am ready."/>
     <string id="NdkqUnXb" text="To have a chance as an imperial contender, you must fullfil some conditions.[if:convo_empathic_voice]"/>
     <string id="NGbgfPoP" text="I was there. Many of the Khuzaits went. Mostly the Khergit clan, who were hungry for glory, but I was also young and hungry for glory so I went along as well.[ib:demure2][if:convo_bored]"/>
@@ -357,7 +357,7 @@
     <string id="nOLFHL3x" text="You and your men have defeated {BOSS_NAME} and the rest of the conspirators as {MENTOR.LINK} asked you to do."/>
     <string id="nrdl5QaF" text="My spy spotted some conspirators at the camp, and some local bandits have joined them. My spy does not know if they are expecting an attack, so I implore you to be cautious and to be ready for anything. Needless to say, I'm sure you will send any documents you can find to me so I can study them. Go quickly and return safely."/>
     <string id="NvkWtb8f" text="Знайти лігво банди {RADAGOS.NAME}{.v_rod} та здолати їх"/>
-    <string id="NzQq2qp1" text="Gather {PARTY_SIZE} Troops"/>
+    <string id="NzQq2qp1" text="Зібрати {PARTY_SIZE} воїнів"/>
     <string id="O2BAcMNO" text="As the legitimate {?PLAYER.GENDER}Empress{?}Emperor{\?} of Calradia, I am ready to declare my ownership of the Dragon Banner."/>
     <string id="o791xRtb" text="А тепер перейдемо до справи знищення цієї проклятої імперії. Як я бачу, у вас є два варіанти...[ib:confident2][if:convo_pondering]"/>
     <string id="oA4iTPyV" text="You have collected enough information."/>
@@ -393,7 +393,7 @@
     <string id="pX5cx3b4" text="I mean you no harm. We're hunting a group of raiders who took our brother and sister."/>
     <string id="Q2obAF4E" text="Отже! У вас багато роботи. Я чекатиму на звістку про ваші успіхи. Повертайтеся до мене, коли захочете оголосити світові про своє право власності на стяг."/>
     <string id="q80FFaBj" text="Ще є {ANTI_IMPERIAL_MENTOR.NAME}, який був його охоронцем. Він має бути поблизу {.S}{ANTI_IMPERIAL_MENTOR_SETTLEMENT}{.v_rod}. Хоча, я чув, він дуже змінився з того часу."/>
-    <string id="qa0o7xaj" text="Clan Independence"/>
+    <string id="qa0o7xaj" text="Незалежність клану"/>
     <string id="Qb0wsarP" text="Був один воїн на ім'я Німр, з роду Бані Сарран. Він був хоробрим, але зарозумілим. Звичайно, молодь любила його. Він хотів повести людей на війну з Імперією, і хоча нам ця війна була невигідною, Ункід дозволив йому це зробити. Ункід іноді буває занадто слабохарактерним.[if:convo_thinking]"/>
     <string id="QbsDYITB" text="Авжеж, авжеж. Ну, тоді вперед.[ib:closed2][if:convo_calm_friendly]"/>
     <string id="Qdz5Hely" text="Захищайтеся знизу."/>
@@ -409,7 +409,7 @@
     <string id="qp2zYfua" text="Я сподівався знайти тут більше скарбів, але, схоже, справи у {RADAGOS.NAME}{.v_rod} та його банди йшли не дуже добре.[ib:closed2][if:convo_pondering]"/>
     <string id="qV1e0x8i" text="Що таке «Божевілля Неретцеса»?"/>
     <string id="QVkuaezc" text="Hunt the conspiracy war party"/>
-    <string id="QxeKZ3nE" text="Reach Clan Tier {CLAN_TIER}"/>
+    <string id="QxeKZ3nE" text="Досягти рівня клану {CLAN_TIER}"/>
     <string id="R3CnF55p" text="Ну... І хто це тут вдирається на мою територію і вбиває моїх людей?[if:convo_confused_voice][ib:warrior2]"/>
     <string id="r48aEAbq" text="The {KINGDOM_NAME} has been defeated. Your quest to destroy the Empire has failed."/>
     <string id="R5kLv5kg" text="Я є представником палайського народу. Палайська мова — це мова, якою, за винятком кількох старців, більше ніхто і не розмовляє. Навіть саме слово «палайський» є імперським. Ми народ, який забув, ким ми є.[if:convo_focused_voice]"/>
@@ -484,7 +484,7 @@
     <string id="UkNUuyr1" text="Переможених загонів"/>
     <string id="ULn7iWlz" text="It will be a powerful tool in our hands. People will believe that the Heavens intend us to restore the Empire of Calradia.[if:convo_pondering]"/>
     <string id="uNgu02FH" text="Вони і на вашу сім'ю напали? Дуже шкода це чути. Ці виродки встигли повбивати та пограбувати і в цих краях.[ib:normal2][if:convo_dismayed]"/>
-    <string id="UnjgFmnE" text="Heeding the advice of {MENTOR.LINK}, you have created an imperial faction. You can tell {?MENTOR.GENDER}her{?}him{\?} that you will support your own kingdom."/>
+    <string id="UnjgFmnE" text="Прислухавшись до порад {MENTOR.LINK}{.v_rod}, ви створили власну імперську фракцію. Ви можете сказати {?MENTOR.GENDER}їй{?}йому{\?}, що будете покладатись на власне королівство на шляху досягнення вашої цілі."/>
     <string id="unOLk4PY" text="Тож. Хто ви і що привело вас до мене?"/>
     <string id="UpUqL368" text="Що за падло, еге ж? Навіть у нашій професії зраджувати своїх дружбанів не прийнято."/>
     <string id="upyNhwZ9" text="Yes, I intend to use the banner to help destroy the empire."/>
@@ -538,7 +538,7 @@
     <string id="XQrmVPKL" text="{PLAYER.LINK}, сподіваюся у вас все добре. Я дізнався від шпигунки в {.S}{LOCATION_LINK}{.v_mis}, що наші вороги розбили табір в його околицях. Вона не знає, що вони планують робити, але якщо ви нападете на табір, викрадете деякі їх речі і принесете їх мені, ми зможемо отримати певне уявлення про їхні злі наміри. Щоб знайти їх лігво, пошукайте в околицях {.S}{LOCATION_LINK}{.v_rod}."/>
     <string id="Xrz05hYE" text="Прогулятися"/>
     <string id="XSzmugWh" text="Грабіжники розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, перш ніж атакувати знову."/>
-    <string id="XtC0hXhr" text="Support {?IS_IMPERIAL}an imperial faction{?}a non-imperial kingdom{\?}"/>
+    <string id="XtC0hXhr" text="Підтримати {?IS_IMPERIAL}імперську фракцію{?}неімперське королівство{\?}"/>
     <string id="xVFupnFu" text="Ви успішно влучили в усі мішені за ({TIME_SCORE}) секунди."/>
     <string id="XWL3XcIq" text="{FACTION} Defeated"/>
     <string id="Xx94UrYe" text="I might be. What are you carrying? Honest goods, or weapons? How about you let us have a look."/>
@@ -559,7 +559,7 @@
     <string id="ysRVZiA6" text="Мандруючи Кальрадією, ви зможете дізнатися більше про свій артефакт та його значення, розпитавши будь-якого лорда чи леді про нещодавню історію Імперії."/>
     <string id="yub8ZSFP" text="Ви поговорили з {.S}{ANTI_IMPERIAL_MENTOR.LINK}{.v_oru}. Тепер, можливо, ви захочете поговорити з {.S}{IMPERIAL_MENTOR.LINK}{.v_oru} та дізнатися також і {?IMPERIAL_MENTOR.GENDER}її{?}його{\?} думку. {?IMPERIAL_MENTOR.GENDER}Вона{\?}Він{\?} зараз перебуває в {.S}{SETTLEMENT_LINK}{.v_mis}."/>
     <string id="z3VamNrX" text="Відправити свої війська."/>
-    <string id="Z54ZrDG9" text="Тоді до наступного разу."/>
+    <string id="Z54ZrDG9" text="Що ж, до зустрічі."/>
     <string id="z8LQn2Uh" text="Ви прибули до лігва."/>
     <string id="Z9mcDuDi" text="Досягнення вимкнені!"/>
     <string id="Zb1uFhsY" text="Підійти до тренера."/>
