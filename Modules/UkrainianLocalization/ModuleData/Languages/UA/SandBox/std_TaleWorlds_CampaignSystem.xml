@@ -357,7 +357,7 @@
     <string id="4Bub0GY6" text="Hideout was cleared by someone else. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
     <string id="4c9ySfVj" text="Did you find what we needed, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
     <string id="4CSaYB8H" text="{VALUE}% бойового духу для воїнів від 1 до 3 класу."/>
-    <string id="4CuMDzvd" text="Ви попросили свого найкращого воїна взяти {?CHILD.GENDER}її{?}його{\? під своє крило і подбати про те, щоб {?CHILD.GENDER}вона відчула{?}він відчув{\?} смак битви, не зазнавши при цьому серйозних ушкоджень."/>
+    <string id="4CuMDzvd" text="Ви попросили свого найкращого воїна взяти {?CHILD.GENDER}її{?}його{\?} під своє крило і подбати про те, щоб {?CHILD.GENDER}вона відчула{?}він відчув{\?} смак битви, не зазнавши при цьому серйозних ушкоджень."/>
     <string id="4ElA7gRS" text="Вирішальна битва"/>
     <string id="4FdtVyj1" text="Корпус допомоги"/>
     <string id="4fXpOe4N" text="Прибув кур'єр від клану {CLAN_NAME}{.v_rod}. Вони вимагають {GOLD_AMOUNT}{GOLD_ICON} за звільнення {.S}{CAPTIVE_HERO.NAME}{.v_rod} зі свого полону."/>
