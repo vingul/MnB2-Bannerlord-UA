@@ -223,7 +223,7 @@
     <string id="2mVZORaE" text="a servant of the {FACTION_NAME}"/>
     <string id="2NR2E663" text="Palm Orchard"/>
     <string id="2o7U1bNV" text="..and I will be at your side to fight your enemies should you need my sword."/>
-    <string id="2OdXZUg9" text="led men into enemy territory."/>
+    <string id="2OdXZUg9" text="{?CHILD.GENDER}повела{?}повів{\?} своїх людей на територію ворога."/>
     <string id="2oRJ0IzW" text="That will do. You've made a wise choice, my friend. We do well by our loyal fighters, and you can expect worthy rewards for your service."/>
     <string id="2P9mMbrq" text="It is not in my interest to change sides. (Self-interest persuasion failed.)"/>
     <string id="2paRqO8u" text="Швидкість будівництва споруд +{a0}%"/>
@@ -497,7 +497,7 @@
     <string id="65BTaOl8" text="{QUEST_GIVER.LINK} died and your mission is canceled."/>
     <string id="65UMAav2" text="I can't afford that just now."/>
     <string id="665JbYIC" text="{VALUE}% швидкості виробництва у селах, зв'язаних з підконтрольним поселенням."/>
-    <string id="68rmPu7Z" text="Your health is too low to fight."/>
+    <string id="68rmPu7Z" text="У вас замало здоров'я, щоб битися."/>
     <string id="68ye0NpS" text="{VALUE}% платні охоронцям караванів."/>
     <string id="6aFTN1Nb" text="Немає штрафу до швидкості переміщення в пустелі."/>
     <string id="6ALN43LY" text="{FIRSTNAME} of the Bell"/>
@@ -1422,7 +1422,7 @@
     <string id="CVdK1ax1" text="Fortifications"/>
     <string id="CVg3P07C" text="Assault the siege camp."/>
     <string id="CVp0j9al" text="You have defeated the enemies outside the walls. Now you decide to..."/>
-    <string id="CVVttuuQ" text="managed the logistics of travel."/>
+    <string id="CVVttuuQ" text="{?CHILD.GENDER}організовувала{?}організовував{\?} подорожі."/>
     <string id="cvWxXGo5" text="I can do the job."/>
     <string id="cvZH3cI1" text="I hope {QUEST_GIVER.NAME} has a plan to get that herd to market."/>
     <string id="CWfEUmiF" text="Right. I won't be going anywhere."/>
@@ -2600,7 +2600,7 @@
     <string id="kJDDW6Dk" text="It was a pleasure to meet you. Safe travels."/>
     <string id="kJlOvZEm" text="Boss {FIRSTNAME}"/>
     <string id="kjn1D5Td" text="{VALUE}% тривалості безладів."/>
-    <string id="KjR0HhJv" text="skirmished from a distance."/>
+    <string id="KjR0HhJv" text="{?CHILD.GENDER}навчилась{?}навчився{\?} нападати здалеку."/>
     <string id="kJwpbptU" text="Well, try to stay close to me at all times and try to learn as much as you can."/>
     <string id="KK3DAGej" text="{VALUE}% шансу попадання по далекобійних облогових знаряддях під час облогового бомбардування."/>
     <string id="KKB2vNFr" text="Sally out"/>
@@ -2800,7 +2800,7 @@
     <string id="Lrm17UNm" text="{VALUE}% швидкості відновлення витривалості для ковальства."/>
     <string id="LsBCQtVX" text="{?CHARACTER.GENDER}She{?}He{\?} died of war-wounds in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
     <string id="lsBuV9W7" text="You are waiting in the village."/>
-    <string id="lsddqaAx" text="did some honest work."/>
+    <string id="lsddqaAx" text="{?CHILD.GENDER}дізналась{?}дізнався{\?}, що таке чесна праця."/>
     <string id="lSebD5Fa" text="{VALUE}% шансу втечі при ув'язненні загонами, що перебувають в русі."/>
     <string id="lsnrQCB8" text="Бандитів можна перетворити у звичайних воїнів."/>
     <string id="lTafHBwZ" text="{VALUE}% максимальної швидкості для вашої їздової тварини."/>
@@ -3821,7 +3821,7 @@
     <string id="SFWNy76G" text="As you are not a warrior, you are free to go."/>
     <string id="sG9bKLdg" text="We welcome valiant warriors into our people, {PLAYER.NAME}, but you must prove yourself. Take your sword to my enemies and make a name for yourself, and we will formally adopt you as one of us. You may be given lands to protect and can speak at our councils."/>
     <string id="sG9WGOeN" text="{VALUE} до бойового духу загону, коли кількість їздових тварин перевищує кількість піших воїнів в ньому."/>
-    <string id="SGVW6NXR" text="assisted the smith."/>
+    <string id="SGVW6NXR" text="{?CHILD.GENDER}допомагала{?}допомагав{\?} ковалю."/>
     <string id="shf5aY3l" text="I'm listening..."/>
     <string id="shihxzUN" text="Praise be... {LORD.LINK} met {OTHER_SIDE} and whipped them soundly. Maybe now there will be an end to this war."/>
     <string id="sHiIwnOb" text="{VALUE}% тривалості прицілювання без втрати точності."/>
@@ -3850,7 +3850,7 @@
     <string id="sMCN7eCp" text="Is there any other way to solve this problem?"/>
     <string id="smdvQWvu" text="{?PLAYER_CHILD}Your{?}This{\?} child loves animals of all kinds. You know that one day {?CHILD.GENDER}she{?}he{\?} will be a great rider."/>
     <string id="SN3pjZiK" text="You received a message from {QUEST_GIVER.LINK}.\n&quot;Thank you for clearing out that bandits' nest. Please accept these {REWARD}{GOLD_ICON} denars with our gratitude.&quot;"/>
-    <string id="SnEjsXsH" text="defeated an enemy."/>
+    <string id="SnEjsXsH" text="{?CHILD.GENDER}перемогла{?}переміг{\?} ворога."/>
     <string id="SNsAlN4R" text="Шедевр"/>
     <string id="SOHgkGKy" text="Ваші майстерні збирають чутки у торговців."/>
     <string id="sp52g5AQ" text="Very good, very good. Try to enter five tournaments over the next 45 days or so. Right before the fight you'll hear from my associate how far I want you to go in the rankings before you lose.[if:convo_delighted][ib:hip]"/>
