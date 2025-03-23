@@ -160,7 +160,7 @@
     <string id="1V8f9vRM" text="A courier bearing a peace offer from the {PROPOSER_HERO_FACTION} has arrived at the court of your realm."/>
     <string id="1V9GeKr8" text="Fah...I don't need more men. Thank you."/>
     <string id="1vnaskLR" text="It was a pleasure to work with you, chief. Farewell...[if:convo_nonchalant][ib:normal2]"/>
-    <string id="1vQul57Y" text="The caravan got lost and it was {CHILD.NAME} who spotted the landmarks that got it back on track."/>
+    <string id="1vQul57Y" text="Караван заблукав і саме {CHILD.NAME} {?CHILD.GENDER}помітила{?}помітив{\?} орієнтири, які повернули його на правильний шлях."/>
     <string id="1vYgkaaK" text="Гідність - це ваша репутація за дотримання взятих на себе зобов'язань, таких як дотримання свого слова і дотримання законів."/>
     <string id="1WbsW7I7" text="{QUEST_GIVER.NAME} won’t need anymore daggers. You can go back to {?QUEST_GIVER.GENDER}her{?}him{\?} to get your reward."/>
     <string id="1WxrzNXx" text="He'll be delighted. I'll tell him to join you as soon as possible."/>
@@ -1101,7 +1101,7 @@
     <string id="bcGzpFSg" text="Are you sure about what your hunters saw? My men are starting to run out of patience."/>
     <string id="BCoQgZvG" text="Бездоганна техніка"/>
     <string id="bCuxzp1N" text="You need to wait for the siege equipment to be prepared."/>
-    <string id="bCZbgrLU" text="The smith came down sick and the young {?CHILD.GENDER}woman{?}man{\?} had to quickly learn how to craft horseshoes and nails."/>
+    <string id="bCZbgrLU" text="Коваль захворів і {?CHILD.GENDER}молодій жінці{?}молодому чоловікові{\?} довелося швидко навчитися кувати підкови та виготовляти цвяхи."/>
     <string id="bdab7SmZ" text="You recruited the bandits who were giving {QUEST_GIVER.LINK} trouble. {?QUEST_GIVER.GENDER}she{?}he{\?} is satisfied with this outcome, and sends you {REWARD_GOLD}{GOLD_ICON} that {?QUEST_GIVER.GENDER}she{?}he{\?} promised."/>
     <string id="BDAmZkJF" text="You received a message from {ISSUE_GIVER.LINK}. 'It was a pleasure doing business with you and your folks.'"/>
     <string id="bDANTRwA" text="5% tax on tariffs is paid to the ruler clan{newline}Higher trade penalty in towns{newline}Settlement prosperity is decreased by 1 per day"/>
@@ -1436,7 +1436,7 @@
     <string id="cXlnH1Jp" text="Верткий скакун"/>
     <string id="cxQGUbUD" text="I'm so grateful! You've kept my workshop running and my family fed. Please take this money and some extra to cover your costs.[if:convo_grateful][ib:normal2]"/>
     <string id="CymOFgzv" text="I gave an oath to {CURRENT_LIEGE.LINK} - but {?LORD.GENDER}her{?}his{\?} disregard for the common people of this realm does give me pause."/>
-    <string id="cyQXm7VA" text="The young {?CHILD.GENDER}woman{?}man{\?} was charged with ensuring they had the food, saddles, animals, teamsters and guards for the journey."/>
+    <string id="cyQXm7VA" text="{?CHILD.GENDER}Молодій жінці{?}Молодому чоловікові{\?} було доручено подбати про те, щоб вони мали їжу, сідла, тварин, погоничів і охорону для подорожі."/>
     <string id="CyrOuz4h" text="This hero is wounded."/>
     <string id="CZ4y5NAf" text="Чиста інфраструктура"/>
     <string id="czCRxHZy" text="Вандал"/>
@@ -1667,7 +1667,7 @@
     <string id="EfZaCzb0" text="{PLAYER.NAME}, please return back to {QUEST_SETTLEMENT} to claim your rewards."/>
     <string id="EG06bDxi" text="granting awards for deeds in the field"/>
     <string id="egOR9DAz" text="If a worthy task presents itself, however, I may have a favor to ask of you at a later date."/>
-    <string id="egXc7J72" text="Caravan guards are not elite troops, and may slack off if not held to a high standard of discipline. {CHILD.NAME} made sure that they stayed sober and alert."/>
+    <string id="egXc7J72" text="Караванна варта не є елітним загоном і тому може втрачати пильність, якщо не буде дотримуватися високих стандартів дисципліни. {CHILD.NAME} {?CHILD.GENDER}стежила{?}стежив{\?} за тим, щоб вони завжди залишалися тверезими і були насторожі."/>
     <string id="eH0roDGM" text="Our clan's lands are vulnerable. I owe it to those under my protection to seek peace."/>
     <string id="EhaMPtRX" text="Оточення"/>
     <string id="EhxS7NQ4" text="Хай буде так. В атаку!"/>
@@ -3745,7 +3745,7 @@
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
     <string id="RVas572P" text="Raided"/>
     <string id="RVDojUOM" text="Землями довкола {.S}{SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}, {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
-    <string id="rVIzHhLO" text="The young {?CHILD.GENDER}woman{?}man{\?}'s social graces helped put other merchants at ease as they exchanged information and worked out deals."/>
+    <string id="rVIzHhLO" text="Навички спілкування {?CHILD.GENDER}молодої жінки{?}молодого чоловіка{\?} допомагали налаштовувати інших торговців на невимушений лад при обміні інформацією та укладанні угод."/>
     <string id="RVLPQ4rm" text="My friend. I am almost sad that these meetings are going to come to an end. Well, a deal is a deal. I won't beat around the bush. Here's your final message: {DIRECTIVE}. I wish you luck, right up until the moment that you have to go down.[if:convo_mocking_teasing][ib:closed]"/>
     <string id="RVNPXS46" text="{VALUE}% безпеки, яку забезпечують кінні воїни у підконтрольному поселенні."/>
     <string id="rvqVuM5o" text="нагляд за вартою."/>
@@ -4196,7 +4196,7 @@
     <string id="UWzQsHA2" text="Поселенням {SETTLEMENT_LINK} керує {LORD.LINK}, {FACTION_OFFICIAL} {.S}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="Ux90sIph" text="{VALUE}% досвіду кавалерії гарнізону підконтрольного поселення."/>
     <string id="UXCjNTjF" text="Hurry up. I don't have that much time.[if:convo_annoyed]"/>
-    <string id="UYdvhdDl" text="When cargo went missing, the young {?CHILD.GENDER}woman{?}man{\?} made the inquiries at the local black market that were necessary to get it back."/>
+    <string id="UYdvhdDl" text="Коли пропав вантаж, {?CHILD.GENDER}молода жінка порозпитувала{?}молодий чоловік порозпитував{\?} на місцевому чорному ринку і {?CHILD.GENDER}змогла{?}зміг{\?} повернути його назад."/>
     <string id="UYhJZya5" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду щодня усім воїнам вашого загону."/>
     <string id="uyTmrmCW" text="{FIRSTNAME} of the Reeds"/>
     <string id="UYYntLzb" text="{VALUE}% швидкості відновлення вашого села після рейду."/>
