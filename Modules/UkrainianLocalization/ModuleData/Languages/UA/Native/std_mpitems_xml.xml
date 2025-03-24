@@ -116,7 +116,7 @@
     <string id="C077yplu" text="Decorated Khuzait Shield"/>
     <string id="c1a5Pt8j" text="Bronze Nasalhelm over Mail"/>
     <string id="c6dK068V" text="Khuzait Long Lance"/>
-    <string id="cBZ6OlKW" text="Javelin"/>
+    <string id="cBZ6OlKW" text="{.m}Дротик{.R_n20_a}"/>
     <string id="cCaHNMwf" text="Highland Leg Wrappings"/>
     <string id="CEk1LX84" text="Sturgian Long Spear"/>
     <string id="cEUqPott" text="Aserai Long Spear"/>
@@ -233,7 +233,7 @@
     <string id="lxDZyKbU" text="Aserai Heavy Lance"/>
     <string id="LyaWykYa" text="Noble Helmet with Neckguard"/>
     <string id="Mbf8qAxs" text="Long Twohanded Axe"/>
-    <string id="mbT1uNPa" text="Dagger"/>
+    <string id="mbT1uNPa" text="{.m}Кинджал{.R_n20_a}"/>
     <string id="mDHMOUdx" text="Footman Wicker Shield"/>
     <string id="mFM5jUuF" text="Khuzait Long Infantry Spear"/>
     <string id="MS1gaKXk" text="Battanian Throwing Axe"/>
@@ -266,7 +266,7 @@
     <string id="OuD7PfvY" text="Imperial Recurve Bow"/>
     <string id="Oyeu738O" text="Northlander Lord Helmet"/>
     <string id="p2gPB04v" text="Steppe Leather Pauldron"/>
-    <string id="PF7sPCYq" text="Javelins"/>
+    <string id="PF7sPCYq" text="Дротики"/>
     <string id="PPpvY6BZ" text="Khuzait Cavalry Shield"/>
     <string id="pTtFr5Iw" text="Vlandian Military Sickle"/>
     <string id="PxVFJaEM" text="Crowned Plated Helmet"/>
