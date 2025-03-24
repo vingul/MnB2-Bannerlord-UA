@@ -154,7 +154,7 @@
     <string id="g08mptth" text="Moving to a party to be the new leader"/>
     <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom."/>
     <string id="GCaYjA5W" text="You need to be the leader of the clan to change it's name."/>
-    <string id="Gd6zuUwh" text="Free Build"/>
+    <string id="Gd6zuUwh" text="Власний дизайн"/>
     <string id="gduqxfck" text="You don't have all required materials!"/>
     <string id="Gp2vmZGZ" text="{PERKS}"/>
     <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans."/>
@@ -242,7 +242,7 @@
     <string id="mg7id9om" text="Number of Consumable Items"/>
     <string id="mHVmrwRQ" text="Введіть своє ім'я"/>
     <string id="MIylzRc5" text="You can't perform this action while you are in a map event."/>
-    <string id="MkVTRqAw" text="Orders ({ORDER_COUNT})"/>
+    <string id="MkVTRqAw" text="Замовлення ({ORDER_COUNT})"/>
     <string id="mountTier" text="Рівень їздової тварини: "/>
     <string id="mp68RYnD" text="Ліміт розміру загону"/>
     <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
@@ -409,7 +409,7 @@
     <string id="Wir2xZIg" text="You haven't unlocked some of the selected pieces."/>
     <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory."/>
     <string id="WySAapWO" text="Unlimited Wage"/>
-    <string id="wZGj3qO1" text="Choose What to Craft"/>
+    <string id="wZGj3qO1" text="Виберіть, що створювати"/>
     <string id="X6eG4Q5V" text="Warehouse Capacity"/>
     <string id="xaeXEj8J" text="Select character for smithing"/>
     <string id="XAL3t1bs" text="Прямує до заданої точки"/>
