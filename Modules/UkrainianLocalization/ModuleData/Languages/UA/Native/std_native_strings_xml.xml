@@ -128,7 +128,7 @@
     <string id="c1zu1b3M" text="You've been removed from the party."/>
     <string id="c2tGH5II" text="Warmup Time Limit (minutes)"/>
     <string id="captainasgame" text="Captain"/>
-    <string id="cBZ6OlKW" text="Javelin"/>
+    <string id="cBZ6OlKW" text="{.m}Дротик{.R_n20_a}"/>
     <string id="ccROnOY3" text="Received couched lance damage!"/>
     <string id="CFI2aDtg" text="Mount Armor"/>
     <string id="cJ5emwNF" text="Assist"/>
@@ -247,7 +247,7 @@
     <string id="mpparty" text="Party"/>
     <string id="MS795wWa" text="First Assist"/>
     <string id="mtlNshCB" text="Proving Grounds (Night)"/>
-    <string id="MW8rlyfL" text="Thrown"/>
+    <string id="MW8rlyfL" text="Метальне"/>
     <string id="mwetB4R6" text="Unlimited Gold"/>
     <string id="MyrHcDkP" text="Retreated to the keep!"/>
     <string id="n6N21Shz" text="Earn gold to buy higher tier respawns by assisting teammates, killing enemy troops and destroying siege engines."/>
@@ -334,7 +334,7 @@
     <string id="tAeflOpj" text="Received {DAMAGE} {DAMAGE_TYPE} damage."/>
     <string id="tAyw51tM" text="Allow Individual Banners"/>
     <string id="TDy1GZHv" text="Skirmish Battle"/>
-    <string id="tE1VwKTZ" text="Throwing Axe"/>
+    <string id="tE1VwKTZ" text="{.f}Метальний{.R_adj} {.f}сокира{.R_n10}"/>
     <string id="tewykKdc" text="Керування напрямком блоку"/>
     <string id="tFLVZdBz" text="This option is disabled due to unfinished character creation."/>
     <string id="TGaU0hQi" text="Mountain"/>
@@ -374,7 +374,7 @@
     <string id="V6BAHTnv" text="Culture Team 2"/>
     <string id="VbeHEAsa" text="Retreat"/>
     <string id="VecPWliR" text="Excessive reporting of a player may result in a ban."/>
-    <string id="VI4gQt8Q" text="Mace"/>
+    <string id="VI4gQt8Q" text="{.f}Булава{.R_n10}"/>
     <string id="vkEzdL3k" text="Change game type or scene"/>
     <string id="vM7CssWE" text="Ruins of Jawwali"/>
     <string id="vo5NpcUS" text="Форма верхньої губи"/>
