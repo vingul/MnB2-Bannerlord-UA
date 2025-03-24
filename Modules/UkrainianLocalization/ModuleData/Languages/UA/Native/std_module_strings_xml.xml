@@ -68,7 +68,7 @@
     <string id="2Ja8KYVg" text="Offensive"/>
     <string id="2JnLh6F0" text="Deceitful"/>
     <string id="2Jr3zWQz" text="Horses and Horse Harnesses"/>
-    <string id="2Mic7nhz" text="Nobody in your party has enough {SKILL} skill to complete an order."/>
+    <string id="2Mic7nhz" text="Ніхто у вашому загоні не має достатнього рівня уміння «{SKILL}», щоб виконати це замовлення."/>
     <string id="2noOKM5N" text="Торгові зв'язки з поселенням"/>
     <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} received as reward."/>
     <string id="2RIyK1bp" text="Weapons"/>
@@ -248,7 +248,7 @@
     <string id="8OkPHu4f" text="Ні"/>
     <string id="8Rkxc5jE" text="No Food"/>
     <string id="8rzcgCO5" text="Сортування"/>
-    <string id="8ucLajpU" text="One Handed Axe"/>
+    <string id="8ucLajpU" text="{.f}Одноручний{.R_adj} {.f}сокира{.R_n10}"/>
     <string id="8UFjXbbW" text="Flank{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
     <string id="8ZZgNNaY" text="{USE_KEY}"/>
     <string id="923438xA" text="Чудово, {PLAYER.LINK}, чудово. Тобі вдалося здолати {OPPONENT_COUNT} супротивник{#GET_PLURAL_VALUE(OPPONENT_COUNT)}а{#}а{#}ів{\#}. Твоя відвага підкорила серця публіки. Також ти зароби{?PLAYER.GENDER}ла{?}в{\?} {PRIZE}{GOLD_ICON}."/>
@@ -261,7 +261,7 @@
     <string id="9ECleB7I" text="Duel your opponent on foot for victory!"/>
     <string id="9EgIraI1" text="Active Policies"/>
     <string id="9esIWdDC" text="Afraid we'll need to make an example out of you, then. Don't bother begging for mercy.[ib:aggressive][if:convo_bared_teeth]"/>
-    <string id="9FhdRKWu" text="Throwing Knife"/>
+    <string id="9FhdRKWu" text="{.m}Метальний{.R_adj} {.m}ніж{.R_n21_a}"/>
     <string id="9gNjg4P0" text="Ви повернетесь до головного меню без збереження гри. Ви впевнені, що хочете вийти?"/>
     <string id="9iycVtyV" text="Швидкість вивчення: x {COUNT}"/>
     <string id="9Lhd2zVW" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року ви знайшли третю частину Стягу Дракона. Тепер ви готові заново розгорнути цей стяг."/>
@@ -283,7 +283,7 @@
     <string id="a3uKkLez" text="{LORD.LINK} знаходиться в дорозі поблизу {.S}{SETTLEMENT_NAME}{.v_rod}"/>
     <string id="a47CpGXN" text="Power Levels"/>
     <string id="a5j1v7tM" text="We've heard what happened to others who refused to join your cause. We've no desire to end up like them and no means to fight you. We'll wear your colors from now until it pleases you no more."/>
-    <string id="a6D6Ga2F" text="Weapon Reach: "/>
+    <string id="a6D6Ga2F" text="Довжина зброї: "/>
     <string id="a6FfHHVg" text="Building Effects"/>
     <string id="a6zaA9Um" text="+{BONUS_AMOUNT} increase to settlement militia."/>
     <string id="A7dcz7Yr" text="Melee Weapons II"/>
@@ -321,7 +321,7 @@
     <string id="AIYWSAyK" text="Отримуйте прибуток від торгівлі. Відправляйте каравани."/>
     <string id="aJoNj6JX" text="Бийтеся дворучною короткою зброєю."/>
     <string id="aJXhsjmT" text="Greetings, traveller. Unless you wish your bones to be left in the sand to be gnawed upon by jackals, give us what we want."/>
-    <string id="ajZTZoXQ" text="Two Handed Mace"/>
+    <string id="ajZTZoXQ" text="{.f}Дворучний{.R_adj} {.f}булава{.R_n10}"/>
     <string id="AkgIYqHT" text="sultana"/>
     <string id="AkUpgiBl" text="Клас {TIER_LEVEL}"/>
     <string id="alEG3BOa" text="Ваші відносини з {CLAN_LEADER}{.v_oru} покращилися на {MAGNITUDE} до {VALUE}."/>
@@ -426,7 +426,7 @@
     <string id="bPzyoTEF" text="You'll regret that answer.[ib:aggressive][if:convo_insulted]"/>
     <string id="BQDrheU6" text="{.f}Тканина{.R_n10}{@Plural}{.p}Рулон{.R_n20_p} тканини{\@}"/>
     <string id="brQ42NE5" text="Як покращити уміння"/>
-    <string id="bsabIdYm" text="Two Handed Axe"/>
+    <string id="bsabIdYm" text="{.f}Дворучний{.R_adj} {.f}сокира{.R_n10}"/>
     <string id="BsdOl4He" text="FOUL! Your opponent hit your horse. {?OPPONENT_GENDER}He{?}She{\?} has been disqualified!"/>
     <string id="BSmAtdWF" text="Lift the siege!"/>
     <string id="bTAkmho7" text="Необхідно ОД для покращення: {XP_AMOUNT}"/>
@@ -465,7 +465,7 @@
     <string id="CaW72yB3" text="Total Cost"/>
     <string id="cBNSgpZN" text="Ви отримаєте &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; до відносин з {.S}{CLAN_NAME}{.v_oru}"/>
     <string id="cBY2MxY0" text="princess"/>
-    <string id="cBZ6OlKW" text="Javelin"/>
+    <string id="cBZ6OlKW" text="{.m}Дротик{.R_n20_a}"/>
     <string id="CcAG3D8Q" text="NotAssigned"/>
     <string id="ccUEYdrU" text="Join Army"/>
     <string id="cDjq52h2" text="Sergant"/>
@@ -475,7 +475,7 @@
     <string id="ChmM5tjf" text="The game is a draw!"/>
     <string id="cJmI2poS" text="Інформація"/>
     <string id="cjZqTaHm" text="You don't have enough influence."/>
-    <string id="CKGavOyA" text="Бийтеся списом або подібною одноручною чи дворучною древковою зброєю."/>
+    <string id="CKGavOyA" text="Бийтеся списом або подібною одноручною чи дворучною держаковою зброєю."/>
     <string id="cKKYSB0z" text="You have lost {AMOUNT}{GOLD_ICON}."/>
     <string id="ckPhG1KV" text="Зв'язані села"/>
     <string id="CkwERBcS" text="Skirmish behind ally formation."/>
@@ -660,12 +660,12 @@
     <string id="fMh5KZfk" text="There is no need for us to stay here. Let's go!"/>
     <string id="FmIIQEQD" text="{HERO.NAME} has died."/>
     <string id="fMmlUHyz" text="Шкода від змаху: "/>
-    <string id="forgeverb" text="Forge"/>
+    <string id="forgeverb" text="Кувати"/>
     <string id="FpI5JMZq" text="Transactions have been reset"/>
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} increase to village growth."/>
     <string id="fQ2RLaOa" text="Клан не має жодної власності"/>
     <string id="fQAGU9GW" text="Великодушність:"/>
-    <string id="FqwHAxuM" text="Two Handed Polearm"/>
+    <string id="FqwHAxuM" text="Дворучна держакова зброя"/>
     <string id="FRepQsmO" text="Турнір буде у формі лицарського поєдинку."/>
     <string id="frt7AmX0" text="Гарнізон {MAJOR_PARTY_LEADER}{.v_rod}"/>
     <string id="fRu5Y4OT" text="I was wounded and left for dead"/>
@@ -753,7 +753,7 @@
     <string id="h6AJXR2e" text="Are you sure to retreat your party?"/>
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election"/>
     <string id="H9y9dLao" text="Щоб виграти більше, ви можете збільшити ставку. Кожного раунду коефіцієнти будуть мінятися, але ви не зможете поставити більше {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;."/>
-    <string id="haax8kMa" text="{.f}Древковий{.R_adj} {.f}зброя{.R_n10}"/>
+    <string id="haax8kMa" text="{.f}Держаковий{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="hAgZBZP8" text="Forfeit"/>
     <string id="haRRjDmy" text="Для покращення ви використаєте {TRADE_AMOUNT} кон{#GET_PLURAL_VALUE(TRADE_AMOUNT)}я{#}я{#}ей{\#}."/>
     <string id="hbeUbpEA" text="Ви дійсно бажаєте скасувати?"/>
@@ -767,7 +767,7 @@
     <string id="HEUDyfbG" text="{HERO.NAME} приєднається до {.S}{CLAN_NAME}{.v_rod}"/>
     <string id="hEWuE0Ch" text="You're the commander. You will be able to order all formations during the battle."/>
     <string id="hfSW9FTN" text="Ranged Weapons V"/>
-    <string id="hJypvWMR" text="Refine"/>
+    <string id="hJypvWMR" text="Переробити"/>
     <string id="HKrCB1Pa" text="Can Crush Through"/>
     <string id="HkZ4E94O" text="Степові племена хузаїтської конфедерації раніше вели кочовий спосіб життя, але нещодавно вони осіли на східному кордоні Імперії і повільно перетворюються на землеробів, згуртовуючись навколо міст. Незважаючи на це, вони все ще дотримуються деяких звичаїв колишнього кочового життя. Зокрема проявляють традиційну спритність у поводженні з кіньми. Їхні кінні лучники прекрасно навчені тактиці набігів на армію супротивника."/>
     <string id="hL3JIQbd" text="Lead this formation to battle."/>
@@ -965,7 +965,7 @@
     <string id="kZ7gLqMz" text="If auto recruitment is enabled, the garrison will recruit troops from notables in the town center and nearby villages. The costs will be paid by the settlement owner."/>
     <string id="KZAQHSa2" text="Yet the prosperity is clearly not benefiting everyone equally. People seem angry, complaining endlessly about new rural migrants, rising prices, and those who are profiting more than others."/>
     <string id="L1Q4AysI" text="Прибуток"/>
-    <string id="L3EE8bmx" text="Nobody in your party has enough {SKILL} skill to complete this order. (Need {AMOUNT} more)"/>
+    <string id="L3EE8bmx" text="Ніхто у вашому загоні не має достатнього рівня уміння «{SKILL}», щоб виконати це замовлення. (Необхідно ще {AMOUNT} очк{#GET_PLURAL_VALUE(AMOUNT)}о{#}и{#}ів{\#})"/>
     <string id="l4uTnJct" text="You need to select an outcome and how much you want to support that outcome."/>
     <string id="l57Dk2DQ" text="Dungeon Limit Exceeded ({TROOP_NUMBER} prisoners)"/>
     <string id="l6a3grfK" text="your party"/>
@@ -1031,7 +1031,7 @@
     <string id="maptimeplay" text="Продовжити"/>
     <string id="mAxXKaXp" text="Скинути"/>
     <string id="mbS0DkUo" text="Raid"/>
-    <string id="mbT1uNPa" text="Кинджал"/>
+    <string id="mbT1uNPa" text="{.m}Кинджал{.R_n20_a}"/>
     <string id="Mc8ojOGn" text="Вогнища"/>
     <string id="MciIqod6" text="Couch Lance"/>
     <string id="mDbaNQay" text="Ride forth and attempt to strike your opponent!"/>
@@ -1063,7 +1063,7 @@
     <string id="mTTWkewD" text="Give"/>
     <string id="MUCmJaXQ" text="Правитель {FACTION_INFORMAL_NAME}{.v_rod}"/>
     <string id="MUStU7ab" text="brother"/>
-    <string id="MW8rlyfL" text="Thrown"/>
+    <string id="MW8rlyfL" text="Метальне"/>
     <string id="MWatMKoP" text="On {DAY_OF_YEAR}, {YEAR}, the secret pact between the imperial factions was revealed, as the armies of the former rivals took the field together."/>
     <string id="MWByKPst" text="Generals"/>
     <string id="mwegfVKr" text="Cerebral"/>
@@ -1109,12 +1109,12 @@
     <string id="nkzKgspT" text="Manage Garrison"/>
     <string id="NLmaID0O" text="{HERO.NAME} has been executed by {KILLER.NAME}."/>
     <string id="nMcvafHY" text="Активно"/>
-    <string id="nNDdo3I9" text="One Handed Sword"/>
+    <string id="nNDdo3I9" text="{.m}Одноручний{.R_adj} {.m}меч{.R_n20_a}"/>
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}ран.)"/>
     <string id="nNRKCYpR" text="Inside production"/>
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})"/>
     <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}"/>
-    <string id="NPJRmNAY" text="Can not be crafted."/>
+    <string id="NPJRmNAY" text="Неможливо виготовити."/>
     <string id="NqarFr4P" text="Налаштування"/>
     <string id="NQbqtEqP" text="Вартість: {COUNT}"/>
     <string id="NqSLYe6b" text="Слава:"/>
@@ -1228,7 +1228,7 @@
     <string id="PMnSk81U" text="So you intend to fight, little sheep? Let's see your horns then."/>
     <string id="PN4Edq9W" text="Melee Weapons III"/>
     <string id="pn9KNMxb" text="You are trapped by enemies. But your men are in no condition to fight. Your only option is to surrender."/>
-    <string id="PNZmPprx" text="Two Handed Sword"/>
+    <string id="PNZmPprx" text="{.m}Дворучний{.R_adj} {.m}меч{.R_n20_a}"/>
     <string id="policypropose" text="Propose"/>
     <string id="porKAP64" text="Consider abolishing this policy ({SUPPORT}%)"/>
     <string id="PpPbWYPB" text="Можна стати найманцем"/>
@@ -1380,8 +1380,8 @@
     <string id="sKnYLPkn" text="{.m}король{.R_n20_a_p}"/>
     <string id="slKe6Gyc" text="Total food of army"/>
     <string id="SLNKWIj5" text="Hero's {TRAIT_NAME} trait needs to be {MAX_TRAIT_AMOUNT} or lower."/>
-    <string id="smeltverb" text="Smelt"/>
-    <string id="smithingverb" text="Smithing"/>
+    <string id="smeltverb" text="Переплавити"/>
+    <string id="smithingverb" text="{.n}Ковальство{.R_n2n}"/>
     <string id="SMws1ws6" text="Large Shield"/>
     <string id="SNfvAnuV" text="+{BONUS_AMOUNT}% bonus to wall repair speed"/>
     <string id="SNVrnzES" text="Can't gather an army during an encounter"/>
@@ -1389,7 +1389,7 @@
     <string id="snyxby5L" text="Back To Home"/>
     <string id="So5yubRS" text="Not Usable With One Hand"/>
     <string id="SojzHoCa" text="Female Only"/>
-    <string id="spIe8wd8" text="One Handed Polearm"/>
+    <string id="spIe8wd8" text="{.f}Одноручний{.R_adj} {.f}держаковий{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="spkv1rOW" text="Changing a Party Leader"/>
     <string id="SqUphVOm" text="Загони ({CURRENT} / {LIMIT})"/>
     <string id="SrfYbg3x" text="Лідер"/>
@@ -1423,7 +1423,7 @@
     <string id="TDQId8c9" text="You've constructed a barrier against your opponent, and have more pawns left. You win the game!"/>
     <string id="tDy1TfDq" text="Return To Hero"/>
     <string id="tdYB3Tzc" text="Повторити"/>
-    <string id="tE1VwKTZ" text="Throwing Axe"/>
+    <string id="tE1VwKTZ" text="{.f}Метальний{.R_adj} {.f}сокира{.R_n10}"/>
     <string id="TeWnL9bh" text="my husband {REFERING_HERO.LINK}"/>
     <string id="TgtdcMGS" text="A fly that wiggles and struggles a bit - we can handle that.."/>
     <string id="thIebQAR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are riding in vanguard."/>
@@ -1524,7 +1524,7 @@
     <string id="vgXYtMrj" text="Battle Survivors"/>
     <string id="VHjIJGja" text="You need to be in a kingdom"/>
     <string id="vhq22OyK" text="Prosp."/>
-    <string id="VI4gQt8Q" text="Mace"/>
+    <string id="VI4gQt8Q" text="{.f}Булава{.R_n10}"/>
     <string id="Vi6ojGrk" text="{FACTION_1_NAME} vs {FACTION_2_NAME}"/>
     <string id="vIpFgbU6" text="Light Armor"/>
     <string id="VJNJsdif" text="{COMPANION.NAME} {?COMPANION.GENDER}приєдналася{?}приєднався{\?} до вашого загону."/>
