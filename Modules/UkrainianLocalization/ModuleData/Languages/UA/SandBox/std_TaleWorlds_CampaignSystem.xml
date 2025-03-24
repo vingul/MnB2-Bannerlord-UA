@@ -248,7 +248,7 @@
     <string id="2xLwjXYm" text="Rest easy. Your captivity has ended."/>
     <string id="2xVbLS5r" text="Request a parley"/>
     <string id="2y7gahYi" text="Добродушність"/>
-    <string id="2y9DhzCR" text="You are about to lose sight of the caravan. Find the caravan before they are in danger!"/>
+    <string id="2y9DhzCR" text="Ви ось-ось втратите караван з поля зору. Знайдіть караван до того, як він опиниться в небезпеці!"/>
     <string id="2YiPE05P" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. Your companion will no doubt be very helpful."/>
     <string id="2YUUGQvG" text="Жінка"/>
     <string id="2zNrVsDj" text="{VALUE}% впливу на бойовий дух дружніх воїнів, коли ви вбиваєте дворучною зброєю."/>
@@ -3203,7 +3203,7 @@
     <string id="OIwtLKN3" text="I am a {?PLAYER.GENDER}woman{?}man{\?} of my word. I will raise some money to pay you. Wait for my return {QUEST_GIVER.LINK}."/>
     <string id="oJ6lpXmp" text="But I have one with you, brigand! Give up now."/>
     <string id="OJ9QCJh8" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду в день всім воїнам, коли ви пересуваєтесь з перевантаженням."/>
-    <string id="OjI8uGFa" text="We are traveling to {SETTLEMENT_NAME}."/>
+    <string id="OjI8uGFa" text="Ми прямуємо до {SETTLEMENT_NAME}{.v_rod}."/>
     <string id="oJJiKTSL" text="You are welcome."/>
     <string id="ojNK5Zem" text="(One of the merchants in the town comes to talk as you are preparing to depart.)"/>
     <string id="OJObD61e" text="The headman of {ISSUE_SETTLEMENT} needs grain seeds for the coming sowing season."/>
