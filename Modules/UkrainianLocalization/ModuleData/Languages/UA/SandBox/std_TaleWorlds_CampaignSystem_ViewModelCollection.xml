@@ -53,7 +53,7 @@
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Клас: "/>
     <string id="8fqFGxD9" text="Press {KEY} to compare with: {ITEM}"/>
     <string id="8Jy9DnKk" text="Attached to {PARTY_NAME}"/>
-    <string id="8lCWWK9G" text="Ковальські здібності"/>
+    <string id="8lCWWK9G" text="Здібності коваля"/>
     <string id="8N1EdPB3" text="You will earn {GOLD}{GOLD_ICON}"/>
     <string id="8szijlHj" text="Складність замовлення: {DIFFICULTY}"/>
     <string id="94aHU6nD" text="Construction"/>
@@ -266,7 +266,7 @@
     <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
     <string id="ocSW4WA2" text="Critical Fail!"/>
     <string id="ODEnkg0o" text="Clan Strength"/>
-    <string id="OGbskMfz" text="Розблокованих частин:"/>
+    <string id="OGbskMfz" text="Доступних частин:"/>
     <string id="OhNYkblK" text="Цей герой щойно втік від викрадачів і буде доступний через деякий час."/>
     <string id="OkWLI5C8" text="Размір:"/>
     <string id="oM2Ta1di" text="Press {CONSOLE_KEY_NAME} to Reset Camera"/>
@@ -347,7 +347,7 @@
     <string id="S1iS3OYj" text="Party leader is default for unassigned roles"/>
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army"/>
     <string id="s6koeapc" text="{MAP_FACTION}"/>
-    <string id="saHYZKLt" text="There are no available items in history"/>
+    <string id="saHYZKLt" text="В історії виготовлення нічого немає"/>
     <string id="SDhQWonF" text="Paying {DENAR}{GOLD_ICON} as tribute per day."/>
     <string id="SFB2uYHa" text="Alley leader is traveling to the alley. ({LEFT_TIME} {?LEFT_TIME&gt;1}hours{?}hour{\?} left.)"/>
     <string id="sffGeQ1g" text="Gift"/>
@@ -405,7 +405,7 @@
     <string id="wcSSgFyK" text="В імені персонажу не повинно бути декількох пропусків підряд"/>
     <string id="weaponTier" text="Рівень зброї: "/>
     <string id="wGWYNYYX" text="This education stage is no longer relevant."/>
-    <string id="WHRq5Dp0" text="Немає ковальських здібностей"/>
+    <string id="WHRq5Dp0" text="Немає здібностей коваля"/>
     <string id="Wir2xZIg" text="Ви ще не розблокували деякі з вибраних частин."/>
     <string id="wMiLUTNY" text="Ви впевнені, що хочете переплавити цю зброю? Вона заблокована в інвентарі."/>
     <string id="WySAapWO" text="Unlimited Wage"/>
