@@ -69,7 +69,7 @@
     <string id="BHXqTA0N" text="Replaces Flyssa with Kaskara, longer and deals more damage."/>
     <string id="bIRS8ZSU" text="You are able throw axes much quicker with greater precision, throwing axes also deal extra damage to shields.{newline} {newline} Grants Throwing Axes{newline} {newline}+30% Damage to Shields"/>
     <string id="blqDgCtL" text="Big Game Hunter"/>
-    <string id="bsabIdYm" text="Two Handed Axe"/>
+    <string id="bsabIdYm" text="{.f}Дворучний{.R_adj} {.f}сокира{.R_n10}"/>
     <string id="btoJTO9G" text="Raider Axe"/>
     <string id="bxUVwypQ" text="You know how to handle yourself in melee, grants a shield and a mace.{newline} {newline}Grants Small Metal Shield{newline}Grants Heavy Mace{newline}+7% movement speed"/>
     <string id="bY9U7w1Q" text="Sword"/>
@@ -204,7 +204,7 @@
     <string id="pjq5Nkn4" text="Replaces Axe with a longer and heavier axe. Extra effective against shields and capable of dismounting cavalry with swing attacks."/>
     <string id="pn9OIMbK" text="You are a fighter of the steppe, in combat you stay mobile and dangerous to open up the back of your enemies.{newline} {newline}Grants Short Spear{newline} {newline}+7% Movement Speed{newline}+5% Melee Damage"/>
     <string id="Pnzm9fvH" text="Armor Padding"/>
-    <string id="PNZmPprx" text="Two Handed Sword"/>
+    <string id="PNZmPprx" text="{.m}Дворучний{.R_adj} {.m}меч{.R_n20_a}"/>
     <string id="pqaYbQBy" text="You know the weak points of shields, your attacks are extra effective against shields.{newline} {newline}+20% Damage to Shields"/>
     <string id="ptxHd7K1" text="Spearhead"/>
     <string id="PzgDEcZ5" text="Mounted Marksman"/>
@@ -265,7 +265,7 @@
     <string id="Vf4mofBO" text="Blood Money"/>
     <string id="vHIIkFQF" text="Blood Rage"/>
     <string id="vhyTjeAR" text="Your strong arm allows you to throw faster with much more deadly force.{newline} {newline}+5% Missle Release Speed{newline} {newline}+20% Throwing Weapon Damage"/>
-    <string id="VI4gQt8Q" text="Mace"/>
+    <string id="VI4gQt8Q" text="{.f}Булава{.R_n10}"/>
     <string id="VmoAFrzI" text="You are an expert at fighting against cavalry on foot and mastered to use cavalry's speed against itself. Grants a long spear that does more damage.{newline} {newline}Grants Long Spear.{newline} {newline}+100% Damage to Mounts with Melee Weapons{newline}+50% Speed Bonus Damage with Melee Weapons on Piercing Attacks"/>
     <string id="vn2uYMOj" text="You know where to hit your targets, your headshots deal additional damage.{newline} {newline}Grants Stronger Ammo{newline} {newline}+10% Damage to Headshots"/>
     <string id="VPmy8IN2" text="A thick layer of muscles protects you from bruises.{newline} {newline}-30% Blunt damage taken"/>
