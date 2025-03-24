@@ -80,7 +80,7 @@
     <string id="4BfbPgkY" text="Nasal Cervelliere over Padded Cap"/>
     <string id="4C4WiTb2" text="Varyag"/>
     <string id="4cHMe6H2" text="Decorated Hauberk"/>
-    <string id="4cU98rkg" text="Smelting"/>
+    <string id="4cU98rkg" text="Переплавлення"/>
     <string id="4Dd2xgPm" text="Weight"/>
     <string id="4eOHPops" text="Rugged Scale Armor"/>
     <string id="4f5xwzX0" text="Коли було необхідно організувати загін, щоб наздогнати конокрадів, ваша громада звернулася до вас, оскільки ви були очевидним вибором. Ви вистежили викрадачів, оточили їх, змусили здатися і повернути вкрадене."/>
@@ -492,14 +492,14 @@
     <string id="GzgUzrFY" text="Mail Shirt"/>
     <string id="h2KnarLL" text="навчалися воювати в кавалерії."/>
     <string id="H5tiRTya" text="Тренування"/>
-    <string id="h60wQVVX" text="Pike"/>
+    <string id="h60wQVVX" text="{.f}Піка{.R_n10}"/>
     <string id="h6UXvU3B" text="Nasal Cervelliere over Laced Coif"/>
     <string id="h9PP7EWc" text="Cap with Neck Flap"/>
     <string id="hab2DsOW" text="Highland Kilt over Tartan Trousers"/>
     <string id="HBaSQlSJ" text="Fringed Bronze Cap with Cheek Guards"/>
     <string id="HcAV8x7p" text="Член загону"/>
     <string id="hCavIm4G" text="You will pay {AMOUNT}{GOLD_ICON} denars."/>
-    <string id="hchDYAKL" text="Улан"/>
+    <string id="hchDYAKL" text="Копійник"/>
     <string id="HCXHcBzT" text="Mattis"/>
     <string id="hE8s9bpP" text="Curved Round Shield"/>
     <string id="hELN8VXv" text="Torn Robe"/>
@@ -553,7 +553,7 @@
     <string id="IuD9SaQM" text="Burlap Dress"/>
     <string id="IuWu5Bu7" text="Великодушність"/>
     <string id="iVataLxL" text="Leather Strips over Padded Robe"/>
-    <string id="ivKl4mV2" text="Ваш батько був довіреним офіцером місцевого аристократа-землевласника. Він їздив з панською кавалерією і воював як улан, закований у важку броню."/>
+    <string id="ivKl4mV2" text="Ваш батько був довіреним офіцером місцевого аристократа-землевласника. Він їздив з панською кавалерією і воював у рядах важкоброньованих копійників."/>
     <string id="iW9iKbb8" text="Nothing."/>
     <string id="IX3kafcb" text="Iron Spiked Kettle over Mail"/>
     <string id="ixqTFMVA" text="Кінний воїн"/>
@@ -571,7 +571,7 @@
     <string id="j9Weia10" text="Easy"/>
     <string id="jaaQijQs" text="Вік"/>
     <string id="jakLnIQv" text="Roughscale Helmet"/>
-    <string id="jAs3kDXh" text="Ваша сім'я входила до найближчого оточення хузаїтського нойона і розділяла з ним трапезу в юрті вождя. Ваш батько допомагав своєму вождю в управлінні справами клану і бився в лавах броньованих уланів у центрі бойової лінії хузайтів."/>
+    <string id="jAs3kDXh" text="Ваша сім'я входила до найближчого оточення хузаїтського нойона і розділяла з ним трапезу в юрті вождя. Ваш батько допомагав своєму вождю в управлінні справами клану і бився в лавах броньованих копійників у центрі бойової лінії хузайтів."/>
     <string id="JbV0WoO7" text="Mastercrafted Southern Scale Mail"/>
     <string id="JBVAeXx3" text="Pitchfork"/>
     <string id="JCdVJYnQ" text="Light Tunic"/>
@@ -614,7 +614,7 @@
     <string id="KfaqPpbK" text="Разом з іншими прудконогими юнаками ви виганяли на пасовища поблизу села отари овець, кіз та іншої рогатої худоби. Ви відповідали за цю худобу, тому завжди брали з собою пригорщу камінців, щоб кидати ними в хижаків, які завжди крутились десь неподалік, вичікуючи свого шансу вполювати тварину, що відбилась від стада."/>
     <string id="kfNW01y5" text="Tynops"/>
     <string id="kftE5nvv" text="Броня коня"/>
-    <string id="kg9YtrOg" text="Ваша родина була ковалями, шанованою професією серед баттанців. Вони виготовляли все - від вишуканих філігранних прикрас з геометричними візерунками до добре збалансованих довгих мечів, яким віддавала перевагу баттанська аристократія."/>
+    <string id="kg9YtrOg" text="Ваша родина була ковалями, шанованою професією серед баттанців. Вони виготовляли все — від вишуканих філігранних прикрас з геометричними візерунками до добре збалансованих довгих мечів, яким віддавала перевагу баттанська аристократія."/>
     <string id="Kgnm0FkE" text="Leather Shoes"/>
     <string id="KiJd6Xik" text="Переміщення"/>
     <string id="KjzJjj5n" text="Eronys"/>
@@ -999,7 +999,7 @@
     <string id="UPaP0B2L" text="Alchyla"/>
     <string id="uQgNPJnc" text="Керування воїнами"/>
     <string id="uqO6e6vN" text="Kite Shield"/>
-    <string id="URgZ4ai4" text="Ваша сім'я займала середнє положення в одному з хузаїтських кланів. Хоч у вашого батька і було кілька власних стад, але він не був багатим. Коли хузаїтська орда відправлялась на битву, він бився в лавах кінних лучників, обстрілюючи стрілами і виснажуючи ворога, перш ніж списоносці завдавали останнього удару."/>
+    <string id="URgZ4ai4" text="Ваша сім'я займала середнє положення в одному з хузаїтських кланів. Хоч у вашого батька і було кілька власних стад, але він не був багатим. Коли хузаїтська орда відправлялась на битву, він бився в лавах кінних лучників, обстрілюючи стрілами і виснажуючи ворога, перш ніж копійники завдавали останнього удару."/>
     <string id="urUwa4bf" text="Looter"/>
     <string id="uTFjknE2" text="Andros"/>
     <string id="uUGAMReu" text="Fine Town Boots"/>
