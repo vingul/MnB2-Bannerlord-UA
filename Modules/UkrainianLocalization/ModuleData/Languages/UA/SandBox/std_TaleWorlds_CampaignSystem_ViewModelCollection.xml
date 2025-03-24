@@ -53,9 +53,9 @@
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Клас: "/>
     <string id="8fqFGxD9" text="Press {KEY} to compare with: {ITEM}"/>
     <string id="8Jy9DnKk" text="Attached to {PARTY_NAME}"/>
-    <string id="8lCWWK9G" text="Smithing Perks"/>
+    <string id="8lCWWK9G" text="Ковальські здібності"/>
     <string id="8N1EdPB3" text="You will earn {GOLD}{GOLD_ICON}"/>
-    <string id="8szijlHj" text="Order Difficulty: {DIFFICULTY}"/>
+    <string id="8szijlHj" text="Складність замовлення: {DIFFICULTY}"/>
     <string id="94aHU6nD" text="Construction"/>
     <string id="9FJi2SaE" text="Роль в загоні"/>
     <string id="9i0wnjJK" text="L-II : {BONUS}"/>
@@ -100,7 +100,7 @@
     <string id="C9tKA0ul" text="Ім'я персонажа не може бути порожнім"/>
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Збалансованість: "/>
     <string id="CaRbMaZY" text="Daily Wage"/>
-    <string id="cbbUzYX3" text="Difficulty: {DIFFICULTY}"/>
+    <string id="cbbUzYX3" text="Складність: {DIFFICULTY}"/>
     <string id="cDkHJOkl" text="You need to be in the viewing range, control this settlement with your kingdom or have a clan member in the settlement to see its details."/>
     <string id="cedvCZ73" text="There is no town owned by {FACTION}"/>
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   "/>
@@ -111,7 +111,7 @@
     <string id="cnmRwV4s" text="Ammo Limit"/>
     <string id="CnsIzaWo" text="Field Battle"/>
     <string id="CRi905Ao" text="У вашому загоні"/>
-    <string id="cUUI8u2G" text="Smithy Stamina"/>
+    <string id="cUUI8u2G" text="Витривалість коваля"/>
     <string id="cZCOa00c" text="{SUPPORTER_RANK} Supporters ({NUM})"/>
     <string id="d2K6gMsZ" text="Leave members. Need at least 1 companion."/>
     <string id="d8jrv3nA" text="Додати в закладки"/>
@@ -124,7 +124,7 @@
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}"/>
     <string id="DNXD37JL" text="Settlement's Days Until Food Runs Out"/>
     <string id="dO95yR9b" text="Thrust Damage"/>
-    <string id="dOa7frHR" text="Show only unlocked pieces"/>
+    <string id="dOa7frHR" text="Показувати тільки розблоковані частини"/>
     <string id="Dqydb21E" text=" {PARTY_SIZE}"/>
     <string id="DRJOxrRF" text="Troops in Army"/>
     <string id="dVqowrRz" text=" - {STAT} {REQUIREMENT}"/>
@@ -155,7 +155,7 @@
     <string id="G2h0V10w" text="Gift this settlement to a clan in your kingdom."/>
     <string id="GCaYjA5W" text="You need to be the leader of the clan to change it's name."/>
     <string id="Gd6zuUwh" text="Власний дизайн"/>
-    <string id="gduqxfck" text="You don't have all required materials!"/>
+    <string id="gduqxfck" text="У вас немає всіх необхідних матеріалів!"/>
     <string id="Gp2vmZGZ" text="{PERKS}"/>
     <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans."/>
     <string id="gTbE6t9I" text="Following requirements are not met:"/>
@@ -172,7 +172,7 @@
     <string id="HiJTlBgF" text="Sell Workshop"/>
     <string id="hn9TPqhK" text="Weapon Tier"/>
     <string id="hOVPiG3z" text="Recently rebelled"/>
-    <string id="hr4MuPnt" text="Required Materials"/>
+    <string id="hr4MuPnt" text="Необхідні матеріали"/>
     <string id="hRSezxnT" text="Деякі з ваших воїнів готові до покращення."/>
     <string id="HTtWslIx" text="Market Food Stocks"/>
     <string id="hTzTMLsf" text="Дальність огляду"/>
@@ -230,7 +230,7 @@
     <string id="LuC5ZZMu" text="{CRIMINAL_RATING} ({INCREASE}){CRIME_ICON}"/>
     <string id="LVJKy6a8" text="Для покращення цього воїна необхідна здібність «{PERK_NAME}» ({PERK_SKILL})."/>
     <string id="LVmkE2Ow" text="Готових до бою воїнів"/>
-    <string id="lVuGCYPC" text="Smithing Skill"/>
+    <string id="lVuGCYPC" text="Рівень Ковальства"/>
     <string id="lxwGbRwu" text="x {SHOP_DIFFERENCE_COUNT}"/>
     <string id="LxWVtDF0" text="Manage Workshop"/>
     <string id="m1Yynagz" text="Сторінка {NUMBER}"/>
@@ -266,13 +266,13 @@
     <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
     <string id="ocSW4WA2" text="Critical Fail!"/>
     <string id="ODEnkg0o" text="Clan Strength"/>
-    <string id="OGbskMfz" text="Unlocked Parts:"/>
+    <string id="OGbskMfz" text="Розблокованих частин:"/>
     <string id="OhNYkblK" text="Цей герой щойно втік від викрадачів і буде доступний через деякий час."/>
     <string id="OkWLI5C8" text="Размір:"/>
     <string id="oM2Ta1di" text="Press {CONSOLE_KEY_NAME} to Reset Camera"/>
     <string id="Omjlnsk3" text="{ITEM_NAME} cannot be equipped on this slot."/>
     <string id="OMqHwpXF" text="One of your parties has lost its leader. It will disband after a day has passed. You can assign a new clan member to lead it, if you wish to keep the party.{newline}{newline}Do you want to assign a new leader?"/>
-    <string id="Oo3fkeab" text="Difficulty: "/>
+    <string id="Oo3fkeab" text="Складність: "/>
     <string id="oofSja21" text="Ім'я персонажу не може починатися або закінчуватися пробілом"/>
     <string id="OpsiBFCu" text="... and {COUNT} more items."/>
     <string id="opU0Nr2G" text="Progress for unlocking a new piece."/>
@@ -341,7 +341,7 @@
     <string id="rOKAvjtT" text="Gift Settlement"/>
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost"/>
     <string id="rThSy9ed" text="Необхідно: {UPGRADE_ITEM} (У вас жодного немає)"/>
-    <string id="rUeWBOOi" text="Select an item to smelt"/>
+    <string id="rUeWBOOi" text="Виберіть предмет для переплавлення"/>
     <string id="rwKBR4NE" text="Average Days Until Food Runs Out"/>
     <string id="s06mScpJ" text="If you have goods in the warehouse, they will be transferred to your party. Are you sure?"/>
     <string id="S1iS3OYj" text="Party leader is default for unassigned roles"/>
@@ -379,14 +379,14 @@
     <string id="TzLtVzdg" text="Поранених воїнів"/>
     <string id="U3ksQXD3" text="Give Away"/>
     <string id="UbZL2BJQ" text="Hitpoints"/>
-    <string id="udPWHmOm" text="Difficulty:"/>
+    <string id="udPWHmOm" text="Складність:"/>
     <string id="uGMGjUZy" text="Send your clan members to {SETTLEMENT_NAME}"/>
     <string id="UHLcmf9A" text="Ліміт кількості полонених загону"/>
     <string id="uipNpzVw" text="Cannot disband the army right now."/>
     <string id="uJro3Bua" text="Over Limit"/>
     <string id="US7UmBbt" text="Armor Tier"/>
     <string id="UUaW0dba" text="Прямує до {SETTLEMENT_NAME}{.v_rod}"/>
-    <string id="v3OF6vBg" text="Yield"/>
+    <string id="v3OF6vBg" text="Матеріали"/>
     <string id="vdKiLwaf" text="Traveling"/>
     <string id="Ve5jkJqf" text="Auto Offer"/>
     <string id="vggt7exj" text="Комплект {CURINDEX}/{COUNT}"/>
@@ -405,13 +405,13 @@
     <string id="wcSSgFyK" text="В імені персонажу не повинно бути декількох пропусків підряд"/>
     <string id="weaponTier" text="Рівень зброї: "/>
     <string id="wGWYNYYX" text="This education stage is no longer relevant."/>
-    <string id="WHRq5Dp0" text="No Smithing Perks"/>
-    <string id="Wir2xZIg" text="You haven't unlocked some of the selected pieces."/>
-    <string id="wMiLUTNY" text="Are you sure you want to smelt this weapon? It is locked in the inventory."/>
+    <string id="WHRq5Dp0" text="Немає ковальських здібностей"/>
+    <string id="Wir2xZIg" text="Ви ще не розблокували деякі з вибраних частин."/>
+    <string id="wMiLUTNY" text="Ви впевнені, що хочете переплавити цю зброю? Вона заблокована в інвентарі."/>
     <string id="WySAapWO" text="Unlimited Wage"/>
     <string id="wZGj3qO1" text="Виберіть, що створювати"/>
     <string id="X6eG4Q5V" text="Warehouse Capacity"/>
-    <string id="xaeXEj8J" text="Select character for smithing"/>
+    <string id="xaeXEj8J" text="Виберіть персонажа для роботи в кузні"/>
     <string id="XAL3t1bs" text="Прямує до заданої точки"/>
     <string id="XgkFpSdq" text="Cannot apply changes. You need reset your changes in order to engage in a conversation."/>
     <string id="XIioBPi0" text="No changes"/>
@@ -420,7 +420,7 @@
     <string id="xtlIFKaa" text="Are you sure you want to leave the Kingdom?{newline}If so, choose how you want to leave the kingdom."/>
     <string id="xtt9Oxer" text="Productions"/>
     <string id="XUtiwiYP" text="Довжина: "/>
-    <string id="xW4BPVLX" text="Crafting History"/>
+    <string id="xW4BPVLX" text="Історія виготовлення"/>
     <string id="xwRWjlar" text="Колір фону:"/>
     <string id="XYAVu2f0" text="Переслідує {._}{TARGET_PARTY}{.v_zna}."/>
     <string id="Y65gdbrx" text="Очікує в {._}{TARGET_PARTY}{.v_mis}"/>
