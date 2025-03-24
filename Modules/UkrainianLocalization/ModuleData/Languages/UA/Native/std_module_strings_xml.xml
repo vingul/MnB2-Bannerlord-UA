@@ -540,7 +540,7 @@
     <string id="DOaIBObZ" text="(Daily defaults become active when there are no projects under construction)"/>
     <string id="DOKG38dF" text="Навчання увімкнено"/>
     <string id="DPbv2cOo" text="Redeploying"/>
-    <string id="dpPMuLa4" text="Cannot complete any orders."/>
+    <string id="dpPMuLa4" text="Неможливо виконати жодне замовлення."/>
     <string id="DqJG7bvh" text="Capacity Exceeded"/>
     <string id="dQRdP9eQ" text="Encounter"/>
     <string id="DRaJ7hoz" text="The Winner is"/>
@@ -998,7 +998,7 @@
     <string id="lnKAqDVM" text="Defend key position"/>
     <string id="lockverb" text="Заблокувати"/>
     <string id="Lp0byzGQ" text="I"/>
-    <string id="LpAiJGeV" text="{HERO_NAME} cannot complete any of the available orders."/>
+    <string id="LpAiJGeV" text="{HERO_NAME} не може виконати жодне з доступних замовлень."/>
     <string id="lpbDPuuW" text="{?RULER.GENDER}the Empress{?}the Emperor{\?} {RULER.NAME}"/>
     <string id="LpVaZbRS" text="There is already another kingdom with this name."/>
     <string id="lqm9PfF1" text="{?RULER.GENDER}Knyaginya{?}Knyaz{\?} {RULER.NAME}"/>
@@ -1031,7 +1031,7 @@
     <string id="maptimeplay" text="Продовжити"/>
     <string id="mAxXKaXp" text="Скинути"/>
     <string id="mbS0DkUo" text="Raid"/>
-    <string id="mbT1uNPa" text="Dagger"/>
+    <string id="mbT1uNPa" text="Кинджал"/>
     <string id="Mc8ojOGn" text="Вогнища"/>
     <string id="MciIqod6" text="Couch Lance"/>
     <string id="mDbaNQay" text="Ride forth and attempt to strike your opponent!"/>
@@ -1351,7 +1351,7 @@
     <string id="RVfkxgMm" text="{?IS_PRISONER_FOLLOWING}Stay{?}Follow{\?}"/>
     <string id="RvKwdXWs" text="Commander"/>
     <string id="rxOK6dn1" text="Можна отримати статусу васала"/>
-    <string id="rxxZFVOa" text="{HERO_NAME} can complete {NUMBER} orders."/>
+    <string id="rxxZFVOa" text="{HERO_NAME} може виконати {NUMBER} замовлен{#GET_PLURAL_VALUE(NUMBER)}ня{#}ня{#}ь{\#}.&#10;."/>
     <string id="rY23b263" text="Your opponent moves a pawn."/>
     <string id="rZ9aqmaq" text="There is a better target. We should go there."/>
     <string id="RzjMX0Og" text="Good. Now be on your way. Don't forget to drink lots of water!"/>
