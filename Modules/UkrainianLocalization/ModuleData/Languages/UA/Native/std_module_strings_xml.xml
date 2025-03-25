@@ -39,7 +39,7 @@
     <string id="1ICTi9xQ" text="Захисники влаштували вилазку, щоб атакувати облоговий табір {BESIEGER_LEADER.NAME}{.v_rod}"/>
     <string id="1KcIeYe2" text="You need to be in the same location as the character in order to talk to them"/>
     <string id="1klXxZFS" text="I am lady of {TOWNS}."/>
-    <string id="1Llb4gGw" text="Completion"/>
+    <string id="1Llb4gGw" text="Завершення"/>
     <string id="1m8zRjs8" text="On {DAY_OF_YEAR}, {YEAR}, {CLAN_NAME} joined the {KINGDOM_FORMALNAME}."/>
     <string id="1MStGeRa" text="Beaten opponent: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1o1TyPib" text="До ліміту соратників"/>
@@ -587,7 +587,7 @@
     <string id="eMwbzp49" text="Battle lost..."/>
     <string id="enhza8zr" text="Фракція"/>
     <string id="eNQgzubm" text="Бийтеся в пішому порядку. Пересувайтеся по карті пішки."/>
-    <string id="entirestackdiscarditems" text="Утримуйте [{KEY_NAME}], щоб викинуте все"/>
+    <string id="entirestackdiscarditems" text="Утримуйте [{KEY_NAME}], щоб викинути все"/>
     <string id="entirestackrecruitunits" text="Утримуйте [{KEY_NAME}], щоб найняти всіх"/>
     <string id="entirestacktakeitems" text="Утримуйте [{KEY_NAME}], щоб взяти все"/>
     <string id="entirestacktransfertroops" text="Утримуйте [{KEY_NAME}], щоб перемістити все"/>
@@ -1011,7 +1011,7 @@
     <string id="lvc1Xgf8" text="Tavern Wench"/>
     <string id="lxLTCX5j" text="Статус:"/>
     <string id="LymKjMLk" text="Your men have just join your party"/>
-    <string id="lZ1IDnpP" text="Give All"/>
+    <string id="lZ1IDnpP" text="Передати все"/>
     <string id="LZhRP3PM" text="Wait for other siege machines"/>
     <string id="Lzmtqif5" text="Розмір армії"/>
     <string id="lznqF0oO" text="Disbanding"/>
@@ -1060,7 +1060,7 @@
     <string id="MqsWixDp" text="Retreat!"/>
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender."/>
     <string id="MT4b8H9h" text="Unknown"/>
-    <string id="mTTWkewD" text="Give"/>
+    <string id="mTTWkewD" text="Передати"/>
     <string id="MUCmJaXQ" text="Правитель {FACTION_INFORMAL_NAME}{.v_rod}"/>
     <string id="MUStU7ab" text="brother"/>
     <string id="MW8rlyfL" text="Метальне"/>
@@ -1172,7 +1172,7 @@
     <string id="Or9YduTA" text="sister"/>
     <string id="oRaa1yls" text="Consumable"/>
     <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are ready."/>
-    <string id="ot2M62R8" text="+{BONUS_AMOUNT} од воїнам гарнізону"/>
+    <string id="ot2M62R8" text="+{BONUS_AMOUNT}од воїнам гарнізону"/>
     <string id="oTGDxKW7" text="Declare War Against {FACTION}"/>
     <string id="OtP3heba" text="You've beaten your opponent and won the game!"/>
     <string id="ou9asw1a" text="Swing {SWING_DAMAGE_TYPE} Damage: "/>
