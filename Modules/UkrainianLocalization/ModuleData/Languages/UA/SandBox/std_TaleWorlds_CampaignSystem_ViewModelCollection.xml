@@ -81,7 +81,7 @@
     <string id="bAqDnkaT" text="Missile Speed"/>
     <string id="BbLTwhsA" text="Безлад на {REMAINING_TIME}"/>
     <string id="Bcs9s2tC" text="Right Click to Remove"/>
-    <string id="bd7oAQq6" text="Daily"/>
+    <string id="bd7oAQq6" text="Щоденно"/>
     <string id="bDwTWrru" text="No delay"/>
     <string id="BEXTcJaS" text="Часом до закінчення"/>
     <string id="bfWlTVjs" text="Remove assignee"/>
@@ -99,7 +99,7 @@
     <string id="c9c5dfed2ca6bcb7a73d905004c97b23" text="Шкода: "/>
     <string id="C9tKA0ul" text="Ім'я персонажа не може бути порожнім"/>
     <string id="ca8b1e8956057b831dfc665f54bae4b0" text="Збалансованість: "/>
-    <string id="CaRbMaZY" text="Daily Wage"/>
+    <string id="CaRbMaZY" text="Щоденна платня"/>
     <string id="cbbUzYX3" text="Складність: {DIFFICULTY}"/>
     <string id="cDkHJOkl" text="You need to be in the viewing range, control this settlement with your kingdom or have a clan member in the settlement to see its details."/>
     <string id="cedvCZ73" text="There is no town owned by {FACTION}"/>
@@ -336,7 +336,7 @@
     <string id="recruitVerb" text="Вербувати"/>
     <string id="rgqA29b8" text="You don't have enough {SKILL_NAME} skill to equip this item"/>
     <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}."/>
-    <string id="Rkh2k1OA" text="Completion:"/>
+    <string id="Rkh2k1OA" text="Завершення:"/>
     <string id="rkubGa4K" text="Ви дійсно бажаєте повернути це поселення назад своєму королівству?"/>
     <string id="rOKAvjtT" text="Gift Settlement"/>
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost"/>
