@@ -78,7 +78,7 @@
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus"/>
     <string id="2wclahIJ" text="{.n}Метання{.R_n2n}"/>
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% до податків"/>
-    <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день{#}дні{#}днів{\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
+    <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день {#}дні {#}днів {\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
     <string id="300TAI7u" text="Продати все"/>
     <string id="33ghdWWi" text="Other Policies"/>
     <string id="33hHRM8r" text="Opponent's Turn"/>
