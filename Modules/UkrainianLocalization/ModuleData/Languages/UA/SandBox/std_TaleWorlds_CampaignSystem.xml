@@ -424,7 +424,7 @@
     <string id="5aDpzB1F" text="My men will deliver your goods on time don't worry."/>
     <string id="5Adr6toM" text="{MENU_TEXT}"/>
     <string id="5aE8sEnj" text="{VALUE}% шкоди їздовим тваринам держаковою зброєю."/>
-    <string id="5aElrlUt" text="Payment to Mercenaries"/>
+    <string id="5aElrlUt" text="Платня найманцям"/>
     <string id="5akTbqNs" text="I'll meet you outside then, captain."/>
     <string id="5ANh9qVW" text="Farewell for now. Walk the path of the righteous, and the Heavens will protect you."/>
     <string id="5ao0RdRT" text="Well, I do not deny that there is something about you to which I am drawn."/>
@@ -519,7 +519,7 @@
     <string id="6ex96ekx" text="{VALUE}% штрафу при укладанні угод з лордами іншого походження."/>
     <string id="6GhWT4vi" text="I repeat: Yield or fight!"/>
     <string id="6gjSupBN" text="{FIRSTNAME} Mutton-pie"/>
-    <string id="6gvDrbe7" text="Recruitment Expense"/>
+    <string id="6gvDrbe7" text="Витрати на наймання"/>
     <string id="6i7a1c4E" text="Very well. Death before dishonor![if:idle_angry][ib:warrior]"/>
     <string id="6IKKFH3A" text="You have received a message and a large purse from {QUEST_GIVER.LINK}. The missive reads: ”The herd is safe. Thank you, and please accept these {REWARD}{GOLD_ICON} with our gratitude.”."/>
     <string id="6iLxrDBa" text="You have accepted {QUEST_GIVER.LINK}'s request to find at least {TOTAL_COUNT} different parties of brigands around {QUEST_SETTLEMENT} and decided to hunt them down personally. {?QUEST_GIVER.GENDER}She{?}He{\?} will reward you {AMOUNT}{GOLD_ICON} gold once you have dealt with them."/>
@@ -876,7 +876,7 @@
     <string id="ADIYnC4u" text="Now, I know you can't win every fight, so if you underperform once or twice, I'd understand. But if you lose every time, or worse, if you overperform, well, then I'll be a bit angry.[if:convo_nonchalant][ib:normal2]"/>
     <string id="AdkSktd2" text="You have to send {NUMBER} {?MOUNTED}cavalry {?}{\?}troops to this quest."/>
     <string id="AdoaDR26" text="{QUEST_GIVER.LINK} asks you to scout {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}."/>
-    <string id="aDQcIGfH" text="High morale"/>
+    <string id="aDQcIGfH" text="Високий бойовий дух"/>
     <string id="ADzzaxFz" text="You are passing through our lands without our permission."/>
     <string id="aeceOwWb" text="{VALUE}% долі загального досвіду для вершників."/>
     <string id="aeK3ykbL" text="{VALUE}% ймовірності виявлення сліду."/>
@@ -886,7 +886,7 @@
     <string id="aEt1kqxm" text="{PEACEMAKER_RULER.NAME} з {.S}{KINGDOM_CONSIDERING_PEACE}{.v_rod} укладає мир з {.S}{KINGDOM}{.v_oru}, хоча думки в {?PEACEMAKER_RULER.GENDER}її{?}його{\?} раді розділилися порівну."/>
     <string id="AeTSNsRu" text="{VALUE}% приросту добробуту для кожного унікального проєкту в підконтрольному поселенні."/>
     <string id="AEVIa5sQ" text="So be it. See if you can hit {NUMBER_OF_TARGET_VILLAGE} villages. [if:convo_stern]They won't be able to ignore that, and it will put a dent in their revenues. I'll give you {BASE_REWARD}{GOLD_ICON} for doing that, and {EXTRA_REWARD}{GOLD_ICON} more for every extra one that you raid. Do you agree?"/>
-    <string id="AewK9qME" text="Settlement Income"/>
+    <string id="AewK9qME" text="Дохід від поселення"/>
     <string id="aeWZRHy3" text="takes charge."/>
     <string id="aExKdXmx" text="We need {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}.[if:convo_normal][ib:demure] To be honest our village is poor and our coffers are empty. We can make payment only as meat - the meat of the old animals that we'll slaughter as soon as you bring us the new ones. We can offer {MEAT_AMOUNT} loads of meat, will you accept that, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
     <string id="Af7zOV2l" text="{VALUE}% втрати точності під час руху."/>
@@ -1895,7 +1895,7 @@
     <string id="FSa61zD4" text="{FIRSTNAME} the Hammer"/>
     <string id="fSGY71wd" text="Вантаж в межах місткості"/>
     <string id="fsr2yhrr" text="Хоча військових подвигів на {?CHILD.GENDER}її{?}його{\?} рахунку було небагато, {CHILD.NAME} все ж {?CHILD.GENDER}стала досить популярною{?}став досить популярним{\?} серед солдатів і {?CHILD.GENDER}підняла{?}підняв{\?} їхній бойовий дух."/>
-    <string id="fsTBcLvA" text="{SETTLEMENT} Garrison"/>
+    <string id="fsTBcLvA" text="Гарнізон {SETTLEMENT}{.v_rod}"/>
     <string id="fswrp38u" text="{VALUE}% штрафу за торгівлю в'ючними тваринами."/>
     <string id="ft08QZrA" text="Precarial Land Tenure"/>
     <string id="FT9V47bd" text="You issued a decree to remove the restrictions on the sale of goods, as the artisans had requested."/>
@@ -3053,7 +3053,7 @@
     <string id="nGsQeTll" text="Perhaps we should discuss a future together..."/>
     <string id="nGWmyZCs" text="Надійні стрільці"/>
     <string id="NH5N3kP5" text="No governor"/>
-    <string id="NhAMSaWU" text="Herding"/>
+    <string id="NhAMSaWU" text="Перегін стада"/>
     <string id="NhDEwaab" text="Well, if you know how to fight... Yes, we could use help. A group of deserters is camped out near here. They come every few weeks, demanding food and money. They've killed two villagers who resisted them. We asked our {?LORD.GENDER}mistress{?}lord{\?}, {LORD.NAME}, for help but {?LORD.GENDER}her{?}his{\?} men never get here in time.[if:convo_stern][ib:closed]"/>
     <string id="NhHzgs5e" text="When, after some time your forces regroup, you take a quick tally of your troops only to see you have lost: {CASUALTIES}."/>
     <string id="nIhIU9t8" text="Good. Let's see if we can work out fair compensation for us protecting the roads."/>
@@ -3984,7 +3984,7 @@
     <string id="TLGvIdJB" text="Самолікування"/>
     <string id="tlLDHAIu" text="Very well. A pleasure doing business with you.[rf:convo_relaxed_happy][ib:demure]"/>
     <string id="tlNZIH3l" text="Опір до збиття з ніг: {a0}% від макс. здоров'я"/>
-    <string id="TLuaPAIO" text="{A0} Taxes"/>
+    <string id="TLuaPAIO" text="Податки: {A0}"/>
     <string id="tm9PiOMA" text="Special Weapon Order"/>
     <string id="tMkMi5C7" text="wins wrestling matches."/>
     <string id="tmqYGwMa" text="Excellent, {PLAYER.NAME}, excellent. I have every confidence in you.[if:idle_happy]"/>
@@ -4735,7 +4735,7 @@
     <string id="ydbVysqv" text="Ви очікуєте в {CURRENT_SETTLEMENT}{.v_mis}."/>
     <string id="ydGffr9O" text="Thank you, good {?PLAYER.GENDER}lady{?}sire{\?}. I never forget someone who's done me a good turn.[if:convo_calm_friendly]"/>
     <string id="yDomN9L2" text="Property Effect"/>
-    <string id="ydspCDIy" text="Low morale"/>
+    <string id="ydspCDIy" text="Низький бойовий дух"/>
     <string id="YdZtydK4" text="As it happens, {PLAYER.NAME}, I promised {FACTION_LEADER} that I would hire a company of mercenaries for an upcoming campaign."/>
     <string id="Ye9lbBr3" text="Витримка"/>
     <string id="YequZz6U" text="'Oh the maidens of {RANDOM_TOWN} are merry and fair \n Plotting their mischief with flowers in their hair \n Were I still a young man I sure would be there \n But now I'll take warmth over trouble'"/>
