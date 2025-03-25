@@ -73,7 +73,7 @@
     <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} received as reward."/>
     <string id="2RIyK1bp" text="Weapons"/>
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} bonus to owner's influence"/>
-    <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (tax)"/>
+    <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (податок)"/>
     <string id="2UCptBFi" text="the Sturgians"/>
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus"/>
     <string id="2wclahIJ" text="{.n}Метання{.R_n2n}"/>
@@ -113,7 +113,7 @@
     <string id="3ZRTekjS" text="Glove"/>
     <string id="4AQmS4iA" text="+{BONUS_AMOUNT} до місткості гарнізону"/>
     <string id="4bq2mUf1" text="Можна створювати королівство"/>
-    <string id="4BQaqqzg" text="Security:"/>
+    <string id="4BQaqqzg" text="Безпека:"/>
     <string id="4H1nDlBO" text="Тижнева платня"/>
     <string id="4Hdcxk0a" text="Aggressive"/>
     <string id="4jLW7hag" text="Dismiss from Army"/>
@@ -270,7 +270,7 @@
     <string id="9pwIt4aa" text="{.m}Віск{.R_n21_u}{@Plural}{.p}Ящик{.R_n20_p} воску{\@}"/>
     <string id="9raxrECY" text="If you proceed, {LEADER.NAME} will be the new leader of this party. Are you sure?"/>
     <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging."/>
-    <string id="9zpZRkYz" text="Boosting a project adds +{BOOST} construction and costs {COST} denars / day."/>
+    <string id="9zpZRkYz" text="Прискорення проекту додає +{BOOST} будівництву і коштує {COST} динар{#GET_PLURAL_VALUE(COST)}{#}и{#}ів{\#}/день."/>
     <string id="a0mJ0cVV" text="Consumption(s)"/>
     <string id="A0sT86A3" text="No War Selected"/>
     <string id="a0TiMLJ4" text="Main Menu"/>
@@ -564,7 +564,7 @@
     <string id="EAicirVE" text="Fearless"/>
     <string id="eaIQXj6O" text="Доступні очки характеристик: {NUMBER}"/>
     <string id="ealIwlQH" text="Defending {SETTLEMENT_NAME}"/>
-    <string id="eavr4x8n" text="Construction:"/>
+    <string id="eavr4x8n" text="Будівництво:"/>
     <string id="eb0nLx5E" text="Aserai Sultanate"/>
     <string id="EbB9y2zZ" text="Declare War"/>
     <string id="eDVvDS1i" text="Villagers"/>
@@ -644,7 +644,7 @@
     <string id="fd35ahzV" text="&lt;b&gt;Fire Ballista&lt;/b&gt;{NEWLINE}Shoots bolts with tips dipped in tar.{NEWLINE}They will deal fire damage to enemy siege engines and wooden structures as well as being deadly against soldiers."/>
     <string id="FD9abtTo" text="Якщо ви поставите 100&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; і виграєте, то отримаєте {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;"/>
     <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?"/>
-    <string id="fEJQcb4U" text="Loyalty Drift"/>
+    <string id="fEJQcb4U" text="Зміна рівня вірності"/>
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}"/>
     <string id="fEu5S6Bd" text="Distance"/>
     <string id="fEXuXAl1" text="Army Morale : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}"/>
@@ -721,10 +721,10 @@
     <string id="giftverb" text="Gift"/>
     <string id="gj2HD7M3" text="You still have a chance to win. Do you want to forfeit?"/>
     <string id="gKbGZObs" text="total stock"/>
-    <string id="GKO2ogal" text="Corruption"/>
+    <string id="GKO2ogal" text="Корупція"/>
     <string id="GNGTllPc" text="You can not perform this action while raiding a village"/>
     <string id="GNkrUdwb" text="Your help was most welcome stranger. My name is {CONVERSATION_CHARACTER.LINK}. Can I learn yours?"/>
-    <string id="GnWy8WAW" text="Loyalty:"/>
+    <string id="GnWy8WAW" text="Вірність:"/>
     <string id="gNzXoCrq" text="Be on your way, little fly."/>
     <string id="goJ91547" text="Enemy reinfocements have arrived!"/>
     <string id="GopVkA1q" text="Outlaw"/>
@@ -988,7 +988,7 @@
     <string id="littlebrother" text="{.m}Молодший{.R_adj} {.m}брат{.R_n20_a_ke}"/>
     <string id="littlesister" text="{.f}Молодший{.R_adj} {.f}сестра{.R_n10_ko}"/>
     <string id="lj8XH6O7" text="Can't access kingdom window right now!"/>
-    <string id="ljcHO6PW" text="Security Drift"/>
+    <string id="ljcHO6PW" text="Зміна рівня безпеки"/>
     <string id="LjUhEJxz" text="{.m}Караван{.R_n20_u} {.S}{OWNER.NAME}{.v_rod}"/>
     <string id="LJwKdMdw" text="Wait for your opponent to get into position"/>
     <string id="lKIHqkAV" text="{.m}сімнадцятий{.R_adj}"/>
@@ -1155,7 +1155,7 @@
     <string id="OhLXo0gb" text="Criminal Governor"/>
     <string id="OIBpCGYv" text="This party will shrink in size. It's current size target is {TARGET_SIZE}"/>
     <string id="OiCCv0EL" text="Село переживає важкі часи. Знаряддя праці заіржавілі та зламані. Чагарники та бур'яни потроху заполоняють поля."/>
-    <string id="oiFt5bEV" text="Building Bonus"/>
+    <string id="oiFt5bEV" text="Бонус від будівель"/>
     <string id="oiSW6MyB" text="Chest Armor"/>
     <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}"/>
     <string id="oKct1ecg" text="Дочка"/>
@@ -1243,7 +1243,7 @@
     <string id="pSWt8NXH" text="Raiding {SETTLEMENT_NAME} ({RAIDING_PROCESS}%)"/>
     <string id="pSz4xSqO" text="Hero's {SKILL_NAME} skill needs to be {MIN_SKILL_AMOUNT} or higher."/>
     <string id="pT9TZehy" text="Camp"/>
-    <string id="puwXJDa9" text="Prosperity:"/>
+    <string id="puwXJDa9" text="Добробут:"/>
     <string id="PVidxUQ8" text="Запаси їжі"/>
     <string id="PvrRFwHM" text="Ви {?PAY_OR_GET}отримаєте{?}втратите{\?} {TRADE_AMOUNT}{MORALE_ICON}"/>
     <string id="PVUeymMR" text="In Progress"/>
@@ -1716,7 +1716,7 @@
     <string id="zBC5cQic" text="Support for abolishing"/>
     <string id="ZdeswYbM" text="Trader doesn't have enough money! Are you sure?"/>
     <string id="ZdqbU2gw" text="Прийняти"/>
-    <string id="zE6OFPRu" text="Settlement Tax"/>
+    <string id="zE6OFPRu" text="Податки з поселення"/>
     <string id="zEbvDH7V" text="You cannot support your own clan."/>
     <string id="zeGAw2IE" text="Killed by"/>
     <string id="ZEzxHLaH" text="Не можна вербувати полонених героїв"/>
