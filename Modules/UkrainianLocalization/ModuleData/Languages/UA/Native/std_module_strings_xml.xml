@@ -1106,7 +1106,7 @@
     <string id="nk0bADtq" text="You have rejected a challenge to a duel. Your army is disheartened by this display of cowardice. Your party loses morale."/>
     <string id="NkbszXv6" text="Settlement is rebelling."/>
     <string id="NKYem1X0" text="This party is in {ARMY_LEADER}{.o} army."/>
-    <string id="nkzKgspT" text="Manage Garrison"/>
+    <string id="nkzKgspT" text="Керування гарнізоном"/>
     <string id="NLmaID0O" text="{HERO.NAME} has been executed by {KILLER.NAME}."/>
     <string id="nMcvafHY" text="Активно"/>
     <string id="nNDdo3I9" text="{.m}Одноручний{.R_adj} {.m}меч{.R_n20_a}"/>
