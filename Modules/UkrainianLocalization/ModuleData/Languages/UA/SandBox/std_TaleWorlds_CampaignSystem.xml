@@ -2238,7 +2238,7 @@
     <string id="iARYMyuq" text="Мисливець за головами"/>
     <string id="IASba7yf" text="Yes, {LORD_SALUTATION}."/>
     <string id="iazij7fO" text="Зберігає запаси їжі, щоб у поселенні було більше їжі. Збільшує місцеві запаси їжі."/>
-    <string id="IB1xsVEr" text="A courier has arrived from the {MAP_FACTION_NAME}. They offer you a white peace. Your vassals have left the decision with you."/>
+    <string id="IB1xsVEr" text="Прибув посланець з {MAP_FACTION_NAME}{.v_rod}. Вони пропонують вам мир. Ваші васали довірили вам прийняти рішення."/>
     <string id="ib2SMG9b" text="Зілля здоров'я"/>
     <string id="ib6ltlM0" text="Yes... We've always had trouble with bandits, but recently we've had a lot more than our share. The hills outside of town are infested. A lot of us are afraid to take their goods to market. Some have been murdered. People tell me, 'I'm getting so desperate, maybe I'll turn bandit myself.' It's bad...[ib:demure2][if:convo_dismayed]"/>
     <string id="iB6P0D9N" text="Is that so? Well, I suppose you're just not up to the task. I shall have to look for somebody with more mettle."/>
@@ -2446,7 +2446,7 @@
     <string id="JIWVeTMD" text="Your clan is now at war with {QUEST_GIVER.LINK}'s realm. Your agreement with {QUEST_GIVER.LINK} was canceled."/>
     <string id="jjkJyKoy" text="Прокол"/>
     <string id="jjNSVzx3" text="What do you need, my {?ISSUE_GIVER.GENDER}lady{?}lord{\?}?"/>
-    <string id="JJQ0Hp4m" text="A courier has arrived from the {MAP_FACTION_NAME}. The {MAP_FACTION_NAME} will pay {GOLD_AMOUNT} {GOLD_ICON} in tribute each day to end the war between your realms. Your vassals have left the decision with you."/>
+    <string id="JJQ0Hp4m" text="Прибув посланець з {MAP_FACTION_NAME}{.v_rod}. {MAP_FACTION_NAME} буде платити вам щодня {GOLD_AMOUNT} {GOLD_ICON} данини лиш би завершити війну між вашими королівствами. Ваші васали довірили вам прийняти рішення."/>
     <string id="jjTcNhKE" text="Have you been able to find any bandits yet?[if:convo_undecided_open]"/>
     <string id="Jk3mDlU6" text="Yeah... I've got some problems. A few years ago, I needed hides for my tannery and I hired some hunters. I didn't ask too many questions about where they came by the skins they sold me. Well, that was a bit of mistake. Now they've banded together as a gang and are trying to muscle me out of the leather business.[ib:closed2][if:convo_thinking]"/>
     <string id="jKHkGzUn" text="As agreed, {SELECTED_ITEM_COUNT} {?IS_PLURAL}{.%}{PLURAL(SELECTED_ITEM)}{.%} have been{?}{.%}{SELECTED_ITEM}{.%} has been{\?} added to your inventory."/>
@@ -3040,7 +3040,7 @@
     <string id="NcQZz4N2" text="This is my last warning! It would be better for both sides if you don't resist.[if:convo_grave][ib:closed]"/>
     <string id="nctTI5mv" text="I have every reason to believe you'll win the tournament."/>
     <string id="ncvB4XRL" text="You could join me."/>
-    <string id="Nd0Vhkxn" text="A courier has arrived from the {MAP_FACTION_NAME}. They offer you peace if you agree to pay a {GOLD_AMOUNT} {GOLD_ICON} daily tribute. Your vassals have left the decision with you."/>
+    <string id="Nd0Vhkxn" text="Прибув посланець з {MAP_FACTION_NAME}{.v_rod}. Вони пропонують вам мир, якщо ви будете платити їм щодня {GOLD_AMOUNT} {GOLD_ICON} данини. Ваші васали довірили вам прийняти рішення."/>
     <string id="NDtlE6PY" text="Вбивця звірів"/>
     <string id="NDWdnpI5" text="{UNSPENT_FOCUS_VALUE} unspent Focus {?IS_PLURAL_FOCUS}Points{?}Point{\?}{NEWLINE}{UNSPENT_ATTR_VALUE} unspent Attribute {?IS_PLURAL_ATR}Points{?}Point{\?}"/>
     <string id="nEGe8rUd" text="Thank you for your help, {?PLAYER.GENDER}madam{?}sir{\?}. Here is what we promised."/>
@@ -4967,7 +4967,7 @@
     <string id="zPYRGJtD" text=" Troops"/>
     <string id="ZQa7tXdK" text="You are somewhat outnumbered. Even if I agree with you, it would be wise of me to wait."/>
     <string id="zqapPfSK" text="No.. No."/>
-    <string id="ZqJ92UN4" text="A courier with a ransom offer for the freedom of {CAPTIVE_HERO.NAME} has arrived."/>
+    <string id="ZqJ92UN4" text="Прибув посланець з пропозицією викупу {CAPTIVE_HERO.NAME}{.v_rod} з полону."/>
     <string id="ZqjiBjYJ" text="Greetings, {?PLAYER.GENDER}madame{?}sir{\?}. May I help you?"/>
     <string id="zqrn2beP" text="Revenue Farming"/>
     <string id="zR356YDY" text="I have to say, they seem more like bandits than soldiers."/>
