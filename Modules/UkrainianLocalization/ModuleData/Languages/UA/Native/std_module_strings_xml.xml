@@ -484,7 +484,7 @@
     <string id="cNaiQyva" text="{.m}шістнадцятий{.R_adj}"/>
     <string id="CObuCGjA" text="Пропозиція шлюбу від клану «{CLAN_NAME}»"/>
     <string id="CODsu5Ok" text="Нова кампанія"/>
-    <string id="COhJ2HsU" text="It will be automatically resolved in {HOUR} hours."/>
+    <string id="COhJ2HsU" text="Воно буде автоматично вирішене через {HOUR} годин{#GET_PLURAL_VALUE(HOUR)}у{#}и{#}{\#}."/>
     <string id="CoHPb7DL" text="Our plan is to crush them with our cavalry and sweep the rest with a follow up attack."/>
     <string id="CP7ebY11" text="Swing attacks can dismount riders"/>
     <string id="cpaUPZ4c" text="There's a toll for passin' through this land, payable to us, so if you don't mind we'll just be collectin' our due from your purse..."/>
@@ -1562,7 +1562,7 @@
     <string id="W5gPypVY" text="Використовуйте кузню, щоб створювати зброю, очищайте матеріали та переплавляйте стару зброю."/>
     <string id="w758X31N" text="Item"/>
     <string id="w9beDbTI" text="Toggle Camera Mode"/>
-    <string id="w9C43LhX" text="Do you want to resolve {DECISION_NAME} decision?"/>
+    <string id="w9C43LhX" text="Ви хочете взяти участь у вирішенні питання «{DECISION_NAME}»?"/>
     <string id="wdsJRYRn" text="You turned up just in time, {PLAYER.LINK}. I will not forget your help."/>
     <string id="Wey28apL" text="Braceable"/>
     <string id="Wg2P3acK" text="Fire Catapult"/>
