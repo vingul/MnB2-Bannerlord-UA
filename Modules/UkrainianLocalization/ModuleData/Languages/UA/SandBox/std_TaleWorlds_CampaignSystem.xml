@@ -1161,7 +1161,7 @@
     <string id="bKfaMFVK" text="You can also send me a recruiter: a trustworthy companion who is good at leading men, and also enough of a rogue to win the trust of other rogues...[if:convo_undecided_open][ib:confident]"/>
     <string id="bkoJ57h3" text="Увійти до міста"/>
     <string id="bKsb7tcr" text="Candidly, what do you think of our liege, {FIRST_NAME}?"/>
-    <string id="BkTiRPT4" text="{.p}Тренувальний{.R_adj} {.p}полігон{.R_n20_p}"/>
+    <string id="BkTiRPT4" text="Полігони"/>
     <string id="BktSNgY4" text="We oppose this proposal"/>
     <string id="bkZOcbGu" text="Your men are still getting us the tools. I ask for your patience. We very much appreciate this."/>
     <string id="bLAw2di4" text="{VALUE}% швидкості лікування."/>
@@ -1471,7 +1471,7 @@
     <string id="D9coiXFt" text="Списи, які ви кидаєте, можуть пробивати щити."/>
     <string id="D9LxQxNa" text="Thank you for your help {?PLAYER.GENDER}madam{?}sir{\?}.[if:convo_bemused][ib:demure2] We will be waiting for your men. Good luck to you all."/>
     <string id="D9SS2Oh0" text="I'm going to need you to tell me a little more."/>
-    <string id="dA8RGoQ1" text="Ви прибули до {SETTLEMENT_LINK}{v._rod}. {KEEP_INFO}"/>
+    <string id="dA8RGoQ1" text="Ви прибули до {SETTLEMENT_LINK}{.v_rod}. {KEEP_INFO}"/>
     <string id="dAmK7rKG" text="All right. I will visit your villages and collect your rent."/>
     <string id="dAS81esi" text="{VALUE}% швидкості вербування полонених воїнів дальнього бою."/>
     <string id="daXZlOBi" text="We need {REQUESTED_ITEM_COUNT} {.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%} in {NUMBER_OF_DAYS} days. We can offer {PAYMENT}{GOLD_ICON} for the tools and your services. What do you say?"/>
@@ -3137,7 +3137,7 @@
     <string id="nysBXpEO" text="camels"/>
     <string id="NyWXSHH2" text="Звісно. Ви питаєте для себе чи когось іншого?"/>
     <string id="nZaeTlj8" text="Exchange Troops"/>
-    <string id="nZbaYvVx" text="Stash"/>
+    <string id="nZbaYvVx" text="Сховище"/>
     <string id="NzlwbSIj" text="{VALUE}% витрати витривалості під час переплавлення."/>
     <string id="Nzt8Xkro" text="You cannot ambush because the settlement walls are breached."/>
     <string id="NZynd8vT" text="&quot;This weapon is worthless. I'm not giving you a dime!&quot;"/>
@@ -3342,7 +3342,7 @@
     <string id="pHdIgnYu" text="{VALUE}% шкоди від снарядів воїнам вашого підрозділу."/>
     <string id="PHe0oco1" text="You fought your way through the attackers to reach the gates. The defenders open them quickly to let you through. When the gates are safely closed behind you, you take a quick tally only to see you have lost the following: {CASUALTIES}.{OTHER_CASUALTIES}"/>
     <string id="pHmz4GZN" text="Everything is easier when people are pleased by your presence. Proper grace and etiquette will be useful even among enemies."/>
-    <string id="pHrxeTdc" text="Prisoners:"/>
+    <string id="pHrxeTdc" text="Полонені:"/>
     <string id="PI6ikMsc" text="I'm working on it."/>
     <string id="pIFOcikU" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}готова катапульта{#}готові катапульти{#}готових катапульт{\#} на початку облоги підконтрольного поселення."/>
     <string id="Piq3oYmG" text="I'm fine, thank you."/>
@@ -3810,7 +3810,7 @@
     <string id="sd15CQHI" text="You devised a plan to distract the besiegers so you can rush the fortress gates, expecting the defenders to let you in. You and most of your men may get through, but as many as {POSSIBLE_CASUALTIES} {?PLURAL}troops{?}troop{\?} may be lost."/>
     <string id="SdK678BT" text="{FIRSTNAME} of the Cavern"/>
     <string id="sdQoXkKq" text="знайти свій власний шлях."/>
-    <string id="SDzIAtiA" text="Prisoners of {SETTLEMENT_NAME}"/>
+    <string id="SDzIAtiA" text="Полонені {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="se5704KH" text="{HERO.NAME} is solving an issue right now."/>
     <string id="seEyGLMz" text="Go deep into {ENEMY} territory, to {SETTLEMENT_1}, {SETTLEMENT_2} and {SETTLEMENT_3}. [ib:hip][if:convo_normal]I want to know every detail about them, what sort of fortifications they have, whether the walls are well-manned or undergarrisoned, and any other enemy forces in the vicinity."/>
     <string id="seiduCHq" text="{VALUE}% шкоди проти ворогів, які переважають за чисельністю, коли ваші воїни відправляються у бій."/>
@@ -4340,7 +4340,7 @@
     <string id="vx4ML2gX" text="Is there someone else other than {INQUIRY_COMPANION.LINK}?"/>
     <string id="vXCg3OYx" text="So, have you brought them?[if:convo_undecided_open]"/>
     <string id="VXKGD0ta" text="I want to use your forge."/>
-    <string id="VXkL5Ysd" text="Manage prisoners"/>
+    <string id="VXkL5Ysd" text="Керувати полоненими"/>
     <string id="VY7WQSgu" text="{VALUE}% шансу отримати приголомшення під час перезаряджання арбалета."/>
     <string id="vyaIbCRj" text="Hmm... Perhaps I will need to do more."/>
     <string id="vYCY931w" text="Any news about my men?"/>
@@ -4589,7 +4589,7 @@
     <string id="xJwo7eBh" text="{WOUNDED_NUMBER} of your men got wounded while they were breaking up the crowd."/>
     <string id="XkjRNMam" text="You have no right to go around, under arms, spreading sedition. Disperse!"/>
     <string id="xKVBAL3m" text=" Campaign Issues"/>
-    <string id="xl4K9ecB" text="Open stash"/>
+    <string id="xl4K9ecB" text="Відкрити сховище"/>
     <string id="Xl5JTBJE" text="Leave the village, telling them you've collected enough."/>
     <string id="xlagNKZ2" text="Thank you. With their help, we should be able to make what we need.[if:convo_astonished]"/>
     <string id="Xlb7Xxyl" text="{CURRENT_LIEGE.LINK} stands for what I believe in."/>
