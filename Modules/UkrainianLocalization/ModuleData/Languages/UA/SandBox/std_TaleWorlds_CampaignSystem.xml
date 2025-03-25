@@ -1471,7 +1471,7 @@
     <string id="D9coiXFt" text="Списи, які ви кидаєте, можуть пробивати щити."/>
     <string id="D9LxQxNa" text="Thank you for your help {?PLAYER.GENDER}madam{?}sir{\?}.[if:convo_bemused][ib:demure2] We will be waiting for your men. Good luck to you all."/>
     <string id="D9SS2Oh0" text="I'm going to need you to tell me a little more."/>
-    <string id="dA8RGoQ1" text="You have arrived at {SETTLEMENT_LINK}. {KEEP_INFO}"/>
+    <string id="dA8RGoQ1" text="Ви прибули до {SETTLEMENT_LINK}{v._rod}. {KEEP_INFO}"/>
     <string id="dAmK7rKG" text="All right. I will visit your villages and collect your rent."/>
     <string id="dAS81esi" text="{VALUE}% швидкості вербування полонених воїнів дальнього бою."/>
     <string id="daXZlOBi" text="We need {REQUESTED_ITEM_COUNT} {.%}{?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?}{.%} in {NUMBER_OF_DAYS} days. We can offer {PAYMENT}{GOLD_ICON} for the tools and your services. What do you say?"/>
@@ -1508,7 +1508,7 @@
     <string id="dfyNVkFV" text="Crown Duty"/>
     <string id="DG3JbOa2" text="For kingdom decisions, the influence cost of the ruler overriding the popular decision outcome is reduced by 20%"/>
     <string id="dGakGflE" text="Yes, your {?QUEST_GIVER.GENDER}ladyship{?}lordship{\?}, I'll gladly do it."/>
-    <string id="dgf6q4qB" text="Manage town"/>
+    <string id="dgf6q4qB" text="Керувати містом"/>
     <string id="dGkJi1yb" text="I have a strategy to win. And my strategies always work, eventually."/>
     <string id="dGoEWaeX" text="The enemy has begun their assault!"/>
     <string id="dgUF5awO" text="Цей член клану прибуде за {HOURS} годин{#GET_PLURAL_VALUE(HOURS)}у{#}и{#}{\#}."/>
@@ -2768,7 +2768,7 @@
     <string id="LKdrCaTO" text="{?CONVERSATION_NPC.GENDER}My lady{?}Sir{\?}, may I ask for some time to think about this?"/>
     <string id="lkLNrscj" text="{FIRSTNAME} the {?FEMALE}Maid{?}Steward{\?}"/>
     <string id="lKWflUid" text="While you are waiting in {DEFENDER}, {ATTACKER} started an attack on it."/>
-    <string id="Ll1EJHXF" text="Manage castle"/>
+    <string id="Ll1EJHXF" text="Керувати замком"/>
     <string id="lLMlPcl4" text="Ви познайомилися з {HERO.NAME}{.v_oru}"/>
     <string id="llVFTH6n" text="Yes. It's a good problem to have, though. As you may know, I deal in {PLURAL(SELECTED_ITEM)}. Our herds have increased this year, and we can no longer make a profit on the local market. I cannot however organize a drive to a new market. So, I propose a very simple deal.[if:convo_innocent_smile][ib:confident]"/>
     <string id="lmJYF6pQ" text="Tell me how I can help."/>
@@ -3455,7 +3455,7 @@
     <string id="qAn93jVN" text="Імпровізатор"/>
     <string id="qARDRFqO" text="{VALUE} до слави після перемоги в турнірі."/>
     <string id="qaZDUknZ" text="Природжений лідер"/>
-    <string id="QazTA60M" text="Manage garrison"/>
+    <string id="QazTA60M" text="Керувати гарнізоном"/>
     <string id="QB4bKAVR" text="You failed to get rid of the smugglers as you told {QUEST_GIVER.LINK} you would do."/>
     <string id="Qb7N6txQ" text="Mmm. For {BRIBE_COST}{GOLD_ICON} denars, I could be persuaded that this is just harmless scrap metal...[if:convo_mocking_aristocratic][ib:confident]"/>
     <string id="QbaOoilS" text="Yes, I have brought you a few men."/>
@@ -5011,7 +5011,7 @@
     <string id="ZyNjXUHc" text="I am at your command."/>
     <string id="ZYSGp5vO" text="King of {KINGDOM_NAME}"/>
     <string id="ZYUHljOa" text="I am happy with my current liege. Neither your purse nor our relationship is deep enough to change that."/>
-    <string id="zZ3GqbzC" text="Manage town (Cheat)"/>
+    <string id="zZ3GqbzC" text="Керувати містом (чіт-код)"/>
     <string id="ZZ7Q3VOG" text="Thank you my {?PLAYER.GENDER}lady{?}lord{\?}. I am indeed honored."/>
     <string id="ZzR9VTU0" text="{CURRENT_LIEGE.NAME} isn't known for his sense of loyalty. Why do you feel so much to him?"/>
   </strings>
