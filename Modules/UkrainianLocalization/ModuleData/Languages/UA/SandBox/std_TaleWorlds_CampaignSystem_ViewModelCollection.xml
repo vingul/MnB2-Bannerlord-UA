@@ -237,7 +237,7 @@
     <string id="MaHMOzL2" text="Походження персонажа"/>
     <string id="McJjNM50" text="Вартість: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Макс. кількість здоров'я"/>
-    <string id="mdvnjI72" text="Troops are not upgradable in this screen."/>
+    <string id="mdvnjI72" text="Тут не можна покращувати війська."/>
     <string id="Mfbc4rQR" text="Charge Damage"/>
     <string id="mg7id9om" text="Number of Consumable Items"/>
     <string id="mHVmrwRQ" text="Введіть своє ім'я"/>
@@ -327,7 +327,7 @@
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now."/>
     <string id="r0WIRUHo" text="Criminal Rating"/>
     <string id="R2AaCaPJ" text="Очікувані зміни"/>
-    <string id="R4rTlKMU" text="Troop upgrades are currently disabled."/>
+    <string id="R4rTlKMU" text="Покращення військ наразі відключено."/>
     <string id="R8vuwKaf" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} до союзників."/>
     <string id="Ra17aK4e" text="Current Capital"/>
     <string id="Raa4j4rF" text="Необхідно: {UPGRADE_ITEM}"/>
