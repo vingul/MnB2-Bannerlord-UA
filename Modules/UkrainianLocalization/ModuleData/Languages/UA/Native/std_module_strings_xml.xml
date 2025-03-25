@@ -72,12 +72,12 @@
     <string id="2noOKM5N" text="Торгові зв'язки з поселенням"/>
     <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} received as reward."/>
     <string id="2RIyK1bp" text="Weapons"/>
-    <string id="2Sal30D2" text="+{BONUS_AMOUNT} bonus to owner's influence"/>
+    <string id="2Sal30D2" text="+{BONUS_AMOUNT} до впливу власника"/>
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (податок)"/>
     <string id="2UCptBFi" text="the Sturgians"/>
     <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus"/>
     <string id="2wclahIJ" text="{.n}Метання{.R_n2n}"/>
-    <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% bonus to taxes"/>
+    <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% до податків"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день{#}дні{#}днів{\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
     <string id="300TAI7u" text="Продати все"/>
     <string id="33ghdWWi" text="Other Policies"/>
@@ -118,7 +118,7 @@
     <string id="4Hdcxk0a" text="Aggressive"/>
     <string id="4jLW7hag" text="Dismiss from Army"/>
     <string id="4kKxsVzZ" text="Your alley {.%}{ALLEY_NAME}{.%} at {TOWN} is captured."/>
-    <string id="4KXvyxrK" text="Пов'язане поселення"/>
+    <string id="4KXvyxrK" text="Прилегле поселення"/>
     <string id="4l3BLxBC" text="Shoot from siege tower"/>
     <string id="4M8h8ufy" text="Not Usable With Two Hands"/>
     <string id="4ml9Bx6i" text="Multiplayer Perk"/>
@@ -136,7 +136,7 @@
     <string id="4Y5T7wp1" text="Cannot kick family members from clan."/>
     <string id="4ytmLxOy" text="Pregnant"/>
     <string id="59hbrhfY" text="Поточна кількість ОД"/>
-    <string id="59PSpyu8" text="Пов'язане поселення: {SETTLEMENT_LINK}"/>
+    <string id="59PSpyu8" text="Прилегле поселення: {SETTLEMENT_LINK}"/>
     <string id="5a4cY5az" text="You can not perform this action while you are in a siege."/>
     <string id="5bqmaciE" text="{ARMY_MEMBER} to be at army"/>
     <string id="5cGXHF1a" text="Сьогодні"/>
@@ -224,7 +224,7 @@
     <string id="7Ywub9bC" text="Defenders are still holding the keep."/>
     <string id="7zaMwF08" text="While you were raiding {SETTLEMENT}, {PARTY} came to aid the village. You decided to..."/>
     <string id="7zUWqY3O" text="Left"/>
-    <string id="80hwCw7B" text="-{BONUS_AMOUNT}% reduced militia during rebellion"/>
+    <string id="80hwCw7B" text="-{BONUS_AMOUNT}% зменшення ополчення під час повстання"/>
     <string id="83Yt9rbK" text="Breached"/>
     <string id="87qtKk4K" text="Дивитися"/>
     <string id="87vr9BHq" text="Керує провулком в {SETTLEMENT_NAME}{.v_mis}"/>
@@ -270,7 +270,7 @@
     <string id="9pwIt4aa" text="{.m}Віск{.R_n21_u}{@Plural}{.p}Ящик{.R_n20_p} воску{\@}"/>
     <string id="9raxrECY" text="If you proceed, {LEADER.NAME} will be the new leader of this party. Are you sure?"/>
     <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging."/>
-    <string id="9zpZRkYz" text="Прискорення проекту додає +{BOOST} будівництву і коштує {COST} динар{#GET_PLURAL_VALUE(COST)}{#}и{#}ів{\#}/день."/>
+    <string id="9zpZRkYz" text="Прискорення проєкту додає +{BOOST} будівництву і коштує {COST} динар{#GET_PLURAL_VALUE(COST)}{#}и{#}ів{\#}/день."/>
     <string id="a0mJ0cVV" text="Consumption(s)"/>
     <string id="A0sT86A3" text="No War Selected"/>
     <string id="a0TiMLJ4" text="Main Menu"/>
@@ -285,7 +285,7 @@
     <string id="a5j1v7tM" text="We've heard what happened to others who refused to join your cause. We've no desire to end up like them and no means to fight you. We'll wear your colors from now until it pleases you no more."/>
     <string id="a6D6Ga2F" text="Довжина зброї: "/>
     <string id="a6FfHHVg" text="Building Effects"/>
-    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} increase to settlement militia."/>
+    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} до ополчення поселення."/>
     <string id="A7dcz7Yr" text="Melee Weapons II"/>
     <string id="a8zwLVKj" text="Сила"/>
     <string id="aa5tNRb9" text="Critical Success Chance"/>
@@ -350,7 +350,7 @@
     <string id="AtulqwTG" text="Change Party Leader"/>
     <string id="AUDv8sEt" text="Active Issue"/>
     <string id="aUNYlvbN" text="You have arrived at {SETTLEMENT} to raid it. Some of the residents have gathered to resist you."/>
-    <string id="AUOio5Tu" text="Daily Defaults"/>
+    <string id="AUOio5Tu" text="Щоденні роботи"/>
     <string id="AVQUGwTg" text="Місто середнього достатку."/>
     <string id="AWW0T6xR" text="A pawn may be moved orthogonally, one tile at a time.{newline}A pawn can not be moved back to the tile that it came from in the previous turn.{newline}If a player is unable to move, that player may remove one of the opponent's pawns and still make a move."/>
     <string id="AxRxT2Xj" text="Once a party is disbanded, it merges into a near clan party or goes to nearest map faction settlement and joins its garrison.{newline}{newline}You will not be able to undo / cancel this action.{newline}{newline}Are you sure?"/>
@@ -477,7 +477,7 @@
     <string id="cjZqTaHm" text="You don't have enough influence."/>
     <string id="CKGavOyA" text="Бийтеся списом або подібною одноручною чи дворучною держаковою зброєю."/>
     <string id="cKKYSB0z" text="You have lost {AMOUNT}{GOLD_ICON}."/>
-    <string id="ckPhG1KV" text="Зв'язані села"/>
+    <string id="ckPhG1KV" text="Прилеглі села"/>
     <string id="CkwERBcS" text="Skirmish behind ally formation."/>
     <string id="cmn6qNoX" text="Skirmishers"/>
     <string id="cMrROb6w" text="Доступне завдання"/>
@@ -537,7 +537,7 @@
     <string id="DM6luo3c" text="Продовжити"/>
     <string id="dMKyWmJ6" text="You are trapped by enemies."/>
     <string id="dO5tqXT8" text="{?NPC.GENDER}Колишня дружина{?}Колишній чоловік{\?}"/>
-    <string id="DOaIBObZ" text="(Daily defaults become active when there are no projects under construction)"/>
+    <string id="DOaIBObZ" text="(Щоденні роботи стають активними, коли немає проєктів для будівництва)"/>
     <string id="DOKG38dF" text="Навчання увімкнено"/>
     <string id="DPbv2cOo" text="Redeploying"/>
     <string id="dpPMuLa4" text="Неможливо виконати жодне замовлення."/>
@@ -568,7 +568,7 @@
     <string id="eb0nLx5E" text="Aserai Sultanate"/>
     <string id="EbB9y2zZ" text="Declare War"/>
     <string id="eDVvDS1i" text="Villagers"/>
-    <string id="EegxpPka" text="+{BONUS_AMOUNT} bonus to construction"/>
+    <string id="EegxpPka" text="+{BONUS_AMOUNT} до будівництва"/>
     <string id="eEmbb1MR" text="Виробництво"/>
     <string id="eHBvuPk6" text="двадцять {.m}шостий{.R_adj}"/>
     <string id="EHkzaZBi" text="Турнір в {SETTLEMENT_NAME}{.v_mis}"/>
@@ -648,7 +648,7 @@
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}"/>
     <string id="fEu5S6Bd" text="Distance"/>
     <string id="fEXuXAl1" text="Army Morale : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}"/>
-    <string id="FfVdGZsj" text="+{BONUS_AMOUNT} bonus to food production"/>
+    <string id="FfVdGZsj" text="+{BONUS_AMOUNT} до виробництва їжі"/>
     <string id="Fg9qCGUu" text="{.m}Виноград{.R_n20}{@Plural}{.p}Ящик{.R_n20_p} винограду{\@}"/>
     <string id="fivestackdiscarditems" text="Утримуйте [{KEY_NAME}], щоб викинути x5"/>
     <string id="fivestackrecruitunits" text="Утримуйте [{KEY_NAME}], щоб найняти x5"/>
@@ -662,7 +662,7 @@
     <string id="fMmlUHyz" text="Шкода від змаху: "/>
     <string id="forgeverb" text="Кувати"/>
     <string id="FpI5JMZq" text="Transactions have been reset"/>
-    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} increase to village growth."/>
+    <string id="fpP2s7hX" text="+{BONUS_AMOUNT} приросту до зростання села."/>
     <string id="fQ2RLaOa" text="Клан не має жодної власності"/>
     <string id="fQAGU9GW" text="Великодушність:"/>
     <string id="FqwHAxuM" text="Дворучна держакова зброя"/>
@@ -681,7 +681,7 @@
     <string id="fveVnpbZ" text="kinsman"/>
     <string id="FvYhaE3z" text="Banner"/>
     <string id="fwbD1Jqo" text="Купити"/>
-    <string id="FwlZRESM" text="+{BONUS_AMOUNT} bonus to militia"/>
+    <string id="FwlZRESM" text="+{BONUS_AMOUNT} до ополчення"/>
     <string id="fWwYUOVs" text="We will accept your offering."/>
     <string id="FxoVjLvl" text="Щити і зброя дальнього бою"/>
     <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}"/>
@@ -930,7 +930,7 @@
     <string id="kHC5EjDJ" text="Town Bonus"/>
     <string id="kHC5EjEJ" text="Minor Faction Bonus"/>
     <string id="Khr5yETv" text="Асераї живуть у пустелі Нахаса. Серед них є кочівники-бедуїни й осілі фермери оазисів. Вони славляться своїм мистецтвом верхової їзди і багатим зібранням знань з усього світу, а особливо - в галузі медицини. Всю цю інформацію вони змогли зібрати, тому що живуть на найприбутковіших торгових шляхах усього континенту. Кожен клан пишається своїм родоводом і нерідко заздрить іншим. Але коли народ асераїв об'єднує гідний правитель, вони стають найбільшою силою південних земель."/>
-    <string id="ki5DqTtC" text="+{BONUS_AMOUNT} increase to settlement prosperity."/>
+    <string id="ki5DqTtC" text="+{BONUS_AMOUNT} до процвітання поселення."/>
     <string id="KiVCv1Bx" text="Besieging {SETTLEMENT_NAME}"/>
     <string id="KJDqOGEU" text="Our plan is to fall back in formation to fight another day."/>
     <string id="KkaVpLXd" text="Consider enacting this policy (Support: {SUPPORT}%)"/>
@@ -952,7 +952,7 @@
     <string id="kUBvVY89" text="River Crossing Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers gain small bonus while defending.{newline}• Cavalry suffers minor penalty while defending."/>
     <string id="kuKad3dj" text="{MISSION_MODE}"/>
     <string id="kuLjsNgz" text="Rural Notable"/>
-    <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% reduction of garrison wages."/>
+    <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% зменшення заробітної плати гарнізону."/>
     <string id="kVuucX4o" text="{.m}тринадцятий{.R_adj}"/>
     <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are attacking siege weapons."/>
     <string id="Kw7awUCK" text="Balanced"/>
@@ -1089,7 +1089,7 @@
     <string id="NaNMRPv4" text="Aserai"/>
     <string id="NaorUInI" text="Understrength Parties"/>
     <string id="NarcUcZA" text="Назва фракції містить недопустимі символи."/>
-    <string id="nbBgbwM2" text="In Queue: {NUMBER}"/>
+    <string id="nbBgbwM2" text="В черзі: {NUMBER}"/>
     <string id="NBv29XpJ" text="You cannot disband an army while you're in that army."/>
     <string id="nbw71MCj" text="{BUILDING_NAME} building in {SETTLEMENT_NAME} is completed."/>
     <string id="nDNOn5o2" text="Equipment"/>
@@ -1127,7 +1127,7 @@
     <string id="nvswKHTZ" text="Ви заплатили {GOLD_AMOUNT} {GOLD_ICON}."/>
     <string id="nxQaab9d" text="{SHOPNAME} ({SHOPTYPE})"/>
     <string id="ny32aoLJ" text="Horse Equipment II"/>
-    <string id="nyGRpJT3" text="Queue"/>
+    <string id="nyGRpJT3" text="Черга"/>
     <string id="NYHinaEh" text="Can't access inventory in a battle!"/>
     <string id="NZUELfbp" text="Can't manage the army during a siege"/>
     <string id="o0OQ5omY" text="Our plan is to remain on the defensive."/>
@@ -1172,7 +1172,7 @@
     <string id="Or9YduTA" text="sister"/>
     <string id="oRaa1yls" text="Consumable"/>
     <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are ready."/>
-    <string id="ot2M62R8" text="+{BONUS_AMOUNT} xp bonus to garrison troops"/>
+    <string id="ot2M62R8" text="+{BONUS_AMOUNT} од воїнам гарнізону"/>
     <string id="oTGDxKW7" text="Declare War Against {FACTION}"/>
     <string id="OtP3heba" text="You've beaten your opponent and won the game!"/>
     <string id="ou9asw1a" text="Swing {SWING_DAMAGE_TYPE} Damage: "/>
@@ -1267,7 +1267,7 @@
     <string id="QBbBahLv" text="You have our permission to proceed with your journey."/>
     <string id="qC4OsBt1" text="Villages (Under Siege)"/>
     <string id="qDSda1OI" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#}"/>
-    <string id="QE1XRyUP" text="+{BONUS_AMOUNT}% bonus to siege engine production speed"/>
+    <string id="QE1XRyUP" text="+{BONUS_AMOUNT}% до швидкості виробництва облогових машин"/>
     <string id="qe686AAn" text="You're the ruler. Your decision will be the final one and will overrule anything."/>
     <string id="QeeK2rge" text="you"/>
     <string id="QFMshJaj" text="Gathering near {SETTLEMENT_NAME}."/>
@@ -1356,7 +1356,7 @@
     <string id="rZ9aqmaq" text="There is a better target. We should go there."/>
     <string id="RzjMX0Og" text="Good. Now be on your way. Don't forget to drink lots of water!"/>
     <string id="rzsRQkXw" text="{CHAR_NAME} already have {PERK_NAME} perk."/>
-    <string id="s1NEbhFL" text="In Queue"/>
+    <string id="s1NEbhFL" text="В черзі"/>
     <string id="s2vaPUdG" text="Spear Brace"/>
     <string id="S3ymfdwB" text="Ви зробили зміни. Хочете їх застосувати?"/>
     <string id="s5h0Yarn" text="Manage your army"/>
@@ -1383,7 +1383,7 @@
     <string id="smeltverb" text="Переплавити"/>
     <string id="smithingverb" text="{.n}Ковальство{.R_n2n}"/>
     <string id="SMws1ws6" text="Large Shield"/>
-    <string id="SNfvAnuV" text="+{BONUS_AMOUNT}% bonus to wall repair speed"/>
+    <string id="SNfvAnuV" text="+{BONUS_AMOUNT}% до швидкості ремонту стін"/>
     <string id="SNVrnzES" text="Can't gather an army during an encounter"/>
     <string id="snxLc1Wq" text="Two pawns from each player start on the board as shown. Players take turns placing the rest on any available tile, excluding the center tile."/>
     <string id="snyxby5L" text="Back To Home"/>
@@ -1511,7 +1511,7 @@
     <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Looted)"/>
     <string id="v3cY44N1" text="You cannot annex a ruling clan's settlement."/>
     <string id="v4nltcfz" text="{PARTY_LIST_TAG}{TOTAL_COUNT}/{MAX_COUNT} ({COUNT} + {WEAK_COUNT}ран.)"/>
-    <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} bonus to prosperity change"/>
+    <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} до зміни добробуту"/>
     <string id="V7ESaOJU" text="Choose your banner"/>
     <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!"/>
     <string id="VbeHEAsa" text="Retreat"/>
@@ -1538,7 +1538,7 @@
     <string id="VpKIzJxz" text="Well there, traveller. We've just made landfall in these lands, hoping for a bit of luck with the raiding and pillaging, and aren't you a sight for sore eyes?[rf:convo_mocking_revenge]"/>
     <string id="vpx7Pa7v" text="Offer"/>
     <string id="VPYazFVH" text="Швидкість випаду: "/>
-    <string id="vqHDX6hf" text="+{BONUS_AMOUNT} increase to settlement loyalty"/>
+    <string id="vqHDX6hf" text="+{BONUS_AMOUNT} до вірності поселення"/>
     <string id="VqpmXU1m" text="Стріляйте у ворогів з арбалета."/>
     <string id="VRdy76RQ" text="Skirmish"/>
     <string id="vSr60kDj" text="On {DAY_OF_YEAR}, {YEAR}, a child was born to {MOTHER_NAME}."/>
@@ -1592,7 +1592,7 @@
     <string id="WusvipsF" text="Insufficient funds!"/>
     <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} од"/>
     <string id="WvyWpbE8" text="Необхідний рівень підкореності для вербування"/>
-    <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} bonus to  wall hit points"/>
+    <string id="wx6DZJ0W" text="+{BONUS_AMOUNT} до очок міцності стін"/>
     <string id="wXQUXa1P" text="You cannot give anymore focus points to this skill"/>
     <string id="wXwZ778J" text="soldiers"/>
     <string id="WYfjyuHj" text="Well then... It was a long voyage, so do dig deep into your purse."/>
@@ -1619,7 +1619,7 @@
     <string id="xGjug9Sd" text="!"/>
     <string id="xgwjHi1p" text="Disavow"/>
     <string id="xHc1xhG8" text="Eliminate enemy inside castle."/>
-    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} bonus to food reserve limit"/>
+    <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} до запасів їжі"/>
     <string id="xKa6TwEX" text="Перебуває в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="xmaEEEWd" text="Cannot execute hero during a battle"/>
     <string id="XNNvdkul" text="Governing at {SETTLEMENT_NAME}"/>
@@ -1747,7 +1747,7 @@
     <string id="ZvoyX6DX" text="Battanian"/>
     <string id="zw5IEUuD" text="{TITLE}: Журнал оновлено."/>
     <string id="Zw60OTJe" text="Переважно люди задоволені, хоча можна почути деякі скарги на зростання цін, нерівномірний розподіл багатства та наплив людей із сіл."/>
-    <string id="ZwyPnboN" text="+{BONUS_AMOUNT} bonus to settlement loyalty"/>
+    <string id="ZwyPnboN" text="+{BONUS_AMOUNT} до вірності поселення"/>
     <string id="zX4C3332" text="You shall be slain, then. Ready yourself."/>
     <string id="zxckitKe" text="Ви влаштували вилазку, щоб напасти на {PARTY}{.v_zna}."/>
     <string id="ZxcnmaXi" text="You have arrived at {SETTLEMENT} to raid it. You do not meet any resistance. Raiding this village will cause a war with the {KINGDOM}."/>
