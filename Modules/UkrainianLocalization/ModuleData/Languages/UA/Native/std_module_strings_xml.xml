@@ -246,7 +246,7 @@
     <string id="8mBT44QK" text="Noble of the {FACTION_INFORMAL_NAME}"/>
     <string id="8oaVYIlk" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ви не можете увійти, оскільки замок належить ворогу."/>
     <string id="8OkPHu4f" text="Ні"/>
-    <string id="8Rkxc5jE" text="No Food"/>
+    <string id="8Rkxc5jE" text="Нема їжі"/>
     <string id="8rzcgCO5" text="Сортування"/>
     <string id="8ucLajpU" text="{.f}Одноручний{.R_adj} {.f}сокира{.R_n10}"/>
     <string id="8UFjXbbW" text="Flank{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
@@ -1111,7 +1111,7 @@
     <string id="nMcvafHY" text="Активно"/>
     <string id="nNDdo3I9" text="{.m}Одноручний{.R_adj} {.m}меч{.R_n20_a}"/>
     <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}ран.)"/>
-    <string id="nNRKCYpR" text="Inside production"/>
+    <string id="nNRKCYpR" text="Внутрішнє виробництво"/>
     <string id="NnZ5w9zm" text="{NUM1} ({NUM2})"/>
     <string id="nojcK4ia" text="{?RULER.GENDER}Grand Princess{?}Grand Prince{\?} {RULER.NAME}"/>
     <string id="NPJRmNAY" text="Неможливо виготовити."/>
@@ -1220,7 +1220,7 @@
     <string id="PiHpR4QL" text="{.f}Одноручний{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="PitdvCJI" text="Change Governor"/>
     <string id="pJBz7hhl" text="Збирайте своїх людей, у нас з'явилася ще одна справа!"/>
-    <string id="PJEuE208" text="Militia:"/>
+    <string id="PJEuE208" text="Ополчення:"/>
     <string id="pkyASW0A" text="Party / Payment Size Reach"/>
     <string id="pLZeP6L6" text="Assault walls{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
     <string id="pm0yiOmv" text="Earned: {DENAR_AMOUNT}{GOLD_ICON}"/>
@@ -1468,7 +1468,7 @@
     <string id="UaV0JT87" text="This hero can not craft this item."/>
     <string id="Uaw5VF3D" text="Your opponent wants to forfeit. Do you accept your win? If you don't, you will continue playing."/>
     <string id="UaYsPbER" text="Unpaid wages"/>
-    <string id="uB245vWg" text="Food:"/>
+    <string id="uB245vWg" text="Їжа:"/>
     <string id="uBxHeyxy" text="Доблесть:"/>
     <string id="uCikaIoq" text="Splendid. See, my lads and I, we're not cruel men. A bit greedy though, that can't be denied, so do be generous.[ib:hip][rf:convo_bemused]"/>
     <string id="UckVajhO" text="Слави отримано: +{RENOWN}"/>
@@ -1517,7 +1517,7 @@
     <string id="VbeHEAsa" text="Retreat"/>
     <string id="Vc9Mx6Jb" text="Завдання"/>
     <string id="vdK5SaJN" text="Mm. Pity.[ib:aggressive][if:convo_annoyed]"/>
-    <string id="vdKLq8T5" text="Walls{newline}Level {LEVEL}"/>
+    <string id="vdKLq8T5" text="Стіни{newline}Рівень {LEVEL}"/>
     <string id="veiFupWz" text="{?RULER.GENDER}Baroness{?}Baron{\?} {RULER.NAME}"/>
     <string id="VeOqrmx5" text="{LEFT}{FOCUS_ICON}{RIGHT}"/>
     <string id="VeqwXwYc" text="Вороги тікають. Ви виграли битву."/>
@@ -1683,7 +1683,7 @@
     <string id="yOJAiSf4" text="No formation"/>
     <string id="YOSEIvyf" text="Збалансованість: "/>
     <string id="yQiDdDPY" text="Light Horse"/>
-    <string id="yRQDL2ab" text="Garrison:"/>
+    <string id="yRQDL2ab" text="Гарнізон:"/>
     <string id="yRTV90eN" text="You need to select an outcome."/>
     <string id="yrvH6Oa1" text="Wait in the starting position!"/>
     <string id="ySlVPZyF" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
