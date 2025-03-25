@@ -18,7 +18,7 @@
     <string id="1UbocG5B" text="Denounce your rights and responsibilities from this fief by giving it back to the realm."/>
     <string id="1xf8rHLH" text="У вас немає полонених, яких можна завербувати."/>
     <string id="2abtb4xu" text="Independent"/>
-    <string id="2ckyCKR7" text="Reserve"/>
+    <string id="2ckyCKR7" text="Резерв"/>
     <string id="2Cq3tViJ" text="Ліміт кількості воїнів загону"/>
     <string id="2GWR9Cba" text="Вогнища"/>
     <string id="2Hbr4TEj" text="Item name cannot start or end with a white space."/>
@@ -56,7 +56,7 @@
     <string id="8lCWWK9G" text="Здібності коваля"/>
     <string id="8N1EdPB3" text="You will earn {GOLD}{GOLD_ICON}"/>
     <string id="8szijlHj" text="Складність замовлення: {DIFFICULTY}"/>
-    <string id="94aHU6nD" text="Construction"/>
+    <string id="94aHU6nD" text="Будівництво"/>
     <string id="9FJi2SaE" text="Роль в загоні"/>
     <string id="9i0wnjJK" text="L-II : {BONUS}"/>
     <string id="9sxECG6e" text="Вид їздової тварини: "/>
@@ -262,7 +262,7 @@
     <string id="NVUi4bB9" text="When the warehouse is full, the workshop will sell the products to the town market"/>
     <string id="NxEy5Nbt" text="High risk of rebellion"/>
     <string id="nYYUQQm0" text="Swing Damage Factor "/>
-    <string id="o5G8A8ZH" text="Ваші денари"/>
+    <string id="o5G8A8ZH" text="Ваші динари"/>
     <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
     <string id="ocSW4WA2" text="Critical Fail!"/>
     <string id="ODEnkg0o" text="Clan Strength"/>
@@ -367,7 +367,7 @@
     <string id="T9bndUYP" text="{SETTLEMENT}'s Raid"/>
     <string id="ta4R2RR7" text="Primary"/>
     <string id="TaK6ydAx" text="Travelling."/>
-    <string id="tAwRIPiy" text="Construction Cost: {COST}"/>
+    <string id="tAwRIPiy" text="Вартість будівництва: {COST}"/>
     <string id="TEkWkzbH" text="Owned Caravans: {CARAVAN_COUNT}"/>
     <string id="tf7301NC" text="Healing Rate"/>
     <string id="tFGM0yav" text="This party is disbanding."/>
