@@ -60,7 +60,7 @@
     <string id="9FJi2SaE" text="Роль в загоні"/>
     <string id="9i0wnjJK" text="L-II : {BONUS}"/>
     <string id="9sxECG6e" text="Вид їздової тварини: "/>
-    <string id="a241aacb1780599430c79fd9f667b67f" text="Party Morale: "/>
+    <string id="a241aacb1780599430c79fd9f667b67f" text="Бойовий дух загону: "/>
     <string id="a4GDfSel" text="Reset Tutorials"/>
     <string id="a4oqWgUi" text="If there are no raw materials in the warehouse, the workshop will buy raw materials from the market until the warehouse is restocked"/>
     <string id="a8NoW1Q2" text="Ви дійсно бажаєте скасувати зміни?"/>
@@ -311,7 +311,7 @@
     <string id="qBq70qDq" text="Current Project"/>
     <string id="qbqimqMb" text="{GOVERNOR.NAME} is on the way to be the new governor of {SETTLEMENT_NAME}"/>
     <string id="qdoJOH0j" text="Party Wage"/>
-    <string id="qeclv74c" text="Taxes"/>
+    <string id="qeclv74c" text="Податки"/>
     <string id="QeToaiLt" text="Swing Damage"/>
     <string id="QFfMd5q3" text="Наступна сторінка"/>
     <string id="QGyoSLeY" text="Traveling to a settlement"/>
@@ -369,7 +369,7 @@
     <string id="TaK6ydAx" text="Travelling."/>
     <string id="tAwRIPiy" text="Вартість будівництва: {COST}"/>
     <string id="TEkWkzbH" text="Owned Caravans: {CARAVAN_COUNT}"/>
-    <string id="tf7301NC" text="Healing Rate"/>
+    <string id="tf7301NC" text="Швидкість зцілення"/>
     <string id="tFGM0yav" text="This party is disbanding."/>
     <string id="tnbCJyax" text="Деякі з ваших полонених можуть бути завербовані."/>
     <string id="twtbH1zv" text="Stack Amount"/>
