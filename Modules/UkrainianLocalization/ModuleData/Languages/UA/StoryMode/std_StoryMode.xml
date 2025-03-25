@@ -135,7 +135,7 @@
     <string id="BTY2aZCt" text="Увійдіть до тренувального майданчика."/>
     <string id="bWdsH2Ls" text="Життя в політиці навчило мене одну важливу річ: немає нічого гіршого за хаос. Чи варто говорити, що я краще за будь-кого знаю про всю ту брехню та жорстокість, на яких трималася ця імперія? Але всі ті вбивства, вчинені мною за 10 років служби у Неретцеса, не зрівняються з кількістю загиблих за одну лише годину штурму армією міста.[if:convo_snide_voice]"/>
     <string id="BXMKgTXl" text="Це справить велике враження на людей. Ви залучите союзників, але також, можливо, наживете собі нових ворогів. Ви впевнені, що готові?[if:convo_astonished]"/>
-    <string id="bXYFXLgg" text="Збільште кількість денарів на 1000"/>
+    <string id="bXYFXLgg" text="Збільште кількість динарів на 1000"/>
     <string id="bZI82WMt" text="Покінчимо з цим! В атаку!"/>
     <string id="bzmcPtZ6" text="We know you. We were told to look out for you. We know what you're planning with {MENTOR.NAME}. You will fail, and you will die.[ib:closed][if:convo_predatory]"/>
     <string id="C0xbbPqE" text="I will duel you for your insolence! Die dog![ib:warrior][if:convo_furious]"/>
