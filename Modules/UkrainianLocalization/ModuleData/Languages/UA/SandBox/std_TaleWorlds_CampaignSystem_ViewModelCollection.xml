@@ -226,7 +226,7 @@
     <string id="lhIpaGt9" text="There {?(COUNT &gt; 1)}are{?}is{\?} {COUNT} more {?(COUNT &gt; 1)}{PLURAL(WORKSHOP_NAME)}{?}{WORKSHOP_NAME}{\?} in this town."/>
     <string id="lkJfq1ap" text="Owned settlements remain under your control but nobles will dislike this dishonorable act and the kingdom will declare war on you."/>
     <string id="Lm6Mkhru" text="Наслідки"/>
-    <string id="LpsoPtOo" text="Projects"/>
+    <string id="LpsoPtOo" text="Проєкти"/>
     <string id="LuC5ZZMu" text="{CRIMINAL_RATING} ({INCREASE}){CRIME_ICON}"/>
     <string id="LVJKy6a8" text="Для покращення цього воїна необхідна здібність «{PERK_NAME}» ({PERK_SKILL})."/>
     <string id="LVmkE2Ow" text="Готових до бою воїнів"/>
