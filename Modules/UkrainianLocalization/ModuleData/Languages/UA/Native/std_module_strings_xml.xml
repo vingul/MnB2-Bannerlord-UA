@@ -1622,7 +1622,7 @@
     <string id="XJ6EG3Pa" text="+{BONUS_AMOUNT} до запасів їжі"/>
     <string id="xKa6TwEX" text="Перебуває в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="xmaEEEWd" text="Cannot execute hero during a battle"/>
-    <string id="XNNvdkul" text="Governing at {SETTLEMENT_NAME}"/>
+    <string id="XNNvdkul" text="Керує {SETTLEMENT_NAME}{.v_oru}"/>
     <string id="XnsAbUE3" text="Звільнити"/>
     <string id="xo2zvOir" text="Your opponent cannot make any moves. Skipping turn."/>
     <string id="xq62HAIO" text="Protect{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} flank of ally {AI_SIDE} {CLASS}"/>
