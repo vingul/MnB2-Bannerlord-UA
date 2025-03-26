@@ -205,7 +205,7 @@
     <string id="7IqpjCDY" text="Executing a prisoner will negatively affect your reputation and will decrease your relation with the prisoner's faction/clan.{newline}You will not be able to undo this action.{newline}Are you sure you want to execute this character?"/>
     <string id="7j4fQHg7" text="Forest Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers suffer medium penalty.{newline}• Cavalry suffer large penalty.{newline}• Horse archers suffer severe penalty."/>
     <string id="7JpAR59k" text="Used for carrying goods"/>
-    <string id="7llkDelg" text="Kingdom Decisions"/>
+    <string id="7llkDelg" text="Рішення королівства"/>
     <string id="7mRN2br0" text="Leadership of the formation has been given to {HERO_NAME}."/>
     <string id="7MSuWxaY" text="{CHILD.NAME} {?CHILD.GENDER}досягла{?}досяг{\?} віку {CHILD.AGE} рок{#GET_PLURAL_VALUE(CHILD.AGE)}у{#}ів{#}ів{\#}&#10; і {?CHILD.GENDER}їй{?}йому{\?} потрібна ваша настанова."/>
     <string id="7MWaMaez" text="Here's what we've got: {ITEM_LIST}. Take them, but let us live."/>
