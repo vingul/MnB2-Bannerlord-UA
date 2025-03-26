@@ -157,7 +157,7 @@
     <string id="1UBNuatk" text="Faris"/>
     <string id="1UO0yMBr" text="You can not parley during an ongoing battle."/>
     <string id="1V6DRayw" text="You don't have {BRIBE_COST} denars."/>
-    <string id="1V8f9vRM" text="A courier bearing a peace offer from the {PROPOSER_HERO_FACTION} has arrived at the court of your realm."/>
+    <string id="1V8f9vRM" text="Посланець з мирною пропозицією від {PROPOSER_HERO_FACTION}{.v_rod} прибув до двору вашого королівства."/>
     <string id="1V9GeKr8" text="Fah...I don't need more men. Thank you."/>
     <string id="1vnaskLR" text="It was a pleasure to work with you, chief. Farewell...[if:convo_nonchalant][ib:normal2]"/>
     <string id="1vQul57Y" text="Караван заблукав і саме {CHILD.NAME} {?CHILD.GENDER}помітила{?}помітив{\?} орієнтири, які повернули його на правильний шлях."/>
@@ -360,7 +360,7 @@
     <string id="4CuMDzvd" text="Ви попросили свого найкращого воїна взяти {?CHILD.GENDER}її{?}його{\?} під своє крило і подбати про те, щоб {?CHILD.GENDER}вона відчула{?}він відчув{\?} смак битви, не зазнавши при цьому серйозних ушкоджень."/>
     <string id="4ElA7gRS" text="Вирішальна битва"/>
     <string id="4FdtVyj1" text="Корпус допомоги"/>
-    <string id="4fXpOe4N" text="Прибув кур'єр від клану {CLAN_NAME}{.v_rod}. Вони вимагають {GOLD_AMOUNT}{GOLD_ICON} за звільнення {.S}{CAPTIVE_HERO.NAME}{.v_rod} зі свого полону."/>
+    <string id="4fXpOe4N" text="Прибув посланець від клану {CLAN_NAME}{.v_rod}. Вони вимагають {GOLD_AMOUNT}{GOLD_ICON} за звільнення {.S}{CAPTIVE_HERO.NAME}{.v_rod} зі свого полону."/>
     <string id="4G3Aeqna" text="{KING.NAME}"/>
     <string id="4GgfFDWG" text="Making peace with the {KINGDOM_NAME}"/>
     <string id="4hUEryJ6" text="Вагомі послуги"/>
@@ -630,7 +630,7 @@
     <string id="7Nudvd8S" text="{VALUE}% шансу збити ворога з ніг сильним ударом."/>
     <string id="7o4AfEhN" text="While you are resting, you hear news that a force led by {ATTACKER} has arrived outside of {DEFENDER} to raid it."/>
     <string id="7o68QryW" text="Not yet. I have some other business to attend to."/>
-    <string id="7ouzFASf" text="Прибуває кур'єр з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона помітила{\?}Він помітив{\?} вашу зростаючу репутацію і запитує, чи не хотіли б ви стати васалом {OFFERED_KINGDOM_NAME}{.v_rod}. Якщо ви зацікавлені, то вам слід поговорити з ним особисто."/>
+    <string id="7ouzFASf" text="Прибуває посланець з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона помітила{\?}Він помітив{\?} вашу зростаючу репутацію і запитує, чи не хотіли б ви стати васалом {OFFERED_KINGDOM_NAME}{.v_rod}. Якщо ви зацікавлені, то вам слід поговорити з ним особисто."/>
     <string id="7P3wiojT" text="гострий розум."/>
     <string id="7Pk3bFPC" text="Noble Retinues"/>
     <string id="7q0vbVdN" text="You betrayed the gang leader and refused the {MERCHANT.LINK}'s request. The goods stayed with you."/>
@@ -1797,7 +1797,7 @@
     <string id="F7yFADCx" text="Sure thing, boss.[ib:demure]"/>
     <string id="f8R0Hkxa" text="{VALUE}% маневровості."/>
     <string id="F9LlA26R" text="Actually, I think you're the one who ought to surrender."/>
-    <string id="FA2QZc7Q" text="Прибуває кур'єр з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона{\?}Він{\?} пропонує вам службу у {?OFFERED_KINGDOM_LEADER.GENDER}неї{\?}нього{\?} в якості найманця."/>
+    <string id="FA2QZc7Q" text="Прибуває посланець з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона{\?}Він{\?} пропонує вам службу у {?OFFERED_KINGDOM_LEADER.GENDER}неї{\?}нього{\?} в якості найманця."/>
     <string id="FA5QlTvm" text="Виробник болтів"/>
     <string id="faa9sFfE" text="I do what I can to alleviate suffering in this world. I hope that is enough."/>
     <string id="fAdwIqbg" text="I think you should try to win my family's approval."/>
@@ -2018,7 +2018,7 @@
     <string id="Gn3KBN8L" text="Збивання"/>
     <string id="GN9F316V" text="Oh of course you do. {QUEST_GIVER.LINK}'s people have been running around placing bets - we know all about your arrangement, you see. And let me tell you something: as these arrangements go, {QUEST_GIVER.LINK} is getting you cheap. Do you want to see real money? Win this tournament and I will pay you what you're worth. And isn't it better to win than to lose?[if:convo_mocking_aristocratic][ib:confident2]"/>
     <string id="GNalaRaN" text="Minimum"/>
-    <string id="gNf0ALKw" text="A courier has arrived from the {MAP_FACTION_NAME}. They offer you a white peace. Your kingdom will vote whether to accept the offer."/>
+    <string id="gNf0ALKw" text="Прибув посланець від {MAP_FACTION_NAME}{.v_rod}. Вони пропонують вам мир. Ваше королівство проголосує, чи приймати цю пропозицію."/>
     <string id="gNHh9bvb" text="I am sorry that you did not manage to make a profit. But you are keeping your end of the bargain, and that is admirable."/>
     <string id="GNtTFR0j" text="{VALUE}% оплати найманцям у вашому загоні."/>
     <string id="gnuojd9u" text="{VILLAGE} Needs Tools"/>
@@ -3396,7 +3396,7 @@
     <string id="ptmYmT6B" text="{VALUE}% досвіду від боїв, яким ви ділитесь з воїнами вашого загону."/>
     <string id="PtWQ789Z" text="I'm not sure I trust you people."/>
     <string id="pUrSIed8" text="You have failed to escort the caravan to its destination."/>
-    <string id="PutoRsWp" text="Прибув кур'єр від клану {CLAN_NAME}{.v_rod}. Вони пропонують вам {GOLD_AMOUNT}{GOLD_ICON} за звільнення {.S}{CAPTIVE_HERO.NAME}{.v_rod}."/>
+    <string id="PutoRsWp" text="Прибув посланець від клану {CLAN_NAME}{.v_rod}. Вони пропонують вам {GOLD_AMOUNT}{GOLD_ICON} за звільнення {.S}{CAPTIVE_HERO.NAME}{.v_rod}."/>
     <string id="pV7DLTAu" text="I am sorry, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. I cannot deliver the {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} you requested."/>
     <string id="PV7RHgUl" text="Company of Trouble"/>
     <string id="pvkl6pZh" text="You cannot take troops."/>
@@ -3792,7 +3792,7 @@
     <string id="sBahcJcl" text="Idle."/>
     <string id="SbbAhpTu" text="He is yet to prove himself actually."/>
     <string id="sbczu2VI" text="Play on, good man."/>
-    <string id="sbFboHmV" text="A courier has arrived from the {MAP_FACTION_NAME}. They offer you peace if you agree to pay a {GOLD_AMOUNT} {GOLD_ICON} daily tribute. Your kingdom will vote whether to accept the offer."/>
+    <string id="sbFboHmV" text="Прибув посланець від {MAP_FACTION_NAME}{.v_rod}. Вони пропонують вам мир, якщо ви погодитеся платити щоденно {GOLD_AMOUNT} {GOLD_ICON} данини. Ваше королівство проголосує, чи приймати цю пропозицію."/>
     <string id="SBHwIaVP" text="{?CHILD.GENDER}повернула{?}повернув{\?} викрадені товари."/>
     <string id="sbkrplXi" text="{VALUE}% шкоди від випаду держаковою зброєю."/>
     <string id="sbmWGPYG" text="Ви берете в облогу {SETTLEMENT}. {FURTHER_EXPLANATION}"/>
@@ -3867,7 +3867,7 @@
     <string id="sQCS90Wq" text="Точність лука: +{a0}%"/>
     <string id="sqMUtasn" text="Cheap, disposable and effective. What you say?"/>
     <string id="SqrRaIU5" text="I would like to ask about someone with different expertise."/>
-    <string id="SR9FC5jH" text="A courier has arrived from the {MAP_FACTION_NAME} bearing a peace offer. The {MAP_FACTION_NAME} will pay {GOLD_AMOUNT} {GOLD_ICON} in tribute each day to end the war between your realms. Your kingdom will vote whether to accept the offer."/>
+    <string id="SR9FC5jH" text="Прибув посланець від {MAP_FACTION_NAME}{.v_rod} з мирною пропозицією. {MAP_FACTION_NAME} буде платити щодня {GOLD_AMOUNT} {GOLD_ICON} данини, щоб припинити війну між вашими королівствами. Ваше королівство проголосує, чи приймати цю пропозицію."/>
     <string id="srbMyPXl" text="You can have one of my companions and {REQUIRED_TROOP_AMOUNT} of my men to take your goods to {TARGET_TOWN}"/>
     <string id="sRBvUj6U" text="The deserter party is defeated. Return back to {QUEST_GIVER.LINK} to claim your rewards."/>
     <string id="srByX06Y" text="letting all citizens meet and vote on some issues"/>
