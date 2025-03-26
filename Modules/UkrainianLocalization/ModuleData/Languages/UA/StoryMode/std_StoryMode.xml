@@ -143,11 +143,11 @@
     <string id="c6pDNXbb" text="Ви можете створити власне королівство або підтримати вже існуюче...[if:convo_normal]"/>
     <string id="C79Xxm1b" text="До речі, нехай вас не мучить совість, що ви мене відпустили. Я більше не повернуся в работоргівлю. Занадто багато мостів спалив зі старими соратниками, так би мовити. Знайду інший спосіб заробляти собі на прожиток — можливо, стану найманцем. Як би там не було, можливо, наші шляхи ще перетнуться.[if:convo_empathic_voice]"/>
     <string id="ccf67J3J" text="Ви схопили лук і випустили кілька стріл у бік нападників. Вони сховалися в укриття, давши вам з братом можливість втекти."/>
-    <string id="cEaXehHy" text="I was just checking on something. You can move along."/>
+    <string id="cEaXehHy" text="Я просто хотів дещо перевірити. Можете йти."/>
     <string id="cepWNzEA" text="Скочивши на двох коней, які залишилися в стайні, що вже була охоплена полум'ям, ви з братом вирвалися з оточення і помчали геть."/>
     <string id="CEqKkY3m" text="Захищайтеся зверху."/>
     <string id="cfTiiEEM" text="Імперія має надзвичайний талант до руйнування, вона стирає все: мову, традиції, богів. Вона руйнує наші замки, вбиває наших людей і перетворює наших дітей у своїх власних.[if:convo_focused_voice]"/>
-    <string id="ch9f3A1e" text="Greetings, {?PLAYER.GENDER}madam{?}sir{\?}. Why did you stop our caravan? I trust you are not robbing us."/>
+    <string id="ch9f3A1e" text="Вітаю, {?PLAYER.GENDER}пані{?}пане{\?}. Чому ви зупинили наш караван? Сподіваюся, ви не грабуєте нас."/>
     <string id="Cl4xi6Be" text="Нарешті, вам потрібна столиця. Підійде будь-яке поселення, головне, щоб його мешканці розмовляли імперською мовою.[if:convo_focused_voice]"/>
     <string id="cLZWjrZP" text="They have moved to another hiding place."/>
     <string id="cNwejsNl" text="Зручна легенда, правда? Звісно, кальрадійців багато разів перемагали, але, гадаю, то були не «справжні сини». Втім, цей стяг уособлює собою символ сили і стійкості Імперії.[ib:normal][if:convo_focused_happy]"/>
@@ -331,7 +331,7 @@
     <string id="lnAhXvbo" text="Є один мандрівний лікар, який час від часу заходить сюди. Його звати Тактеос. Він безкоштовно лікує людей... Ми його дуже поважаємо.[if:convo_thinking]"/>
     <string id="LrItHItu" text="Гаразд, брате, будь обережним. Бережи себе."/>
     <string id="Lwdkj0hG" text="Yes, I intend to use the banner to help save the Empire."/>
-    <string id="LXGXxKqw" text="Ah... Well, I suppose we can drop the charade. [ib:hip2][if:convo_nonchalant]I know who sent you, and I suppose you know who sent me. Certainly, you can see my wares, and then you can feel their sharp end in your belly."/>
+    <string id="LXGXxKqw" text="Що ж, гадаю, ми можемо облишити цю виставу. [ib:hip2][if:convo_nonchalant]Я знаю, хто послав тебе, і гадаю, ти знаєш, хто послав мене. Звісно, ти можеш оглянути мій товар, а потім відчути його гострий кінець у себе в животі."/>
     <string id="MDtTC5j5" text="Don't hurt us![ib:nervous][if:convo_nervous]"/>
     <string id="MfczTFxp" text="Це схоже на старий тренувальний полігон для легіонерів. Гадаю, ми можемо витратити трохи часу на те, щоб відновити свої навички. Практика може стати в пригоді, коли ми наздоженемо рейдерів."/>
     <string id="MJd5agS2" text="Я б порекомендував вам зібрати досить велику армію, оскільки невдовзі ви можете почати війну з більш могутніми та розвиненими королівствами."/>
@@ -445,7 +445,7 @@
     <string id="sSaZVD2e" text="Мій батько забрав імператорський Стяг Дракона з рук мертвого Неретцеса — це відома історія —, але тоді молодший принц Раґанвад спробував забрати його собі. Мій батько переламав держак стягу через коліно і кинув йому, сказавши, щоб той шукав собі інші іграшки для забавки. Ха! Це був гарний день.[if:convo_huge_smile]"/>
     <string id="StLYbEQZ" text="Нам потрібна допомога. Якісь бандити забрали в полон наших молодших брата і сестру. Ми думаємо, що вони могли тут проїжджати."/>
     <string id="str_continue" text="Продовжити..."/>
-    <string id="SVcr0EJM" text="Caravan is moving on to {TO_SETTLEMENT_LINK} from {FROM_SETTLEMENT_LINK}."/>
+    <string id="SVcr0EJM" text="Караван рухається до {.S}{TO_SETTLEMENT_LINK}{.v_rod} з {.S}{FROM_SETTLEMENT_LINK}{.v_rod}."/>
     <string id="SvYCz6z6" text="You've lost. You can restart the training by interacting weapon rack."/>
     <string id="t71lPdyb" text="І що ж саме?"/>
     <string id="T7OTmJUp" text="{MENTOR.LINK} has a message for you"/>
@@ -541,7 +541,7 @@
     <string id="XtC0hXhr" text="Підтримати {?IS_IMPERIAL}імперську фракцію{?}неімперське королівство{\?}"/>
     <string id="xVFupnFu" text="Ви успішно влучили в усі мішені за ({TIME_SCORE}) секунди."/>
     <string id="XWL3XcIq" text="{FACTION} Defeated"/>
-    <string id="Xx94UrYe" text="I might be. What are you carrying? Honest goods, or weapons? How about you let us have a look."/>
+    <string id="Xx94UrYe" text="Можливо. Що ви везете? Легальний товар? Чи може зброю? Дозвольте нам оглянути."/>
     <string id="y150haHv" text="Disrupt Supply Lines"/>
     <string id="y3fn2vWY" text="Найняти воїнів"/>
     <string id="Y6OJHdMH" text="Я дуже зайнята людина, але на те, щоб поговорити про благословенну битву під Пендраїком, в мене завжди знайдеться час.[if:convo_mocking_teasing][ib:confident3]"/>
