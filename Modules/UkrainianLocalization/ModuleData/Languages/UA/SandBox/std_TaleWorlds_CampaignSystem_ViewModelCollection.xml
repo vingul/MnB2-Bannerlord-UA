@@ -160,7 +160,7 @@
     <string id="GP3jpU0X" text="Influence is periodically converted to denars for mercenary clans."/>
     <string id="gTbE6t9I" text="Following requirements are not met:"/>
     <string id="gu5xmV0E" text="No other {WORKSHOP_NAME} in this town."/>
-    <string id="gUUnZNGk" text="Moving to {SETTLEMENT_NAME} to be the new governor"/>
+    <string id="gUUnZNGk" text="Прямує до {SETTLEMENT_NAME}{.v_rod}, щоб стати новим намісником"/>
     <string id="guxNZZWh" text="Вимоги"/>
     <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice"/>
     <string id="h0xoKxxo" text="Item name should be between {MIN} and {MAX} characters."/>
@@ -309,7 +309,7 @@
     <string id="qaQqAYGc" text="Прямує до загону {LEADER.NAME}{.v_rod}"/>
     <string id="QBB0KQ2Z" text="Parties' Average Morale"/>
     <string id="qBq70qDq" text="Current Project"/>
-    <string id="qbqimqMb" text="{GOVERNOR.NAME} is on the way to be the new governor of {SETTLEMENT_NAME}"/>
+    <string id="qbqimqMb" text="{GOVERNOR.NAME} на шляху до {SETTLEMENT_NAME}{.v_rod}, щоб стати новим намісником"/>
     <string id="qdoJOH0j" text="Party Wage"/>
     <string id="qeclv74c" text="Податки"/>
     <string id="QeToaiLt" text="Swing Damage"/>
