@@ -11,7 +11,7 @@
     <string id="082FNWAD" text="Риси"/>
     <string id="08aYzc2F" text="Староста"/>
     <string id="09ooh9I3" text="Pawns travel toward the opponent's home-tile. Upon reaching the last tile, they will move back towards their own home-tile. Enemy pawns can be captured along the way."/>
-    <string id="0amC7X1h" text="War Declaration"/>
+    <string id="0amC7X1h" text="Оголошення війни"/>
     <string id="0DiBS84d" text="Милосердний"/>
     <string id="0GZ19XHb" text="Harness"/>
     <string id="0hCHIcVk" text="Skirmish on mount"/>
@@ -1173,7 +1173,7 @@
     <string id="oRaa1yls" text="Consumable"/>
     <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are ready."/>
     <string id="ot2M62R8" text="+{BONUS_AMOUNT}од воїнам гарнізону"/>
-    <string id="oTGDxKW7" text="Declare War Against {FACTION}"/>
+    <string id="oTGDxKW7" text="Оголосити війну {FACTION}{.v_dav}"/>
     <string id="OtP3heba" text="You've beaten your opponent and won the game!"/>
     <string id="ou9asw1a" text="Swing {SWING_DAMAGE_TYPE} Damage: "/>
     <string id="OviaJ1tA" text="Інше"/>
