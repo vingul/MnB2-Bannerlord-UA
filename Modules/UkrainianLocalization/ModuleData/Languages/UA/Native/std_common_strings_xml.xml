@@ -618,7 +618,7 @@
     <string id="Kgnm0FkE" text="Leather Shoes"/>
     <string id="KiJd6Xik" text="Переміщення"/>
     <string id="KjzJjj5n" text="Eronys"/>
-    <string id="kkUQObZn" text="{.p}Пустельний{.R_adj} {.p}бандит{.R_n20_p}"/>
+    <string id="kkUQObZn" text="{.p}Пустельний{.R_adj_z1} {.p}бандит{.R_n20_p_pz}"/>
     <string id="KKWEkA4P" text="Rough Bearskin"/>
     <string id="klGEDUmw" text="Шкода щитам воїнів вашого підрозділу: {BONUS_AMOUNT}%."/>
     <string id="kmdjRAoG" text="Laced Cloth Coif"/>
@@ -694,7 +694,7 @@
     <string id="MKT5IzWm" text="Thick Sleeved Robe"/>
     <string id="mlJKNbbn" text="Leather Coif"/>
     <string id="MnmUBlbL" text="Targe"/>
-    <string id="mOa9CX13" text="{.p}Гірський{.R_adj} {.p}бандит{.R_n20_p}"/>
+    <string id="mOa9CX13" text="{.p}Гірський{.R_adj_z1} {.p}бандит{.R_n20_p_pz}"/>
     <string id="mP3uFbcq" text="успішне полювання на втікачів."/>
     <string id="MQ8LCvCE" text="Tied Cloth Tunic"/>
     <string id="MqCH7R4A" text="Безпека"/>
@@ -778,7 +778,7 @@
     <string id="p9cQARqf" text="Highborn Mail Armor"/>
     <string id="PbJAOKKZ" text="Збільшена швидкість пересування воїнів"/>
     <string id="pbp0GQdO" text="Ban Player"/>
-    <string id="pBUc2pL8" text="{.p}Морський{.R_adj} {.p}грабіжник{.R_n20_p_pz}"/>
+    <string id="pBUc2pL8" text="{.p}Морський{.R_adj_z1} {.p}грабіжник{.R_n20_p_pz}"/>
     <string id="pCBkH35Q" text="Danos"/>
     <string id="PDdh1sBj" text="Назва"/>
     <string id="pdqi2qz1" text="You can not do this action while your alley is under attack."/>
@@ -895,7 +895,7 @@
     <string id="s8PNllPN" text="you saved your city quarter from a fire."/>
     <string id="S9htzkbe" text="Merchant Hat"/>
     <string id="s9oED1IR" text="Застрільник"/>
-    <string id="sAbjtZbB" text="{.p}Лісовий{.R_adj} {.p}бандит{.R_n20_p}"/>
+    <string id="sAbjtZbB" text="{.p}Лісовий{.R_adj_z1} {.p}бандит{.R_n20_p_pz}"/>
     <string id="sAml91Z3" text="Luxury Brigandine"/>
     <string id="sb4gg8Ak" text="Вільні землевласники"/>
     <string id="sbbNL1qF" text="Reinforced Scale Pauldrons"/>
