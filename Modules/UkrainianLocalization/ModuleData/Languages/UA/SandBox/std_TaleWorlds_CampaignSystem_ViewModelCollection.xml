@@ -82,7 +82,7 @@
     <string id="BbLTwhsA" text="Безлад на {REMAINING_TIME}"/>
     <string id="Bcs9s2tC" text="Right Click to Remove"/>
     <string id="bd7oAQq6" text="Щоденно"/>
-    <string id="bDwTWrru" text="No delay"/>
+    <string id="bDwTWrru" text="Без затримки"/>
     <string id="BEXTcJaS" text="Часом до закінчення"/>
     <string id="bfWlTVjs" text="Remove assignee"/>
     <string id="BgqZWbga" text="The nobles of the realm will dislike you for abandoning your fealty. Are you sure you want to leave the Kingdom?"/>
@@ -200,11 +200,11 @@
     <string id="j3iwQmoA" text="Кількість очок фокусу: {CURRENT_AMOUNT}"/>
     <string id="j4BdjLYp" text="Почати розмову з цим членом клану."/>
     <string id="J5u0uOKc" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} в поселення."/>
-    <string id="J8ddrAOf" text="Governor Effects"/>
+    <string id="J8ddrAOf" text="Ефекти намісника"/>
     <string id="j8uZBakZ" text="{PROPERTIES}"/>
     <string id="jdbT6nc9" text="Each {SUPPORTER_RANK} supporter provides {INFLUENCE_BONUS} per day."/>
     <string id="JIr3Jc7b" text="Relinquish all holdings"/>
-    <string id="jQdBl4hf" text="Governor of "/>
+    <string id="jQdBl4hf" text="Намісник в "/>
     <string id="JRKC4ed4" text="This workshop has not been producing for {DAY} {?PLURAL_DAYS}days{?}day{\?} due to lack of raw materials in the town market."/>
     <string id="JTxI3sW2" text="Besieging {TARGET_SETTLEMENT}"/>
     <string id="jVLJTuwl" text="Learn more"/>
@@ -285,7 +285,7 @@
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}"/>
     <string id="oUz16Nav" text="Reset Tutorial"/>
     <string id="OyyJSyIX" text="{FACTION_1} is paying {DENAR}{GOLD_ICON} as tribute to {FACTION_2}"/>
-    <string id="P0To9aRW" text="Travel time: {TRAVEL_TIME}"/>
+    <string id="P0To9aRW" text="Час у дорозі: {TRAVEL_TIME}"/>
     <string id="P1hk0m4o" text="Ім'я персонажу не повинно містити спеціальні символи"/>
     <string id="P5YtNXHR" text="{.m}Загін{.R_n21_u_p} {LEADER.NAME}{.v_rod}"/>
     <string id="p7raHA9x" text="Refinement"/>
@@ -446,7 +446,7 @@
     <string id="ZIn8W5ZG" text="Worth"/>
     <string id="ZjaSde0X" text="Owned settlements are returned to the kingdom. This will avert a war and nobles will dislike you less for abandoning your fealty."/>
     <string id="zlcMGAbn" text="Попередня сторінка"/>
-    <string id="zLFsnaqR" text="No Governor"/>
+    <string id="zLFsnaqR" text="Нема намісника"/>
     <string id="zrhr4rDA" text="Are you sure you want to disband this army? This will result in relation loss."/>
     <string id="ZUgoQ1Ws" text="Horse Type"/>
     <string id="zWaVxD6T" text="Швидкість загону"/>
