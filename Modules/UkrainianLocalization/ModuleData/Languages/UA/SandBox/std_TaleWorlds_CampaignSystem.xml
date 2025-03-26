@@ -3052,7 +3052,7 @@
     <string id="NGFbn4Qx" text="{VALUE}% шансу збільшити втрати при влучанні під час облогового бомбардування на 1."/>
     <string id="nGsQeTll" text="Perhaps we should discuss a future together..."/>
     <string id="nGWmyZCs" text="Надійні стрільці"/>
-    <string id="NH5N3kP5" text="No governor"/>
+    <string id="NH5N3kP5" text="Нема намісника"/>
     <string id="NhAMSaWU" text="Перегін стада"/>
     <string id="NhDEwaab" text="Well, if you know how to fight... Yes, we could use help. A group of deserters is camped out near here. They come every few weeks, demanding food and money. They've killed two villagers who resisted them. We asked our {?LORD.GENDER}mistress{?}lord{\?}, {LORD.NAME}, for help but {?LORD.GENDER}her{?}his{\?} men never get here in time.[if:convo_stern][ib:closed]"/>
     <string id="NhHzgs5e" text="When, after some time your forces regroup, you take a quick tally of your troops only to see you have lost: {CASUALTIES}."/>
