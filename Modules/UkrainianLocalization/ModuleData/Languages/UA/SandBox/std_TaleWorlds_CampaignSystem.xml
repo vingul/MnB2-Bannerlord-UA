@@ -22,7 +22,7 @@
     <string id="0aU9dtvV" text="Time:"/>
     <string id="0AUYrhGw" text="{VALUE} до ліміту кількості соратників."/>
     <string id="0AUZvSAq" text="{COMPANY_OF_TROUBLE_PERSUADE_ATTEMPT_1}"/>
-    <string id="0aXG8dvJ" text="Make peace with the {KINGDOM_NAME}. No tribute will be paid."/>
+    <string id="0aXG8dvJ" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Данина не сплачуватиметься."/>
     <string id="0B6HlgnN" text="{FIRSTNAME} the Lizard"/>
     <string id="0B91pZ2R" text="Постійне місце, де проходять ярмарки. Громадяни можуть збиратися, випивати, танцювати і спілкуватися, підвищуючи щоденний моральний дух поселення."/>
     <string id="0bPb5btR" text="{LORD.NAME} is a member of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the {FACTION_NAME} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
@@ -192,7 +192,7 @@
     <string id="2ApU6iCB" text="I'll hunt down {TOTAL_COUNT} bands of brigands for you."/>
     <string id="2ATI9qVM" text="Швидкість держакової зброї: +{a0}%"/>
     <string id="2aW6NC3Q" text="Let us discuss the final terms of our marriage."/>
-    <string id="2b1xZGaQ" text="Make peace with the {KINGDOM_NAME}. Our kingdom will pay {T} tribute daily."/>
+    <string id="2b1xZGaQ" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Наше королівство буде платити {T} данини щодня."/>
     <string id="2bcNCnI3" text="{QUEST_GIVER.LINK} asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods for at least {UNIT_PRICE}{GOLD_ICON} per load and return to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} told you that any profit would make above this price is yours to keep."/>
     <string id="2brAaeFh" text="You failed to complete tournaments in time. {QUEST_GIVER.LINK} will certainly be disappointed."/>
     <string id="2BVDp7Tg" text="The {KINGDOM} will stop {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
@@ -2482,7 +2482,7 @@
     <string id="JQKCPllJ" text="You've made your point."/>
     <string id="JQligd8z" text="The council of the {KINGDOM} has chosen {KING.NAME} as the new ruler."/>
     <string id="JQNKrAI3" text="Neutral Faction"/>
-    <string id="jQpeuHIE" text="We oppose making peace at this time"/>
+    <string id="jQpeuHIE" text="Ми виступаємо проти укладання миру зараз"/>
     <string id="jQsr4vDO" text="I'm still working on it."/>
     <string id="jqstr7ZL" text="Навчись запалювати в людях гордість, розбурхувати гнів та розсіювати їхні страхи, і вони перетворяться з людей на левів, які зроблять для тебе усе, що завгодно."/>
     <string id="jrPxbfnb" text="You did me a good turn. I hope I can repay you.[if:convo_focused_happy]"/>
@@ -2550,7 +2550,7 @@
     <string id="KabSHyf0" text="{VALUE}% шкоди від випаду для створеної зброї."/>
     <string id="kaEzJUTW" text="Лідер, що надихає"/>
     <string id="kaJ6SJeI" text="{VALUE}% швидкості пересування лучників вашого підрозділу."/>
-    <string id="kakxnaN5" text="{?SUPPORT}Yes{?}No{\?}"/>
+    <string id="kakxnaN5" text="{?SUPPORT}Так{?}Ні{\?}"/>
     <string id="KAozuVLa" text="{VALUE} комір{#GET_PLURAL_VALUE(VALUE)}ка{#}ки{#}ок{\#} найму при вербуванні у відомих ремісників."/>
     <string id="kaQ7DsW3" text="Character does not have upgrade target."/>
     <string id="kAtxHSu9" text="A great illness swept through your lands. Your child applied what {?CHILD.GENDER}she{?}he{\?} had read in books on nursing fevers and isolating the sick to minimize deaths on your estate."/>
@@ -3061,7 +3061,7 @@
     <string id="nixINYwE" text="Yes of course. It was a pleasure doing business with you.[if:convo_mocking_aristocratic]"/>
     <string id="njbpMLdJ" text="Attackers have been defeated."/>
     <string id="NjMR2ypH" text="{VALUE}% швидкості зцілення під час відпочинку в поселеннях."/>
-    <string id="NjPMRWbW" text="Make peace with the {KINGDOM_NAME}. Our kingdom will receive {T} tribute daily."/>
+    <string id="NjPMRWbW" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Наше королівство буде отримувати {T} данини щодня."/>
     <string id="nJu03DL9" text="{VALUE}% покращення відносин, коли ви сплачуєте більше мінімальної суми при обміні."/>
     <string id="NKTbhIoi" text="{VICTIM.LINK} was lost."/>
     <string id="nKw4eb22" text="{VALUE} боєприпас{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} для метальної зброї."/>
@@ -3116,7 +3116,7 @@
     <string id="nUJfb5VX" text="{VALUE}% доходу від податків з підконтрольного поселення."/>
     <string id="NUlVFRtK" text="You are at your prime, You still have some youthful energy but also have a substantial amount of experience under your belt. "/>
     <string id="nunbdOY1" text="{FIRSTNAME} the Supplier"/>
-    <string id="nuqv4GAA" text="We have too many enemies. We need to make peace with at least some of them."/>
+    <string id="nuqv4GAA" text="У нас занадто багато ворогів. Нам потрібно укласти мир хоча б з деякими з них."/>
     <string id="NuYzgBZB" text="You are going too far. The {KINGDOM} won't stand for the destruction of its caravans."/>
     <string id="nV1xbbM6" text="So I hear {ENEMY_NAME} burned and pillaged {VILLAGE_NAME}. Bastards..."/>
     <string id="nvaLVB5f" text="Tell me your needs."/>
