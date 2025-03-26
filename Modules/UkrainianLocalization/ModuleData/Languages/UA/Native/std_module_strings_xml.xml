@@ -886,7 +886,7 @@
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}"/>
     <string id="jiKRLWD4" text="Show in encyclopedia"/>
     <string id="jIZcOvMT" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} був страчений."/>
-    <string id="JkpSoFQ8" text="Casualties Inflicted"/>
+    <string id="JkpSoFQ8" text="Втрати"/>
     <string id="JKQjXH9M" text="двадцять {.m}сьомий{.R_adj}"/>
     <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
     <string id="JnoB0RZ4" text="Execute {?DYING_HERO.GENDER}Her{?}Him{\?}"/>
@@ -993,7 +993,7 @@
     <string id="LJwKdMdw" text="Wait for your opponent to get into position"/>
     <string id="lKIHqkAV" text="{.m}сімнадцятий{.R_adj}"/>
     <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
-    <string id="Ll90uaxu" text="Successful Sieges"/>
+    <string id="Ll90uaxu" text="Успішні облоги"/>
     <string id="lNADu8JO" text="Ролі"/>
     <string id="lnKAqDVM" text="Defend key position"/>
     <string id="lockverb" text="Заблокувати"/>
@@ -1435,7 +1435,7 @@
     <string id="tMg5AF19" text="Can't access quests right now!"/>
     <string id="TmKbTxQy" text="khatun"/>
     <string id="TNLRC4Gf" text="Бийтеся одноручною короткою зброєю."/>
-    <string id="tnZ7BfO9" text="Peace Proposal"/>
+    <string id="tnZ7BfO9" text="Пропозиція миру"/>
     <string id="toK51MD4" text="Відвідати"/>
     <string id="tpjGRDHP" text="Duel has ended. Hold {leave_key} to leave."/>
     <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are doing hit and run."/>
@@ -1600,7 +1600,7 @@
     <string id="wZnsFoQ6" text="I don't think we have met properly my friend. You just saved my life out there, and I still don't know your name..."/>
     <string id="wZovddJ9" text="{PRISONER.NAME}, {?PRISONER.GENDER}яка перебувала{?}який перебував{\?} у вас в полоні, {?PRISONER.GENDER}втекла{?}втік{\?}."/>
     <string id="WZTRH6W9" text="Виконавці"/>
-    <string id="X1tny9v2" text="Successful Raids"/>
+    <string id="X1tny9v2" text="Успішні набіги"/>
     <string id="x2mSJAVa" text="A player wins if his opponent has only one or no pawns left.{newline}{newline}Another way to win is by constructing a barrier that has all of the pawns of the opposing player on one side. When a barrier has been constructed, the player with the most pawns left wins."/>
     <string id="X4qO3jBf" text="{?RULER.GENDER}Banmormaer{?}Mormaer{\?} {RULER.NAME}"/>
     <string id="XaCbpDUv" text="We should patrol this area for a while."/>
