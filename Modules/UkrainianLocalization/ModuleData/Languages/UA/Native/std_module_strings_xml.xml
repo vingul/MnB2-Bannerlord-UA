@@ -87,7 +87,7 @@
     <string id="3CsACce8" text="Вихід"/>
     <string id="3cTKRX1M" text="Never seen before"/>
     <string id="3Ds5ARHL" text="Merchant"/>
-    <string id="3E0ZXV7j" text="Decision Outcome"/>
+    <string id="3E0ZXV7j" text="Прийняте рішення"/>
     <string id="3EGllWkd" text="northern imperial"/>
     <string id="3fAm8FaM" text="So be it... As my father says, a journey's not worthy of the name if you don't get to kill anyone."/>
     <string id="3FUaZk5A" text="My lady"/>
@@ -184,7 +184,7 @@
     <string id="6SFktFH3" text="Medium Armor"/>
     <string id="6UUymZhL" text="the Empire"/>
     <string id="6Xl9F8Oa" text="Міські крамниці"/>
-    <string id="6XYG7bux" text="You're going to spend {AMOUNT}{INFLUENCE_ICON}"/>
+    <string id="6XYG7bux" text="Ви витратите {AMOUNT}{INFLUENCE_ICON}"/>
     <string id="72Rasm5f" text="We have nothing - no silver, no wares."/>
     <string id="7663BDwd" text="Гарнізони ({CURRENT})"/>
     <string id="77aNVVE0" text="Renown Bonus"/>
@@ -451,7 +451,7 @@
     <string id="c1g7MC9D" text="Бонус від рівня клану"/>
     <string id="c3cdHImi" text="Capture your opponent's pawns by surrounding them on both sides. If a pawn moves in between two opposing pawns, it does not get captured.{newline}In the first two images, white pawns get captured by the black pawns. In the last two, there are no captures."/>
     <string id="c4Pmtkle" text="Їздові тварини та упряж"/>
-    <string id="c6Ei8Fqh" text="Vassal of the {FACTION_INFORMAL_NAME}"/>
+    <string id="c6Ei8Fqh" text="Васал {FACTION_INFORMAL_NAME}{.v_rod}"/>
     <string id="C6n2tZlQ" text="my ally {REFERING_HERO.LINK}"/>
     <string id="c7bVbjD7" text="As you wish. From now on, we fight for you."/>
     <string id="C9EDof32" text="No Army Selected"/>
@@ -559,7 +559,7 @@
     <string id="E05lmb5n" text="Ваші відносини з {HERO_NAME}{.v_oru} &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;погіршаться&lt;/b&gt;&lt;/a&gt;"/>
     <string id="E0lb2Z2r" text="On {DAY_OF_YEAR}, {YEAR}, the conspiracy against the Empire succeeded in uniting its foes, as the armies of {FACTION_NAMES} took the field together."/>
     <string id="e1tZ4kEY" text="All Stuff"/>
-    <string id="e4OPfBqt" text="Abstain"/>
+    <string id="e4OPfBqt" text="Утриматися"/>
     <string id="eAGeVRjI" text="Ви отримали {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="EAicirVE" text="Fearless"/>
     <string id="eaIQXj6O" text="Доступні очки характеристик: {NUMBER}"/>
@@ -624,7 +624,7 @@
     <string id="exwifemotherinlaw" text="Former mother-in-law"/>
     <string id="exwifesisterinlaw" text="Former sister-in-law"/>
     <string id="ey5OcaGI" text="Can't be used with Shields"/>
-    <string id="eyMU7X0e" text="You're a lord and voting. The ruler will vote in the end and decide the outcome."/>
+    <string id="eyMU7X0e" text="Ви — лорд і голосуєте. Правитель проголосує в кінці і вирішить результат."/>
     <string id="EZLs7hLL" text="You! Stop! Give us your silver. We're not playing games.[if:convo_angry]"/>
     <string id="EzrK2tnA" text="You cannot manage your army while in battle"/>
     <string id="F3U9AtmF" text="{.m}дев'ятий{.R_adj}"/>
@@ -966,7 +966,7 @@
     <string id="KZAQHSa2" text="Yet the prosperity is clearly not benefiting everyone equally. People seem angry, complaining endlessly about new rural migrants, rising prices, and those who are profiting more than others."/>
     <string id="L1Q4AysI" text="Прибуток"/>
     <string id="L3EE8bmx" text="Ніхто у вашому загоні не має достатнього рівня уміння «{SKILL}», щоб виконати це замовлення. (Необхідно ще {AMOUNT} очк{#GET_PLURAL_VALUE(AMOUNT)}о{#}и{#}ів{\#})"/>
-    <string id="l4uTnJct" text="You need to select an outcome and how much you want to support that outcome."/>
+    <string id="l4uTnJct" text="Вам необхідно обрати бажаний варіант і визначити, наскільки сильно ви підтримуєте свій вибір."/>
     <string id="l57Dk2DQ" text="Dungeon Limit Exceeded ({TROOP_NUMBER} prisoners)"/>
     <string id="l6a3grfK" text="your party"/>
     <string id="L7qKijnE" text="{ITEM_NAME}, виграний {.S}{COMPANION.NAME}{.v_oru}, додано до вашого інвентарю."/>
@@ -1162,7 +1162,7 @@
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
     <string id="OLKGQGHU" text="I am lord of {TOWNS}."/>
     <string id="OLyjbawD" text="[More]"/>
-    <string id="OLZqZZF3" text="If you proceed, {GOVERNOR.NAME} will travel for {TRAVEL_DURATION} to become the new governor of {SETTLEMENT_NAME}. While traveling, {GOVERNOR.NAME} will not be available and you will not be able to change the governor of {SETTLEMENT_NAME} until {GOVERNOR.NAME} arrives. Are you sure?"/>
+    <string id="OLZqZZF3" text="Якщо продовжите, {GOVERNOR.NAME} прибуде за {TRAVEL_DURATION}, щоб стати новим намісником {SETTLEMENT_NAME}{.v_rod}. Під час подорожі {GOVERNOR.NAME} буде недоступний і ви не зможете змінити намісника {SETTLEMENT_NAME}{.v_rod}, поки він не прибуде. Ви впевнені?"/>
     <string id="ONGv27TH" text="Now out of my sight, you mangy cringing cur!"/>
     <string id="OnttNMRn" text="Shield IV"/>
     <string id="Ooqyo9RB" text="Пропустити"/>
@@ -1396,7 +1396,7 @@
     <string id="SRYuaoh1" text="Цей регіон охоплений громадянськими заворушеннями, але люди продовжують займатися своїми повсякденними справами. Здебільшого вони не затримуються на ринках і не дивляться один одному в очі. Але в селах можна почути тихі розмови про повстанців. Одні, здається, бояться повстанців, інші потай радіють, що багаті і сильні світу цього, хоча б на деякий час, втратили свою владу."/>
     <string id="strcharactertypelady" text="Леді"/>
     <string id="stS5PBIr" text="Preacher"/>
-    <string id="svArZT0G" text="Details"/>
+    <string id="svArZT0G" text="Подробиці"/>
     <string id="Svem1NiV" text="Your opponent has been knocked unconscious and you are the winner!"/>
     <string id="svnxJA0L" text="{HERO} doesn't have enough {SKILL} skill to craft this weapon."/>
     <string id="Svtb9MQv" text="Duel"/>
@@ -1684,7 +1684,7 @@
     <string id="YOSEIvyf" text="Збалансованість: "/>
     <string id="yQiDdDPY" text="Light Horse"/>
     <string id="yRQDL2ab" text="Гарнізон:"/>
-    <string id="yRTV90eN" text="You need to select an outcome."/>
+    <string id="yRTV90eN" text="Вам необхідно обрати бажаний варіант."/>
     <string id="yrvH6Oa1" text="Wait in the starting position!"/>
     <string id="ySlVPZyF" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
     <string id="YSM0lxns" text="Cost"/>
