@@ -92,7 +92,7 @@
     <string id="BqLsZhhr" text="Select an item to refine"/>
     <string id="btoiLePb" text="{HERO} ({PLACE})"/>
     <string id="BV5exuPf" text="Remove From Bookmarks"/>
-    <string id="C2qpwFq5" text="Owner of {SETTLEMENTS}"/>
+    <string id="C2qpwFq5" text="Власник {SETTLEMENTS}{.v_rod}"/>
     <string id="c5eYzHaM" text="{DAYS} {#GET_PLURAL_VALUE(DAYS)}день{#}дні{#}днів{\#} ({PERCENTAGE}%)"/>
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Довжина: "/>
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Шкода при зіткненні: "/>
@@ -137,7 +137,7 @@
     <string id="EQHq3bHM" text="Прямує до {TARGET_PARTY}{.v_rod}"/>
     <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}"/>
-    <string id="F0a7hyp0" text="Risk of rebellion"/>
+    <string id="F0a7hyp0" text="Ризик повстання"/>
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Торгові плітки"/>
     <string id="f4nc7FfE" text="Покращити до {.S}{UPGRADE_NAME}{.v_rod}"/>
     <string id="f6vTzVar" text="Does not have a mobile party."/>
@@ -260,7 +260,7 @@
     <string id="NRpbagbZ" text="Втікає до {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="nuK4Afnr" text="Party is not eligible to join the army."/>
     <string id="NVUi4bB9" text="When the warehouse is full, the workshop will sell the products to the town market"/>
-    <string id="NxEy5Nbt" text="High risk of rebellion"/>
+    <string id="NxEy5Nbt" text="Високий ризик повстання"/>
     <string id="nYYUQQm0" text="Swing Damage Factor "/>
     <string id="o5G8A8ZH" text="Ваші динари"/>
     <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
@@ -380,7 +380,7 @@
     <string id="U3ksQXD3" text="Give Away"/>
     <string id="UbZL2BJQ" text="Hitpoints"/>
     <string id="udPWHmOm" text="Складність:"/>
-    <string id="uGMGjUZy" text="Send your clan members to {SETTLEMENT_NAME}"/>
+    <string id="uGMGjUZy" text="Відправити членів свого клану в {SETTLEMENT_NAME}{.v_zna}"/>
     <string id="UHLcmf9A" text="Ліміт кількості полонених загону"/>
     <string id="uipNpzVw" text="Cannot disband the army right now."/>
     <string id="uJro3Bua" text="Over Limit"/>
