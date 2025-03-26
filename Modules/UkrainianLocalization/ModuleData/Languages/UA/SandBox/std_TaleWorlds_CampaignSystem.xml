@@ -231,7 +231,7 @@
     <string id="2PPwmNmg" text="I can escort you for 10 days. After that, I must return to my own affairs."/>
     <string id="2PVm7NON" text="Співучасники"/>
     <string id="2Qx4bL66" text="The ruler has a monopoly on certain goods, although practically he can license out production to merchants and collect a portion of the proceeds."/>
-    <string id="2qZ81jPG" text="Owner of {SETTLEMENT_NAME}"/>
+    <string id="2qZ81jPG" text="Власник {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="2rPMYl7Y" text="Ватажок селян"/>
     <string id="2ryLuN2i" text="Сім ветеранів"/>
     <string id="2Rzw16OX" text="If you can advance to win the tournament, I'm sure that will do us both honor.[ib:hip2][if:convo_relaxed_happy]"/>
@@ -1028,7 +1028,7 @@
     <string id="AzmriKR8" text="I have hardly heard of you, {PLAYER.NAME}. Go fight a few bandits, make a name for yourself. Then we can talk."/>
     <string id="b0ak3yGV" text="Лють"/>
     <string id="b0m2DxeG" text="I have a quick question."/>
-    <string id="B0uKPW9S" text="Vote for the next ruler of {KINGDOM_NAME}"/>
+    <string id="B0uKPW9S" text="Голосувати за наступного правителя {KINGDOM_NAME}{.v_rod}"/>
     <string id="b0w3Fruf" text="{VALUE}% очок здоров'я їздовим тваринам воїнів вашого підрозділу."/>
     <string id="b0WQfzNb" text="{QUEST_GIVER.LINK} the {?QUEST_GIVER.GENDER}lady{?}lord{\?} of {TARGET_SETTLEMENT} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} wanted to grant revenue collection rights to a commander of good reputation who has enough men to suppress any resistance. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to visit all the villages that are bound to {TARGET_SETTLEMENT} and collect taxes and rents. You have agreed to collect the revenues after paying {QUEST_GIVER.LINK}'s share, {REQUESTED_DENARS}{GOLD_ICON} denars."/>
     <string id="B0YOpGsZ" text="Any news about my prisoners?[if:convo_mocking_teasing][ib:hip]"/>
@@ -3190,7 +3190,7 @@
     <string id="Oe1NdVLe" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} не виганяти клан {CLAN} з {.S}{KINGDOM}{.v_rod}, хоч думки в {?RULER.GENDER}її{?}його{\?} раді з цього питання й розділилися порівну."/>
     <string id="oE5etyy0" text="Штраф до швидкості і перезаряджання вашої зброї верхи: {a0}%"/>
     <string id="Oe5Tf7OZ" text="My foes may not fear my sword, but they should fear my cunning."/>
-    <string id="Of7XnP5c" text="Vote for the new owner of {SETTLEMENT_NAME}"/>
+    <string id="Of7XnP5c" text="Голосувати за нового власника {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="OFMYfDPZ" text="{VALUE}% додаткового досвіду для воїнів дальнього бою у вашому загоні після кожної битви."/>
     <string id="ogdIceFH" text="You? No, that's forbidden."/>
     <string id="OgkSLkFi" text="There is nobody in the lord's hall."/>
@@ -3517,7 +3517,7 @@
     <string id="QJVbCLbl" text="Keep safe, husband."/>
     <string id="qjvDsu8u" text="Металургія"/>
     <string id="QkbbLb4v" text="Шкода від дворучної зброї: +{a0}%"/>
-    <string id="QKIxepj5" text="The lordship of this fief should go to the {RECIPIENT.CLAN}"/>
+    <string id="QKIxepj5" text="Ця власність має перейти до {RECIPIENT.CLAN}{.v_rod}"/>
     <string id="QKjF5gTR" text="Розсудливість відображає вашу здатність контролювати свої емоції заради довгострокових інтересів."/>
     <string id="QKNWsJRb" text="Let {PARTY} Go"/>
     <string id="qKrUyqsD" text="Of course, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. But sieges are always costly..."/>
@@ -4600,7 +4600,7 @@
     <string id="XLswis9W" text="I will lend you one of my best lieutenants and {TROOP_COUNT} men."/>
     <string id="xm4eEbQY" text="{VALUE}% торгового штрафу за торгівлю їздовими тваринами."/>
     <string id="xM5aawCj" text="Різкий змах"/>
-    <string id="xM97H0oR" text="Vote for declaring war on the {KINGDOM_NAME}."/>
+    <string id="xM97H0oR" text="Голосувати за оголошення війни {KINGDOM_NAME}{.v_dav}."/>
     <string id="XMaeSoRq" text="ніколи не підведе свою охорону."/>
     <string id="xmETCOam" text="Daggers. Good, sharp, light daggers that they can hide under their clothes, so the guards won't stop them. We want to order {REQUESTED_AMOUNT} daggers and I guarantee a minimum of {REWARD_PER_DAGGER} denars for each, more if they're of exceptional quality. Also I can arrange things with the smith of {QUEST_SETTLEMENT} for you to work in his workshop."/>
     <string id="XmGjTZz0" text="{?QUEST_GIVER.GENDER}Lady{?}Lord{\?} Needs A Tutor"/>
@@ -5001,7 +5001,7 @@
     <string id="Zw95lDI3" text="Hmm.. That might not work out."/>
     <string id="zWILNszA" text="You may have a point, but don't think that we will give up demanding our rights. We will return home, but we will pursue our grievances some other way."/>
     <string id="zwNjgdbi" text="My boys are getting ready for the battle. I'm pretty sure your men will tip the balance of that fight in our favor. Thank you."/>
-    <string id="ZwpWX8Zx" text="Vote for expelling {CLAN_NAME} from the kingdom"/>
+    <string id="ZwpWX8Zx" text="Голосувати за вигнання {CLAN_NAME}{.v_rod} з королівства"/>
     <string id="zWTNOfHm" text="I want you and if you want me, that should be enough!"/>
     <string id="Zwy8JybD" text="Після певного часу, проведеного в пошуках, в темних і брудних заковулках міста ви нарешті знаходите таверну. Вона, схоже, приваблює свій звичний люд."/>
     <string id="Zx1ZEl6Q" text="You ordered your troops to fight back. In the heat of the brawl, one of the young men was struck on the head and killed. His death greatly upset the villagers."/>
