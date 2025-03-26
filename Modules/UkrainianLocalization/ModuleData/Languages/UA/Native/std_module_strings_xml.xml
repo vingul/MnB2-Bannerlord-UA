@@ -614,7 +614,7 @@
     <string id="Ew11a1Tx" text="Catapult"/>
     <string id="EWa1R7bv" text="Вороги "/>
     <string id="EWq48MmD" text="{LEFT}: {RIGHT}"/>
-    <string id="EWRoIdbA" text="{.p}Бандит{.R_n20_p}"/>
+    <string id="EWRoIdbA" text="{.p}Бандит{.R_n20_p_pz}"/>
     <string id="exhusbandbrotherinlaw" text="Former brother-in-law"/>
     <string id="exhusbandfatherinlaw" text="Former father-in-law"/>
     <string id="exhusbandmotherinlaw" text="Former mother-in-law"/>
