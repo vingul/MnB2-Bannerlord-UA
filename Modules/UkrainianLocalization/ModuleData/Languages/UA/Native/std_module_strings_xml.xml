@@ -293,8 +293,8 @@
     <string id="aaQtzfjL" text="Well done, {?PLAYER.GENDER}madam{?}sir{\?}. Keep the money and wine coming our way, and there's no foe in Calradia you need fear.[ib:convo_approving]"/>
     <string id="aayrvLOX" text="Be on your way. Safe journeys."/>
     <string id="abbALYlp" text="Ballista"/>
-    <string id="aBgnQ1MO" text="Assign Governor"/>
-    <string id="aBssWwIu" text="Якщо ви продовжите, {GOVERNOR.NAME} стане новим губернатором {.S}{SETTLEMENT_NAME}{.v_rod}. Ви впевнені?"/>
+    <string id="aBgnQ1MO" text="Призначення намісника"/>
+    <string id="aBssWwIu" text="Якщо продовжите, {GOVERNOR.NAME} стане новим намісником поселення «{SETTLEMENT_NAME}». Ви впевнені?"/>
     <string id="abV5bff6" text="You capture a pawn."/>
     <string id="acbkKbT0" text="We should do something different."/>
     <string id="aCkzVUCR" text="Очки здоров'я: "/>
@@ -1047,7 +1047,7 @@
     <string id="minuteabbr" text="m"/>
     <string id="mJB7knQo" text="Pull back"/>
     <string id="mJE0o9Zi" text="Гарнізони"/>
-    <string id="mJkJWccN" text="If you proceed, you will remove {GOVERNOR.NAME} from being the governor of {SETTLEMENT_NAME}. Are you sure?"/>
+    <string id="mJkJWccN" text="Якщо ви продовжите, то усунете {.S}{GOVERNOR.NAME}{.v_zna} з посади намісника поселення «{SETTLEMENT_NAME}». Ви впевнені?"/>
     <string id="MLmHSSg0" text="Heavy Cavalry"/>
     <string id="MmNF7sW7" text="Moving pawns is only possible by capturing pawns from your opponent.{newline}Capturing is done by orthoginally jumping over 1 or more opposing pawns."/>
     <string id="Mms9bbhY" text="{DAY_NUM} {#GET_PLURAL_VALUE(DAY_NUM)}день{#}дні{#}днів{\#}"/>
@@ -1279,7 +1279,7 @@
     <string id="qhhLVJAC" text="&lt;b&gt;Preparations&lt;/b&gt;"/>
     <string id="qHkTYCy0" text="Ваші війська отримають {XP_AMOUNT} очк{#GET_PLURAL_VALUE(XP_AMOUNT)}о{#}и{#}ів{\#} досвіду."/>
     <string id="qKg44yWp" text="Priority"/>
-    <string id="QKGVAVcc" text="Governor Perks"/>
+    <string id="QKGVAVcc" text="Здібності намісника"/>
     <string id="QL2t7D44" text="До ліміту майстерень"/>
     <string id="ql8Xr5ap" text="Siege Battle{newline}{newline}• Archers suffer major penalty while attacking.{newline}• Cavalry suffer medium penalty while attacking.{newline}• Horse archers suffer severe penalty while attacking."/>
     <string id="QlaGZAHq" text="New reinforcements have arrived!"/>
@@ -1427,7 +1427,7 @@
     <string id="TeWnL9bh" text="my husband {REFERING_HERO.LINK}"/>
     <string id="TgtdcMGS" text="A fly that wiggles and struggles a bit - we can handle that.."/>
     <string id="thIebQAR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are riding in vanguard."/>
-    <string id="ThZdJyVW" text="Remove Governor"/>
+    <string id="ThZdJyVW" text="Усунення намісника"/>
     <string id="Ti2GeG0U" text="Upon selection, this option will block one random option."/>
     <string id="ti5FwD4t" text="Unknown Party"/>
     <string id="TlP31w8l" text="Bricole"/>
