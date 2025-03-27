@@ -22,7 +22,7 @@
     <string id="0mDkVTWn" text="Герої"/>
     <string id="0qCbsOif" text="Pistol"/>
     <string id="0RkO7oHP" text="captain"/>
-    <string id="0rsySqR6" text="On {DAY_OF_YEAR}, {YEAR}, you heard of a conspiracy working in the shadows to forge the enemies of the Empire into an alliance."/>
+    <string id="0rsySqR6" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року ви дізналися про таємну змову, яка має на меті об'єднати ворогів Імперії в союз."/>
     <string id="0T3bP5r6" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#}"/>
     <string id="0V4jIIju" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для облоги."/>
     <string id="0zNzaDGq" text="Blade"/>
@@ -40,7 +40,7 @@
     <string id="1KcIeYe2" text="You need to be in the same location as the character in order to talk to them"/>
     <string id="1klXxZFS" text="I am lady of {TOWNS}."/>
     <string id="1Llb4gGw" text="Завершення"/>
-    <string id="1m8zRjs8" text="On {DAY_OF_YEAR}, {YEAR}, {CLAN_NAME} joined the {KINGDOM_FORMALNAME}."/>
+    <string id="1m8zRjs8" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року клан {CLAN_NAME} приєднався до {.S}{KINGDOM_FORMALNAME}{.v_rod}."/>
     <string id="1MStGeRa" text="Beaten opponent: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1o1TyPib" text="До ліміту соратників"/>
     <string id="1PwQxaOu" text="Здається, підготовка до турніру йде повним ходом."/>
@@ -82,7 +82,7 @@
     <string id="300TAI7u" text="Продати все"/>
     <string id="33ghdWWi" text="Other Policies"/>
     <string id="33hHRM8r" text="Opponent's Turn"/>
-    <string id="36hbMBhb" text="On {DAY_OF_YEAR}, {YEAR}, the {FORMAL_NAME} was destroyed. It will not fulfil its destiny to {?PLAYER_WANTS_RESTORE}restore{?}destroy{\?} the Empire as you had hoped."/>
+    <string id="36hbMBhb" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {.S}{FORMAL_NAME}{.v_rod} було знищено, не виконавши свого призначення — {?PLAYER_WANTS_RESTORE}відновити{?}знищити{\?} Імперію."/>
     <string id="3CpNUnVl" text="Скасувати"/>
     <string id="3CsACce8" text="Вихід"/>
     <string id="3cTKRX1M" text="Never seen before"/>
@@ -149,7 +149,7 @@
     <string id="5k4dxUEJ" text="Воїни"/>
     <string id="5kS1qjZL" text="There is already an unresolved decision on this settlement."/>
     <string id="5lDYh7wJ" text="You've constructed a barrier against your opponent, but have fewer pawns left. You lost the game!"/>
-    <string id="5lT70YJY" text="On {DAY_OF_YEAR}, {YEAR}, you heard rumors of a secret pact being forged between the rival imperial factions so that they can combine their forces against the enemies of the empire."/>
+    <string id="5lT70YJY" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року до вас дійшли чутки про укладання таємного пакту між ворогуючими імперськими фракціями про об'єднання своїх сил проти ворогів імперії."/>
     <string id="5pGjYBFn" text="Tribute Received"/>
     <string id="5QN7SFNW" text="III"/>
     <string id="5rj7xQE4" text="{.m}Лук{.R_n20_u_zi_p}"/>
@@ -194,7 +194,7 @@
     <string id="7acrOvmJ" text="Ranged Weapons I"/>
     <string id="7AOOQ5iB" text="Despite the hardship, you hear few murmurs of complaint, and people seem to trust their rulers to lead them through adversity."/>
     <string id="7aYV4L9z" text="+{NUMBER}"/>
-    <string id="7b60SOvI" text="On {DAY_OF_YEAR}, {YEAR}, {KING_NAME} was crowned as {TITLE_NAME}."/>
+    <string id="7b60SOvI" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {KING_NAME} {?IS_KING_MALE}отримав{?}отримала{\?} титул {TITLE_NAME}."/>
     <string id="7chepLLh" text="Destroy siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
     <string id="7cMUohRm" text="Керуйте автобитвами. Вигравайте битви проти домінуючих сил противника. Уникайте зіткнень, навіть жертвуючи військами, якщо цього вимагає ситуація."/>
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
@@ -314,7 +314,7 @@
     <string id="aH4KnzBu" text="Обережний"/>
     <string id="AhcKMabs" text="Raided villages"/>
     <string id="aHKwty74" text="Cancel Action"/>
-    <string id="aHu7bgbx" text="On {DAY_OF_YEAR}, {YEAR}, {HERO_NAME} came of age."/>
+    <string id="aHu7bgbx" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {HERO_NAME} {?HERO_NAME.GENDER}досягла{?}досяг{\?} повноліття."/>
     <string id="AI2Spvw0" text="Pick"/>
     <string id="AIh1Ik4A" text="Calradian Empire"/>
     <string id="aiX4b5kS" text="Завершені завдання"/>
@@ -339,7 +339,7 @@
     <string id="ar2Y8Xs9" text="{LEFT}: "/>
     <string id="aR4e8B2A" text="II"/>
     <string id="archers" text="Стрільці"/>
-    <string id="arfabNbu" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} died in battle."/>
+    <string id="arfabNbu" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} {?NAME.GENDER}загинула{?}загинув{\?} у битві."/>
     <string id="arHXmqqc" text="a beg"/>
     <string id="ARQY0vAz" text="Can't manage the army during an encounter"/>
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines."/>
@@ -557,7 +557,7 @@
     <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging at {?IS_PLURAL}different enemy formations{?}an enemy formation{\?}."/>
     <string id="Dzntsudy" text="You have inflicted {AMOUNT} {DAMAGE_TYPE} damage to {VICTIM_NAME} ({LOST_HP_PERCENTAGE}% HP)."/>
     <string id="E05lmb5n" text="Ваші відносини з {HERO_NAME}{.v_oru} &lt;a style=&quot;DecreaseStyle&quot; &gt;&lt;b&gt;погіршаться&lt;/b&gt;&lt;/a&gt;"/>
-    <string id="E0lb2Z2r" text="On {DAY_OF_YEAR}, {YEAR}, the conspiracy against the Empire succeeded in uniting its foes, as the armies of {FACTION_NAMES} took the field together."/>
+    <string id="E0lb2Z2r" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року змова проти Імперії зуміла об'єднати її ворогів і армії {.S}{FACTION_NAMES}{.v_rod} вийшли на поле бою разом."/>
     <string id="e1tZ4kEY" text="All Stuff"/>
     <string id="e4OPfBqt" text="Утриматися"/>
     <string id="eAGeVRjI" text="Ви отримали {GOLD_AMOUNT}{GOLD_ICON}."/>
@@ -676,7 +676,7 @@
     <string id="fTyJB9wd" text="двадцять {.m}четвертий{.R_adj}"/>
     <string id="fUNa6FAo" text="During battles, holding down {MISSION_INDICATORS_KEY} shows markers on enemy and allied formations."/>
     <string id="FuxkL78G" text="{YEAR} {?YEAR_IS_PLURAL}years{?}year{\?}"/>
-    <string id="FuYivUV1" text="On {DAY_OF_YEAR}, {YEAR}, you pledged allegiance to {RULER.NAME}, hoping that {?RULER.GENDER}she{?}he{\?} will lead the fight to {?PLAYER_WANTS_RESTORE}restore{?}defeat{\?} the Empire."/>
+    <string id="FuYivUV1" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року ви присягнули на вірність {.S}{RULER.NAME}{.v_dav}, сподіваючись, що {?RULER.GENDER}вона{?}він{\?} очолить боротьбу за {?PLAYER_WANTS_RESTORE}відновлення{?}повалення{\?} Імперії."/>
     <string id="FVEvjlis" text="Party Size Limit Exceeded"/>
     <string id="fveVnpbZ" text="kinsman"/>
     <string id="FvYhaE3z" text="Banner"/>
@@ -733,7 +733,7 @@
     <string id="GPESFoWD" text="Onager"/>
     <string id="GPW3ku2Y" text="{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}"/>
     <string id="gQCEJvmf" text="daughter"/>
-    <string id="GralaKWi" text="On {DAY_OF_YEAR}, {YEAR}, a child was born to {FATHER_NAME} and {MOTHER_NAME}."/>
+    <string id="GralaKWi" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року в сім'ї {.S}{FATHER_NAME}{.v_rod} та {.S}{MOTHER_NAME}{.v_rod} народилася дитина."/>
     <string id="Gre2v55i" text="Влада: {POWER}"/>
     <string id="GRX8NjWI" text="Размір"/>
     <string id="gSVaitFE" text="Raiding {SETTLEMENT_NAME}"/>
@@ -885,7 +885,7 @@
     <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions of the castle."/>
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}"/>
     <string id="jiKRLWD4" text="Show in encyclopedia"/>
-    <string id="jIZcOvMT" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} був страчений."/>
+    <string id="jIZcOvMT" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} {?NAME.GENDER}була страчена{?}був страчений{\?}."/>
     <string id="JkpSoFQ8" text="Втрати"/>
     <string id="JKQjXH9M" text="двадцять {.m}сьомий{.R_adj}"/>
     <string id="jM9KGCIa" text="{?RULER.GENDER}Emira{?}Emir{\?} {RULER.NAME}"/>
@@ -902,8 +902,8 @@
     <string id="jtN3ayKE" text="Основна продукція"/>
     <string id="JTyC3Xra" text="Скупий"/>
     <string id="Ju9ZiFT2" text="Melee Weapons V"/>
-    <string id="Jw4oiIM4" text="On {DAY_OF_YEAR}, {YEAR}, {KING_NAME} was annointed {?IS_KING_MALE}Emperor{?}Empress{\?} of Calradia"/>
-    <string id="jxatfzXh" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} died of natural causes."/>
+    <string id="Jw4oiIM4" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {.S}{KING_NAME}{.v_zna} було проголошено {?IS_KING_MALE}Імператором{?}Імператрицею{\?} Кальрадії."/>
+    <string id="jxatfzXh" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} {?NAME.GENDER}померла{?}помер{\?} від старості."/>
     <string id="K0mlQblA" text="Daily food consumption of army"/>
     <string id="K0XVOalL" text="Поточна ставка"/>
     <string id="K2G3XJwZ" text="Hotheaded"/>
@@ -1064,7 +1064,7 @@
     <string id="MUCmJaXQ" text="Правитель {FACTION_INFORMAL_NAME}{.v_rod}"/>
     <string id="MUStU7ab" text="brother"/>
     <string id="MW8rlyfL" text="Метальне"/>
-    <string id="MWatMKoP" text="On {DAY_OF_YEAR}, {YEAR}, the secret pact between the imperial factions was revealed, as the armies of the former rivals took the field together."/>
+    <string id="MWatMKoP" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року було розкрито таємний пакт між імперськими фракціями, коли армії колишніх противників вийшли на поле бою разом."/>
     <string id="MWByKPst" text="Generals"/>
     <string id="mwegfVKr" text="Cerebral"/>
     <string id="MWGATOoz" text="Турнір буде проходити у форматі групових боїв ближнього бою."/>
@@ -1405,7 +1405,7 @@
     <string id="SYm7rgCX" text="{COMPANION.LINK} has left your party."/>
     <string id="szSjkkyl" text="Треба обрати нашу наступну ціль."/>
     <string id="T0aULilA" text="&lt;b&gt;Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than just ladders"/>
-    <string id="t1hYTrMR" text="On {DAY_OF_YEAR}, {YEAR}, a realm fell. The {FORMAL_NAME} is no more."/>
+    <string id="t1hYTrMR" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року королівство впало. {.S}{FORMAL_NAME}{.v_rod} більше не існує."/>
     <string id="T3JJ7aIV" text="Скачіть по карті з якомога більшою швидкістю. Бийтеся на коні, отримуючи бонус до швидкості."/>
     <string id="T592iYI4" text="You roll a {DICE_ROLL}."/>
     <string id="T5VsEnNE" text="Men Count"/>
@@ -1582,7 +1582,7 @@
     <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}"/>
     <string id="WlV9cE5E" text="Mercenaries cannot propose war policies."/>
     <string id="wmpwMa8j" text="{?IS_POSITIVE}+{?}-{\?}{CHANGE}"/>
-    <string id="wNHfL0x0" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} поліг у бою."/>
+    <string id="wNHfL0x0" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} {?NAME.GENDER}полягла{?}поліг{\?} у бою."/>
     <string id="wNjhpOOM" text="Apply Exchange"/>
     <string id="wshehbFu" text="Mercenaries cannot disband armies."/>
     <string id="WSoZkkqD" text="Prison Guard"/>
@@ -1660,7 +1660,7 @@
     <string id="yBnwGiuB" text="Лорд"/>
     <string id="Yc4xzip6" text="Do you want to execute {NAME}?"/>
     <string id="YCYwPPlJ" text="Вимкнути навчання"/>
-    <string id="YeaFZzXS" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {LEADER_NAME} оголосив про створення нового королівства — {KINGDOM_NAME}."/>
+    <string id="YeaFZzXS" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {LEADER_NAME} {?LEADER_NAME.GENDER}оголосила{?}оголосив{\?} про створення нового королівства — {KINGDOM_NAME}."/>
     <string id="yeEaBV29" text="We'll take it. You can live. Now go before I change my mind.[ib:closed][if:convo_normal]"/>
     <string id="yenZGMzi" text="Прискорити час"/>
     <string id="YevUiidU" text="Ваші відносини з {CLAN_LEADER}{.v_oru} погіршилися на {MAGNITUDE} до {VALUE}."/>
