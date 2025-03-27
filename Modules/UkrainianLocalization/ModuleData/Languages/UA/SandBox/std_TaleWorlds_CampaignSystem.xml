@@ -2377,7 +2377,7 @@
     <string id="j5OqFCa6" text="After painful days of being dragged about as a prisoner, suddenly one of your captors comes near you with an offer; he proposes to free you in return for {MONEY_AMOUNT}{GOLD_ICON} of your hidden wealth. You decide to..."/>
     <string id="J6RjCKbk" text="Weather"/>
     <string id="J6UU9cfU" text="Very well, my dear. I hope we can soon sort out the terms of our marriage."/>
-    <string id="j7bZRFxc" text="Return to {SETTLEMENT}."/>
+    <string id="j7bZRFxc" text="Повернутися до {SETTLEMENT}{.v_rod}."/>
     <string id="j7inOz04" text="{VALUE}% вартості найму військ 2 класу і вище."/>
     <string id="J7JaXZm8" text="{VALUE}% ефекту від форумів, ринків, арен, храмів та фестивалів."/>
     <string id="J7oh7Vin" text="Дровокол"/>
@@ -2889,7 +2889,7 @@
     <string id="MesU0nGW" text="{VALUE}% більше здобичі від сіл, що зазнали ворожих дій від вас."/>
     <string id="meVKYu9a" text="{SALUTATION_BY_PLAYER}, I would pledge allegiance to you and be counted among your loyal followers."/>
     <string id="MF40cm9k" text="Land grants are considered to be temporary offices rather than the rightful inheritance of lords. In practice heirs tend to take over their family fiefs, but it's easier under Depositions to remove them."/>
-    <string id="mfAP8Wlq" text="Leave settlement."/>
+    <string id="mfAP8Wlq" text="Покинути поселення."/>
     <string id="MFDb5duu" text="Splendid! I suspect that you may, in your line of work, occasionally acquire a few captives. I could possibly take them off your hands. I'd pay you, of course."/>
     <string id="mfYzCeGR" text="{CHARACTER.NAME} was {TITLE} of the {CHARACTER_FACTION_SHORT}. {FURTHER_DETAILS}."/>
     <string id="mg0yAzIb" text="{RETIREE.LINK} has retired."/>
@@ -3059,7 +3059,7 @@
     <string id="nIhIU9t8" text="Good. Let's see if we can work out fair compensation for us protecting the roads."/>
     <string id="niWfuEeh" text="Well, {PLAYER.NAME}. Are you here about that offer I made? Seeing as what's happened between then and now, surely you realize that that offer no longer stands?"/>
     <string id="nixINYwE" text="Yes of course. It was a pleasure doing business with you.[if:convo_mocking_aristocratic]"/>
-    <string id="njbpMLdJ" text="Attackers have been defeated."/>
+    <string id="njbpMLdJ" text="Нападників розгромлено."/>
     <string id="NjMR2ypH" text="{VALUE}% швидкості зцілення під час відпочинку в поселеннях."/>
     <string id="NjPMRWbW" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Наше королівство буде отримувати {T} данини щодня."/>
     <string id="nJu03DL9" text="{VALUE}% покращення відносин, коли ви сплачуєте більше мінімальної суми при обміні."/>
