@@ -1162,7 +1162,7 @@
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
     <string id="OLKGQGHU" text="I am lord of {TOWNS}."/>
     <string id="OLyjbawD" text="[More]"/>
-    <string id="OLZqZZF3" text="Якщо продовжите, {GOVERNOR.NAME} прибуде за {TRAVEL_DURATION}, щоб стати новим намісником {SETTLEMENT_NAME}{.v_rod}. Під час подорожі {GOVERNOR.NAME} буде недоступний і ви не зможете змінити намісника {SETTLEMENT_NAME}{.v_rod}, поки він не прибуде. Ви впевнені?"/>
+    <string id="OLZqZZF3" text="Якщо продовжите, {GOVERNOR.NAME} прибуде в {SETTLEMENT_NAME} через певний час ({TRAVEL_DURATION}), щоб стати новим намісником. Під час подорожі {GOVERNOR.NAME} буде {?GOVERNOR.GENDER}недоступна{?}недоступний{\?} і ви не зможете змінити намісника, поки {?GOVERNOR.GENDER}вона{?}він{\?} не прибуде в поселення. Ви впевнені?"/>
     <string id="ONGv27TH" text="Now out of my sight, you mangy cringing cur!"/>
     <string id="OnttNMRn" text="Shield IV"/>
     <string id="Ooqyo9RB" text="Пропустити"/>
