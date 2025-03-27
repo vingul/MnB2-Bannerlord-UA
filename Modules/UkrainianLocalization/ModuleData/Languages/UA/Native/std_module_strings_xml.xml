@@ -1541,7 +1541,7 @@
     <string id="vqHDX6hf" text="+{BONUS_AMOUNT} до вірності поселення"/>
     <string id="VqpmXU1m" text="Стріляйте у ворогів з арбалета."/>
     <string id="VRdy76RQ" text="Skirmish"/>
-    <string id="vSr60kDj" text="On {DAY_OF_YEAR}, {YEAR}, a child was born to {MOTHER_NAME}."/>
+    <string id="vSr60kDj" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року у {MOTHER_NAME} народилася дитина."/>
     <string id="VSZGbSEO" text="No matching items."/>
     <string id="Vvo92lyj" text="southern imperial"/>
     <string id="vvUayAoO" text="{HERO.NAME} has been murdered."/>
@@ -1582,7 +1582,7 @@
     <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}"/>
     <string id="WlV9cE5E" text="Mercenaries cannot propose war policies."/>
     <string id="wmpwMa8j" text="{?IS_POSITIVE}+{?}-{\?}{CHANGE}"/>
-    <string id="wNHfL0x0" text="On {DAY_OF_YEAR}, {YEAR}, {NAME} fell in battle."/>
+    <string id="wNHfL0x0" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} поліг у бою."/>
     <string id="wNjhpOOM" text="Apply Exchange"/>
     <string id="wshehbFu" text="Mercenaries cannot disband armies."/>
     <string id="WSoZkkqD" text="Prison Guard"/>
@@ -1660,7 +1660,7 @@
     <string id="yBnwGiuB" text="Лорд"/>
     <string id="Yc4xzip6" text="Do you want to execute {NAME}?"/>
     <string id="YCYwPPlJ" text="Вимкнути навчання"/>
-    <string id="YeaFZzXS" text="On {DAY_OF_YEAR}, {YEAR}, {LEADER_NAME} declared the creation of a new realm, the {KINGDOM_NAME}."/>
+    <string id="YeaFZzXS" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {LEADER_NAME} оголосив про створення нового королівства — {KINGDOM_NAME}."/>
     <string id="yeEaBV29" text="We'll take it. You can live. Now go before I change my mind.[ib:closed][if:convo_normal]"/>
     <string id="yenZGMzi" text="Прискорити час"/>
     <string id="YevUiidU" text="Ваші відносини з {CLAN_LEADER}{.v_oru} погіршилися на {MAGNITUDE} до {VALUE}."/>
