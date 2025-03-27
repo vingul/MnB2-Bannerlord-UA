@@ -254,7 +254,7 @@
     <string id="923438xA" text="Чудово, {PLAYER.LINK}, чудово. Тобі вдалося здолати {OPPONENT_COUNT} супротивник{#GET_PLURAL_VALUE(OPPONENT_COUNT)}а{#}а{#}ів{\#}. Твоя відвага підкорила серця публіки. Також ти зароби{?PLAYER.GENDER}ла{?}в{\?} {PRIZE}{GOLD_ICON}."/>
     <string id="929Lxhde" text="You will lose {INFLUENCE_COST} influence if you abandon the army."/>
     <string id="984Ink0j" text="Arrow"/>
-    <string id="9B5kxWb8" text="Other party is over their troops limit.{newline}They will temporarily keep their troops but after some time they will quickly abandon their party.{newline}Are you sure?"/>
+    <string id="9B5kxWb8" text="У іншого загону перевищено ліміт воїнів.{newline}Вони тимчасово залишаться в загоні, але через деякий час швидко його покинуть.{newline}Ви впевнені?"/>
     <string id="9Bm06EEJ" text="You hear much praise for the wisdom of the rulers who have achieved this prosperity."/>
     <string id="9C0J0ZkT" text="Fire from infantry cover."/>
     <string id="9dcQ2VZv" text="Our plan is to form a defensive ring around our ranged troops."/>
@@ -816,7 +816,7 @@
     <string id="ID8wnSIi" text="This action is not allowed in current stage of the story."/>
     <string id="IdYj8OJg" text="Pommel"/>
     <string id="If65Vm9h" text="Child Education"/>
-    <string id="IF7zS5ia" text="You're over your prisoners limit.{newline}You will temporarily keep your prisoners but after some time they will quickly escape your party. You will also slow down.{newline}Are you sure?"/>
+    <string id="IF7zS5ia" text="Ви перевищили ліміт полонених.{newline}Ви тимчасово утримуватимете полонених, але через деякий час вони швидко втечуть з вашого загону. Ви також сповільнитеся.{newline}Ви впевнені?"/>
     <string id="iffbWGBa" text="Aunt"/>
     <string id="iFg5N7r3" text="One Handed Weapon"/>
     <string id="Igoid3sR" text="Propose to expel this clan from the kingdom ({SUPPORT}%)"/>
@@ -948,7 +948,7 @@
     <string id="ksDGaGIi" text="{.m}дев'ятнадцятий{.R_adj}"/>
     <string id="ktFeXrXl" text="You cannot make any moves. Skipping turn."/>
     <string id="KTGG9EgL" text="Safe journeys! Don't let yourself get robbed by anyone but us!"/>
-    <string id="KTUcgvMZ" text="You will be over troop limit. This can negatively affect your party morale."/>
+    <string id="KTUcgvMZ" text="Ви перевищите ліміт воїнів. Це може негативно вплинути на бойовий дух вашого загону."/>
     <string id="kUBvVY89" text="River Crossing Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers gain small bonus while defending.{newline}• Cavalry suffers minor penalty while defending."/>
     <string id="kuKad3dj" text="{MISSION_MODE}"/>
     <string id="kuLjsNgz" text="Rural Notable"/>
@@ -1317,7 +1317,7 @@
     <string id="RaAnj4On" text="Захисники"/>
     <string id="rangedtroop" text="Стрільці"/>
     <string id="ranksign" text="#"/>
-    <string id="rBieLPA7" text="You're over your troops limit.{newline}You will temporarily keep your troops but after some time they will quickly abandon your party. You will also slow down.{newline}Are you sure?"/>
+    <string id="rBieLPA7" text="Ви перевищили ліміт воїнів.{newline}Ви тимчасово утримаєте своїх воїнів, але все ж через деякий час вони швидко покинуть ваш загін. Ви також сповільните свій рух.{newline}Ви впевнені?"/>
     <string id="Rbn9l507" text="Rebel settlement bonus"/>
     <string id="rbz1Bwbv" text="Інвентар"/>
     <string id="rdbw9TVm" text="Shield II"/>
