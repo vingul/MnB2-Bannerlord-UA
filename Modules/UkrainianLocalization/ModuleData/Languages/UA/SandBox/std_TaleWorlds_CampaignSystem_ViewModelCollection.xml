@@ -383,7 +383,7 @@
     <string id="uGMGjUZy" text="Відправити членів свого клану в {SETTLEMENT_NAME}{.v_zna}"/>
     <string id="UHLcmf9A" text="Ліміт кількості полонених загону"/>
     <string id="uipNpzVw" text="Cannot disband the army right now."/>
-    <string id="uJro3Bua" text="Over Limit"/>
+    <string id="uJro3Bua" text="Перевищення ліміту"/>
     <string id="US7UmBbt" text="Armor Tier"/>
     <string id="UUaW0dba" text="Прямує до {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="v3OF6vBg" text="Матеріали"/>
