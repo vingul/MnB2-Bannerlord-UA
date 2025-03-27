@@ -109,7 +109,7 @@
     <string id="awgBkdXx" text="Поверніться до меню села і проведіть підготовку до зустрічі з бандитами, а потім дізнайтеся про завдання, яке має для вас староста."/>
     <string id="AxKDQJ4G" text="Ви сказали {MENTOR.LINK}{.v_dav}, що створите власне королівство, щоб перемогти Імперію. Щоб створити королівство, поговоріть з одним зі своїх намісників після того, як виконаєте всі вимоги. Після створення королівства поговоріть з {MENTOR.LINK}{.v_oru} ще раз."/>
     <string id="ay1gPPsP" text="Знайти іншу частину стягу для Арзагоса"/>
-    <string id="aY4zWYpg" text="You have have received an important message from {MENTOR.LINK}."/>
+    <string id="aY4zWYpg" text="Ви отримали важливе повідомлення від {MENTOR.LINK}{.v_rod}."/>
     <string id="aYozMy3Z" text="We lost because the Vlandians broke their oaths, and fought us when they should have fought with us. I was given command of the cataphracts, and we easily crushed their crossbowmen. Their knights gave us more trouble. Meanwhile, the Sturgian infantry came down and attacked our main force. That's where my father fell. "/>
     <string id="b6hQWKHe" text="Збільште свій загін до {PARTY_SIZE} людей"/>
     <string id="b7Z1OBas" text="Тож, ти думаєш ми скоро наздоженемо цих бандитів?"/>
