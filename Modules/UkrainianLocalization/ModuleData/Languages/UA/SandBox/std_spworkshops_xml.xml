@@ -4,10 +4,10 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="7hx2Nlmd" text="Tannery"/>
-    <string id="8MwqyFfS" text="Ironmonger"/>
+    <string id="7hx2Nlmd" text="{.f}Дубильня{.R_n10}"/>
+    <string id="8MwqyFfS" text="{.f}Слюсарний{.R_adj} {.f}майстерня{.R_n10_p2}"/>
     <string id="AfiEQPky" text="Every town has a few craftsman. Someone has to make everyday stuff for everyday people and mosts do it themselves."/>
-    <string id="boupIGPX" text="Olive Press"/>
+    <string id="boupIGPX" text="{.m}Оливковий{.R_adj} {.m}прес{.R_n20_a}"/>
     <string id="bZeZCHoa" text="Wool Weavery"/>
     <string id="cawbOcb1" text="We treat raw hides with lime and other chemicals, and turned them into supple leather."/>
     <string id="cxrsASao" text="Rare silver ore is turned into jewelry, the finest of all trade goods, in a Silversmith."/>
@@ -27,7 +27,7 @@
     <string id="qF9UGd2S" text="We crush olives and then drain the oil to be used for cooking, to light lamps, for soap, and for many other purposes."/>
     <string id="RLz2b53X" text="Clothier"/>
     <string id="silversmithworker" text="Silversmith"/>
-    <string id="silversmithworkshop" text="Silversmith"/>
+    <string id="silversmithworkshop" text="{.f}Срібляний{.R_adj} {.f}майстерня{.R_n10}"/>
     <string id="Tj7ErPfn" text="Pottery Shop"/>
     <string id="tK4IiP3J" text="Linen Weavery"/>
     <string id="UiSes6XY" text="Wood Workshop"/>
