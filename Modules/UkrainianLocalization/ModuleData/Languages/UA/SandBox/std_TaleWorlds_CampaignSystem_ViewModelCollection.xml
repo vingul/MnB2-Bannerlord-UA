@@ -68,7 +68,7 @@
     <string id="AcMayd1p" text="Втікає від {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="aE4ZRbB6" text=" {HEALTH}%"/>
     <string id="aFYwbosi" text="This hero is already leading a party."/>
-    <string id="aGFxIvqx" text="Leave Member(s)"/>
+    <string id="aGFxIvqx" text="Залишити супутника(ів)"/>
     <string id="aGJYQOef" text="Показати місцезнаходження героя на карті."/>
     <string id="ANV8UV5f" text="Відкликати цього учасника до свого загону."/>
     <string id="aRhQzJca" text="Mercenaries cannot create or manage armies."/>
@@ -141,7 +141,7 @@
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Торгові плітки"/>
     <string id="f4nc7FfE" text="Покращити до {.S}{UPGRADE_NAME}{.v_rod}"/>
     <string id="f6vTzVar" text="Does not have a mobile party."/>
-    <string id="FBYFcrWo" text="Leave in settlement"/>
+    <string id="FBYFcrWo" text="Залишити в поселені"/>
     <string id="FdzsOvDq" text="This action is disabled while in a mission"/>
     <string id="fI7a7RoE" text="Місткість інвентарю"/>
     <string id="FjJi1DJb" text="This hero is already a part of an another party."/>
