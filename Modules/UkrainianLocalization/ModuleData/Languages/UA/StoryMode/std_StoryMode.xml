@@ -53,7 +53,7 @@
     <string id="5K4wvz3w" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про стяг Неретцеса. Наразі він перебуває в {.S}{SETTLEMENT}{.v_mis}."/>
     <string id="5LJTeOBT" text="Я був з караваном і тут раптом вони просто вийшли з кущів. Ми були оточені та в меншості, тому ми одразу здалися. Я подумав, що вони збережуть нам життя, хоча б заради викупу. Але потім вони почали гнати нас на шаленій швидкості, без води, і мені здавалося, що я ось-ось впаду.[ib:nervous2]"/>
     <string id="5Mw4trfs" text="Як тільки завершите підготовку, приходьте до мене і поговоримо ще раз. Я можу запропонувати вам певну роботу, якщо ви збираєтесь переслідувати цих бандитів.[if:convo_pondering]"/>
-    <string id="5PGokzW1" text="Talk is cheap. If you really want me that bad, I challenge you to a duel."/>
+    <string id="5PGokzW1" text="Пуста балаканина. Якщо я дійсно тобі так потрібен, то пропоную двобій."/>
     <string id="5qhaDtef" text="No. Let me rethink this."/>
     <string id="5QiuMoe6" text="Здається, у мене є шматок Стягу Дракона Кальрадіоса."/>
     <string id="5soUEFEJ" text="{TACTEOS.NAME} сказав, що якщо запропонувати цю штуку правильній людині, то вона викладе за неї цілий статок. Звичайно, через це тебе також можуть легко і вбити. Тож будь обережним. Нікому не розказує, що в тебе є ця річ. Постарайся зрозуміти її вартість і те, кому її можна продати.[if:convo_pondering]"/>
@@ -241,7 +241,7 @@
     <string id="GxlPj4GC" text="Знайдіть лігво, про яке вам розповіла Істіана, і отримайте наступну частину стягу."/>
     <string id="gYYGGflb" text="Ми не можемо втрачати час. Ми зробимо більше, якщо розділимося. (Пропустити урок)"/>
     <string id="GZaYmg95" text="Ви успішно закінчили тренування з володіння мечем."/>
-    <string id="H2FMIJmw" text="My wolves! Kill them![ib:aggressive][if:convo_furious]"/>
+    <string id="H2FMIJmw" text="Мої вовки! Вбийте їх![ib:aggressive][if:convo_furious]"/>
     <string id="h31YaM4b" text="Забратися на коня."/>
     <string id="h68qCoz3" text="{PLAYER_LITTLE_BROTHER.NAME} is the little brother of {PLAYER.LINK}. He has been abducted by bandits, who intend to sell him into slavery."/>
     <string id="h9VP4ypW" text="Зустріньтеся з {.S}{HERO.LINK}{.v_oru}, щоб дізнатися більше про стяг Неретцеса. Наразі вона перебуває в {.S}{SETTLEMENT}{.v_dav}."/>
@@ -354,8 +354,8 @@
     <string id="NGbgfPoP" text="I was there. Many of the Khuzaits went. Mostly the Khergit clan, who were hungry for glory, but I was also young and hungry for glory so I went along as well.[ib:demure2][if:convo_bored]"/>
     <string id="NItH4oL6" text="Ну, якщо вони все ще мародерствують, можливо, вони розділилися на менші групи. Сподіваюся, нам не доведеться битися з ними всіма одразу. Але було б добре, якби ми змогли найняти або переконати кількох людей приєднатися до нас."/>
     <string id="nNavD2NO" text="You left the kingdom you have created. You can only support kingdoms that you are a part of."/>
-    <string id="nOLFHL3x" text="You and your men have defeated {BOSS_NAME} and the rest of the conspirators as {MENTOR.LINK} asked you to do."/>
-    <string id="nrdl5QaF" text="My spy spotted some conspirators at the camp, and some local bandits have joined them. My spy does not know if they are expecting an attack, so I implore you to be cautious and to be ready for anything. Needless to say, I'm sure you will send any documents you can find to me so I can study them. Go quickly and return safely."/>
+    <string id="nOLFHL3x" text="Як і просив {MENTOR.LINK}, ви зі своїми людьми перемогли {.S}{BOSS_NAME}{.v_rod} та решту змовників."/>
+    <string id="nrdl5QaF" text="Мій шпигун помітив у таборі змовників, до яких приєдналися місцеві бандити. Мій шпигун не знає, чи очікують вони нападу, тому я благаю вас бути обережними і бути готовими до всього. Я впевнений, що ви надішлете мені всі документи, які зможете знайти, щоб я міг їх вивчити. Їдьте швидко і поверніться живими і неушкодженими."/>
     <string id="NvkWtb8f" text="Знайти лігво банди {RADAGOS.NAME}{.v_rod} та здолати їх"/>
     <string id="NzQq2qp1" text="Зібрати {PARTY_SIZE} воїнів"/>
     <string id="O2BAcMNO" text="Як {?PLAYER.GENDER}законна імператриця{?}законний імператор{\?} Кальрадії, я {?PLAYER.GENDER}готова{?}готовий{\?} заявити про те, що володію Стягом Дракона."/>
@@ -475,7 +475,7 @@
     <string id="tzsZTcWd" text="Цікаво, яке королівство мені підтримати..."/>
     <string id="TZZX9kWf" text="{MENTOR.LINK} {?MENTOR.GENDER}запропонувала{?}запропонував{\?} вам підтримати імперську фракцію, віддавши їм Стяг Дракона."/>
     <string id="UCoOMWaj" text="Як я вже{?SPEAKER.GENDER}казала{?}казав{\?}, у кожного з претендентів є свої переваги. Коли почалася ця війна, я {?SPEAKER.GENDER}вважала{?}вважав{\?}, що Раґея найкраще розуміє, як правити, Ґаріос — найсильніший воїн, а Люкон — найвідданіший прихильник наших традицій.[if:convo_empathic_voice]"/>
-    <string id="UdHL9YZC" text="Well well, isn't this the famous {PLAYER.LINK}! You have been a thorn at our side for a while now. It's good that you are here now. It spares us from searching for you.[if:convo_confused_annoyed][ib:hip]"/>
+    <string id="UdHL9YZC" text="Так-так, хіба це не знаменитий {PLAYER.LINK}! Ти вже деякий час для нас як скалка в дупі. Добре, що ти вже тут. Тепер нам не доведеться тратити час на твої пошуки.[if:convo_confused_annoyed][ib:hip]"/>
     <string id="UDL0v1bR" text="Здається, у мене є шматок Стягу Дракона Кальрадіоса."/>
     <string id="uFsMzAuR" text="Поговоріть з тим, кого обрали, або поверніться до мене, якщо бажаєте заявити, про своє право на стяг.[if:convo_normal]"/>
     <string id="uhYXopnJ" text="Have you finished your preparations?[if:convo_undecided_open]"/>
