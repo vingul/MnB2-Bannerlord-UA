@@ -3125,7 +3125,7 @@
     <string id="NWLH02KL" text="Bandits are good in the wilderness, having been both predator and prey."/>
     <string id="NwO0CVzn" text="Найняти {MEN_COUNT} {#GET_PLURAL_VALUE(MEN_COUNT)}{.S}{MERCENARY_NAME}{.v_rod}{#}{.S}{PLURAL(MERCENARY_NAME)}{.v_rod}{#}{.S}{PLURAL(MERCENARY_NAME)}{.v_rod}{\#} ({TOTAL_AMOUNT}{GOLD_ICON})"/>
     <string id="NxcvQlAk" text="Медичні поради"/>
-    <string id="NxcXfUxu" text="The village has been looted. A handful of souls scatter as you pass through the burnt-out houses."/>
+    <string id="NxcXfUxu" text="Село розграбоване. Коли ви проходите повз спалені будинки, то помічаєте як кілька людей, що вижило, перелякано розбігаються."/>
     <string id="Nxh6aX2E" text="{VALUE}% шансу одужати від смертельних поранень, отриманих під час облог."/>
     <string id="nxkNY4YG" text="Розподіл товарів"/>
     <string id="NXs7kr2B" text="You managed to return a fraction of the troops {QUEST_GIVER.LINK} gave you to train. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. {newline}“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for returning my men to me. The losses they suffered are somewhat higher than I thought. I can only hope you did what you could do to honor our agreement and try to keep them alive.”"/>
