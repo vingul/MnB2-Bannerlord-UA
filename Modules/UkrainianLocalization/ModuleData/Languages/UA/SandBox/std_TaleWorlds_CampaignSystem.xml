@@ -982,7 +982,7 @@
     <string id="ASVkuYHG" text="I know a few. What kind of a person are you looking for?"/>
     <string id="at0iWxo1" text="It is exciting to think a warrior of your caliber will be my champion. {TOURNAMENT_ROUND_GOAL}"/>
     <string id="At6b9vHF" text="{VALUE} relationship per day with a random notable over age 40 when party is in a town."/>
-    <string id="aTeuX4L0" text="Regular"/>
+    <string id="aTeuX4L0" text="Звичайний"/>
     <string id="AtFv5RMW" text="Виплата данини"/>
     <string id="AtHjW2lY" text="Purchase stolen goods from {QUEST_GIVER.NAME}"/>
     <string id="AThZtg7U" text="{PEACEMAKER_RULER.NAME} з {.S}{KINGDOM_CONSIDERING_PEACE}{.v_rod} {?PEACEMAKER_RULER.GENDER}вирішила{?}вирішив{\?} не укладати мир з {.S}{KINGDOM}{.v_oru}, хоча думки в {?PEACEMAKER_RULER.GENDER}її{?}його{\?} раді з цього питання розділилися порівну."/>
@@ -1718,7 +1718,7 @@
     <string id="epnk9qIt" text="Ми виступаємо проти оголошення війни"/>
     <string id="Epwmv89M" text="{VALUE}% збалансованості зброї при переміщенні пішки."/>
     <string id="EqFbNha8" text="The villagers grudgingly bring out what they have for you."/>
-    <string id="EQLgVYk0" text="Settlement Issues"/>
+    <string id="EQLgVYk0" text="Проблеми в поселені"/>
     <string id="EqLQtlca" text="The way we just ran from the enemy back there... I don't want to get a name for being a coward."/>
     <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}She{?}He{\?} will make payment as {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT&gt;1}units{?}unit{\?} of {._}{EXCHANGE_ITEM} when the task is done."/>
     <string id="eR7P1cVA" text="{VILLAGE} Needs Crafting Materials"/>
@@ -3105,7 +3105,7 @@
     <string id="nT6EQGf9" text="This hero is currently solving an issue."/>
     <string id="NtCBRiLH" text="{VALUE}% швидкості зцілення при пересуванні по карті."/>
     <string id="ntEBl43n" text="I am {CONVERSATION_HERO.FIRSTNAME}. I'm a craftsman, a working man. A lot of the other honest men here in {TOWN_NAME}, the ones that work with their hands, they like me to speak for them."/>
-    <string id="nTETQEmy" text="Influential"/>
+    <string id="nTETQEmy" text="Впливовий"/>
     <string id="nThmB3yB" text="Шлях меча"/>
     <string id="NTlbbrwB" text="If there will be a fight, then we will fight"/>
     <string id="NtMEk0lA" text="Суворий фронт"/>
@@ -4148,7 +4148,7 @@
     <string id="ULY7byYc" text="{VALUE}% зростання кількості вогнищ у селах, прилеглих до підконтрольного поселення."/>
     <string id="um4UaneZ" text="You have failed to deliver {REQUESTED_AMOUNT} {.%}{?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%} to {TARGET_SETTLEMENT} in time as {QUEST_GIVER.LINK} asked you."/>
     <string id="UMn2QMIk" text="Did you hear {ENEMY_NAME} took {FORTRESS_NAME} by storm? Do you think they'll come here next?"/>
-    <string id="umNyHc3A" text="Bound Village Issues"/>
+    <string id="umNyHc3A" text="Проблеми прилеглих сіл"/>
     <string id="uNls3bOP" text="Рівень інформації про слід: {a0}"/>
     <string id="UnQFawna" text="Увійти до в'язниці"/>
     <string id="uO99raT7" text="Snotnose {FIRSTNAME}"/>
@@ -4168,7 +4168,7 @@
     <string id="UqDNAZqM" text="Припинити очікування"/>
     <string id="UQhRKJb9" text="Ignore the charges"/>
     <string id="UQtXV3kf" text="Certainly, you have always been close to our family."/>
-    <string id="UrFzdy4z" text="Daily Consumption"/>
+    <string id="UrFzdy4z" text="Добове споживання"/>
     <string id="urOywsiw" text="Castle garrison decided to sally out"/>
     <string id="urSSNtUD" text="{VALUE}% впливу за передачу воїнів."/>
     <string id="uRvym4tq" text="Шанс уникнути смерті від старості для кожного члена клану."/>
