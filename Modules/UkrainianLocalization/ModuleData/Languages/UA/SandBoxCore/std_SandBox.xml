@@ -951,7 +951,7 @@
     <string id="W7TD4yTc" text="You know, {TARGET_MERCHANT.NAME}'s man makes a good point. I'm guarding this caravan."/>
     <string id="WAa4yaTo" text="What do you want us to make?"/>
     <string id="wAgfOHio" text="You have lost the ownership of the alley at {SETTLEMENT}."/>
-    <string id="wD1YDmmg" text="{PARTY_NAME} has enlisted in {ARMY_NAME}."/>
+    <string id="wD1YDmmg" text="{PARTY_NAME} вступає до {.S}{ARMY_NAME}{.v_rod}."/>
     <string id="WD7vOalb" text="I'll be defenders."/>
     <string id="WDdlPUHw" text="Not if it's a duel. I challenge you. No true tournament fighter would refuse."/>
     <string id="WGi3Zuv7" text="You asked the villagers around {CURRENT_SETTLEMENT} if they saw a young woman matching the description of {QUEST_GIVER.LINK}'s daughter, {TARGET_HERO.NAME}.\n\nThey said a young woman and a young man dropped by early in the morning to buy some supplies and then rode off towards {TARGET_VILLAGE}."/>
