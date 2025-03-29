@@ -851,7 +851,7 @@
     <string id="T0zupcGB" text="Ah yes... It is a bit embarrassing to mention, [ib:nervous][if:convo_nervous]but... Well, when I am in town, I often have a drink at the inn and perhaps play a round of {GAME_TYPE} or two. Normally I play for low stakes but let's just say that last time the wine went to my head, and I lost something I couldn't afford to lose."/>
     <string id="T29epQk3" text="100{GOLD_ICON}"/>
     <string id="T2GbF6lK" text="With no suitable heirs, the {CLAN_NAME} clan is no more. Your journey ends here."/>
-    <string id="t4KwQOB7" text="{HERO.NAME} is now of age."/>
+    <string id="t4KwQOB7" text="{HERO.NAME} {?HERO.GENDER}досягла{?}досяг{\?} повноліття."/>
     <string id="T5jd4m69" text="That will only make this more fun. How much were you thinking?"/>
     <string id="tc4DyxaL" text="Yes, I would like to sell."/>
     <string id="TCIaDC9X" text="The foes of Vlandia came a-plundering. King Derthert summoned his men to the keep!{newline}They rode to his muster with their hooves a-thundering. But Derthert had already gone to sleep."/>
