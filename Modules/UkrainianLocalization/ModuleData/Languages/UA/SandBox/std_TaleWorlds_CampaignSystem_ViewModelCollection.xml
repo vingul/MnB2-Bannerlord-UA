@@ -92,7 +92,7 @@
     <string id="BqLsZhhr" text="Select an item to refine"/>
     <string id="btoiLePb" text="{HERO} ({PLACE})"/>
     <string id="BV5exuPf" text="Remove From Bookmarks"/>
-    <string id="C2qpwFq5" text="Власник {SETTLEMENTS}{.v_rod}"/>
+    <string id="C2qpwFq5" text="Власник: {SETTLEMENTS}"/>
     <string id="c5eYzHaM" text="{DAYS} {#GET_PLURAL_VALUE(DAYS)}день{#}дні{#}днів{\#} ({PERCENTAGE}%)"/>
     <string id="c6e4c8588ca9e42f6e1b47b11f0f367b" text="Довжина: "/>
     <string id="c7638a0869219ae845de0f660fd57a9d" text="Шкода при зіткненні: "/>
@@ -278,7 +278,7 @@
     <string id="opU0Nr2G" text="Progress for unlocking a new piece."/>
     <string id="opVqBNLh" text="Ефект"/>
     <string id="OpzzCPiP" text="Слідує за {._}{TARGET_PARTY}{.v_oru}"/>
-    <string id="oSfsqBwJ" text="No perks"/>
+    <string id="oSfsqBwJ" text="Нема здібностей"/>
     <string id="OSsSBHKe" text="Settlement's Food"/>
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   "/>
     <string id="otaUtXMX" text="+{AMOUNT} relation chance with notables per day."/>
@@ -368,7 +368,7 @@
     <string id="ta4R2RR7" text="Primary"/>
     <string id="TaK6ydAx" text="Travelling."/>
     <string id="tAwRIPiy" text="Вартість будівництва: {COST}"/>
-    <string id="TEkWkzbH" text="Owned Caravans: {CARAVAN_COUNT}"/>
+    <string id="TEkWkzbH" text="Каравани у власності: {CARAVAN_COUNT}"/>
     <string id="tf7301NC" text="Швидкість зцілення"/>
     <string id="tFGM0yav" text="This party is disbanding."/>
     <string id="tnbCJyax" text="Деякі з ваших полонених можуть бути завербовані."/>
@@ -397,7 +397,7 @@
     <string id="Vq8yavES" text="Already in army."/>
     <string id="VtWa9Pmh" text="Raiding {TARGET_SETTLEMENT}."/>
     <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver."/>
-    <string id="VZjxs5Dt" text="Owner of "/>
+    <string id="VZjxs5Dt" text="Власник: "/>
     <string id="w0slxNAl" text="If limit is lower than current wage, party will not recruit troops until wage is reduced to the limit. If limit is higher than current wage, party will keep recruiting."/>
     <string id="W1tsTWZv" text=" {PARTY_MEMBER.LINK} ({MEMBER_HEALTH}%)"/>
     <string id="W3hmFcfv" text="Abandon Alley"/>
