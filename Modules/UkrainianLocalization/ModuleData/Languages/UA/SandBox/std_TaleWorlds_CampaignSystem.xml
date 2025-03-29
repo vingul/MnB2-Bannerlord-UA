@@ -4205,7 +4205,7 @@
     <string id="UZHvbYTr" text="Кінний арбалетник"/>
     <string id="uZIlfFa2" text="We're disbanding. We're all going to {TARGET_SETTLEMENT_LINK}, then we're going our separate ways."/>
     <string id="UzKyyfbF" text="{VALUE}% золота, необхідного, щоб переконати лордів перейти до вашої фракції."/>
-    <string id="UzMYZgoE" text="Besiege the castle."/>
+    <string id="UzMYZgoE" text="Взяти замок в облогу."/>
     <string id="uZPweUQg" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння Держакова зброя воїнам вашого підрозділу."/>
     <string id="v0mZi3Zd" text="Devastate {DEVASTATE_INFLUENCE_COST_TEXT}"/>
     <string id="V0QmrGda" text="Перед від'їздом {CHILD.NAME}{.v_rod} ви попросили свого воїна подбати про те, щоб {?CHILD.GENDER}молода жінка{?}молодий чоловік{\?}..."/>
@@ -4403,7 +4403,7 @@
     <string id="wc15ZSpO" text="{VALUE}% більше шансу створити легендарну зброю. Шанс збільшується на 1% за кожні 5 очок уміння вище 275."/>
     <string id="wCMNQsBu" text="I will put in a word about you to {KING.LINK}."/>
     <string id="WD6soDM1" text="Була невелика сутичка, але перемога була беззаперечною. {CHILD.NAME} не тільки {?CHILD.GENDER}була присутня{?}був присутній{\?} при розробці командиром тактики, яка привела до перемоги в битві, але й {?CHILD.GENDER}брала{?}брав{\?} участь у її реалізації."/>
-    <string id="WdIGdHuL" text="Besiege the town."/>
+    <string id="WdIGdHuL" text="Взяти місто в облогу."/>
     <string id="WDp5EAl3" text="Agree to exempt the poor households"/>
     <string id="wdQ54wn2" text="There's nothing I need right now."/>
     <string id="WDRTZ8se" text="{newline} • Town Projects Razed: {LEVELS_LOST}{PROJECTS_DESTROYED}"/>
