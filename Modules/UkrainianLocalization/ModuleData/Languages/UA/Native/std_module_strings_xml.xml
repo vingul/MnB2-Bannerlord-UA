@@ -86,7 +86,7 @@
     <string id="3CpNUnVl" text="Скасувати"/>
     <string id="3CsACce8" text="Вихід"/>
     <string id="3cTKRX1M" text="Never seen before"/>
-    <string id="3Ds5ARHL" text="Merchant"/>
+    <string id="3Ds5ARHL" text="{.m}Торговець{.R_n22_a}"/>
     <string id="3E0ZXV7j" text="Прийняте рішення"/>
     <string id="3EGllWkd" text="northern imperial"/>
     <string id="3fAm8FaM" text="So be it... As my father says, a journey's not worthy of the name if you don't get to kill anyone."/>
@@ -126,7 +126,7 @@
     <string id="4nv6LzDp" text="Musket"/>
     <string id="4okzoXIw" text="Соратник"/>
     <string id="4ol7MhA5" text="You are trapped by enemies. But your men are in no condition to fight."/>
-    <string id="4QAwbFcQ" text="Nearby Hideout"/>
+    <string id="4QAwbFcQ" text="Лігва поруч"/>
     <string id="4rRsmX8i" text="Good. Sometimes it's better to shear the sheep than eat them."/>
     <string id="4Skg9QhO" text="Trebuchet"/>
     <string id="4tdVrFtU" text="тридцять {.m}перший{.R_adj}"/>
@@ -271,7 +271,7 @@
     <string id="9raxrECY" text="If you proceed, {LEADER.NAME} will be the new leader of this party. Are you sure?"/>
     <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging."/>
     <string id="9zpZRkYz" text="Прискорення проєкту додає +{BOOST} будівництву і коштує {COST} динар{#GET_PLURAL_VALUE(COST)}{#}и{#}ів{\#}/день."/>
-    <string id="a0mJ0cVV" text="Consumption(s)"/>
+    <string id="a0mJ0cVV" text="Споживання"/>
     <string id="A0sT86A3" text="No War Selected"/>
     <string id="a0TiMLJ4" text="Main Menu"/>
     <string id="a0YMy8E5" text="{REQUIRED_ITEM} is needed for upgrade."/>
@@ -527,7 +527,7 @@
     <string id="DGOgsMfx" text="{PRISONER.NAME}{.v_rod} було звільнено з полону після того, як за {?PRISONER.GENDER}неї{?}нього{\?} сплатили викуп."/>
     <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}"/>
     <string id="DItheHi7" text="Stay behind in reserve"/>
-    <string id="DIuI1moW" text="Gang Leader"/>
+    <string id="DIuI1moW" text="{.m}Ватажок{.R_n22_a} банди"/>
     <string id="dJbaRaAD" text="Діб до закінчення їжі"/>
     <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are moving in reserve."/>
     <string id="DjoYTx2w" text="Mercenaries cannot gather armies"/>
@@ -734,7 +734,7 @@
     <string id="GPW3ku2Y" text="{?RULER.GENDER}Princess{?}Prince{\?} {RULER.NAME}"/>
     <string id="gQCEJvmf" text="daughter"/>
     <string id="GralaKWi" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року в сім'ї {.S}{FATHER_NAME}{.v_rod} та {.S}{MOTHER_NAME}{.v_rod} народилася дитина."/>
-    <string id="Gre2v55i" text="Влада: {POWER}"/>
+    <string id="Gre2v55i" text="Вплив: {POWER}"/>
     <string id="GRX8NjWI" text="Размір"/>
     <string id="gSVaitFE" text="Raiding {SETTLEMENT_NAME}"/>
     <string id="gT5zJaD7" text="I was knocked senseless by the enemy"/>
@@ -1002,7 +1002,7 @@
     <string id="lpbDPuuW" text="{?RULER.GENDER}the Empress{?}the Emperor{\?} {RULER.NAME}"/>
     <string id="LpVaZbRS" text="There is already another kingdom with this name."/>
     <string id="lqm9PfF1" text="{?RULER.GENDER}Knyaginya{?}Knyaz{\?} {RULER.NAME}"/>
-    <string id="lqMQ6GXj" text="Surplus Food"/>
+    <string id="lqMQ6GXj" text="Надлишок їжі"/>
     <string id="lQQPKo02" text="Move to screen us against foes moving behind our back"/>
     <string id="lRAaUTjs" text="Drop"/>
     <string id="lrAnY7Fb" text="Старі завдання"/>
@@ -1167,7 +1167,7 @@
     <string id="OnttNMRn" text="Shield IV"/>
     <string id="Ooqyo9RB" text="Пропустити"/>
     <string id="OPhlqUVl" text="Поговорити"/>
-    <string id="OpSGWdrk" text="Gangster"/>
+    <string id="OpSGWdrk" text="{.m}Розбійник{.R_n20_a}"/>
     <string id="OqCodBZJ" text="Stop there you dog! Show us what you've got!"/>
     <string id="Or9YduTA" text="sister"/>
     <string id="oRaa1yls" text="Consumable"/>
