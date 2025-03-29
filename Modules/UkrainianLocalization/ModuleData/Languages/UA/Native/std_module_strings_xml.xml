@@ -492,7 +492,7 @@
     <string id="cQWCp9F1" text="Щоденна платня загону"/>
     <string id="cr9fxFyS" text="Bonus Against Shield"/>
     <string id="cRMgjRMP" text="Good, good. I much prefer a straight-up deal to rummaging through your gut afterward to see what you might have hid there.[ib:hip][rf:convo_bemused]"/>
-    <string id="CRR7cYhJ" text="Currently Building"/>
+    <string id="CRR7cYhJ" text="Наразі будується"/>
     <string id="cRwZI5o2" text="Нещодавні події"/>
     <string id="CthDdsb6" text="Winner"/>
     <string id="cThSwxbP" text="Cannot execute non-hero prisoners"/>
@@ -1043,7 +1043,7 @@
     <string id="mGWrSJLE" text="You cannot disband an army while it's in a map event."/>
     <string id="mhAr3dfG" text="Розпочато завдання: {QUEST_TITLE}"/>
     <string id="MHJCuM3N" text="Halt! Your foreign feet on this sacred land offend our ancestors. What are we going to do about that?[rf:convo_mocking_revenge]"/>
-    <string id="mieKgbp8" text="Daily Rate Of Fire"/>
+    <string id="mieKgbp8" text="Обстрілів в день"/>
     <string id="minuteabbr" text="m"/>
     <string id="mJB7knQo" text="Pull back"/>
     <string id="mJE0o9Zi" text="Гарнізони"/>
@@ -1246,7 +1246,7 @@
     <string id="puwXJDa9" text="Добробут:"/>
     <string id="PVidxUQ8" text="Запаси їжі"/>
     <string id="PvrRFwHM" text="Ви {?PAY_OR_GET}отримаєте{?}втратите{\?} {TRADE_AMOUNT}{MORALE_ICON}"/>
-    <string id="PVUeymMR" text="In Progress"/>
+    <string id="PVUeymMR" text="Виконується"/>
     <string id="pwFp1A5W" text="Sadistic"/>
     <string id="PYaUEZzn" text="Consider declaring war (Support: {SUPPORT}%)"/>
     <string id="PylbJEe5" text="Men #"/>
