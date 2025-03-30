@@ -578,7 +578,7 @@
     <string id="6zxo4AU9" text="This is quite the honor, your {?PLAYER.GENDER}ladyship{?}lordship{\?}. Do you have a minute? I may be able to do you a service."/>
     <string id="70LnOZzo" text="Very good. Keep searching. We still need more men.[ib:hip2]"/>
     <string id="70PZ5mFx" text="{VALUE}% шкоди в бою на кожні 100 рівнів умінь різниці з ворогом."/>
-    <string id="70s1eahS" text="Hmf. I am amused. So amused that I might have to cut out your tongue after the battle and keep it to remind me of your wit.[if:idle_angry][ib:warrior] "/>
+    <string id="70s1eahS" text="Хаха. Дуже смішно. Настільки, що я, можливо, відріжу твій язик після битви і збережу його, щоб він нагадував мені про твою дотепність.[if:idle_angry][ib:warrior] "/>
     <string id="722uabab" text="Because if you don't, I'll cut you down right here and now."/>
     <string id="723ig40Q" text="Keep"/>
     <string id="72tbUfrz" text="Чисті вулиці"/>
@@ -1796,7 +1796,7 @@
     <string id="F7bbkYx4" text="{VALUE} вірності в день у підконтрольному поселенні."/>
     <string id="F7yFADCx" text="Sure thing, boss.[ib:demure]"/>
     <string id="f8R0Hkxa" text="{VALUE}% маневровості."/>
-    <string id="F9LlA26R" text="Actually, I think you're the one who ought to surrender."/>
+    <string id="F9LlA26R" text="Взагалі-то, я думаю, що це тобі варто здатися."/>
     <string id="FA2QZc7Q" text="Прибуває посланець з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона{\?}Він{\?} пропонує вам службу у {?OFFERED_KINGDOM_LEADER.GENDER}неї{\?}нього{\?} в якості найманця."/>
     <string id="FA5QlTvm" text="Виробник болтів"/>
     <string id="faa9sFfE" text="I do what I can to alleviate suffering in this world. I hope that is enough."/>
@@ -2398,7 +2398,7 @@
     <string id="JaZ7T2Wj" text="Таємна рада лордів"/>
     <string id="JBa4DO2u" text="{VALUE}% шкоди стінам під час облогового бомбардування."/>
     <string id="jbAtOsIy" text="Рабська праця"/>
-    <string id="jBN2LlgF" text="We'll fight to our last drop of blood!"/>
+    <string id="jBN2LlgF" text="Ми будемо битися до останньої краплі крові!"/>
     <string id="jbPZTSP4" text="Стрілець"/>
     <string id="Jc1YXXjN" text="нашестя диких звірів"/>
     <string id="jd4qUGEA" text="I wish to discuss the final terms of my marriage with {COURTSHIP_PARTNER}."/>
@@ -2785,7 +2785,7 @@
     <string id="lord_conversations_227" text="I want to join your army."/>
     <string id="lord_conversations_343" text="There is something I'd like to discuss."/>
     <string id="lord_conversations_344" text="I have a proposal that may spare us both unnecessary bloodshed."/>
-    <string id="lord_conversations_345" text="Stay your hand! Perhaps we don't have to come to blows."/>
+    <string id="lord_conversations_345" text="Давайте заспокоймось! Можливо, ми зможемо уникнути непотрібної битви."/>
     <string id="loVfqss6" text="{VALUE}% швидкості пересування воїнам дальнього бою вашого підрозділу."/>
     <string id="lOwjyUi5" text="Raiding this village will cause a war with {KINGDOM}."/>
     <string id="LPBVTiV6" text="a strip of bacon"/>
