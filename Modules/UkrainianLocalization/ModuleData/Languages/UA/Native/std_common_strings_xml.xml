@@ -21,7 +21,7 @@
     <string id="11KckWau" text="Mitara"/>
     <string id="18NtjryL" text="Not yet, but I will soon."/>
     <string id="1bdDdwub" text="Nasalhelm over Mail"/>
-    <string id="1Bm1Wk1v" text="Піхота"/>
+    <string id="1Bm1Wk1v" text="{.f}Піхота{.R_n10}"/>
     <string id="1BXuUR3s" text="Infantryman Long Gambeson"/>
     <string id="1cKxsHSh" text="Penton"/>
     <string id="1CPdu9K0" text="Stone"/>
@@ -811,7 +811,7 @@
     <string id="pzfbPbWW" text="Boulder"/>
     <string id="q186AQHt" text="Phadon"/>
     <string id="q1z4FQub" text="Camel Saddle"/>
-    <string id="q2Y2DHiA" text="Кінні лучники"/>
+    <string id="q2Y2DHiA" text="{.p}Кінний{.R_adj} {.p}лучник{.R_n20_p}"/>
     <string id="Q50hfNjW" text="Thinhide Coif"/>
     <string id="qAbMagWq" text="продавали товари на ринку."/>
     <string id="qaDIU0XC" text="High Kingdom of the Battanians"/>
@@ -986,7 +986,7 @@
     <string id="ueCm5y1C" text="Ваша сім'я мала власну майстерню в місті, де виготовляла товари із сировини з навколишніх сіл. Ваш батько відігравав активну, хоча й незначну роль у міській раді, а також служив у ополченні."/>
     <string id="uEPRE33m" text="Rough Tied Bracers"/>
     <string id="ufnnUxKb" text="{.f}Дублений{.R_adj} {.f}шкіра{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} дубленої шкіри{\@}"/>
-    <string id="ugJfuabA" text="Кінний лучник"/>
+    <string id="ugJfuabA" text="{.p}Кінний{.R_adj} {.p}лучник{.R_n20_p}"/>
     <string id="uGM8DWrm" text="Осідлати"/>
     <string id="Uh057UUb" text="Puluc"/>
     <string id="UI0q8rWw" text="Livestock"/>
@@ -1177,7 +1177,7 @@
     <string id="yTWOMSmv" text="Hemp Tunic"/>
     <string id="YuLLsAUb" text="You don't have {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="YUoydtNS" text="Yana"/>
-    <string id="YVGtcLHF" text="Кавалерія"/>
+    <string id="YVGtcLHF" text="{.f}Кавалерія{.R_n10}"/>
     <string id="Yvk8a2tb" text="Робота ніг"/>
     <string id="YxglkaXU" text="{.m}Білий{.R_adj} {.m}табард{.R_n20_u} поверх довгої кольчуги"/>
     <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів вландійських найманців, які так сильно звикли до війни, служачи своєму пану, що вже навіть не уявляли мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і тому брала вас із собою у всі криваві походи."/>
