@@ -51,7 +51,7 @@
     <string id="1XVvU23F" text="Unable to use the clipboard text as body properties key!"/>
     <string id="1z0rLrhs" text="father"/>
     <string id="1Zq8mzzJ" text="Well now. Let's see what sort of fly has stumbled into our web.[rf:convo_mocking_revenge]"/>
-    <string id="21t7Ev03" text="You can not perform this action while you are imprisoned."/>
+    <string id="21t7Ev03" text="Ви не можете виконати цю дію, перебуваючи в полоні."/>
     <string id="22FUKSQb" text="Отримайте ще {REQUIRED_XP_FOR_NEXT_LEVEL} од, використовуючи це вміння, щоб підняти його рівень"/>
     <string id="22tbyEYI" text="You received {COUNT} {ITEM} from {PARTY_NAME}."/>
     <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions."/>
@@ -137,7 +137,7 @@
     <string id="4ytmLxOy" text="Pregnant"/>
     <string id="59hbrhfY" text="Поточна кількість ОД"/>
     <string id="59PSpyu8" text="Прилегле поселення: {SETTLEMENT_LINK}"/>
-    <string id="5a4cY5az" text="You can not perform this action while you are in a siege."/>
+    <string id="5a4cY5az" text="Ви не можете виконати цю дію, перебуваючи в облозі."/>
     <string id="5bqmaciE" text="{ARMY_MEMBER} to be at army"/>
     <string id="5cGXHF1a" text="Сьогодні"/>
     <string id="5CYdyMzj" text="Залишилось"/>
@@ -281,7 +281,7 @@
     <string id="a3hmB91k" text="Будуйте та використовуйте облогові знаряддя. Успішно використовуйте їх при нападі та обороні."/>
     <string id="A3T5z4Mv" text="Defensive"/>
     <string id="a3uKkLez" text="{LORD.LINK} знаходиться в дорозі поблизу {.S}{SETTLEMENT_NAME}{.v_rod}"/>
-    <string id="a47CpGXN" text="Power Levels"/>
+    <string id="a47CpGXN" text="Співвідношення сил"/>
     <string id="a5j1v7tM" text="We've heard what happened to others who refused to join your cause. We've no desire to end up like them and no means to fight you. We'll wear your colors from now until it pleases you no more."/>
     <string id="a6D6Ga2F" text="Довжина зброї: "/>
     <string id="a6FfHHVg" text="Building Effects"/>
@@ -519,7 +519,7 @@
     <string id="dcV0iOYB" text="Gather your troops and prepare for battle!"/>
     <string id="dd7Owiys" text="Make Peace with {FACTION}"/>
     <string id="DdXZHifm" text="Підвищуючи {ATTRIBUTE_NAME}{.v_zna} ви полегшуєте підняття умінь, які пов'язані з цією характеристикою і підвищуєте ліміт їх вивчення."/>
-    <string id="debCJDAZ" text="You can not perform this action while you are in an encounter"/>
+    <string id="debCJDAZ" text="Ви не можете виконати цю дію під час взаємодії"/>
     <string id="depxBZNO" text="Leadership Skill Level Bonus"/>
     <string id="dgaf7Jpb" text="Setup"/>
     <string id="DGbSsANY" text="{HERO.NAME} has died of old age."/>
@@ -602,7 +602,7 @@
     <string id="esxNxipn" text="Parties with Low Morale"/>
     <string id="eTyaQ1sG" text="Resume Campaign"/>
     <string id="eu25AFfI" text="Can't access inventory right now!"/>
-    <string id="EuEJ08Dg" text="Number of Healthy Defender Troops"/>
+    <string id="EuEJ08Dg" text="Кількість здорових воїнів сторони захисту"/>
     <string id="eufhFrnC" text="Селяни з {VILLAGE_NAME}{.v_rod}"/>
     <string id="EuGCNdHG" text="Leave Kingdom"/>
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?"/>
@@ -640,7 +640,7 @@
     <string id="fApjg2ae" text="the Aserai"/>
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are moving into missile range."/>
     <string id="FbcC2loc" text="You have been knocked unconscious and your opponent is granted victory!"/>
-    <string id="FC64p6ED" text="Number of Healthy Attacker Troops"/>
+    <string id="FC64p6ED" text="Кількість здорових воїнів сторони атаки"/>
     <string id="fd35ahzV" text="&lt;b&gt;Fire Ballista&lt;/b&gt;{NEWLINE}Shoots bolts with tips dipped in tar.{NEWLINE}They will deal fire damage to enemy siege engines and wooden structures as well as being deadly against soldiers."/>
     <string id="FD9abtTo" text="Якщо ви поставите 100&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt; і виграєте, то отримаєте {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;"/>
     <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?"/>
@@ -722,7 +722,7 @@
     <string id="gj2HD7M3" text="You still have a chance to win. Do you want to forfeit?"/>
     <string id="gKbGZObs" text="total stock"/>
     <string id="GKO2ogal" text="Корупція"/>
-    <string id="GNGTllPc" text="You can not perform this action while raiding a village"/>
+    <string id="GNGTllPc" text="Ви не можете виконати цю дію під час набігу на село"/>
     <string id="GNkrUdwb" text="Your help was most welcome stranger. My name is {CONVERSATION_CHARACTER.LINK}. Can I learn yours?"/>
     <string id="GnWy8WAW" text="Вірність:"/>
     <string id="gNzXoCrq" text="Be on your way, little fly."/>
@@ -1187,7 +1187,7 @@
     <string id="ozYRUrum" text="Допомагайте пораненим солдатам зцілюватися в поселеннях."/>
     <string id="P1VmnfsB" text="Споруда «{BUILDING_NAME}» в {.S}{SETTLEMENT_NAME}{.v_dav} отримала новий рівень."/>
     <string id="P2CRzfV7" text="Крамниці в поселенні"/>
-    <string id="p2WBSIa7" text="Cohesion:"/>
+    <string id="p2WBSIa7" text="Згуртованість:"/>
     <string id="P3SJla9F" text="Looted Villages"/>
     <string id="p4PIzGTP" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are holding high ground."/>
     <string id="p5Rad7i2" text="War Party"/>
@@ -1313,7 +1313,7 @@
     <string id="R5IOmwN1" text="Будівництво облогового табору"/>
     <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK} {?MARRIED_HERO.GENDER}одружилась{?}одружився{\?} з {.S}{MARRIED_TO.LINK}{.v_oru}."/>
     <string id="R7v2UD8b" text="You move a pawn."/>
-    <string id="R9DiQfax" text="Battle"/>
+    <string id="R9DiQfax" text="Битва"/>
     <string id="RaAnj4On" text="Захисники"/>
     <string id="rangedtroop" text="Стрільці"/>
     <string id="ranksign" text="#"/>
@@ -1378,7 +1378,7 @@
     <string id="Sj9Ux8jS" text="Дезертирства"/>
     <string id="sJLUbnLl" text="Загальна сила"/>
     <string id="sKnYLPkn" text="{.m}король{.R_n20_a_p}"/>
-    <string id="slKe6Gyc" text="Total food of army"/>
+    <string id="slKe6Gyc" text="Загальна кількість їжі в армії"/>
     <string id="SLNKWIj5" text="Hero's {TRAIT_NAME} trait needs to be {MAX_TRAIT_AMOUNT} or lower."/>
     <string id="smeltverb" text="Переплавити"/>
     <string id="smithingverb" text="{.n}Ковальство{.R_n2n}"/>
