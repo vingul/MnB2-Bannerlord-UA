@@ -73,7 +73,7 @@
     <string id="ANV8UV5f" text="Відкликати цього учасника до свого загону."/>
     <string id="aRhQzJca" text="Mercenaries cannot create or manage armies."/>
     <string id="armorTier" text="Рівень броні: "/>
-    <string id="aROohsat" text="Already in another army."/>
+    <string id="aROohsat" text="Вже в іншій армії."/>
     <string id="aTdrjrEh" text="{SWING_DAMAGE_FACTOR}"/>
     <string id="av51ur2M" text="You need at least {REQUIRED_AMOUNT} denars to change the production type of this workshop."/>
     <string id="Avy8Gua1" text="Perks"/>
@@ -181,13 +181,13 @@
     <string id="Hz8XO8wk" text="Governors cannot lead a mobile party and be a governor at the same time."/>
     <string id="I2sZ7K28" text="Are you sure want to reset tutorials?"/>
     <string id="i9OsCshW" text="Це рішення королівства більше не актуальне."/>
-    <string id="idRXFzQ6" text="Already added to the army."/>
+    <string id="idRXFzQ6" text="Вже додано в армію."/>
     <string id="Iefr8Fra" text="Tutorials have been reset."/>
     <string id="IgoxNz2H" text="Покращення воїнів"/>
     <string id="IJdjwXvn" text="Current Level: "/>
     <string id="InqmgBiF" text="Обрана команда"/>
     <string id="Ioiqzz4E" text="You need to be in an army to boost cohesion"/>
-    <string id="ipLqVv1f" text="You cannot invite the ruler's party to your army."/>
+    <string id="ipLqVv1f" text="Ви не можете запросити загін правителя до своєї армії."/>
     <string id="IQY9yykn" text="Продукти харчування"/>
     <string id="IRcy3pWJ" text="Name cannot be empty"/>
     <string id="iSZTOeYH" text="No army to disband."/>
@@ -206,7 +206,7 @@
     <string id="JIr3Jc7b" text="Relinquish all holdings"/>
     <string id="jQdBl4hf" text="Намісник в "/>
     <string id="JRKC4ed4" text="This workshop has not been producing for {DAY} {?PLURAL_DAYS}days{?}day{\?} due to lack of raw materials in the town market."/>
-    <string id="JTxI3sW2" text="Besieging {TARGET_SETTLEMENT}"/>
+    <string id="JTxI3sW2" text="Взяв в облогу {TARGET_SETTLEMENT}"/>
     <string id="jVLJTuwl" text="Learn more"/>
     <string id="Jyfkahka" text="{VALUE} ({?POSITIVE}+{?}{\?}{DELTA_VALUE})"/>
     <string id="JYOcl7Ox" text="Ineffective!"/>
@@ -394,7 +394,7 @@
     <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})"/>
     <string id="Voa0sinH" text="Необхідно: {NEEDED_EXP_AMOUNT} од (У вас є {CURRENT_EXP_AMOUNT})"/>
     <string id="vOojEcIf" text="You cannot assign a prisoner member as a new party leader"/>
-    <string id="Vq8yavES" text="Already in army."/>
+    <string id="Vq8yavES" text="Вже в армії."/>
     <string id="VtWa9Pmh" text="Raiding {TARGET_SETTLEMENT}."/>
     <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver."/>
     <string id="VZjxs5Dt" text="Власник: "/>
