@@ -122,7 +122,7 @@
     <string id="dEMUqz2Y" text="This workshop will send 20% of its profits above {INITIAL_CAPITAL} capital to your treasury"/>
     <string id="DKJIp6xG" text="Effects"/>
     <string id="DNq9bdvV" text="{THRUST_DAMAGE_FACTOR}"/>
-    <string id="DNXD37JL" text="Settlement's Days Until Food Runs Out"/>
+    <string id="DNXD37JL" text="Днів до закінчення їжі в поселенні"/>
     <string id="dO95yR9b" text="Thrust Damage"/>
     <string id="dOa7frHR" text="Показувати тільки розблоковані частини"/>
     <string id="Dqydb21E" text=" {PARTY_SIZE}"/>
@@ -132,8 +132,8 @@
     <string id="eHVq6yDa" text="Item Properties"/>
     <string id="eIgC6YGp" text="Tariffs"/>
     <string id="eIGFuGOx" text="Give Settlement"/>
-    <string id="EkFDvG7z" text="Settlement Food Stocks"/>
-    <string id="eoVW9z54" text="Average Morale"/>
+    <string id="EkFDvG7z" text="Запаси їжі в поселенні"/>
+    <string id="eoVW9z54" text="Середній бойовий дух"/>
     <string id="EQHq3bHM" text="Прямує до {TARGET_PARTY}{.v_rod}"/>
     <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}"/>
@@ -174,7 +174,7 @@
     <string id="hOVPiG3z" text="Recently rebelled"/>
     <string id="hr4MuPnt" text="Необхідні матеріали"/>
     <string id="hRSezxnT" text="Деякі з ваших воїнів готові до покращення."/>
-    <string id="HTtWslIx" text="Market Food Stocks"/>
+    <string id="HTtWslIx" text="Запаси їжі на ринку"/>
     <string id="hTzTMLsf" text="Дальність огляду"/>
     <string id="huqEEfGD" text="There is no successful raid for {FACTION}"/>
     <string id="hwrQqWir" text="No Skills"/>
@@ -220,7 +220,7 @@
     <string id="KTTyBbsp" text="Max HP"/>
     <string id="kWVbHPtT" text="Всього"/>
     <string id="KxLoeSEO" text="Regrouping"/>
-    <string id="laznt9ZK" text="Settlement Food Change"/>
+    <string id="laznt9ZK" text="Зміна їжі в поселенні"/>
     <string id="lc9s4rLZ" text="Create Army"/>
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}"/>
     <string id="lhIpaGt9" text="There {?(COUNT &gt; 1)}are{?}is{\?} {COUNT} more {?(COUNT &gt; 1)}{PLURAL(WORKSHOP_NAME)}{?}{WORKSHOP_NAME}{\?} in this town."/>
@@ -279,7 +279,7 @@
     <string id="opVqBNLh" text="Ефект"/>
     <string id="OpzzCPiP" text="Слідує за {._}{TARGET_PARTY}{.v_oru}"/>
     <string id="oSfsqBwJ" text="Нема здібностей"/>
-    <string id="OSsSBHKe" text="Settlement's Food"/>
+    <string id="OSsSBHKe" text="Їжа поселення"/>
     <string id="OTaPfaJl" text="{PARTY_2S_MEMBERS}   "/>
     <string id="otaUtXMX" text="+{AMOUNT} relation chance with notables per day."/>
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}"/>
@@ -307,7 +307,7 @@
     <string id="Q1KwpZYu" text="Weapon usage does not match requirements"/>
     <string id="Q8dhryRX" text="Їжа загонів"/>
     <string id="qaQqAYGc" text="Прямує до загону {LEADER.NAME}{.v_rod}"/>
-    <string id="QBB0KQ2Z" text="Parties' Average Morale"/>
+    <string id="QBB0KQ2Z" text="Середній бойовий дух загонів"/>
     <string id="qBq70qDq" text="Current Project"/>
     <string id="qbqimqMb" text="{GOVERNOR.NAME} на шляху до {SETTLEMENT_NAME}{.v_rod}, щоб стати новим намісником"/>
     <string id="qdoJOH0j" text="Party Wage"/>
@@ -335,7 +335,7 @@
     <string id="RClxLG6N" text="Очікує"/>
     <string id="recruitVerb" text="Вербувати"/>
     <string id="rgqA29b8" text="You don't have enough {SKILL_NAME} skill to equip this item"/>
-    <string id="rGy8vjOv" text="Defending {TARGET_SETTLEMENT}."/>
+    <string id="rGy8vjOv" text="Захищає {TARGET_SETTLEMENT}."/>
     <string id="Rkh2k1OA" text="Завершення:"/>
     <string id="rkubGa4K" text="Ви дійсно бажаєте повернути це поселення назад своєму королівству?"/>
     <string id="rOKAvjtT" text="Gift Settlement"/>
