@@ -314,7 +314,7 @@
     <string id="Z3E8MDaB" text="You attacked my village at {SETTLEMENT_NAME}. Oh, I won't pretend that my men would also have had a bit of fun if it was me paying a visit to your village. But as my tenants' protector, I have a certain obligation to avenge them a bit. Please don't take this personally."/>
     <string id="ZH04pkV6" text="king of the Sturgians"/>
     <string id="ZlA0uc8z" text="Thank you again for agreeing to handle that problem of mine. Best of luck with it."/>
-    <string id="zPbQs8Zt" text="I can offer you a glorious death in battle, or the hospitality of my dungeons.[ib:warrior][if:convo_mocking_teasing]"/>
+    <string id="zPbQs8Zt" text="Я можу запропонувати тобі славну смерть у бою або гостинність своєї темниці.[ib:warrior][if:convo_mocking_teasing]"/>
     <string id="zwRbpQJ0" text="I've heard of you! A pity we should meet like this."/>
     <string id="zZ9FQJRI" text="I am {CONVERSATION_CHARACTER.LINK}, of the {CLAN_NAME}, the most ancient and noble of the Aserai lineages."/>
   </strings>
