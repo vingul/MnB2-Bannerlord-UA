@@ -195,7 +195,7 @@
     <string id="ITKb4cKv" text="{ITEM_NAME} is not equippable."/>
     <string id="iuKvbKJ7" text="Running"/>
     <string id="iXXTONWb" text=" ({PARTY_SIZE})"/>
-    <string id="iZ3w6opW" text="Cohesion"/>
+    <string id="iZ3w6opW" text="Згуртованість"/>
     <string id="j12VrGKz" text="Army"/>
     <string id="j3iwQmoA" text="Кількість очок фокусу: {CURRENT_AMOUNT}"/>
     <string id="j4BdjLYp" text="Почати розмову з цим членом клану."/>
@@ -305,7 +305,7 @@
     <string id="q1DVNQS7" text="Under Attack! ({RESPONSE_TIME} {?RESPONSE_TIME&gt;1}days{?}day{\?} left.)"/>
     <string id="q1J4a8rr" text="Швидкість вивчення"/>
     <string id="Q1KwpZYu" text="Weapon usage does not match requirements"/>
-    <string id="Q8dhryRX" text="Parties' Food"/>
+    <string id="Q8dhryRX" text="Їжа загонів"/>
     <string id="qaQqAYGc" text="Прямує до загону {LEADER.NAME}{.v_rod}"/>
     <string id="QBB0KQ2Z" text="Parties' Average Morale"/>
     <string id="qBq70qDq" text="Current Project"/>
@@ -342,7 +342,7 @@
     <string id="rsHPaaYZ" text="Cohesion needs to be lower than {MINAMOUNT} to boost"/>
     <string id="rThSy9ed" text="Необхідно: {UPGRADE_ITEM} (У вас жодного немає)"/>
     <string id="rUeWBOOi" text="Виберіть предмет для переплавлення"/>
-    <string id="rwKBR4NE" text="Average Days Until Food Runs Out"/>
+    <string id="rwKBR4NE" text="Середня кількість днів до закінчення їжі"/>
     <string id="s06mScpJ" text="If you have goods in the warehouse, they will be transferred to your party. Are you sure?"/>
     <string id="S1iS3OYj" text="Party leader is default for unassigned roles"/>
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army"/>
