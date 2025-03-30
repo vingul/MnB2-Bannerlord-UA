@@ -563,7 +563,7 @@
     <string id="eAGeVRjI" text="Ви отримали {GOLD_AMOUNT}{GOLD_ICON}."/>
     <string id="EAicirVE" text="Fearless"/>
     <string id="eaIQXj6O" text="Доступні очки характеристик: {NUMBER}"/>
-    <string id="ealIwlQH" text="Defending {SETTLEMENT_NAME}"/>
+    <string id="ealIwlQH" text="Захищає {SETTLEMENT_NAME}"/>
     <string id="eavr4x8n" text="Будівництво:"/>
     <string id="eb0nLx5E" text="Aserai Sultanate"/>
     <string id="EbB9y2zZ" text="Declare War"/>
@@ -1315,7 +1315,7 @@
     <string id="R7v2UD8b" text="You move a pawn."/>
     <string id="R9DiQfax" text="Битва"/>
     <string id="RaAnj4On" text="Захисники"/>
-    <string id="rangedtroop" text="Стрільці"/>
+    <string id="rangedtroop" text="{.p}Стрілець{.R_n22_p}"/>
     <string id="ranksign" text="#"/>
     <string id="rBieLPA7" text="Ви перевищили ліміт воїнів.{newline}Ви тимчасово утримаєте своїх воїнів, але все ж через деякий час вони швидко покинуть ваш загін. Ви також сповільните свій рух.{newline}Ви впевнені?"/>
     <string id="Rbn9l507" text="Rebel settlement bonus"/>
