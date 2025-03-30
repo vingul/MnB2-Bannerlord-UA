@@ -4057,7 +4057,7 @@
     <string id="tzuN76ma" text="{FIRSTNAME} of the Axe"/>
     <string id="TzvGs0v1" text="Well I guess it's too late to change your mind now, I decided to make an example of you.[if:convo_furious][ib:warrior]"/>
     <string id="tZw45isr" text="Tell the villagers that they made their point and that you're leaving"/>
-    <string id="u0Dc5g4Z" text="You are in your town of {SETTLEMENT_LINK}. {KEEP_INFO}"/>
+    <string id="u0Dc5g4Z" text="Ви перебуваєте у своєму місті {SETTLEMENT_LINK}. {KEEP_INFO}"/>
     <string id="u0pofzPq" text="Please reconsider. Whether you help me or not, I will make sure other merchants will hear of your decision.[if:convo_very_stern][ib:closed2]"/>
     <string id="U0UoayfA" text="Good, good. Thank you again."/>
     <string id="U2buPiec" text="Знання логістики"/>
@@ -4139,7 +4139,7 @@
     <string id="uKTgBX4S" text="Подвоює кількість слави, отримуваної на турнірах."/>
     <string id="UKTjwBxk" text="Please be quick about it!"/>
     <string id="Ukv1FQa2" text="I've changed my mind. You may go on your way."/>
-    <string id="UL8za0AO" text="You are wounded."/>
+    <string id="UL8za0AO" text="Ви поранені."/>
     <string id="ulFmGvtj" text="інтерес до людей."/>
     <string id="uLiRasv1" text="Maybe you could take them in your party for a while, until they get a bit of experience?[if:convo_thinking]"/>
     <string id="ULpP07bg" text="You promised to share half of the profit with the headman and the villager."/>
