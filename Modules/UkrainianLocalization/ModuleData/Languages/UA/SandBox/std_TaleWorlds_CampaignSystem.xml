@@ -1181,7 +1181,7 @@
     <string id="bMSI9Bt3" text="Council of the Commons"/>
     <string id="bmW77NvO" text="What about my {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?}?"/>
     <string id="bN3bLDb2" text="Здобич після бою +{a0}%"/>
-    <string id="bn5fpYx3" text="{newline} • {HERO.NAME} must use {INFLUENCE_AMOUNT} influence to convince {CRUEL_LORD_COUNT} non-merciful leaders of this action:{newline} {CRUEL_LORDS}"/>
+    <string id="bn5fpYx3" text="{newline} - {HERO.NAME} повинен використати {INFLUENCE_AMOUNT} впливу, щоб переконати {CRUEL_LORD_COUNT} {#GET_PLURAL_VALUE(CRUEL_LORD_COUNT)}жорстокого лідера{#}жорстоких лідерів{#}жорстоких лідерів{\#} у цій дії:{newline} {CRUEL_LORDS}"/>
     <string id="bNAbWn4E" text="I've been watching how you deal with different kinds of folk: how to present yourself, how to address people from various walks of life properly, how to inspire greatness to those who trust in you.[if:convo_calm_friendly][ib:confident]"/>
     <string id="bNAG2t8S" text="Well, my friend, either you're playing us false or you're just not very good at this. Either way, {QUEST_GIVER.LINK} wishes to tell you that {?QUEST_GIVER.GENDER}her{?}his{\?} association with you is over.[if:convo_predatory][ib:closed2]"/>
     <string id="BNb88lyN" text="Never mind. Go on your way."/>
@@ -1200,7 +1200,7 @@
     <string id="bOtYmSP8" text="Дорожній збір"/>
     <string id="boXP9vkF" text="{VALUE}% відстані виявлення сліду."/>
     <string id="bOyjQ4yr" text="If you can deliver {REQUESTED_AMOUNT} {.%}{?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%} to my contact {TARGET_HERO.LINK}, who you can find in {TARGET_SETTLEMENT}, that would help me survive for a time. The merchants of the town could be furious and lodge legal complaints of course, but hopefully you won't have to deal with that part."/>
-    <string id="Bp0ZQbfp" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} has decided to show mercy to the people of {SETTLEMENT}. You can hear disgruntled murmuring among the troops, who have been denied their customary right of pillage."/>
+    <string id="Bp0ZQbfp" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} {?ARMY_LEADER.GENDER}вирішила{?}вирішив{\?} проявити милосердя до жителів {SETTLEMENT}{.v_rod}. Ви чуєте незадоволене бурчання серед солдатів, яким було відмовлено в їхньому праві на грабунок."/>
     <string id="bP3XdKK3" text="{FIRSTNAME} of the Dawn"/>
     <string id="bPbzwMat" text="I could only deliver {AMOUNT_TO_DELIVER} {.%}{?AMOUNT_TO_DELIVER &gt; 1}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}."/>
     <string id="bPcO3Km2" text="Yes, things come up, but my agreement with {QUEST_GIVER.LINK} was for a fixed amount of goods. I don't want to negotiate a new deal. Please come back when you can get the full amount.[if:convo_nervous2][ib:closed]"/>
@@ -2212,7 +2212,7 @@
     <string id="i0h0LKa0" text="Our borders are far from those of the enemy. It is too arduous to pursue this war."/>
     <string id="I0hqrQuD" text="{VALUE}% бонусу до шкоди від швидкості при використанні держакової зброї при їзді верхи."/>
     <string id="I0StkXlK" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? Me and {?PLURAL}{MERCENARY_COUNT} of my mates{?}one of my mates{\?} are looking for a master. You might call us mercenaries, like. We'll join you for {GOLD_AMOUNT}{GOLD_ICON}"/>
-    <string id="I0ZG4tIj" text="{TOWN_NAME} has fallen to your troops. You may station a garrison here to defend it against enemies who may try to recapture it."/>
+    <string id="I0ZG4tIj" text="{TOWN_NAME} було захоплено вашими військами. Ви можете розмістити тут гарнізон для захисту від ворогів, які можуть спробувати його повернути."/>
     <string id="i20baAus" text="{NEWLINE}+{VALUE} до рис «{TRAIT_NAME_ONE}», «{TRAIT_NAME_TWO}» і «{TRAIT_NAME_THREE}»"/>
     <string id="i2FwKPmC" text="Yes, I wanted to talk about something else.."/>
     <string id="i2qOUBF4" text="The child will win any game that involves throwing and aiming, and the local crows have learned to keep their distance lest they want to be hit by a stone."/>
@@ -3207,7 +3207,7 @@
     <string id="oJJiKTSL" text="You are welcome."/>
     <string id="ojNK5Zem" text="(One of the merchants in the town comes to talk as you are preparing to depart.)"/>
     <string id="OJObD61e" text="The headman of {ISSUE_SETTLEMENT} needs grain seeds for the coming sowing season."/>
-    <string id="oJUxWEwp" text="You grant your men their customary right of pillage after a successful siege. You tell them they may take property but must spare the townsfolk's lives."/>
+    <string id="oJUxWEwp" text="Після успішної облоги ви дозволяєте своїм людям здійснити грабунок, згідно зі звичаєм. Ви говорите їм, що вони можуть забирати майно, але повинні берегти життя місцевих жителів."/>
     <string id="Okibjv5n" text="Набридливе дзижчання"/>
     <string id="OKpwA8Az" text="Your men have noticed some of the goods in the baggage train are missing."/>
     <string id="oKWft2IH" text="{VALUE}% шансу, що ваш кінь помре або стане кульгавим після того, як впаде в бою."/>
@@ -4255,7 +4255,7 @@
     <string id="veWOovVv" text="Продовжити..."/>
     <string id="VFO2aQ4l" text="You don't have enough men."/>
     <string id="VFO7rMzK" text="Return Days"/>
-    <string id="VFVqjZwY" text="Your troops sweep through the {?IS_CITY}city{?}fortress{\?}, taking whatever loot they like and setting fire to the rest."/>
+    <string id="VFVqjZwY" text="Ваші війська проносяться через {?IS_CITY}місто{?}фортецю{\?}, забираючи все, що їм сподобалось, а решту підпалюючи."/>
     <string id="Vg7Ftrdl" text="You might say that... I work from dawn to late into the night but even so I can barely put bread on the table. Why's that? Because I can't sell my product at a fair price. The law says that I can only sell to local merchants, and at a fixed rate too, so that even when other prices are high I'm still making the same.[if:convo_annoyed]"/>
     <string id="VgkFpMxF" text="{VALUE}% бойового духу та слави від перемоги у битвах."/>
     <string id="vh4bBfYq" text="You have accepted {TARGET_HERO.LINK}'s offer and freed {?TARGET_HERO.GENDER}her{?}him{\?}. {?TARGET_HERO.GENDER}She{?}He{\?} and {?TARGET_HERO.GENDER}her{?}his{\?} clan would be very happy. On the other hand {ISSUE_OWNER.LINK} will feel {?ISSUE_OWNER.GENDER}she{?}he{\?} is betrayed and be furious."/>
@@ -4510,7 +4510,7 @@
     <string id="x04UGQDn" text="Dungeon"/>
     <string id="x1T8wWNU" text="{VALUE}% швидкості атаки держаковою зброєю за кожну одиницю уміння вище 250."/>
     <string id="x2B0OjhI" text="Казарма"/>
-    <string id="x2dvXNQ0" text="You have decided to show mercy to the people of {SETTLEMENT_NAME}.{newline}You can hear disgruntled murmuring among the troops, who have been denied their customary right of pillage."/>
+    <string id="x2dvXNQ0" text="Ви вирішили проявити милосердя до жителів {SETTLEMENT_NAME}{.v_rod}.{newline}Ви чуєте незадоволене бурчання серед солдатів, яким було відмовлено в їхньому праві на грабунок."/>
     <string id="x346Rqle" text="Your clan is now at war with the {QUEST_GIVER.LINK}'s lord. Your agreement was canceled."/>
     <string id="x3f1w3Gc" text="You have kicked {YOUNG_HERO.LINK} from your clan. Your agreement with {QUEST_GIVER.LINK} was terminated."/>
     <string id="x3SJTtDj" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}бонусне очко{#}бонусних очки{#}бонусних очків{\#} досвіду щодня воїнам у вашому загоні."/>
