@@ -116,7 +116,7 @@
     <string id="4BQaqqzg" text="Безпека:"/>
     <string id="4H1nDlBO" text="Тижнева платня"/>
     <string id="4Hdcxk0a" text="Aggressive"/>
-    <string id="4jLW7hag" text="Dismiss from Army"/>
+    <string id="4jLW7hag" text="Виключити з армії"/>
     <string id="4kKxsVzZ" text="Ваш провулок {.%}{ALLEY_NAME}{.%} у {.S}{TOWN}{.v_mis} захоплено."/>
     <string id="4KXvyxrK" text="Прилегле поселення"/>
     <string id="4l3BLxBC" text="Shoot from siege tower"/>
@@ -462,7 +462,7 @@
     <string id="cAgI2lPn" text="Намісник {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="calculatinglevel3trait" text="Розсудливий"/>
     <string id="caPP57v9" text="Move to Reserve"/>
-    <string id="CaW72yB3" text="Total Cost"/>
+    <string id="CaW72yB3" text="Загальна вартість"/>
     <string id="cBNSgpZN" text="Ви отримаєте &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; до відносин з {.S}{CLAN_NAME}{.v_oru}"/>
     <string id="cBY2MxY0" text="princess"/>
     <string id="cBZ6OlKW" text="{.m}Дротик{.R_n20_a}"/>
@@ -646,7 +646,7 @@
     <string id="FdTd3yIx" text="Changes you made cannot be applied. Do you want to reset and change the screen?"/>
     <string id="fEJQcb4U" text="Зміна рівня вірності"/>
     <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}"/>
-    <string id="fEu5S6Bd" text="Distance"/>
+    <string id="fEu5S6Bd" text="Відстань"/>
     <string id="fEXuXAl1" text="Army Morale : {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}"/>
     <string id="FfVdGZsj" text="+{BONUS_AMOUNT} до виробництва їжі"/>
     <string id="Fg9qCGUu" text="{.m}Виноград{.R_n20}{@Plural}{.p}Ящик{.R_n20_p} винограду{\@}"/>
@@ -884,7 +884,7 @@
     <string id="JHBEwYGT" text="Bought by townsman"/>
     <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are defending key positions of the castle."/>
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}"/>
-    <string id="jiKRLWD4" text="Show in encyclopedia"/>
+    <string id="jiKRLWD4" text="Показати в енциклопедії"/>
     <string id="jIZcOvMT" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} {?NAME.GENDER}була страчена{?}був страчений{\?}."/>
     <string id="JkpSoFQ8" text="Втрати"/>
     <string id="JKQjXH9M" text="двадцять {.m}сьомий{.R_adj}"/>
@@ -931,7 +931,7 @@
     <string id="kHC5EjEJ" text="Minor Faction Bonus"/>
     <string id="Khr5yETv" text="Асераї живуть у пустелі Нахаса. Серед них є кочівники-бедуїни й осілі фермери оазисів. Вони славляться своїм мистецтвом верхової їзди і багатим зібранням знань з усього світу, а особливо - в галузі медицини. Всю цю інформацію вони змогли зібрати, тому що живуть на найприбутковіших торгових шляхах усього континенту. Кожен клан пишається своїм родоводом і нерідко заздрить іншим. Але коли народ асераїв об'єднує гідний правитель, вони стають найбільшою силою південних земель."/>
     <string id="ki5DqTtC" text="+{BONUS_AMOUNT} до процвітання поселення."/>
-    <string id="KiVCv1Bx" text="Besieging {SETTLEMENT_NAME}"/>
+    <string id="KiVCv1Bx" text="Взяв в облогу {SETTLEMENT_NAME}"/>
     <string id="KJDqOGEU" text="Our plan is to fall back in formation to fight another day."/>
     <string id="KkaVpLXd" text="Consider enacting this policy (Support: {SUPPORT}%)"/>
     <string id="KkwLUO3o" text="{.m}шостий{.R_adj}"/>
@@ -1097,7 +1097,7 @@
     <string id="NeWvHjCw" text="Fire Ballista"/>
     <string id="Nfm5lLWv" text="{CHILD.NAME} needs your immediate attention!"/>
     <string id="nfQhamAF" text="Швидкість змаху: "/>
-    <string id="NgHSyQem" text="In Army"/>
+    <string id="NgHSyQem" text="В армії"/>
     <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results"/>
     <string id="nHkQbLDc" text="Can't be used with Mounts"/>
     <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}."/>
@@ -1232,7 +1232,7 @@
     <string id="policypropose" text="Propose"/>
     <string id="porKAP64" text="Consider abolishing this policy ({SUPPORT}%)"/>
     <string id="PpPbWYPB" text="Можна стати найманцем"/>
-    <string id="pPRYdrk7" text="Army Management"/>
+    <string id="pPRYdrk7" text="Керування армією"/>
     <string id="pq48aN8d" text="Morale: {reg1}"/>
     <string id="pQ9Sxily" text="Вітаю, чемпіоне! Твій бій був просто неперевершеним! Як останній, хто залишився на ногах, ти, звичайно, отримуєш головний приз: {PRIZE}{GOLD_ICON}."/>
     <string id="PqfS5lgq" text="{ABSORBED_AMOUNT} damage has been absorbed by {ARMOR_AMOUNT} armor."/>
@@ -1249,7 +1249,7 @@
     <string id="PVUeymMR" text="Виконується"/>
     <string id="pwFp1A5W" text="Sadistic"/>
     <string id="PYaUEZzn" text="Consider declaring war (Support: {SUPPORT}%)"/>
-    <string id="PylbJEe5" text="Men #"/>
+    <string id="PylbJEe5" text="Людей"/>
     <string id="Q0qrw7F5" text="Add Focus"/>
     <string id="Q2alNolf" text="my kinswoman {REFERING_HERO.LINK}"/>
     <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are retreating."/>
@@ -1373,7 +1373,7 @@
     <string id="settlementtrack" text="Стежити"/>
     <string id="sfcbd6QS" text="You've scored {CURRENT_PROGRESS} points out of the {TARGET_PROGRESS} needed to succeed in this persuasion attempt."/>
     <string id="SFddKpPz" text="Tightfisted"/>
-    <string id="SFg3xgCM" text="Nearby"/>
+    <string id="SFg3xgCM" text="Поблизу"/>
     <string id="sFpNAqHs" text="Compassionate"/>
     <string id="Sj9Ux8jS" text="Дезертирства"/>
     <string id="sJLUbnLl" text="Загальна сила"/>
@@ -1498,7 +1498,7 @@
     <string id="Uu0wzNj3" text="Рівень клану: {TIER} "/>
     <string id="uUlO8l6M" text="Heard you got into a fight with some of the people working for {COMMON_AREA_OWNER}. Well, that's no business of mine."/>
     <string id="uuwm0Kga" text="Door"/>
-    <string id="uvIL0tP9" text="Seeing Range"/>
+    <string id="uvIL0tP9" text="Дальність огляду"/>
     <string id="uwPByaQg" text="Begin Assault"/>
     <string id="UX7reJ3K" text="We must rush to defend our siege machines lest the enemy destroy them."/>
     <string id="UxD6lPXa" text="Ви отримали {INFLUENCE} впливу. Тепер у вас {NEW_INFLUENCE} впливу."/>
@@ -1687,7 +1687,7 @@
     <string id="yRTV90eN" text="Вам необхідно обрати бажаний варіант."/>
     <string id="yrvH6Oa1" text="Wait in the starting position!"/>
     <string id="ySlVPZyF" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
-    <string id="YSM0lxns" text="Cost"/>
+    <string id="YSM0lxns" text="Ціна"/>
     <string id="ySmxkiKH" text="Let's go!"/>
     <string id="ytlsMCCn" text="{DESERTER_COUNT} {?PLURAL}troops{?}troop{\?} have deserted from {PARTY}."/>
     <string id="ytYPOCZ8" text="{NUMBER}% Completed"/>
