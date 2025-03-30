@@ -117,7 +117,7 @@
     <string id="4H1nDlBO" text="Тижнева платня"/>
     <string id="4Hdcxk0a" text="Aggressive"/>
     <string id="4jLW7hag" text="Dismiss from Army"/>
-    <string id="4kKxsVzZ" text="Your alley {.%}{ALLEY_NAME}{.%} at {TOWN} is captured."/>
+    <string id="4kKxsVzZ" text="Ваш провулок {.%}{ALLEY_NAME}{.%} у {.S}{TOWN}{.v_mis} захоплено."/>
     <string id="4KXvyxrK" text="Прилегле поселення"/>
     <string id="4l3BLxBC" text="Shoot from siege tower"/>
     <string id="4M8h8ufy" text="Not Usable With Two Hands"/>
@@ -232,7 +232,7 @@
     <string id="8apwrVjc" text="До ліміту загону"/>
     <string id="8B7V0qdT" text="You have lost the battle!"/>
     <string id="8bSHlWBL" text="В місті на цей момент нема турнірів."/>
-    <string id="8c8NDpAd" text="{HERO.NAME} has gained {TRAIT_NAME} trait."/>
+    <string id="8c8NDpAd" text="{HERO.NAME} отримав рису «{TRAIT_NAME}»."/>
     <string id="8cY08v3s" text="Село середнього достатку. Люди і тварини виглядають вгодованими. Селяни заклопотані сезонними роботами."/>
     <string id="8fLMcFFG" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року ви розгорнули Стяг Дракона і урочисто поклялися {?PLAYER_WANTS_RESTORE}відновити{?}знищити{\?} Імперію."/>
     <string id="8geYNpC9" text="Missile {THRUST_DAMAGE_TYPE} Damage: "/>
