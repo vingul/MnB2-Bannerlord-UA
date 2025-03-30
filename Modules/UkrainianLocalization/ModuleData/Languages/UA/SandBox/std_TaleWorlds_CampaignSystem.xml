@@ -31,7 +31,7 @@
     <string id="0D1ty8JA" text="Coordination"/>
     <string id="0DaxFvnw" text="{VALUE}% шкоди від лучників вашого підрозділу."/>
     <string id="0dbwEczK" text="Штраф до шкоди вашої зброї верхи: {a0}%"/>
-    <string id="0DpoSNky" text="You are commanding the besiegers."/>
+    <string id="0DpoSNky" text="Ви командуєте облогою."/>
     <string id="0dY1xyyK" text="This is a dangerous step, however, and I'm putting my life and the lives of my people at risk. I need some sort of support from you before I can change my allegiance.[if:convo_stern]"/>
     <string id="0eAc6WQk" text="I would like to enter {FACTION_SERVICE_TERM}."/>
     <string id="0eAtiZbL" text="I have no answer to that."/>
@@ -155,7 +155,7 @@
     <string id="1Tft1d4A" text="{FIRSTNAME} the Boulder"/>
     <string id="1tGP6vJn" text="Target settlement is under attack right now."/>
     <string id="1UBNuatk" text="Faris"/>
-    <string id="1UO0yMBr" text="You can not parley during an ongoing battle."/>
+    <string id="1UO0yMBr" text="Ви не можете вести переговори під час битви."/>
     <string id="1V6DRayw" text="You don't have {BRIBE_COST} denars."/>
     <string id="1V8f9vRM" text="Посланець з мирною пропозицією від {PROPOSER_HERO_FACTION}{.v_rod} прибув до двору вашого королівства."/>
     <string id="1V9GeKr8" text="Fah...I don't need more men. Thank you."/>
@@ -246,7 +246,7 @@
     <string id="2wwAyZdL" text="{newline} • Army Gold Gain : {ARMY_GOLD_GAIN}"/>
     <string id="2XbzsQkM" text="Hmf. Really?[ib:closed][if:idle_angry]"/>
     <string id="2xLwjXYm" text="Rest easy. Your captivity has ended."/>
-    <string id="2xVbLS5r" text="Request a parley"/>
+    <string id="2xVbLS5r" text="Попросити про переговори"/>
     <string id="2y7gahYi" text="Добродушність"/>
     <string id="2y9DhzCR" text="Ви ось-ось втратите караван з поля зору. Знайдіть караван до того, як він опиниться в небезпеці!"/>
     <string id="2YiPE05P" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. Your companion will no doubt be very helpful."/>
@@ -302,7 +302,7 @@
     <string id="3MLtqFPt" text="Громовий розряд"/>
     <string id="3MOJjS7A" text="{VALUE}% покращення стосунків з людиною тієї ж статі."/>
     <string id="3n1KRLpZ" text="'My love is far \n I know not where \n Perhaps the winds shall tell me'"/>
-    <string id="3nbuRBJK" text="Forget it."/>
+    <string id="3nbuRBJK" text="Забудь."/>
     <string id="3nfPGbN0" text="Donated prisoners exceed party capacity."/>
     <string id="3NROvpcO" text="Slowhand {FIRSTNAME}"/>
     <string id="3nT5wWzb" text="Здатися."/>
@@ -1420,7 +1420,7 @@
     <string id="CuFvVPNt" text="I have a proposal that may benefit us both."/>
     <string id="CVClzSC7" text="I believe you have already pledged yourself to another liege."/>
     <string id="CVdK1ax1" text="Фортифікації"/>
-    <string id="CVg3P07C" text="Assault the siege camp."/>
+    <string id="CVg3P07C" text="Штурмувати облоговий табір."/>
     <string id="CVp0j9al" text="You have defeated the enemies outside the walls. Now you decide to..."/>
     <string id="CVVttuuQ" text="{?CHILD.GENDER}організовувала{?}організовував{\?} подорожі."/>
     <string id="cvWxXGo5" text="I can do the job."/>
@@ -1479,7 +1479,7 @@
     <string id="DBabgrcC" text="This hero is not available right now."/>
     <string id="dbEb7iak" text="Шлях великої сокири"/>
     <string id="dbG3PGXL" text="I'm glad you think that way. Combat aside, have you learned anything special?"/>
-    <string id="DbOv36TA" text="Go ahead with that."/>
+    <string id="DbOv36TA" text="Все одно продовжувати."/>
     <string id="dBphGKTI" text="Things are getting a bit rough around these parts. I have some lads who help me out with local troublemakers, but they wouldn't last long against real warriors. Maybe you could take them out, show them what actual war is about. I'm not expecting you to make them fit for a noble's retinue, but at least I want to give the bandits around here some pause for thought.[if:convo_bored][ib:closed]"/>
     <string id="DbraLcwM" text="I need more time to find proper men."/>
     <string id="dbUybDTG" text="Майстерний вершник"/>
@@ -1498,7 +1498,7 @@
     <string id="DEnFOGhS" text="Fight me if you dare!"/>
     <string id="dEXpZOlC" text="{QUEST_GIVER}{.o} informants reported that {MALE_LESSER_NOBLE_NAME}{.o} party has been seen near {VILLAGE}."/>
     <string id="DfbYtRyj" text="У вас були сумніви щодо того, чи варто дарувати {?PLAYER_CHILD}своїй{?}{\?} дитині таку жваву тварину, але в одну мить {?CHILD.GENDER}вона вискочила на спину і помчала{?}він вискочив на спину і помчав{\?}, мов вітер, через пасовиська."/>
-    <string id="dFcgXnQq" text="Break out"/>
+    <string id="dFcgXnQq" text="Прорватися"/>
     <string id="dfEi6GSE" text="We will fight for you if you can afford our fee. Please have a look at our terms and see if they are acceptable."/>
     <string id="DFkzQHRQ" text="'For all the silks of the Padishah \n For all the Emperor's gold \n For all the spice in the distance East...'"/>
     <string id="Dfl5WJfN" text="Enough talking. Now march."/>
@@ -1723,7 +1723,7 @@
     <string id="eQzskygV" text="{?QUEST_GIVER.GENDER}She{?}He{\?} will make payment as {EXCHANGE_ITEM_COUNT} {?EXCHANGE_ITEM_COUNT&gt;1}units{?}unit{\?} of {._}{EXCHANGE_ITEM} when the task is done."/>
     <string id="eR7P1cVA" text="{VILLAGE} Needs Crafting Materials"/>
     <string id="ERh2DVEa" text=" • Prosperity Lost: {PROSPERITY_LOST_AMOUNT}"/>
-    <string id="ErkaEHBp" text="On second thought, forget it."/>
+    <string id="ErkaEHBp" text="Хоча, якщо подумати... Забудь."/>
     <string id="ErKDfLWJ" text="I have more urgent business to handle. I will get there when I can."/>
     <string id="erKuPRWA" text="I have a plan to rise in this world. I'm still only a little way up the ladder."/>
     <string id="EsF8sEaQ" text="And as such, that you are my commander, and I shall follow you wherever you lead."/>
@@ -1778,7 +1778,7 @@
     <string id="eZYtkDff" text="This hero is currently fugutive."/>
     <string id="F16k4H7R" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the animals are delivered. You asked your {COMPANION.LINK} and {ALTERNATIVE_TROOP_AMOUNT} of your men to deliver {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%} to {QUEST_GIVER.LINK}. They will rejoin your party in {RETURN_DAYS} days."/>
     <string id="F1CJo2wX" text="{VALUE}% міцності щита."/>
-    <string id="f1etg9oL" text="Think of something else."/>
+    <string id="f1etg9oL" text="Придумати щось інше."/>
     <string id="F1syZDs4" text="{NEWLINE}+{VALUE} до рис «{TRAIT_NAME_ONE}» і «{TRAIT_NAME_TWO}»"/>
     <string id="F2H2lZJ4" text="{VALUE}% броні для піхоти вашого підрозділу."/>
     <string id="F2SzaTmk" text="Mmm, a generous gift to my coffers would certainly help matters... {BRIBE_MONEY}{GOLD_ICON} should do it. If you agree, then I'll go with your suggestion."/>
@@ -2200,7 +2200,7 @@
     <string id="HX7E09XJ" text="You failed to complete the quest in time."/>
     <string id="hXGByLG9" text="Sharing the same Kingdom"/>
     <string id="hXmmofDN" text="Here are the denars. You can tell your friends to bring out the {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%}."/>
-    <string id="hxnCr8bm" text=" Other parties of your army lost {NUMBER} {?PLURAL}troops{?}troop{\?}."/>
+    <string id="hxnCr8bm" text="Інші загони вашої армії втратили {NUMBER} воїн{#GET_PLURAL_VALUE(NUMBER)}а{#}ів{#}ів{\#}.&#10;"/>
     <string id="hXqSlJM7" text="{VALUE} до максимальної місткості амбару у підконтрольному поселенні."/>
     <string id="HYGKcgh6" text="Your captors engage in a battle. You take advantage of the confusion and escape."/>
     <string id="hynFV8jC" text="Extra size bonus (Perk-like Effect)"/>
@@ -2324,7 +2324,7 @@
     <string id="isGIZ18i" text="The guards gave all your weapons back to you."/>
     <string id="IsHyjvSq" text="Останнє влучання"/>
     <string id="ISOHhXxW" text="Yes. I have brought your grain and wine as you requested."/>
-    <string id="ISoR0vaR" text="{ATR_1} and {ATR_2}"/>
+    <string id="ISoR0vaR" text="{ATR_1} і {ATR_2}"/>
     <string id="iSppZBje" text="You don't need to know the full story of the child's escapades in the {?IS_BATTANIA}bard{?}minstrel{\?}'s company, but the {?IS_BATTANIA}bard{?}minstrel{\?} does inform you that {?CHILD.GENDER}she{?}he{\?} shows some natural talent in {SKILL}."/>
     <string id="ITboR6C1" text="The men say we're running low on food. We should be more careful of that."/>
     <string id="iTgVn26a" text="You have failed to bring the weapons to {QUEST_GIVER.LINK} in time."/>
@@ -2364,7 +2364,7 @@
     <string id="J0Clb1RD" text="If you don't have the time, at least send one of your best companions with {TROOP_COUNT} experienced men for {RETURN_DAYS} days.[if:convo_stern][ib:closed]"/>
     <string id="j0QKnNqK" text="The training of {YOUNG_HERO.LINK} has been completed successfully. Both He and his clan is grateful to you."/>
     <string id="j0UDi2AN" text="Clan tier should be at least {TIER}."/>
-    <string id="J1aEaygO" text="You devised a plan to fight your way through the attackers to escape from the fortress. You and most of your men may survive, but as many as {POSSIBLE_CASUALTIES} {?PLURAL}troops{?}troop{\?} may be lost."/>
+    <string id="J1aEaygO" text="Ви розробили план, як пробитися крізь нападників і втекти з фортеці. Ви і більшість ваших людей виживуть, але {POSSIBLE_CASUALTIES} воїн{#GET_PLURAL_VALUE(POSSIBLE_CASUALTIES)} може{#}и можуть{#}ів можуть{\#} загинути."/>
     <string id="J1GSW0yk" text="Допитливий коваль"/>
     <string id="J2Iok9lT" text="An ally has paid your ransom."/>
     <string id="j3Hcp9RQ" text="{VALUE} болт{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} у колчані кожного арбалетника вашого підрозділу."/>
@@ -2603,7 +2603,7 @@
     <string id="KjR0HhJv" text="{?CHILD.GENDER}навчилась{?}навчився{\?} нападати здалеку."/>
     <string id="kJwpbptU" text="Well, try to stay close to me at all times and try to learn as much as you can."/>
     <string id="KK3DAGej" text="{VALUE}% шансу попадання по далекобійних облогових знаряддях під час облогового бомбардування."/>
-    <string id="KKB2vNFr" text="Sally out"/>
+    <string id="KKB2vNFr" text="Влаштувати вилазку."/>
     <string id="KKeRi477" text="All right, lads. Let's kill the boss.[if:convo_predatory][ib:aggressive]"/>
     <string id="kknvzzcG" text="{VICTIM.LINK} died in a battle against {FACTION_LINK}."/>
     <string id="KKsCor3D" text="{VALUE}% пробиття броні при атаці зброєю ближнього бою."/>
@@ -2637,7 +2637,7 @@
     <string id="kru5Vpog" text="Yes. I'm glad to have the chance to talk to you. I keep an eye on the careers of champions like yourself for professional reasons, and I have a proposal that might interest a good fighter like you. Interested?[ib:confident3][if:convo_bemused]"/>
     <string id="KSeIOHDh" text="(One of the merchants in the town comes to talk as you are preparing to depart.)"/>
     <string id="KSrNutEO" text="{FACTION_LEADER} will decide if war will be declared on the {KINGDOM_NAME}. You can pick your stance regarding this decision."/>
-    <string id="ksTDGuXs" text="{TROOP_TYPE_COUNT} {TROOP_TYPE} {?TROOP_TYPE_COUNT&gt;1}troops{?}troop{\?}"/>
+    <string id="ksTDGuXs" text="{TROOP_TYPE_COUNT} воїн{#GET_PLURAL_VALUE(TROOP_TYPE_COUNT)}а{#}ів{#}ів{\#} {.S}{._}{TROOP_TYPE}{.v_rod}"/>
     <string id="KSWdxKPJ" text="{VALUE}% шкоди, що завдають ваші воїни у битві проти ворога."/>
     <string id="ksXTQXOX" text="створити зброю."/>
     <string id="ksZXyDJG" text="Don't do anything stupid, like trying to run away. I will be watching you."/>
@@ -2727,7 +2727,7 @@
     <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Army Commander has canceled the mission."/>
     <string id="LCOZZMta" text="Назва фракції не повинна починатися або закінчуватися пробілами"/>
     <string id="LCsu8rXa" text="{VALUE}% швидше прицілювання з арбалета."/>
-    <string id="lCYPxuWN" text="The enemy is alert, you cannot ambush right now."/>
+    <string id="lCYPxuWN" text="Ворог насторожі, зараз неможливо влаштувати засідку."/>
     <string id="ldD4sVOi" text="{VALUE}% зменшення шкоди військам вашого підрозділу."/>
     <string id="LDhU5urT" text="So that's how it is, is it? Right then - I'll make one of you bleed before I go down.[if:convo_angry][ib:aggressive]"/>
     <string id="ldJDR7t1" text="Our realms should make peace."/>
@@ -2739,7 +2739,7 @@
     <string id="lEi1hIIt" text="Ви можете підіймати предмети з землі, перебуваючи верхи."/>
     <string id="lEK7gx3G" text="I won't take you prisoner today."/>
     <string id="lekpGqEA" text="{VALUE}% шкоди їздовим тваринам від воїнів вашого підрозділу."/>
-    <string id="LEKzuGzi" text="Ambush"/>
+    <string id="LEKzuGzi" text="Влаштувати засідку"/>
     <string id="LEoZ2DV5" text="пильне око і тверду руку."/>
     <string id="LEsuGM8a" text="Let no one - not even your family - come between us!"/>
     <string id="lF41sN5r" text="You see the glint of mischief on {?CHILD.GENDER}her{?}his{\?} smiling face. Any sweet left unattended in the kitchen for even a few minutes is quickly stolen."/>
@@ -3260,7 +3260,7 @@
     <string id="OyjWJBhI" text="I want to join your army."/>
     <string id="OymJQD7M" text="Actually, I don't have any available men right now..."/>
     <string id="OZXEMb2C" text="Оратор"/>
-    <string id="OzyrsZZK" text="You fought your way through the attackers to escape from the settlement. When, after some time your forces regroup, you take a quick tally only to see you have lost the following: {CASUALTIES}.{OTHER_CASUALTIES}"/>
+    <string id="OzyrsZZK" text="Ви пробилися крізь нападників і втекли з поселення. Коли через деякий час ваші сили перегрупувалися, ви зробили швидкий підрахунок і побачили, що зазнали таких втрат: {CASUALTIES}.{OTHER_CASUALTIES}"/>
     <string id="P0iCmQAf" text="{VALUE}% досвіду від битв для воїнів у вашому загоні, озброєних метальною зброєю."/>
     <string id="P10E5o9l" text="{VALUE}% споживання їжі у вашому загоні під час облог."/>
     <string id="p12tSfCC" text="Стрімкість розвідника"/>
@@ -3296,7 +3296,7 @@
     <string id="PAwDV08b" text="Присяга лікаря"/>
     <string id="PB5iowxh" text="Традиції кочівників"/>
     <string id="pb8fmbVl" text="You asked your {?IS_BATTANIA_OR_KHUZAIT}lorekeeper{?}scholar{\?} to focus particularly on the art of..."/>
-    <string id="pBAx7jTM" text="With whom do you want to meet?"/>
+    <string id="pBAx7jTM" text="З ким ви хочете зустрітися?"/>
     <string id="pBb6sevv" text="It is enough to say that I am looking for a new employer, and I will serve loyally so long as I am treated well and paid well."/>
     <string id="pbDr5JFs" text="{FIRSTNAME} the Steward"/>
     <string id="PBGiIbEM" text="{ISSUE_GIVER.NAME} Needs Help With Brigands"/>
@@ -3340,7 +3340,7 @@
     <string id="PHAm9BIp" text="{COMPANION.LINK} and the men you sent with {?COMPANION.GENDER}her{?}him{\?} successfully protected the caravan. {QUEST_GIVER.LINK} is happy and sends you {?QUES_GIVER.GENDER}her{?}him{\?} regards with {REWARD_GOLD}{GOLD_ICON} he promised."/>
     <string id="pHbnAZtt" text="навчитися торгувати, як досвідчений торговець."/>
     <string id="pHdIgnYu" text="{VALUE}% шкоди від снарядів воїнам вашого підрозділу."/>
-    <string id="PHe0oco1" text="You fought your way through the attackers to reach the gates. The defenders open them quickly to let you through. When the gates are safely closed behind you, you take a quick tally only to see you have lost the following: {CASUALTIES}.{OTHER_CASUALTIES}"/>
+    <string id="PHe0oco1" text="Ви пробилися крізь нападників і дісталися до воріт. Захисники швидко відчиняють їх, щоб пропустити вас. Коли ворота зачиняються за вами, ви робите швидкий підрахунок і бачите, що зазнали таких втрат: {CASUALTIES}.{OTHER_CASUALTIES}"/>
     <string id="pHmz4GZN" text="Everything is easier when people are pleased by your presence. Proper grace and etiquette will be useful even among enemies."/>
     <string id="pHrxeTdc" text="Полонені:"/>
     <string id="PI6ikMsc" text="I'm working on it."/>
@@ -3807,7 +3807,7 @@
     <string id="scjHmuyF" text="Complete Crafting Orders"/>
     <string id="scmTEn90" text="You may tell them. {TARGET_SETTLEMENT} will be ours within 60 days."/>
     <string id="SCpINAZ1" text="{?CHILD.GENDER}полювала{?}полював{\?} на бандитів."/>
-    <string id="sd15CQHI" text="You devised a plan to distract the besiegers so you can rush the fortress gates, expecting the defenders to let you in. You and most of your men may get through, but as many as {POSSIBLE_CASUALTIES} {?PLURAL}troops{?}troop{\?} may be lost."/>
+    <string id="sd15CQHI" text="Ви розробили план, як відволікти облогу, щоб прорватися до воріт фортеці, розраховуючи, що захисники впустять вас всередину. Вам і більшості ваших людей вдасться прорватися, але {POSSIBLE_CASUALTIES} воїн{#GET_PLURAL_VALUE(POSSIBLE_CASUALTIES)} може{#}и можуть{#}ів можуть{\#} загинути."/>
     <string id="SdK678BT" text="{FIRSTNAME} of the Cavern"/>
     <string id="sdQoXkKq" text="знайти свій власний шлях."/>
     <string id="SDzIAtiA" text="Полонені {SETTLEMENT_NAME}{.v_rod}"/>
@@ -4359,7 +4359,7 @@
     <string id="VzzQX4EZ" text="Maybe you're right. I won't get involved in this."/>
     <string id="W0cfTJQv" text="{VALUE}% вартості покращення піхотних воїнів."/>
     <string id="w0FD9U98" text="{QUEST_GIVER.LINK}'s village is raided. Your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} is moot."/>
-    <string id="W0FR7yy0" text="You are commanding the defenders."/>
+    <string id="W0FR7yy0" text="Ви командуєте захисниками."/>
     <string id="w0LOgr9e" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} характеристик до Сили і Контролю для бандитів у вашому загоні."/>
     <string id="W0w0Eunx" text="Your companion {COMPANION.LINK} has delivered {ISSUE_GIVER.LINK}'s goods as you promised."/>
     <string id="W0Zu4iDz" text="Швидкість перезаряджання арбалета: +{a0}%"/>
@@ -4526,7 +4526,7 @@
     <string id="xADZi2bK" text="I'll go and find my men. I will remember your help..."/>
     <string id="xaNpQsjh" text="The child seems to never tire, running {?CHILD.GENDER}her{?}his{\?} caretakers ragged, and is rarely cranky."/>
     <string id="XaPMUJV0" text="Whatever you have, I'm taking it. Surrender or die!"/>
-    <string id="XAvwP3Ce" text="Break in to help the defenders"/>
+    <string id="XAvwP3Ce" text="Прорватися на допомогу захисникам"/>
     <string id="Xaw2CoCG" text="Приріст коней, мулів, корів і овець у селах хузаїтів підвищується на 25%."/>
     <string id="xAWvm25T" text="Effects settlement's loyalty."/>
     <string id="XaZyU3Cn" text="{AGGRESSOR_RULER.NAME} з {.S}{AGGRESSOR_KINGDOM}{.v_rod} {?AGGRESSOR_RULER.GENDER}вирішила{?}вирішив{\?} не розпочинати війну з {.S}{KINGDOM}{.v_oru}, не зважаючи на бажання своєї ради."/>
