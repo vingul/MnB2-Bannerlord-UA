@@ -199,7 +199,7 @@
     <string id="7cMUohRm" text="Керуйте автобитвами. Вигравайте битви проти домінуючих сил противника. Уникайте зіткнень, навіть жертвуючи військами, якщо цього вимагає ситуація."/>
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
     <string id="7EnFh9e5" text="Місцеперебування: {LOCATION}"/>
-    <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing sparsely."/>
+    <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} ведуть поодинокі перестрілки."/>
     <string id="7fjOwwVH" text="Sure, I'll give you a tip. I spoke to some traders who say they just bought some {.%}{ITEM_NAME}{.%} from {SETTLEMENT} at a price of {BUY_COST}{GOLD_ICON} and sold at {DESTINATION} for {SELL_COST}{GOLD_ICON}."/>
     <string id="7hj7Kaoz" text="Загальний дохід"/>
     <string id="7IqpjCDY" text="Executing a prisoner will negatively affect your reputation and will decrease your relation with the prisoner's faction/clan.{newline}You will not be able to undo this action.{newline}Are you sure you want to execute this character?"/>
@@ -785,7 +785,7 @@
     <string id="HQgSPtK6" text="Are you sure you want to exit multiplayer?"/>
     <string id="hqIIEur1" text="Ви зіткнулись з {._}{ARMY}{.v_oru}."/>
     <string id="hroWCoqV" text="Support for enacting"/>
-    <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are waiting for other siege machines to arrive."/>
+    <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {TROOP_NAMES_END} чекають{?}{TROOP_NAMES_END} чекає{\?} на прибуття інших облогових машин."/>
     <string id="HuCClZqT" text="Платня"/>
     <string id="husbandbrotherinlaw" text="brother-in-law"/>
     <string id="husbandfatherinlaw" text="father-in-law"/>
@@ -1448,7 +1448,7 @@
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="TSWen983" text="Активне завдання"/>
     <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
-    <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are using siege weapons."/>
+    <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {TROOP_NAMES_END} використовують{?}{TROOP_NAMES_END} використовує{\?} облогові машини."/>
     <string id="TVcqGJ1r" text="Main hero is imprisoned!"/>
     <string id="TvmDFK6o" text="{REWARD}"/>
     <string id="TVQXa0y0" text="Battle won!"/>
