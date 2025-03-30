@@ -92,7 +92,7 @@
     <string id="17A2DDgD" text="{PEACEMAKER_RULER.NAME} з {.S}{KINGDOM_CONSIDERING_PEACE}{.v_rod} укладає мир з {.S}{KINGDOM}{.v_oru} за повної підтримки своєї ради."/>
     <string id="17cIGVQE" text="Шкода від держакової зброї: +{a0}%"/>
     <string id="18xOURG4" text="Hmm.. No... {IMMEDIATE_FAILURE_LINE}"/>
-    <string id="196tGVIm" text="There are no nobles to meet."/>
+    <string id="196tGVIm" text="Тут немає знаті, з якою можна було б зустрітися."/>
     <string id="1aaoSpNf" text="Your contract with the {QUEST_GIVER.NAME} is still in force. I can't let you go without {?QUEST_GIVER.GENDER}her{?}his{\?} permission."/>
     <string id="1aQAmENB" text="The  {ENEMY_KINGDOM_INFORMAL_NAME} may be strong but their lands are rich and ripe for the taking."/>
     <string id="1atg831t" text="Thank you. Your service will be remembered."/>
