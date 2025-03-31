@@ -3552,7 +3552,7 @@
     <string id="QpQQJjD6" text="Лорд цього замку заборонив вам заходити всередину і сержант вартових, виконуючи цей наказ, повідомив, що його люди будуть стріляти по вас, якщо ви спробуєте підійти ближче."/>
     <string id="QPv1b7f8" text="I haven't had the time yet."/>
     <string id="QqKNxmeF" text="Власник торгового двору"/>
-    <string id="QQtJobYP" text="We need time to recover from the hardships of war."/>
+    <string id="QQtJobYP" text="Нам потрібен час, щоб оговтатися від тягот війни."/>
     <string id="QqVLsf0N" text="{VALUE}% отримуваної шкоди від зіткнень."/>
     <string id="qqzJTfo0" text="Barter line goes here."/>
     <string id="qR3gQrLi" text="Splendid. We'll need to keep moving around, though, so it might be tricky to find us. My fellow nobles will usually know where to find me though, if you ask them.[if:convo_approving][ib:hip2]"/>
