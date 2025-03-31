@@ -4245,7 +4245,7 @@
     <string id="VbUnP1M5" text="Very well. For now, go in peace."/>
     <string id="VbWAsWWY" text="Guide the Tutor"/>
     <string id="vbxQoyN3" text="{RANDOM_HIRE_SENTENCE}"/>
-    <string id="VCREeAF1" text="Disguise yourself and sneak through the gate. ({SNEAK_CHANCE}%)"/>
+    <string id="VCREeAF1" text="Замаскуватися і пробратися через ворота. ({SNEAK_CHANCE}%)"/>
     <string id="VdGyUQH0" text="You have captured {TARGET_HERO.LINK}. It looks like {?TARGET_HERO.GENDER}she{?}he{\?} is desperate and very afraid of being sent to {ISSUE_OWNER.LINK} so for {?TARGET_HERO.GENDER}her{?}his{\?} release, {?TARGET_HERO.GENDER}she{?}he{\?} offers a sum of {BASE_REWARD_X_2}{GOLD_ICON} denars, double of what {ISSUE_OWNER.LINK} was willing to pay for his capture. {ISSUE_OWNER.LINK} on the other hand sends you a letter soon after {TARGET_HERO.LINK}'s capture. The letter reads:"/>
     <string id="VDlbYDmW" text="Please, do it for the sake of our friendship. (-{RELATION_DECREASE} to relation)"/>
     <string id="VdLkZthN" text="Mathematical Aptitude"/>
