@@ -566,7 +566,7 @@
     <string id="6WUaFzlv" text="{?CHILD.GENDER}Вона сама викувала{?}Він сам викував{\?} меч — лезо, гарду та руків'я. Ремісник сказав, що він ніколи не бачив такої відданості і терпіння в такому юному віці."/>
     <string id="6XAvdeEE" text="{ARMY} has been disbanded since kingdom has been changed."/>
     <string id="6XDcZUsb" text="{VALUE}% безпеки, яку забезпечують лучники у підконтрольному поселенні."/>
-    <string id="6XdHP9Pv" text="We're not looking for a fight."/>
+    <string id="6XdHP9Pv" text="Ми не хочемо бійки."/>
     <string id="6XRt8101" text="{ARMY} has been disbanded since the objective is finished"/>
     <string id="6XvszYj2" text="You brought {REQUESTED_AMOUNT} {.%}{?REQUESTED_AMOUNT &gt; 1}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%} to {?QUEST_GIVER.GENDER}her{?}him{\?} as promised."/>
     <string id="6y59FBgL" text="{ISSUEGIVER.LINK}, a merchant from {SETTLEMENT}, has told you about {?ISSUEGIVER.GENDER}her{?}his{\?} recent problems with bandits. {?ISSUEGIVER.GENDER}She{?}he{\?} asked you to guard {?ISSUEGIVER.GENDER}her{?}his{\?} caravan for a while and deal with any attackers. In return {?ISSUEGIVER.GENDER}she{?}he{\?} offered you {GOLD}{GOLD_ICON} for each day your troops spend on escort duty.{newline}You agreed to lend {?ISSUEGIVER.GENDER}her{?}him{\?} {NEEDED_MEN_COUNT} men. They should be enough to turn away most of the bandits. Your troops should return after {RETURN_DAYS} days."/>
@@ -1837,7 +1837,7 @@
     <string id="FHjM62IY" text="{LORD.FIRSTNAME} is a member of the {CLAN_NAME}, a rising new clan. {?LORD.GENDER}She{?}He{\?} is still making {?LORD.GENDER}her{?}his{\?} reputation."/>
     <string id="FHSfNxNR" text="Ah. In that case, there is little I can do, unless you have some further argument to make."/>
     <string id="FILG5eZD" text="Leave {SETTLEMENT}."/>
-    <string id="fiLWg11t" text="Neither am I, if you surrender. Otherwise..."/>
+    <string id="fiLWg11t" text="Я теж, якщо ви здастеся. Інакше..."/>
     <string id="fInFLbAV" text="I accept you as my sworn follower. You shall have the warrior's due: the warmth of my hearthfire and the bread of my fields, and gold for your valor. I shall uphold your rights under the Law of the Sturgians and avenge your blood if you fall."/>
     <string id="FirEOQaI" text="Talk to the garrison commander"/>
     <string id="FiZVzLV3" text="I want you to join my party."/>
