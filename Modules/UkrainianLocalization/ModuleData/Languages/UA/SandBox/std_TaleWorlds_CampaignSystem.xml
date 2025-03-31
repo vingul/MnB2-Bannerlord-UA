@@ -327,7 +327,7 @@
     <string id="3V5udYJO" text="You have recruited the brigands into your party. {QUEST_GIVER.LINK} finds your solution acceptable and sends you the {GOLD_AMOUNT}{GOLD_ICON} as promised."/>
     <string id="3vFxRKja" text="You refused his offer and decided to collect the rest of the revenues by force. Your action upset the village notables and made villagers angry. Some villagers tried to resist. In the brawl, {WOUNDED_COUNT} of your men got wounded."/>
     <string id="3VxA6HaZ" text="Для себе."/>
-    <string id="3W3eEIIZ" text="Never mind. You can go."/>
+    <string id="3W3eEIIZ" text="Неважливо. Можете йти."/>
     <string id="3W67kdtc" text="This decision had the support of the council."/>
     <string id="3WA4MLzx" text="One way or the other, you'll regret this. If I fall, my people will have their revenge.[if:idle_angry][ib:warrior]"/>
     <string id="3wb2dCfz" text="It'll be right up then, {?PLAYER.GENDER}ma'am{?}sir{\?}."/>
@@ -740,7 +740,7 @@
     <string id="8xxeNK0o" text="Вони за це заплатять!"/>
     <string id="8Yb3IVvb" text="Settlement Buildings"/>
     <string id="8ym6UvxE" text="I'm of a mind to send out a new caravan but I fear it will be plundered before it can turn a profit. So I am looking for some good fighters who can escort it until it finds its footing and visits a couple of settlements."/>
-    <string id="8yPqbZmm" text="You best back off. There's dozens more of us hiding, just waiting for our signal."/>
+    <string id="8yPqbZmm" text="Краще відступайте. Нас тут ще десятки ховаються, тільки чекають на наш сигнал."/>
     <string id="8Z4vlcib" text="Your clan is now at war with the {ISSUE_GIVER.LINK}'s lord. Your agreement with {ISSUE_GIVER.LINK} was canceled."/>
     <string id="90ROmHcV" text="Very well. Follow us."/>
     <string id="93Z7G161" text="{VALUE}% швидкості пересування в бою без зброї та щита."/>
@@ -978,7 +978,7 @@
     <string id="asa9HaIQ" text="Keep the revenue"/>
     <string id="asePjBVy" text="{FIRSTNAME} the {?FEMALE}Freedwoman{?}Freedman{\?}"/>
     <string id="aSniKUJv" text="Висока вірність"/>
-    <string id="ASRpFaGF" text="Nice try, brigand. Surrender or die!"/>
+    <string id="ASRpFaGF" text="Гарна спроба. Здавайся або помри!"/>
     <string id="ASVkuYHG" text="I know a few. What kind of a person are you looking for?"/>
     <string id="at0iWxo1" text="It is exciting to think a warrior of your caliber will be my champion. {TOURNAMENT_ROUND_GOAL}"/>
     <string id="At6b9vHF" text="{VALUE} relationship per day with a random notable over age 40 when party is in a town."/>
@@ -2048,7 +2048,7 @@
     <string id="gtY7QuX0" text="{QUEST_GIVER.LINK} is on to you. I can guarantee you the time of easy pickings and low risk is over."/>
     <string id="Gu3jF88V" text="Any night battle can easily go wrong. I need more time to prepare."/>
     <string id="gu7EN92A" text="{VALUE}% динарів від поточної суми, що у вас є, на день додатково (але не більше 1000)."/>
-    <string id="GUiT211X" text="You got a problem?"/>
+    <string id="GUiT211X" text="Якісь проблеми?"/>
     <string id="GUqjL6xk" text="Your scouts have returned from {SETTLEMENT}. According to their report {SETTLEMENT}'s garrison has {GARRISON_SIZE} men and walls are high enough to defend against invaders."/>
     <string id="GuWWKgEm" text="Наближаючись до арени, ви чуєте плітки про учасників та призи. Судячи з усього, у місті є {?(NOBLE_COUNT &gt; 1)}{NOBLE_COUNT} лорд{#GET_PLURAL_VALUE(NOBLE_COUNT)}{#}и{#}ів{\#}, відомих своїми бойовими навичками, які планують{?} лорд, відомий своїми бойовими навичками, який планує{\?} взяти участь у турнірі. Враховуючи це, організатори виставили &quot;{.%}{TOURNAMENT_PRIZE}{.%}&quot; в якості нагороди для переможця."/>
     <string id="guZWnzaV" text="Сильні ноги"/>
@@ -2255,7 +2255,7 @@
     <string id="icyzOJZf" text="{VALUE}% ймовірності втечі полонених з підконтрольного поселення."/>
     <string id="IDdyHef9" text="We'll be on our way, then!"/>
     <string id="IDJbtGks" text="We ran back there. It is shameful to turn your back on the enemy."/>
-    <string id="idwOxnX5" text="Not if you give up now. If not, prepare to fight!"/>
+    <string id="idwOxnX5" text="Ні, якщо ви зараз же здастеся. В іншому випадку, готуйтеся до бою!"/>
     <string id="iE5vWYj2" text="Tell your men to be careful, and to touch nothing in a house where anyone has been sick."/>
     <string id="IefM6uAy" text="Thank you. You'll be paid well. Also you can keep their illegally obtained leather.[ib:normal2][if:convo_bemused]"/>
     <string id="ieIWHAtc" text="A ruler can grant towns special privileges based on their 'immediacy', special access to his person without going through lords or other vassals."/>
@@ -3020,7 +3020,7 @@
     <string id="N6DvC4hN" text="{FIRSTNAME} of the Mirror"/>
     <string id="N6UeziT8" text="Start ({COST}{GOLD_ICON})"/>
     <string id="n86jgG3m" text="Your companion {COMPANION.LINK} has helped the local smith and produced {REQUESTED_AMOUNT} {?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?} as you promised."/>
-    <string id="n99VA8KP" text="You'll never take us alive![if:convo_angry][ib:aggressive]"/>
+    <string id="n99VA8KP" text="Живими ми вам не здамося![if:convo_angry][ib:aggressive]"/>
     <string id="NacogXav" text="{VICTIM.LINK} has been executed."/>
     <string id="nAEhfGJk" text="Collect {ITEM}"/>
     <string id="nAlCj2m0" text="Жах"/>
@@ -4041,7 +4041,7 @@
     <string id="txtsL6QQ" text="You failed to train the troops by the time {QUEST_GIVER.LINK} needed them back. {?QUEST_GIVER.GENDER}She{?}He{\?} sends you the following letter. “{?PLAYER.GENDER}Madam{?}Sir{\?}, I expected my men to be returned to me. I consider this a breach of our agreement.”"/>
     <string id="Txtwv90o" text="Your clan has conquered the town into which you are trying to smuggle weapons. As the {?PLAYER.GENDER}lady{?}lord{\?} of the town you cannot get involved in this kind of activity. Your agreement with the {QUEST_GIVER.LINK} has canceled."/>
     <string id="TxxbCbUc" text="Good. I have faith in you...[if:convo_mocking_aristocratic]"/>
-    <string id="TXzZwb7n" text="You best back off. Scores of our brothers are just over that ridge over there, waiting for our signal."/>
+    <string id="TXzZwb7n" text="Краще відступайте. Десятки наших братів он за тим хребтом, тільки чекають нашого сигналу."/>
     <string id="tYAYIRjr" text="Пронизування"/>
     <string id="TyB6y5bh" text="Сани"/>
     <string id="TyjDHQUv" text="Опір відкиданню: {a0}% від макс. здоров'я"/>
