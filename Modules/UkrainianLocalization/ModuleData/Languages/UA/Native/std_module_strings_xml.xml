@@ -203,7 +203,7 @@
     <string id="7fjOwwVH" text="Sure, I'll give you a tip. I spoke to some traders who say they just bought some {.%}{ITEM_NAME}{.%} from {SETTLEMENT} at a price of {BUY_COST}{GOLD_ICON} and sold at {DESTINATION} for {SELL_COST}{GOLD_ICON}."/>
     <string id="7hj7Kaoz" text="Загальний дохід"/>
     <string id="7IqpjCDY" text="Executing a prisoner will negatively affect your reputation and will decrease your relation with the prisoner's faction/clan.{newline}You will not be able to undo this action.{newline}Are you sure you want to execute this character?"/>
-    <string id="7j4fQHg7" text="Forest Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers suffer medium penalty.{newline}• Cavalry suffer large penalty.{newline}• Horse archers suffer severe penalty."/>
+    <string id="7j4fQHg7" text="Битва в лісі{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Лучники отримують середній штраф.{newline}• Кавалерія отримує великий штраф.{newline}• Кінні лучники отримують серйозний штраф."/>
     <string id="7JpAR59k" text="Used for carrying goods"/>
     <string id="7llkDelg" text="Рішення королівства"/>
     <string id="7mRN2br0" text="Leadership of the formation has been given to {HERO_NAME}."/>
@@ -511,7 +511,7 @@
     <string id="D7ooUTqV" text="You are down!"/>
     <string id="D8Wjbw9K" text="I got captured, but later managed to escape"/>
     <string id="D9WJXQ9Z" text="Reject"/>
-    <string id="DaMQ9c3T" text="Village Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers gain minor bonus while defending.{newline}• Cavalry suffer medium penalty while defending."/>
+    <string id="DaMQ9c3T" text="Битва в селі{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Лучники отримують невеликий бонус під час оборони.{newline}• Кавалерія отримує середній штраф під час оборони."/>
     <string id="DaX6bsaD" text="{CLAN_PARTY_NAME} is attacked by {ENEMY_PARTY_NAME} near {SETTLEMENT_NAME}"/>
     <string id="dbdliaP3" text="my wife {REFERING_HERO.LINK}"/>
     <string id="DBU4VaIl" text="Bandit Faction"/>
@@ -713,7 +713,7 @@
     <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})"/>
     <string id="GfpRqcWN" text="Choose Archers"/>
     <string id="gfQmYDRq" text="As you attempt to force the notables to give you recruits, some of the residents gather to resist you."/>
-    <string id="GfR7NY0n" text="Siege Battle{newline}{newline}• Archers gain major bonus while defending.{newline}• Cavalry suffer medium penalty while defending.{newline}• Horse archers gain major bonus while defending."/>
+    <string id="GfR7NY0n" text="Битва при облозі{newline}{newline}• Лучники отримують значний бонус в обороні.{newline}• Кавалерія отримує середній штраф в обороні.{newline}• Кінні лучники отримують значний бонус в обороні."/>
     <string id="ggMmjk31" text="Invalid"/>
     <string id="ggrqoGnE" text="Spend {AMOUNT}"/>
     <string id="ggzCiYkk" text="{VALUE}{GOLD_ICON} is needed for upgrade."/>
@@ -856,7 +856,7 @@
     <string id="iyob7aH3" text="Defend your position"/>
     <string id="IzDYSckc" text="Каравани ({CURRENT})"/>
     <string id="izKWEAbY" text="Клан не має додаткових доходів"/>
-    <string id="j2OaZPQz" text="Your troops will gain {XP_AMOUNT} experience for donating weapons and/or armor depending on your perks. They can gain maximum of {XP_DONATION_LIMIT} experience."/>
+    <string id="j2OaZPQz" text="Ваші війська отримають {XP_AMOUNT} очк{#GET_PLURAL_VALUE(XP_AMOUNT)}о{#}и{#}ів{\#} досвіду за пожертвування зброї та/або броні, залежно від ваших здібностей. Вони можуть отримати максимум {XP_DONATION_LIMIT} очк{#GET_PLURAL_VALUE(XP_DONATION_LIMIT)}о{#}и{#}ів{\#} досвіду."/>
     <string id="J3ACAwbt" text="Your opponent constructed a barrier against you, but you have more pawns left. You win the game!"/>
     <string id="J3L0MuEU" text="Battle lost. Press {leave_key} to view results."/>
     <string id="j46AltVv" text="двадцять {.m}восьмий{.R_adj}"/>
@@ -949,7 +949,7 @@
     <string id="ktFeXrXl" text="You cannot make any moves. Skipping turn."/>
     <string id="KTGG9EgL" text="Safe journeys! Don't let yourself get robbed by anyone but us!"/>
     <string id="KTUcgvMZ" text="Ви перевищите ліміт воїнів. Це може негативно вплинути на бойовий дух вашого загону."/>
-    <string id="kUBvVY89" text="River Crossing Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers gain small bonus while defending.{newline}• Cavalry suffers minor penalty while defending."/>
+    <string id="kUBvVY89" text="Битва при переправі через річку{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Лучники отримують невеликий бонус при обороні.{newline}• Кавалерія отримує невеликий штраф при обороні."/>
     <string id="kuKad3dj" text="{MISSION_MODE}"/>
     <string id="kuLjsNgz" text="Rural Notable"/>
     <string id="kVLfRWjE" text="+{BONUS_AMOUNT}% зменшення заробітної плати гарнізону."/>
@@ -1081,7 +1081,7 @@
     <string id="N6O2GtTK" text="Refining"/>
     <string id="n6Q6vv5t" text="Ви забрали {GOLD} золота."/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are pulling back."/>
-    <string id="N7yWipWU" text="River Crossing Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Cavalry suffer medium penalty while attacking.{newline}• Horse archers suffer minor penalty while attacking."/>
+    <string id="N7yWipWU" text="Битва при переправі через річку{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Кавалерія отримує середній штраф в атаці.{newline}• Кінні лучники отримують невеликий штраф в атаці."/>
     <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
     <string id="n9qR84YI" text="{PRISONER.NAME} {?PRISONER.GENDER}втекла{?}втік{\?} з {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="NaAA5kjG" text="Consider making peace, receiving {TRIBUTE} tribute/day. (Support: {SUPPORT}%)"/>
@@ -1147,7 +1147,7 @@
     <string id="OEax2Y9c" text="Грабуйте каравани. Набирайте та очолюйте бандитські загони. Проникайте у ворожі міста. Давайте хабарі. Втікайте з полону."/>
     <string id="oGflu1jV" text="Use murder hole"/>
     <string id="OGjq7rpg" text="We are taking our products to the market at {TOWN}."/>
-    <string id="OgRtdJhu" text="Village Battle{newline}{newline}• Infantry gain minor bonus.{newline}• Archers suffer medium penalty while attacking.{newline}• Horse archers gain medium penalty while attacking."/>
+    <string id="OgRtdJhu" text="Битва в селі{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Лучники отримують середній штраф в атаці.{newline}• Кінні лучники отримують середній штраф в атаці."/>
     <string id="ogtgc69b" text="You have been awarded the right to carry a banner. Your banner will signify your status and bring you honour. Which banner do you want to choose?"/>
     <string id="OGxk0EXC" text="Турнір завершився. {?TOURNAMENT_FINAL_PARTICIPANT_A.GENDER}Перемогла{?}Переміг{\?} {TOURNAMENT_FINAL_PARTICIPANT_A}, здолавши {.S}{TOURNAMENT_FINAL_PARTICIPANT_B}{.v_zna} у фінальному двобої."/>
     <string id="oHaWR73d" text="ОК"/>
@@ -1185,7 +1185,7 @@
     <string id="oYUAuLO7" text="You have sworn not to attack."/>
     <string id="OzazmGBi" text="the Khuzaits"/>
     <string id="ozYRUrum" text="Допомагайте пораненим солдатам зцілюватися в поселеннях."/>
-    <string id="P1VmnfsB" text="Споруда «{BUILDING_NAME}» в {.S}{SETTLEMENT_NAME}{.v_dav} отримала новий рівень."/>
+    <string id="P1VmnfsB" text="Споруда «{BUILDING_NAME}» в {.S}{SETTLEMENT_NAME}{.v_mis} отримала новий рівень."/>
     <string id="P2CRzfV7" text="Крамниці в поселенні"/>
     <string id="p2WBSIa7" text="Згуртованість:"/>
     <string id="P3SJla9F" text="Looted Villages"/>
@@ -1281,7 +1281,7 @@
     <string id="qKg44yWp" text="Priority"/>
     <string id="QKGVAVcc" text="Здібності намісника"/>
     <string id="QL2t7D44" text="До ліміту майстерень"/>
-    <string id="ql8Xr5ap" text="Siege Battle{newline}{newline}• Archers suffer major penalty while attacking.{newline}• Cavalry suffer medium penalty while attacking.{newline}• Horse archers suffer severe penalty while attacking."/>
+    <string id="ql8Xr5ap" text="Битва при облозі{newline}{newline}• Лучники отримують значний штраф в атаці.{newline}• Кавалерія отримує середній штраф в атаці.{newline}• Кінні лучники отримують серйозний штраф в атаці."/>
     <string id="QlaGZAHq" text="New reinforcements have arrived!"/>
     <string id="QLM6DWHB" text="Активні завдання"/>
     <string id="qlnXblKO" text="{ISSUE_NAME}: Your troops have resolved the matter and have returned from their mission."/>
@@ -1554,7 +1554,7 @@
     <string id="VyJMWO8a" text="{GOLD_AMOUNT}{GOLD_ICON} removed."/>
     <string id="VyPwh1CT" text="Взяти героя в загін"/>
     <string id="vZRYAvYH" text="the Vlandians"/>
-    <string id="vZVJNTOD" text="Donation XP"/>
+    <string id="vZVJNTOD" text="ОД від пожертви"/>
     <string id="vZzDCjDr" text="Currently nobody is willing to be recruited in this town."/>
     <string id="W1seGc3t" text="Cartridge"/>
     <string id="w3v2S03V" text="Ваші відносини з {HERO_NAME}{.v_oru} &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;покращаться&lt;/b&gt;&lt;/a&gt;"/>
