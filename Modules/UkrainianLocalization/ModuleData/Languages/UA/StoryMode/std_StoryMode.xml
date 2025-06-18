@@ -448,7 +448,7 @@
     <string id="SVcr0EJM" text="Караван рухається до {.S}{TO_SETTLEMENT_LINK}{.v_rod} з {.S}{FROM_SETTLEMENT_LINK}{.v_rod}."/>
     <string id="SvYCz6z6" text="You've lost. You can restart the training by interacting weapon rack."/>
     <string id="t71lPdyb" text="І що ж саме?"/>
-    <string id="T7OTmJUp" text="{MENTOR.LINK} has a message for you"/>
+    <string id="T7OTmJUp" text="{MENTOR.LINK} має для вас повідомлення"/>
     <string id="T7ye4wUT" text="King Aeril disappeared while hunting, and Caladog becomes king. He leads the tribes to war. Oh, we were eager enough, even though Aeril had made a truce with the Emperor, sealed by oaths. When we were dazzled with the prospect of vengeance, who cares about our sacred word and honor?[ib:confident]"/>
     <string id="T8naYoGH" text="Поговорити зі знаттю"/>
     <string id="taOCFKtZ" text="You need to recruit more troops to deal with the raider party. Go back to village to recruit more troops."/>
