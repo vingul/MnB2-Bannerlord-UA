@@ -193,7 +193,7 @@
     <string id="EV5ykPuT" text="Ви та ваші люди зазнали поразки від {BOSS_NAME}{.v_rod} та його змовників. Решта ваших людей знаходять ваше пошматоване тіло серед закривавленої купи трупів. Але ви вижили і продовжите свою боротьбу."/>
     <string id="eV8R0SKp" text="Тепер вам потрібно вирішити, що робити зі {DRAGON_BANNER}{.v_oru}."/>
     <string id="eVgAY7ts" text="О Господи, ти можеш описати мені їх краще? Мої люди вполювали десятки цих малих виродків у цьому районі. Досить непогані мисливські угіддя, я тобі скажу! Хоча знаєш, більшість з них я вже відправив на ринок рабів на півдні.[ib:hip][if:convo_snide_voice]"/>
-    <string id="eVzg5Mtl" text="Conspiracy Caravan"/>
+    <string id="eVzg5Mtl" text="{.m}Караван{.R_n20_u} змовників"/>
     <string id="EWD4Op6d" text="Повідомлення"/>
     <string id="exoZygYL" text="Very well. The Dragon Banner in your hands proclaims you the avenger of the Empire's crimes and its successor. Now go forth and claim your destiny![if:convo_calm_friendly]"/>
     <string id="eYXLYgsC" text="Я все ще не впевнений, що мені робити."/>
@@ -411,12 +411,12 @@
     <string id="QVkuaezc" text="Вистежте загін змовників"/>
     <string id="QxeKZ3nE" text="Досягти рівня клану {CLAN_TIER}"/>
     <string id="R3CnF55p" text="Ну... І хто це тут вдирається на мою територію і вбиває моїх людей?[if:convo_confused_voice][ib:warrior2]"/>
-    <string id="r48aEAbq" text="The {KINGDOM_NAME} has been defeated. Your quest to destroy the Empire has failed."/>
+    <string id="r48aEAbq" text="{KINGDOM_NAME} було захоплено. Ваша місія по знищенню Імперії провалилася."/>
     <string id="R5kLv5kg" text="Я є представником палайського народу. Палайська мова — це мова, якою, за винятком кількох старців, більше ніхто і не розмовляє. Навіть саме слово «палайський» є імперським. Ми народ, який забув, ким ми є.[if:convo_focused_voice]"/>
     <string id="r8ZLabb0" text="Я зібрав усі частини Стягу Дракона. Що далі?"/>
     <string id="rbjjDYXj" text="Грабіжники розгромили вас у своєму лігві, але вам вдалося втекти. Зачекайте деякий час, щоб мати змогу атакувати знову."/>
     <string id="RbXiEdXk" text="Досягніть 1-го рівня клану"/>
-    <string id="rCX81DDR" text="The Empire has been destroyed!"/>
+    <string id="rCX81DDR" text="Імперію знищено!"/>
     <string id="rDuegB1L" text="Нарешті ви прибули! Я хочу сказати кілька слів, перш ніж ми атакуємо.[ib:confident2][if:convo_nonchalant]"/>
     <string id="RefpTQpr" text="Можливо. Прощавай, {RADAGOS.NAME}..."/>
     <string id="RF3NoR3d" text="Здається, він керує не однією бандою, яка орудує в цьому районі. Якщо ваші родичі у них, то, гадаю, він має знати, де саме.[if:convo_pondering]"/>
@@ -438,7 +438,7 @@
     <string id="SF7dqoEe" text="Звісно, зарозумілість Німра подвоїлася, а потім ще раз подвоїлася. А потім він завдав нам страшної образи. Смертельно страшної. Я не буду говорити, в чому полягала та образа, бо її вже немає. Ми її стерли. У звичний для нас спосіб. Ви можете запитати про це в когось іншого."/>
     <string id="SFJFIaAD" text="Well... King Caladog's great victory... Who would dare say anything to tarnish its shine?[if:convo_undecided_open][ib:closed]"/>
     <string id="ShG19Xhi" text="Дякую..."/>
-    <string id="sJeYHMGG" text="You have unified the Empire."/>
+    <string id="sJeYHMGG" text="Ви об'єднали Імперію."/>
     <string id="sJoO1JzN" text="Коли ми добряче потовкли імперців, вони поламали свій стрій і кинулися за оборонні вали. Звідти вони обстрілювали нас дротиками, закидували камінням і своїм проклятим вогнем. Нам довелося по драбинах, один за одним, підніматися на вали. Вадінслава вдарили булавою, і він впав, а потім мій батько піднявся нагору, рубаючи всіх на ходу, згуртував нас і привів до перемоги."/>
     <string id="SmVwMrUM" text="Стяг Кальрадіоса — це частина легенди. Кажуть, що його ніс сам Кальрадіос Великий, коли привів свій народ на цю землю, щоб завоювати і розграбувати її. Легенда говорить, що жодне військо, очолюване справжнім сином Кальрадіоса, не зазнає поразки в бою під цим стягом.[ib:confident2][if:convo_thinking]"/>
     <string id="sn3Eabme" text="Звісно. Я не була свідком битви, але мій чоловік Аренікос часто розповідав про неї.[if:convo_calm_friendly]"/>
@@ -482,12 +482,12 @@
     <string id="UjyZ7GFk" text="Вражаюче, дуже вражаюче. Що ж, тепер все стає цікавішим.[ib:normal2][if:convo_astonished]"/>
     <string id="Uk7F483P" text="У результаті двобою ви зазнали поразки від {BOSS_NAME}{.v_rod}. Ваші люди віднесли ваше поранене тіло в безпечне місце. Як і домовлялися, змовники забираються геть і зникають безслідно."/>
     <string id="UkNUuyr1" text="Переможених загонів"/>
-    <string id="ULn7iWlz" text="It will be a powerful tool in our hands. People will believe that the Heavens intend us to restore the Empire of Calradia.[if:convo_pondering]"/>
+    <string id="ULn7iWlz" text="Це буде потужний інструмент у наших руках. Люди повірять, що самі Небеса бажають, щоб ми відновили Імперію Калрадії.[if:convo_pondering]"/>
     <string id="uNgu02FH" text="Вони і на вашу сім'ю напали? Дуже шкода це чути. Ці виродки встигли повбивати та пограбувати і в цих краях.[ib:normal2][if:convo_dismayed]"/>
     <string id="UnjgFmnE" text="Прислухавшись до порад {MENTOR.LINK}{.v_rod}, ви створили власну імперську фракцію. Ви можете сказати {?MENTOR.GENDER}їй{?}йому{\?}, що будете покладатись на власне королівство на шляху досягнення вашої цілі."/>
     <string id="unOLk4PY" text="Тож. Хто ви і що привело вас до мене?"/>
     <string id="UpUqL368" text="Що за падло, еге ж? Навіть у нашій професії зраджувати своїх дружбанів не прийнято."/>
-    <string id="upyNhwZ9" text="Yes, I intend to use the banner to help destroy the empire."/>
+    <string id="upyNhwZ9" text="Так, я збираюся використати стяг, щоб допомогти знищити імперію."/>
     <string id="US0VAHiE" text="You have eliminated a {RAIDER_NAME} party."/>
     <string id="uvbCyLiR" text="Що, справді? Добре, це цікаво.[ib:normal][if:convo_astonished]"/>
     <string id="UVuwofhS" text="Клани зростають, клани занепадають. Мій обов'язок — служити всім хузаїтам. Поглянь на це з іншого боку. Якби не смерть свого чоловіка, леді Месуї ніколи б не успадкувала владу в клані Хергітів. Смерть створює можливості. Ті, хто вижив у великій битві, вдають жалобу, але всередині вони радіють.[ib:closed][if:convo_mocking_revenge]"/>
@@ -547,7 +547,7 @@
     <string id="Y6OJHdMH" text="Я дуже зайнята людина, але на те, щоб поговорити про благословенну битву під Пендраїком, в мене завжди знайдеться час.[if:convo_mocking_teasing][ib:confident3]"/>
     <string id="Y6SqyQwn" text="Зустрітися з {HERO.NAME}{.v_oru}"/>
     <string id="y84UnOQX" text="Зібрати Стяг Дракона"/>
-    <string id="ya8eMCpj" text="Unify the Empire"/>
+    <string id="ya8eMCpj" text="Об'єднати Імперію"/>
     <string id="YAWCkOYa" text="Сліди виглядають свіжими, і я бачив дим на горизонті. Вони не можуть рухатися надто швидко, якщо все ще займаються мародерством і набігами. Ні, я впевнений, що ми зможемо врятувати малих... або загинемо, намагаючись."/>
     <string id="yCzcfKNM" text="По-перше, ваш клан повинен бути незалежним. Ви не можете бути прив'язані до будь-якого королівства."/>
     <string id="YEeb0B1V" text="Я {HEADMAN.FIRSTNAME}, староста цього села. Що привело вас сюди?[ib:normal][if:convo_shocked]"/>
