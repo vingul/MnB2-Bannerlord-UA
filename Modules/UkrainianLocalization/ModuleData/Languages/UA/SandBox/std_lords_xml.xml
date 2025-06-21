@@ -107,14 +107,14 @@
     <string id="e0iDOkUq" text="{.m}Гузукан{.R_n20_a_ke}"/>
     <string id="E5CKYEWf" text="{.f}Кіша{.R_n10_ko2}"/>
     <string id="e8NQzxiE" text="{.f}Люда{.R_n10_ko}"/>
-    <string id="ebQiU2wT" text="Corein"/>
-    <string id="EdQ0Lp2a" text="Veneranda"/>
-    <string id="EFgG35sB" text="Zulaika"/>
-    <string id="eghwtdDx" text="Urundulf"/>
-    <string id="EJFY3KdF" text="Altenos"/>
-    <string id="enuXNYIl" text="Amorcon"/>
-    <string id="eoTzkbbv" text="Mitela"/>
-    <string id="EptYW9tj" text="Nayantai"/>
+    <string id="ebQiU2wT" text="{.f}Корейн"/>
+    <string id="EdQ0Lp2a" text="{.f}Венеранда{.R_n10_ko}"/>
+    <string id="EFgG35sB" text="{.f}Зулейка{.R_n10_ko}"/>
+    <string id="eghwtdDx" text="{.m}Урундульф{.R_n20_a_ke}"/>
+    <string id="EJFY3KdF" text="{.m}Альтенос{.R_n20_a_ke}"/>
+    <string id="enuXNYIl" text="{.m}Аморкон{.R_n20_a_ke}"/>
+    <string id="eoTzkbbv" text="{.f}Мітела{.R_n10_ko}"/>
+    <string id="EptYW9tj" text="{.m}Наянтай{.R_n20_a_ke}"/>
     <string id="EPVOYcgH" text="Suran"/>
     <string id="Er3eFLdH" text="Suruq"/>
     <string id="eRhu9Lbf" text="Taorse"/>
