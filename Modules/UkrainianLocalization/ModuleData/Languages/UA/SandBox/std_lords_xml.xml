@@ -4,33 +4,33 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="03vNcoOt" text="Dhila"/>
-    <string id="0AuMcOga" text="Rolan"/>
-    <string id="0YZQ8vr8" text="Ulman"/>
-    <string id="10urvYUQ" text="Belithor"/>
-    <string id="13YN3S79" text="Razana"/>
-    <string id="1yJZWqhG" text="Pradentia"/>
-    <string id="26W8jFm9" text="Zachanis"/>
-    <string id="27fMB4Ri" text="Agnala"/>
-    <string id="2jTyvL4y" text="Korte"/>
-    <string id="2RGc09o0" text="Alijin"/>
-    <string id="2T4CbYRn" text="Germana"/>
-    <string id="2XKnC45z" text="Porphalios"/>
-    <string id="36Y88cTv" text="Megenhelda"/>
-    <string id="3a8sskoz" text="Khorijin"/>
-    <string id="3AMc9o0o" text="Solun"/>
-    <string id="3BSUgBh3" text="Eabyr"/>
-    <string id="3C8F07SL" text="Achios"/>
-    <string id="3qr3bhL6" text="Nicasor"/>
+    <string id="03vNcoOt" text="{.f}Ділья{.R_n10_ko}"/>
+    <string id="0AuMcOga" text="{.m}Ролан{.R_n20_a_ke}"/>
+    <string id="0YZQ8vr8" text="{.m}Ульман{.R_n20_a_ke}"/>
+    <string id="10urvYUQ" text="{.m}Белітор{.R_n20_a_ke}"/>
+    <string id="13YN3S79" text="{.f}Разана{.R_n10_ko}"/>
+    <string id="1yJZWqhG" text="{.f}Прадентія{.R_n10_ko}"/>
+    <string id="26W8jFm9" text="{.m}Заханіс{.R_n20_a_ke}"/>
+    <string id="27fMB4Ri" text="{.f}Агнала{.R_n10_ko}"/>
+    <string id="2jTyvL4y" text="{.m}Корте"/>
+    <string id="2RGc09o0" text="{.m}Аліджін{.R_n20_a_ke}"/>
+    <string id="2T4CbYRn" text="{.f}Германа{.R_n10_ko}"/>
+    <string id="2XKnC45z" text="{.m}Порфаліос{.R_n20_a_ke}"/>
+    <string id="36Y88cTv" text="{.f}Мегенхельда{.R_n10_ko}"/>
+    <string id="3a8sskoz" text="{.m}Хоріджін{.R_n20_a_ke}"/>
+    <string id="3AMc9o0o" text="{.m}Солун{.R_n20_a_ke}"/>
+    <string id="3BSUgBh3" text="{.m}Ібир{.R_n20_a_ke}"/>
+    <string id="3C8F07SL" text="{.m}Ахіос{.R_n20_a_ke}"/>
+    <string id="3qr3bhL6" text="{.m}Нікасор{.R_n20_a_ke}"/>
     <string id="48bvCvb2" text="{.m}Фарон{.R_n20_a_ke}"/>
-    <string id="4WiAzdHf" text="Jonna"/>
-    <string id="4YOld4FR" text="Dorathila"/>
-    <string id="4YOoGhpK" text="Niphon"/>
-    <string id="5g54Smqk" text="Berican"/>
-    <string id="5lYm8YtD" text="Izdenka"/>
-    <string id="5N6i1jQP" text="Philenora"/>
-    <string id="5xOBW2Qz" text="Ashisa"/>
-    <string id="6GC0PsSh" text="Manteos"/>
+    <string id="4WiAzdHf" text="{.f}Йонна{.R_n10_ko}"/>
+    <string id="4YOld4FR" text="{.f}Доратіла{.R_n10_ko}"/>
+    <string id="4YOoGhpK" text="{.m}Ніфон{.R_n20_a_ke}"/>
+    <string id="5g54Smqk" text="{.m}Берікан{.R_n20_a_ke}"/>
+    <string id="5lYm8YtD" text="{.f}Іжденка{.R_n10_ko}"/>
+    <string id="5N6i1jQP" text="{.f}Філенора{.R_n10_ko}"/>
+    <string id="5xOBW2Qz" text="{.f}Ашіса{.R_n10_ko}"/>
+    <string id="6GC0PsSh" text="{.m}Мантеос{.R_n20_a_ke}"/>
     <string id="6RtIRVit" text="Milanka"/>
     <string id="6TphQddp" text="Saratis"/>
     <string id="6WWJpv88" text="Maraa"/>
