@@ -115,24 +115,24 @@
     <string id="enuXNYIl" text="{.m}Аморкон{.R_n20_a_ke}"/>
     <string id="eoTzkbbv" text="{.f}Мітела{.R_n10_ko}"/>
     <string id="EptYW9tj" text="{.m}Наянтай{.R_n20_a_ke}"/>
-    <string id="EPVOYcgH" text="Suran"/>
-    <string id="Er3eFLdH" text="Suruq"/>
-    <string id="eRhu9Lbf" text="Taorse"/>
-    <string id="eTS0B8NB" text="Olypos"/>
-    <string id="f6urGGlU" text="Godun"/>
-    <string id="fb0F6jKI" text="Sejaron"/>
-    <string id="FBa3bDcl" text="Arthamund"/>
-    <string id="fepOjbsV" text="Popilia"/>
-    <string id="fGp76I0G" text="Callinia"/>
-    <string id="FP1nudkE" text="Jalfar"/>
-    <string id="FR2wUMdb" text="Elys"/>
-    <string id="GFmOwx4L" text="Idrun"/>
-    <string id="GFV7bzME" text="Icratia"/>
-    <string id="Ggj9PWIU" text="Minarvina"/>
-    <string id="GJhRw7qb" text="Aesos"/>
-    <string id="GK1k9K4j" text="Furnhard"/>
-    <string id="gnGxp46c" text="Wythuin"/>
-    <string id="gQ1JZ8ow" text="Ukhai"/>
+    <string id="EPVOYcgH" text="{.m}Суран{.R_n20_a_ke}"/>
+    <string id="Er3eFLdH" text="{.m}Сурук{.R_n20_a_ke}"/>
+    <string id="eRhu9Lbf" text="{.f}Таорсе"/>
+    <string id="eTS0B8NB" text="{.m}Оліпос{.R_n20_a_ke}"/>
+    <string id="f6urGGlU" text="{.m}Годун{.R_n20_a_ke}"/>
+    <string id="fb0F6jKI" text="{.m}Сехарон{.R_n20_a_ke}"/>
+    <string id="FBa3bDcl" text="{.m}Артамунд{.R_n20_a_ke}"/>
+    <string id="fepOjbsV" text="{.f}Попілія{.R_n10_ko}"/>
+    <string id="fGp76I0G" text="{.f}Каллінія{.R_n10_ko}"/>
+    <string id="FP1nudkE" text="{.m}Джальфар{.R_n20_a_ke}"/>
+    <string id="FR2wUMdb" text="{.f}Еліс"/>
+    <string id="GFmOwx4L" text="{.f}Ідрун"/>
+    <string id="GFV7bzME" text="{.f}Ікратія{.R_n10_ko}"/>
+    <string id="Ggj9PWIU" text="{.f}Мінарвіна{.R_n10_ko}"/>
+    <string id="GJhRw7qb" text="{.m}Езос{.R_n20_a_ke}"/>
+    <string id="GK1k9K4j" text="{.m}Фернхард{.R_n20_a_ke}"/>
+    <string id="gnGxp46c" text="{.f}Вітуїн"/>
+    <string id="gQ1JZ8ow" text="{.m}Ухай{.R_n20_a}"/>
     <string id="gRcc0zjg" text="Andruta"/>
     <string id="GRjLT63Z" text="Kuyug"/>
     <string id="gSR6ObvN" text="Theavisos"/>
