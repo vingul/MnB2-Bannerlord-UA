@@ -166,22 +166,22 @@
     <string id="ja22un5W" text="{.m}Сведорн{.R_n20_a_ke}"/>
     <string id="JEfh8gHY" text="{.m}Вармірос{.R_n20_a_ke}"/>
     <string id="jEIsVazl" text="{.m}Дертерт{.R_n20_a_ke}"/>
-    <string id="jIOMwnka" text="Varra"/>
-    <string id="JJcFwAUb" text="Phalarisa"/>
-    <string id="JjGuU6Tt" text="Ilatar"/>
-    <string id="JjK987wB" text="Tilun"/>
-    <string id="JPBz1blG" text="Tariq"/>
-    <string id="jqdpTXYV" text="Justina"/>
-    <string id="jQjouVRk" text="Gyphor"/>
-    <string id="JTSWHkvd" text="Floraidh"/>
-    <string id="juzJA5Tw" text="Torvasis"/>
-    <string id="jXIFcw1a" text="Ladogual"/>
-    <string id="JZvihMbB" text="Ergene"/>
-    <string id="K2UUjntt" text="Constalia"/>
-    <string id="K2uyaOia" text="Yachana"/>
-    <string id="k3cm9EgA" text="Undul"/>
-    <string id="k7vF5gWy" text="Irmgard"/>
-    <string id="kAbug2ja" text="Eodisia"/>
+    <string id="jIOMwnka" text="{.f}Варра{.R_n10_ko}"/>
+    <string id="JJcFwAUb" text="{.f}Фаларіса{.R_n10_ko}"/>
+    <string id="JjGuU6Tt" text="{.m}Ілатар{.R_n20_a_ke}"/>
+    <string id="JjK987wB" text="{.f}Тілун"/>
+    <string id="JPBz1blG" text="{.m}Тарік{.R_n20_a}"/>
+    <string id="jqdpTXYV" text="{.f}Юстіна{.R_n10_ko}"/>
+    <string id="jQjouVRk" text="{.m}Гіфор{.R_n20_a_ke}"/>
+    <string id="JTSWHkvd" text="{.f}Флорайд"/>
+    <string id="juzJA5Tw" text="{.m}Торвасіс{.R_n20_a_ke}"/>
+    <string id="jXIFcw1a" text="{.f}Ладогуаль"/>
+    <string id="JZvihMbB" text="{.f}Ергене"/>
+    <string id="K2UUjntt" text="{.f}Консталія{.R_n10_ko}"/>
+    <string id="K2uyaOia" text="{.f}Ячана{.R_n10_ko}"/>
+    <string id="k3cm9EgA" text="{.m}Ундул{.R_n20_a_ke}"/>
+    <string id="k7vF5gWy" text="{.m}Ірмгард{.R_n20_a_ke}"/>
+    <string id="kAbug2ja" text="{.f}Еодісія{.R_n10_ko}"/>
     <string id="kadJAjaA" text="{.f}Раґея{.R_n10}"/>
     <string id="KDznbXh9" text="Jigur"/>
     <string id="KFYNhxLC" text="Suna"/>
@@ -213,7 +213,7 @@
     <string id="MlmPJ502" text="Manan"/>
     <string id="MOH80RNb" text="Hajara"/>
     <string id="mpgkzY0Y" text="Gordiana"/>
-    <string id="MrIvBcNH" text="Amaliana"/>
+    <string id="MrIvBcNH" text="{.f}Амаліана{.R_n10_ko}"/>
     <string id="mSV1FBu1" text="Esur"/>
     <string id="N7qb7ae6" text="Fafen"/>
     <string id="nBDKxiyC" text="Ruma"/>
