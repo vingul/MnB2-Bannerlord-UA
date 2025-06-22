@@ -183,24 +183,24 @@
     <string id="k7vF5gWy" text="{.m}Ірмгард{.R_n20_a_ke}"/>
     <string id="kAbug2ja" text="{.f}Еодісія{.R_n10_ko}"/>
     <string id="kadJAjaA" text="{.f}Раґея{.R_n10}"/>
-    <string id="KDznbXh9" text="Jigur"/>
-    <string id="KFYNhxLC" text="Suna"/>
-    <string id="kHo2jIcm" text="Zorina"/>
-    <string id="KNppNkHr" text="Tegan"/>
-    <string id="ktPP2R1i" text="Guaran"/>
-    <string id="kuOs90Uh" text="Aradwyr"/>
-    <string id="kvxnbHjF" text="Iyalas"/>
-    <string id="KwNdjleW" text="Colambea"/>
-    <string id="kwNl4bsS" text="Amenon"/>
-    <string id="KxvbFSnm" text="Ingeltrud"/>
-    <string id="l1Ac8s1T" text="Lucand"/>
-    <string id="l1Q7WjO6" text="Tyaska"/>
-    <string id="L2SmutOy" text="Elidilea"/>
-    <string id="lFV6m1rc" text="Teta"/>
-    <string id="lGrQRXKt" text="Vasilia"/>
-    <string id="LiAefNmE" text="Thephilos"/>
-    <string id="LJ6Intaq" text="Usair"/>
-    <string id="lLNkm48w" text="Vamina"/>
+    <string id="KDznbXh9" text="{.f}Джігур"/>
+    <string id="KFYNhxLC" text="{.f}Суна{.R_n10_ko}"/>
+    <string id="kHo2jIcm" text="{.f}Зоріна{.R_n10_ko}"/>
+    <string id="KNppNkHr" text="{.m}Теган{.R_n20_a_ke}"/>
+    <string id="ktPP2R1i" text="{.m}Гуаран{.R_n20_a_ke}"/>
+    <string id="kuOs90Uh" text="{.m}Арадвір{.R_n20_a_ke}"/>
+    <string id="kvxnbHjF" text="{.m}Іялас{.R_n20_a_ke}"/>
+    <string id="KwNdjleW" text="{.f}Коламбея{.R_n10_ko}"/>
+    <string id="kwNl4bsS" text="{.m}Аменон{.R_n20_a_ke}"/>
+    <string id="KxvbFSnm" text="{.f}Інгельтруд"/>
+    <string id="l1Ac8s1T" text="{.m}Луканд{.R_n20_a_ke}"/>
+    <string id="l1Q7WjO6" text="{.f}Тяска{.R_n10_ko}"/>
+    <string id="L2SmutOy" text="{.f}Еліділія{.R_n10_ko}"/>
+    <string id="lFV6m1rc" text="{.f}Тета{.R_n10_ko}"/>
+    <string id="lGrQRXKt" text="{.f}Василія{.R_n10_ko}"/>
+    <string id="LiAefNmE" text="{.m}Тефілос{.R_n20_a_ke}"/>
+    <string id="LJ6Intaq" text="{.m}Юсеїр{.R_n20_a_ke}"/>
+    <string id="lLNkm48w" text="{.f}Ваміна{.R_n10_ko}"/>
     <string id="LQYkBOsU" text="Maurentios"/>
     <string id="lRjHdd5l" text="Qaban"/>
     <string id="LwbqCwne" text="Ospir"/>
