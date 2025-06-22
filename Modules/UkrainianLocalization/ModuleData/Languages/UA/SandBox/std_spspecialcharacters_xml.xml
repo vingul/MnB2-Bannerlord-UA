@@ -9,7 +9,7 @@
     <string id="2U2Hy2Su" text="{FIRSTNAME} {?FEMALE}{.f}Світловолосий{.R_adj}{?}{.m}Світловолосий{.R_adj}{\?}"/>
     <string id="3wzexaA7" text="{FIRSTNAME} {.f}Вовчиця{.R_n10_ko}"/>
     <string id="4GIoPUen" text="{FIRSTNAME} {?FEMALE}{.f}Мечниця{.R_n10_ko}{?}{.m}Мечник{.R_n20_a}{\?}"/>
-    <string id="6CAbkgS4" text="{FIRSTNAME} the Wainwright"/>
+    <string id="6CAbkgS4" text="{FIRSTNAME} {.m}Стельмах{.R_n20_a}"/>
     <string id="7apnGFz7" text="{FIRSTNAME} the Black"/>
     <string id="7hrmlfxh" text="of the Legion"/>
     <string id="7lg12a57" text="{FIRSTNAME} the Brave"/>
@@ -17,7 +17,7 @@
     <string id="ACqta1a5" text="{FIRSTNAME} the Engineer"/>
     <string id="aE8abvsQ" text="{FIRSTNAME} the Lucky"/>
     <string id="agS5lIg7" text="{FIRSTNAME} the Fatherless"/>
-    <string id="akALDUs0" text="{FIRSTNAME} Longknife"/>
+    <string id="akALDUs0" text="{FIRSTNAME} {.m}Довгий{.R_adj_adv} {.m}ніж{.R_n21_a_ke}"/>
     <string id="azCSz9QH" text="з Невидимої Руки"/>
     <string id="bPHbb7pc" text="Hermit"/>
     <string id="bpw8fOs5" text="of the Karakhuzaits"/>
