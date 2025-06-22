@@ -217,7 +217,7 @@
     <string id="2k7adlh7" text="While lacking experience a bit, you are full with youthful energy, you are fully eager, for the long years of adventuring ahead."/>
     <string id="2L1bZdwh" text="Good. I count on you.[if:convo_relaxed_happy]"/>
     <string id="2lCLp5eo" text="Витривалість"/>
-    <string id="2LIV2cy7" text="{SETTLEMENT}{.o} rebels"/>
+    <string id="2LIV2cy7" text="{.p}Повстанець{.R_n22_p_pz} {.S}{SETTLEMENT}{.v_rod}"/>
     <string id="2ljMER8Z" text="{VALUE} до бойового духу проти загонів бандитів."/>
     <string id="2LrFafpB" text="And I will respect and cherish your family."/>
     <string id="2mVZORaE" text="a servant of the {FACTION_NAME}"/>
@@ -929,7 +929,7 @@
     <string id="aK23T43P" text="Зберігає запаси їжі, щоб у поселенні було більше їжі. Кожен рівень збільшує місцеві запаси їжі."/>
     <string id="ak2ZPOce" text="What would it take for you to let me go my way?"/>
     <string id="AK7jsatk" text="Now, I suggest you prepare for a serious campaign. Train and equip your soldiers as best you can in the meantime, and respond quickly when you are summoned for duty."/>
-    <string id="aKaGaOQx" text="{CLAN_LEADER.NAME}{.o} Clan"/>
+    <string id="aKaGaOQx" text="{.f}Банда{.R_n10} {.S}{CLAN_LEADER.NAME}{.v_rod}"/>
     <string id="AkbiPIij" text="Сади"/>
     <string id="AKdDSZoM" text="Yes. It's a good problem to have, though. As you know, I deal in {.%}{SELECTED_ITEM}{.%}. Production this year has been very good, and we can no longer make a profit on the local market. I cannot however, put together a caravan to sell it elsewhere. So, I propose a very simple deal.[if:convo_innocent_smile][ib:confident]"/>
     <string id="aKLak7nn" text="giving the ruler broader powers to veto laws"/>
@@ -3928,7 +3928,7 @@
     <string id="taKIDPxj" text="Посольства везуть подарунки, а це приваблює бандитів. Битви з ними зробили подорож набагато цікавішою, ніж {?CHILD.GENDER}вона очікувала{?}він очікував{\?}."/>
     <string id="TaouqUu7" text="{FIRSTNAME} of the Steps"/>
     <string id="TaucWWCB" text="Тримайся подалі"/>
-    <string id="TauRjAud" text="{NAME} of the {FACTION}"/>
+    <string id="TauRjAud" text="{NAME} з клану {FACTION}"/>
     <string id="taz5cAtw" text="You failed to train the {YOUNG_HERO.LINK} enough as {QUEST_GIVER.LINK} expected. {?QUEST_GIVER.GENDER}She{?}He{\?} is disappointed."/>
     <string id="TazumJGN" text="You emerge into the streets. No one is yet aware of what happened in the dungeons, and you hustle {PRISONER.NAME} towards the gates.{newline}You may now leave the {?SETTLEMENT_TYPE}settlement{?}castle{\?}."/>
     <string id="tb0gqxDZ" text="Here's the plan. We lay an ambush in the village. When they show up, we spring. If you join us, I think we've got a good chance of ridding ourselves of this scourge before they murder us one by one.[if:convo_stern][ib:normal]"/>
