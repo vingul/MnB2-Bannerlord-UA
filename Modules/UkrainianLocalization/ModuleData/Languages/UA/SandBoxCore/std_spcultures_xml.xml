@@ -15,7 +15,7 @@
     <string id="0OFMT7AO" text="Rothard"/>
     <string id="0VZ5sROI" text="Okhon"/>
     <string id="0YAZ51bc" text="Lorgand"/>
-    <string id="0znqTt5G" text="Banu Harranad"/>
+    <string id="0znqTt5G" text="Бану {.m}Харранад{.R_n20_a}"/>
     <string id="0ZTMVxzw" text="Lazif"/>
     <string id="0ZXMKL4M" text="Chavil"/>
     <string id="17k0NVul" text="Inric"/>
@@ -98,7 +98,7 @@
     <string id="7MpWM3y3" text="Himil"/>
     <string id="7n7V9Va5" text="Irya"/>
     <string id="7No7syyO" text="Penek"/>
-    <string id="7oBUn2V1" text="Banu Rawi"/>
+    <string id="7oBUn2V1" text="Бану Раві"/>
     <string id="7T5z6N7e" text="Ulaslav"/>
     <string id="7uBgKkLK" text="Anjikhin"/>
     <string id="7uj8QoPA" text="Fetheir"/>
@@ -106,7 +106,7 @@
     <string id="83e9F9bC" text="Brungalther"/>
     <string id="86iEfIma" text="Funder"/>
     <string id="86L9ayRV" text="Athlian"/>
-    <string id="86LT9H6v" text="Banu Fasus"/>
+    <string id="86LT9H6v" text="Бану {.m}Фасус{.R_n20_a}"/>
     <string id="8bWBc3sK" text="Alayen"/>
     <string id="8C19nvLL" text="Althegar"/>
     <string id="8CQuY3RO" text="Munitides"/>
@@ -183,7 +183,7 @@
     <string id="BfbZAB2K" text="Kanizat"/>
     <string id="bFCk1Jrn" text="Anhalm"/>
     <string id="BGHBvAK1" text="Kulyat"/>
-    <string id="bgNQtbS7" text="Banu Nir"/>
+    <string id="bgNQtbS7" text="Бану {.m}Нір{.R_n20_a}"/>
     <string id="bHh03ob0" text="Ваккен"/>
     <string id="BIAEZaVx" text="Rhandana"/>
     <string id="bLY1zbNI" text="Zvatim"/>
@@ -205,7 +205,7 @@
     <string id="bzaLf3EU" text="Magan"/>
     <string id="bzXmtoC6" text="Koleg"/>
     <string id="C2yNuOKd" text="Beswinda"/>
-    <string id="c39lybQJ" text="Banu Julul"/>
+    <string id="c39lybQJ" text="Бану {.m}Джулул{.R_n20_a}"/>
     <string id="C4akgRTN" text="Milisa"/>
     <string id="C7aaPCCs" text="Vanalind"/>
     <string id="cdQO1eLv" text="Hasseidh"/>
@@ -247,7 +247,7 @@
     <string id="Du2Xg6rp" text="Gertlind"/>
     <string id="DxU5mVDg" text="Pyasoving"/>
     <string id="DYdI0faN" text="Stracanasthes"/>
-    <string id="DygS1Bef" text="Banu Mushala"/>
+    <string id="DygS1Bef" text="Бану {.f}Мушала{.R_n10}"/>
     <string id="E1NB09bP" text="Otsamides"/>
     <string id="E1NWbOR8" text="Buchul"/>
     <string id="e4jAHUX0" text="Tymata"/>
@@ -255,7 +255,7 @@
     <string id="e6goEM5b" text="Valdym"/>
     <string id="e7dayl1i" text="Mavinon"/>
     <string id="eAro6IVf" text="Shalar"/>
-    <string id="EbkJbzwO" text="Banu Unuth"/>
+    <string id="EbkJbzwO" text="Бану {.m}Унут{.R_n20_a}"/>
     <string id="eCCuztOS" text="Moera"/>
     <string id="ecJRFHyY" text="Gisetha"/>
     <string id="ed3sErKY" text="Ilgai"/>
@@ -282,7 +282,7 @@
     <string id="f7u2p3x3" text="Rutwar"/>
     <string id="fAKa9JfU" text="Nathanys"/>
     <string id="FakFqJf1" text="Eurtimides"/>
-    <string id="fDbOCRMM" text="Banu Shum"/>
+    <string id="fDbOCRMM" text="Бану {.m}Шум{.R_n20_a}"/>
     <string id="Fe90zVYF" text="Soeras"/>
     <string id="fG19XSVm" text="Rugan"/>
     <string id="FIIZNV4F" text="Atzorig"/>
@@ -348,7 +348,7 @@
     <string id="i9bQ8UoK" text="Zhelik"/>
     <string id="i9ZDrsi1" text="Rafard"/>
     <string id="IaBXamj4" text="Danivan"/>
-    <string id="IcB0xdbd" text="Banu Dhamin"/>
+    <string id="IcB0xdbd" text="Бану {.m}Дхамін{.R_n20_a}"/>
     <string id="IDeemU90" text="Roslind"/>
     <string id="ieube15m" text="Zahara"/>
     <string id="iFJbnbCQ" text="Agdil"/>
@@ -366,10 +366,10 @@
     <string id="iNFahwv3" text="Nia"/>
     <string id="IpC3oUbT" text="Amaldulf"/>
     <string id="iQbFDpKT" text="fen Earach"/>
-    <string id="irccq0qs" text="Banu Laikh"/>
+    <string id="irccq0qs" text="Бану {.m}Лайх{.R_n20_a}"/>
     <string id="iTRV8m4Y" text="Rhylan"/>
     <string id="IVHobRWE" text="Usharoving"/>
-    <string id="Iwe7Xpke" text="Banu Kinyan"/>
+    <string id="Iwe7Xpke" text="Бану {.m}Кіньян{.R_n20_a}"/>
     <string id="J1s05Ovk" text="Charait"/>
     <string id="j5HUaQ1a" text="Azhir"/>
     <string id="J5i4h7JC" text="Kela"/>
@@ -418,7 +418,7 @@
     <string id="kWEta4kl" text="Lamcard"/>
     <string id="kWiQaFLM" text="Delicos"/>
     <string id="L0fuYckc" text="Friga"/>
-    <string id="L4XUK5n4" text="Banu Yatash"/>
+    <string id="L4XUK5n4" text="Бану {.m}Яташ{.R_n20_a}"/>
     <string id="l95tJ2ly" text="Nerric"/>
     <string id="la6HgVXN" text="Mitunis"/>
     <string id="lac74G8a" text="Agatheuda"/>
@@ -504,7 +504,7 @@
     <string id="OrUdifEU" text="Yathanoving"/>
     <string id="OsjlCBYZ" text="Saralind"/>
     <string id="oT8cTkjz" text="Gavan"/>
-    <string id="oY2rbPH2" text="Banu Yurib"/>
+    <string id="oY2rbPH2" text="Бану {.m}Юріб{.R_n20_a}"/>
     <string id="oyxam3bN" text="Blag"/>
     <string id="p1dFvTAc" text="dey {ORIGIN_SETTLEMENT}"/>
     <string id="P1zsoSPN" text="Rhovarion"/>
@@ -541,7 +541,7 @@
     <string id="q8awVLdN" text="Laitha"/>
     <string id="Q8gCUmQq" text="Gyn"/>
     <string id="QAHEa5Qr" text="Petta"/>
-    <string id="QBtprltg" text="Banu Ayan"/>
+    <string id="QBtprltg" text="Бану {.m}Аян{.R_n20_a}"/>
     <string id="QCiqeUHm" text="Sabila"/>
     <string id="qD72Ya4I" text="Zhanoving"/>
     <string id="qDLWQjuC" text="Hasawa"/>
@@ -592,21 +592,21 @@
     <string id="RWTcOnCF" text="Vorard"/>
     <string id="RZ5bYYmX" text="Lisaradh"/>
     <string id="sa0YrXiv" text="Azareh"/>
-    <string id="sAa3o3vw" text="Banu Tharuq"/>
+    <string id="sAa3o3vw" text="Бану {.m}Тарук{.R_n20_a}"/>
     <string id="scCmMFeI" text="Ekadrya"/>
     <string id="SDSbjMSj" text="Kuruntai"/>
     <string id="Se7U6BSK" text="Uluen"/>
     <string id="sEgUB3jW" text="Deasora"/>
     <string id="sF0H1hEV" text="Halgard"/>
     <string id="SFDdq8GH" text="Holujin"/>
-    <string id="SGFsmCJa" text="Banu Tammar"/>
+    <string id="SGFsmCJa" text="Бану {.m}Таммар{.R_n20_a}"/>
     <string id="sgIlIqrI" text="Goronos"/>
     <string id="sGYHxIub" text="Reamald"/>
     <string id="SHXt3kC5" text="Roshaneh"/>
     <string id="sIBcdaxD" text="Soren"/>
     <string id="SIJpKiGq" text="Ayla"/>
     <string id="sIjuSRYT" text="Fredacard"/>
-    <string id="SJJobqeR" text="Banu Widhas"/>
+    <string id="SJJobqeR" text="Бану {.m}Відхас{.R_n20_a}"/>
     <string id="skIyo33b" text="fen Calrain"/>
     <string id="sn3JPGJA" text="Natu"/>
     <string id="SNjqoBfZ" text="Nawa"/>
@@ -635,7 +635,7 @@
     <string id="tGEChxdb" text="Achanoving"/>
     <string id="tGhrpQ0D" text="Hyradia"/>
     <string id="tgVJZ1Uc" text="Hecaron"/>
-    <string id="TIhFAZld" text="Banu Ijaraz"/>
+    <string id="TIhFAZld" text="Бану {.m}Іджараз{.R_n20_a}"/>
     <string id="TjvbLQRT" text="Dachan"/>
     <string id="tKUIAmbV" text="Fyomanoving"/>
     <string id="TLZKQSb1" text="Egan"/>
@@ -661,14 +661,14 @@
     <string id="Ud1AMybr" text="The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war."/>
     <string id="UgA0uoFA" text="Tabur"/>
     <string id="UJTCzvOt" text="Elin"/>
-    <string id="UKcaINTn" text="Banu Khashal"/>
+    <string id="UKcaINTn" text="Бану {.m}Хашал{.R_n20_a}"/>
     <string id="ulBMajMY" text="Chechek"/>
     <string id="UlPJ9OYH" text="Nidr"/>
     <string id="UlQWfDsU" text="fen Teicolar"/>
     <string id="ulua6Frr" text="Orthol"/>
     <string id="USkaRPEQ" text="Samandry"/>
     <string id="UtfVuNN0" text="Vivein"/>
-    <string id="uwalgjVy" text="Banu Dilis"/>
+    <string id="uwalgjVy" text="Бану {.m}Діліс{.R_n20_a}"/>
     <string id="uYbmhjI6" text="Rhamira"/>
     <string id="UYqwbjTP" text="Iskanoving"/>
     <string id="V3QHxJb1" text="Polmarc"/>
@@ -689,7 +689,7 @@
     <string id="vPlwv7Vj" text="Miloch"/>
     <string id="vQMRjzmO" text="Pyas"/>
     <string id="VQYTvnfW" text="Durold"/>
-    <string id="VV6p47Ee" text="Banu Arumaq"/>
+    <string id="VV6p47Ee" text="Бану {.m}Арумак{.R_n20_a}"/>
     <string id="VVpv4El5" text="fen Sachta"/>
     <string id="VVT3bMc2" text="Regbold"/>
     <string id="VWSA8EVV" text="Gwennein"/>
@@ -708,14 +708,14 @@
     <string id="wDRBoiTC" text="Iliset"/>
     <string id="wERVdmjj" text="Sulnaz"/>
     <string id="wf4cGf3B" text="Bovidor"/>
-    <string id="WFfbxYu5" text="Banu Zus"/>
+    <string id="WFfbxYu5" text="Бану {.m}Зус{.R_n20_a}"/>
     <string id="wlwVPqjP" text="Uln"/>
     <string id="WNb0Bw0e" text="Kavyl"/>
     <string id="WNu6dKHe" text="Lliari"/>
     <string id="WP63fA7r" text="Alkirya"/>
     <string id="WpTXwQw1" text="Vuoni"/>
     <string id="wQJGxBJI" text="Hophtalamos"/>
-    <string id="wRVVs7t4" text="Banu Sirsan"/>
+    <string id="wRVVs7t4" text="Бану {.m}Сірсан{.R_n20_a}"/>
     <string id="wsCMwqFw" text="Peribard"/>
     <string id="WtIBqZr6" text="Vanther"/>
     <string id="wuGPSje6" text="Greveth"/>
@@ -764,7 +764,7 @@
     <string id="Yl4EsjBg" text="Drusabalda"/>
     <string id="YlVmRzCI" text="Athafled"/>
     <string id="ynsUwp1h" text="Denek"/>
-    <string id="yrYO33f8" text="Banu Qaram"/>
+    <string id="yrYO33f8" text="Бану {.m}Карам{.R_n20_a}"/>
     <string id="YRzakgRB" text="Bidal"/>
     <string id="ystHsOQi" text="Vilmarand"/>
     <string id="YSwz9JUr" text="Elthert"/>
@@ -786,7 +786,7 @@
     <string id="zCaeJ7GC" text="Thul"/>
     <string id="zcXPVYs5" text="Detheuda"/>
     <string id="zDhuJw7r" text="Taralun"/>
-    <string id="ZEwqRhHO" text="Banu Hund"/>
+    <string id="ZEwqRhHO" text="Бану {.m}Хунд{.R_n20_a}"/>
     <string id="ZgGnqkki" text="Beniseth"/>
     <string id="ZJjgZVHq" text="Endry"/>
     <string id="zLl1UEYM" text="Zhem"/>
