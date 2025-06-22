@@ -288,36 +288,36 @@
     <string id="VIs6y29A" text="{.f}Меґетія{.R_n10_ko}"/>
     <string id="vlpRh9ZB" text="{.f}Епіферія{.R_n10_ko}"/>
     <string id="voa4jkxo" text="{.f}Анструда{.R_n10_ko}"/>
-    <string id="voimockT" text="Unthery"/>
+    <string id="voimockT" text="{.m}Унтері"/>
     <string id="VPH7syd9" text="{.f}Пресціана{.R_n10_ko}"/>
     <string id="VPnW6rA1" text="{.f}Шімра{.R_n10_ko}"/>
     <string id="VvFQhqub" text="{.f}Зоріка{.R_n10_ko}"/>
     <string id="w51wGx4b" text="{.m}Каладог{.R_n20_a_ke}"/>
-    <string id="waQPRCaT" text="Patyr"/>
-    <string id="wGAJSplG" text="Rozhivol"/>
+    <string id="waQPRCaT" text="{.m}Патир{.R_n20_a_ke}"/>
+    <string id="wGAJSplG" text="{.m}Рожівол{.R_n20_a_ke}"/>
     <string id="WnhPFlON" text="{.f}Мелкея{.R_n10_ko}"/>
     <string id="x9LbvJYp" text="{.m}Німр{.R_n20_a_ke}"/>
     <string id="xfSKiKl1" text="{.m}Вінкантій{.R_n20_a}"/>
-    <string id="XkNnlSwA" text="Jastion"/>
-    <string id="Xs2Ffm4I" text="Hashan"/>
-    <string id="XSfDaaFp" text="Adaltrud"/>
+    <string id="XkNnlSwA" text="{.m}Джастіон{.R_n20_a_ke}"/>
+    <string id="Xs2Ffm4I" text="{.m}Хашан{.R_n20_a_ke}"/>
+    <string id="XSfDaaFp" text="{.f}Адальтруд"/>
     <string id="xtEfnInH" text="{.m}Олек{.R_n20_a}"/>
-    <string id="xViSxONn" text="Ulbos"/>
-    <string id="Y0I9T9pe" text="Diasca"/>
-    <string id="y881d2ER" text="Variasis"/>
-    <string id="YaHhZccz" text="Lasand"/>
+    <string id="xViSxONn" text="{.m}Ульбос{.R_n20_a_ke}"/>
+    <string id="Y0I9T9pe" text="{.f}Діаска{.R_n10_ko}"/>
+    <string id="y881d2ER" text="{.m}Варіазіс{.R_n20_a_ke}"/>
+    <string id="YaHhZccz" text="{.m}Ласанд{.R_n20_a_ke}"/>
     <string id="Ybpa7Nbz" text="{.f}Аполітея{.R_n10_ko}"/>
     <string id="YDy8meZp" text="{.f}Анея{.R_n10_ko}"/>
     <string id="yl6y9ua7" text="{.f}Бертіліана{.R_n10_ko}"/>
-    <string id="yROMCMB3" text="Nonesos"/>
+    <string id="yROMCMB3" text="{.m}Нонесос{.R_n20_a_ke}"/>
     <string id="ysrWE08a" text="{.f}Касірея{.R_n10_ko}"/>
-    <string id="YWJUZlzt" text="Lantanor"/>
-    <string id="yWPpaXij" text="Qahin"/>
+    <string id="YWJUZlzt" text="{.m}Лантанор{.R_n20_a_ke}"/>
+    <string id="yWPpaXij" text="{.m}Кахін{.R_n20_a_ke}"/>
     <string id="zaHnL2It" text="{.m}Євтропій{.R_n20_a}"/>
     <string id="zFPc7VEO" text="{.f}Декантія{.R_n10_ko}"/>
     <string id="Zq11L8aO" text="{.f}Яміна{.R_n10_ko}"/>
-    <string id="Zttbvvxr" text="Rodarac"/>
+    <string id="Zttbvvxr" text="{.m}Родарак{.R_n20_a}"/>
     <string id="zUJKwx5J" text="{.f}Лієна{.R_n10_ko}"/>
-    <string id="Zzw3S7Lo" text="Forim"/>
+    <string id="Zzw3S7Lo" text="{.m}Форім{.R_n20_a_ke}"/>
   </strings>
 </base>
