@@ -4,11 +4,11 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="1OZBZZCi" text="{FIRSTNAME} the Boar"/>
-    <string id="28tWEFNi" text="{FIRSTNAME} the Wanderer"/>
-    <string id="2U2Hy2Su" text="{FIRSTNAME} Fairhair"/>
-    <string id="3wzexaA7" text="{FIRSTNAME} the She-Wolf"/>
-    <string id="4GIoPUen" text="{FIRSTNAME} the Swordsman"/>
+    <string id="1OZBZZCi" text="{FIRSTNAME} {?FEMALE}{.f}Веприця{.R_n10_ko}{?}{.m}Вепр{.R_n20_a_ke}{\?}"/>
+    <string id="28tWEFNi" text="{FIRSTNAME} {?FEMALE}{.f}Мандрівниця{.R_n10_ko}{?}{.m}Мандрівник{.R_n20_a_ku}{\?}"/>
+    <string id="2U2Hy2Su" text="{FIRSTNAME} {?FEMALE}{.f}Світловолосий{.R_adj}{?}{.m}Світловолосий{.R_adj}{\?}"/>
+    <string id="3wzexaA7" text="{FIRSTNAME} {.f}Вовчиця{.R_n10_ko}"/>
+    <string id="4GIoPUen" text="{FIRSTNAME} {?FEMALE}{.f}Мечниця{.R_n10_ko}{?}{.m}Мечник{.R_n20_a}{\?}"/>
     <string id="6CAbkgS4" text="{FIRSTNAME} the Wainwright"/>
     <string id="7apnGFz7" text="{FIRSTNAME} the Black"/>
     <string id="7hrmlfxh" text="of the Legion"/>
