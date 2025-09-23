@@ -28,12 +28,12 @@
     <string id="305cf7f98458b22e9af72b60a131714f" text="Броня коня: "/>
     <string id="345a87fcc69f626ae3916939ef2fc135" text="Швидкість змаху: "/>
     <string id="3F0y3ugx" text="Success!"/>
-    <string id="3sxtCWPe" text="Leaving Kingdom"/>
+    <string id="3sxtCWPe" text="Покидання королівства"/>
     <string id="43HYUImy" text="{SETTLEMENT}'s Siege"/>
     <string id="4U9EnZt5" text="Critical Success!"/>
     <string id="4uMWNDoi" text="Thrust Speed"/>
     <string id="4vZLpzPi" text="+1 Renown / Day"/>
-    <string id="4Y8u4JKO" text="You can't leave the kingdom while in an army"/>
+    <string id="4Y8u4JKO" text="Ви не можете покинути королівство, перебуваючи у складі армії"/>
     <string id="5bzk75Ql" text="Атакує {._}{TARGET_PARTY}{.v_zna}."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
     <string id="5dkPxmZG" text="Garrison Wages"/>
@@ -85,7 +85,7 @@
     <string id="bDwTWrru" text="Без затримки"/>
     <string id="BEXTcJaS" text="Часом до закінчення"/>
     <string id="bfWlTVjs" text="Remove assignee"/>
-    <string id="BgqZWbga" text="The nobles of the realm will dislike you for abandoning your fealty. Are you sure you want to leave the Kingdom?"/>
+    <string id="BgqZWbga" text="Вельможі королівства зненавидять вас за те, що ви порушили свою присягу. Ви впевнені, що хочете покинути королівство?"/>
     <string id="BifGz0h4" text="Patrolling"/>
     <string id="BkDycbdq" text="Error while displaying the troop tree"/>
     <string id="bPFjmYCI" text="{SHOP_NAME} x {SHOP_DIFFERENCE_COUNT}"/>
@@ -248,7 +248,7 @@
     <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
     <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}"/>
     <string id="myMbtwXi" text="Morale Bonus"/>
-    <string id="N63XYX2r" text="Support"/>
+    <string id="N63XYX2r" text="Підтримати"/>
     <string id="NAA4pajB" text="You need to leave your current army to create a new one."/>
     <string id="NC9bbrt5" text="End-of-day denars"/>
     <string id="NcYbdiyT" text="Change Leader"/>
@@ -417,7 +417,7 @@
     <string id="XIioBPi0" text="No changes"/>
     <string id="Xmw93W6a" text="Not Enough Influence"/>
     <string id="XSQ0Y9gy" text="You need to be a part of a kingdom to create an army."/>
-    <string id="xtlIFKaa" text="Are you sure you want to leave the Kingdom?{newline}If so, choose how you want to leave the kingdom."/>
+    <string id="xtlIFKaa" text="Ви впевнені, що хочете покинути королівство?{newline}Якщо так, виберіть, як саме ви хочете це зробити."/>
     <string id="xtt9Oxer" text="Виробництво"/>
     <string id="XUtiwiYP" text="Довжина: "/>
     <string id="xW4BPVLX" text="Історія виготовлення"/>
