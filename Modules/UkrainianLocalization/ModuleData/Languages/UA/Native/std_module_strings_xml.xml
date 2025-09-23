@@ -299,7 +299,7 @@
     <string id="acbkKbT0" text="We should do something different."/>
     <string id="aCkzVUCR" text="Очки здоров'я: "/>
     <string id="aCP5ZBbp" text="Відношення:"/>
-    <string id="ADJQa8am" text="Mercenaries cannot support other clans."/>
+    <string id="ADJQa8am" text="Найманці не можуть підтримувати інші клани."/>
     <string id="adtqbbGU" text="Distance to Army Leader"/>
     <string id="aebVkHyA" text="Give up the fight?"/>
     <string id="aECQrlkM" text="Destroy enemy siege engines!"/>
@@ -375,7 +375,7 @@
     <string id="baFazbmR" text="{.n}Залізо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_p} заліза{\@}"/>
     <string id="baHmYsx3" text="Two Handed Weapon"/>
     <string id="bAHNQGAw" text="Our allies need help. Lift the siege!"/>
-    <string id="baIUUw1c" text="Spend your own influence to increase the influence of the selected clan"/>
+    <string id="baIUUw1c" text="Потратити частину свого впливу, щоб підвищити свій авторитет в обраному клані"/>
     <string id="BANC61K5" text="Попередній воїн"/>
     <string id="bARwyXXZ" text="Воїнів для покращення"/>
     <string id="bB4602W2" text="Thrust {THRUST_DAMAGE_TYPE} Damage: "/>
@@ -430,7 +430,7 @@
     <string id="BsdOl4He" text="FOUL! Your opponent hit your horse. {?OPPONENT_GENDER}He{?}She{\?} has been disqualified!"/>
     <string id="BSmAtdWF" text="Lift the siege!"/>
     <string id="bTAkmho7" text="Необхідно ОД для покращення: {XP_AMOUNT}"/>
-    <string id="Btglp7Ij" text="You cannot expel your own clan."/>
+    <string id="Btglp7Ij" text="Ви не можете вигнати свій власний клан."/>
     <string id="btil6Rdb" text="What have we here? Looks like the mountain spirits have answered our prayers, and granted us success in the hunt."/>
     <string id="BtnJh0j4" text="At War"/>
     <string id="buQvCDbP" text="Прямує до {SETTLEMENT_NAME}{.v_rod} для захисту."/>
@@ -604,7 +604,7 @@
     <string id="eu25AFfI" text="Can't access inventory right now!"/>
     <string id="EuEJ08Dg" text="Кількість здорових воїнів сторони захисту"/>
     <string id="eufhFrnC" text="Селяни з {VILLAGE_NAME}{.v_rod}"/>
-    <string id="EuGCNdHG" text="Leave Kingdom"/>
+    <string id="EuGCNdHG" text="Покинути королівство"/>
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?"/>
     <string id="eURzhtb0" text="Gathering around {PARTY_NAME}."/>
     <string id="EUzxzL9s" text="Броня (голова): "/>
@@ -630,7 +630,7 @@
     <string id="F3U9AtmF" text="{.m}дев'ятий{.R_adj}"/>
     <string id="F4RMyaR5" text="Ви зіткнулись з {._}{PARTY}{.v_oru}."/>
     <string id="F5UPr9jh" text="Взяти все"/>
-    <string id="F6GhrriD" text="Create Kingdom"/>
+    <string id="F6GhrriD" text="Створити королівство"/>
     <string id="f6gSyvnC" text="Стріляйте у ворогів з лука. Виконуйте складні постріли з великої відстані."/>
     <string id="f6pjlKdz" text="Вчора"/>
     <string id="f7t4saJu" text="Ціна"/>
@@ -670,7 +670,7 @@
     <string id="frt7AmX0" text="Гарнізон {MAJOR_PARTY_LEADER}{.v_rod}"/>
     <string id="fRu5Y4OT" text="I was wounded and left for dead"/>
     <string id="FRuzuVyO" text="No Clan Selected"/>
-    <string id="FRZfpryn" text="Bring forward the proposal to give this settlement to someone else"/>
+    <string id="FRZfpryn" text="Висунути пропозицію про передачу цього поселення комусь іншому"/>
     <string id="FS78CuPs" text="Уміння, які пов'язані з {ATTRIBUTE_NAME}{.v_oru}:"/>
     <string id="FSl1LFP6" text="{CLAN} has gained {AMOUNT_TO_ADD} renown. New renown is {NEW_RENOWN}."/>
     <string id="fTyJB9wd" text="двадцять {.m}четвертий{.R_adj}"/>
@@ -797,7 +797,7 @@
     <string id="HYVQKIhh" text="Армія, що захищалась"/>
     <string id="HZ8ws4qX" text="Mercenary Service"/>
     <string id="hzflo2kJ" text="Again you save our necks, {PLAYER.LINK}! Truly, you are the best of friends."/>
-    <string id="i0H8WLRx" text="You cannot expel a ruling clan."/>
+    <string id="i0H8WLRx" text="Ви не можете вигнати панівний клан."/>
     <string id="I2YhWaIt" text="Goods"/>
     <string id="i30TCtj2" text="ПАУЗА"/>
     <string id="I3Vfk5mz" text="{.m}двадцятий{.R_adj}"/>
@@ -819,7 +819,7 @@
     <string id="IF7zS5ia" text="Ви перевищили ліміт полонених.{newline}Ви тимчасово утримуватимете полонених, але через деякий час вони швидко втечуть з вашого загону. Ви також сповільнитеся.{newline}Ви впевнені?"/>
     <string id="iffbWGBa" text="Aunt"/>
     <string id="iFg5N7r3" text="One Handed Weapon"/>
-    <string id="Igoid3sR" text="Propose to expel this clan from the kingdom ({SUPPORT}%)"/>
+    <string id="Igoid3sR" text="Запропонувати вигнати цей клан з королівства ({SUPPORT}%)"/>
     <string id="ihVHfUFT" text="Formation"/>
     <string id="iIBqTcKx" text="Attacks can knock down opponents"/>
     <string id="iisvVbDI" text="Купити все"/>
@@ -835,7 +835,7 @@
     <string id="ioKVFDcQ" text="{?AND} {?}and {\?}{SENTENCE_3} "/>
     <string id="ioKwRFcj" text="Consider making peace (Support: {SUPPORT}%)"/>
     <string id="IoLK7Lec" text="Базова кількість"/>
-    <string id="iORENG5d" text="Mercenaries cannot propose policies."/>
+    <string id="iORENG5d" text="Найманці не можуть пропонувати політичні рішення."/>
     <string id="IOtAJCVw" text="Total Influence: {TOTAL_INFLUENCE}"/>
     <string id="IPjqLEdQ" text="{DAY} {#GET_PLURAL_VALUE(DAY)}день{#}дні{#}днів{\#} назад"/>
     <string id="IQ4bSdf5" text="{.f}Своячка{.R_n10_ko_p2}"/>
@@ -1191,7 +1191,7 @@
     <string id="P3SJla9F" text="Looted Villages"/>
     <string id="p4PIzGTP" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are holding high ground."/>
     <string id="p5Rad7i2" text="War Party"/>
-    <string id="p8amfQyz" text="Mercenaries cannot expel clans."/>
+    <string id="p8amfQyz" text="Найманці не можуть виганяти клани."/>
     <string id="P8BxiiKd" text="Despite the poverty, you hear few words of complaint, as though people are too beaten down to expect any change."/>
     <string id="P8Z3zQyy" text="Safe"/>
     <string id="pa3E7810" text="Siege Preparations"/>
@@ -1229,7 +1229,7 @@
     <string id="PN4Edq9W" text="Melee Weapons III"/>
     <string id="pn9KNMxb" text="You are trapped by enemies. But your men are in no condition to fight. Your only option is to surrender."/>
     <string id="PNZmPprx" text="{.m}Дворучний{.R_adj} {.m}меч{.R_n20_a}"/>
-    <string id="policypropose" text="Propose"/>
+    <string id="policypropose" text="Запропонувати"/>
     <string id="porKAP64" text="Consider abolishing this policy ({SUPPORT}%)"/>
     <string id="PpPbWYPB" text="Можна стати найманцем"/>
     <string id="pPRYdrk7" text="Керування армією"/>
@@ -1523,7 +1523,7 @@
     <string id="VeqwXwYc" text="Вороги тікають. Ви виграли битву."/>
     <string id="vgXYtMrj" text="Battle Survivors"/>
     <string id="VHjIJGja" text="You need to be in a kingdom"/>
-    <string id="vhq22OyK" text="Prosp."/>
+    <string id="vhq22OyK" text="Доброб."/>
     <string id="VI4gQt8Q" text="{.f}Булава{.R_n10}"/>
     <string id="Vi6ojGrk" text="{FACTION_1_NAME} vs {FACTION_2_NAME}"/>
     <string id="vIpFgbU6" text="Light Armor"/>
@@ -1580,7 +1580,7 @@
     <string id="wjuieMsE" text="Your opponent gained 1 point for the hit!"/>
     <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from the siege tower."/>
     <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}"/>
-    <string id="WlV9cE5E" text="Mercenaries cannot propose war policies."/>
+    <string id="WlV9cE5E" text="Найманці не можуть пропонувати військову політику."/>
     <string id="wmpwMa8j" text="{?IS_POSITIVE}+{?}-{\?}{CHANGE}"/>
     <string id="wNHfL0x0" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} {?NAME.GENDER}полягла{?}поліг{\?} у бою."/>
     <string id="wNjhpOOM" text="Apply Exchange"/>
@@ -1717,7 +1717,7 @@
     <string id="ZdeswYbM" text="Trader doesn't have enough money! Are you sure?"/>
     <string id="ZdqbU2gw" text="Прийняти"/>
     <string id="zE6OFPRu" text="Податки з поселення"/>
-    <string id="zEbvDH7V" text="You cannot support your own clan."/>
+    <string id="zEbvDH7V" text="Ви не можете підтримувати свій власний клан."/>
     <string id="zeGAw2IE" text="Killed by"/>
     <string id="ZEzxHLaH" text="Не можна вербувати полонених героїв"/>
     <string id="zg0q1aqD" text="You cannot disband a garrison party"/>
