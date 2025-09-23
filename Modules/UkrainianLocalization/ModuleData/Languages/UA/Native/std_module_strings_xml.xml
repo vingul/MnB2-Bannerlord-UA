@@ -80,7 +80,7 @@
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% до податків"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день {#}дні {#}днів {\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
     <string id="300TAI7u" text="Продати все"/>
-    <string id="33ghdWWi" text="Other Policies"/>
+    <string id="33ghdWWi" text="Інші політики"/>
     <string id="33hHRM8r" text="Opponent's Turn"/>
     <string id="36hbMBhb" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {.S}{FORMAL_NAME}{.v_rod} було знищено, не виконавши свого призначення — {?PLAYER_WANTS_RESTORE}відновити{?}знищити{\?} Імперію."/>
     <string id="3CpNUnVl" text="Скасувати"/>
@@ -259,7 +259,7 @@
     <string id="9C0J0ZkT" text="Fire from infantry cover."/>
     <string id="9dcQ2VZv" text="Our plan is to form a defensive ring around our ranged troops."/>
     <string id="9ECleB7I" text="Duel your opponent on foot for victory!"/>
-    <string id="9EgIraI1" text="Active Policies"/>
+    <string id="9EgIraI1" text="Активні політики"/>
     <string id="9esIWdDC" text="Afraid we'll need to make an example out of you, then. Don't bother begging for mercy.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="9FhdRKWu" text="{.m}Метальний{.R_adj} {.m}ніж{.R_n21_a}"/>
     <string id="9gNjg4P0" text="Ви повернетесь до головного меню без збереження гри. Ви впевнені, що хочете вийти?"/>
@@ -980,7 +980,7 @@
     <string id="lbdSaDpI" text="Залишилося часу"/>
     <string id="LBy6YDMV" text="Regroup"/>
     <string id="Lc1vIEnM" text="Wolves and sheep move in the same way by sliding along the lines on the board, one tile per turn."/>
-    <string id="LEC8NhCV" text="Policies"/>
+    <string id="LEC8NhCV" text="Політики"/>
     <string id="lfMgaBiJ" text="Make it worth our while not to kill you."/>
     <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are protecting {#IS_LEFT}{#}left{#}multiple{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?} flank{#IS_LEFT}{#}{#}s{\#}."/>
     <string id="lh1yhgXw" text="Horse Equipment V"/>
@@ -1230,7 +1230,7 @@
     <string id="pn9KNMxb" text="You are trapped by enemies. But your men are in no condition to fight. Your only option is to surrender."/>
     <string id="PNZmPprx" text="{.m}Дворучний{.R_adj} {.m}меч{.R_n20_a}"/>
     <string id="policypropose" text="Запропонувати"/>
-    <string id="porKAP64" text="Consider abolishing this policy ({SUPPORT}%)"/>
+    <string id="porKAP64" text="Розглянути можливість скасування цієї політики ({SUPPORT}%)"/>
     <string id="PpPbWYPB" text="Можна стати найманцем"/>
     <string id="pPRYdrk7" text="Керування армією"/>
     <string id="pq48aN8d" text="Morale: {reg1}"/>
@@ -1713,7 +1713,7 @@
     <string id="Z8LeI4ho" text="Bodyguards"/>
     <string id="ZaoZKcx9" text="Townsfolk"/>
     <string id="ZaseErqk" text="Can't retreat, there are enemies nearby!"/>
-    <string id="zBC5cQic" text="Support for abolishing"/>
+    <string id="zBC5cQic" text="Підтримка скасування"/>
     <string id="ZdeswYbM" text="Trader doesn't have enough money! Are you sure?"/>
     <string id="ZdqbU2gw" text="Прийняти"/>
     <string id="zE6OFPRu" text="Податки з поселення"/>
