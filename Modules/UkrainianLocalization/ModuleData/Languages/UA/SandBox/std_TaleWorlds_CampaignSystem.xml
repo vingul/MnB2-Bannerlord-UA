@@ -1039,7 +1039,7 @@
     <string id="b1T6qywr" text="{QUEST_GIVER.LINK} from {QUEST_GIVER.FACTION} asked you to take over {TARGET_SETTLEMENT} in the name of {QUEST_GIVER.FACTION} to fortify war efforts. {QUEST_GIVER.LINK} said {?QUEST_GIVER.GENDER}she{?}he{\?} will aid you with {REWARD}{GOLD_ICON} once the {TARGET_SETTLEMENT} is fallen."/>
     <string id="b1vTr2wT" text="I own {STRING_UNTIL_NOW} there."/>
     <string id="b2ePtImV" text="Those who are loyal to me, I am loyal to them."/>
-    <string id="b2InhEeP" text="We oppose expelling the clan"/>
+    <string id="b2InhEeP" text="Ми проти вигнання клану"/>
     <string id="B2msxAju" text="{VALUE}% заробітної плати гарнізону в підконтрольному поселенні."/>
     <string id="B2z3mEue" text="Actually, I was going to talk about something else."/>
     <string id="b36QZ1aZ" text="{LYRIC_SCRAP}"/>
@@ -3779,7 +3779,7 @@
     <string id="S60sDU3j" text="Very good! Here is your money. Thank you.[if:convo_grateful]"/>
     <string id="S7BMf2Wa" text="{VALUE}% шкоди від змаху для створеної зброї."/>
     <string id="s7idfhBO" text="I am terribly sorry. We are not really compatible with each other."/>
-    <string id="s8z5Ugvm" text="The clan should be expelled"/>
+    <string id="s8z5Ugvm" text="Клан повинен бути вигнаний"/>
     <string id="s99TKI9x" text="The nobles aren't trying to starve anyone, but if they don't collect taxes, they won't be able to fight off raiders."/>
     <string id="S9XsuYap" text="{VALUE} бонусу до добробуту від цивільних проєктів у підконтрольному поселенні."/>
     <string id="S9yOQgb1" text="You need {RELATION} relation with {HERO.NAME}."/>
