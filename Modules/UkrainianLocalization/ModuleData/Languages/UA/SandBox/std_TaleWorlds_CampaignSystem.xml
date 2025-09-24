@@ -1178,7 +1178,7 @@
     <string id="bM9VX881" text="Щитолом"/>
     <string id="bmfo7CaO" text="Village shop is not available right now."/>
     <string id="BMQQSeTp" text="I'm sure my men will find what you need and bring them to you in time."/>
-    <string id="bMSI9Bt3" text="Рада громад"/>
+    <string id="bMSI9Bt3" text="{.f}Рада{.R_n10} громад"/>
     <string id="bmW77NvO" text="What about my {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?}?"/>
     <string id="bN3bLDb2" text="Здобич після бою +{a0}%"/>
     <string id="bn5fpYx3" text="{newline} - {HERO.NAME} повинен використати {INFLUENCE_AMOUNT} впливу, щоб переконати {CRUEL_LORD_COUNT} {#GET_PLURAL_VALUE(CRUEL_LORD_COUNT)}жорстокого лідера{#}жорстоких лідерів{#}жорстоких лідерів{\#} у цій дії:{newline} {CRUEL_LORDS}"/>
