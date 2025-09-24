@@ -604,7 +604,7 @@
     <string id="eu25AFfI" text="Can't access inventory right now!"/>
     <string id="EuEJ08Dg" text="Кількість здорових воїнів сторони захисту"/>
     <string id="eufhFrnC" text="Селяни з {VILLAGE_NAME}{.v_rod}"/>
-    <string id="EuGCNdHG" text="Покинути королівство"/>
+    <string id="EuGCNdHG" text="Вийти з королівства"/>
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?"/>
     <string id="eURzhtb0" text="Gathering around {PARTY_NAME}."/>
     <string id="EUzxzL9s" text="Броня (голова): "/>
@@ -663,7 +663,7 @@
     <string id="forgeverb" text="Кувати"/>
     <string id="FpI5JMZq" text="Transactions have been reset"/>
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} приросту до зростання села."/>
-    <string id="fQ2RLaOa" text="Клан не має жодної власності"/>
+    <string id="fQ2RLaOa" text="У клану немає жодних вотчин"/>
     <string id="fQAGU9GW" text="Великодушність:"/>
     <string id="FqwHAxuM" text="Дворучна держакова зброя"/>
     <string id="FRepQsmO" text="Турнір буде у формі лицарського поєдинку."/>
