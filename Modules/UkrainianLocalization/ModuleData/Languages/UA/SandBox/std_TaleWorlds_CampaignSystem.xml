@@ -165,7 +165,7 @@
     <string id="1WbsW7I7" text="{QUEST_GIVER.NAME} won’t need anymore daggers. You can go back to {?QUEST_GIVER.GENDER}her{?}him{\?} to get your reward."/>
     <string id="1WxrzNXx" text="He'll be delighted. I'll tell him to join you as soon as possible."/>
     <string id="1XuYGQcT" text="{ISSUE_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}her{?}his{\?} local smith needs {REQUESTED_ITEM} to forge more tools. You asked your companion {COMPANION.LINK} to help the local smith and craft {REQUESTED_ITEM_COUNT} {?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?} for the village. Your companion will rejoin your party in {RETURN_DAYS} days."/>
-    <string id="1Y5p40uP" text="granting villagers the right to graze on land held in common"/>
+    <string id="1Y5p40uP" text="дозволяти селянам випасати худобу на землях, що перебувають у спільному користуванні"/>
     <string id="1yCeyK4I" text="You declared that the village had paid enough, and departed."/>
     <string id="1yqMERf2" text="{VALUE}% швидкості відновлення для кожного типу їжі в запасах загону."/>
     <string id="1YxFYg3s" text="Енергійність"/>
@@ -195,7 +195,7 @@
     <string id="2b1xZGaQ" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Наше королівство буде платити {T} данини щодня."/>
     <string id="2bcNCnI3" text="{QUEST_GIVER.LINK} asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods for at least {UNIT_PRICE}{GOLD_ICON} per load and return to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} told you that any profit would make above this price is yours to keep."/>
     <string id="2brAaeFh" text="You failed to complete tournaments in time. {QUEST_GIVER.LINK} will certainly be disappointed."/>
-    <string id="2BVDp7Tg" text="The {KINGDOM} will stop {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
+    <string id="2BVDp7Tg" text="{KINGDOM} не буде {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="2c7dIRla" text="You are known as a brave {?PLAYER.GENDER}warrior{?}warrior{\?} and a fine leader of men, {PLAYER.NAME}. I shall be pleased to accept your sword into my service, if you are ready to swear homage to me."/>
     <string id="2D4EdZVK" text="All right, but if this falls through because you took too long, I won't be too happy with that."/>
     <string id="2diuD0rT" text="Your clan/faction is now at war with {QUEST_GIVER.LINK}'s faction. Your agreement with {QUEST_GIVER.LINK} has been canceled."/>
@@ -328,7 +328,7 @@
     <string id="3vFxRKja" text="You refused his offer and decided to collect the rest of the revenues by force. Your action upset the village notables and made villagers angry. Some villagers tried to resist. In the brawl, {WOUNDED_COUNT} of your men got wounded."/>
     <string id="3VxA6HaZ" text="Для себе."/>
     <string id="3W3eEIIZ" text="Неважливо. Можете йти."/>
-    <string id="3W67kdtc" text="This decision had the support of the council."/>
+    <string id="3W67kdtc" text="Це рішення було підтримано радою."/>
     <string id="3WA4MLzx" text="One way or the other, you'll regret this. If I fall, my people will have their revenge.[if:idle_angry][ib:warrior]"/>
     <string id="3wb2dCfz" text="It'll be right up then, {?PLAYER.GENDER}ma'am{?}sir{\?}."/>
     <string id="3WFgPigk" text="{ISSUE_GIVER.NAME} wants to sell you stolen goods. The price is low because of the added risk."/>
@@ -413,7 +413,7 @@
     <string id="54PfOh98" text="making {?CHILD.GENDER}her{?}his{\?} own toys."/>
     <string id="54RyKzPJ" text="After your attempts to bargain, a deal has been made to forgive the debts of the poorest villagers."/>
     <string id="54vkRuHo" text="Казарма гарнізону"/>
-    <string id="55CsWKbg" text="У деяких королівствах, особливо тих, що розвинулися з міст-держав або племен, існували народні збори, на які мали право приходити більшість їхніх жителів. Повноваження народних зборів часто були обмеженими, оскільки вони могли збиратися лише періодично, але вони все одно давали громадянам право брати участь в управлінні державою."/>
+    <string id="55CsWKbg" text="У деяких королівствах, особливо тих, що розвинулися з міст-держав або племен, існували народні збори, в яких брали участь більшість жителів. Повноваження зборів часто були обмеженими, оскільки вони могли збиратися лише періодично, але вони все одно давали громадянам право брати участь в управлінні державою."/>
     <string id="563qB3ar" text="I can only hope that if they come to know my loyalty, they will accept me."/>
     <string id="570wiYEe" text="Солодкоголосий"/>
     <string id="57TDG2Ta" text="Роторні механізми"/>
@@ -937,7 +937,7 @@
     <string id="aKrzoAsh" text="You have defeated {MALE_LESSER_NOBLE_NAME} and helped {QUEST_GIVER.LINK} as promised. You received {REWARD}{GOLD_ICON} in return for your service."/>
     <string id="al27CmYV" text="If you can advance to reach round {ROUND_COUNT}, I'm sure that will do us both honor.[if:convo_calm_friendly][ib:demure]"/>
     <string id="ALC3Kzv9" text="В облозі"/>
-    <string id="AlFTInfU" text="States with strict and formal laws of inheritance make it more difficult to revoke land."/>
+    <string id="AlFTInfU" text="У державах із суворим і чітким законодавством про спадкування значно складніше відібрати земельну ділянку."/>
     <string id="aLsVKIRy" text="Wounded members"/>
     <string id="AlZB8WIb" text="War Tax"/>
     <string id="AM1ROQcT" text="your lordship"/>
@@ -1008,7 +1008,7 @@
     <string id="awCsv4UM" text="Tiny {FIRSTNAME}"/>
     <string id="awoeb3br" text="{FACTION_LEADER} will decide if the {KINGDOM_CONSIDERING_PEACE_NAME} will make peace with the {KINGDOM_NAME}. You can pick your stance regarding this decision."/>
     <string id="AWuEV99O" text="{?CHILD.GENDER}вивільнила{?}вивільнив{\?} свій бійцівський дух."/>
-    <string id="aWWzrwAw" text="The cost of revoking a fief from a clan is doubled{newline}Clans gain 0.1 influence for each fief they own"/>
+    <string id="aWWzrwAw" text="Вартість позбавлення клану вотчини подвоюється{newline}Клани отримують 0.1 впливу за кожну вотчину, якою вони володіють"/>
     <string id="aXFYyBEQ" text="Showing mercy to a settlement that shares your faction's culture requires no influence.{newline}"/>
     <string id="aXhPvVud" text="{HERO.LINK} {?HERO.GENDER}створила{?}створив{\?} армію."/>
     <string id="aXOgAKfj" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. I hope your people will be successful.[ib:hip][if:convo_excited]"/>
@@ -1056,7 +1056,7 @@
     <string id="b5Ucatkb" text="Tell me about your journeys. What news of the markets?"/>
     <string id="B5UMlqHc" text="I'll be honest... We don't want to die. Would you take us on as hired fighters? That way everyone gets what they want."/>
     <string id="b6BunI6y" text="Settlement Owner Changed"/>
-    <string id="b6MgRYlM" text="This decision was opposed by most of the council."/>
+    <string id="b6MgRYlM" text="Більшість членів ради виступили проти цього рішення."/>
     <string id="b6naGx6H" text="I'll rid you of those poachers myself."/>
     <string id="b6Spbd9O" text="{VICTIM.LINK} has been executed by {KILLER.LINK}."/>
     <string id="b6W74uyR" text="Тріски"/>
@@ -1162,7 +1162,7 @@
     <string id="bkoJ57h3" text="Увійти до міста"/>
     <string id="bKsb7tcr" text="Candidly, what do you think of our liege, {FIRST_NAME}?"/>
     <string id="BkTiRPT4" text="Полігони"/>
-    <string id="BktSNgY4" text="We oppose this proposal"/>
+    <string id="BktSNgY4" text="Ми проти цієї пропозиції"/>
     <string id="bkZOcbGu" text="Your men are still getting us the tools. I ask for your patience. We very much appreciate this."/>
     <string id="bLAw2di4" text="{VALUE}% швидкості лікування."/>
     <string id="bLfXzCyc" text="I'm at your service my {?ISSUE_OWNER.GENDER}lady{?}lord{\?}. Just tell me the details."/>
@@ -1210,7 +1210,7 @@
     <string id="bPPXiybO" text="I just happened to be around. Have no fear {QUEST_GIVER.NAME}, your goods are fine."/>
     <string id="bPqwLopK" text="Mm. Are you a slaver?"/>
     <string id="bpXgcBCp" text="What we did to that village... I don't like it. Those farmers, they're a lot like my people. I want to know it won't happen again."/>
-    <string id="bqEO389P" text="This decision caused a split in the council."/>
+    <string id="bqEO389P" text="Це рішення спричинило розкол у раді."/>
     <string id="BQjAAo9f" text="Right now I'm looking for work, if you have anything to offer."/>
     <string id="BqkD4YWr" text="You manage to round up some men from the village who look like they might make decent recruits."/>
     <string id="BQn8yTs5" text="Ah, yes. I am afraid I can no longer entertain your proposal, at least not for now."/>
@@ -1803,7 +1803,7 @@
     <string id="fAdwIqbg" text="I think you should try to win my family's approval."/>
     <string id="FaGc9xR4" text="{VALUE}% шансу, що бандити, селяни та каравани здадуться."/>
     <string id="FAIYN0vN" text="You have {NUMBER} new updates to your quests."/>
-    <string id="faUooB7V" text="The {KINGDOM} will not be {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
+    <string id="faUooB7V" text="{KINGDOM} не буде {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="FAuoq2gT" text="While I am honored, I must decline your offer."/>
     <string id="FaYXPkaX" text="Hmm... Only loyal vassals of {FACTION_LEADER} can own lands and castles. While kings will sometimes accept vassalage from men who prove themselves in battle, and grant them land, I have never heard of a king who gave fiefs to women. You had best discuss that issue with {FACTION_LEADER} himself."/>
     <string id="faZuFQUF" text="You are accused in {SETTLEMENT} of a crime, and {QUEST_GIVER.LINK} no longer wants your help."/>
@@ -1842,7 +1842,7 @@
     <string id="FirEOQaI" text="Talk to the garrison commander"/>
     <string id="FiZVzLV3" text="I want you to join my party."/>
     <string id="FJ0uAo6p" text="{CRAFTING_END_TEXT}"/>
-    <string id="fj5mYvNE" text="recognizing the formal inheritance of fiefs"/>
+    <string id="fj5mYvNE" text="офіційно визнавати успадкування вотчин"/>
     <string id="fjj0pJXV" text="Landowners could often assert legal rights to common areas and charge villages money to use them. If ordinary people petitioned a ruler, however, he might give them the right to use all common areas for hunting or grazing as members of the village."/>
     <string id="fjmGXcLW" text="You have to send healthy troops to this quest."/>
     <string id="FjMS9Mbz" text="Важкі болти"/>
@@ -2467,7 +2467,7 @@
     <string id="JnQcDyAz" text="{VALUE}% швидкості виробництва зерна, оливок, риби, фініків у селах, прилеглих до підконтрольного поселення."/>
     <string id="JNS46jsG" text="King bonus"/>
     <string id="JnSh4Fmz" text="Платний в'їзд"/>
-    <string id="jnYwiCAz" text="The {KINGDOM} will continue {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
+    <string id="jnYwiCAz" text="{KINGDOM} продовжить {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="jo3UHKMD" text="Leave it to the others."/>
     <string id="jO9cGnCK" text="You bought the goods from the bandits and handed over them to the {MERCHANT.LINK}."/>
     <string id="JOaD2BlP" text="In due time. Let's not be too hasty here."/>
@@ -3411,7 +3411,7 @@
     <string id="pwuEqegC" text="Party leader is the only member of the party right now."/>
     <string id="pWxXvtXP" text="{QUEST_GIVER.LINK}, a headman of {QUEST_SETTLEMENT} told you that a group of deserters have been raiding their village regularly. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to wait in {QUEST_SETTLEMENT} until the deserters arrive..."/>
     <string id="pWYkIkKj" text="Very well, {PLAYER_SALUTATION}. Tell me what you have in mind."/>
-    <string id="pWyxaauF" text="We support this proposal"/>
+    <string id="pWyxaauF" text="Ми підтримуємо цю пропозицію"/>
     <string id="pX0MgdZA" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been ransomed from the {CAPTURER_FACTION}."/>
     <string id="PX0Xufmr" text="Спартанець"/>
     <string id="PXhIFXbv" text="organizing households to supply military recruits"/>
@@ -4380,7 +4380,7 @@
     <string id="w5b79MmE" text="Player clan should be independent."/>
     <string id="W6pKpEoT" text="Ви готові вирушити у грандіозну пригоду в Кальрадії! Ось ваш персонаж. Продовжуйте, якщо готові, або верніться і внесіть зміни."/>
     <string id="W6X5DffB" text="Thank you for sparing the men to bring us that seed grain, {?PLAYER.GENDER}madam{?}sir{\?}. That should get us through the hard times ahead.[if:convo_grateful][ib:normal]"/>
-    <string id="W6XMWJ8R" text="Привілеї замків"/>
+    <string id="W6XMWJ8R" text="Привілеї для замків"/>
     <string id="W7C30eri" text="Thank you, {?CONVERSATION_NPC.GENDER}madame{?}sir{\?}. It was an honour to serve you.."/>
     <string id="W7c3BfIX" text="Thus always spoke the tyrant to the oppressed! We can only pray that the Heavens help the just. Now stay out of my way.[if:convo_undecided_closed][ib:closed]"/>
     <string id="W7PaF7Lr" text="{VALUE}% шкоди від попадання в голову з арбалета."/>
@@ -4535,7 +4535,7 @@
     <string id="XbnhxZbo" text="{PLAYER.NAME}.. Is that you? Am I free?"/>
     <string id="XbQFAKUz" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has died while being held captive by the {CAPTURER_FACTION}."/>
     <string id="xbVCRbUu" text="You hunted {CURRENT_COUNT}/{TOTAL_COUNT} gang of brigands."/>
-    <string id="xbvei0Cb" text="Feudal Inheritance"/>
+    <string id="xbvei0Cb" text="Феодальна спадщина"/>
     <string id="xbvgc8Sp" text="This solution will cost {INFLUENCE} influence."/>
     <string id="xbvQzR2B" text="Your men should be on their way."/>
     <string id="xc4ossl0" text="Infancy"/>
