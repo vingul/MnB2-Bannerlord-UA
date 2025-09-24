@@ -2664,7 +2664,7 @@
     <string id="KX7xtOI6" text=" Your clan does not have enough influence to get them to do this!"/>
     <string id="kXcUbkEW" text="Your Clan Tier needs to be {TIER}"/>
     <string id="KXtaJNo4" text="{newline}+{VALUE} слави"/>
-    <string id="kXVHwjoV" text="Ви прибули у своє володіння — {SETTLEMENT_LINK}. {PROSPERITY_INFO} {MORALE_INFO}"/>
+    <string id="kXVHwjoV" text="Ви прибули до своєї вотчини — {SETTLEMENT_LINK}. {PROSPERITY_INFO} {MORALE_INFO}"/>
     <string id="kxvnA811" text="All right, I will send you someone from my party who fits your bill."/>
     <string id="Ky03jg94" text="Fight"/>
     <string id="kYc90hEl" text="Sorry, but the price is what we agreed on. I can't lower it."/>
@@ -2856,7 +2856,7 @@
     <string id="m4pZhnyd" text="They are going as planned, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}..."/>
     <string id="M560TDza" text="{ISSUE_OWNER.LINK}, the {?ISSUE_OWNER.GENDER}lady{?}lord{\?} of {QUEST_SETTLEMENT}, told you that {?ISSUE_OWNER.GENDER}she{?}he{\?} needs more troops in {?ISSUE_OWNER.GENDER}her{?}his{\?} garrison. {?ISSUE_OWNER.GENDER}She{?}He{\?} is willing to pay {REWARD}{GOLD_ICON} for your services. You asked your companion to deploy {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} troops to {QUEST_SETTLEMENT}'s garrison."/>
     <string id="M5eUjgQl" text="Cured"/>
-    <string id="M5iR1e5h" text="Ви прибули у своє володіння — {SETTLEMENT_LINK}. {PROSPERITY_INFO}"/>
+    <string id="M5iR1e5h" text="Ви прибули до своєї вотчини — {SETTLEMENT_LINK}. {PROSPERITY_INFO}"/>
     <string id="m61UnySr" text="Yeah, you make a good point. If you find us, others can too. We will move elsewhere."/>
     <string id="m6OVl6Dg" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} вигнати клан {CLAN} з {.S}{KINGDOM}{.v_rod}, хоч думки в {?RULER.GENDER}її{?}його{\?} раді з цього питання й розділилися порівну."/>
     <string id="m6RcG1bD" text="{VALUE}% бонусу до шкоди від швидкості воїнам вашого підрозділу."/>
@@ -3517,7 +3517,7 @@
     <string id="QJVbCLbl" text="Keep safe, husband."/>
     <string id="qjvDsu8u" text="Металургія"/>
     <string id="QkbbLb4v" text="Шкода від дворучної зброї: +{a0}%"/>
-    <string id="QKIxepj5" text="Ця власність має перейти до {RECIPIENT.CLAN}{.v_rod}"/>
+    <string id="QKIxepj5" text="Право володіння цією вотчиною має перейти до {RECIPIENT.CLAN}{.v_rod}"/>
     <string id="QKjF5gTR" text="Розсудливість відображає вашу здатність контролювати свої емоції заради довгострокових інтересів."/>
     <string id="QKNWsJRb" text="Let {PARTY} Go"/>
     <string id="qKrUyqsD" text="Of course, my {?QUEST_GIVER.GENDER}lady{?}lord{\?}. But sieges are always costly..."/>
