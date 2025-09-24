@@ -1897,7 +1897,7 @@
     <string id="fsr2yhrr" text="Хоча військових подвигів на {?CHILD.GENDER}її{?}його{\?} рахунку було небагато, {CHILD.NAME} все ж {?CHILD.GENDER}стала досить популярною{?}став досить популярним{\?} серед солдатів і {?CHILD.GENDER}підняла{?}підняв{\?} їхній бойовий дух."/>
     <string id="fsTBcLvA" text="Гарнізон {SETTLEMENT}{.v_rod}"/>
     <string id="fswrp38u" text="{VALUE}% штрафу за торгівлю в'ючними тваринами."/>
-    <string id="ft08QZrA" text="Precarial Land Tenure"/>
+    <string id="ft08QZrA" text="{.n}Докапіталістичний{.R_adj} землеволодіння"/>
     <string id="FT9V47bd" text="You issued a decree to remove the restrictions on the sale of goods, as the artisans had requested."/>
     <string id="FTjKWm8s" text="{KING.NAME} should rule us"/>
     <string id="fudD6PXR" text="I am {CONVERSATION_HERO.FIRSTNAME}. I have been chosen by the people of {REBEL_SETTLEMENT_NAME} to lead them in their struggle against tyranny."/>
@@ -2985,7 +2985,7 @@
     <string id="mWezTaa1" text="{VALUE}% швидкості пересування в бою без щита і далекобійної зброї."/>
     <string id="mWLA9sfT" text="I don't want to break the law. You can take the goods."/>
     <string id="mwpY5Ylb" text="I am still waiting for news from {TARGET_SETTLEMENT}. Once again, I appreciate that you could spare the men to do this.[if:convo_calm_friendly]"/>
-    <string id="MWvzJSH1" text="Зміна податкової системи, яка б робила більший акцент на власності, а не на податку з особи, що стягується з кожної людини, дозволить збирати більше податків з багатих землевласників."/>
+    <string id="MWvzJSH1" text="Зміна податкової системи, яка робить більший акцент на власності, а не на податку з особи, що стягується з кожної людини. Це дозволить збирати більше податків з багатих землевласників."/>
     <string id="MX7toYav" text="{CHILD.NAME} joined a hunting pursuit in pursuit of a pack of wolves who had been ravaging the local livestock. {?CHILD.GENDER}She{?}He{\?} tracked and took down one of the beasts with an arrow."/>
     <string id="mXGozqqL" text="{VALUE}% платні вершникам у підконтрольному поселенні."/>
     <string id="MXGtQ6YV" text="I hear {.%}{BANDIT_NAME}{.%} have moved into the old {HIDEOUT_NAME} near here. Travellers better watch themselves."/>
@@ -4071,7 +4071,7 @@
     <string id="u57OuUZR" text="{VALUE}% пробиття броні вашими атаками."/>
     <string id="u5zNNZKa" text="Ефективний вугляр"/>
     <string id="u6GM5Spa" text=" Армії"/>
-    <string id="U7s1LycQ" text="Посилається на нордську практику призначення незалежних старійшин, які нагадують раді про закон і минулі прецеденти. Таким чином, перевага надається тим, хто має освіту, щоб наводити складні правові доводи."/>
+    <string id="U7s1LycQ" text="Подібно до нордів впроваджується практика призначення незалежних старійшин, які нагадують раді про закон і минулі прецеденти. Для цієї посади, перевага надається тим, хто має освіту, щоб наводити складні правові доводи."/>
     <string id="U7sTASN4" text="{ISSUE_OWNER.LINK}, a gang leader from {QUEST_SETTLEMENT}, has told you that some bounty hunters captured some of {?ISSUE_OWNER.GENDER}her{?}his{\?} gang members and are holding them in their hideout. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants them found and rescued. You agreed to send {TROOP_COUNT} of your men along with a {COMPANION.LINK} to find these bounty hunters and rescue {?ISSUE_OWNER.GENDER}her{?}his{\?} associates. They should be back in {RETURN_DAYS} days."/>
     <string id="u7yLV7Vr" text="As you try to sneak in, one of the guards recognizes you and raises the alarm! Another quickly slams the gate shut behind you, and you have no choice but to give up."/>
     <string id="u8DJ8a2D" text="You agreed with the headman to break your agreement with {QUEST_GIVER.LINK}. By doing so you protected the villagers' jobs and now they are grateful to you."/>
