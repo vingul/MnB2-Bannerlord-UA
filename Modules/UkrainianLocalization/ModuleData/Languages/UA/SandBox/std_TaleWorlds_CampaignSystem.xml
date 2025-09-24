@@ -230,7 +230,7 @@
     <string id="2PEKd3Sz" text="Actually, I changed my mind. Cancel the order..."/>
     <string id="2PPwmNmg" text="I can escort you for 10 days. After that, I must return to my own affairs."/>
     <string id="2PVm7NON" text="Співучасники"/>
-    <string id="2Qx4bL66" text="The ruler has a monopoly on certain goods, although practically he can license out production to merchants and collect a portion of the proceeds."/>
+    <string id="2Qx4bL66" text="Правитель має монополію на певні товари, хоча на практиці він може видавати ліцензії на виробництво купцям і забирати частину прибутку."/>
     <string id="2qZ81jPG" text="Власник {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="2rPMYl7Y" text="Ватажок селян"/>
     <string id="2ryLuN2i" text="Сім ветеранів"/>
@@ -511,7 +511,7 @@
     <string id="6CteaPKm" text="{VALUE}% дальності видимості вночі на карті кампанії."/>
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Thank you. My lords see you as an example, and see your conquest of {TARGET_SETTLEMENT} as be a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service and gave you {REWARD}{GOLD_ICON}."/>
     <string id="6d4ZTvGv" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the realm. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
-    <string id="6DQjKwt2" text="The influence cost of proposing settlement annexation is reduced by 50% for the ruler clan"/>
+    <string id="6DQjKwt2" text="Витрати впливу на пропозицію передачі поселення зменшуються на 50% для панівного клану"/>
     <string id="6EaKsRtu" text="Нещасні випадки неминучі, але дитину не лякає вигляд крові. {?CHILD.GENDER}Вона{?}Він{\?} знає, що діяти треба швидко, щоб зупинити кровотечу і запобігти інфікуванню."/>
     <string id="6eHl9Tz4" text="I would like you to serve {PLAYER_FACTION} as mercenary."/>
     <string id="6EJbUGpi" text="You will be rewarded when your companion returns with the animals we discussed.[if:convo_approving]"/>
@@ -718,7 +718,7 @@
     <string id="8PV1oB9W" text="Я хочу зосередитися на умінні «{SKILL_NAME}»."/>
     <string id="8PwNj5tR" text="Yes... Yes. We should, em, discuss this."/>
     <string id="8q4vzfbH" text="{VALUE}% шкоди по об'єктах, що знищуються, від воїнів вашого підрозділу."/>
-    <string id="8qwvZ15E" text="Towns held by the ruler clan gain 1 Loyalty and 1 Prosperity per day{newline}Towns held by non-ruler clans lose 0.3 Loyalty per day"/>
+    <string id="8qwvZ15E" text="Міста, утримувані панівним кланом, отримують 1 Вірності та 1 Добробуту в день{newline}Міста, утримувані не панівними кланами втрачають 0.3 Вірності в день"/>
     <string id="8RBZaQKk" text="{AGGRESSOR_RULER.NAME} з {.S}{AGGRESSOR_KINGDOM}{.v_rod} {?AGGRESSOR_RULER.GENDER}вирішила{?}вирішив{\?} не розпочинати війну з {.S}{KINGDOM}{.v_oru} за повної підтримки своєї ради."/>
     <string id="8rgH8CGc" text="We're just harmless shepherds..."/>
     <string id="8RNueEmy" text="A merchant caravan needs an escort for protection against bandits and brigands."/>
@@ -1104,7 +1104,7 @@
     <string id="bCZbgrLU" text="Коваль захворів і {?CHILD.GENDER}молодій жінці{?}молодому чоловікові{\?} довелося швидко навчитися кувати підкови та виготовляти цвяхи."/>
     <string id="bdab7SmZ" text="You recruited the bandits who were giving {QUEST_GIVER.LINK} trouble. {?QUEST_GIVER.GENDER}she{?}he{\?} is satisfied with this outcome, and sends you {REWARD_GOLD}{GOLD_ICON} that {?QUEST_GIVER.GENDER}she{?}he{\?} promised."/>
     <string id="BDAmZkJF" text="You received a message from {ISSUE_GIVER.LINK}. 'It was a pleasure doing business with you and your folks.'"/>
-    <string id="bDANTRwA" text="5% tax on tariffs is paid to the ruler clan{newline}Higher trade penalty in towns{newline}Settlement prosperity is decreased by 1 per day"/>
+    <string id="bDANTRwA" text="5% податок на мито сплачується панівному клану{newline}Вищий торговий штраф у містах{newline}Добробут поселень зменшено на 1 в день"/>
     <string id="bdetTQa6" text="We are only mercenaries serving under {EMPLOYER_FACTION_INFORMAL_NAME}. We cannot negotiate peace on behalf of our employers."/>
     <string id="bdlomGZ1" text="{MIN_NUMBER_OF_TROOPS} - {MAX_NUMBER_OF_TROOPS_LOST} troop loss"/>
     <string id="Bdt41knf" text="You have accepted {QUEST_GIVER.LINK}'s request to find at least {TOTAL_COUNT} different parties of brigands around {QUEST_SETTLEMENT} and sent {COMPANION.LINK} and with {?COMPANION.GENDER}her{?}his{\?} {ALTERNATIVE_COUNT} of your men to deal with them. They should return with the reward of {GOLD_AMOUNT}{GOLD_ICON} denars as promised by {QUEST_GIVER.LINK} after dealing with them in {RETURN_DAYS} days."/>
@@ -1505,7 +1505,7 @@
     <string id="DFMsbFrB" text="{VALUE}% шкоди від кінних лучників у вашому загоні."/>
     <string id="dfULyKsz" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я їздовим тваринам у вашому загоні."/>
     <string id="dfwCjiRx" text="Trade Tax from {A0}"/>
-    <string id="dfyNVkFV" text="Crown Duty"/>
+    <string id="dfyNVkFV" text="{.f}Королівський{.R_adj} {.f}повинність{.R_n30}"/>
     <string id="DG3JbOa2" text="Для рішень королівства кількість впливу, яке необхідне правителю для його скасування, зменшено на 20%"/>
     <string id="dGakGflE" text="Yes, your {?QUEST_GIVER.GENDER}ladyship{?}lordship{\?}, I'll gladly do it."/>
     <string id="dgf6q4qB" text="Керувати містом"/>
@@ -1690,7 +1690,7 @@
     <string id="eKy1II3h" text="You made your way out but {PRISONER.NAME} was badly wounded during the escape. You had no choice but to leave {?PRISONER.GENDER}her{?}him{\?} behind as you disappeared into the back streets and sneaked out the gate.{INFORMATION_IF_PRISONER_DEAD}"/>
     <string id="ElG1LnCA" text="I am thinking of someone else."/>
     <string id="elKQc0O6" text="Гільдії інженерів"/>
-    <string id="elvb5y2I" text="The ruler is allowed to impose special taxes on trade in towns, payable directly to the royal or imperial treasury."/>
+    <string id="elvb5y2I" text="Правитель має право накладати спеціальні податки на торгівлю в містах, які сплачуються безпосередньо до королівської або імперської скарбниці."/>
     <string id="ELxhTMuy" text="Excellent. But please hurry - we need to put the men we hired to work right away. Good luck."/>
     <string id="EmBEupR5" text="a secret society"/>
     <string id="EmBla2xa" text="You don't have enough {ITEM}"/>
@@ -2258,7 +2258,7 @@
     <string id="idwOxnX5" text="Ні, якщо ви зараз же здастеся. В іншому випадку, готуйтеся до бою!"/>
     <string id="iE5vWYj2" text="Tell your men to be careful, and to touch nothing in a house where anyone has been sick."/>
     <string id="IefM6uAy" text="Thank you. You'll be paid well. Also you can keep their illegally obtained leather.[ib:normal2][if:convo_bemused]"/>
-    <string id="ieIWHAtc" text="A ruler can grant towns special privileges based on their 'immediacy', special access to his person without going through lords or other vassals."/>
+    <string id="ieIWHAtc" text="Правитель може надавати містам особливі привілеї, засновані на їхній «близькості» до нього — особливому доступі до своєї персони, оминаючи лордів чи інших васалів."/>
     <string id="IEQrNbpH" text="Inheritance"/>
     <string id="IF6jGovm" text="Stay safe, my dear."/>
     <string id="IFasMslv" text="I will assign a companion with {TROOP_COUNT} good men for {RETURN_DAYS} days."/>
@@ -2595,7 +2595,7 @@
     <string id="kiJxwqVh" text="{FIRSTNAME} the Wheeler"/>
     <string id="KiOBbxr3" text="In addition to {?CHILD.GENDER}her{?}his{\?} parents traits, this baby also shows promising {ATR_1} and {ATR_2}."/>
     <string id="KiUVswtx" text="{FIRSTNAME} the Mercer"/>
-    <string id="kIVfA5cv" text="Ruler clan gains 5% of settlement as tax per town{newline}Workshop production is decreased by 10%"/>
+    <string id="kIVfA5cv" text="Панівний клан отримує 5% від поселення як податок за місто{newline}Виробництво в майстернях зменшено на 10%"/>
     <string id="kj3WQY1V" text="Maybe I should keep this to myself."/>
     <string id="kJDDW6Dk" text="It was a pleasure to meet you. Safe travels."/>
     <string id="kJlOvZEm" text="Boss {FIRSTNAME}"/>
@@ -2689,7 +2689,7 @@
     <string id="l5aOTKUi" text="прекрасного жеребця."/>
     <string id="l5H9x7Lo" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} передає {.S}{SETTLEMENT}{.v_zna} {.S}{LEADER.NAME}{.v_dav}, хоч думки в {?RULER.GENDER}її{?}його{\?} раді й розділилися порівну."/>
     <string id="L5iagGyo" text="I am a brother in our order."/>
-    <string id="l5kDEI6N" text="Imperial Towns"/>
+    <string id="l5kDEI6N" text="{.p}Імперський{.R_adj} {.p}місто{.R_n2n_p1}"/>
     <string id="l5YipTe3" text="{SETTLEMENT} в облозі. {FURTHER_EXPLANATION}"/>
     <string id="L6N2YLa6" text="{FIRSTNAME} the Finger"/>
     <string id="L700FNht" text="Delivered {RAW_MATERIAL}"/>
@@ -2888,7 +2888,7 @@
     <string id="mEsaiLOR" text="Very well then. If you happen to have any more prisoners, you know where to find me."/>
     <string id="MesU0nGW" text="{VALUE}% більше здобичі від сіл, що зазнали ворожих дій від вас."/>
     <string id="meVKYu9a" text="{SALUTATION_BY_PLAYER}, I would pledge allegiance to you and be counted among your loyal followers."/>
-    <string id="MF40cm9k" text="Land grants are considered to be temporary offices rather than the rightful inheritance of lords. In practice heirs tend to take over their family fiefs, but it's easier under Depositions to remove them."/>
+    <string id="MF40cm9k" text="Земельні наділи вважаються радше тимчасовими володіннями, аніж землею, яку лорди можуть законно передати в спадок. На практиці спадкоємці, як правило, отримують родинні вотчини, але за відповідним законом її легко можна відібрати."/>
     <string id="mfAP8Wlq" text="Покинути поселення."/>
     <string id="MFDb5duu" text="Splendid! I suspect that you may, in your line of work, occasionally acquire a few captives. I could possibly take them off your hands. I'd pay you, of course."/>
     <string id="mfYzCeGR" text="{CHARACTER.NAME} was {TITLE} of the {CHARACTER_FACTION_SHORT}. {FURTHER_DETAILS}."/>
@@ -3526,9 +3526,9 @@
     <string id="qLdchkGU" text="Yeah... Well, a lot can go wrong if you don't move on these things quickly."/>
     <string id="QlECaaHt" text="Hmm...They can be useful."/>
     <string id="QLLeHRWw" text="Herders of {QUEST_SETTLEMENT}"/>
-    <string id="QLNfsk93" text="Town security is increased by 1 per day{newline}Town taxes are reduced by 5%"/>
+    <string id="QLNfsk93" text="Безпека міста збільшується на 1 в день{newline}Міські податки зменшуються на 5%"/>
     <string id="QlYUE00L" text="Well. We did have an agreement. I do expect you to pay the full amount."/>
-    <string id="QlZc9CNQ" text="Rulers could appoint magistrates to rule in disputes and solve crimes. This could cut down on gang activity and lawlessness, but was often greatly resented by communities."/>
+    <string id="QlZc9CNQ" text="Правителі можуть призначати суддів для вирішення суперечок і розслідування злочинів. Це може знизити рівень бандитизму та беззаконня, але часто викликає велике обурення громадськості."/>
     <string id="Qm6SGjkb" text="Farewell, my wife. Safe travels, and a swift return."/>
     <string id="QmaIRD7P" text="{VALUE}% швидкості руху вночі."/>
     <string id="qmwv27To" text="{FIRSTNAME} the Mouse"/>
@@ -3893,7 +3893,7 @@
     <string id="sVXa3zFx" text="Замок"/>
     <string id="swgcsLOA" text="{VALUE}% більше здобичі з переможених селян і караванів."/>
     <string id="SXbW99CH" text="{?CHILD.GENDER}лікувала{?}лікував{\?} травми."/>
-    <string id="SXCudsWT" text="State Monopolies"/>
+    <string id="SXCudsWT" text="{.p}Державний{.R_adj} {.p}монополія{.R_n10_p1}"/>
     <string id="SXgm2b1M" text="You're not going anywhere. Not with your valuables, anyway."/>
     <string id="SxkaQbSa" text="Ви підходите до воріт. Чоловіки на стінах пильно стежать за вами."/>
     <string id="sXwOLNo9" text="I don't like turning my back on the enemy like that. For me, death in battle is better than dishonor."/>
@@ -4918,7 +4918,7 @@
     <string id="zgzDwZKZ" text="Courtship from clan parties"/>
     <string id="ZH3U43xW" text="{VALUE} до відносин з випадковою відомою особою, старшою за 40 років, щоденно поки ваш загін у місті."/>
     <string id="zh3Wf6bu" text="You are now at war with {QUEST_GIVER.LINK}'s faction. Quest is canceled."/>
-    <string id="ZhlpuMxb" text="Magistrates"/>
+    <string id="ZhlpuMxb" text="{.p}Магістрат{.R_n20_p_pz}"/>
     <string id="zHQuHeIg" text="{VALUE}% швидкості вербування полонених бандитів у вашому загоні."/>
     <string id="zhzh4yd1" text="You failed to stop {MALE_LESSER_NOBLE_NAME} before he stirred up unrest in the countryside. {QUEST_GIVER.LINK} will be very upset about this."/>
     <string id="ziA4catk" text="Very good."/>
