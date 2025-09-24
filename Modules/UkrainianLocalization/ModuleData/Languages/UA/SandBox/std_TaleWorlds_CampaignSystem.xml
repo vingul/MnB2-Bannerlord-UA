@@ -712,7 +712,7 @@
     <string id="8nq0TbMZ" text="{?PLAYER.GENDER}Ma'am{?}Sir{\?}! I saw your party from a distance. I hope you don't mind me catching up to you. I am glad to see you safe - and, from the looks of it, in possession of some fine new goods. Please tell me, would they be mine?"/>
     <string id="8nS3QgD7" text="{QUEST_GIVER.LINK} is a {?QUEST_GIVER.GENDER}lady{?}lord{\?} who told you that {?QUEST_GIVER.GENDER}she{?}he{\?} wants to sell {?QUEST_GIVER.GENDER}her{?}his{\?} mercenaries to another lord's service. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you sell them for {?QUEST_GIVER.GENDER}her{?}him{\?} without causing any trouble."/>
     <string id="8nwZXNTk" text="About the task {QUEST_GIVER.LINK} gave me..."/>
-    <string id="8pjMAqOg" text="Сенат"/>
+    <string id="8pjMAqOg" text="{.m}Сенат{.R_n20_u}"/>
     <string id="8POWjrr6" text="Вбивця коней"/>
     <string id="8PsaGhI8" text="На 20% менше податкових надходжень з міст."/>
     <string id="8PV1oB9W" text="Я хочу зосередитися на умінні «{SKILL_NAME}»."/>
@@ -1197,7 +1197,7 @@
     <string id="BOp61V4A" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {._}{REQUIRED_ITEM} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {ITEM_COUNT} {.%}{?(ITEM_COUNT &gt; 1)}{PLURAL(REQUIRED_ITEM)}{?}{REQUIRED_ITEM}{\?}{.%}  to {?QUEST_GIVER.GENDER}her{?}him{\?}. {PAYMENT_DESCRIPTION}"/>
     <string id="bOQEc7jA" text="I am a {?PLAYER.GENDER}woman{?}man{\?} of my word. I hope that it is sufficient."/>
     <string id="bOTQ7Pta" text="Місто"/>
-    <string id="bOtYmSP8" text="Дорожній збір"/>
+    <string id="bOtYmSP8" text="{.m}Дорожній{.R_adj} {.m}збір{.R_n21_u}"/>
     <string id="boXP9vkF" text="{VALUE}% відстані виявлення сліду."/>
     <string id="bOyjQ4yr" text="If you can deliver {REQUESTED_AMOUNT} {.%}{?(REQUESTED_AMOUNT &gt; 1)}{PLURAL(RAW_MATERIALS)}{?}{RAW_MATERIALS}{\?}{.%} to my contact {TARGET_HERO.LINK}, who you can find in {TARGET_SETTLEMENT}, that would help me survive for a time. The merchants of the town could be furious and lodge legal complaints of course, but hopefully you won't have to deal with that part."/>
     <string id="Bp0ZQbfp" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} {?ARMY_LEADER.GENDER}вирішила{?}вирішив{\?} проявити милосердя до жителів {SETTLEMENT}{.v_rod}. Ви чуєте незадоволене бурчання серед солдатів, яким було відмовлено в їхньому праві на грабунок."/>
@@ -2272,7 +2272,7 @@
     <string id="ihfuqu2S" text="I will find that seed grain for you."/>
     <string id="iHuzmdm2" text="{VALUE}% втрати добробуту через голод."/>
     <string id="IHXqZSnt" text="Yes, I am ready to accept your offer."/>
-    <string id="iiH5gKzE" text="Vote for {POLICY_NAME}"/>
+    <string id="iiH5gKzE" text="Голосування за {POLICY_NAME}{.v_zna}"/>
     <string id="iIlnWsBE" text="Keep safe, {PLAYER.NAME}. I hope to see you again soon."/>
     <string id="iJd59BPZ" text="I'm {CONVERSATION_HERO.FIRSTNAME}. Ask around about me. You'll be told I keep the peace in the back alleys."/>
     <string id="IJdGTOAe" text="Tribunes of the People"/>
@@ -4571,7 +4571,7 @@
     <string id="XFZcqNBB" text="battled brigands."/>
     <string id="XgA2JgVR" text="You are brought to the town square to face judgment."/>
     <string id="XGa8MkbJ" text="{QUEST_GIVER.NAME} has marked the hideout on your map"/>
-    <string id="XGcST2dB" text="Vote to disavow {POLICY_NAME}"/>
+    <string id="XGcST2dB" text="Голосування за скасування {POLICY_NAME}{.v_rod}"/>
     <string id="xgPNGOa8" text="Перебуваючи в армії, отримуєте на 25% більше впливу."/>
     <string id="XGuDyJMZ" text="{KINGDOM_NAME} will decide who will bear the crown as the next ruler. You can pick your stance regarding this decision."/>
     <string id="XH66Leg5" text="Greetings, my {?PLAYER.GENDER}lady{?}lord{\?}. I have heard much of your deeds. Thank you for agreeing to train me. I hope I won't disappoint you.[if:convo_grateful][ib:demure]"/>
