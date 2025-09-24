@@ -632,7 +632,7 @@
     <string id="7o68QryW" text="Not yet. I have some other business to attend to."/>
     <string id="7ouzFASf" text="Прибуває посланець з повідомленням від {OFFERED_KINGDOM_LEADER.NAME}{.v_rod}. {?OFFERED_KINGDOM_LEADER.GENDER}Вона помітила{\?}Він помітив{\?} вашу зростаючу репутацію і запитує, чи не хотіли б ви стати васалом {OFFERED_KINGDOM_NAME}{.v_rod}. Якщо ви зацікавлені, то вам слід поговорити з ним особисто."/>
     <string id="7P3wiojT" text="гострий розум."/>
-    <string id="7Pk3bFPC" text="Дворянські свити"/>
+    <string id="7Pk3bFPC" text="{.p}Дворянський{.R_adj} {.p}свита{.R_n10_p1}"/>
     <string id="7q0vbVdN" text="You betrayed the gang leader and refused the {MERCHANT.LINK}'s request. The goods stayed with you."/>
     <string id="7QadTbWs" text="{VALUE}% вартості найму кланів малих фракцій до вашого клану."/>
     <string id="7QdKwOhY" text="Fortune favors the bold. With you with us, we will win this war quickly."/>
@@ -685,7 +685,7 @@
     <string id="8eHRth3U" text="my wife"/>
     <string id="8EtK0F1K" text="{VALUE}% дальності видимості під час подорожі степами та рівнинами."/>
     <string id="8f8UGq46" text="Спільнота ремісників"/>
-    <string id="8FPCRv5L" text="Кріпацтво"/>
+    <string id="8FPCRv5L" text="{.n}Кріпацтво{.R_n2n}"/>
     <string id="8G94SlPD" text="We are doing well, my {?HERO.GENDER}lady{?}lord{\?}. The merchants say business is brisk, and everything the people need appears to be in good supply."/>
     <string id="8GbGTDtL" text="{YOUNG_HERO.LINK}'s experience progress"/>
     <string id="8gF5qYw5" text="Your captors have been dispersed, and you are able to escape."/>
@@ -2395,7 +2395,7 @@
     <string id="jaLOtaRh" text="{VALUE}% шкоди від швидкості від держакової зброї кавалерії вашого підрозділу."/>
     <string id="jan55Git" text="{VALUE}% швидкості атаки одноручною зброєю за кожне очко уміння вище 250."/>
     <string id="Jat5GFDi" text="Нестримна сила"/>
-    <string id="JaZ7T2Wj" text="Таємна рада лордів"/>
+    <string id="JaZ7T2Wj" text="{.f}Таємний{.R_adj} {.f}рада{.R_n10} лордів"/>
     <string id="JBa4DO2u" text="{VALUE}% шкоди стінам під час облогового бомбардування."/>
     <string id="jbAtOsIy" text="Рабська праця"/>
     <string id="jBN2LlgF" text="Ми будемо битися до останньої краплі крові!"/>
@@ -4380,7 +4380,7 @@
     <string id="w5b79MmE" text="Player clan should be independent."/>
     <string id="W6pKpEoT" text="Ви готові вирушити у грандіозну пригоду в Кальрадії! Ось ваш персонаж. Продовжуйте, якщо готові, або верніться і внесіть зміни."/>
     <string id="W6X5DffB" text="Thank you for sparing the men to bring us that seed grain, {?PLAYER.GENDER}madam{?}sir{\?}. That should get us through the hard times ahead.[if:convo_grateful][ib:normal]"/>
-    <string id="W6XMWJ8R" text="Привілеї для замків"/>
+    <string id="W6XMWJ8R" text="{.p}Привілей{.R_n20_p} для замків"/>
     <string id="W7C30eri" text="Thank you, {?CONVERSATION_NPC.GENDER}madame{?}sir{\?}. It was an honour to serve you.."/>
     <string id="W7c3BfIX" text="Thus always spoke the tyrant to the oppressed! We can only pray that the Heavens help the just. Now stay out of my way.[if:convo_undecided_closed][ib:closed]"/>
     <string id="W7PaF7Lr" text="{VALUE}% шкоди від попадання в голову з арбалета."/>
@@ -4467,7 +4467,7 @@
     <string id="WSLHfiwg" text="You have delivered the goods from {QUEST_GIVER.NAME}."/>
     <string id="wSLO8VgG" text="{VALUE} до розміру гарнізону в підконтрольному поселенні."/>
     <string id="WsmH9Cfd" text="I will provide what you need."/>
-    <string id="WSU35a7F" text="Маршали"/>
+    <string id="WSU35a7F" text="{.p}Маршал{.R_n20_p_pz}"/>
     <string id="wSwzyr6M" text="Mess with us and we'll sell our lives dearly."/>
     <string id="wT1ducZX" text="Now. What will the kingdom be called?"/>
     <string id="wTBtu1t5" text="Відкрита площа в поселенні, де люди можуть зустрічатися, проводити час і ділитися ідеями. Збільшує вплив власника поселення."/>
@@ -4535,7 +4535,7 @@
     <string id="XbnhxZbo" text="{PLAYER.NAME}.. Is that you? Am I free?"/>
     <string id="XbQFAKUz" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has died while being held captive by the {CAPTURER_FACTION}."/>
     <string id="xbVCRbUu" text="You hunted {CURRENT_COUNT}/{TOTAL_COUNT} gang of brigands."/>
-    <string id="xbvei0Cb" text="Феодальна спадщина"/>
+    <string id="xbvei0Cb" text="{.f}Феодальний{.R_adj} {.f}спадщина{.R_n10}"/>
     <string id="xbvgc8Sp" text="This solution will cost {INFLUENCE} influence."/>
     <string id="xbvQzR2B" text="Your men should be on their way."/>
     <string id="xc4ossl0" text="Infancy"/>
