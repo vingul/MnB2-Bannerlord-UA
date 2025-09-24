@@ -15,7 +15,7 @@
     <string id="1CXlqb2U" text="Обрати:"/>
     <string id="1l4kpBDK" text="Failed to Apply Changes"/>
     <string id="1qm74K2t" text="Successful raids by {FACTION}"/>
-    <string id="1UbocG5B" text="Denounce your rights and responsibilities from this fief by giving it back to the realm."/>
+    <string id="1UbocG5B" text="Відмовтеся від своїх прав і обов'язків стосовно цієї вотчини, повернувши її королівству."/>
     <string id="1xf8rHLH" text="У вас немає полонених, яких можна завербувати."/>
     <string id="2abtb4xu" text="Independent"/>
     <string id="2ckyCKR7" text="Резерв"/>
@@ -167,7 +167,7 @@
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}"/>
     <string id="heroRecovering" text="Recovering"/>
     <string id="HfsUngkh" text="Recruitment is currently disabled."/>
-    <string id="HFZdseH9" text="Only the ruler of the kingdom can change it's name."/>
+    <string id="HFZdseH9" text="Лише правитель королівства може змінити його назву."/>
     <string id="HHTQVp52" text="Швидкість зцілення героїв"/>
     <string id="HiJTlBgF" text="Sell Workshop"/>
     <string id="hn9TPqhK" text="Weapon Tier"/>
@@ -221,7 +221,7 @@
     <string id="kWVbHPtT" text="Всього"/>
     <string id="KxLoeSEO" text="Regrouping"/>
     <string id="laznt9ZK" text="Зміна їжі в поселенні"/>
-    <string id="lc9s4rLZ" text="Create Army"/>
+    <string id="lc9s4rLZ" text="Створити армію"/>
     <string id="LEiZWuZm" text="{SKILL_NAME}: {SKILL_VALUE}"/>
     <string id="lhIpaGt9" text="There {?(COUNT &gt; 1)}are{?}is{\?} {COUNT} more {?(COUNT &gt; 1)}{PLURAL(WORKSHOP_NAME)}{?}{WORKSHOP_NAME}{\?} in this town."/>
     <string id="lkJfq1ap" text="Owned settlements remain under your control but nobles will dislike this dishonorable act and the kingdom will declare war on you."/>
@@ -377,7 +377,7 @@
     <string id="txjiykNa" text="Огляд"/>
     <string id="tYz4D8Or" text="Prisoner"/>
     <string id="TzLtVzdg" text="Поранених воїнів"/>
-    <string id="U3ksQXD3" text="Give Away"/>
+    <string id="U3ksQXD3" text="Віддати"/>
     <string id="UbZL2BJQ" text="Hitpoints"/>
     <string id="udPWHmOm" text="Складність:"/>
     <string id="uGMGjUZy" text="Відправити членів свого клану в {SETTLEMENT_NAME}{.v_zna}"/>
