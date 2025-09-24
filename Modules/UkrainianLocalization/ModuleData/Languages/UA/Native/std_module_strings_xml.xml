@@ -1509,7 +1509,7 @@
     <string id="V0Kw3O7c" text="Навчання"/>
     <string id="V0OMMQ1F" text="A magisterial performance, {PLAYER.LINK}. Whack! Crack! You took down {OPPONENT_COUNT} of them. The crowd loved it. And you earned a prize of {PRIZE}{GOLD_ICON}."/>
     <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Looted)"/>
-    <string id="v3cY44N1" text="You cannot annex a ruling clan's settlement."/>
+    <string id="v3cY44N1" text="Ви не можете забрати поселення в панівного клану."/>
     <string id="v4nltcfz" text="{PARTY_LIST_TAG}{TOTAL_COUNT}/{MAX_COUNT} ({COUNT} + {WEAK_COUNT}ран.)"/>
     <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} до зміни добробуту"/>
     <string id="V7ESaOJU" text="Choose your banner"/>
