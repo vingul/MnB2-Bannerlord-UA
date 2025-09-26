@@ -1024,7 +1024,7 @@
     <string id="azHy8uwl" text="I will issue a decree to remove the restrictions on the sale of goods."/>
     <string id="azjMBa86" text="{.f}Якісний{.R_adj} {.f}сталь{.R_n32}{@Plural}{.p}Ящик{.R_n20_p} з якісною сталлю{\@}"/>
     <string id="aZjz2GfX" text="Master-at-arms"/>
-    <string id="AzKq8AfI" text="In theory, the king or empire has the sole right to command men in the field. Anyone commanding an army does so in the king's name."/>
+    <string id="AzKq8AfI" text="Теоретично, тільки король або імператор має одноосібне право командувати солдатами на полі бою. Будь-хто, хто командує армією, робить це від імені короля."/>
     <string id="AzmriKR8" text="I have hardly heard of you, {PLAYER.NAME}. Go fight a few bandits, make a name for yourself. Then we can talk."/>
     <string id="b0ak3yGV" text="Лють"/>
     <string id="b0m2DxeG" text="I have a quick question."/>
@@ -1782,7 +1782,7 @@
     <string id="F1syZDs4" text="{NEWLINE}+{VALUE} до рис «{TRAIT_NAME_ONE}» і «{TRAIT_NAME_TWO}»"/>
     <string id="F2H2lZJ4" text="{VALUE}% броні для піхоти вашого підрозділу."/>
     <string id="F2SzaTmk" text="Mmm, a generous gift to my coffers would certainly help matters... {BRIBE_MONEY}{GOLD_ICON} should do it. If you agree, then I'll go with your suggestion."/>
-    <string id="F41aPt80" text="Royal Guard"/>
+    <string id="F41aPt80" text="{.f}Королівський{.R_adj} {.f}гвардія{.R_n10}"/>
     <string id="f4g7r0xF" text="The enemy does not have any vulnerabilities."/>
     <string id="f4lnEplc" text="Легендарний коваль"/>
     <string id="F4V7oaVx" text="Житло"/>
@@ -2704,7 +2704,7 @@
     <string id="L9840K0F" text="I can offer you a contract for three months. At the end of those three, it can be extended month by month. An initial sum of {OFFER_VALUE}{GOLD_ICON} will be paid to you to seal the contract. After that, you'll receive wages from {FACTION_LEADER} each week, according to the number and quality of the soldiers in your company. You still have your rights to battlefield loot and salvage, as well as any prisoners you capture. War can be very profitable at times..."/>
     <string id="L9aNOiJo" text="granting those accused of major crimes the right to trial by jury"/>
     <string id="L9k4bovO" text="Сержантський вишкіл"/>
-    <string id="L9n6yu1X" text="The influence cost of creating an army is reduced by 30% for the ruler{newline}Armies led by the ruler earn cohesion at 30% less cost{newline}Armies led by non-ruler nobles cost 10% more influence to create"/>
+    <string id="L9n6yu1X" text="Для правителя кількість впливу, необхідного на створення армії, зменшено на 30%{newline}Армії, очолювані правителем, отримують згуртованість на 30% дешевше{newline}Створення армії для всіх інших, коштує на 10% більше впливу"/>
     <string id="L9nn40qu" text="{HERO.NAME}{.o} location is under attack right now."/>
     <string id="l9sFJawW" text="Йти до кварталу таверн"/>
     <string id="l9wYpIuV" text="Any news? Have you managed to clear out the hideout yet?[if:convo_astonished]"/>
@@ -4670,7 +4670,7 @@
     <string id="XXOlu6z0" text="Thank you for sparing some of your men to save my business. I am looking forward to resuming work.[if:convo_mocking_teasing]"/>
     <string id="xxZeGhqf" text="{MALE_LESSER_NOBLE_NAME}{.o} Revolt"/>
     <string id="Xy4brTbf" text="You don't have {BRIBE_AMOUNT} denars."/>
-    <string id="XYDhkb6h" text="Royal Commissions"/>
+    <string id="XYDhkb6h" text="{.p}Королівський{.R_adj} {.p}наказ{.R_n20_p}"/>
     <string id="xYeMbApi" text="{PARTY} вирішив влаштувати вилазку, щоб напасти на вас!"/>
     <string id="Xykn90RV" text="{VALUE}% шкоди вашій піхоті від воїнів дальнього бою, коли ваші воїни відправляються у бій."/>
     <string id="XYRZIPD8" text="вести караван."/>
