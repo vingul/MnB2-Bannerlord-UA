@@ -52,7 +52,7 @@
     <string id="0L96iq1b" text="{VALUE}% damage with throwing weapons by mounted troops in your formation."/>
     <string id="0M6ApEr2" text="Surely you know that {FIRST_NAME} is {RELATIONSHIP} as well as my liege, and will always be able to count on my loyalty."/>
     <string id="0mBHB7mA" text="{VALUE} бойового уміння воїнам вашого підрозділу."/>
-    <string id="0mKYUNb8" text="Hunting Rights"/>
+    <string id="0mKYUNb8" text="{.n}Право{.R_n2n} на полювання"/>
     <string id="0MTzaxau" text="{?CHARACTER.GENDER}She{?}He{\?} retired from adventuring, and was last seen with a group of mountain hermits living a life of quiet contemplation."/>
     <string id="0mVwnCES" text="I must say something. Your men say their wages are late. We should take care that this doesn't happen."/>
     <string id="0nhqJewP" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} передає {.S}{SETTLEMENT}{.v_zna} {.S}{LEADER.NAME}{.v_dav} за повної підтримки своєї ради."/>
@@ -899,7 +899,7 @@
     <string id="afRebqPd" text="What's happening? Am I free?"/>
     <string id="afVsbikp" text="Greetings, traveller. How may we help you?"/>
     <string id="aG9iX1a8" text="We're looking forward to trying out our new &quot;tools&quot; on some bastard's head. Let your boys know that drinks are on us when they get here."/>
-    <string id="agaSYd5t" text="Food production in towns and castles are increased by 2{newline}Town loyalty is decreased by 0.2"/>
+    <string id="agaSYd5t" text="Виробництво їжі в містах і замках збільшено на 2{newline}Вірність міст зменшено на 0.2"/>
     <string id="aGecGUub" text="Максимальна складність сліду, який можна виявити: {a0}"/>
     <string id="AgJAfEEZ" text="Постачальник"/>
     <string id="agMtRiru" text="Refuse to exempt anyone"/>
@@ -3157,7 +3157,7 @@
     <string id="o5AUljbW" text="{LORD.NAME} is a member of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the {FACTION_NAME}. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
     <string id="O5dgeoss" text="Значні запаси"/>
     <string id="o5rp0ViP" text="{VALUE}% штраф до ціни продажу зброї."/>
-    <string id="O5sBO9sQ" text="Many empires granted their populations citizenship, which usually came with a series of rights. Of course, citizenship could not be granted immediately to conquered provinces until the population showed it was willing to adopt the ways of the empire, including the language, clothes, and religious cults."/>
+    <string id="O5sBO9sQ" text="Багато імперій надавали своєму населенню громадянство, яке зазвичай супроводжувалося низкою прав. Зазвичай, громадянство не могло бути надане завойованим провінціям одразу, допоки населення не продемонструє готовність прийняти спосіб життя імперії, включаючи мову, одяг і релігійні культи."/>
     <string id="o69PZuce" text="{OLD_LEADER.LINK} is no longer the head of the {CLAN_NAME}. {NEW_LEADER.LINK} has taken over as ruler of the clan."/>
     <string id="o6BunhbE" text="Have you brought my troops?[if:convo_undecided_open]"/>
     <string id="O6UPQskm" text="{VALUE}% шкоди, отриманої від дальніх атак, коли ви тримаєте метальну зброю."/>
@@ -3899,7 +3899,7 @@
     <string id="sXwOLNo9" text="I don't like turning my back on the enemy like that. For me, death in battle is better than dishonor."/>
     <string id="sy5Hbp04" text="Safe travels to you, my lady. I hope to see you again soon."/>
     <string id="sYfvsMwN" text="{QUEST_GIVER.LINK} asked you to raid {NUMBER_OF_TARGET_VILLAGE} {ENEMYFACTION_INFORMALNAME} villages to distract their lords and weaken their armies. {?QUEST_GIVER.GENDER}She{?}He{\?} offers {REWARD_GOLD}{GOLD_ICON} to thank you for your deeds."/>
-    <string id="sYNFwOVg" text="Citizenship"/>
+    <string id="sYNFwOVg" text="{.n}Громадянство{.R_n2n}"/>
     <string id="sYrG8rNy" text="{VALUE}% до споживання їжі, платні та втрат бойового духу у вашому загоні за кожне очко уміння Керування понад 200."/>
     <string id="SyuxD1aY" text="You delivered the prisoners to {QUEST_GIVER.LINK} as promised and you shared half of the profit with the headman and the villagers."/>
     <string id="SyxQF0tM" text="{VALUE}% штрафу до ціни при продажу їжі."/>
@@ -4944,7 +4944,7 @@
     <string id="ZMbvMK6K" text="Farewell then, {PLAYER.NAME}, and good luck go with you."/>
     <string id="zmLD6wIj" text="{RELIEF_PARTY} has come to support {SETTLEMENT}. {FURTHER_EXPLANATION}."/>
     <string id="ZMPhsLdx" text="{VALUE}% швидкості зцілення, коли ви нерухомо стоїте на карті кампанії."/>
-    <string id="ZMTkq5TG" text="Nobles and other landowners have exclusive rights to hunt in forests."/>
+    <string id="ZMTkq5TG" text="Лише знать та інші землевласники мають право полювати в лісах."/>
     <string id="ZMVo5TTq" text="У вашої здобичі з меншою ймовірністю будуть негативні модифікатори."/>
     <string id="ZMxAGDKU" text="Кавалерійська тактика"/>
     <string id="ZmxbIXsp" text="I am sorry you feel that way. We can speak later."/>
