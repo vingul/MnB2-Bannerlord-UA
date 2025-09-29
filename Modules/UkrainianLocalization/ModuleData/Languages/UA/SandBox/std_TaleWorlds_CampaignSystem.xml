@@ -63,7 +63,7 @@
     <string id="0pW4fcjt" text="{VALUE}% втрати воїнів під час втечі з поля бою."/>
     <string id="0pyLfrGZ" text="Лікування на ходу"/>
     <string id="0qc11kmz" text="a plate of mutton dumplings"/>
-    <string id="0Qh7Pa9E" text="Селянам заборонено залишати землі своїх лордів без попередження."/>
+    <string id="0Qh7Pa9E" text="Орендарям заборонено залишати землі своїх лордів без попередження."/>
     <string id="0QuAZ8YO" text="I'll be waiting. Good luck.[if:convo_relaxed_happy][ib:confident]"/>
     <string id="0T7AKmVS" text="{VALUE}% ймовірності втрат від обстрілів при облогах."/>
     <string id="0tB3VGE4" text="We await your success, {?PLAYER.GENDER}milady{?}sir{\?}.[if:convo_nervous]"/>
@@ -479,7 +479,7 @@
     <string id="5Vo8dJub" text="Походження намісника"/>
     <string id="5vosR2YO" text="Господар був з тих людей, які люблять говорити про справи, перебуваючи в сідлі і переслідуючи оленя. І {CHILD.NAME} {?CHILD.GENDER}приєднувалася{?}приєднувався{\?} до кожного такого «обговорення»."/>
     <string id="5vs3qlQ8" text="Фаланга"/>
-    <string id="5Wld45hP" text="забороняти селянам залишати землі своїх лордів"/>
+    <string id="5Wld45hP" text="забороняти орендарям залишати землі своїх лордів"/>
     <string id="5WR5DsOz" text="Правителі можуть швидко заробляти гроші, знецінюючи валюту і друкуючи її більше, але це призведе до зростання цін."/>
     <string id="5wwO7ozf" text="{ARMY_LEADER}'s army has disbanded due to a lack of cohesion."/>
     <string id="5xi0t1dD" text="Вже зустрічалися"/>
@@ -2749,7 +2749,7 @@
     <string id="LGFsDic7" text="{VALUE}% збалансованості зброї піших воїнів вашого підрозділу."/>
     <string id="LGH67bOj" text="{VALUE} до бойового духу воїнам, які мають те ж походження, що й ви."/>
     <string id="LgiRMbgE" text="{ISSUE_SETTLEMENT} Needs Crafting Materials"/>
-    <string id="Lgmisw4L" text="Обмежує ступінь, до якого лорди та купці можуть давати позики своїм наймитам та робітникам, а потім вимагати повернення боргу або конфісковувати їхнє майно чи свободу. Фактично забороняє кріпацтво."/>
+    <string id="Lgmisw4L" text="Обмежує ступінь, до якого лорди та купці можуть давати позики своїм орендарям та робітникам, а потім вимагати повернення боргу або конфісковувати їхнє майно чи свободу. Фактично забороняє кріпацтво."/>
     <string id="lH3cgbVX" text="We will not sign a peace until we are recognized by all the kingdoms of Calradia."/>
     <string id="lHNgL7Xn" text="{QUEST_GIVER.LINK} has left {KINGDOM}. Your agreement with {?QUEST_GIVER.GENDER}her{?}him{\?} has been canceled."/>
     <string id="lhnuawq3" text="You know very well that in politics oaths are easily made, and just as easily broken."/>
