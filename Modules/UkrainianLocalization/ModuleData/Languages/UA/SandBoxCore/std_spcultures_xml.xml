@@ -4,8 +4,8 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="024kHRwG" text="Nomanides"/>
-    <string id="04dAbdjM" text="Nyvia"/>
+    <string id="024kHRwG" text="{.m}Номанід{.R_n20_a_ke}"/>
+    <string id="04dAbdjM" text="{.f}Нівія{.R_n10_ko}"/>
     <string id="04zSjaRe" text="Nartiros"/>
     <string id="074bIPbm" text="Llum"/>
     <string id="0atYAnDF" text="Tulul"/>
