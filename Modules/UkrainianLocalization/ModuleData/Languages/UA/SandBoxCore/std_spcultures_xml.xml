@@ -297,59 +297,59 @@
     <string id="FVl3D2qT" text="{.m}Меонес{.R_n20_a_ke}"/>
     <string id="FwcFIHfl" text="{.m}Севелар{.R_n20_a_ke}"/>
     <string id="fWKnmnXb" text="{.m}Так{.R_n20_a}"/>
-    <string id="fXgftgNv" text="Aphanys"/>
-    <string id="fydMDGtL" text="Fercread"/>
-    <string id="fYN6Aawl" text="Kyraslav"/>
-    <string id="FyVS24JZ" text="Khundal"/>
-    <string id="g7etVhSO" text="Sumessos"/>
-    <string id="G92bovut" text="Mornid"/>
-    <string id="Ga3uaJY1" text="Theraflaed"/>
-    <string id="GaMUU2Pf" text="Kaupi"/>
-    <string id="GBfFp7bW" text="fen Loen"/>
-    <string id="gC1paDtD" text="Yerchoving"/>
-    <string id="GcgpbmWB" text="Jintasos"/>
-    <string id="gDMdWisO" text="Haqr"/>
-    <string id="gG1O5V1n" text="Olianar"/>
-    <string id="GK18UxoX" text="Hur"/>
-    <string id="gmD9mgR1" text="Synira"/>
-    <string id="GqEEIYay" text="Tilzad"/>
-    <string id="gqJUdECJ" text="Daellian"/>
-    <string id="gSHrv734" text="Sorgar"/>
-    <string id="gsY9oKND" text="Chusuntai"/>
-    <string id="gU5cMdTT" text="Norena"/>
-    <string id="Gv5vdqxI" text="Borvald"/>
-    <string id="Gwfb6O5O" text="Eira"/>
+    <string id="fXgftgNv" text="{.m}Афаніс{.R_n20_a_ke}"/>
+    <string id="fydMDGtL" text="{.m}Феркрід{.R_n20_a_ke}"/>
+    <string id="fYN6Aawl" text="{.m}Кіраслав{.R_n20_a_ke}"/>
+    <string id="FyVS24JZ" text="{.m}Хундал{.R_n20_a_ke}"/>
+    <string id="g7etVhSO" text="{.m}Сумессос{.R_n20_a_ke}"/>
+    <string id="G92bovut" text="{.m}Морнід{.R_n20_a_ke}"/>
+    <string id="Ga3uaJY1" text="{.m}Терафлід{.R_n20_a_ke}"/>
+    <string id="GaMUU2Pf" text="Каупі"/>
+    <string id="GBfFp7bW" text="фен Лоен"/>
+    <string id="gC1paDtD" text="{.m}Єрчовінг{.R_n20_a}"/>
+    <string id="GcgpbmWB" text="{.m}Джінтасос{.R_n20_a_ke}"/>
+    <string id="gDMdWisO" text="{.m}Хакр{.R_n20_a_ke}"/>
+    <string id="gG1O5V1n" text="{.m}Оліанар{.R_n20_a_ke}"/>
+    <string id="GK18UxoX" text="{.m}Гур{.R_n20_a_ke}"/>
+    <string id="gmD9mgR1" text="{.f}Сініра{.R_n10_ko}"/>
+    <string id="GqEEIYay" text="{.m}Тілзад{.R_n20_a_ke}"/>
+    <string id="gqJUdECJ" text="{.m}Делліан{.R_n20_a_ke}"/>
+    <string id="gSHrv734" text="{.m}Соргар{.R_n20_a_ke}"/>
+    <string id="gsY9oKND" text="{.m}Чузунтай{.R_n20_a}"/>
+    <string id="gU5cMdTT" text="{.f}Норена{.R_n10_ko}"/>
+    <string id="Gv5vdqxI" text="{.m}Борвальд{.R_n20_a_ke}"/>
+    <string id="Gwfb6O5O" text="{.f}Ейра{.R_n10_ko}"/>
     <string id="gxHrt6bC" text="{.m}Фамінор{.R_n20_a_ke}"/>
-    <string id="gzej3EbY" text="Tulvo"/>
-    <string id="GZXVCS5B" text="Melind"/>
-    <string id="H1OFdfEe" text="Isna"/>
-    <string id="h6dabKXz" text="Reissen"/>
-    <string id="H7oJaxqM" text="Rhelasa"/>
-    <string id="h8DsXm7X" text="Achena"/>
-    <string id="hBuBpxjb" text="Kaidi"/>
-    <string id="HcmkBkYp" text="Vigother"/>
-    <string id="hdwBL8kp" text="Soregun"/>
-    <string id="HEGo3ArK" text="Atis"/>
-    <string id="hF3F3u8u" text="Duwain"/>
-    <string id="HMCZ2w9t" text="Anaheid"/>
-    <string id="Ho6zsGTI" text="Sachanion"/>
-    <string id="HPrHkie6" text="Phenigos"/>
-    <string id="hreO0wwb" text="Nerhea"/>
-    <string id="HSpdZCr5" text="Nebranos"/>
-    <string id="hsqDfT2j" text="Yathan"/>
-    <string id="htJuLron" text="Varag"/>
-    <string id="hTw3MjbR" text="Ecard"/>
-    <string id="HwCJfTC2" text="Deni"/>
-    <string id="hWKKCdeX" text="Mulum"/>
-    <string id="HXEoaiFU" text="Sorji"/>
-    <string id="HxKE18yl" text="Lasvak"/>
-    <string id="hyOgAehG" text="Emarys"/>
-    <string id="I0ZfrCml" text="Huskur"/>
-    <string id="i9bQ8UoK" text="Zhelik"/>
-    <string id="i9ZDrsi1" text="Rafard"/>
-    <string id="IaBXamj4" text="Danivan"/>
-    <string id="IcB0xdbd" text="Бану {.m}Дхамін{.R_n20_a}"/>
-    <string id="IDeemU90" text="Roslind"/>
+    <string id="gzej3EbY" text="Тульво"/>
+    <string id="GZXVCS5B" text="{.m}Мелінд{.R_n20_a_ke}"/>
+    <string id="H1OFdfEe" text="{.f}Існа{.R_n10_ko}"/>
+    <string id="h6dabKXz" text="{.m}Рейссен{.R_n20_a_ke}"/>
+    <string id="H7oJaxqM" text="{.f}Реласа{.R_n10_ko}"/>
+    <string id="h8DsXm7X" text="{.f}Ахена{.R_n10_ko}"/>
+    <string id="hBuBpxjb" text="Кайді"/>
+    <string id="HcmkBkYp" text="{.m}Віґотер{.R_n20_a_ke}"/>
+    <string id="hdwBL8kp" text="{.f}Сореґуна{.R_n10_ko}"/>
+    <string id="HEGo3ArK" text="{.m}Атіс{.R_n20_a_ke}"/>
+    <string id="hF3F3u8u" text="{.m}Дувейн{.R_n20_a_ke}"/>
+    <string id="HMCZ2w9t" text="Анахейд"/>
+    <string id="Ho6zsGTI" text="{.m}Саханіон{.R_n20_a_ke}"/>
+    <string id="HPrHkie6" text="{.m}Фенігос{.R_n20_a_ke}"/>
+    <string id="hreO0wwb" text="{.f}Нерея{.R_n10_ko}"/>
+    <string id="HSpdZCr5" text="{.m}Небранос{.R_n20_a_ke}"/>
+    <string id="hsqDfT2j" text="{.m}Ятан{.R_n20_a_ke}"/>
+    <string id="htJuLron" text="{.m}Вараг{.R_n20_a_ke}"/>
+    <string id="hTw3MjbR" text="{.m}Екард{.R_n20_a_ke}"/>
+    <string id="HwCJfTC2" text="Дені"/>
+    <string id="hWKKCdeX" text="{.m}Мулум{.R_n20_a_ke}"/>
+    <string id="HXEoaiFU" text="Соржі"/>
+    <string id="HxKE18yl" text="{.m}Ласвак{.R_n20_a}"/>
+    <string id="hyOgAehG" text="{.m}Емарис{.R_n20_a_ke}"/>
+    <string id="I0ZfrCml" text="{.m}Хускур{.R_n20_a_ke}"/>
+    <string id="i9bQ8UoK" text="{.m}Желік{.R_n20_a}"/>
+    <string id="i9ZDrsi1" text="{.m}Рафард{.R_n20_a_ke}"/>
+    <string id="IaBXamj4" text="{.m}Даніван{.R_n20_a_ke}"/>
+    <string id="IcB0xdbd" text="Бану {.m}Дамін{.R_n20_a}"/>
+    <string id="IDeemU90" text="{.m}Рослінд{.R_n20_a_ke}"/>
     <string id="ieube15m" text="Zahara"/>
     <string id="iFJbnbCQ" text="Agdil"/>
     <string id="ig8zAo8f" text="Ori"/>
