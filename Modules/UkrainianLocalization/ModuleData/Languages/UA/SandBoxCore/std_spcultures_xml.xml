@@ -117,15 +117,15 @@
     <string id="8KoaUqQz" text="{.m}Хельмольд{.R_n20_a_ke}"/>
     <string id="8Rirvd8I" text="{.f}Ласка{.R_n10_ko_p2}"/>
     <string id="8RolYmff" text="{.f}Зувайра{.R_n10_ko}"/>
-    <string id="8SBw5PzN" text="Armund"/>
-    <string id="8UGqSVH5" text="Nathun"/>
-    <string id="8YhNZHtC" text="Fenton"/>
-    <string id="93hivVp6" text="Donysa"/>
-    <string id="9AOFkQBo" text="Elta"/>
-    <string id="9aPxu1EB" text="Tinab"/>
-    <string id="9HcXWNoh" text="Folc"/>
-    <string id="9I9ziX31" text="Vilatrud"/>
-    <string id="9l3RSCJp" text="Colsund"/>
+    <string id="8SBw5PzN" text="{.m}Армунд{.R_n20_a_ke}"/>
+    <string id="8UGqSVH5" text="{.m}Натун{.R_n20_a_ke}"/>
+    <string id="8YhNZHtC" text="{.m}Фентон{.R_n20_a_ke}"/>
+    <string id="93hivVp6" text="{.f}Доніса{.R_n10_ko}"/>
+    <string id="9AOFkQBo" text="{.f}Ельта{.R_n10_ko}"/>
+    <string id="9aPxu1EB" text="{.m}Тінаб{.R_n20_a_ke}"/>
+    <string id="9HcXWNoh" text="{.m}Фольк{.R_n20_a}"/>
+    <string id="9I9ziX31" text="{.m}Вілатруд{.R_n20_a_ke}"/>
+    <string id="9l3RSCJp" text="{.m}Колсунд{.R_n20_a_ke}"/>
     <string id="9mQuSI3c" text="Thucasys"/>
     <string id="9pnUaj0g" text="Elyaksha"/>
     <string id="9SJa91sZ" text="Marena"/>
