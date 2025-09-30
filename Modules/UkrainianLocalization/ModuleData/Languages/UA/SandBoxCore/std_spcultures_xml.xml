@@ -248,9 +248,9 @@
     <string id="DxU5mVDg" text="{.m}П'ясовінг{.R_n20_a}"/>
     <string id="DYdI0faN" text="{.m}Страканазес{.R_n20_a_ke}"/>
     <string id="DygS1Bef" text="Бану {.f}Мушала{.R_n10}"/>
-    <string id="E1NB09bP" text="Otsamides"/>
-    <string id="E1NWbOR8" text="Buchul"/>
-    <string id="e4jAHUX0" text="Tymata"/>
+    <string id="E1NB09bP" text="{.m}Остамід{.R_n20_a_ke}"/>
+    <string id="E1NWbOR8" text="Бучуль"/>
+    <string id="e4jAHUX0" text="{.f}Тімата{.R_n10_ko}"/>
     <string id="e52LPp57" text="{.m}Удріс{.R_n20_a_ke}"/>
     <string id="e6goEM5b" text="{.m}Вальдим{.R_n20_a_ke}"/>
     <string id="e7dayl1i" text="{.m}Мавінон{.R_n20_a_ke}"/>
