@@ -126,73 +126,73 @@
     <string id="9HcXWNoh" text="{.m}Фольк{.R_n20_a}"/>
     <string id="9I9ziX31" text="{.m}Вілатруд{.R_n20_a_ke}"/>
     <string id="9l3RSCJp" text="{.m}Колсунд{.R_n20_a_ke}"/>
-    <string id="9mQuSI3c" text="Thucasys"/>
-    <string id="9pnUaj0g" text="Elyaksha"/>
-    <string id="9SJa91sZ" text="Marena"/>
-    <string id="9vBp5E0Q" text="Derngil"/>
-    <string id="9WMeUGTy" text="Caelis"/>
-    <string id="A0Qwy1ag" text="Khakhun"/>
+    <string id="9mQuSI3c" text="{.m}Тукасіс{.R_n20_a_ke}"/>
+    <string id="9pnUaj0g" text="{.f}Елякша{.R_n10_ko2}"/>
+    <string id="9SJa91sZ" text="{.f}Марена{.R_n10_ko}"/>
+    <string id="9vBp5E0Q" text="{.m}Дернґіл{.R_n20_a_ke}"/>
+    <string id="9WMeUGTy" text="{.m}Каеліс{.R_n20_a_ke}"/>
+    <string id="A0Qwy1ag" text="{.m}Хахун{.R_n20_a_ke}"/>
     <string id="a2AjI8nc" text="Асераї – головні мешканці Нахаси, Бронзової пустелі на півдні Кальрадії. Сторонньому спостерігачеві вона здасться безлюдним місцем – поля дюн, розбиті гравійними рівнинами та вулканічними утвореннями. Але під землею, в западинах або під ваді, де час від часу проносяться зливові паводки, є вода, і в цих оазисах оселилися люди. Вони поділені на десятки кланів і підкланів, кожен з яких має свій складний родовід, але всі разом вони відомі як Бану Асера, сини Асери. Їхнє почуття належності до однієї нації походить від того, що всі вони ведуть свій родовід від цього легендарного патріарха. Їхнє чимале багатство і влада пов'язані з контролем над ізольованими джерелами води, які дозволяють караванам з далеких земель перетинати пустелю."/>
-    <string id="A2AYaNWM" text="Orig"/>
-    <string id="a4hrvaEQ" text="Daliger"/>
-    <string id="A8E9c4RM" text="Emencard"/>
-    <string id="aaOSBHrI" text="Dinamontes"/>
-    <string id="AaoxZ4pn" text="fen Diall"/>
-    <string id="aaXaxmii" text="Sajyut"/>
-    <string id="Abzr6Dbv" text="Darbard"/>
-    <string id="aCFsI8g6" text="fen Galonin"/>
-    <string id="aCTplh2G" text="Vorthert"/>
-    <string id="AcUEb8zX" text="Korot"/>
-    <string id="aDAJGO4y" text="Galthar"/>
-    <string id="AEaRpupL" text="Ocheros"/>
-    <string id="AeNqteUX" text="Zebales"/>
-    <string id="aH2ncPbK" text="Zalasos"/>
-    <string id="AKhO9Y9c" text="Jolugkhu"/>
-    <string id="am2UnbAK" text="Menor"/>
-    <string id="AMbdha2J" text="Chemnir"/>
-    <string id="amlzciqP" text="Ucasios"/>
-    <string id="AMmJVlrt" text="Kyraslava"/>
-    <string id="Ao69q2aY" text="Pera"/>
-    <string id="aqd6QHES" text="Janab"/>
-    <string id="aqx7Txyy" text="Tuvul"/>
-    <string id="aRiVb65B" text="Daju"/>
-    <string id="aTcSQ7MY" text="Oto"/>
-    <string id="au6vdzxN" text="Gan"/>
-    <string id="aU9Cbb7j" text="Athrar"/>
-    <string id="Av5aCluG" text="Svato"/>
-    <string id="AWM3jbaZ" text="Ajin"/>
+    <string id="A2AYaNWM" text="{.m}Оріг{.R_n20_a_ke}"/>
+    <string id="a4hrvaEQ" text="{.m}Даліґер{.R_n20_a_ke}"/>
+    <string id="A8E9c4RM" text="{.m}Еменкард{.R_n20_a_ke}"/>
+    <string id="aaOSBHrI" text="{.m}Дінамонтес{.R_n20_a_ke}"/>
+    <string id="AaoxZ4pn" text="фен Діал"/>
+    <string id="aaXaxmii" text="{.m}Саджют{.R_n20_a_ke}"/>
+    <string id="Abzr6Dbv" text="{.m}Дарбард{.R_n20_a_ke}"/>
+    <string id="aCFsI8g6" text="фен Ґалонін"/>
+    <string id="aCTplh2G" text="{.m}Ворзерт{.R_n20_a_ke}"/>
+    <string id="AcUEb8zX" text="{.m}Корот{.R_n20_a_ke}"/>
+    <string id="aDAJGO4y" text="{.m}Ґальзар{.R_n20_a_ke}"/>
+    <string id="AEaRpupL" text="{.m}Окерос{.R_n20_a_ke}"/>
+    <string id="AeNqteUX" text="{.m}Зебалес{.R_n20_a_ke}"/>
+    <string id="aH2ncPbK" text="{.m}Заласос{.R_n20_a_ke}"/>
+    <string id="AKhO9Y9c" text="Джолугху"/>
+    <string id="am2UnbAK" text="{.m}Менор{.R_n20_a_ke}"/>
+    <string id="AMbdha2J" text="{.m}Хемнір{.R_n20_a_ke}"/>
+    <string id="amlzciqP" text="{.m}Укасіос{.R_n20_a_ke}"/>
+    <string id="AMmJVlrt" text="{.f}Кіраслава{.R_n10_ko}"/>
+    <string id="Ao69q2aY" text="{.f}Пера{.R_n10_ko}"/>
+    <string id="aqd6QHES" text="{.m}Джанаб{.R_n20_a_ke}"/>
+    <string id="aqx7Txyy" text="{.m}Тувул{.R_n20_a_ke}"/>
+    <string id="aRiVb65B" text="Дажу"/>
+    <string id="aTcSQ7MY" text="Ото"/>
+    <string id="au6vdzxN" text="{.m}Ґан{.R_n20_a_ke}"/>
+    <string id="aU9Cbb7j" text="{.m}Атрар{.R_n20_a_ke}"/>
+    <string id="Av5aCluG" text="Свато"/>
+    <string id="AWM3jbaZ" text="{.m}Аджін{.R_n20_a_ke}"/>
     <string id="Ax9OkgL5" text="На туманних пагорбах північно-західної Кальрадії домінують баттанські клани, споконвічні мешканці більшої частини континенту. Їхні фортеці на вершинах пагорбів стали свідками незліченних воєн, у яких вони протистояли зовнішнім загарбникам: спочатку легіонам Імперії, а згодом – новопосталим Стургійському та Вландійському королівствам. Вони є експертами у стрільбі з довгого лука, нічних вилазках, раптових диких нападах з лісу. Вони шанують доблесть, але особливо цінують її, коли вона змішана з легким глузуванням – коли викрадач худоби може вивести ціле стадо в туман; коли звитяжець обідає з ворожим племенем і, розповідаючи господарям якусь байку про битву, дістає зі своєї торби череп одного з їхніх родичів, який він узяв собі в якості сувеніра."/>
-    <string id="aXwDg9VT" text="Olokhai"/>
-    <string id="Ayb3bCJn" text="Arthobald"/>
-    <string id="AYdwWae6" text="Ceatra"/>
-    <string id="aYiL7eDM" text="Ilmir"/>
-    <string id="aYr6ovxb" text="Rhagin"/>
-    <string id="b0rI89ob" text="Hara"/>
-    <string id="B15WfmQT" text="Gisilchild"/>
-    <string id="b6Ml7BkH" text="Veronet"/>
-    <string id="b7PVGEFM" text="Lath"/>
-    <string id="B7zKKiYQ" text="Tatik"/>
-    <string id="b8pMwtQu" text="Therard"/>
-    <string id="Ba8jWKUq" text="Manachild"/>
-    <string id="bBD4tF2y" text="Morochoving"/>
-    <string id="bbJLOMhl" text="Pelisor"/>
-    <string id="BD4XeP07" text="Mikri"/>
-    <string id="bdH1JEma" text="Yachim"/>
-    <string id="bdhXiiWK" text="Rayma"/>
-    <string id="begCei6W" text="fen Domus"/>
-    <string id="BfbZAB2K" text="Kanizat"/>
-    <string id="bFCk1Jrn" text="Anhalm"/>
-    <string id="BGHBvAK1" text="Kulyat"/>
+    <string id="aXwDg9VT" text="{.m}Олохай{.R_n20_a}"/>
+    <string id="Ayb3bCJn" text="{.m}Артобальд{.R_n20_a_ke}"/>
+    <string id="AYdwWae6" text="{.f}Сеатра{.R_n10_ko}"/>
+    <string id="aYiL7eDM" text="{.m}Ілмір{.R_n20_a_ke}"/>
+    <string id="aYr6ovxb" text="{.m}Раджин{.R_n20_a_ke}"/>
+    <string id="b0rI89ob" text="{.f}Хара{.R_n10_ko}"/>
+    <string id="B15WfmQT" text="Гізельхільд"/>
+    <string id="b6Ml7BkH" text="{.m}Веронет{.R_n20_a_ke}"/>
+    <string id="b7PVGEFM" text="{.m}Лаф{.R_n20_a_ke}"/>
+    <string id="B7zKKiYQ" text="{.m}Татік{.R_n20_a}"/>
+    <string id="b8pMwtQu" text="{.m}Терард{.R_n20_a_ke}"/>
+    <string id="Ba8jWKUq" text="Манахільд"/>
+    <string id="bBD4tF2y" text="{.m}Мороховінг{.R_n20_a}"/>
+    <string id="bbJLOMhl" text="{.m}Пелісор{.R_n20_a_ke}"/>
+    <string id="BD4XeP07" text="Мікрі"/>
+    <string id="bdH1JEma" text="{.m}Яхім{.R_n20_a_ke}"/>
+    <string id="bdhXiiWK" text="{.f}Рейма{.R_n10_ko}"/>
+    <string id="begCei6W" text="фен Домус"/>
+    <string id="BfbZAB2K" text="{.m}Канізат{.R_n20_a_ke}"/>
+    <string id="bFCk1Jrn" text="{.m}Анхальм{.R_n20_a_ke}"/>
+    <string id="BGHBvAK1" text="{.m}Кулят{.R_n20_a_ke}"/>
     <string id="bgNQtbS7" text="Бану {.m}Нір{.R_n20_a}"/>
     <string id="bHh03ob0" text="Ваккен"/>
-    <string id="BIAEZaVx" text="Rhandana"/>
-    <string id="bLY1zbNI" text="Zvatim"/>
-    <string id="bm9surN9" text="Ubold"/>
-    <string id="bNj9gI2y" text="Astin"/>
-    <string id="Bo5Xkd3e" text="Erban"/>
-    <string id="bopqRUEQ" text="Papenbard"/>
-    <string id="boUKXQz0" text="Margund"/>
-    <string id="BrI1aJdo" text="Rukhanoving"/>
+    <string id="BIAEZaVx" text="{.f}Рандана{.R_n10_ko}"/>
+    <string id="bLY1zbNI" text="{.m}Зватім{.R_n20_a_ke}"/>
+    <string id="bm9surN9" text="{.m}Убольд{.R_n20_a_ke}"/>
+    <string id="bNj9gI2y" text="{.m}Астін{.R_n20_a_ke}"/>
+    <string id="Bo5Xkd3e" text="{.m}Ербан{.R_n20_a_ke}"/>
+    <string id="bopqRUEQ" text="{.m}Папенбард{.R_n20_a_ke}"/>
+    <string id="boUKXQz0" text="{.m}Марґунд{.R_n20_a_ke}"/>
+    <string id="BrI1aJdo" text="{.m}Рухановінг{.R_n20_a}"/>
     <string id="Bt4MdhYE" text="Olguna"/>
     <string id="Btb7NzFM" text="Shima"/>
     <string id="bU46gvya" text="Vulfyr"/>
