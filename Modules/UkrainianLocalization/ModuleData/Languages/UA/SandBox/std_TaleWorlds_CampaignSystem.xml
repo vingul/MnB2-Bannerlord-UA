@@ -332,7 +332,7 @@
     <string id="3WA4MLzx" text="One way or the other, you'll regret this. If I fall, my people will have their revenge.[if:idle_angry][ib:warrior]"/>
     <string id="3wb2dCfz" text="It'll be right up then, {?PLAYER.GENDER}ma'am{?}sir{\?}."/>
     <string id="3WFgPigk" text="{ISSUE_GIVER.NAME} wants to sell you stolen goods. The price is low because of the added risk."/>
-    <string id="3WYVggyD" text="{FIRSTNAME} the {?COASTAL}Mariner{?}Horsetrader{\?}"/>
+    <string id="3WYVggyD" text="{FIRSTNAME} {?COASTAL}{?FEMALE}{.f}Морячка{.R_n10_ko}{?}{.m}Моряк{.R_n20_a_ke}{\?}{?}{?FEMALE}{.f}Вершниця{.R_n10_ko}{?}{.m}Вершник{.R_n20_a}{\?}{\?}"/>
     <string id="3xuwVbfs" text="Тренер"/>
     <string id="3xyd2Dxu" text="Good. That saves us all trouble.[if:convo_grave][ib:warrior2]"/>
     <string id="3yVPrhXt" text="Гострий зір"/>
@@ -4367,7 +4367,7 @@
     <string id="w1K8XDls" text="{VALUE}% шансу створити якісну зброю."/>
     <string id="W1KJEvit" text="{newline}    Levels Lost: {BUILDINGS_LOST_LEVEL}"/>
     <string id="w1rVTUIs" text="This seems like a simple errand. Would your offer still stand if I get someone else to do it for me?"/>
-    <string id="w290a2DV" text="{FIRSTNAME} the {?IMPERIAL}Sutler{?}Goodstrader{\?}"/>
+    <string id="w290a2DV" text="{FIRSTNAME} {?IMPERIAL}{?FEMALE}{.f}Маркітантка{.R_n10_ko}{?}{.m}Маркітант{.R_n20_a_ke}{\?}{?}{?FEMALE}{.f}Крамарка{.R_n10_ko}{?}{.m}Крамар{.R_n24_a}{\?}{\?}"/>
     <string id="W2vV5jzj" text="I'll go back to my family. I will remember your help..."/>
     <string id="w3GIUD3u" text="дозволяти правителю збирати спеціальне мито"/>
     <string id="w3rcCibp" text="Then I will enter the tournament and reach round {ROUND_COUNT} my lady."/>
