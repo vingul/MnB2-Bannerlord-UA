@@ -36,7 +36,7 @@
     <string id="4Y8u4JKO" text="Ви не можете покинути королівство, перебуваючи у складі армії"/>
     <string id="5bzk75Ql" text="Атакує {._}{TARGET_PARTY}{.v_zna}."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
-    <string id="5dkPxmZG" text="Garrison Wages"/>
+    <string id="5dkPxmZG" text="Платня гарнізону"/>
     <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
     <string id="63Ic1Ahe" text="Вартість: {UPGRADE_COST} (У вас немає)"/>
     <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop."/>
@@ -130,7 +130,7 @@
     <string id="dVqowrRz" text=" - {STAT} {REQUIREMENT}"/>
     <string id="dWYm9GsC" text="Requires"/>
     <string id="eHVq6yDa" text="Item Properties"/>
-    <string id="eIgC6YGp" text="Tariffs"/>
+    <string id="eIgC6YGp" text="Мита"/>
     <string id="eIGFuGOx" text="Give Settlement"/>
     <string id="EkFDvG7z" text="Запаси їжі в поселенні"/>
     <string id="eoVW9z54" text="Середній бойовий дух"/>
