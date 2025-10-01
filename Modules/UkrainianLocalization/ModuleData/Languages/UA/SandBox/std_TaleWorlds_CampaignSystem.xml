@@ -727,7 +727,7 @@
     <string id="8tBET7S5" text="Good. We will be heading out soon."/>
     <string id="8TCev3Qs" text="So, captain. We expect a bit of looting and plundering as compensation, in addition to the wages. You don't seem like you're going to provide it to us. So, farewell.[if:innocent_smile][ib:hip]"/>
     <string id="8Tqv9ezH" text="We heard you wish to issue a decree changing our longstanding rules on pricing. Of course this is your right, but I'd like to remind you that we merchants pay significantly more taxes than the artisans. I would ask you to think of the finances of the town, and reconsider this."/>
-    <string id="8trsbRav" text="{FIRSTNAME} the {?FEMALE}Widow{?}Orphan{\?}"/>
+    <string id="8trsbRav" text="{FIRSTNAME} {?FEMALE}{.f}Вдова{.R_n10_ko}{?}{.f}Сирота{.R_n10_ko}{\?}"/>
     <string id="8uBbbwY9" text="Макс. складність їздової тварини: {a0}"/>
     <string id="8UyOJNhU" text="My thanks. It feels good to be {?PLAYER.GENDER}free{?}a free man{\?} once again."/>
     <string id="8UzRj1YW" text="Увійти до села"/>
@@ -905,7 +905,7 @@
     <string id="agMtRiru" text="Refuse to exempt anyone"/>
     <string id="aGvLxsub" text="You have successfully delivered {MOUNT_COUNT} {PLURAL(MOUNT_NAME)} to {QUEST_GIVER.LINK} as requested. You received {GOLD_REWARD}{GOLD_ICON} denars in return for your service."/>
     <string id="aHid0t6n" text="Give him some chance I'm sure he will prove himself soon."/>
-    <string id="AhiGlNRG" text="{FIRSTNAME} the {?NORTHERN}Furtrader{?}Incensetrader{\?}"/>
+    <string id="AhiGlNRG" text="{FIRSTNAME} {?NORTHERN}{?FEMALE}{.f}Торговка{.R_n10_ko} хутром{?}{.m}Торговець{.R_n22_a} хутром{\?}{?}{?FEMALE}{.f}Торговка{.R_n10_ko} спеціями{?}{.m}Торговець{.R_n22_a} спеціями{\?}{\?}"/>
     <string id="aHjUgEur" text="I own {.%}{BUSINESS_LIST}{.%} here."/>
     <string id="aHlcBLYB" text="Lose this tournament at 3rd round"/>
     <string id="ahpSGaow" text="You hear that your companion {NOTABLE.LINK}, who was separated from you after a battle, is currently in this settlement."/>
@@ -976,7 +976,7 @@
     <string id="ARNYrXln" text="{TROOP.NAME} has claimed {SIDE1_PARTY} currently held by the {SIDE2_FACTION}"/>
     <string id="ARXvmC1v" text="{QUEST_GIVER.LINK} says that a {MALE_LESSER_NOBLE_TITLE} named {MALE_LESSER_NOBLE_NAME} is stirring up unrest in the countryside. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to disperse {MALE_LESSER_NOBLE_NAME}'s band using whatever means necessary before the movement gets enough support."/>
     <string id="asa9HaIQ" text="Keep the revenue"/>
-    <string id="asePjBVy" text="{FIRSTNAME} the {?FEMALE}Freedwoman{?}Freedman{\?}"/>
+    <string id="asePjBVy" text="{FIRSTNAME} {?FEMALE}{.f}Визволений{.R_adj}{?}{.m}Визволений{.R_adj}{\?}"/>
     <string id="aSniKUJv" text="Висока вірність"/>
     <string id="ASRpFaGF" text="Гарна спроба. Здавайся або помри!"/>
     <string id="ASVkuYHG" text="I know a few. What kind of a person are you looking for?"/>
@@ -1830,7 +1830,7 @@
     <string id="ffoqz6yP" text="You have delivered {DELIVERED_ITEM_COUNT} units of goods from {QUEST_GIVER.NAME}."/>
     <string id="FfZpLoVD" text="навчиться плести інтриги."/>
     <string id="FGVzQUao" text="Congratulations, and may the Heavens bless you."/>
-    <string id="fh1auwJW" text="{FIRSTNAME} the {?FEMALE}She-Wolf{?}Stallion{\?}"/>
+    <string id="fh1auwJW" text="{FIRSTNAME} {?FEMALE}{.f}Вовчиця{.R_n10_ko}{?}{.m}Жеребець{.R_n22_a}{\?}"/>
     <string id="fhAsNPoE" text="{ISSUE_GIVER.LINK}, lord of {SETTLEMENT}, says that a {MALE_LESSER_NOBLE_TITLE} named {MALE_LESSER_NOBLE_NAME} is stirring up unrest in the countryside. You asked your companion to deal with {MALE_LESSER_NOBLE_NAME}'s band. They should rejoin your party in {RETURN_DAYS} days"/>
     <string id="FHeJ8bsX" text="We will see about that."/>
     <string id="FHFfB4S0" text="I will do that."/>
@@ -2251,7 +2251,7 @@
     <string id="Ici6us1S" text="You paid the smugglers to move away from {TARGET_SETTLEMENT}. They are now far away and {QUEST_GIVER.LINK} is satisfied."/>
     <string id="ICkvftaM" text="Прославлені стрільці"/>
     <string id="ICNtSonV" text="How are your preparations to take {TARGET_SETTLEMENT} coming along, {PLAYER.NAME}? I have assured my other lords that you will take it, so it will look bad if you fail."/>
-    <string id="iCSVZj2e" text="{FIRSTNAME} the {?NORTHERN}Far-Farer{?}Caravanner{\?}"/>
+    <string id="iCSVZj2e" text="{FIRSTNAME} the {?NORTHERN}{?FEMALE}{.f}Мандрівниця{.R_n10_ko}{?}{.m}Мандрівник{.R_n20_a}{\?}{?}{?FEMALE}{.f}Караванниця{.R_n10_ko}{?}{.m}Караванник{.R_n20_a}{\?}{\?}"/>
     <string id="icyzOJZf" text="{VALUE}% ймовірності втечі полонених з підконтрольного поселення."/>
     <string id="IDdyHef9" text="We'll be on our way, then!"/>
     <string id="IDJbtGks" text="We ran back there. It is shameful to turn your back on the enemy."/>
@@ -2766,7 +2766,7 @@
     <string id="LK4kNZkb" text="Enter the warehouse"/>
     <string id="Lk6ln3sR" text="We seem to have got separated but I have found you. Join me, as we need to continue your training."/>
     <string id="LKdrCaTO" text="{?CONVERSATION_NPC.GENDER}My lady{?}Sir{\?}, may I ask for some time to think about this?"/>
-    <string id="lkLNrscj" text="{FIRSTNAME} the {?FEMALE}Maid{?}Steward{\?}"/>
+    <string id="lkLNrscj" text="{FIRSTNAME} the {?FEMALE}{.f}Покоївка{.R_n10_ko}{?}{.m}Дворецький{.R_n2adj1}{\?}"/>
     <string id="lKWflUid" text="While you are waiting in {DEFENDER}, {ATTACKER} started an attack on it."/>
     <string id="Ll1EJHXF" text="Керувати замком"/>
     <string id="lLMlPcl4" text="Ви познайомилися з {HERO.NAME}{.v_oru}"/>
@@ -3920,7 +3920,7 @@
     <string id="T7bMlcj3" text="Prices in {TARGET_SETTLEMENT} are down these days. Enterprising lads like you can do better elsewhere."/>
     <string id="t87T82jq" text="Owned alleys"/>
     <string id="t8TfagYL" text="Знать заохочується до укріплення своїх маєтків і може витребувати для цього робочу силу та матеріали."/>
-    <string id="t968gMty" text="{FIRSTNAME} the {?FEMALE}Lady{?}Bastard{\?}"/>
+    <string id="t968gMty" text="{FIRSTNAME} {?FEMALE}Леді{?}{.m}Бастард{.R_n20_a_ke}{\?}"/>
     <string id="T9Tgi9is" text="animal"/>
     <string id="T9Viygs8" text="{VALUE}% швидкості будівництва за кожних 3 полонених."/>
     <string id="TaAHFZfd" text="Ви попросили керівника подорожі переконатися, що {?PLAYER_CHILD}ваша {?}{\?}дитина..."/>
@@ -4130,7 +4130,7 @@
     <string id="UIyhmGKC" text="You have handed over the prisoner {TARGET_HERO.LINK} to {ISSUE_OWNER.LINK}'s agent, who handed you {BASE_REWARD}{GOLD_ICON} denars as promised. He also says; {ISSUE_OWNER.LINK} is grateful for your service and sends {?ISSUE_OWNER.GENDER}her{?}his{\?} regards."/>
     <string id="uj52xbdr" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду щодня для воїнів дальнього бою у вашому загоні."/>
     <string id="uJceH1Dv" text="a Sunor sausage"/>
-    <string id="ujDbk6Qa" text="{FIRSTNAME} the {?FEMALE}Widow{?}Widow-maker{\?}"/>
+    <string id="ujDbk6Qa" text="{FIRSTNAME} {?FEMALE}{.f}Вдова{.R_n10_ko}{?}{.m}Вдівець{.R_n22_a}{\?}"/>
     <string id="UjS8JnH5" text="Splendid. I will never forget your service, my friend."/>
     <string id="UJYaonYM" text="Вірність і честь"/>
     <string id="Uk3qRuCS" text="dey Corvand"/>
@@ -4369,7 +4369,7 @@
     <string id="w1rVTUIs" text="This seems like a simple errand. Would your offer still stand if I get someone else to do it for me?"/>
     <string id="w290a2DV" text="{FIRSTNAME} the {?IMPERIAL}Sutler{?}Goodstrader{\?}"/>
     <string id="W2vV5jzj" text="I'll go back to my family. I will remember your help..."/>
-    <string id="w3GIUD3u" text="дозволяти правителю збирати спеціальні податки"/>
+    <string id="w3GIUD3u" text="дозволяти правителю збирати спеціальне мито"/>
     <string id="w3rcCibp" text="Then I will enter the tournament and reach round {ROUND_COUNT} my lady."/>
     <string id="w3sfcpoa" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} передати {.S}{SETTLEMENT}{.v_zna} новому клану, не зважаючи на заперечення своєї ради."/>
     <string id="W3xUQxAa" text="заохочувати лордів мати великі приватні армії"/>
