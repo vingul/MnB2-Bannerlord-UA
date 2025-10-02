@@ -243,7 +243,7 @@
     <string id="8kVhiTmu" text="Наступний рівень:"/>
     <string id="8l8xEu64" text="Купити та спорядити"/>
     <string id="8LhfzIQE" text="w"/>
-    <string id="8mBT44QK" text="Noble of the {FACTION_INFORMAL_NAME}"/>
+    <string id="8mBT44QK" text="Вельможа з {FACTION_INFORMAL_NAME}{.v_rod}"/>
     <string id="8oaVYIlk" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ви не можете увійти, оскільки замок належить ворогу."/>
     <string id="8OkPHu4f" text="Ні"/>
     <string id="8Rkxc5jE" text="Нема їжі"/>
@@ -1331,7 +1331,7 @@
     <string id="rHSjMjWX" text="Resolve Decision"/>
     <string id="RiZ9lNAe" text="Рівень стін"/>
     <string id="RjgBIYvH" text="&lt;b&gt;Improved Battering Ram&lt;/b&gt;{NEWLINE}Used for breaking the gates. Better than the normal one."/>
-    <string id="RJJ1Pbjk" text="Mercenary fighting for the {FACTION_INFORMAL_NAME}"/>
+    <string id="RJJ1Pbjk" text="Найманець, що воює за {FACTION_INFORMAL_NAME}{.v_zna}"/>
     <string id="RKyiu5MH" text="Perhaps you and I can make a deal."/>
     <string id="rmSkXZlp" text="Турнір закінчився. {TOURNAMENT_FINAL_OPPONENT} виграє, перемігши вас у фінальному двобої."/>
     <string id="RNQIG1DS" text="Hear that whistling and howling? That's not the wind - it's the ghosts of those who defied us. Prepare to join them."/>
