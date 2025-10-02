@@ -25,7 +25,7 @@
     <string id="0aXG8dvJ" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Данина не сплачуватиметься."/>
     <string id="0B6HlgnN" text="{.CS}{FIRSTNAME}{.CE} {.f}Ящірка{.R_n10_ko}"/>
     <string id="0B91pZ2R" text="Постійне місце, де проходять ярмарки. Громадяни можуть збиратися, випивати, танцювати і спілкуватися, підвищуючи щоденний моральний дух поселення."/>
-    <string id="0bPb5btR" text="{LORD.NAME} is a member of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the {FACTION_NAME} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
+    <string id="0bPb5btR" text="{LORD.NAME} є членом {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} з {.S}{FACTION_NAME}{.v_rod} і підтримує {.S}{RULER}{.v_zna} у громадянській війні. {?LORD.GENDER}Вона{?}Він{\?} має репутацію {.S}{REPUTATION}{.v_rod}."/>
     <string id="0cMibkQO" text="You may know me as a {?PLAYER.GENDER}woman{?}man{\?} of honor."/>
     <string id="0coOJAvg" text="Yes, {?PLAYER.GENDER}madam{?}sir{\?}. Thank you."/>
     <string id="0D1ty8JA" text="Coordination"/>
@@ -39,7 +39,7 @@
     <string id="0ewaZnfe" text="Very good. Keep them coming.[if:convo_mocking_aristocratic]"/>
     <string id="0FIbRZsi" text="Ви не можете не помітити, як люди почуваються невимушено біля {?PLAYER_CHILD}вашої {?CHILD.GENDER}дочки{?}сина{\?}{?}{?CHILD.GENDER}неї{?}нього{\?}{\?} і прагнуть з {?CHILD.GENDER}нею{?}ним{\?} потоваришувати."/>
     <string id="0FxtNPvV" text="You cannot devastate a settlement that has your faction culture.{newline}"/>
-    <string id="0g7MZCAK" text="Workshop Income"/>
+    <string id="0g7MZCAK" text="Дохід з майстерень"/>
     <string id="0G8Q3AZv" text="I am thinking of a different attribute."/>
     <string id="0gwQGnm4" text="{ARMY_OWNER_TEXT} {ARMY_BEHAVIOR}"/>
     <string id="0h5BrVdA" text="Ваші відносини зі знаттю в деяких ваших населених пунктах покращилися через високу вірність"/>
@@ -694,7 +694,7 @@
     <string id="8hhS659w" text="Сильне кування"/>
     <string id="8iDpmu0L" text="Accept corporal punishment"/>
     <string id="8ieLwTyG" text="{VALUE}% отримуваної шкоди при використанні арбалету."/>
-    <string id="8iLzK3Y4" text="Caravan and Party Income"/>
+    <string id="8iLzK3Y4" text="Дохід з караванів та загонів"/>
     <string id="8INOZiew" text="Thank you, [if:convo_normal][ib:confident]both for looking out for my interests and upholding the law."/>
     <string id="8iVkBa6D" text="{TARGET_SETTLEMENT_OWNER.LINK} has defected to {FACTION_NAME} along with {TARGET_SETTLEMENT}. Your agreement with {QUEST_GIVER.LINK} is moot."/>
     <string id="8jHJeh8z" text="{VALUE}% від загального досвіду після битви як бонус піхоті."/>
@@ -785,7 +785,7 @@
     <string id="9mWxhzDG" text="{?CHILD.GENDER}купляла{?}купляв{\?} припаси."/>
     <string id="9NbAzOER" text="спілкування з діловими партнерами."/>
     <string id="9nxTUZkO" text="We do have a problem. Last winter was hard on our animals. A number died from disease, and others were taken by wolves. We'd go to town to buy more, but, well, herds make a tempting target for bandits and we're not really suited to fight them. We can't afford to slaughter even the oldest and weakest of our animals because we need them to pull the plough. Maybe you can help us?[if:convo_grave][ib:demure2]"/>
-    <string id="9Obe3S6L" text="{LORD.FIRSTNAME} is a member of the {CLAN_NAME}, {CLAN_DESCRIPTION} from the lands of the {FACTION_NAME}. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
+    <string id="9Obe3S6L" text="{LORD.FIRSTNAME} є членом {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} з території {.S}{FACTION_NAME}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} має репутацію {REPUTATION}."/>
     <string id="9P3atGKL" text="Only a faction leader can grant vassalhood. Your relationship with that leader must be at least {RELATION} and you need a Clan Tier of {TIER}."/>
     <string id="9QLPm1o6" text="{?CHILD.GENDER}приєдналась{?}приєднався{\?} до паломництва."/>
     <string id="9qoLQva5" text="Whatever oath I give to you, you may be sure that I will keep it."/>
@@ -1834,7 +1834,7 @@
     <string id="fhAsNPoE" text="{ISSUE_GIVER.LINK}, lord of {SETTLEMENT}, says that a {MALE_LESSER_NOBLE_TITLE} named {MALE_LESSER_NOBLE_NAME} is stirring up unrest in the countryside. You asked your companion to deal with {MALE_LESSER_NOBLE_NAME}'s band. They should rejoin your party in {RETURN_DAYS} days"/>
     <string id="FHeJ8bsX" text="We will see about that."/>
     <string id="FHFfB4S0" text="I will do that."/>
-    <string id="FHjM62IY" text="{LORD.FIRSTNAME} is a member of the {CLAN_NAME}, a rising new clan. {?LORD.GENDER}She{?}He{\?} is still making {?LORD.GENDER}her{?}his{\?} reputation."/>
+    <string id="FHjM62IY" text="{LORD.FIRSTNAME} є членом {.S}{CLAN_NAME}{.v_rod}, нового клану, що тільки набирає силу. {?LORD.GENDER}Вона{?}Він{\?} все ще заробляє собі репутацію."/>
     <string id="FHSfNxNR" text="Ah. In that case, there is little I can do, unless you have some further argument to make."/>
     <string id="FILG5eZD" text="Leave {SETTLEMENT}."/>
     <string id="fiLWg11t" text="Я теж, якщо ви здастеся. Інакше..."/>
@@ -3154,7 +3154,7 @@
     <string id="O4iki0FD" text="Правитель отримує 5% податку з усіх поселень{newline}Міста втрачають 1 добробуту на день{newline}Кількість впливу, необхідного для оголошення війни, подвоюється для клану правителя"/>
     <string id="O4KI2lgT" text="My name is {PLAYER.NAME}."/>
     <string id="o57z0zB9" text="Шампур"/>
-    <string id="o5AUljbW" text="{LORD.NAME} is a member of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the {FACTION_NAME}. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
+    <string id="o5AUljbW" text="{LORD.NAME} є членом {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} з {.S}{FACTION_NAME}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} має репутацію {.S}{REPUTATION}{.v_rod}."/>
     <string id="O5dgeoss" text="Значні запаси"/>
     <string id="o5rp0ViP" text="{VALUE}% штраф до ціни продажу зброї."/>
     <string id="O5sBO9sQ" text="Багато імперій надавали своєму населенню громадянство, яке зазвичай супроводжувалося низкою прав. Зазвичай, громадянство не могло бути надане завойованим провінціям одразу, допоки населення не продемонструє готовність прийняти спосіб життя імперії, включаючи мову, одяг і релігійні культи."/>
@@ -3598,7 +3598,7 @@
     <string id="QxEPwLyp" text="I'll take your men into my party and show them a bit of the world."/>
     <string id="QY55NgWl" text="I gave an oath to {CURRENT_LIEGE.LINK} - though I'm not sure he's always kept his oath to me."/>
     <string id="Qy7Zmmvk" text="You have successfully scouted the target settlements."/>
-    <string id="qyahMgD3" text="Caravan ({A0})"/>
+    <string id="qyahMgD3" text="Караван ({A0})"/>
     <string id="qycE7IO0" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {._}{ITEM} for {?QUEST_GIVER.GENDER}her{?}his{\?} village. {?QUEST_GIVER.GENDER}She{?}He{\?} offers you {REWARD_GOLD}{GOLD_ICON} for the delivery of the tools. You asked your companion {COMPANION.LINK} and {NEEDED_MEN_COUNT} of your men to deliver {NUMBER_OF_ITEM} {?NUMBER_OF_ITEM&gt;1}units{?}unit{\?} of {._}{ITEM} to {QUEST_GIVER.LINK}. They will rejoin your party in {ALTERNATIVE_SOLUTION_DURATION} days."/>
     <string id="QYoigG3b" text="I understand. I'd take you prisoner too, if duty demanded. And I will soon, I hope."/>
     <string id="qYSrlr4q" text="Maybe I should send one of my men to find the animals you need."/>
@@ -3667,7 +3667,7 @@
     <string id="Rh0DlvvE" text="I'm glad you see it that way. Go on. Continue your training."/>
     <string id="RH8mgLEk" text="{AGGRESSOR_RULER.NAME} з {.S}{AGGRESSOR_KINGDOM}{.v_rod} {?AGGRESSOR_RULER.GENDER}вирішила{?}вирішив{\?} оголосити війну {.S}{KINGDOM}{.v_dav}, хоча це рішення підтримала тільки половина {?AGGRESSOR_RULER.GENDER}її{?}його{\?} ради."/>
     <string id="rHcVKSbA" text="Iron Mine"/>
-    <string id="rhfgzKtA" text="Tribute from {A0}"/>
+    <string id="rhfgzKtA" text="Данина від {A0}{.v_rod}"/>
     <string id="RhJdnAQY" text="насолодитися життям у розкошах."/>
     <string id="rHtwp8ag" text="{VALUE}% щоденного шансу покращити відношення на 1 з випадковим лордом у вашій армії."/>
     <string id="RIiVDdi0" text="Заради людей"/>
@@ -4006,7 +4006,7 @@
     <string id="TR4ORD1T" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду піхоті у вашому загоні за кожного ворога вбитого вами дворучною зброєю."/>
     <string id="TrewB5c7" text="Now your {?IS_MAP_FACTION}clan{?}kingdom{\?} is at war with the {QUEST_GIVER.LINK}'s lord. Your agreement with {QUEST_GIVER.LINK} becomes invalid."/>
     <string id="TrGGbtS4" text="{FIRSTNAME} of the Dove"/>
-    <string id="tributeIncome" text="Tribute Income"/>
+    <string id="tributeIncome" text="Дохід від данини"/>
     <string id="TrQzYwVD" text="Yes, {?PLAYER.GENDER}my lady{?}lord{\?}. Since we last spoke I had chance to increase my understanding of ranged combat. How to breath, calculate distance, and lead the target if necessary.[if:convo_calm_friendly][ib:normal]"/>
     <string id="Ts5dZih4" text="You couldn't fully bring {.%}{REQUESTED_GOOD}{.%} to {?QUEST_GIVER.GENDER}her{?}him{\?} in time."/>
     <string id="tsh4RXNa" text="{VALUE}% прибутку від податків з підконтрольного поселення."/>
@@ -4184,7 +4184,7 @@
     <string id="uUkCLZEo" text="Let's see... {ISSUE_GIVER_LIST}."/>
     <string id="UuQDXIFD" text="{?CHILD.GENDER}полювала{?}полював{\?} на бандитів."/>
     <string id="UuypR3B4" text="{FIRSTNAME} of the Gourd"/>
-    <string id="uuyso3mg" text="Income from Parties"/>
+    <string id="uuyso3mg" text="Дохід від загонів"/>
     <string id="UW1roOES" text="You should discuss this issue with {REDIRECT_HERO_RELATIONSHIP}, who speaks for our family."/>
     <string id="uw2kKrQk" text="{EXP_VALUE} {#GET_PLURAL_VALUE(EXP_VALUE)}рівень{#}рівні{#}рівнів{\#} навику та {FOCUS_VALUE} {#GET_PLURAL_VALUE(FOCUS_VALUE)}очко{#}очки{#}очків{\#} фокусу: {SKILL_ONE}{NEWLINE}{ATTR_VALUE} {#GET_PLURAL_VALUE(ATTR_VALUE)}очко{#}очки{#}очків{\#} характеристик: {ATTR_NAME}{TRAIT_DESC}{RENOWN_DESC}{GOLD_DESC}"/>
     <string id="UwbhGhGw" text="I shall stand by your side and not foresake you, and fight until my life leaves my body..."/>
@@ -4486,7 +4486,7 @@
     <string id="WUWzyzWI" text="Thank you. Your help will be remembered."/>
     <string id="Wuxn9sDq" text="My sword is yours. For the right sum."/>
     <string id="WVkc4UgX" text="Continue."/>
-    <string id="wVMPdc8J" text="{A0}'s tariff"/>
+    <string id="wVMPdc8J" text="Мито {A0}{.v_rod}"/>
     <string id="WVobv24n" text="Heaven save us if {QUEST_GIVER.NAME} can't get {?QUEST_GIVER.GENDER}her{?}his{\?} hands on more grain."/>
     <string id="wvQbeHpp" text="{VALUE} болт{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} у кожному колчані."/>
     <string id="WvQDatMJ" text="I won't kid you, they're mean bastards, but that's good if you can manage them."/>
