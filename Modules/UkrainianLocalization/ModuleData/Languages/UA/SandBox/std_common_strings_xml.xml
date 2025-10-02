@@ -20,7 +20,7 @@
     <string id="PXT6aA4J" text="Налаштування кампанії"/>
     <string id="RzFyGnWJ" text="Прибічники"/>
     <string id="SixPXaNh" text="Дуже бідний"/>
-    <string id="SVJlOYCB" text="Party has less men than 40% of it's party size limit."/>
+    <string id="SVJlOYCB" text="У загоні менше ніж 40% людей від максимальної кількості."/>
     <string id="UbRqC0Yz" text="Багатий"/>
   </strings>
 </base>
