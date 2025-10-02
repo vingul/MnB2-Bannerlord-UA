@@ -688,7 +688,7 @@
     <string id="mfeM775z" text="Cleaver"/>
     <string id="mfRbx5KE" text="за читанням і навчанням."/>
     <string id="MFrIHJZM" text="Ваша сім'я була далекою ріднею еміра. Доходу з землі було достатньо, щоб ваш батько міг дозволити собі коня, але він не був настільки заможним, щоб купити обладунки, необхідні для важкої кавалерії. Тому він воював в рядах легких вершників, якими славиться пустеля."/>
-    <string id="millionabbr" text="m"/>
+    <string id="millionabbr" text="м"/>
     <string id="MkBPRCuF" text="Зменшений штраф точності в дальньому бою"/>
     <string id="mkoMUmLh" text="Burlap Waistcoat"/>
     <string id="MKT5IzWm" text="Thick Sleeved Robe"/>
@@ -941,7 +941,7 @@
     <string id="tG1Q8r2u" text="Lancer Lamellar Armor"/>
     <string id="tGEStbxb" text="Члени племені"/>
     <string id="Th8q8wC2" text="Здобич"/>
-    <string id="thousandabbr" text="k"/>
+    <string id="thousandabbr" text="т"/>
     <string id="tHtt3HCn" text="Pryndor"/>
     <string id="tI8ZLtoA" text="допомагали на будівництвах."/>
     <string id="TiJOjUi5" text="Valaos"/>
@@ -1200,7 +1200,7 @@
     <string id="zfUhnG7y" text="Themestios"/>
     <string id="ZFwKlHIJ" text="Woodland Longbow"/>
     <string id="zGXZJFOb" text="Lamellar with Scale Skirt"/>
-    <string id="zInIqBD0" text="Arenicos"/>
+    <string id="zInIqBD0" text="{.m}Аренікос{.R_n20_a_ke}"/>
     <string id="ZkaaXxeB" text="Isvan"/>
     <string id="zLdXCpne" text="Ринок"/>
     <string id="Zm4a2xsf" text="Salusios"/>
