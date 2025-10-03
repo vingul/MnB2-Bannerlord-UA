@@ -34,28 +34,28 @@
     <string id="G8mawcBV" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Цілителька{.R_n10_ko}{?}{.m}Цілитель{.R_n20_a}{\?}"/>
     <string id="gED0ZMhi" text="{.m}Ілай{.R_n20_a}"/>
     <string id="H7eELtL6" text="{.m}Позичений{.R_adj_z1} {.m}воїн{.R_n20_a_ke}"/>
-    <string id="hrMatilh" text="{.CS}{FIRSTNAME}{.CE} {.m}Коваль{.R_n20_a}"/>
+    <string id="hrMatilh" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Ковалька{.R_n10_ko}{?}{.m}Коваль{.R_n20_a}{\?}"/>
     <string id="IgOTjF4i" text="з гулямів"/>
     <string id="IVnvHF8S" text="з елефтеріїв"/>
     <string id="Ivx4uJVp" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Тихий{.R_adj}{?}{.m}Тихий{.R_adj_z1}{\?}"/>
-    <string id="j2nVPqIX" text="{.CS}{FIRSTNAME}{.CE} {.m}Яструб{.R_n20_a_ke}"/>
+    <string id="j2nVPqIX" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Шуліка{.R_n10_ko}{?}{.m}Яструб{.R_n20_a_ke}{\?}"/>
     <string id="J6Yksji5" text="Кінний розбійник"/>
     <string id="jepZ0btT" text="{.m}Впевнений{.R_adj_z1} {.m}суперник{.R_n20_a}"/>
     <string id="jG3duO7A" text="з Обраних"/>
     <string id="jKAhAoVb" text="з Лісового народу"/>
     <string id="JL8RBEu3" text="з Бені Зіляля"/>
     <string id="KkStFl12" text="з Вовчої шкури"/>
-    <string id="KnTl4ESh" text="{.CS}{FIRSTNAME}{.CE} {.m}Шахрай{.R_n20_a}"/>
+    <string id="KnTl4ESh" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Шахрайка{.R_n10_ko}{?}{.m}Шахрай{.R_n20_a}{\?}"/>
     <string id="KphYbafC" text="{.m}Зухвалий{.R_adj_z1} {.m}суперник{.R_n20_a}"/>
     <string id="KY2zbWkj" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Швидкий{.R_adj}{?}{.m}Швидкий{.R_adj_z1}{\?}"/>
-    <string id="LmlL8fVu" text="{.CS}{FIRSTNAME}{.CE} {.m}Кроворуб{.R_n20_a_ke}"/>
+    <string id="LmlL8fVu" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Кроворубка{.R_n10_ko}{?}{.m}Кроворуб{.R_n20_a_ke}{\?}"/>
     <string id="mcbREzPt" text="з Хранителів"/>
     <string id="mtBA7sfk" text="{.m}Міцний{.R_adj_z1} {.m}суперник{.R_n20_a_p}"/>
     <string id="muC2SGlM" text="{FIRSTNAME} з Пустки"/>
     <string id="N4taBJyx" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Слідопитка{.R_n10_ko}{?}{.m}Слідопит{.R_n20_a_ke}{\?}"/>
-    <string id="nDtjEazo" text="{.CS}{FIRSTNAME}{.CE} {.m}Сильнодих{.R_n20_a}"/>
+    <string id="nDtjEazo" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}Сильнодмух{?}{.m}Сильнодмух{.R_n20_a}{\?}"/>
     <string id="nqE62lQW" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Чорнозубий{.R_adj}{?}{.m}Чорнозубий{.R_adj_z1}{\?}"/>
-    <string id="NSaetzNJ" text="{.CS}{FIRSTNAME}{.CE} {.m}Вуглеїд{.R_n20_a_ke}"/>
+    <string id="NSaetzNJ" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Вуглеїдка{.R_n10_ko}{?}{.m}Вуглеїд{.R_n20_a_ke}{\?}"/>
     <string id="ntkipfCV" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Голосний{.R_adj}{?}{.m}Голосний{.R_adj_z1}{\?}"/>
     <string id="NWuGUi4p" text="{.CS}{FIRSTNAME}{.CE} {.f}Леопардиця{.R_n10_ko}"/>
     <string id="OArAImbM" text="{FIRSTNAME} з Пагорбів"/>
@@ -65,7 +65,7 @@
     <string id="OzjuQYGH" text="із Скольдерброд"/>
     <string id="PQkMcfAW" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Вигнанниця{.R_n10_ko}{?}{.m}Вигнанець{.R_n22_a_z}{\?}"/>
     <string id="pTuZB1Hj" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Залізнопузий{.R_adj}{?}{.m}Залізнопузий{.R_adj}{\?}"/>
-    <string id="pZSAdyC0" text="{.CS}{FIRSTNAME}{.CE} {.m}М'ясник{.R_n20_a}"/>
+    <string id="pZSAdyC0" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}М'ясник{?}{.m}М'ясник{.R_n20_a}{\?}"/>
     <string id="q5QjQyde" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Божевільний{.R_adj}{?}{.m}Божевільний{.R_adj_z1}{\?}"/>
     <string id="QGcgQDqK" text="з Братства"/>
     <string id="Qm5cstq3" text="{.m}Улик{.R_n20_a}"/>
@@ -78,22 +78,22 @@
     <string id="S9skielR" text="{.m}Нервовий{.R_adj_z1} {.m}керівник{.R_n20_a} каравану"/>
     <string id="S9z09NaN" text="{.m}Позичений{.R_adj_z1} {.m}ветеран{.R_n20_a_ke}"/>
     <string id="sdzaip5J" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Всезнаючий{.R_adj}{?}{.m}Всезнаючий{.R_adj_z1}{\?}"/>
-    <string id="seS9ZZUW" text="{.CS}{FIRSTNAME}{.CE} {.m}Сірий{.R_adj} {.m}Сокіл{.R_n21_a}"/>
+    <string id="seS9ZZUW" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Сірий{.R_adj} {.f}Шуліка{.R_n10_ko}{?}{.m}Сірий{.R_adj} {.m}Сокіл{.R_n21_a}{\?}"/>
     <string id="sk64gxdw" text="{.m}Гідний{.R_adj_z1} {.m}суперник{.R_n20_a}"/>
     <string id="t9e34kgH" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Грабіжниця{.R_n10_ko}{?}{.m}Грабіжник{.R_n20_a}{\?}"/>
-    <string id="TyxXbqVw" text="{.CS}{FIRSTNAME}{.CE} {.m}Сокіл{.R_n21_a}"/>
+    <string id="TyxXbqVw" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Соколиця{.R_n10_ko}{?}{.m}Сокіл{.R_n21_a}{\?}"/>
     <string id="vmwCdada" text="{.m}Джихан{.R_n20_a_ke}"/>
     <string id="vtXRptVa" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Золотий{.R_adj}{?}{.m}Золотий{.R_adj_z1}{\?}"/>
-    <string id="W7aa22Yl" text="{.CS}{FIRSTNAME}{.CE} {.m}Череполом{.R_n20_a_ke}"/>
+    <string id="W7aa22Yl" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Череполомка{.R_n10_ko}{?}{.m}Череполом{.R_n20_a_ke}{\?}"/>
     <string id="w9u2RUgm" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Нещасливий{.R_adj}{?}{.m}Нещасливий{.R_adj_z1}{\?}"/>
     <string id="WU5GnkvR" text="{.CS}{FIRSTNAME}{.CE} {.f}Риба{.R_n10}"/>
     <string id="WvwWX4me" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Широкогрудий{.R_adj}{?}{.m}Широкогрудий{.R_adj_z1}{\?}"/>
     <string id="X2TtXlAq" text="{.f}Періклея{.R_n10_ko}"/>
     <string id="XBJtv4mD" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Торговка{.R_n10_ko} Спеціями{?}{.m}Торговець{.R_n22_a} Спеціями{\?}"/>
-    <string id="xTQPfmS9" text="{.CS}{FIRSTNAME}{.CE} {.m}Бик{.R_n20_a}"/>
-    <string id="XuxARPTM" text="{.CS}{FIRSTNAME}{.CE} {.m}Гірчичник{.R_n20_a}"/>
+    <string id="xTQPfmS9" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Буйволиця{.R_n10_ko}{?}{.m}Бик{.R_n20_a}{\?}"/>
+    <string id="XuxARPTM" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Гірчиця{.R_n10_ko}{?}{.m}Гірчичник{.R_n20_a}{\?}"/>
     <string id="ykTARD4b" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Вигнанниця{.R_n10_ko}{?}{.m}Вигнанець{.R_n22_a}{\?}"/>
-    <string id="yr5pa0hs" text="{.CS}{FIRSTNAME}{.CE} {.m}Верболіз{.R_n21_u_ke}"/>
+    <string id="yr5pa0hs" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Верба{.R_n10_ko}{?}{.m}Верболіз{.R_n21_u_ke}{\?}"/>
     <string id="ZCc3VFat" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Сивий{.R_adj}{?}{.m}Сивий{.R_adj_z1}{\?}"/>
     <string id="zoaTZMm7" text="{.CS}{FIRSTNAME}{.CE} {.f}Мисливиця{.R_n10_ko}"/>
     <string id="zXjdb1zT" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Снігобородий{.R_adj}{?}{.m}Снігобородий{.R_adj_z1}{\?}"/>
