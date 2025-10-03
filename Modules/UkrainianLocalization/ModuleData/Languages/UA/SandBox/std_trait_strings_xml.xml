@@ -15,51 +15,51 @@
     <string id="6okDQlyn" text="{?NOTABLE.GENDER}{.f}обережний{.R_adj}{?}{.m}обережний{.R_adj_z1}{\?}"/>
     <string id="6tOrCXWu" text="Looks out for those who've served {?NOTABLE.GENDER}her{?}him{\?} well"/>
     <string id="85SsQ1xA" text="{?NOTABLE.GENDER}{.f}ненадійний{.R_adj}{?}{.m}ненадійний{.R_adj_z1}{\?}"/>
-    <string id="8aAbnMIo" text="aloof"/>
-    <string id="8D5Lx2LY" text="softhearted"/>
-    <string id="9bUlUrVI" text="fierce and cruel"/>
-    <string id="A27HuUiz" text="daring"/>
-    <string id="aDkmS7iN" text="the type who acts without thinking"/>
-    <string id="AgE2Wffg" text="a good friend but a dangerous enemy"/>
+    <string id="8aAbnMIo" text="{?NOTABLE.GENDER}{.f}байдужий{.R_adj}{?}{.m}байдужий{.R_adj_z1}{\?}"/>
+    <string id="8D5Lx2LY" text="{?NOTABLE.GENDER}{.f}м'якосердий{.R_adj}{?}{.m}м'якосердий{.R_adj_z1}{\?}"/>
+    <string id="9bUlUrVI" text="{?NOTABLE.GENDER}{.f}лютий{.R_adj} і {.f}жорстокий{.R_adj}{?}{.m}лютий{.R_adj_z1} і {.m}жорстокий{.R_adj_z1}{\?}"/>
+    <string id="A27HuUiz" text="{?NOTABLE.GENDER}{.f}зухвалий{.R_adj}{?}{.m}зухвалий{.R_adj_z1}{\?}"/>
+    <string id="aDkmS7iN" text="{.f}безрозсудний{.R_adj} {.f}людина{.R_n10}, яка спочатку діє, а потім думає"/>
+    <string id="AgE2Wffg" text="{.m}хороший{.R_adj_z1} {.m}друг{.R_n20_a}, але {.m}небезпечний{.R_adj_z1} {.m}ворог{.R_n20_a}"/>
     <string id="aLO7V5ZZ" text="{?NOTABLE.GENDER}She{?}He{\?}'s honest, there's no denying that, but a heart of stone"/>
-    <string id="bSQF8nac" text="ambitious"/>
-    <string id="bYa051Bs" text="devious, aggressive and ambitious"/>
-    <string id="CaSahkj4" text="dishonorable in every way"/>
-    <string id="CUR5ZZtd" text="just but pitiless"/>
+    <string id="bSQF8nac" text="{?NOTABLE.GENDER}{.f}амбітний{.R_adj}{?}{.m}амбітний{.R_adj_z1}{\?}"/>
+    <string id="bYa051Bs" text="{?NOTABLE.GENDER}{.f}підступний{.R_adj}, {.f}агресивний{.R_adj} та {.f}амбітний{.R_adj}{?}{.m}підступний{.R_adj_z1}, {.m}агресивний{.R_adj_z1} та {.m}амбітний{.R_adj_z1}{\?}"/>
+    <string id="CaSahkj4" text="{?NOTABLE.GENDER}{.f}безчесний{.R_adj}{?}{.m}безчесний{.R_adj_z1}{\?} у всіх відношеннях"/>
+    <string id="CUR5ZZtd" text="{?NOTABLE.GENDER}{.f}справедливий{.R_adj}, але {.f}безжальний{.R_adj}{?}{.m}справедливий{.R_adj_z1}, але {.m}безжальний{.R_adj_z1}{\?}"/>
     <string id="Dkmja15D" text="Can't be trusted."/>
-    <string id="Dz3kGpkM" text="mad, bad, and dangerous to know"/>
-    <string id="dZ7OtsDv" text="cautious but trustworthy"/>
-    <string id="etdkWOLn" text="devious"/>
-    <string id="euinlzab" text="timid"/>
-    <string id="fgkQSbUE" text="a bit of a rogue, but with a heart of gold"/>
-    <string id="FNzGHbvb" text="prone to dangerous rages"/>
-    <string id="GMMg8AwD" text="pitiless"/>
+    <string id="Dz3kGpkM" text="{.f}божевільний{.R_adj}, {.f}лихий{.R_adj} та {.f}небезпечний{.R_adj} для оточення {.f}людина{.R_n10}"/>
+    <string id="dZ7OtsDv" text="{?NOTABLE.GENDER}{.f}обережний{.R_adj}, але {.f}надійний{.R_adj}{?}{.m}обережний{.R_adj_z1}, але {.m}надійний{.R_adj_z1}{\?}"/>
+    <string id="etdkWOLn" text="{?NOTABLE.GENDER}{.f}підступний{.R_adj}{?}{.m}підступний{.R_adj_z1}{\?}"/>
+    <string id="euinlzab" text="{?NOTABLE.GENDER}{.f}боязкий{.R_adj}{?}{.m}боязкий{.R_adj_z1}{\?}"/>
+    <string id="fgkQSbUE" text="трохи {.f}розбишака{.R_n10}, але з золотим серцем"/>
+    <string id="FNzGHbvb" text="{.f}людина{.R_n10}, {.f}схильний{.R_adj} до небезпечних спалахів гніву"/>
+    <string id="GMMg8AwD" text="{?NOTABLE.GENDER}{.f}безжальний{.R_adj}{?}{.m}безжальний{.R_adj_z1}{\?}"/>
     <string id="gZMm5J4u" text="Never acts in haste... Always got a plan"/>
-    <string id="hFtm7jZT" text="thoroughly conventional"/>
-    <string id="HNoD0Xcw" text="brave, but easily enraged and unforgiving"/>
-    <string id="HTBQ3E3Q" text="generous to friends"/>
+    <string id="hFtm7jZT" text="абсолютно {.f}звичайний{.R_adj} {.f}людина{.R_n10}"/>
+    <string id="HNoD0Xcw" text="{?NOTABLE.GENDER}{.f}сміливий{.R_adj}{?}{.m}сміливий{.R_adj_z1}{\?}, але легко виходить з себе і ніколи не пробачає"/>
+    <string id="HTBQ3E3Q" text="{?NOTABLE.GENDER}{.f}щедрий{.R_adj}{?}{.m}щедрий{.R_adj_z1}{\?} до своїх друзів"/>
     <string id="isnEHNXl" text="Stands up for what {?NOTABLE.GENDER}she{?}he{\?} believes in"/>
-    <string id="jFLPNGdH" text="brave and honorable"/>
-    <string id="jqiKsw34" text="devious but soft-hearted"/>
-    <string id="JWTKNySw" text="tight-fisted"/>
-    <string id="KFvms0sR" text="a man who enjoys taking calculated risks"/>
-    <string id="kKFLfWbJ" text="moralistic"/>
-    <string id="KxjSILpL" text="the type who takes every advantage"/>
-    <string id="L3b9ZsLs" text="profligate"/>
+    <string id="jFLPNGdH" text="{?NOTABLE.GENDER}{.f}сміливий{.R_adj} і {.f}чесний{.R_adj}{?}{.m}сміливий{.R_adj_z1} і {.m}чесний{.R_adj_z1}{\?}"/>
+    <string id="jqiKsw34" text="{?NOTABLE.GENDER}{.f}підступний{.R_adj}, але {.f}м'якосердий{.R_adj}{?}{.m}підступний{.R_adj_z1}, але {.m}м'якосердий{.R_adj_z1}{\?}"/>
+    <string id="JWTKNySw" text="{.f}cкнара{.R_n10}"/>
+    <string id="KFvms0sR" text="{.f}людина{.R_n10}, яка любить прораховані ризики"/>
+    <string id="kKFLfWbJ" text="{?NOTABLE.GENDER}{.f}моралістка{.R_n10}{?}{.m}мораліст{.R_n20_a}{\?}"/>
+    <string id="KxjSILpL" text="{.f}людина{.R_n10}, яка скористається будь-якою можливістю"/>
+    <string id="L3b9ZsLs" text="{?NOTABLE.GENDER}{.f}марнотратниця{.R_n10}{?}{.m}марнотратник{.R_n20_a}{\?}"/>
     <string id="LCs7NMyz" text="You won't find that one rushing into danger"/>
-    <string id="LfmWyPEk" text="conventional"/>
-    <string id="LtBwSe0J" text="kind and considerate - though some might say soft-hearted"/>
-    <string id="mH8FHX9r" text="cautious but dangerous"/>
-    <string id="MoQbaOOk" text="cruel and devious"/>
-    <string id="MVnA7tkN" text="honorable, angry and cruel, incapable of either breaking an oath or forgiving a slight"/>
-    <string id="mWkCWB6j" text="kind but cautious"/>
-    <string id="nnDG8Ryc" text="brave but headstrong"/>
-    <string id="NOEYSbeR" text="honorable, but stiff-necked and cruel"/>
-    <string id="nYHM3bmc" text="brave but merciful"/>
-    <string id="OuXZbyeS" text="attentive, careful to reward loyal followers"/>
+    <string id="LfmWyPEk" text="{.f}звичайний{.R_adj} {.f}людина{.R_n10}"/>
+    <string id="LtBwSe0J" text="{.f}добрий{.R_adj} та {.f}чуйний{.R_adj} {.f}людина{.R_n10}, хоча дехто може назвати це м'якосердістю"/>
+    <string id="mH8FHX9r" text="{?NOTABLE.GENDER}{.f}обережний{.R_adj}, але {.f}небезпечний{.R_adj}{?}{.m}обережний{.R_adj_z1}, але {.m}небезпечний{.R_adj_z1}{\?}"/>
+    <string id="MoQbaOOk" text="{?NOTABLE.GENDER}{.f}жорстокий{.R_adj} та {.f}підступний{.R_adj}{?}{.m}жорстокий{.R_adj_z1} та {.m}підступний{.R_adj_z1}{\?}"/>
+    <string id="MVnA7tkN" text="{?NOTABLE.GENDER}{.f}чесний{.R_adj}, {.f}злий{.R_adj} і {.f}жорстокий{.R_adj}, не {.f}здатний{.R_adj}{?}{.m}чесний{.R_adj_z1}, {.m}злий{.R_adj_z1} і {.m}жорстокий{.R_adj_z1}, не {.m}здатний{.R_adj_z1}{\?} ні порушити клятви, ні пробачити образи"/>
+    <string id="mWkCWB6j" text="{?NOTABLE.GENDER}{.f}добрий{.R_adj}, але {.f}обережний{.R_adj}{?}{.m}добрий{.R_adj_z1}, але {.m}обережний{.R_adj_z1}{\?}"/>
+    <string id="nnDG8Ryc" text="{?NOTABLE.GENDER}{.f}хоробрий{.R_adj}, але {.f}самовпевнений{.R_adj}{?}{.m}хоробрий{.R_adj_z1}, але {.m}самовпевнений{.R_adj_z1}{\?}"/>
+    <string id="NOEYSbeR" text="{?NOTABLE.GENDER}{.f}чесний{.R_adj}, але {.f}впертий{.R_adj} і {.f}жорстокий{.R_adj}{?}{.m}чесний{.R_adj_z1}, але {.m}впертий{.R_adj_z1} і {.m}жорстокий{.R_adj_z1}{\?}"/>
+    <string id="nYHM3bmc" text="{?NOTABLE.GENDER}{.f}хоробрий{.R_adj}, але {.f}милосердний{.R_adj}{?}{.m}хоробрий{.R_adj_z1}, але {.m}милосердний{.R_adj_z1}{\?}"/>
+    <string id="OuXZbyeS" text="{?NOTABLE.GENDER}{.f}уважний{.R_adj}{?}{.m}уважний{.R_adj_z1}{\?}, піклується про те, щоб щедро винагородити відданих прибічників"/>
     <string id="OwOdbwc5" text="Rushes in without thinking, sometimes"/>
     <string id="peI78GmJ" text="Not sure what to think about that one..."/>
-    <string id="ppTLY8tm" text="just and honest, but ungrateful"/>
+    <string id="ppTLY8tm" text="{?NOTABLE.GENDER}{.f}справедливий{.R_adj} і {.f}чесний{.R_adj}, але {.f}невдячний{.R_adj}{?}{.m}справедливий{.R_adj_z1} і {.m}чесний{.R_adj_z1}, але {.m}невдячний{.R_adj_z1}{\?}"/>
     <string id="PW3Ya1AQ" text="foul-tempered"/>
     <string id="Q3TaYO39" text="the type who tries hard to be just and fair"/>
     <string id="QtcN7aEk" text="daring and ambitious"/>
