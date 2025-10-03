@@ -51,7 +51,7 @@
     <string id="d4O49oLs" text="Battles(W/L/ALL)"/>
     <string id="D9GkBqyW" text="Ви можете покинути тренувальний полігон, утримуючи {LEAVE_KEY}{newline}Ви можете повернутися в будь-який момент з мапи кампанії."/>
     <string id="debaZA1j" text="This option can only be changed in character creation."/>
-    <string id="DELVwiEM" text="Tira"/>
+    <string id="DELVwiEM" text="{.f}Тіра{.R_n10_ko}"/>
     <string id="DFMhzFGV" text="Keeping a number of horses in your inventory may speed up your party considerably, since they'll increase your carrying capacity and footmen will ride spare horses. Pack horses and mules are only useful for carrying cargo though."/>
     <string id="DV7u7B6A" text="Hero Prisoners Taken"/>
     <string id="ehdBvNmN" text="Вимкнути смерть для всіх героїв"/>
@@ -61,7 +61,7 @@
     <string id="FiRWs5vF" text="В режимі «Залізна воля» у вас є тільки один файл збереження, який автоматично перезаписується при виході з гри."/>
     <string id="freebooterdifficulty" text="Рекрут"/>
     <string id="GbSZ3ZXh" text="Denars earned from Caravans"/>
-    <string id="GCqWwDWg" text="Baladir"/>
+    <string id="GCqWwDWg" text="{.m}Баладір{.R_n20_a_ke}"/>
     <string id="ggMFUCVT" text="Heroes Killed In Battles"/>
     <string id="GkTR3n2o" text="You have retired."/>
     <string id="gRVHCPak" text="Reset all tutorials"/>
