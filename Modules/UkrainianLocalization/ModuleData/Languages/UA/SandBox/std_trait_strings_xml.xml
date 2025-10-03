@@ -60,32 +60,32 @@
     <string id="OwOdbwc5" text="Rushes in without thinking, sometimes"/>
     <string id="peI78GmJ" text="Not sure what to think about that one..."/>
     <string id="ppTLY8tm" text="{?NOTABLE.GENDER}{.f}справедливий{.R_adj} і {.f}чесний{.R_adj}, але {.f}невдячний{.R_adj}{?}{.m}справедливий{.R_adj_z1} і {.m}чесний{.R_adj_z1}, але {.m}невдячний{.R_adj_z1}{\?}"/>
-    <string id="PW3Ya1AQ" text="foul-tempered"/>
-    <string id="Q3TaYO39" text="the type who tries hard to be just and fair"/>
-    <string id="QtcN7aEk" text="daring and ambitious"/>
-    <string id="qXwYcJHa" text="decent and kind"/>
-    <string id="QzNHs8Ch" text="passionate and brave, though sometimes without thinking things through"/>
-    <string id="RaecCLdK" text="brave and generous, a good friend to have"/>
-    <string id="Raq3TcUa" text="considerate of others"/>
-    <string id="raQIsPly" text="sparing of enemies but thoughtless of friends"/>
-    <string id="rarG5Bqa" text="helpful"/>
-    <string id="S6XcP7Wz" text="no better friend, no worse enemy"/>
-    <string id="tc1PuNa8" text="loyal to friends, but also cruel and manipulative"/>
-    <string id="TGQD4r5Z" text="gallant"/>
-    <string id="UoYPTOPV" text="treacherous, but at least not cruel"/>
-    <string id="URWSOAfG" text="sadistic"/>
+    <string id="PW3Ya1AQ" text="{?NOTABLE.GENDER}{.f}нестриманий{.R_adj}{?}{.m}нестриманий{.R_adj_z1}{\?}"/>
+    <string id="Q3TaYO39" text="{.f}людина{.R_n10}, яка намагається бути справедливою і чесною"/>
+    <string id="QtcN7aEk" text="{?NOTABLE.GENDER}{.f}зухвалий{.R_adj} та {.f}честолюбний{.R_adj}{?}{.m}зухвалий{.R_adj_z1} та {.m}честолюбний{.R_adj_z1}{\?}"/>
+    <string id="qXwYcJHa" text="{?NOTABLE.GENDER}{.f}порядний{.R_adj} і {.f}добрий{.R_adj}{?}{.m}порядний{.R_adj_z1} і {.m}добрий{.R_adj_z1}{\?}"/>
+    <string id="QzNHs8Ch" text="{?NOTABLE.GENDER}{.f}пристрасний{.R_adj} і {.f}сміливий{.R_adj}{?}{.m}пристрасний{.R_adj_z1} і {.m}сміливий{.R_adj_z1}{\?}, хоча іноді не продумує все до кінця"/>
+    <string id="RaecCLdK" text="{?NOTABLE.GENDER}{.f}сміливий{.R_adj} і {.f}щедрий{.R_adj}, {.f}гарний{.R_adj} {.f}приятелька{.R_n10}, яку{?}{.m}сміливий{.R_adj_z1} і {.m}щедрий{.R_adj_z1}, {.m}гарний{.R_adj_z1} {.m}приятель{.R_n20_a}, якого{\?} добре мати поруч"/>
+    <string id="Raq3TcUa" text="{?NOTABLE.GENDER}{.f}турботливий{.R_adj}{?}{.m}турботливий{.R_adj_z1}{\?} до інших"/>
+    <string id="raQIsPly" text="{?NOTABLE.GENDER}{.f}поблажливий{.R_adj} до ворогів, але {.f}неуважний{.R_adj}{?}{.m}поблажливий{.R_adj_z1} до ворогів, але {.m}неуважний{.R_adj_z1}{\?} до друзів"/>
+    <string id="rarG5Bqa" text="{.f}людина{.R_n10}, яка завжди прийде на допомогу"/>
+    <string id="S6XcP7Wz" text="{?NOTABLE.GENDER}{.f}найкращий{.R_adj} {.f}приятелька{.R_n10} {.m}найгірший{.R_adj_z1} {.m}ворог{.R_n20_a}{?}{.m}найкращий{.R_adj_z1} {.m}приятель{.R_n20_a} і {.m}найгірший{.R_adj_z1} {.m}ворог{.R_n20_a}{\?}"/>
+    <string id="tc1PuNa8" text="{.f}відданий{.R_adj} друзям {.f}людина{.R_n10}, проте також {?NOTABLE.GENDER}{.f}жорстокий{.R_adj} і {.f}маніпулятивний{.R_adj}{?}{.m}жорстокий{.R_adj_z1} і {.m}маніпулятивний{.R_adj_z1}{\?}"/>
+    <string id="TGQD4r5Z" text="{?NOTABLE.GENDER}{.f}галантний{.R_adj}{?}{.m}галантний{.R_adj_z1}{\?}"/>
+    <string id="UoYPTOPV" text="{?NOTABLE.GENDER}{.f}підступний{.R_adj}, але принаймні не {.f}жорстокий{.R_adj}{?}{.m}підступний{.R_adj_z1}, але принаймні не {.m}жорстокий{.R_adj_z1}{\?}"/>
+    <string id="URWSOAfG" text="{?NOTABLE.GENDER}{.f}садистка{.R_n10}{?}{.m}садист{.R_n20_a}{\?}"/>
     <string id="Vis2eo0Y" text="Got a cruel streak, there's no denying"/>
-    <string id="VnaT2Ipq" text="kind"/>
+    <string id="VnaT2Ipq" text="{.f}добрий{.R_adj} {.f}людина{.R_n10}"/>
     <string id="VujjcI1C" text="That one's got a good heart, there's no denying"/>
-    <string id="WAzdB4DL" text="clever and roguish"/>
+    <string id="WAzdB4DL" text="{?NOTABLE.GENDER}{.f}розумний{.R_adj} і {.f}підступний{.R_adj}{?}{.m}розумний{.R_adj_z1} і {.m}підступний{.R_adj_z1}{\?}"/>
     <string id="WbyybDP6" text="Doesn't always remember those who've done {?NOTABLE.GENDER}her{?}him{\?} a good service"/>
-    <string id="wVfZh5eN" text="possessed of a fierce and dangerous temper"/>
-    <string id="XPU5mqSi" text="cunning"/>
-    <string id="xSbcea2l" text="unreliable"/>
-    <string id="Y8WpovVO" text="decent but cautious"/>
-    <string id="YeK2rAWJ" text="cruel"/>
-    <string id="yl2q8dL8" text="ruthless"/>
-    <string id="Yyw81AGG" text="friendly but manipulative"/>
-    <string id="znOeRtlb" text="a schemer"/>
+    <string id="wVfZh5eN" text="{.f}людина{.R_n10} з диким і небезпечним характером"/>
+    <string id="XPU5mqSi" text="досить {?NOTABLE.GENDER}{.f}хитрий{.R_adj}{?}{.m}хитрий{.R_adj_z1}{\?}"/>
+    <string id="xSbcea2l" text="{?NOTABLE.GENDER}{.f}ненадійний{.R_adj}{?}{.m}ненадійний{.R_adj_z1}{\?}"/>
+    <string id="Y8WpovVO" text="{?NOTABLE.GENDER}{.f}порядний{.R_adj}, але {.f}обережний{.R_adj}{?}{.m}порядний{.R_adj_z1}, але {.m}обережний{.R_adj_z1}{\?}"/>
+    <string id="YeK2rAWJ" text="{?NOTABLE.GENDER}{.f}жорстокий{.R_adj}{?}{.m}жорстокий{.R_adj_z1}{\?}"/>
+    <string id="yl2q8dL8" text="{?NOTABLE.GENDER}{.f}безжалісний{.R_adj}{?}{.m}безжалісний{.R_adj_z1}{\?}"/>
+    <string id="Yyw81AGG" text="{?NOTABLE.GENDER}{.f}доброзичливий{.R_adj}, але {.f}маніпулятивний{.R_adj}{?}{.m}доброзичливий{.R_adj_z1}, але {.m}маніпулятивний{.R_adj_z1}{\?}"/>
+    <string id="znOeRtlb" text="{?NOTABLE.GENDER}{.f}інтриганка{.R_n10}{?}{.m}інтриган{.R_n20_a}{\?}"/>
   </strings>
 </base>
