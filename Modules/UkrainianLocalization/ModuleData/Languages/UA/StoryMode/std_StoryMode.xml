@@ -249,7 +249,7 @@
     <string id="HCA9xOOo" text="Ви маєте правити королівством неімперського походження."/>
     <string id="HDBkwjgf" text="{NOBLE_ANSWER}"/>
     <string id="HddJT1Ve" text="Мене там не було. Але я знаю, що {HERO.LINK} має певні думки з цього приводу."/>
-    <string id="heoCaRIr" text="Ні... Більше ніяких розмов. Убий мене або я вб'ю тебе, ось як це все закінчиться.[ib:warrior][if:convo_bared_teeth]"/>
+    <string id="heoCaRIr" text="Ні... Більше ніяких розмов. Ти вб'єш мене або я тебе, ось як це все закінчиться.[ib:warrior][if:convo_bared_teeth]"/>
     <string id="hFYG3lXw" text="Ну, так дехто називає велику битву під Пендраїком у 1077 році.[ib:normal][if:convo_normal]"/>
     <string id="hGPdLssq" text="Правитель {PLAYER_SUPPORTED_FACTION} прийняв мирну пропозицію від {.S}{FACTION}{.v_rod}."/>
     <string id="HhFHRs7N" text="Створити {?IS_IMPERIAL}імперську фракцію{?}неімперське королівство{\?}"/>
