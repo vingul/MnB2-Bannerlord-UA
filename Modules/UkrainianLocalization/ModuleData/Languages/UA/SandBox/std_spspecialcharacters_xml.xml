@@ -9,7 +9,7 @@
     <string id="2U2Hy2Su" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Світловолосий{.R_adj}{?}{.m}Світловолосий{.R_adj}{\?}"/>
     <string id="3wzexaA7" text="{.CS}{FIRSTNAME}{.CE} {.f}Вовчиця{.R_n10_ko}"/>
     <string id="4GIoPUen" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Мечниця{.R_n10_ko}{?}{.m}Мечник{.R_n20_a}{\?}"/>
-    <string id="6CAbkgS4" text="{.CS}{FIRSTNAME}{.CE} {.m}Стельмах{.R_n20_a}"/>
+    <string id="6CAbkgS4" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}Стельмах{?}{.m}Стельмах{.R_n20_a}{\?}"/>
     <string id="7apnGFz7" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Чорний{.R_adj}{?}{.m}Чорний{.R_adj_z1}{\?}"/>
     <string id="7hrmlfxh" text="з Легіону"/>
     <string id="7lg12a57" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Хоробрий{.R_adj}{?}{.m}Хоробрий{.R_adj_z1}{\?}"/>
