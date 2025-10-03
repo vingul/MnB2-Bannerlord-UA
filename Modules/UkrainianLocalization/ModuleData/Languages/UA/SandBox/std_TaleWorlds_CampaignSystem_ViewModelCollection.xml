@@ -14,7 +14,7 @@
     <string id="154a34f8caccfc833238cc89d38861e8" text="Необхідно: "/>
     <string id="1CXlqb2U" text="Обрати:"/>
     <string id="1l4kpBDK" text="Failed to Apply Changes"/>
-    <string id="1qm74K2t" text="Successful raids by {FACTION}"/>
+    <string id="1qm74K2t" text="Успішні набіги, здійснені {FACTION}{.v_oru}"/>
     <string id="1UbocG5B" text="Відмовитись від своїх прав і обов'язків стосовно цієї вотчини, повернувши її королівству."/>
     <string id="1xf8rHLH" text="У вас немає полонених, яких можна завербувати."/>
     <string id="2abtb4xu" text="Independent"/>
@@ -48,7 +48,7 @@
     <string id="7tKjfMSb" text="Провулки"/>
     <string id="84oSzquz" text="Recently Escaped Captivity"/>
     <string id="88WPmTKH" text="Get Input from the Warehouse"/>
-    <string id="8BJDQe6o" text="Prisoners captured by {FACTION}"/>
+    <string id="8BJDQe6o" text="Полонені, захоплені {FACTION}{.v_oru}"/>
     <string id="8BlMRMiR" text="Horse Tier"/>
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Клас: "/>
     <string id="8fqFGxD9" text="Press {KEY} to compare with: {ITEM}"/>
@@ -102,11 +102,11 @@
     <string id="CaRbMaZY" text="Щоденна платня"/>
     <string id="cbbUzYX3" text="Складність: {DIFFICULTY}"/>
     <string id="cDkHJOkl" text="You need to be in the viewing range, control this settlement with your kingdom or have a clan member in the settlement to see its details."/>
-    <string id="cedvCZ73" text="There is no town owned by {FACTION}"/>
+    <string id="cedvCZ73" text="{FACTION}{.v_dav} не належить жодного міста"/>
     <string id="CExQ40Ux" text="{PARTY_1S_MEMBERS}   "/>
     <string id="cf61cce254c7dca65be9bebac7fb9bf5" text="Броня (руки): "/>
     <string id="CGVK6l8I" text="Champion Benefits"/>
-    <string id="CK68QXen" text="There is no prisoner captured by {FACTION}"/>
+    <string id="CK68QXen" text="Немає полонених, захоплених {FACTION}{.v_oru}"/>
     <string id="Ck9HT8fQ" text="Підсумок"/>
     <string id="cnmRwV4s" text="Ammo Limit"/>
     <string id="CnsIzaWo" text="Field Battle"/>
@@ -135,7 +135,7 @@
     <string id="EkFDvG7z" text="Запаси їжі в поселенні"/>
     <string id="eoVW9z54" text="Середній бойовий дух"/>
     <string id="EQHq3bHM" text="Прямує до {TARGET_PARTY}{.v_rod}"/>
-    <string id="eTxcYvRr" text="Castles conquered by {FACTION}"/>
+    <string id="eTxcYvRr" text="Замки, завойовані {FACTION}{.v_oru}"/>
     <string id="exnL6SS7" text="Attacking {TARGET_SETTLEMENT}"/>
     <string id="F0a7hyp0" text="Ризик повстання"/>
     <string id="f2971dc587a9777223ad2d7be236fb05" text="Торгові плітки"/>
@@ -176,7 +176,7 @@
     <string id="hRSezxnT" text="Деякі з ваших воїнів готові до покращення."/>
     <string id="HTtWslIx" text="Запаси їжі на ринку"/>
     <string id="hTzTMLsf" text="Дальність огляду"/>
-    <string id="huqEEfGD" text="There is no successful raid for {FACTION}"/>
+    <string id="huqEEfGD" text="Жодного успішного набігу від {FACTION}{.v_dav}"/>
     <string id="hwrQqWir" text="No Skills"/>
     <string id="Hz8XO8wk" text="Governors cannot lead a mobile party and be a governor at the same time."/>
     <string id="I2sZ7K28" text="Are you sure want to reset tutorials?"/>
@@ -245,7 +245,7 @@
     <string id="MkVTRqAw" text="Замовлення ({ORDER_COUNT})"/>
     <string id="mountTier" text="Рівень їздової тварини: "/>
     <string id="mp68RYnD" text="Ліміт розміру загону"/>
-    <string id="mSPyh91Q" text="Towns conquered by {FACTION}"/>
+    <string id="mSPyh91Q" text="Міста, завойовані {FACTION}{.v_oru}"/>
     <string id="MT5A04X8" text=" - Swing Damage Type does not match. Should be: {TYPE}"/>
     <string id="myMbtwXi" text="Morale Bonus"/>
     <string id="N63XYX2r" text="Підтримати"/>
@@ -253,7 +253,7 @@
     <string id="NC9bbrt5" text="End-of-day denars"/>
     <string id="NcYbdiyT" text="Change Leader"/>
     <string id="NHZ1jNIF" text="Below Requirements"/>
-    <string id="nKQmaSDO" text="There is no castle conquered by {FACTION}"/>
+    <string id="nKQmaSDO" text="Немає замку, завойованого {FACTION}{.v_oru}"/>
     <string id="NkY3Kq9l" text="Item name cannot contain special characters."/>
     <string id="NLFeyz7m" text="Recently Released From Captivity"/>
     <string id="no0chrAH" text="This workshop has not been running for {DAY} {?PLURAL_DAYS}days{?}day{\?} because the production has not been profitable"/>
@@ -263,7 +263,7 @@
     <string id="NxEy5Nbt" text="Високий ризик повстання"/>
     <string id="nYYUQQm0" text="Swing Damage Factor "/>
     <string id="o5G8A8ZH" text="Ваші динари"/>
-    <string id="o79dIa3L" text="Towns owned by {FACTION}"/>
+    <string id="o79dIa3L" text="Міста, що належить {FACTION}{.v_dav}"/>
     <string id="ocSW4WA2" text="Critical Fail!"/>
     <string id="ODEnkg0o" text="Clan Strength"/>
     <string id="OGbskMfz" text="Доступних частин:"/>
@@ -348,7 +348,7 @@
     <string id="s5b77f0H" text="Add +{BOOSTAMOUNT} cohesion to your army"/>
     <string id="s6koeapc" text="{MAP_FACTION}"/>
     <string id="saHYZKLt" text="В історії виготовлення нічого немає"/>
-    <string id="SDhQWonF" text="Paying {DENAR}{GOLD_ICON} as tribute per day."/>
+    <string id="SDhQWonF" text="Сплачує {DENAR}{GOLD_ICON} як данину щодня."/>
     <string id="SFB2uYHa" text="Alley leader is traveling to the alley. ({LEFT_TIME} {?LEFT_TIME&gt;1}hours{?}hour{\?} left.)"/>
     <string id="sffGeQ1g" text="Gift"/>
     <string id="sFiU3Ss2" text="Клацніть, щоб скинути поворот камери"/>
@@ -434,13 +434,13 @@
     <string id="yUVv3z5V" text="Патрулює біля {TARGET_SETTLEMENT}{.v_rod}."/>
     <string id="yuxBDKgM" text="If you have goods in the warehouse, they will be lost! Are you sure?"/>
     <string id="z2Slmx4N" text="There are still some room for more soldiers. Do you want to proceed?"/>
-    <string id="z3Xg0IaG" text="Castles owned by {FACTION}"/>
+    <string id="z3Xg0IaG" text="Замки, що належать {FACTION}{.v_dav}"/>
     <string id="Z4GdqdgV" text="Item name cannot contain consecutive white spaces."/>
     <string id="z8h0BRAb" text="Keep all holdings"/>
     <string id="zawBaxl5" text="Distance : {DISTANCE}"/>
     <string id="ZcybPatO" text="Weapon Length"/>
     <string id="zduu7dpz" text="Тут нема полонених, доступних для вербування."/>
-    <string id="Zemk86FK" text="There is no town conquered by {FACTION}"/>
+    <string id="Zemk86FK" text="Немає міста, завойованого {FACTION}{.v_oru}"/>
     <string id="zFDoDbNj" text="Кількість"/>
     <string id="zgnEagTJ" text="Halted"/>
     <string id="ZIn8W5ZG" text="Worth"/>
@@ -451,6 +451,6 @@
     <string id="ZUgoQ1Ws" text="Horse Type"/>
     <string id="zWaVxD6T" text="Швидкість загону"/>
     <string id="zZlWRZjO" text="Wars"/>
-    <string id="ZZmlYrgL" text="There is no castle owned by {FACTION}"/>
+    <string id="ZZmlYrgL" text="{FACTION}{.v_dav} не належить жодного замку"/>
   </strings>
 </base>
