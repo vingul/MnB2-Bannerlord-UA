@@ -44,7 +44,7 @@
     <string id="3LHG5Efi" text="{.f}Аяса{.R_n10_ko}"/>
     <string id="3LMFx9dL" text="{.f}Фрідуна{.R_n10_ko}"/>
     <string id="3mdyg3nF" text="{.m}Давобард{.R_n20_a_ke}"/>
-    <string id="3NRUkzaV" text="{.m}Ясуґан{.R_n20_a_ke}"/>
+    <string id="3NRUkzaV" text="Ясуґан"/>
     <string id="3oeb8Bav" text="{.m}Джассід{.R_n20_a_ke}"/>
     <string id="3pgwKPsf" text="{.m}Караїс{.R_n20_a_ke}"/>
     <string id="3RbayfTG" text="{.f}Асцитала{.R_n10_ko}"/>
@@ -169,7 +169,7 @@
     <string id="aYr6ovxb" text="{.m}Раджин{.R_n20_a_ke}"/>
     <string id="b0rI89ob" text="{.f}Хара{.R_n10_ko}"/>
     <string id="B15WfmQT" text="Гізельхільд"/>
-    <string id="b6Ml7BkH" text="{.m}Веронет{.R_n20_a_ke}"/>
+    <string id="b6Ml7BkH" text="Веронет"/>
     <string id="b7PVGEFM" text="{.m}Лаф{.R_n20_a_ke}"/>
     <string id="B7zKKiYQ" text="{.m}Татік{.R_n20_a}"/>
     <string id="b8pMwtQu" text="{.m}Терард{.R_n20_a_ke}"/>
@@ -210,7 +210,7 @@
     <string id="C7aaPCCs" text="{.m}Ваналінд{.R_n20_a_ke}"/>
     <string id="cdQO1eLv" text="{.m}Хассейд{.R_n20_a_ke}"/>
     <string id="cEV3G3k8" text="{.m}Стенальф{.R_n20_a_ke}"/>
-    <string id="CgwHKuzD" text="{.m}Бельтруд{.R_n20_a_ke}"/>
+    <string id="CgwHKuzD" text="Бельтруд"/>
     <string id="CiJB8ISH" text="{.m}Олорун{.R_n20_a_ke}"/>
     <string id="Cj8vDOqR" text="{.m}Рахан{.R_n20_a_ke}"/>
     <string id="cjYLX7sZ" text="{.m}Валішін{.R_n20_a_ke}"/>
@@ -267,7 +267,7 @@
     <string id="eMcQ35QA" text="{.m}Радул{.R_n20_a_ke}"/>
     <string id="Emsd1xmS" text="{.m}Дашвал{.R_n20_a_ke}"/>
     <string id="eNSZGTbN" text="{.m}Дороновінг{.R_n20_a}"/>
-    <string id="eoF4TEr2" text="{.m}Далісет{.R_n20_a_ke}"/>
+    <string id="eoF4TEr2" text="Далісет"/>
     <string id="eOHeCKxn" text="{.f}Джеспара{.R_n10_ko}"/>
     <string id="epxmhQav" text="{.f}Дарія{.R_n10_ko}"/>
     <string id="eRg4Ngl1" text="{.m}Фархазіс{.R_n20_a_ke}"/>
@@ -577,7 +577,7 @@
     <string id="rgskh3ve" text="{.m}Рагід{.R_n20_a_ke}"/>
     <string id="RhwPmahK" text="{.m}Опінатес{.R_n20_a_ke}"/>
     <string id="rjew3J8a" text="фен {.m}Шонель{.R_n20_a}"/>
-    <string id="Rl3D8X2o" text="{.m}Ратегунд{.R_n20_a_ke}"/>
+    <string id="Rl3D8X2o" text="Ратегунд"/>
     <string id="RMoQ7blK" text="{.m}Акадан{.R_n20_a_ke}"/>
     <string id="rmpKsJwg" text="{.m}Нулдан{.R_n20_a_ke}"/>
     <string id="RohgLdMp" text="{.m}Асуган{.R_n20_a_ke}"/>
@@ -762,7 +762,7 @@
     <string id="yJz9AxjY" text="{.f}Рінана{.R_n10_ko}"/>
     <string id="Yl3c9WaM" text="{.m}Саластріс{.R_n20_a_ke}"/>
     <string id="Yl4EsjBg" text="{.f}Друсабальда{.R_n10_ko}"/>
-    <string id="YlVmRzCI" text="{.m}Атафлед{.R_n20_a_ke}"/>
+    <string id="YlVmRzCI" text="Атафлед"/>
     <string id="ynsUwp1h" text="{.m}Денек{.R_n20_a}"/>
     <string id="yrYO33f8" text="Бану {.m}Карам{.R_n20_a}"/>
     <string id="YRzakgRB" text="{.m}Бідаль{.R_n20_a}"/>
@@ -785,7 +785,7 @@
     <string id="zAC87rrQ" text="{.f}Тора{.R_n10_ko}"/>
     <string id="zCaeJ7GC" text="{.m}Тул{.R_n20_a_ke}"/>
     <string id="zcXPVYs5" text="{.f}Детейда{.R_n10_ko}"/>
-    <string id="zDhuJw7r" text="{.m}Таралун{.R_n20_a_ke}"/>
+    <string id="zDhuJw7r" text="Таралун"/>
     <string id="ZEwqRhHO" text="Бану {.m}Хунд{.R_n20_a}"/>
     <string id="ZgGnqkki" text="{.m}Бенісет{.R_n20_a_ke}"/>
     <string id="ZJjgZVHq" text="Ендрі"/>
