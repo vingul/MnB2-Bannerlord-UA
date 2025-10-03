@@ -25,7 +25,7 @@
     <string id="PdvjpThP" text="{.m}Винороб{.R_n20_a}"/>
     <string id="pVjxlT1f" text="{.m}Бровар{.R_n24_a}"/>
     <string id="qF9UGd2S" text="Ми подрібнюємо оливки, а потім вичавлюємо олію, яку використовують для приготування їжі, для запалювання ламп, для мила та для багатьох інших цілей."/>
-    <string id="RLz2b53X" text="{.m}Швець{.R_n24_a}"/>
+    <string id="RLz2b53X" text="{?FEMALE}{.f}Швачка{.R_n10_ko}{?}{.m}Швець{.R_n24_a}{\?}"/>
     <string id="silversmithworker" text="{.m}Срібляр{.R_n24_a}"/>
     <string id="silversmithworkshop" text="{.f}Срібляний{.R_adj} {.f}майстерня{.R_n10}"/>
     <string id="Tj7ErPfn" text="{.f}Гончарня{.R_n10}"/>
