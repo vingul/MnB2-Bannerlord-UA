@@ -240,7 +240,7 @@
     <string id="2v0eQ755" text="Sorry, not interested."/>
     <string id="2vcfifbb" text="I yield"/>
     <string id="2WC42D5D" text="{VALUE}% швидкості побудови облогових знарядь ближнього бою."/>
-    <string id="2wixoeOF" text="{?FEMALE}{.f}Волохатий{.R_adj}{?}{.m}Волохатий{.R_adj_z1}{\?} {FIRSTNAME}"/>
+    <string id="2wixoeOF" text="{?FEMALE}{.f}Волохатий{.R_adj}{?}{.m}Волохатий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="2wmKs6Is" text="As your leader I am able to decide the best course of action."/>
     <string id="2WnhUBMM" text="My lord, may you give me another chance to prove myself?"/>
     <string id="2wwAyZdL" text="{newline} • Золота для армії : {ARMY_GOLD_GAIN}"/>
@@ -256,7 +256,7 @@
     <string id="30hNRt3x" text="Тактика малих загонів"/>
     <string id="33mKghKQ" text="Please don't kill us. We surrender.[rf:idle_angry][ib:nervous]"/>
     <string id="34MdCd6u" text="You have sold the mercenaries to another lord as you promised. {QUEST_GIVER.LINK} is grateful and sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards."/>
-    <string id="36ZmyM8V" text="{FIRSTNAME} {?FEMALE}Урожай{?}{.m}Урожай{.R_n20_a}{\?}"/>
+    <string id="36ZmyM8V" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}Урожай{?}{.m}Урожай{.R_n20_a}{\?}"/>
     <string id="38dcXWzq" text="{newline} • Впливу знаті: {NOTABLE_POWER_LOST_AMOUNT}%"/>
     <string id="38DvG2ba" text="Yeah? What is it now?"/>
     <string id="38W2WloI" text="-50% штрафу до швидкості та +15% до радіуса огляду в лісах."/>
@@ -304,7 +304,7 @@
     <string id="3n1KRLpZ" text="'My love is far \n I know not where \n Perhaps the winds shall tell me'"/>
     <string id="3nbuRBJK" text="Забудь."/>
     <string id="3nfPGbN0" text="Donated prisoners exceed party capacity."/>
-    <string id="3NROvpcO" text="{?FEMALE}{.f}Неквапливий{.R_adj}{?}{.m}Неквапливий{.R_adj_z1}{\?} {FIRSTNAME}"/>
+    <string id="3NROvpcO" text="{?FEMALE}{.f}Неквапливий{.R_adj}{?}{.m}Неквапливий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="3nT5wWzb" text="Здатися."/>
     <string id="3NX8H4TJ" text="Your companion has protected the caravan that belongs to {ISSUE_GIVER.LINK} from {SETTLEMENT} as promised. {?ISSUE_GIVER.GENDER}She{?}He{\?} was happy with your work."/>
     <string id="3O1Pg3Ie" text="На {?CHILD.GENDER}її{?}його{\?} 14-й день народження ви подарували {CHILD.NAME}{.v_dav} особливий подарунок. Ви бачили як {?CHILD.GENDER}вона{?}він{\?} цінує його і тому вірите, що цей подарунок вплине на те, ким {?CHILD.GENDER}вона{?}він{\?} стане. Ви подарували {?CHILD.GENDER}їй{?}йому{\?}..."/>
@@ -923,7 +923,7 @@
     <string id="aIyRxlCf" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} до уміння «Арбалет» воїнам вашого підрозділу."/>
     <string id="aj2R3vnb" text="{VALUE}% шкоди від вершників вашого підрозділу в ближньому бою."/>
     <string id="aJcChHfj" text="What are you planning to do about them?"/>
-    <string id="ajePb62s" text="Quicksilver {FIRSTNAME}"/>
+    <string id="ajePb62s" text="{.CS}{FIRSTNAME}{.CE} {.f}Ртуть{.R_n32}"/>
     <string id="aJHMafam" text="{?PLAYER.GENDER}Madam{?}Sir{\?} - a moment of your time! [if:convo_undecided_open][ib:nervous2]You're on a job for {ISSUE_GIVER.LINK}, am I right? Look - our people are depending on those jobs. {?ISSUE_GIVER.GENDER}She{?}He{\?} doesn't need to pay us a living wage if {?ISSUE_GIVER.GENDER}she{?}he{\?} can do the work with prisoners. Please - break your agreement. You don't have to do this."/>
     <string id="aJLQz9iZ" text="Silver Mine"/>
     <string id="aK23T43P" text="Зберігає запаси їжі, щоб у поселенні було більше їжі. Кожен рівень збільшує місцеві запаси їжі."/>
@@ -1005,7 +1005,7 @@
     <string id="aVWb6aoQ" text="{VALUE}% покращення стосунків з протилежною статтю."/>
     <string id="aW1qO2dN" text="{VALUE}% шансу раз на день покращити стосунки з відомою особою на 1 при вході в село."/>
     <string id="awaFsZ5l" text="I have always stood by {CURRENT_LIEGE.LINK}. Whether {CURRENT_LIEGE.LINK} has stood by me or not is another question..."/>
-    <string id="awCsv4UM" text="Tiny {FIRSTNAME}"/>
+    <string id="awCsv4UM" text="{?FEMALE}{.f}Крихітний{.R_adj}{?}{.m}Крихітний{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="awoeb3br" text="{FACTION_LEADER} will decide if the {KINGDOM_CONSIDERING_PEACE_NAME} will make peace with the {KINGDOM_NAME}. You can pick your stance regarding this decision."/>
     <string id="AWuEV99O" text="{?CHILD.GENDER}вивільнила{?}вивільнив{\?} свій бійцівський дух."/>
     <string id="aWWzrwAw" text="Вартість позбавлення клану вотчини подвоюється{newline}Клани отримують 0,1 впливу за кожну вотчину, якою вони володіють"/>
@@ -1020,7 +1020,7 @@
     <string id="az3K3j4C" text="Зараз ми сильніші за {ENEMY_KINGDOM_INFORMAL_NAME}{.v_zna}. Ми повинні атакувати, поки маємо таку можливість."/>
     <string id="aZ9bME9C" text="Order your men to break up the crowd by force"/>
     <string id="aZaujaHb" text="The guard accepts your offer. He is ready to help you break {PRISONER.NAME} out, if you're willing to pay."/>
-    <string id="AZbJuZwF" text="{FIRSTNAME} Knucklebones"/>
+    <string id="AZbJuZwF" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Картярка{.R_n10_ko}{?}{.m}Картяр{.R_n24_a_ke}{\?}"/>
     <string id="azHy8uwl" text="I will issue a decree to remove the restrictions on the sale of goods."/>
     <string id="azjMBa86" text="{.f}Якісний{.R_adj} {.f}сталь{.R_n32}{@Plural}{.p}Ящик{.R_n20_p} з якісною сталлю{\@}"/>
     <string id="aZjz2GfX" text="Master-at-arms"/>
@@ -1156,7 +1156,7 @@
     <string id="bjNuUqTx" text="With pleasure, {?PLAYER.GENDER}madam{?}sir{\?}. That will cost you {COST}{GOLD_ICON}."/>
     <string id="BJxJwCc5" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. Any brigands would be most unwise to tangle with you."/>
     <string id="bJZJI867" text="Marriage"/>
-    <string id="Bk62qb7O" text="Ironskull {FIRSTNAME}"/>
+    <string id="Bk62qb7O" text="{?FEMALE}{.f}Залізноголовий{.R_adj}{?}{.m}Залізноголовий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="BK9ww4NU" text="{QUEST_GIVER.LINK} asked you to sell {?QUEST_GIVER.GENDER}her{?}his{\?} goods for at least {UNIT_PRICE}{GOLD_ICON} per {UNIT_NAME} and return to {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} told you that any profit that the deal would make above this price is yours to keep. You asked {COMPANION.LINK} to take {TROOP_COUNT} of your best men to go and take care of it. They should report back to you in {RETURN_DAYS} days."/>
     <string id="bKfaMFVK" text="You can also send me a recruiter: a trustworthy companion who is good at leading men, and also enough of a rogue to win the trust of other rogues...[if:convo_undecided_open][ib:confident]"/>
     <string id="bkoJ57h3" text="Увійти до міста"/>
@@ -1215,7 +1215,7 @@
     <string id="BqkD4YWr" text="You manage to round up some men from the village who look like they might make decent recruits."/>
     <string id="BQn8yTs5" text="Ah, yes. I am afraid I can no longer entertain your proposal, at least not for now."/>
     <string id="BQuVWKvq" text="You're welcome. Is there anything we need to discuss?"/>
-    <string id="bqXpBNvF" text="Cinnamon {FIRSTNAME}"/>
+    <string id="bqXpBNvF" text="{.CS}{FIRSTNAME}{.CE} {.f}Кориця{.R_n10_ko}"/>
     <string id="BRaGcALd" text="Hah! Now why would we do that?"/>
     <string id="brDw7ewN" text="You have failed to deliver {GRAIN_AMOUNT} units of grain to the villagers. They won't be able to sow them before the coming winter. The Headman and the villagers are doomed."/>
     <string id="brixvCjC" text="{?CHILD.GENDER}вела{?}вів{\?} за собою караван."/>
@@ -1299,7 +1299,7 @@
     <string id="c63DWZhr" text="You left {FACTION}. Your agreement with {QUEST_GIVER.LINK} is terminated."/>
     <string id="c64TS3NS" text="What are you playing at, {PLAYER.NAME}? Go and make up your mind, and stop wasting my time."/>
     <string id="C6rYWvrb" text="{VALUE}% бонусу до ворожих укріплень, коли воїнів відправляють у бій."/>
-    <string id="c7cdMWA3" text="Buttermilk {FIRSTNAME}"/>
+    <string id="c7cdMWA3" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Маслянка{.R_n10_ko}{?}{.m}Кефір{.R_n20_a_ke}{\?}"/>
     <string id="c7V0ayuX" text="{VALUE}% торгового штрафу в містах вашого королівства."/>
     <string id="c86V0dch" text="{VALUE}% шкоди від піхоти вашого підрозділу."/>
     <string id="C8LhGtUJ" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} характеристик до Контролю."/>
@@ -1339,7 +1339,7 @@
     <string id="cH0iAEfq" text="Please take care of this as quickly as you can. I need those animals.[if:convo_undecided_closed]"/>
     <string id="ch6zCk2w" text="You know me as someone who seeks to avoid bloodshed."/>
     <string id="cHgLxbbc" text="Маневри перед боєм"/>
-    <string id="chiIHo4b" text="Mangy {FIRSTNAME}"/>
+    <string id="chiIHo4b" text="{?FEMALE}{.f}Паршивий{.R_adj}{?}{.m}Паршивий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="chj1X7VP" text="I do not believe we have any quarrel with you."/>
     <string id="ChUDSiJw" text="Витрати на гарнізон та загін"/>
     <string id="Ci8NCwgW" text="{ISSUE_GIVER.LINK} a landowner in {SETTLEMENT}, asked you to train recruits for {?QUEST_GIVER.GENDER}her{?}him{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} gave you {NUMBER_OF_MEN} men, hoping to take them back when once they are veterans.{newline}You sent them with one of your companions {COMPANION.LINK} to hunt down some easy targets. You arranged to meet them in {RETURN_DAYS} days."/>
@@ -1484,7 +1484,7 @@
     <string id="DbraLcwM" text="I need more time to find proper men."/>
     <string id="dbUybDTG" text="Майстерний вершник"/>
     <string id="DbXMSRmA" text="You got too close to the caravan. The bandits saw you and withdrew. {QUEST_GIVER.LINK}'s plan failed and {?QUEST_GIVER.GENDER}she{?}he{\?} will be very upset."/>
-    <string id="DCF2JOiJ" text="Stonehead {FIRSTNAME}"/>
+    <string id="DCF2JOiJ" text="{?FEMALE}{.f}Тупоголовий{.R_adj}{?}{.m}Тупоголовий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="DcoDtW2A" text="Оберіть подарунок"/>
     <string id="dcsschkC" text="Збільшена площа захисту щита від снарядів."/>
     <string id="dCv4Qbr6" text="I don't think you can help me. You don't have enough troops for this task."/>
@@ -1749,7 +1749,7 @@
     <string id="EUBxMVXk" text="Do you have any orders for your alley, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}"/>
     <string id="EuhvSsPZ" text="Good. Keep them busy.[if:convo_normal]"/>
     <string id="EUJaTe2v" text="Who are you? What do you want from us?"/>
-    <string id="EUJlNTrf" text="Pretty {FIRSTNAME}"/>
+    <string id="EUJlNTrf" text="{?FEMALE}{.f}Гарненький{.R_adj}{?}{.m}Гарненький{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="EuwtMZGZ" text="Проявити милосердя {SHOW_MERCY_INFLUENCE_COST_TEXT}"/>
     <string id="EvAubSxs" text="What kind of troops do they make?"/>
     <string id="eVcvaxz6" text="trade good"/>
@@ -2534,7 +2534,7 @@
     <string id="K2gsZOMb" text="Army is disbanded and your mission was canceled."/>
     <string id="K2txLdOS" text="You should have at least {TROOP_COUNT} men ready to fight."/>
     <string id="K31F1yPI" text="Коли ви берете цей клинок в руки, ви майже відчуваєте, як він танцює в руці. Його вістря здатне розрізати міцний стовбур або людську волосину, що летить за вітром. "/>
-    <string id="K4MRSU6i" text="Sleepy {FIRSTNAME}"/>
+    <string id="K4MRSU6i" text="{?FEMALE}{.f}Сонний{.R_adj}{?}{.m}Сонний{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="k5HJ3Ld6" text="You have failed to deliver the supplies in time."/>
     <string id="k63ZKmXX" text="Thank you, {?PLAYER.GENDER}milady{?}sir{\?}! You are a saviour.[if:convo_grateful][ib:normal]"/>
     <string id="k6fpAw92" text="{COMPANION.LINK} has failed to resolve the matter. {NUMBER} troops came back safe and sound."/>
