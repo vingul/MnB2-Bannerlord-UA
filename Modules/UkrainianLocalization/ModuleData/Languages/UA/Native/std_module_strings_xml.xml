@@ -340,7 +340,7 @@
     <string id="aR4e8B2A" text="II"/>
     <string id="archers" text="Стрільці"/>
     <string id="arfabNbu" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {NAME} {?NAME.GENDER}загинула{?}загинув{\?} у битві."/>
-    <string id="arHXmqqc" text="a beg"/>
+    <string id="arHXmqqc" text="{.m}бей{.R_n20_a}"/>
     <string id="ARQY0vAz" text="Can't manage the army during an encounter"/>
     <string id="arWaVMpe" text="We must hit hard and destroy their siege machines."/>
     <string id="aS3xHcD4" text="Син"/>
@@ -909,7 +909,7 @@
     <string id="K2G3XJwZ" text="Hotheaded"/>
     <string id="k3LajvfJ" text="Редактор стягу"/>
     <string id="k6tT1vIg" text="The joust is over and your opponent has bested you this day..."/>
-    <string id="k7ig2JvK" text="барон"/>
+    <string id="k7ig2JvK" text="{.m}барон{.R_n20_a_ke}"/>
     <string id="k8ocninL" text="Stop there - easy now. The great eternal sky has given these lands to us. No one passes through here without our permission."/>
     <string id="k8PxNh7x" text="Shield V"/>
     <string id="k8QpbFnj" text="Cape"/>
@@ -1137,7 +1137,7 @@
     <string id="o2ce7bhY" text="That is wise of you."/>
     <string id="O69Vhqxk" text="So how much are you going to give us?[rf:convo_angry]"/>
     <string id="o7I8qayN" text="Ha! Nothing like a good jab in the gut to let you know you're alive, eh? Looks like you managed to take down {OPPONENT_COUNT} opponents. Not bad. But that won't bring you any prize money. Now, if I were you, I would go back there and show everyone what I can do..."/>
-    <string id="O9xpd5bn" text="баронеса"/>
+    <string id="O9xpd5bn" text="{.f}баронеса{.R_n10_ko}"/>
     <string id="oAg4dtbB" text="двадцять {.m}п'ятий{.R_adj}"/>
     <string id="ObTSCxra" text="Vassal"/>
     <string id="OBXNbvkK" text="As you attempt to force the villagers to give you goods, some of the residents gather to resist you. Fighting them will cause a war with the {KINGDOM}."/>
