@@ -25,7 +25,7 @@
     <string id="0aXG8dvJ" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Данина не сплачуватиметься."/>
     <string id="0B6HlgnN" text="{.CS}{FIRSTNAME}{.CE} {.f}Ящірка{.R_n10_ko}"/>
     <string id="0B91pZ2R" text="Постійне місце, де проходять ярмарки. Громадяни можуть збиратися, випивати, танцювати і спілкуватися, підвищуючи щоденний моральний дух поселення."/>
-    <string id="0bPb5btR" text="{LORD.NAME} є членом {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} з {.S}{FACTION_NAME}{.v_rod} і підтримує {.S}{RULER}{.v_zna} у громадянській війні. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="0bPb5btR" text="{LORD.NAME} є членом {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod} з {.S}{FACTION_NAME}{.v_rod} і підтримує {.S}{RULER}{.v_zna} у громадянській війні. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="0cMibkQO" text="You may know me as a {?PLAYER.GENDER}woman{?}man{\?} of honor."/>
     <string id="0coOJAvg" text="Yes, {?PLAYER.GENDER}madam{?}sir{\?}. Thank you."/>
     <string id="0D1ty8JA" text="Coordination"/>
@@ -510,7 +510,7 @@
     <string id="6cbdm02F" text="Because if you make me angry, you'll wish you were dead long before I actually kill you."/>
     <string id="6CteaPKm" text="{VALUE}% дальності видимості вночі на карті кампанії."/>
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Thank you. My lords see you as an example, and see your conquest of {TARGET_SETTLEMENT} as be a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service and gave you {REWARD}{GOLD_ICON}."/>
-    <string id="6d4ZTvGv" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} королівства. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="6d4ZTvGv" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod} королівства. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="6DQjKwt2" text="Витрати впливу на пропозицію передачі поселення зменшуються на 50% для панівного клану"/>
     <string id="6EaKsRtu" text="Нещасні випадки неминучі, але дитину не лякає вигляд крові. {?CHILD.GENDER}Вона{?}Він{\?} знає, що діяти треба швидко, щоб зупинити кровотечу і запобігти інфікуванню."/>
     <string id="6eHl9Tz4" text="I would like you to serve {PLAYER_FACTION} as mercenary."/>
@@ -785,7 +785,7 @@
     <string id="9mWxhzDG" text="{?CHILD.GENDER}купляла{?}купляв{\?} припаси."/>
     <string id="9NbAzOER" text="спілкування з діловими партнерами."/>
     <string id="9nxTUZkO" text="We do have a problem. Last winter was hard on our animals. A number died from disease, and others were taken by wolves. We'd go to town to buy more, but, well, herds make a tempting target for bandits and we're not really suited to fight them. We can't afford to slaughter even the oldest and weakest of our animals because we need them to pull the plough. Maybe you can help us?[if:convo_grave][ib:demure2]"/>
-    <string id="9Obe3S6L" text="{LORD.FIRSTNAME} є членом {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} з території {.S}{FACTION_NAME}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="9Obe3S6L" text="{LORD.FIRSTNAME} є членом {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod} з території {.S}{FACTION_NAME}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="9P3atGKL" text="Only a faction leader can grant vassalhood. Your relationship with that leader must be at least {RELATION} and you need a Clan Tier of {TIER}."/>
     <string id="9QLPm1o6" text="{?CHILD.GENDER}приєдналась{?}приєднався{\?} до паломництва."/>
     <string id="9qoLQva5" text="Whatever oath I give to you, you may be sure that I will keep it."/>
@@ -2498,7 +2498,7 @@
     <string id="jU084S5S" text="{VALUE}% швидкості прицілювання з лука."/>
     <string id="jukOfT2Z" text="Зовнішні події також вплинули на підлітковий вік {CHILD.NAME}{.v_rod}. Ви вважаєте, що на {?CHILD.GENDER}її{?}його{\?} формування частково вплинули певні події. Зокрема {RANDOM_OUTCOME}. Ця подія покращила {?CHILD.GENDER}її{?}його{\?} уміння в {.S}{SKILL_1}{.v_mis} та {.S}{SKILL_2}{.v_mis}."/>
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
-    <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION}, що підтримує {.S}{RULER}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod}, що підтримує {.S}{RULER}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
     <string id="JuwBb2Yg" text="Disorganized"/>
     <string id="jvic7wfc" text="Bah... Parley's over.[if:idle_angry][ib:warrior] "/>
@@ -3154,7 +3154,7 @@
     <string id="O4iki0FD" text="Правитель отримує 5% податку з усіх поселень{newline}Міста втрачають 1 добробуту на день{newline}Кількість впливу, необхідного для оголошення війни, подвоюється для клану правителя"/>
     <string id="O4KI2lgT" text="My name is {PLAYER.NAME}."/>
     <string id="o57z0zB9" text="Шампур"/>
-    <string id="o5AUljbW" text="{LORD.NAME} є членом {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} з {.S}{FACTION_NAME}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="o5AUljbW" text="{LORD.NAME} є членом {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod} з {.S}{FACTION_NAME}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="O5dgeoss" text="Значні запаси"/>
     <string id="o5rp0ViP" text="{VALUE}% штраф до ціни продажу зброї."/>
     <string id="O5sBO9sQ" text="Багато імперій надавали своєму населенню громадянство, яке зазвичай супроводжувалося низкою прав. Зазвичай, громадянство не могло бути надане завойованим провінціям одразу, допоки населення не продемонструє готовність прийняти спосіб життя імперії, включаючи мову, одяг і релігійні культи."/>
