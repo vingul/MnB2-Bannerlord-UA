@@ -437,7 +437,7 @@
     <string id="5bmlZ26b" text="Торговець зброєю"/>
     <string id="5bSWSaPl" text="Піхотинці на конях"/>
     <string id="5bza9sDs" text="I'm very sorry to hear that. You'll find no better employers than the {FACTION_NAME}, be sure of that."/>
-    <string id="5cH6ssDI" text="a mercenary company"/>
+    <string id="5cH6ssDI" text="{.f}група{.R_n10} найманців"/>
     <string id="5CJOMH90" text="{ARMY} has been disbanded."/>
     <string id="5CJrR0X3" text="{ISSUE_GIVER.LINK} in the village requested crafting materials for their ongoing project."/>
     <string id="5CokRxmL" text="{QUEST_GIVER.LINK}, the headman of the {QUEST_SETTLEMENT} asked you to deliver {GRAIN_AMOUNT} units of grain to {?QUEST_GIVER.GENDER}her{?}him{\?} to use as seeds. Otherwise peasants cannot sow their fields and starve in the coming season. \n \n You have agreed to bring them {GRAIN_AMOUNT} units of grain as soon as possible."/>
@@ -1692,7 +1692,7 @@
     <string id="elKQc0O6" text="Гільдії інженерів"/>
     <string id="elvb5y2I" text="Правитель має право накладати спеціальні податки на торгівлю в містах, які сплачуються безпосередньо до королівської або імперської скарбниці."/>
     <string id="ELxhTMuy" text="Excellent. But please hurry - we need to put the men we hired to work right away. Good luck."/>
-    <string id="EmBEupR5" text="a secret society"/>
+    <string id="EmBEupR5" text="{.n}таємний{.R_adj} {.n}товариство{.R_n2n}"/>
     <string id="EmBla2xa" text="You don't have enough {ITEM}"/>
     <string id="EmJDw5xP" text="Give the landlord a small bribe for his men, and continue to collect revenues with their help."/>
     <string id="emLBsWj6" text="I am terribly sorry. It is practically not possible for us to be married."/>
@@ -2286,7 +2286,7 @@
     <string id="il2khBNl" text="You just looted this party."/>
     <string id="IL3QWZ93" text="{QUEST_GIVER.LINK}, an artisan from {SETTLEMENT}, has told you about local merchant asking ridiculous amounts of money for the raw materials that {?QUEST_GIVER.GENDER}she{?}he{\?} needs to continue {?QUEST_GIVER.GENDER}her{?}his{\?} work. You said that you can bring {?QUEST_GIVER.GENDER}her{?}him{\?} {REQUESTED_AMOUNT} {.%}{?REQUESTED_AMOUNT &gt; 1}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}. {?QUEST_GIVER.GENDER}She{?}He{\?} is willing to pay {REWARD_AMOUNT}{GOLD_ICON} for these items."/>
     <string id="Il7pDS8i" text="People remark on how much {?PLAYER_CHILD}your{?}the{\?} baby resembles {?CHILD.GENDER}her{?}his{\?} parents. {CHILD.NAME} definitely has {?PLAYER_IS_FATHER}your{?}{?CHILD.GENDER}her{?}his{\?} father's{\?}..."/>
-    <string id="IlRC9Drl" text="a religious sect"/>
+    <string id="IlRC9Drl" text="{.f}релігійний{.R_adj} {.f}секта{.R_n10}"/>
     <string id="IM05Jahy" text="{VALUE}% шкоди від дворучної зброї за кожне очко уміння вище 250."/>
     <string id="ImatoO4Y" text="{DURATION_IN_DAYS} required days to complete"/>
     <string id="IMaTTgPJ" text="перемогти свого вчителя з фехтування."/>
@@ -2668,8 +2668,8 @@
     <string id="kxvnA811" text="All right, I will send you someone from my party who fits your bill."/>
     <string id="Ky03jg94" text="Fight"/>
     <string id="kYc90hEl" text="Sorry, but the price is what we agreed on. I can't lower it."/>
-    <string id="KzSeg8ks" text="a noble family"/>
-    <string id="KZxKVby0" text="an organization"/>
+    <string id="KzSeg8ks" text="{.m}знатний{.R_adj} {.m}рід{.R_n21}"/>
+    <string id="KZxKVby0" text="{.f}організація{.R_n10}"/>
     <string id="kzy9Iduz" text="Повна швидкість"/>
     <string id="l0NTCps3" text="As you emerge from captivity, {COMPANION.NAME} is waiting outside and greets you. {?COMPANION.GENDER}She{?}He{\?} says {?COMPANION.GENDER}she{?}he{\?} has returned from {?COMPANION.GENDER}her{?}his{\?} mission with {NUMBER} {?(NUMBER &gt; 1)}troops{?}troop{\?} and they are all ready to rejoin your party."/>
     <string id="L0Oxzkfw" text="Choose the next ruler of {KINGDOM_NAME}"/>
@@ -2891,7 +2891,7 @@
     <string id="MF40cm9k" text="Земельні наділи вважаються радше тимчасовими володіннями, аніж землею, яку лорди можуть законно передати в спадок. На практиці спадкоємці, як правило, отримують родинні вотчини, але за відповідним законом її легко можна відібрати."/>
     <string id="mfAP8Wlq" text="Покинути поселення."/>
     <string id="MFDb5duu" text="Splendid! I suspect that you may, in your line of work, occasionally acquire a few captives. I could possibly take them off your hands. I'd pay you, of course."/>
-    <string id="mfYzCeGR" text="{CHARACTER.NAME} був {.S}{TITLE}{.v_oru} {.S}{CHARACTER_FACTION_SHORT}{.v_rod}. {FURTHER_DETAILS}."/>
+    <string id="mfYzCeGR" text="{CHARACTER.NAME} {?CHARACTER.GENDER}була{?}був{\?} {.S}{TITLE}{.v_oru} {.S}{CHARACTER_FACTION_SHORT}{.v_rod}. {FURTHER_DETAILS}."/>
     <string id="mg0yAzIb" text="{RETIREE.LINK} has retired."/>
     <string id="Mg1PotzO" text="Після нетривалого очікування вартові відчиняють ворота і впускають ваш загін всередину."/>
     <string id="mG9jW8Fp" text="Попросити дозволу увійти до замку."/>
@@ -3100,7 +3100,7 @@
     <string id="Ns315pxY" text="Perhaps we are not meant for each other."/>
     <string id="Nsb6SD4y" text="After receiving word of an upcoming war against {ENEMY_FACTION}, {ARMY_NAME} decided to leave {SETTLEMENT_NAME}."/>
     <string id="nSwkI97I" text="Стіна щитів"/>
-    <string id="nt1ra97u" text="a nomadic clan"/>
+    <string id="nt1ra97u" text="{.m}кочовий{.R_adj} {.m}клан{.R_n20_a}"/>
     <string id="NT5fwUuJ" text="Fording"/>
     <string id="nT6EQGf9" text="This hero is currently solving an issue."/>
     <string id="NtCBRiLH" text="{VALUE}% швидкості зцілення при пересуванні по карті."/>
@@ -3656,7 +3656,7 @@
     <string id="rd229FYG" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} вигнати клан {CLAN} з {.S}{KINGDOM}{.v_rod} за повної підтримки своєї ради."/>
     <string id="Rd3m5kyk" text="You have attacked the caravan."/>
     <string id="RdbLbpgO" text="Витрати на модернізацію замку зменшено на 20%"/>
-    <string id="REWGj2ge" text="a rising new clan"/>
+    <string id="REWGj2ge" text="{.m}новий{.R_adj} {.m}клан{.R_n20_a}, що стрімко розвивається"/>
     <string id="REZyGJGH" text="{VALUE} до добробуту щодня на час будівництва проєкту в підконтрольному поселенні."/>
     <string id="rFESkhK0" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Нарізальниця{.R_n10_ko}{?}{.m}Нарізальник{.R_n20_a}{\?}"/>
     <string id="RFH1lDMj" text="Raided Village Count"/>
