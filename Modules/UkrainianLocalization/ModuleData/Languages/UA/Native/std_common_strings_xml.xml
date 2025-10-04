@@ -514,7 +514,7 @@
     <string id="hometab" text="Головна"/>
     <string id="HqzVBfpl" text="Міські торговці"/>
     <string id="hRHPPQQP" text="Wrapped Headcloth"/>
-    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} was the mother of {PLAYER.LINK}. She was slain when raiders attacked the inn at which her family was staying."/>
+    <string id="hrhvEWP8" text="{PLAYER_MOTHER.NAME} була матір'ю {.S}{PLAYER.LINK}{.v_rad}. Вона загинула, коли розбійники напали на корчму, в якій зупинилася її родина."/>
     <string id="HSlPLC4m" text="{.f}Іра{.R_n10_ko}"/>
     <string id="hunterhorse" text="Hunter"/>
     <string id="HVJ9ax8Z" text="Steppe Robe"/>
@@ -1122,7 +1122,7 @@
     <string id="xKXcqRJI" text="інвестиція грошей в землю."/>
     <string id="XKxeaF0I" text="Dalidos"/>
     <string id="XMTD2clw" text="Рое"/>
-    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} was the father of {PLAYER.LINK}. He was slain when raiders attacked the inn at which his family was staying."/>
+    <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} був батьком {.S}{PLAYER.LINK}{.v_rod}. Він загинув, коли розбійники напали на корчму, в якій зупинилася його родина."/>
     <string id="xnDWqYKW" text="Мисливець"/>
     <string id="Xnngcfg9" text="{.m}Сейн{.R_n20_a_ke}"/>
     <string id="xnoAJwoy" text="Full Helm over Padded Cloth"/>
