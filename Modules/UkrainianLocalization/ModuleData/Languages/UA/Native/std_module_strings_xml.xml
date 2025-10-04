@@ -150,7 +150,7 @@
     <string id="5kS1qjZL" text="There is already an unresolved decision on this settlement."/>
     <string id="5lDYh7wJ" text="You've constructed a barrier against your opponent, but have fewer pawns left. You lost the game!"/>
     <string id="5lT70YJY" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року до вас дійшли чутки про укладання таємного пакту між ворогуючими імперськими фракціями про об'єднання своїх сил проти ворогів імперії."/>
-    <string id="5pGjYBFn" text="Tribute Received"/>
+    <string id="5pGjYBFn" text="Отримано данини"/>
     <string id="5QN7SFNW" text="III"/>
     <string id="5rj7xQE4" text="{.m}Лук{.R_n20_u_zi_p}"/>
     <string id="5S1zPgTm" text="imperial"/>
