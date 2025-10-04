@@ -4689,7 +4689,7 @@
     <string id="Y3lGJT8H" text="{PARTY} Won't attack {FACTION} for {DURATION} {?DURATION&gt;1}days{?}day{\?}."/>
     <string id="y3xguaCc" text="Put your interests and the good of the realm first. There's too much at stake for that."/>
     <string id="y3yN7QyC" text="{LEADER.LINK}, {LIEGE}"/>
-    <string id="y4vyNZxg" text="{FIRSTNAME} Sourwine"/>
+    <string id="y4vyNZxg" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Кислиця{.R_n10_ko}{?}{.m}Кисляк{.R_n20_a_ke}{\?}"/>
     <string id="y52Zz7U9" text="{VALUE}% втрати згуртованості в підконтрольних арміях."/>
     <string id="Y5KXWHJY" text="Дальні постріли"/>
     <string id="Y5ztM8zq" text="My men would feel safer with a good surgeon to aid them in their time of need."/>
@@ -4808,7 +4808,7 @@
     <string id="Ysjh2GF2" text="Hold on to that reward, then. I will bring {?TARGET_HERO.GENDER}her{?}him{\?} alive."/>
     <string id="YT4OvaAG" text="Very well. You may consider yourself under the protection of the {FACTION_NAME}. You have until this time tomorrow to complete your journey, or we may ask for another payment from you."/>
     <string id="yT6XN4Mr" text="Сади"/>
-    <string id="YTAdoNHW" text="{FIRSTNAME} of {VILLAGE_NAME}"/>
+    <string id="YTAdoNHW" text="{.CS}{FIRSTNAME}{.CE} з {.S}{VILLAGE_NAME}{.v_rod}"/>
     <string id="ytdZutjw" text="I will be willing to pay generously {BASE_REWARD}{GOLD_ICON} for each day the caravan is on the road. It will be more than I usually pay for caravan guards, but you look like the type who send a message to these brigands, that my caravans aren't to be messed with.[if:convo_undecided_closed]"/>
     <string id="YtM6vzTI" text="I thank you my {?CONVERSATION_NPC.GENDER}lady{?}lord{\?}."/>
     <string id="yTOVeqYe" text="Declaration of Peace"/>
@@ -4878,7 +4878,7 @@
     <string id="Z6IoX4MH" text="Order your troops to try not to hurt the youth and try to separate the two sides."/>
     <string id="z6vJlozm" text="I am sorry. I don't believe you have the means to support a family.)"/>
     <string id="z7y35aPE" text="Mercenary Offer"/>
-    <string id="z8LbFyNA" text="Dogface {FIRSTNAME}"/>
+    <string id="z8LbFyNA" text="{?FEMALE}Песиголовець{?}{.m}Песиголовець{.R_n22_a_z}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="Z8ntYx0Y" text="Flax Field"/>
     <string id="Z9LWA6A3" text="Заплановані базарні дні приваблюють людей з навколишніх сіл до поселення, і, звичайно, місцевий правитель отримує хороший відсоток від усіх продажів. Це збільшує багатство та податкові надходження в поселенні."/>
     <string id="z9pbB0K5" text="You have successfully delivered the supplies as requested."/>
@@ -4952,7 +4952,7 @@
     <string id="ZNfWXliN" text="I will be honest, my lady. You are but a common adventurer, and by marrying you I give up a chance to forge an alliance with a family of real influence and power."/>
     <string id="zNvjSFaC" text="Pillaging villages is not what I signed up for."/>
     <string id="ZnZAPDMo" text="So be it. You may ply your wit on the carrion-fowl.[if:idle_angry][ib:warrior]"/>
-    <string id="zo13Dkoh" text="Crushfinger {FIRSTNAME}"/>
+    <string id="zo13Dkoh" text="{?FEMALE}{.f}Пальцеломка{.R_n10_ko}{?}{.m}Пальцелом{.R_n20_a_ke}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="zo1shYCL" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}her{?}his{\?} men need a special dagger that should be light and small enough to hide from the city guards. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to forge {REQUESTED_AMOUNT} daggers at the smith of {QUEST_SETTLEMENT}. {?QUEST_GIVER.GENDER}She{?}He{\?} guaranteed to pay at least {REWARD_PER_ITEM} denars for each dagger and he is ready to pay extra depending on the quality of the weapons."/>
     <string id="Zo65bOpH" text="{RULER.NAME} {?RULER.GENDER}вирішила{?}вирішив{\?} передати {.S}{SETTLEMENT}{.v_zna} новому клану за повної підтримки цього рішення з боку своєї ради."/>
     <string id="ZOEamqUd" text="Kingdom of {NAME}"/>
