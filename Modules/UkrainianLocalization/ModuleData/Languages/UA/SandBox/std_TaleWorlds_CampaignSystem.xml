@@ -510,7 +510,7 @@
     <string id="6cbdm02F" text="Because if you make me angry, you'll wish you were dead long before I actually kill you."/>
     <string id="6CteaPKm" text="{VALUE}% дальності видимості вночі на карті кампанії."/>
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Thank you. My lords see you as an example, and see your conquest of {TARGET_SETTLEMENT} as be a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service and gave you {REWARD}{GOLD_ICON}."/>
-    <string id="6d4ZTvGv" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_dav}, {CLAN_DESCRIPTION} королівства. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="6d4ZTvGv" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION} королівства. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="6DQjKwt2" text="Витрати впливу на пропозицію передачі поселення зменшуються на 50% для панівного клану"/>
     <string id="6EaKsRtu" text="Нещасні випадки неминучі, але дитину не лякає вигляд крові. {?CHILD.GENDER}Вона{?}Він{\?} знає, що діяти треба швидко, щоб зупинити кровотечу і запобігти інфікуванню."/>
     <string id="6eHl9Tz4" text="I would like you to serve {PLAYER_FACTION} as mercenary."/>
@@ -2498,7 +2498,7 @@
     <string id="jU084S5S" text="{VALUE}% швидкості прицілювання з лука."/>
     <string id="jukOfT2Z" text="Зовнішні події також вплинули на підлітковий вік {CHILD.NAME}{.v_rod}. Ви вважаєте, що на {?CHILD.GENDER}її{?}його{\?} формування частково вплинули певні події. Зокрема {RANDOM_OUTCOME}. Ця подія покращила {?CHILD.GENDER}її{?}його{\?} уміння в {.S}{SKILL_1}{.v_mis} та {.S}{SKILL_2}{.v_mis}."/>
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
-    <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_dav}, {CLAN_DESCRIPTION}, що підтримує {.S}{RULER}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {CLAN_DESCRIPTION}, що підтримує {.S}{RULER}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
     <string id="JuwBb2Yg" text="Disorganized"/>
     <string id="jvic7wfc" text="Bah... Parley's over.[if:idle_angry][ib:warrior] "/>
@@ -2891,7 +2891,7 @@
     <string id="MF40cm9k" text="Земельні наділи вважаються радше тимчасовими володіннями, аніж землею, яку лорди можуть законно передати в спадок. На практиці спадкоємці, як правило, отримують родинні вотчини, але за відповідним законом її легко можна відібрати."/>
     <string id="mfAP8Wlq" text="Покинути поселення."/>
     <string id="MFDb5duu" text="Splendid! I suspect that you may, in your line of work, occasionally acquire a few captives. I could possibly take them off your hands. I'd pay you, of course."/>
-    <string id="mfYzCeGR" text="{CHARACTER.NAME} was {TITLE} of the {CHARACTER_FACTION_SHORT}. {FURTHER_DETAILS}."/>
+    <string id="mfYzCeGR" text="{CHARACTER.NAME} був {.S}{TITLE}{.v_oru} {.S}{CHARACTER_FACTION_SHORT}{.v_rod}. {FURTHER_DETAILS}."/>
     <string id="mg0yAzIb" text="{RETIREE.LINK} has retired."/>
     <string id="Mg1PotzO" text="Після нетривалого очікування вартові відчиняють ворота і впускають ваш загін всередину."/>
     <string id="mG9jW8Fp" text="Попросити дозволу увійти до замку."/>
@@ -4782,7 +4782,7 @@
     <string id="yNSqDwse" text="Well... I can't argue with that."/>
     <string id="ynwbmuoG" text="{.CS}{FIRSTNAME}{.CE} {.f}Гадюка{.R_n10}"/>
     <string id="YNxGcaJI" text="I want to talk to you about the outlandish prices you're asking for the goods you sell the artisans."/>
-    <string id="YNXK352h" text="{CHARACTER.NAME} was a prominent {.%}{PROFESSION}{.%} from {HOMETOWN}. {FURTHER_DETAILS}."/>
+    <string id="YNXK352h" text="{CHARACTER.NAME} {?CHARACTER.GENDER}була видатною{?}був видатним{/?} {.%}{.S}{PROFESSION}{.v_oru}{.%} з {.S}{HOMETOWN}{.v_rod}. {FURTHER_DETAILS}."/>
     <string id="YOBeOFxY" text="Податки міста, що сплачуються правителю, зменшено на 5%{newline}Вірність міста збільшено на 1 на день"/>
     <string id="yOfrb9Lu" text="Don't wait too long. These are dangerous men. Be careful.[if:convo_nonchalant]"/>
     <string id="YogcurDJ" text="Міцний захисник"/>
