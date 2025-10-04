@@ -4097,7 +4097,7 @@
     <string id="uBcEUdxu" text="Ownership of the fief should remain as it is"/>
     <string id="UBk50qwW" text="{FIRSTNAME} of the Mound"/>
     <string id="ubOtRU3u" text="You have limited access to keep while in disguise."/>
-    <string id="uBT9fuIi" text="Snake-eyes {FIRSTNAME}"/>
+    <string id="uBT9fuIi" text="{?FEMALE}{.f}Зміїноокий{.R_adj}{?}{.m}Зміїноокий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="UbUokDyI" text="Thank you. We'd appreciate it if you got the goods to us as quickly as possible. Good luck![ib:nervous2][if:convo_excited]"/>
     <string id="ubZmYdMn" text="{?FEMALE}{.f}Гнилий{.R_adj}{?}{.m}Гнилий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="uc4M4bhG" text="Well, there is something I want. There is one {?TARGET_HERO.GENDER}lady{?}lord{\?} of the {TARGET_FACTION} with whom I have a long, long relationship. And not a friendly one. Even though we are not now at war, as long as {?TARGET_HERO.GENDER}she{?}he{\?} is free, I know my life and lands are not safe. As I say, it won't be easy at all. But whoever manages to do that, bring {?TARGET_HERO.GENDER}her{?}him{\?} back alive to me, having my gratitude aside, will be a very rich man indeed.[if:convo_grave][ib:closed2]"/>
@@ -4151,7 +4151,7 @@
     <string id="umNyHc3A" text="Проблеми прилеглих сіл"/>
     <string id="uNls3bOP" text="Рівень інформації про слід: {a0}"/>
     <string id="UnQFawna" text="Увійти до в'язниці"/>
-    <string id="uO99raT7" text="Snotnose {FIRSTNAME}"/>
+    <string id="uO99raT7" text="{?FEMALE}{.f}Шмаркачка{.R_n10_ko_p2}{?}{.m}Шмаркач{.R_n20_a}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="uoDuiBZR" text="You cannot assign yourself as a governor"/>
     <string id="UOE7ejgq" text="Here is all I've got. Let's settle up and finish this business."/>
     <string id="uohYIaSw" text="{VALUE}% швидкості будівництва фортифікацій, акведуків і казарм у підконтрольному поселенні."/>
@@ -4648,8 +4648,8 @@
     <string id="xTKHO53L" text="This is outrageous. I declare that from now on that there shall be no price fixing."/>
     <string id="XTmpkNNg" text="{?CHILD.GENDER}спілкувалась{?}спілкувався{\?} з іншими інженерами."/>
     <string id="XTt6gZ7h" text="Do make haste, if you can. As long as those bandits are up there, no traveller is safe![if:convo_grave]"/>
-    <string id="xTtHdTsS" text="Poison {FIRSTNAME}"/>
-    <string id="xudfzjgJ" text="Little {FIRSTNAME}"/>
+    <string id="xTtHdTsS" text="{?FEMALE}{.f}Отруйний{.R_adj}{?}{.m}Отруйний{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
+    <string id="xudfzjgJ" text="{?FEMALE}{.f}Маленький{.R_adj}{?}{.m}Маленький{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="XUS5wNsD" text="I feel like I do all the job and you get your denars."/>
     <string id="xuUbaa9f" text="{VALUE}% платні воїнам дальнього бою в гарнізоні підконтрольного поселення."/>
     <string id="XvC1eLR1" text="Or, if you will not be able to acquire the goods yourself, you can perhaps assign one of your trusted companions to the task. Somewhat with a good understanding of trade and and around {TROOP_NUMBER} {?TROOP_NUMBER}troops{?}troop{\?} could do it easily enough, along with {GOLD_COST}{GOLD_ICON} denars to make the purchases.[ib:normal2][if:convo_undecided_open]"/>
