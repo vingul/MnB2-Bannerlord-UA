@@ -240,7 +240,7 @@
     <string id="2v0eQ755" text="Sorry, not interested."/>
     <string id="2vcfifbb" text="I yield"/>
     <string id="2WC42D5D" text="{VALUE}% швидкості побудови облогових знарядь ближнього бою."/>
-    <string id="2wixoeOF" text="Hairy {FIRSTNAME}"/>
+    <string id="2wixoeOF" text="{?FEMALE}{.f}Волохатий{.R_adj}{?}{.m}Волохатий{.R_adj_z1}{\?} {FIRSTNAME}"/>
     <string id="2wmKs6Is" text="As your leader I am able to decide the best course of action."/>
     <string id="2WnhUBMM" text="My lord, may you give me another chance to prove myself?"/>
     <string id="2wwAyZdL" text="{newline} • Золота для армії : {ARMY_GOLD_GAIN}"/>
@@ -256,7 +256,7 @@
     <string id="30hNRt3x" text="Тактика малих загонів"/>
     <string id="33mKghKQ" text="Please don't kill us. We surrender.[rf:idle_angry][ib:nervous]"/>
     <string id="34MdCd6u" text="You have sold the mercenaries to another lord as you promised. {QUEST_GIVER.LINK} is grateful and sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards."/>
-    <string id="36ZmyM8V" text="{FIRSTNAME} of the Harvest"/>
+    <string id="36ZmyM8V" text="{FIRSTNAME} {?FEMALE}Урожай{?}{.m}Урожай{.R_n20_a}{\?}"/>
     <string id="38dcXWzq" text="{newline} • Впливу знаті: {NOTABLE_POWER_LOST_AMOUNT}%"/>
     <string id="38DvG2ba" text="Yeah? What is it now?"/>
     <string id="38W2WloI" text="-50% штрафу до швидкості та +15% до радіуса огляду в лісах."/>
@@ -304,7 +304,7 @@
     <string id="3n1KRLpZ" text="'My love is far \n I know not where \n Perhaps the winds shall tell me'"/>
     <string id="3nbuRBJK" text="Забудь."/>
     <string id="3nfPGbN0" text="Donated prisoners exceed party capacity."/>
-    <string id="3NROvpcO" text="Slowhand {FIRSTNAME}"/>
+    <string id="3NROvpcO" text="{?FEMALE}{.f}Неквапливий{.R_adj}{?}{.m}Неквапливий{.R_adj_z1}{\?} {FIRSTNAME}"/>
     <string id="3nT5wWzb" text="Здатися."/>
     <string id="3NX8H4TJ" text="Your companion has protected the caravan that belongs to {ISSUE_GIVER.LINK} from {SETTLEMENT} as promised. {?ISSUE_GIVER.GENDER}She{?}He{\?} was happy with your work."/>
     <string id="3O1Pg3Ie" text="На {?CHILD.GENDER}її{?}його{\?} 14-й день народження ви подарували {CHILD.NAME}{.v_dav} особливий подарунок. Ви бачили як {?CHILD.GENDER}вона{?}він{\?} цінує його і тому вірите, що цей подарунок вплине на те, ким {?CHILD.GENDER}вона{?}він{\?} стане. Ви подарували {?CHILD.GENDER}їй{?}йому{\?}..."/>
@@ -555,7 +555,7 @@
     <string id="6REUNz1g" text="Enemy Party:"/>
     <string id="6rweIvZS" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT} offers you to fix 5 tournaments together and share the profit.\n {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to enter 5 tournaments and follow the instructions given by {?QUEST_GIVER.GENDER}her{?}his{\?} associate."/>
     <string id="6RYVOb0c" text="Manager"/>
-    <string id="6tBhhNaC" text="{FIRSTNAME} Rottentooth"/>
+    <string id="6tBhhNaC" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}Гнилозуб{?}{.m}Гнилозуб{.R_n20_a_ke}{\?}"/>
     <string id="6TYsIQav" text="After observing the villagers' hardships, you called back your men so as not put any more burden on them."/>
     <string id="6u3t174w" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} тепер {?PRISONER_LORD.GENDER}вільна{?}вільний{\?}."/>
     <string id="6UKdUrPs" text="The men say the food's running out. We expect them to die for us if needed. Least we can do is let them die on a full belly."/>
@@ -606,7 +606,7 @@
     <string id="7fr8QDYi" text="{QUEST_GIVER.LINK} sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards for a fine job done with the {REWARD}{GOLD_ICON} {?QUEST_GIVER.GENDER}she{?}he{\?} promised."/>
     <string id="7gabTf4P" text="{VALUE}% кращі пропозиції для викупу героїв від посередників."/>
     <string id="7gZo2SY4" text="Різьбяр"/>
-    <string id="7h3wBoIt" text="Bloody {FIRSTNAME}"/>
+    <string id="7h3wBoIt" text="{?FEMALE}{.f}Кривавий{.R_adj}{?}{.m}Кривавий{.R_adj_z1}{\?} {.CS}{FIRSTNAME}{.CE}"/>
     <string id="7H4HQNvF" text="Yes. Some of the families in this village need to raise a bit of money. [if:convo_calm_friendly][ib:normal2]They've put together a herd of {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} to sell in {TARGET_SETTLEMENT}, but with all the banditry on the roads, they can't drive it there on their own. We're not merchants or landowners. We can't afford any losses."/>
     <string id="7Hd5yW7B" text="У дикій природі {?CHILD.GENDER}вона{?}він{\?} відчуває себе як вдома. Вміє рухатися тихо, як {?CHILD.GENDER}кішка{?}кіт{\?}, і має дуже гострий слух та зір."/>
     <string id="7HpfrmIU" text="On a second thought... Now is not the right time to do this."/>
@@ -911,7 +911,7 @@
     <string id="ahpSGaow" text="You hear that your companion {NOTABLE.LINK}, who was separated from you after a battle, is currently in this settlement."/>
     <string id="AHtFRv5T" text="Ігнорування болю"/>
     <string id="ahydRFKe" text="There was someone who called {?INQUIRY_COMPANION.GENDER}herself{?}himself{\?} {INQUIRY_COMPANION.LINK}. Sounds like the kind of person who might interest you, no? {?INQUIRY_COMPANION.GENDER}She{?}He{\?} was headed for {COMPANION_SETTLEMENT}.[rb:positive]"/>
-    <string id="aIaRIsw4" text="Scabby {FIRSTNAME}"/>
+    <string id="aIaRIsw4" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Короста{.R_n10_ko}{?}{.m}Лишай{.R_n20_a}{\?}"/>
     <string id="aiBQo2MR" text="спалах заворушень"/>
     <string id="aIbR4Nr3" text="Sure, but first you will need to pay me and my men {GOLD_AMOUNT} denars for our efforts."/>
     <string id="aih1Y62W" text="You have saved the village."/>
