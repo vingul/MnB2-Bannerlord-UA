@@ -510,7 +510,7 @@
     <string id="6cbdm02F" text="Because if you make me angry, you'll wish you were dead long before I actually kill you."/>
     <string id="6CteaPKm" text="{VALUE}% дальності видимості вночі на карті кампанії."/>
     <string id="6d2VIgH3" text="{QUEST_GIVER.LINK}: Thank you. My lords see you as an example, and see your conquest of {TARGET_SETTLEMENT} as be a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service and gave you {REWARD}{GOLD_ICON}."/>
-    <string id="6d4ZTvGv" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} of the realm. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
+    <string id="6d4ZTvGv" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_dav}, {CLAN_DESCRIPTION} королівства. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="6DQjKwt2" text="Витрати впливу на пропозицію передачі поселення зменшуються на 50% для панівного клану"/>
     <string id="6EaKsRtu" text="Нещасні випадки неминучі, але дитину не лякає вигляд крові. {?CHILD.GENDER}Вона{?}Він{\?} знає, що діяти треба швидко, щоб зупинити кровотечу і запобігти інфікуванню."/>
     <string id="6eHl9Tz4" text="I would like you to serve {PLAYER_FACTION} as mercenary."/>
@@ -2498,7 +2498,7 @@
     <string id="jU084S5S" text="{VALUE}% швидкості прицілювання з лука."/>
     <string id="jukOfT2Z" text="Зовнішні події також вплинули на підлітковий вік {CHILD.NAME}{.v_rod}. Ви вважаєте, що на {?CHILD.GENDER}її{?}його{\?} формування частково вплинули певні події. Зокрема {RANDOM_OUTCOME}. Ця подія покращила {?CHILD.GENDER}її{?}його{\?} уміння в {.S}{SKILL_1}{.v_mis} та {.S}{SKILL_2}{.v_mis}."/>
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
-    <string id="JuPUG5wX" text="{LORD.NAME} is {TITLE} of the {FACTION_NAME} and head of the {CLAN_NAME}, {CLAN_DESCRIPTION} that is backing {RULER} in the civil war. {?LORD.GENDER}She{?}He{\?} has the reputation of being {REPUTATION}."/>
+    <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_dav}, {CLAN_DESCRIPTION}, що підтримує {.S}{RULER}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
     <string id="JuwBb2Yg" text="Disorganized"/>
     <string id="jvic7wfc" text="Bah... Parley's over.[if:idle_angry][ib:warrior] "/>
