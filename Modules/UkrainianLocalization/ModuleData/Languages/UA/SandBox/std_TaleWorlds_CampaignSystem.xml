@@ -543,7 +543,7 @@
     <string id="6NWExCu6" text="Army Created"/>
     <string id="6oevXUSa" text="Let it be known that from this day forward, you are my sworn {?PLAYER.GENDER}follower{?}man{\?} and vassal. I give you my protection and grant you the right to bear arms in my name, and I pledge that I shall not deprive you of your life, liberty or properties except by the lawful judgment of your peers or by the law and custom of the land."/>
     <string id="6OKW8Ba3" text="{ISSUE_GIVER.LINK}, a landowner from {ISSUE_GIVER_SETTLEMENT}, has told you about {?ISSUE_GIVER.GENDER}her{?}his{\?} problems with the herders of {TARGET_SETTLEMENT}. Apparently {?ISSUE_GIVER.GENDER}she{?}he{\?} purchased the right to use a pasture near the village. But some local herders refuse to clear out and are causing problems for {?ISSUE_GIVER.GENDER}her{?}his{\?} herdsmen. You have agreed to send {COMPANION.LINK} along with {NEEDED_MEN_COUNT} of your men to take care of the situation. You expect them to return in {RETURN_DAYS} days."/>
-    <string id="6pCABUme" text="{?CHARACTER.GENDER}She{?}He{\?} died in battle in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
+    <string id="6pCABUme" text="{?CHARACTER.GENDER}Вона загинула{?}Він загинув{\?} у бою в {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="6po3wjFa" text="Okay. I hope you will not regret this."/>
     <string id="6PrmgKXa" text="{CHILD.NAME} is now old enough to play independently with the other children of the estate. You are particularly struck by how {?CHILD.GENDER}she{?}he{\?}..."/>
     <string id="6PSgX2BP" text="Денний мандрівник"/>
@@ -649,7 +649,7 @@
     <string id="7ve3bQxg" text="Weapons From Market"/>
     <string id="7VLmHrgC" text="The Heavens will grant victory to the just![ib:warrior][if:convo_contemptuous]"/>
     <string id="7VUNi3zy" text="{QUEST_GIVER.LINK} will make payment as {MEAT_AMOUNT} meat when the task is done."/>
-    <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}She{?}He{\?} died in childbirth in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
+    <string id="7Vw6iYNI" text="{?CHARACTER.GENDER}Вона померла {?}Він помер{\?} під час пологів в {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="7XR4MJci" text="{QUEST_GIVER.LINK}, a landowner in {SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs prisoners to use in {?QUEST_GIVER.GENDER}her{?}his{\?} mines as manual laborers. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring at least {NEEDED_PRISONER_AMOUNT} bandit prisoners, but {?QUEST_GIVER.GENDER}she{?}he{\?} will pay extra if you bring more. You have agreed to bring {?QUEST_GIVER.GENDER}her{?}him{\?} at least {NEEDED_PRISONER_AMOUNT} bandit prisoner and you will be paid ten times more than their market price for each prisoner you bring."/>
     <string id="7yOCFsG5" text="{VALUE}% шкоди від воїнів вашого підрозділу на рівнинах, степах і пустелях."/>
     <string id="82aiVoV9" text="You will regret this in the long run...[ib:closed2][if:convo_angry]"/>
@@ -794,7 +794,7 @@
     <string id="9Sa3bzlE" text="{.CS}{FIRSTNAME}{.CE} {.n}Ковадло{.R_n2n}"/>
     <string id="9sdTLp49" text="The master artisan supervises the work of any smiths, carpenters or masons that you hire. {?PLAYER_CHILD}Your{?}The{\?} child will join in the hard work and learn both stamina and craftsmanship."/>
     <string id="9tLYXGGc" text="{FAILURE_RISK}% risk of failure"/>
-    <string id="9Tq3IAiz" text="{?CHARACTER.GENDER}She{?}He{\?} was executed in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
+    <string id="9Tq3IAiz" text="{?CHARACTER.GENDER}Вона була страчена{?}Він був страчений{\?} в {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="9u9OEZ9Y" text="Splendid. My men will guide your companion to the hideout."/>
     <string id="9UABeRWO" text="Yes. Here is your grain."/>
     <string id="9vOZWY25" text="What an exciting result! I will definitely miss these tournaments. Well, maybe after some time goes by and memories get a little hazy we can continue. Here is the last payment. Very well deserved.[if:convo_happy][ib:demure]"/>
@@ -2186,7 +2186,7 @@
     <string id="Ht3S4nvm" text="Let's do some diagnostics about your faction."/>
     <string id="HtHcEv7N" text="{newline} • Зміна бойового духу загону : {MORALE_CHANGE}"/>
     <string id="hU5j7b3e" text="I am sure your men are as capable as you are and will look after my caravan. Thanks again for your help, my friend.[if:convo_focused_happy]"/>
-    <string id="HU5n5KTW" text="{?CHARACTER.GENDER}She{?}He{\?} died of natural causes in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
+    <string id="HU5n5KTW" text="{?CHARACTER.GENDER}Вона померла{?}Він помер{\?} від природних причин в {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="hv18SprX" text="{VALUE}% швидкості побудови облогових знарядь дальнього бою."/>
     <string id="hv1ARuaU" text="{HERO.NAME} is in prison right now."/>
     <string id="HVdZI3C1" text="Right now I'm working for {EMPLOYER}."/>
@@ -2798,7 +2798,7 @@
     <string id="LR6Y57Rq" text="Attackers abandoned the siege."/>
     <string id="Lr7TZOFL" text="{VALUE}% шансу втечі полонених лордів з вашого загону."/>
     <string id="Lrm17UNm" text="{VALUE}% швидкості відновлення витривалості для ковальства."/>
-    <string id="LsBCQtVX" text="{?CHARACTER.GENDER}She{?}He{\?} died of war-wounds in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
+    <string id="LsBCQtVX" text="{?CHARACTER.GENDER}Вона померла{?}Він помер{\?} від отриманих на війні поранень у {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="lsBuV9W7" text="You are waiting in the village."/>
     <string id="lsddqaAx" text="{?CHILD.GENDER}дізналась{?}дізнався{\?}, що таке чесна праця."/>
     <string id="lSebD5Fa" text="{VALUE}% шансу втечі при ув'язненні загонами, що перебувають в русі."/>
@@ -3787,7 +3787,7 @@
     <string id="sA2OrT6l" text="Без тягаря"/>
     <string id="SA4JbVo2" text="Your steward acts as magistrate in the lord's absence. {?PLAYER_CHILD}Your{?}The{\?} child will sit at his side as he rules on land disputes, family feuds, and cases of alleged banditry, giving {?CHILD.GENDER}her{?}him{\?} a look at the darker side of life in Calradia."/>
     <string id="sAobCa9U" text="Brigands are disturbing travelers outside the town. Someone needs to hunt them down."/>
-    <string id="SausWqM5" text="{?CHARACTER.GENDER}She{?}He{\?} disappeared in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
+    <string id="SausWqM5" text="{?CHARACTER.GENDER}Вона зникла{?}Він зник{\?} у {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="sAv1co78" text="{VALUE}% щоденного шансу покращити відношення з відомою особою на 1, коли ви входите до міста."/>
     <string id="sBahcJcl" text="Idle."/>
     <string id="SbbAhpTu" text="He is yet to prove himself actually."/>
@@ -4019,7 +4019,7 @@
     <string id="ttpan5jp" text="{CURRENT_LIEGE.LINK} and I have been through a great deal together."/>
     <string id="TtwAoHfw" text="Майстер меча"/>
     <string id="Tu1Sd2qg" text="Допитливий плавильник"/>
-    <string id="TUDAvcTR" text="{?CHARACTER.GENDER}She{?}He{\?} was assassinated in {YEAR} at the age of {CHARACTER.AGE}. {?CHARACTER.GENDER}She{?}He{\?} was reputed to be {REPUTATION}"/>
+    <string id="TUDAvcTR" text="{?CHARACTER.GENDER}Вона була убита{?}Він був убитий{\?} у {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="TuIyqMWG" text="The artisans and the merchants are at each other's throats right now. I bet {QUEST_GIVER.NAME} is planning something."/>
     <string id="TuqmbbqB" text="Ah, yes. Unfortunately, this is no discussion to be had while I am captive. We shall discuss our future after I am freed from these chains."/>
     <string id="tuv1O7ig" text="Витиснути всі соки"/>
