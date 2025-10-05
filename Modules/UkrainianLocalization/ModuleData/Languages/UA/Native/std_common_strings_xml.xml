@@ -17,8 +17,8 @@
     <string id="0SpLcthg" text="{.f}Булава{.R_n10_p1} горян з зубцями"/>
     <string id="0SsLGsXk" text="Long Padded Robe"/>
     <string id="0Suu1Q9q" text="Ваш батько був управителем у місцевого вельможі. Він доглядав за його володіннями, вирішував суперечки в селі та допомагав тренувати сільських рекрутів. Сам він бився в лицарських обладунках у кавалерійському загоні свого господаря."/>
-    <string id="0XEaaoah" text="Rosazia"/>
-    <string id="11KckWau" text="Mitara"/>
+    <string id="0XEaaoah" text="{.f}Розація{.R_n10_ko}"/>
+    <string id="11KckWau" text="{.f}Мітара{.R_n10_ko}"/>
     <string id="18NtjryL" text="Not yet, but I will soon."/>
     <string id="1bdDdwub" text="Nasalhelm over Mail"/>
     <string id="1Bm1Wk1v" text="{.f}Піхота{.R_n10}"/>
@@ -50,9 +50,9 @@
     <string id="2m1kWsao" text="Leather Studded Helm over Thinhide"/>
     <string id="2MdVVkVL" text="Kettle Hat over Padded Coif"/>
     <string id="2N0ZP2GB" text="Helmet with Turban and Coif"/>
-    <string id="2OJEyP0d" text="Dasys"/>
+    <string id="2OJEyP0d" text="{.m}Дазіс{.R_n20_a_ke}"/>
     <string id="2OqAomZy" text="{.m}Орагур{.R_n20_a_ke}"/>
-    <string id="2oy7atk6" text="Lundana"/>
+    <string id="2oy7atk6" text="{.f}Лундана{.R_n10_ko}"/>
     <string id="2qisE5ys" text="Kettle Helmet over Padded Cap"/>
     <string id="2SDWhGmQ" text="Ваша родина належала до числа бідних мігрантів, які жили в нетрях, що виростали за стінами річкових міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких було досить багато в тих місцях."/>
     <string id="2TptWc4m" text="Свита барона"/>
@@ -78,7 +78,7 @@
     <string id="4AfHO0BA" text="Sleeveless Studded Fur Armor"/>
     <string id="4B2i8oxo" text="Coat with Mirrored Belt"/>
     <string id="4BfbPgkY" text="Nasal Cervelliere over Padded Cap"/>
-    <string id="4C4WiTb2" text="Varyag"/>
+    <string id="4C4WiTb2" text="{.m}Варяг{.R_n20_a_ke}"/>
     <string id="4cHMe6H2" text="Decorated Hauberk"/>
     <string id="4cU98rkg" text="Переплавлення"/>
     <string id="4Dd2xgPm" text="Weight"/>
@@ -103,14 +103,14 @@
     <string id="51EcVnzd" text="Visored Helmet over Laced Coif"/>
     <string id="564PHXk3" text="Decorated Leather Harness"/>
     <string id="5c4cHL9Z" text="Khuzait Battle Crown"/>
-    <string id="5DSafcSC" text="Konane"/>
-    <string id="5EiKEdi5" text="Dorion"/>
+    <string id="5DSafcSC" text="Конане"/>
+    <string id="5EiKEdi5" text="{.m}Доріон{.R_n20_a_ke}"/>
     <string id="5eTb2xr7" text="{.m}Саніон{.R_n20_a_ke}"/>
     <string id="5HXS8HEY" text="винятковою силою."/>
     <string id="5k4dxUEJ" text="Воїни"/>
     <string id="5kbeAC7k" text="У понівеченій війною Кальрадії, а особливо на прикордонних територіях та територіях племен, деякі жінки, як і чоловіки, вчаться воювати з раннього віку. Ви..."/>
     <string id="5n4rWI9T" text="Spiked Helmet with Facemask"/>
-    <string id="5nEh20ju" text="Vasylops"/>
+    <string id="5nEh20ju" text="{.m}Васілопс{.R_n20_a_ke}"/>
     <string id="5P0KqBAw" text="Ваша родина обробляла землю в одному з оазисів Нахаси та доглядала за пальмовими садами, які давали фініки знамениті у всій пустелі. Ваш батько був членом головного піхотного загону свого племені та воював разом зі своїми родичами під стягом еміра."/>
     <string id="5QSGoRFj" text="Ваша родина з покоління в покоління обробляла один з невеликих клаптиків ріллі в степу. Коли прийшли хузаїти, вони перестали платити податки імператорові та давати рекрутів для його армії, а натомість почали служити ханові."/>
     <string id="5rj7xQE4" text="{.m}Лук{.R_n20_u_zi_p}"/>
@@ -119,7 +119,7 @@
     <string id="5tbWdY1j" text="Аватар"/>
     <string id="5Unqsx3N" text="Підтвердити"/>
     <string id="5VzWRMTn" text="{.m}Артімендрос{.R_n20_a_ke}"/>
-    <string id="5yFy4U4i" text="Morynon"/>
+    <string id="5yFy4U4i" text="{.m}Морінон{.R_n20_a_ke}"/>
     <string id="63TAYbkx" text="Міська варта проводить більшу частину свого часу охороняючи стіни. Велика частина їхньої підготовки присвячена тренуванню зі стрілецькою зброєю, яка особливо ефективна при облогах."/>
     <string id="64rWqBLN" text="Ви уникнули служби в одному з головних армійських підрозділів вашого королівства, замість цього, ви приєднались до його обозу, в якому перевозили дружин, коханок і слуг, а також тих, хто заробляє собі на життя турботою, розвагою або обманом солдатів."/>
     <string id="651FhzdR" text="Міські торговці"/>
@@ -131,16 +131,16 @@
     <string id="6GSXsdeX" text="Швидкість"/>
     <string id="6hwZwODh" text="Glaive"/>
     <string id="6LFj919J" text="Ви допомагали копати колодязі, ремонтувати будинки та лагодити зламані плуги. Ви дізналися про основи будівництва, а також про те, що необхідно для успішного ведення сільського господарства."/>
-    <string id="6LMiTKZz" text="Lamenon"/>
+    <string id="6LMiTKZz" text="{.m}Ламенон{.R_n20_a_ke}"/>
     <string id="6n44BIll" text="Pointed Skullcap over Laced Coif"/>
     <string id="6P1ruzsC" text="Maybe..."/>
     <string id="6pNrNj93" text="Стіна"/>
-    <string id="6vtmYjTW" text="Jolanna"/>
+    <string id="6vtmYjTW" text="{.f}Джоланна{.R_n10_ko}"/>
     <string id="6XxiMU52" text="{.m}Шкіряний{.R_adj} {.m}табард{.R_n20_u} поверх кольчуги"/>
     <string id="79ElOr2x" text="Horse Trader"/>
     <string id="7AFlpaem" text="{STR1} {STR2}"/>
     <string id="7AYJ3SjK" text="Ваша родина домовилася, щоб ви супроводжували вождя вашого народу. На вас не покладалися серйозні обов'язки - здебільшого ви передавали повідомлення і доглядали за його конем. Але це дало вам можливість побачити, як планують походи і як ведуть людей у битву."/>
-    <string id="7b8Cwogx" text="Aketon"/>
+    <string id="7b8Cwogx" text="{.m}Акетон{.R_n20_a_ke}"/>
     <string id="7cHsIMLP" text="Ви ніколи не змогли б самостійно купити собі спорядження, але оскільки ви були достатньо хорошим вершником, місцевий лорд позичив вам коня і спорядження. Ви приєдналися до загону важкої кавалерії, тренуючись володіти лицарським списом."/>
     <string id="7D3jvAfS" text="Hide Cap"/>
     <string id="7dAy51ln" text="Cervelliere over Arming Coif"/>
