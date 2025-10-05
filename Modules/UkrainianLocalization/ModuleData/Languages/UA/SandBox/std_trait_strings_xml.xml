@@ -9,7 +9,7 @@
     <string id="2oLzxPGu" text="{?NOTABLE.GENDER}{.f}агресивний{.R_adj} і дуже {.f}вимогливий{.R_adj_z1} до людей{?}{.m}агресивний{.R_adj_z1} і дуже {.m}вимогливий{.R_adj_z1} до людей{\?}"/>
     <string id="3ojhI49j" text="{?NOTABLE.GENDER}{.f}холодний{.R_adj}{?}{.m}холодний{.R_adj_z1}{\?}"/>
     <string id="4Kb43rdf" text="{?NOTABLE.GENDER}{.f}вірний{.R_adj}{?}{.m}вірний{.R_adj_z1}{\?}"/>
-    <string id="52I465OW" text="{?NOTABLE.GENDER}{.f}амбітний{.R_adj} і {.f}маніпулятивний{.R_adj}{?}{.m}амбітний{.R_adj_z1} і {.m}маніпулятивний{.R_adj_z1}{\?}"/>
+    <string id="52I465OW" text="{?NOTABLE.GENDER}{.f}честолюбний{.R_adj} і {.f}маніпулятивний{.R_adj}{?}{.m}честолюбний{.R_adj_z1} і {.m}маніпулятивний{.R_adj_z1}{\?}"/>
     <string id="5L4ox55u" text="Always the first to put {?NOTABLE.GENDER}her{?}his{\?} neck on the line for the cause"/>
     <string id="5ogR7oUW" text="{?NOTABLE.GENDER}{.f}шляхетний{.R_adj} і {.f}великодушний{.R_adj}{?}{.m}шляхетний{.R_adj_z1} і {.m}великодушний{.R_adj_z1}{\?}"/>
     <string id="6okDQlyn" text="{?NOTABLE.GENDER}{.f}обережний{.R_adj}{?}{.m}обережний{.R_adj_z1}{\?}"/>
@@ -22,8 +22,8 @@
     <string id="aDkmS7iN" text="{.f}безрозсудний{.R_adj} {.f}людина{.R_n10}, яка спочатку діє, а потім думає"/>
     <string id="AgE2Wffg" text="{.m}хороший{.R_adj_z1} {.m}друг{.R_n20_a}, але {.m}небезпечний{.R_adj_z1} {.m}ворог{.R_n20_a}"/>
     <string id="aLO7V5ZZ" text="{?NOTABLE.GENDER}She{?}He{\?}'s honest, there's no denying that, but a heart of stone"/>
-    <string id="bSQF8nac" text="{?NOTABLE.GENDER}{.f}амбітний{.R_adj}{?}{.m}амбітний{.R_adj_z1}{\?}"/>
-    <string id="bYa051Bs" text="{?NOTABLE.GENDER}{.f}підступний{.R_adj}, {.f}агресивний{.R_adj} та {.f}амбітний{.R_adj}{?}{.m}підступний{.R_adj_z1}, {.m}агресивний{.R_adj_z1} та {.m}амбітний{.R_adj_z1}{\?}"/>
+    <string id="bSQF8nac" text="{?NOTABLE.GENDER}{.f}честолюбний{.R_adj}{?}{.m}честолюбний{.R_adj_z1}{\?}"/>
+    <string id="bYa051Bs" text="{?NOTABLE.GENDER}{.f}підступний{.R_adj}, {.f}агресивний{.R_adj} та {.f}честолюбний{.R_adj}{?}{.m}підступний{.R_adj_z1}, {.m}агресивний{.R_adj_z1} та {.m}честолюбний{.R_adj_z1}{\?}"/>
     <string id="CaSahkj4" text="{?NOTABLE.GENDER}{.f}безчесний{.R_adj}{?}{.m}безчесний{.R_adj_z1}{\?} у всіх відношеннях"/>
     <string id="CUR5ZZtd" text="{?NOTABLE.GENDER}{.f}справедливий{.R_adj}, але {.f}безжальний{.R_adj}{?}{.m}справедливий{.R_adj_z1}, але {.m}безжальний{.R_adj_z1}{\?}"/>
     <string id="Dkmja15D" text="Can't be trusted."/>
