@@ -1324,7 +1324,7 @@
     <string id="rDnWQL87" text="Show/Hide Scabbard"/>
     <string id="RdsbyNE2" text="Розглянути можливість укладення миру, сплачуючи {TRIBUTE} данини/день (Підтримка: {SUPPORT}%)"/>
     <string id="REdb7vbQ" text="{?RULER.GENDER}Sultana{?}Sultan{\?} {RULER.NAME}"/>
-    <string id="rFvEZJu7" text="{ITEM_NAME} has been added to {PLAYER.LINK}'s inventory."/>
+    <string id="rFvEZJu7" text="{ITEM_NAME} додано до інвентарю {.S}{PLAYER.LINK}{.v_rod}."/>
     <string id="rgmnL6sF" text="Desert Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
     <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to help defend the settlement from attackers."/>
     <string id="RGqPxabq" text="Влада"/>
@@ -1570,7 +1570,7 @@
     <string id="WHED64rw" text="A new troop will be available here after some time."/>
     <string id="WHtINdhX" text="двадцять {.m}третій{.R_adj}"/>
     <string id="WhuufgY5" text="Notable Relations"/>
-    <string id="wib91252" text="Profession: {PROFESSION}"/>
+    <string id="wib91252" text="Професія: {PROFESSION}"/>
     <string id="wifebrotherinlaw" text="brother-in-law"/>
     <string id="wifefatherinlaw" text="father-in-law"/>
     <string id="wifemotherinlaw" text="mother-in-law"/>
@@ -1741,7 +1741,7 @@
     <string id="zruLFJDG" text="Defending settlements has a higher weight in decisions. The party will also pursue enemies for a shorter distance."/>
     <string id="ztP8UKb8" text="Choose Infantry"/>
     <string id="ZuLa12aT" text="That's the spirit... We're a band of bastards that you really don't want to mess with.[rf:convo_bemused]"/>
-    <string id="Zuq5mO5e" text="Talk to Party Leader"/>
+    <string id="Zuq5mO5e" text="Поговорити з лідером загону"/>
     <string id="ZuRzP6kF" text="You cannot gather an army while in battle"/>
     <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}"/>
     <string id="ZvoyX6DX" text="Battanian"/>
