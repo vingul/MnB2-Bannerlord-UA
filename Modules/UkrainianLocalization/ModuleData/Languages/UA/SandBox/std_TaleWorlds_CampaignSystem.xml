@@ -518,13 +518,13 @@
     <string id="6ETg3maz" text="Авторитетний командир"/>
     <string id="6ex96ekx" text="{VALUE}% штрафу при укладанні угод з лордами іншого походження."/>
     <string id="6GhWT4vi" text="I repeat: Yield or fight!"/>
-    <string id="6gjSupBN" text="{FIRSTNAME} Mutton-pie"/>
+    <string id="6gjSupBN" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Тефтеля{.R_n10_ko}{?}{.m}Пиріг{.R_n21_a_zi_ke}{\?}"/>
     <string id="6gvDrbe7" text="Витрати на наймання"/>
     <string id="6i7a1c4E" text="Very well. Death before dishonor![if:idle_angry][ib:warrior]"/>
     <string id="6IKKFH3A" text="You have received a message and a large purse from {QUEST_GIVER.LINK}. The missive reads: ”The herd is safe. Thank you, and please accept these {REWARD}{GOLD_ICON} with our gratitude.”."/>
     <string id="6iLxrDBa" text="You have accepted {QUEST_GIVER.LINK}'s request to find at least {TOTAL_COUNT} different parties of brigands around {QUEST_SETTLEMENT} and decided to hunt them down personally. {?QUEST_GIVER.GENDER}She{?}He{\?} will reward you {AMOUNT}{GOLD_ICON} gold once you have dealt with them."/>
     <string id="6jgjJ3Ts" text="допомагатиме кожному, хто цього потребує."/>
-    <string id="6jrl3Rbb" text="{FIRSTNAME} Fishsauce"/>
+    <string id="6jrl3Rbb" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Юшка{.R_n10_ko}{?}{.m}Соус{.R_n20_a_ke}{\?}"/>
     <string id="6kaia5qP" text="Give me all your wares!"/>
     <string id="6KbDn1HS" text="I shall heed your judgements and pay you the tribute that is your due, so that this land may have a strong protector."/>
     <string id="6kJ31qut" text="Yeah, well, some people here are a bit short of money these days. [if:convo_calm_friendly][ib:normal]They've put together a herd of {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} to sell in {TARGET_SETTLEMENT}. But they're poor folks. Not really fighters, and they can't afford to hire guards. If they go there by themselves they'd be sitting ducks for any bandits."/>
