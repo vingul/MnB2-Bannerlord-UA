@@ -192,7 +192,7 @@
     <string id="79cOhac4" text="That'll do. For now, anyway. Travel safe - and I hope to see you again.[ib:closed][rf:convo_bemused]"/>
     <string id="7a3aryUB" text="Animal"/>
     <string id="7acrOvmJ" text="Ranged Weapons I"/>
-    <string id="7AOOQ5iB" text="Despite the hardship, you hear few murmurs of complaint, and people seem to trust their rulers to lead them through adversity."/>
+    <string id="7AOOQ5iB" text="Незважаючи на труднощі, ви мало чуєте якихось нарікань, і люди, здається, довіряють своїм правителям провести їх крізь усі ці негаразди."/>
     <string id="7aYV4L9z" text="+{NUMBER}"/>
     <string id="7b60SOvI" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {KING_NAME} {?IS_KING_MALE}отримав{?}отримала{\?} титул {TITLE_NAME}."/>
     <string id="7chepLLh" text="Destroy siege weapons{?IS_GENERAL_SIDE}{?} on {SIDE_STRING} side{\?}"/>
