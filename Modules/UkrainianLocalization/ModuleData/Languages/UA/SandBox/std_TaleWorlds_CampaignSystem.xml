@@ -2449,7 +2449,7 @@
     <string id="JJQ0Hp4m" text="Прибув посланець з {MAP_FACTION_NAME}{.v_rod}. {MAP_FACTION_NAME} буде платити вам щодня {GOLD_AMOUNT} {GOLD_ICON} данини лиш би завершити війну між вашими королівствами. Ваші васали довірили вам прийняти рішення."/>
     <string id="jjTcNhKE" text="Have you been able to find any bandits yet?[if:convo_undecided_open]"/>
     <string id="Jk3mDlU6" text="Yeah... I've got some problems. A few years ago, I needed hides for my tannery and I hired some hunters. I didn't ask too many questions about where they came by the skins they sold me. Well, that was a bit of mistake. Now they've banded together as a gang and are trying to muscle me out of the leather business.[ib:closed2][if:convo_thinking]"/>
-    <string id="jKHkGzUn" text="As agreed, {SELECTED_ITEM_COUNT} {?IS_PLURAL}{.%}{PLURAL(SELECTED_ITEM)}{.%} have been{?}{.%}{SELECTED_ITEM}{.%} has been{\?} added to your inventory."/>
+    <string id="jKHkGzUn" text="Як і було домовлено, {SELECTED_ITEM_COUNT} {?IS_PLURAL}{.%}{PLURAL(SELECTED_ITEM)}{.%}{?}{.%}{.S}{SELECTED_ITEM}{.v_rod}{.%}{\?} додано до вашого інвентарю."/>
     <string id="jKUmtH7z" text="{VALUE}% споживання їжі бандитами у вашому загоні."/>
     <string id="jKWJpIES" text="{JOIN_ENCOUNTER_TEXT}. Ви вирішуєте..."/>
     <string id="jkYQmtIF" text="You need to have at least {GOLD_AMOUNT}{GOLD_ICON} to pay for the expenses beforehand."/>
