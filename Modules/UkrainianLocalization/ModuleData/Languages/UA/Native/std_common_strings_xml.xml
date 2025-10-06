@@ -404,17 +404,17 @@
     <string id="es0Y3Bxc" text="Приєднатись"/>
     <string id="etG87fB7" text="зі своїм репетитором."/>
     <string id="eTw2aNV5" text="+"/>
-    <string id="Ew69yN84" text="Juthys"/>
+    <string id="Ew69yN84" text="{.m}Джутіс{.R_n20_a_ke}"/>
     <string id="eWf7bFGo" text="Fur Armor with Strap"/>
     <string id="EWR2MNeM" text="Nasal Helmet with Mail"/>
     <string id="ewSpZ10R" text="Rough Padded Cap"/>
     <string id="ExjMoUiT" text="{.f}Твердий{.R_adj} {.f}деревина{.R_n10}{@Plural}{.p}Колода{.R_n10_p1} твердої деревини{\@}"/>
     <string id="EXLY9mEb" text="Reinforced Large Round Shield"/>
     <string id="EZ19JOGj" text="Дім {MENTOR.NAME}{.v_rod}"/>
-    <string id="F13aYbuk" text="Lavalios"/>
+    <string id="F13aYbuk" text="{.m}Лаваліос{.R_n20_a_ke}"/>
     <string id="F2bgujPo" text="були слугами вождя."/>
-    <string id="f3hTGKIP" text="Garitops"/>
-    <string id="F4xD8gjJ" text="Francesca"/>
+    <string id="f3hTGKIP" text="{.m}Гарітопс{.R_n20_a_ke}"/>
+    <string id="F4xD8gjJ" text="{.f}Франческа{.R_n10_ko}"/>
     <string id="F7OO5SAa" text="Досягнувши юнацтва у Кальрадії, війна, звісно, не змогла пройти повз вас. Ви..."/>
     <string id="f7vOVQb7" text="{.n}Літо{.R_n2n}"/>
     <string id="F9HQABfN" text="Reinforced Wicker Square Shield"/>
@@ -423,14 +423,14 @@
     <string id="fAxjyMt5" text="Ніч"/>
     <string id="Fb7PrJuc" text="Splint Boots"/>
     <string id="fBAf3OWb" text="Ornate Desert Battle Crown"/>
-    <string id="FClEZIkT" text="Sovos"/>
+    <string id="FClEZIkT" text="{.m}Совос{.R_n20_a_ke}"/>
     <string id="FDEIHpIN" text="Mirrored Brigandine Armor"/>
     <string id="femalechild" text="{.f}Дитина{.R_n10}"/>
     <string id="fEQAPJ2e" text="{KEY} Використання"/>
-    <string id="FF3dQKc1" text="Nethor"/>
+    <string id="FF3dQKc1" text="{.m}Нетор{.R_n20_a_ke}"/>
     <string id="FfNwXtii" text="Якщо у дитинстві у вашій зграї вовченят і був лідер, то це, безумовно, були ви. Всі інші діти йшли за вами, оскільки ви вирішували, у що і де грати. Ви керували ними в цих іграх і різного роду бешкетах."/>
     <string id="fGFMqlGz" text="Стать"/>
-    <string id="fGmpS0Dr" text="Gandarina"/>
+    <string id="fGmpS0Dr" text="{.f}Гандаріна{.R_n10_ko}"/>
     <string id="FhZPjhli" text="Ваше рідне місто на короткий час потрапило в облогу і вас покликали захищати його стіни. Кожен житель зробив свій внесок у відбиття ворожої атаки і тепер по праву пишається тим, що показав себе справжнім воїном."/>
     <string id="FjwRsf1C" text="{.f}Вландія{.R_n10}"/>
     <string id="fk42FxCE" text="Layered Robe"/>
@@ -485,10 +485,10 @@
     <string id="GTaxqBcv" text="Auxiliary Armor"/>
     <string id="guardnoun" text="Guard"/>
     <string id="gUTqDROO" text="Closed Head Scarf"/>
-    <string id="GWaJ7Ksq" text="Joculos"/>
+    <string id="GWaJ7Ksq" text="{.m}Джокулос{.R_n20_a_ke}"/>
     <string id="GXmDq2KR" text="Bear Head"/>
     <string id="gYATKZJp" text="{NUMBER}%"/>
-    <string id="gYit4RTe" text="Euchor"/>
+    <string id="gYit4RTe" text="{.m}Євхор{.R_n20_a_ke}"/>
     <string id="GzgUzrFY" text="Mail Shirt"/>
     <string id="h2KnarLL" text="навчалися воювати в кавалерії."/>
     <string id="H5tiRTya" text="Тренування"/>
@@ -500,10 +500,10 @@
     <string id="HcAV8x7p" text="Член загону"/>
     <string id="hCavIm4G" text="You will pay {AMOUNT}{GOLD_ICON} denars."/>
     <string id="hchDYAKL" text="Копійник"/>
-    <string id="HCXHcBzT" text="Mattis"/>
+    <string id="HCXHcBzT" text="{.m}Маттіс{.R_n20_a_ke}"/>
     <string id="hE8s9bpP" text="Curved Round Shield"/>
     <string id="hELN8VXv" text="Torn Robe"/>
-    <string id="HfuAdGQX" text="Destor"/>
+    <string id="HfuAdGQX" text="{.m}Дестор{.R_n20_a_ke}"/>
     <string id="HiSzYWeh" text="{.n}Пиво{.R_n2n}{@Plural}{.p}Бочка{.R_n10_p2} пива{\@}"/>
     <string id="HjqcmY6X" text="Ban"/>
     <string id="HkfY3Ds5" text="Броня (тіло)"/>
@@ -579,7 +579,7 @@
     <string id="JFVseSa3" text="{.m}Орос{.R_n20_a_ke}"/>
     <string id="JhLPgr5x" text="{.f}Джінда{.R_n10_ko}"/>
     <string id="Jhshwa48" text="Patched Gambeson"/>
-    <string id="Jif1C3X3" text="Laria"/>
+    <string id="Jif1C3X3" text="{.f}Ларія{.R_n10_ko}"/>
     <string id="jimBaHvz" text="Reinforced Leather Armor"/>
     <string id="jIwjYOVj" text="Ragged Armwraps"/>
     <string id="JJiKk4ow" text="Введіть своє прізвище: "/>
@@ -639,7 +639,7 @@
     <string id="l69aXkKH" text="Push Fork"/>
     <string id="L7wn49Uz" text="Дипломатія"/>
     <string id="l91l1TJo" text="Colored Turban"/>
-    <string id="L9weGfoX" text="Salea"/>
+    <string id="L9weGfoX" text="{.f}Салея{.R_n10_ko}"/>
     <string id="labbKop6" text="Шкода воїнам вашого підрозділу від дальніх атак: {BONUS_AMOUNT}%."/>
     <string id="lAWwcO6b" text="Kingdom of Vlandia"/>
     <string id="lB4UF1GT" text="Long Tunic"/>
@@ -650,18 +650,18 @@
     <string id="lC5xsoSh" text="Без обмежень"/>
     <string id="lD1sl2XC" text="{.m}Камнон{.R_n20_a_ke}"/>
     <string id="lD5Ob3R4" text="Можливо, це була любовна інтрижка, можливо, ви шахраювали в кості, а може, просто погано підбирали слова, випиваючи в небезпечній компанії. Так чи інакше, ви потрапили в таку халепу, з якої вибратися живим ви змогли лише завдяки вашому швидкому язику чи швидким ногам."/>
-    <string id="LE9mRhSs" text="Hespedia"/>
+    <string id="LE9mRhSs" text="{.f}Геспедія{.R_n10_ko}"/>
     <string id="lEHjxPTs" text="Союзник"/>
-    <string id="lEHtUGed" text="Diocosos"/>
+    <string id="lEHtUGed" text="{.m}Діокосос{.R_n20_a_ke}"/>
     <string id="LgftnHPs" text="Woven Leather Vest"/>
     <string id="lgvtLEDA" text="{.f}Мелчея{.R_n10_ko}"/>
     <string id="lIJ1EVBh" text="Leather Gloves"/>
     <string id="lLJh7WAT" text="You worked in the marketplace, selling trinkets and drinks to busy shoppers."/>
     <string id="LMo6MaQS" text="Cataphract Lamellar Armor"/>
     <string id="LmwhFv5p" text="{.n}М'ясо{.R_n2n}{@Plural}{.p}Ящик{.R_n20_a_p} м'яса{\@}"/>
-    <string id="LMWiJi6V" text="Phirentos"/>
+    <string id="LMWiJi6V" text="{.m}Фірентос{.R_n20_a_ke}"/>
     <string id="LOPavWRp" text="Strapped Shoes"/>
-    <string id="LP7yYoGQ" text="Caribos"/>
+    <string id="LP7yYoGQ" text="{.m}Карібос{.R_n20_a_ke}"/>
     <string id="LpH8SYFL" text="Ваша сім'я входила до кола довірених осіб баттанського вождя і сиділа за його столом у головній залі. Ваш батько допомагав вождю керувати справами клану і вправно володів традиційною зброєю баттанської еліти – дворучним мечем або фальксом і луком."/>
     <string id="LqA9uBH9" text="Pointed Skullcap over Cloth Headwrap"/>
     <string id="LRbGXEw2" text="Plumed Decorated Mailed Nasal Helmet"/>
@@ -712,7 +712,7 @@
     <string id="n4UUrd1p" text="Already in use"/>
     <string id="N6QTvjMf" text="Полонені"/>
     <string id="n7c7tnx9" text="Warlord Helmet with Nose Guard"/>
-    <string id="NBAGX54b" text="Avigos"/>
+    <string id="NBAGX54b" text="{.m}Авігос{.R_n20_a_ke}"/>
     <string id="NbgeKwVr" text="Майстерні"/>
     <string id="ndfDy5B8" text="Tied Head Wrapping"/>
     <string id="NF627oiX" text="{.f}Північний{.R_adj} {.f}імперія{.R_n10_p1}"/>
@@ -720,14 +720,14 @@
     <string id="ngFVgwDD" text="Воїни-раби"/>
     <string id="NiBDR9ld" text="Decorated Bronze Helmet with Cheek Guards"/>
     <string id="NLKmdNbt" text="Пошук"/>
-    <string id="NM5f1Q6I" text="Ariada"/>
+    <string id="NM5f1Q6I" text="{.f}Аріада{.R_n10_ko}"/>
     <string id="nMfxbc0Y" text="Збільшена швидкість верхової їзди"/>
     <string id="NOchnEwX" text="{.m}Гузід{.R_n20_a_ke}"/>
     <string id="nOfSqRnI" text="на тренувальному майданчику варти."/>
     <string id="nOMT0Cw6" text="Зменшена шкода бойовому духу при потрясіннях"/>
     <string id="NqarFr4P" text="Налаштування"/>
     <string id="nqWulUTP" text="Швидкість переміщення піхоти вашого підрозділу: {BONUS_AMOUNT}%."/>
-    <string id="nSoJkeBI" text="Sittacea"/>
+    <string id="nSoJkeBI" text="{.f}Сіттацея{.R_n10_ko}"/>
     <string id="NTaol1uQ" text="Ring Mail"/>
     <string id="NUHzapSv" text="Long Hemp Tunic"/>
     <string id="NUmDuEqI" text="Imperial Riding Harness"/>
@@ -767,9 +767,9 @@
     <string id="OVcoYxj1" text="Server Name"/>
     <string id="OvlG2Vu1" text="Rough Brigandine"/>
     <string id="OwqFpPwa" text="Фільтри"/>
-    <string id="Oy5dH7gZ" text="Elea"/>
+    <string id="Oy5dH7gZ" text="{.f}Елея{.R_n10_ko}"/>
     <string id="oZrVNUOk" text="Помилка"/>
-    <string id="p0hcyZdp" text="Zenon"/>
+    <string id="p0hcyZdp" text="{.m}Зенон{.R_n20_a_ke}"/>
     <string id="p0JFbL7G" text="Зменшена шкода від дальніх атак"/>
     <string id="p2KIhGbE" text="Міські ковалі"/>
     <string id="p6NIgRpk" text="Roughhide Cap"/>
@@ -779,7 +779,7 @@
     <string id="PbJAOKKZ" text="Збільшена швидкість пересування воїнів"/>
     <string id="pbp0GQdO" text="Ban Player"/>
     <string id="pBUc2pL8" text="{.p}Морський{.R_adj_z1} {.p}грабіжник{.R_n20_p_pz}"/>
-    <string id="pCBkH35Q" text="Danos"/>
+    <string id="pCBkH35Q" text="{.m}Данос{.R_n20_a_ke}"/>
     <string id="PDdh1sBj" text="Назва"/>
     <string id="pdqi2qz1" text="You can not do this action while your alley is under attack."/>
     <string id="pEaYQqG9" text="Wicker Square Shield"/>
@@ -793,12 +793,12 @@
     <string id="PL5SG9hI" text="Leather Scale Armor"/>
     <string id="playgame" text="Грати"/>
     <string id="PLtQdf23" text="Reinforced Padded Mittens"/>
-    <string id="plx8kkxa" text="Pelicos"/>
+    <string id="plx8kkxa" text="{.m}Пелікос{.R_n20_a_ke}"/>
     <string id="ppi6eVos" text="As you wish."/>
-    <string id="pq0w8kry" text="Orachos"/>
+    <string id="pq0w8kry" text="{.m}Орахос{.R_n20_a_ke}"/>
     <string id="pqfz386V" text="Лідер клану"/>
-    <string id="PR4IqkTW" text="Temeon"/>
-    <string id="pRbKbPK3" text="Vadrios"/>
+    <string id="PR4IqkTW" text="{.m}Темеон{.R_n20_a_ke}"/>
+    <string id="pRbKbPK3" text="{.m}Вадріос{.R_n20_a_ke}"/>
     <string id="PtfbqMeg" text="Brigandine over Mail"/>
     <string id="PTKyNh2O" text="Legionary Mail"/>
     <string id="PUjDWe5j" text="Приналежність"/>
@@ -829,7 +829,7 @@
     <string id="QGIAbglw" text="{.m}Оброн{.R_n20_a_ke}"/>
     <string id="qH5VV8In" text="Villager Leather Tunic"/>
     <string id="qILO0HdK" text="Sleeveless Enveloped Padded Garments"/>
-    <string id="qiTtJyHE" text="Gala"/>
+    <string id="qiTtJyHE" text="{.f}Гала{.R_n10_ko}"/>
     <string id="QjJAbaoT" text="{.m}Апіс{.R_n20_a_ke}"/>
     <string id="QJq4VAU7" text="Мезуї"/>
     <string id="QLcP8bIs" text="Falx"/>
@@ -860,7 +860,7 @@
     <string id="r07M9xbT" text="Heavy Crossbow"/>
     <string id="R45H8quo" text="Toga"/>
     <string id="R4Gqskgq" text="Перемога"/>
-    <string id="rA3KybBX" text="Ethirea"/>
+    <string id="rA3KybBX" text="{.f}Етірея{.R_n10_ko}"/>
     <string id="RamV6yLM" text="Вийти в головне меню"/>
     <string id="rcoueCmk" text="Підлітковий період"/>
     <string id="RDbqA36B" text="Ridged Decorated Bronze Cap with Cheek Guards"/>
@@ -868,7 +868,7 @@
     <string id="RDfXuVxT" text="Дрібні землевласники"/>
     <string id="redwEIlW" text="Інтендант"/>
     <string id="rF7Xm7C0" text="Heavy Heater Shield"/>
-    <string id="rFbAjSWM" text="Gorigos"/>
+    <string id="rFbAjSWM" text="{.m}Горігос{.R_n20_a_ke}"/>
     <string id="rg7OuWS2" text="Маневровість"/>
     <string id="rGuYLmez" text="{.m}Аскірон{.R_n20_a_ke}"/>
     <string id="Rhfp7ath" text="Peaked Helmet over Laced Coif"/>
@@ -886,9 +886,9 @@
     <string id="RvKwdXWs" text="Commander"/>
     <string id="RVPidk5a" text="Вплив"/>
     <string id="Rvr1bcu8" text="Далі"/>
-    <string id="rVUhYuvE" text="Suterios"/>
+    <string id="rVUhYuvE" text="{.m}Сутеріос{.R_n20_a_ke}"/>
     <string id="RXDyumYz" text="Caped Leather Harness"/>
-    <string id="RyorjCXF" text="Galon"/>
+    <string id="RyorjCXF" text="{.m}Галон{.R_n20_a_ke}"/>
     <string id="S1SUK8zk" text="Kettle over Mail Coif"/>
     <string id="S1XL4KJh" text="Luxury Thick Coat"/>
     <string id="s31DnnAf" text="Шкода"/>
@@ -915,7 +915,7 @@
     <string id="SpJqhEEh" text="Барди"/>
     <string id="sPmQz21k" text="Ворог"/>
     <string id="SrfYbg3x" text="Лідер"/>
-    <string id="SRncaw79" text="Urios"/>
+    <string id="SRncaw79" text="{.m}Уріос{.R_n20_a_ke}"/>
     <string id="SvYpE52J" text="Fur Trimmed Tunic"/>
     <string id="SW3lkPHe" text="Colored Bisht"/>
     <string id="Sw8OxnNr" text="Родичі еміра"/>
@@ -924,7 +924,7 @@
     <string id="SYvBTD0p" text="Full Helm over Cloth Headwrap"/>
     <string id="sZLd6VHi" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="Szuxa9Bs" text="Ragged Boots"/>
-    <string id="t1OpnZph" text="Jeremos"/>
+    <string id="t1OpnZph" text="{.m}Джеремос{.R_n20_a_ke}"/>
     <string id="t2Oh6uty" text="Welcome Message"/>
     <string id="T2POVRtg" text="Auxiliary Armor with Straps"/>
     <string id="t3tq0eoW" text="Загони"/>
@@ -962,7 +962,7 @@
     <string id="tTuaiLS6" text="{.m}Мерітор{.R_n20_a_ke}"/>
     <string id="TTWL7RLe" text="{.m}Арбалет{.R_n20_a_p}"/>
     <string id="tVyuxl8e" text="Ragged Robes"/>
-    <string id="tWDyWroN" text="Amnon"/>
+    <string id="tWDyWroN" text="{.m}Амнон{.R_n20_a_ke}"/>
     <string id="tWfAPrPa" text="Mail Cavalier Boots"/>
     <string id="TwuAVsCn" text="Fur Cap"/>
     <string id="TxAYmCjr" text="Nasal Helmet with Leather"/>
@@ -979,7 +979,7 @@
     <string id="UB4sqrWx" text="Матір"/>
     <string id="UC2XfY7V" text="Cloth Hood"/>
     <string id="uCyAnus4" text="{.m}Зостіос{.R_n20_a_ke}"/>
-    <string id="ud6rhXbn" text="Mostiros"/>
+    <string id="ud6rhXbn" text="{.m}Мостірос{.R_n20_a_ke}"/>
     <string id="uDlnsFIF" text="{.m}Урік{.R_n20_a}"/>
     <string id="uducgNbf" text="{.m}Чаган{.R_n20_a_ke}"/>
     <string id="uEcbnd5D" text="Round Shield"/>
@@ -988,7 +988,7 @@
     <string id="ufnnUxKb" text="{.f}Дублений{.R_adj} {.f}шкіра{.R_n10}{@Plural}{.p}Ящик{.R_n20_p} дубленої шкіри{\@}"/>
     <string id="ugJfuabA" text="{.p}Кінний{.R_adj} {.p}лучник{.R_n20_p}"/>
     <string id="uGM8DWrm" text="Осідлати"/>
-    <string id="Uh057UUb" text="Puluc"/>
+    <string id="Uh057UUb" text="{.m}Пулук{.R_n20_a}"/>
     <string id="UI0q8rWw" text="Livestock"/>
     <string id="UjL7jVYF" text="Morale"/>
     <string id="uLjRHv9p" text="{.f}Надея{.R_n10_ko}"/>
@@ -996,7 +996,7 @@
     <string id="un7poy9x" text="Попередній перегляд"/>
     <string id="unaWKloT" text="Збільшена шкода в ближньому бою"/>
     <string id="UoHZGyZa" text="Helmet with Faceguard"/>
-    <string id="UPaP0B2L" text="Alchyla"/>
+    <string id="UPaP0B2L" text="{.f}Альчіла{.R_n10_ko}"/>
     <string id="uQgNPJnc" text="Керування воїнами"/>
     <string id="uqO6e6vN" text="Kite Shield"/>
     <string id="URgZ4ai4" text="Ваша сім'я займала середнє положення в одному з хузаїтських кланів. Хоч у вашого батька і було кілька власних стад, але він не був багатим. Коли хузаїтська орда відправлялась на битву, він бився в лавах кінних лучників, обстрілюючи стрілами і виснажуючи ворога, перш ніж копійники завдавали останнього удару."/>
@@ -1025,11 +1025,11 @@
     <string id="VDMkVMxt" text="Heavy Mail Mittens"/>
     <string id="vEsKYrFR" text="{.m}Альдрік{.R_n20_a}"/>
     <string id="vfhVveLW" text="Шамани"/>
-    <string id="VG9ng2n2" text="Chandion"/>
-    <string id="vgBRa2BE" text="Poraclys"/>
+    <string id="VG9ng2n2" text="{.m}Чандіон{.R_n20_a_ke}"/>
+    <string id="vgBRa2BE" text="{.m}Поракліс{.R_n20_a_ke}"/>
     <string id="vGF5S2hE" text="Рейтингова таблиця"/>
     <string id="vH7GtuuK" text="за роботою в стайнях."/>
-    <string id="VhbasI9J" text="Castor"/>
+    <string id="VhbasI9J" text="{.m}Кастор{.R_n20_a_ke}"/>
     <string id="vimhFdZp" text="Heavy Nasalhelm over Leather"/>
     <string id="ViYdZUbQ" text="Розпустити армію"/>
     <string id="vJOWy1QF" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
@@ -1046,7 +1046,7 @@
     <string id="VSMpadvq" text="Fur Armor"/>
     <string id="vvabqi2w" text="Caravan"/>
     <string id="vW6kBki9" text="Your clan is now at war with {QUEST_GIVER.LINK}'s realm. Your agreement with {QUEST_GIVER.LINK} is canceled."/>
-    <string id="Vxt0xTvV" text="Mavea"/>
+    <string id="Vxt0xTvV" text="{.f}Мавея{.R_n10_ko}"/>
     <string id="VylHwqVq" text="Segmented Skullcap over Laced Coif"/>
     <string id="VzhbUL60" text="{.f}Венделія{.R_n10_ko}"/>
     <string id="W0agPHes" text="Штраф до бойового духу воїнам вашого підрозділу при втратах: {BONUS_AMOUNT}%."/>
@@ -1060,14 +1060,14 @@
     <string id="WahziEXA" text="Wrapped Leather Boots"/>
     <string id="wBfGpcCO" text="Kettle Hat over Padded Cloth"/>
     <string id="WbHfGCbd" text="виживання в облозі."/>
-    <string id="wbJzSg3X" text="Ulbesos"/>
+    <string id="wbJzSg3X" text="{.m}Ульбесос{.R_n20_a_ke}"/>
     <string id="wbLqHvjE" text="{.f}Зеросіка{.R_n10_ko}"/>
     <string id="WchH8bS2" text="Ваша сім'я займала середнє положення в баттанському клані і займалась обробкою власної землі. Ваш батько бився у керні - головному бойовому загоні свого народу, виконуючи славетний баттанський бойовий клич перед тим як кинутись в атаку."/>
     <string id="wE7RWmIF" text="Boarskin Leather Coat"/>
     <string id="wEfZyccm" text="Full Helm over Laced Coif"/>
     <string id="wErSpkjy" text="I'm still working on it."/>
     <string id="WEUSMkCp" text="Кінна стрільба з лука"/>
-    <string id="WfAuSpJq" text="Eutos"/>
+    <string id="WfAuSpJq" text="{.m}Евтос{.R_n20_a_ke}"/>
     <string id="wfbtS71d" text="очолювання каравану."/>
     <string id="wG582fzT" text="Cervelliere over Padded Cap"/>
     <string id="whvMZZba" text="Guarded Padded Vambraces"/>
@@ -1087,7 +1087,7 @@
     <string id="wSUN0Dmo" text="Dummy Max Armor"/>
     <string id="WTCIOhvV" text="{.m}Нукар{.R_n20_a_ke}"/>
     <string id="WtEoXblx" text="Knight"/>
-    <string id="WTePYMNF" text="Zaraclys"/>
+    <string id="WTePYMNF" text="{.m}Заракліс{.R_n20_a_ke}"/>
     <string id="WUArer5A" text="Open Padded Coif"/>
     <string id="WvDZMmaj" text="Nomad Helmet"/>
     <string id="WVqaRKUm" text="{.f}Шерсть{.R_n30}{@Plural}{.p}Тюк{.R_n20_p} шерсті{\@}"/>
@@ -1100,7 +1100,7 @@
     <string id="x1HTX5hq" text="порятунок свого села від повені."/>
     <string id="x1kf94SW" text="Ridged Helm"/>
     <string id="X1Wn0sBa" text="Leather Studded Helm over Roughscale"/>
-    <string id="X21PahQn" text="Menaclys"/>
+    <string id="X21PahQn" text="{.m}Менакліс{.R_n20_a_ke}"/>
     <string id="X3gcUz7C" text="Ранок"/>
     <string id="x3lcf2Do" text="Luxury Lamellar Vest over Leather"/>
     <string id="xa7KRSCy" text="Stitched Leather Vest"/>
@@ -1120,7 +1120,7 @@
     <string id="XjT8S4ng" text="Біля {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="XkL1Re8b" text="Studded Leather Coat"/>
     <string id="xKXcqRJI" text="інвестиція грошей в землю."/>
-    <string id="XKxeaF0I" text="Dalidos"/>
+    <string id="XKxeaF0I" text="{.m}Далідос{.R_n20_a_ke}"/>
     <string id="XMTD2clw" text="Рое"/>
     <string id="XmvaRfLM" text="{PLAYER_FATHER.NAME} був батьком {.S}{PLAYER.LINK}{.v_rod}. Він загинув, коли розбійники напали на корчму, в якій зупинилася його родина."/>
     <string id="xnDWqYKW" text="Мисливець"/>
@@ -1138,7 +1138,7 @@
     <string id="XuwQvSDo" text="Iron Roundkettle over Mail"/>
     <string id="xVSOKf0p" text="{.f}Чара{.R_n10_ko}"/>
     <string id="xXSFaGW8" text="Розформувати"/>
-    <string id="XZxIpCQH" text="Phorys"/>
+    <string id="XZxIpCQH" text="{.m}Форіс{.R_n20_a_ke}"/>
     <string id="y1YTxkmn" text="Shoulder Harness"/>
     <string id="y3CwqUDR" text="Highland Mail Shirt"/>
     <string id="y3oIzUEp" text="Tunic with Shoulder Pads"/>
@@ -1147,7 +1147,7 @@
     <string id="y6j1bJTH" text="Ви стали підмайстром у місцевого коваля. Ви навчилися нагрівати та кувати метал, годинами б'ючи молотом аж до болю в м'язах, загартовуючи як зброю, так і свою міць."/>
     <string id="Y94H6XnK" text="Прийняти"/>
     <string id="Y9egTJg0" text="Щоденна зміна"/>
-    <string id="yAZC6F7P" text="Ecsorios"/>
+    <string id="yAZC6F7P" text="{.m}Ексоріос{.R_n20_a_ke}"/>
     <string id="YBGCXSEx" text="{.f}Дебана{.R_n10_ko}"/>
     <string id="yCEMiKjB" text="Виберіть: {SELECTION}"/>
     <string id="YcnK0Thk" text="Мисливці"/>
@@ -1182,7 +1182,7 @@
     <string id="YxglkaXU" text="{.m}Білий{.R_adj} {.m}табард{.R_n20_u} поверх довгої кольчуги"/>
     <string id="yYhX6JQC" text="Ваш батько приєднався до одного з численних загонів вландійських найманців, які так сильно звикли до війни, служачи своєму пану, що вже навіть не уявляли мирного життя для себе. Їхні арбалетники високо цінувалися по всій Кальрадії. Ваша мати була прибічницею життя в таборі і тому брала вас із собою у всі криваві походи."/>
     <string id="Z2xgnrDa" text="Шкода при зіткненнях вершникам вашого підрозділу: {BONUS_AMOUNT}%."/>
-    <string id="Z6Ak3H6G" text="Jereed"/>
+    <string id="Z6Ak3H6G" text="{.m}Джерід{.R_n20_a_ke}"/>
     <string id="z6eTba5h" text="Heavy Nasalhelm over Laced Cloth"/>
     <string id="z7oMeRl3" text="Thick Brigandine Vest"/>
     <string id="Z9RlnXrD" text="Fur Skirt"/>
@@ -1196,16 +1196,16 @@
     <string id="ZeU1fvdz" text="Grapeshot Stack"/>
     <string id="zfCoeglY" text="Musician"/>
     <string id="ZFETxZKP" text="Keffiyeh with Silken Band"/>
-    <string id="ZFlIT1tH" text="Ganimynos"/>
+    <string id="ZFlIT1tH" text="{.m}Ганімінос{.R_n20_a_ke}"/>
     <string id="zfUhnG7y" text="{.m}Фемістіос{.R_n20_a_ke}"/>
     <string id="ZFwKlHIJ" text="Woodland Longbow"/>
     <string id="zGXZJFOb" text="Lamellar with Scale Skirt"/>
     <string id="zInIqBD0" text="{.m}Аренікос{.R_n20_a_ke}"/>
     <string id="ZkaaXxeB" text="{.m}Ісван{.R_n20_a_ke}"/>
     <string id="zLdXCpne" text="Ринок"/>
-    <string id="Zm4a2xsf" text="Salusios"/>
+    <string id="Zm4a2xsf" text="{.m}Салюсіос{.R_n20_a_ke}"/>
     <string id="zMMqgxb1" text="Тип"/>
-    <string id="ZmQx4gT3" text="Olichor"/>
+    <string id="ZmQx4gT3" text="{.m}Оліхор{.R_n20_a_ke}"/>
     <string id="zpqP5LsC" text="I'll go right away."/>
     <string id="ZqTFQeai" text="Leather Tunic"/>
     <string id="zQv3w264" text="Padded Half Coif"/>
@@ -1217,7 +1217,7 @@
     <string id="zWoj91XY" text="BaghChal"/>
     <string id="Zx4h7jDy" text="Dummy Min Armor"/>
     <string id="zxMOqlhs" text="Атакувати"/>
-    <string id="zxZH2WbD" text="Zimena"/>
+    <string id="zxZH2WbD" text="{.f}Зімена{.R_n10_ko}"/>
     <string id="zZ2G7uIO" text="Kettle Helmet over Mail"/>
   </strings>
 </base>
