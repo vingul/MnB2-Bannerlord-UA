@@ -3412,7 +3412,7 @@
     <string id="pWxXvtXP" text="{QUEST_GIVER.LINK}, a headman of {QUEST_SETTLEMENT} told you that a group of deserters have been raiding their village regularly. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to wait in {QUEST_SETTLEMENT} until the deserters arrive..."/>
     <string id="pWYkIkKj" text="Very well, {PLAYER_SALUTATION}. Tell me what you have in mind."/>
     <string id="pWyxaauF" text="Ми підтримуємо цю пропозицію"/>
-    <string id="pX0MgdZA" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} of the {PRISONER_LORD_FACTION_LINK}{?}{\?} has been ransomed from the {CAPTURER_FACTION}."/>
+    <string id="pX0MgdZA" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} був викуплений з полону у {.S}{CAPTURER_FACTION}{.v_rod}."/>
     <string id="PX0Xufmr" text="Спартанець"/>
     <string id="PXhIFXbv" text="об'єднувати домогосподарства для постачання рекрутів"/>
     <string id="PXigJyMs" text="Excellent. You are acting in my name now. Try to be polite but you have every right to use force if they don't cough up what's owed. Good luck.[ib:confident2][if:convo_bored2]"/>
