@@ -5,7 +5,7 @@
   </tags>
   <strings>
     <string id="7hx2Nlmd" text="{.f}Чинбарня{.R_n10}"/>
-    <string id="8MwqyFfS" text="{.f}Слюсарний{.R_adj} {.f}майстерня{.R_n10_p2}"/>
+    <string id="8MwqyFfS" text="{.m}Залізняк{.R_n20_a}"/>
     <string id="AfiEQPky" text="У кожному місті є кілька ремісників. Хтось має робити повсякденні речі для звичайних людей, і більшість робить це власноруч."/>
     <string id="boupIGPX" text="{.f}Олійниця{.R_n10}"/>
     <string id="bZeZCHoa" text="{.n}Виробництво{.R_n2n_p1} вовняних тканин"/>
