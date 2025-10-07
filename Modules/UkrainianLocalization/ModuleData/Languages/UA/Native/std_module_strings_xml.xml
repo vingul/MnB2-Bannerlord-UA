@@ -960,7 +960,7 @@
     <string id="KWXEMsHC" text="{LORD.LINK} is at {SETTLEMENT_NAME}"/>
     <string id="kX8svveF" text="This item's cost is near it's average price"/>
     <string id="kx8ZfaST" text="All right. So how much do you value your life?[ib:hip][if:convo_bared_teeth]"/>
-    <string id="kXno6ZuU" text="Battle finished..."/>
+    <string id="kXno6ZuU" text="Битва закінчена..."/>
     <string id="kyiibFu2" text="Ви виграли битву!"/>
     <string id="kZ7gLqMz" text="If auto recruitment is enabled, the garrison will recruit troops from notables in the town center and nearby villages. The costs will be paid by the settlement owner."/>
     <string id="KZAQHSa2" text="Yet the prosperity is clearly not benefiting everyone equally. People seem angry, complaining endlessly about new rural migrants, rising prices, and those who are profiting more than others."/>
@@ -1098,7 +1098,7 @@
     <string id="Nfm5lLWv" text="{CHILD.NAME} needs your immediate attention!"/>
     <string id="nfQhamAF" text="Швидкість змаху: "/>
     <string id="NgHSyQem" text="В армії"/>
-    <string id="nHGm1wYg" text="Battle finished. Press {leave_key} to view results"/>
+    <string id="nHGm1wYg" text="Битва закінчена. Натисніть {leave_key}, щоб переглянути результати"/>
     <string id="nHkQbLDc" text="Can't be used with Mounts"/>
     <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are flanking from {#IS_LEFT}{#}left{#}multiple sides{\#}{?IS_MIDDLE}middle{?}{\?}{?IS_RIGHT}right{?}{\?}."/>
     <string id="NiyNgXMe" text="This party is already disbanding"/>
