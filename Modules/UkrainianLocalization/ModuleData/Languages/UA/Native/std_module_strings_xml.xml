@@ -1459,7 +1459,7 @@
     <string id="tXl9REtA" text="Ополчення {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="Tyc4aAdz" text="Join the battle without leading any men."/>
     <string id="u3c9M8vx" text="{.f}архонтесса{.R_n10_ko_p1}"/>
-    <string id="U7etPQA2" text="{FIRSTNAME} {JOB_NAME}"/>
+    <string id="U7etPQA2" text="{.CS}{FIRSTNAME}{.CE} {JOB_NAME}"/>
     <string id="U7Z7f7ZT" text="{?NPC.GENDER}Дружина{?}Чоловік{\?}"/>
     <string id="U8TPlwW9" text="Well met {PLAYER.LINK}. I am in your debt for what you just did. I hope one day I will find a way to repay it."/>
     <string id="U8VHRdwF" text="Броня (ноги): "/>
