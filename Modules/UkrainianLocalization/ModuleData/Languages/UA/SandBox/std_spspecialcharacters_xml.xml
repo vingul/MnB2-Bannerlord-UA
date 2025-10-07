@@ -92,7 +92,7 @@
     <string id="XBJtv4mD" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Торговка{.R_n10_ko} Спеціями{?}{.m}Торговець{.R_n22_a} Спеціями{\?}"/>
     <string id="xTQPfmS9" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Буйволиця{.R_n10_ko}{?}{.m}Бик{.R_n20_a}{\?}"/>
     <string id="XuxARPTM" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Гірчиця{.R_n10_ko}{?}{.m}Гірчичник{.R_n20_a}{\?}"/>
-    <string id="ykTARD4b" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Вигнанниця{.R_n10_ko}{?}{.m}Вигнанець{.R_n22_a}{\?}"/>
+    <string id="ykTARD4b" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Вигнанниця{.R_n10_ko}{?}{.m}Вигнанець{.R_n22_a_z}{\?}"/>
     <string id="yr5pa0hs" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Верба{.R_n10_ko}{?}{.m}Верболіз{.R_n21_u_ke}{\?}"/>
     <string id="ZCc3VFat" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Сивий{.R_adj}{?}{.m}Сивий{.R_adj_z1}{\?}"/>
     <string id="zoaTZMm7" text="{.CS}{FIRSTNAME}{.CE} {.f}Мисливиця{.R_n10_ko}"/>
