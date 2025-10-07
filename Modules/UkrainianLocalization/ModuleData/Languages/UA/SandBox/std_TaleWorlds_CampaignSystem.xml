@@ -3744,7 +3744,7 @@
     <string id="RUZHJMQO" text="Шкода від лука: +{a0}%"/>
     <string id="rv6hk8X2" text="{HERO_BEING_PROPOSED_TO.NAME} to marry {HERO_TO_MARRY.NAME}"/>
     <string id="RVas572P" text="Raided"/>
-    <string id="RVDojUOM" text="Землями довкола {.S}{SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}, {FACTION_OFFICIAL} {.S}{._}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
+    <string id="RVDojUOM" text="Землями довкола {.S}{SETTLEMENT_LINK}{.v_rod} володіє переважно {LORD.LINK}, {FACTION_OFFICIAL} {.S}{FACTION_TERM}{.v_rod}. {PROSPERITY_INFO}"/>
     <string id="rVIzHhLO" text="Навички спілкування {?CHILD.GENDER}молодої жінки{?}молодого чоловіка{\?} допомагали налаштовувати інших торговців на невимушений лад при обміні інформацією та укладанні угод."/>
     <string id="RVLPQ4rm" text="My friend. I am almost sad that these meetings are going to come to an end. Well, a deal is a deal. I won't beat around the bush. Here's your final message: {DIRECTIVE}. I wish you luck, right up until the moment that you have to go down.[if:convo_mocking_teasing][ib:closed]"/>
     <string id="RVNPXS46" text="{VALUE}% безпеки, яку забезпечують кінні воїни у підконтрольному поселенні."/>
