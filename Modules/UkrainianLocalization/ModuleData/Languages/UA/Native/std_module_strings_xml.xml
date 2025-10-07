@@ -300,7 +300,7 @@
     <string id="aCkzVUCR" text="Очки здоров'я: "/>
     <string id="aCP5ZBbp" text="Відношення:"/>
     <string id="ADJQa8am" text="Найманці не можуть підтримувати інші клани."/>
-    <string id="adtqbbGU" text="Distance to Army Leader"/>
+    <string id="adtqbbGU" text="Відстань до командувача армії"/>
     <string id="aebVkHyA" text="Give up the fight?"/>
     <string id="aECQrlkM" text="Destroy enemy siege engines!"/>
     <string id="aeouhelq" text="Так"/>
@@ -1044,7 +1044,7 @@
     <string id="mhAr3dfG" text="Розпочато завдання: {QUEST_TITLE}"/>
     <string id="MHJCuM3N" text="Halt! Your foreign feet on this sacred land offend our ancestors. What are we going to do about that?[rf:convo_mocking_revenge]"/>
     <string id="mieKgbp8" text="Обстрілів в день"/>
-    <string id="minuteabbr" text="m"/>
+    <string id="minuteabbr" text="хв"/>
     <string id="mJB7knQo" text="Pull back"/>
     <string id="mJE0o9Zi" text="Гарнізони"/>
     <string id="mJkJWccN" text="Якщо ви продовжите, то усунете {.S}{GOVERNOR.NAME}{.v_zna} з посади намісника поселення «{SETTLEMENT_NAME}». Ви впевнені?"/>
@@ -1368,7 +1368,7 @@
     <string id="SdcpdfaV" text="Hey - you. What you got in your bags? What are you carrying?[if:convo_bared_teeth]"/>
     <string id="SdXS4lxN" text="Faction Leader Bonus"/>
     <string id="SEBZa2Lh" text="Boost Cohesion"/>
-    <string id="secondabbr" text="s"/>
+    <string id="secondabbr" text="с"/>
     <string id="SeQ0Q7r6" text="Ongoing Issue"/>
     <string id="settlementtrack" text="Стежити"/>
     <string id="sfcbd6QS" text="You've scored {CURRENT_PROGRESS} points out of the {TARGET_PROGRESS} needed to succeed in this persuasion attempt."/>
