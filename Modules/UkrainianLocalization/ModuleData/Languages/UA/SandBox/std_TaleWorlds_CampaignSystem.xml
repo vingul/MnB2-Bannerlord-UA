@@ -3318,7 +3318,7 @@
     <string id="PE14ZF7l" text="Let me try and convince you. (Persuasion)"/>
     <string id="PE97ZWvX" text="Not just anybody. If you have a companion that has your complete trust, then I'll agree... Just make sure he is well guarded. Goods attract bandits, as I'm sure you know. I suppose {ALTERNATIVE_TROOP_AMOUNT} well-armed men would be enough.[if:convo_innocent_smile][ib:confident]"/>
     <string id="PeaiNrSu" text="Чистий випад"/>
-    <string id="peHCARhM" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK}{?ARMY_LEADER.GENDER}віддала{?}віддав{\?} наказ знищити {SETTLEMENT}. {?ARMY_LEADER.GENDER}ЇЇ{?}Його{\?} війська проносяться {?IS_CITY}містом{?}замком{\?}, забираючи все, що їм сподобалось, а решту спалюючи."/>
+    <string id="peHCARhM" text="{DEFAULT_TEXT}{ARMY_LEADER.LINK} {?ARMY_LEADER.GENDER}віддала{?}віддав{\?} наказ знищити {SETTLEMENT}. {?ARMY_LEADER.GENDER}ЇЇ{?}Його{\?} війська проносяться {?IS_CITY}містом{?}замком{\?}, забираючи все, що їм сподобалось, а решту спалюючи."/>
     <string id="peUxzLsY" text="&quot;Your&quot; goods? These are my goods now."/>
     <string id="PexmGuOd" text="{?PLAYER.GENDER}Madam{?}Sir{\?}, I am happy to tell that the men you left are patrolling, and already we feel safer. Thank you again.[ib:demure][if:convo_grateful]"/>
     <string id="pF47ldtJ" text="piece of armour"/>
