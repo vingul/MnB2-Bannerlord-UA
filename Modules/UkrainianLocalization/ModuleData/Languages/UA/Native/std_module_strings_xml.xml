@@ -221,7 +221,7 @@
     <string id="7Wcnipag" text="{.m}чотирнадцятий{.R_adj}"/>
     <string id="7WFFCVMa" text="Special"/>
     <string id="7xFRFV0P" text="Form a defensive ring."/>
-    <string id="7Ywub9bC" text="Defenders are still holding the keep."/>
+    <string id="7Ywub9bC" text="Захисники все ще утримують фортецю."/>
     <string id="7zaMwF08" text="While you were raiding {SETTLEMENT}, {PARTY} came to aid the village. You decided to..."/>
     <string id="7zUWqY3O" text="Left"/>
     <string id="80hwCw7B" text="-{BONUS_AMOUNT}% зменшення ополчення під час повстання"/>
@@ -322,7 +322,7 @@
     <string id="aJoNj6JX" text="Бийтеся дворучною короткою зброєю."/>
     <string id="aJXhsjmT" text="Greetings, traveller. Unless you wish your bones to be left in the sand to be gnawed upon by jackals, give us what we want."/>
     <string id="ajZTZoXQ" text="{.f}Дворучний{.R_adj} {.f}булава{.R_n10}"/>
-    <string id="AkgIYqHT" text="sultana"/>
+    <string id="AkgIYqHT" text="{.f}султанша{.R_n10_ko2}"/>
     <string id="AkUpgiBl" text="Клас {TIER_LEVEL}"/>
     <string id="alEG3BOa" text="Ваші відносини з {CLAN_LEADER}{.v_oru} покращилися на {MAGNITUDE} до {VALUE}."/>
     <string id="AmbKQ7LT" text="Перемістити"/>
@@ -636,7 +636,7 @@
     <string id="f7t4saJu" text="Ціна"/>
     <string id="F8g1TzoX" text="Ви знаходитесь за межами {SETTLEMENT_NAME}{.v_rod}. Ви бачите стяг {.S}{LORD.LINK}{.v_rod}, що майорить над воротами замку."/>
     <string id="Fa16r8MN" text="Execute Prisoner"/>
-    <string id="fAEvWw8z" text="The defenders have pulled back and are mounting a last stand inside the keep."/>
+    <string id="fAEvWw8z" text="Захисники відступили і облаштовують останній рубіж всередині фортеці."/>
     <string id="fApjg2ae" text="the Aserai"/>
     <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are moving into missile range."/>
     <string id="FbcC2loc" text="You have been knocked unconscious and your opponent is granted victory!"/>
@@ -1650,7 +1650,7 @@
     <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are shooting from infantry cover."/>
     <string id="Y4fht2kI" text="Видатні постаті"/>
     <string id="y4MiEr0H" text="Типи воїнів"/>
-    <string id="Y5byltUT" text="sultan"/>
+    <string id="Y5byltUT" text="{.m}султан{.R_n20_a_ke}"/>
     <string id="y8Catvvn" text="Ranged Weapons III"/>
     <string id="y8tOrlnJ" text="{.m}одинадцятий{.R_adj}"/>
     <string id="Y94H6XnK" text="Прийняти"/>
