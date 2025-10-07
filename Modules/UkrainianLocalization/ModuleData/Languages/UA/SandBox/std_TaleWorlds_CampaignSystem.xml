@@ -996,7 +996,7 @@
     <string id="AULqrp7D" text="a glass of Calradian wine"/>
     <string id="aupbQveh" text="{?CONVERSATION_NPC.GENDER}Madame{?}Sir{\?}, I must have more time to consider this."/>
     <string id="aUXAh8cE" text="Very well, {PLAYER.NAME}. If you're willing to vouch for your companion, I'm sure this will work.[if:convo_innocent_smile][ib:confident]"/>
-    <string id="av14a64q" text="Роздумуєте"/>
+    <string id="av14a64q" text="Роздумує"/>
     <string id="AV5xVGM5" text="Good. We need them as soon as possible.[if:convo_undecided_open][ib:closed2]"/>
     <string id="AvBNKK5y" text="Alright, I will have one of my companions go and rescue your associates."/>
     <string id="avFXbBLV" text="I know how it is. Just bring me the weapons.[if:convo_bored2]"/>
