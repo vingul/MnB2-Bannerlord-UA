@@ -1082,7 +1082,7 @@
     <string id="n6Q6vv5t" text="Ви забрали {GOLD} золота."/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are pulling back."/>
     <string id="N7yWipWU" text="Битва при переправі через річку{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Кавалерія отримує середній штраф в атаці.{newline}• Кінні лучники отримують невеликий штраф в атаці."/>
-    <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})"/>
+    <string id="N84HlDaV" text="{NUMBER_OF} {#GET_PLURAL_VALUE(DAY)}{ITEM}{#}{PLURAL(ITEM)}{#}{PLURAL(ITEM)}{\#} ({AMOUNT}{GOLD_ICON})"/>
     <string id="n9qR84YI" text="{PRISONER.NAME} {?PRISONER.GENDER}втекла{?}втік{\?} з {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="NaAA5kjG" text="Розглянути можливість укладення миру, отримуючи {TRIBUTE} данини/день (Підтримка: {SUPPORT}%)"/>
     <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}"/>
