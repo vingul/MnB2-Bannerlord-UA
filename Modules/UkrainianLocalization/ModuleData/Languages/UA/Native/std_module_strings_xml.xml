@@ -200,7 +200,7 @@
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
     <string id="7EnFh9e5" text="Місцеперебування: {LOCATION}"/>
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} ведуть поодинокі перестрілки."/>
-    <string id="7fjOwwVH" text="Звичайно, я можу дати вам пораду. Я спілкувався з деякими торговцями, які сказали, що вони нещодавно купили {.%}{ITEM_NAME}{.%} в {SETTLEMENT}{.v_mis} за {BUY_COST}{GOLD_ICON} і продали в {DESTINATION}{.v_mis} за {SELL_COST}{GOLD_ICON}."/>
+    <string id="7fjOwwVH" text="Звичайно, я можу дати вам пораду. Я спілкувався з деякими торговцями, які сказали, що вони нещодавно купили {._}{ITEM_NAME}{.v_zna} в {SETTLEMENT}{.v_mis} за {BUY_COST}{GOLD_ICON} і продали в {DESTINATION}{.v_mis} за {SELL_COST}{GOLD_ICON}."/>
     <string id="7hj7Kaoz" text="Загальний дохід"/>
     <string id="7IqpjCDY" text="Executing a prisoner will negatively affect your reputation and will decrease your relation with the prisoner's faction/clan.{newline}You will not be able to undo this action.{newline}Are you sure you want to execute this character?"/>
     <string id="7j4fQHg7" text="Битва в лісі{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Лучники отримують середній штраф.{newline}• Кавалерія отримує великий штраф.{newline}• Кінні лучники отримують серйозний штраф."/>
