@@ -1146,7 +1146,7 @@
     <string id="ODQmOrIw" text="Титри"/>
     <string id="OEax2Y9c" text="Грабуйте каравани. Набирайте та очолюйте бандитські загони. Проникайте у ворожі міста. Давайте хабарі. Втікайте з полону."/>
     <string id="oGflu1jV" text="Use murder hole"/>
-    <string id="OGjq7rpg" text="We are taking our products to the market at {TOWN}."/>
+    <string id="OGjq7rpg" text="Ми веземо нашу продукцію на ринок у {TOWN}{.v_mis}."/>
     <string id="OgRtdJhu" text="Битва в селі{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Лучники отримують середній штраф в атаці.{newline}• Кінні лучники отримують середній штраф в атаці."/>
     <string id="ogtgc69b" text="You have been awarded the right to carry a banner. Your banner will signify your status and bring you honour. Which banner do you want to choose?"/>
     <string id="OGxk0EXC" text="Турнір завершився. {?TOURNAMENT_FINAL_PARTICIPANT_A.GENDER}Перемогла{?}Переміг{\?} {TOURNAMENT_FINAL_PARTICIPANT_A}, здолавши {.S}{TOURNAMENT_FINAL_PARTICIPANT_B}{.v_zna} у фінальному двобої."/>
@@ -1640,7 +1640,7 @@
     <string id="xWydBJyS" text="Rebels in {SETTLEMENT} have risen against their lord, {RULER}."/>
     <string id="Xx9EbSwG" text="Boot"/>
     <string id="XxLCJb0W" text="Чесний"/>
-    <string id="xycMiCIq" text="I have not found any profitable trades recently."/>
+    <string id="xycMiCIq" text="Останнім часом я не помічаю жодної вигідної угоди."/>
     <string id="XzggyCPW" text="This hero is busy."/>
     <string id="xZxbFuDI" text="The jackals will feed well tonight, then."/>
     <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a defensive ring around ranged troops."/>
