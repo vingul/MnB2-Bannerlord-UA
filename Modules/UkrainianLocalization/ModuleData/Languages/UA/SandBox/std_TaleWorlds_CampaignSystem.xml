@@ -457,7 +457,7 @@
     <string id="5laJ37D8" text="Back for more, are you?"/>
     <string id="5lq4HNU5" text="{CURRENT_LIEGE.NAME} is not known for keeping his word."/>
     <string id="5Ly65EsX" text="It is nice to have you with us."/>
-    <string id="5Mu1cdbc" text="Greetings, once again. How may we help you?"/>
+    <string id="5Mu1cdbc" text="Вітаємо вас ще раз. Чим ми можемо вам допомогти?"/>
     <string id="5MxTYApM" text="This is the right age for starting off, you have years of experience, and you are old enough for people to respect you and gather under your banner."/>
     <string id="5NYPqKBj" text="I know you're busy, but maybe you can ask some of your men to find us that grain? {MEN_COUNT} men should do the job along with {GOLD}{GOLD_ICON}, and I'd reckon the whole affair should take two weeks. \nI'm desperate here, {?PLAYER.GENDER}madam{?}sir{\?}... Don't let our children starve![if:convo_dismayed][ib:demure]"/>
     <string id="5o6pSbCx" text="Народний лікар"/>
@@ -1214,7 +1214,7 @@
     <string id="BQjAAo9f" text="Right now I'm looking for work, if you have anything to offer."/>
     <string id="BqkD4YWr" text="You manage to round up some men from the village who look like they might make decent recruits."/>
     <string id="BQn8yTs5" text="Ah, yes. I am afraid I can no longer entertain your proposal, at least not for now."/>
-    <string id="BQuVWKvq" text="You're welcome. Is there anything we need to discuss?"/>
+    <string id="BQuVWKvq" text="Нема за що. Можливо є ще щось, що нам потрібно обговорити?"/>
     <string id="bqXpBNvF" text="{.CS}{FIRSTNAME}{.CE} {.f}Кориця{.R_n10_ko}"/>
     <string id="BRaGcALd" text="Hah! Now why would we do that?"/>
     <string id="brDw7ewN" text="You have failed to deliver {GRAIN_AMOUNT} units of grain to the villagers. They won't be able to sow them before the coming winter. The Headman and the villagers are doomed."/>
@@ -1440,7 +1440,7 @@
     <string id="CyrOuz4h" text="This hero is wounded."/>
     <string id="CZ4y5NAf" text="Чиста інфраструктура"/>
     <string id="czCRxHZy" text="Вандал"/>
-    <string id="cZjaGL9R" text="Is there anything else I can do it for you?"/>
+    <string id="cZjaGL9R" text="Що ще я можу для вас зробити?"/>
     <string id="CzJZ5zhT" text="So it shall be proclaimed throughout your domain. May {KINGDOM_NAME} forever be victorious!"/>
     <string id="czuvE3PC" text="Do you think I will break my word for a handful more silver?"/>
     <string id="CZuYne8X" text="Singing, dancing and playing an instrument is important but the {?IS_BATTANIA}bard{?}minstrel{\?} knows more. You asked him to make sure the child is also skilled in..."/>
@@ -2169,7 +2169,7 @@
     <string id="hp4jLl3M" text="{PRISONER_LORD.LINK}{?PRISONER_LORD_HAS_FACTION_LINK} з {.S}{PRISONER_LORD_FACTION_LINK}{.v_rod}{?}{\?} {?PRISONER_LORD.GENDER}була звільнена{?}був звільнений{\?} з полону після битви."/>
     <string id="HpWYfcgw" text="..and to uphold your rights under the laws of the Sturgians, and the rights of your kin, and to avenge their blood as thought it were my own."/>
     <string id="hq13B7Ok" text="Yes.. You might be correct."/>
-    <string id="HQ6hyVNH" text="All right. Here is {TOTAL_PRICE}{GOLD_ICON}."/>
+    <string id="HQ6hyVNH" text="Гаразд. Ось {TOTAL_PRICE}{GOLD_ICON}."/>
     <string id="HQGUoRTW" text="Правитель вважається напівбожеством і в його (чи її) присутності повинні виконуватися певні обряди, що підвищують його (чи її) авторитет."/>
     <string id="HqJSNG3M" text="Our realm is currently doing well, but we stand to lose this wealth if we go on fighting."/>
     <string id="hr0TfX6o" text="{VALUE}% шкоди від одноручної зброї за кожне очко уміння понад 250."/>
@@ -4440,7 +4440,7 @@
     <string id="wNxhmNOc" text="I am afraid I cannot entertain such a proposal so long as we are at war."/>
     <string id="WO3EaqB3" text="How can I help you?"/>
     <string id="WoAgHDrN" text="I'm bringing you in, one way or the other."/>
-    <string id="WOBy5UfY" text="Hand over your goods, or die!"/>
+    <string id="WOBy5UfY" text="Віддавайте свій товар або помрете!"/>
     <string id="wodLHjnh" text="You or one of your companions with some {ALTERNATIVE_TROOP_AMOUNT} men should do the job. Either way I am willing to pay you {REWARD}{GOLD_ICON}. I doubt they'd stand up long to real warriors.[if:convo_mocking_teasing][ib:closed2]"/>
     <string id="wOKF17ta" text="I gave an oath to {CURRENT_LIEGE.LINK} - though no oath binds me to serve a weak leader who'll take us all down."/>
     <string id="WOqxWM67" text="Хитрий перемовник"/>
