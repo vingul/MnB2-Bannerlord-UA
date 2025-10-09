@@ -200,7 +200,7 @@
     <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are skirmishing."/>
     <string id="7EnFh9e5" text="Місцеперебування: {LOCATION}"/>
     <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {?}{\?}{TROOP_NAMES_END} ведуть поодинокі перестрілки."/>
-    <string id="7fjOwwVH" text="Sure, I'll give you a tip. I spoke to some traders who say they just bought some {.%}{ITEM_NAME}{.%} from {SETTLEMENT} at a price of {BUY_COST}{GOLD_ICON} and sold at {DESTINATION} for {SELL_COST}{GOLD_ICON}."/>
+    <string id="7fjOwwVH" text="Звичайно, я можу дати вам пораду. Я спілкувався з деякими торговцями, які сказали, що вони нещодавно купили {.%}{ITEM_NAME}{.%} в {SETTLEMENT}{.v_mis} за {BUY_COST}{GOLD_ICON} і продали в {DESTINATION}{.v_mis} за {SELL_COST}{GOLD_ICON}."/>
     <string id="7hj7Kaoz" text="Загальний дохід"/>
     <string id="7IqpjCDY" text="Executing a prisoner will negatively affect your reputation and will decrease your relation with the prisoner's faction/clan.{newline}You will not be able to undo this action.{newline}Are you sure you want to execute this character?"/>
     <string id="7j4fQHg7" text="Битва в лісі{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Лучники отримують середній штраф.{newline}• Кавалерія отримує великий штраф.{newline}• Кінні лучники отримують серйозний штраф."/>
@@ -1082,7 +1082,7 @@
     <string id="n6Q6vv5t" text="Ви забрали {GOLD} золота."/>
     <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are pulling back."/>
     <string id="N7yWipWU" text="Битва при переправі через річку{newline}{newline}• Піхота отримує невеликий бонус.{newline}• Кавалерія отримує середній штраф в атаці.{newline}• Кінні лучники отримують невеликий штраф в атаці."/>
-    <string id="N84HlDaV" text="{NUMBER_OF} {#GET_PLURAL_VALUE(DAY)}{ITEM}{#}{PLURAL(ITEM)}{#}{PLURAL(ITEM)}{\#} ({AMOUNT}{GOLD_ICON})"/>
+    <string id="N84HlDaV" text="{NUMBER_OF} {._}{#GET_PLURAL_VALUE(NUMBER_OF)}{ITEM}{#}{PLURAL(ITEM)}{#}{PLURAL(ITEM)}{.v_rod}{\#} ({AMOUNT}{GOLD_ICON})"/>
     <string id="n9qR84YI" text="{PRISONER.NAME} {?PRISONER.GENDER}втекла{?}втік{\?} з {.S}{SETTLEMENT}{.v_rod}."/>
     <string id="NaAA5kjG" text="Розглянути можливість укладення миру, отримуючи {TRIBUTE} данини/день (Підтримка: {SUPPORT}%)"/>
     <string id="nAaT19CC" text="{?RULER.GENDER}Archoness{?}Archon{\?} {RULER.NAME}"/>
