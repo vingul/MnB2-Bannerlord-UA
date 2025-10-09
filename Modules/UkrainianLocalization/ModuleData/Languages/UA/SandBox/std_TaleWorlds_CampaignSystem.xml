@@ -3950,7 +3950,7 @@
     <string id="TEhwK74M" text="We are willing to pay {REWARD}{GOLD_ICON} denars for {REQUESTED_ANIMAL_AMOUNT} healthy and strong [if:convo_normal][ib:demure]{.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}. Unlike us, I'm sure you can travel distant villages easily and find the finest and cheapest ones there."/>
     <string id="TENbJKpP" text="{OFFERED_KINGDOM_NAME} пропонує вам службу в якості найманця, виплачуючи вам {GOLD_AMOUNT}{GOLD_ICON} за кожне очко впливу, здобуте у битвах на їхньому боці. Ви згодні?"/>
     <string id="tEsgNQOZ" text="{VALUE}% швидкості вербування піхотинців з-поміж полонених."/>
-    <string id="TEUVTPIa" text="Well, we've been resting in town for a while, so our information is probably quite out of date."/>
+    <string id="TEUVTPIa" text="Ну, ми вже певний час відпочиваємо в місті, тому наша інформація, напевно, трохи застаріла."/>
     <string id="tf04Piaj" text="You told {?QUEST_GIVER.GENDER}her{?}him{\?} that you will sell the goods personally."/>
     <string id="tF1G5YLe" text="{newline} • Зниження рівнів будівель: {LEVELS_LOST}"/>
     <string id="tf1WPrkn" text="I had hoped that perhaps things would not come to fighting, at least not today.[ib:closed]"/>
@@ -4874,7 +4874,7 @@
     <string id="z50GdIa3" text="{?CHILD.GENDER}навчилась{?}навчився{\?} надихати воїнів."/>
     <string id="z5cLVzC8" text="It's well known that you and {CURRENT_LIEGE.NAME} loathe each other."/>
     <string id="z5DZXHF7" text="{VALUE}% швидкості змаху зброї для піхоти у ваших підрозділах."/>
-    <string id="Z5kqbeyu" text="Greetings, once again. Is there anything else?"/>
+    <string id="Z5kqbeyu" text="Ще раз вітаю. Щось іще?"/>
     <string id="Z6IoX4MH" text="Order your troops to try not to hurt the youth and try to separate the two sides."/>
     <string id="z6vJlozm" text="I am sorry. I don't believe you have the means to support a family.)"/>
     <string id="z7y35aPE" text="Mercenary Offer"/>
