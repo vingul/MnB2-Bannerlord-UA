@@ -123,7 +123,7 @@
     <string id="1Hd19nq5" text="Ви не командуєте цією облогою."/>
     <string id="1hOPCf8I" text="But I'm sure you won't disappoint me. Enjoy your riches![if:convo_focused_happy][ib:confident]"/>
     <string id="1hpeeCJD" text="Have you found any good men?[ib:confident3]"/>
-    <string id="1IJouNaM" text="Carry on, then. Farewell."/>
+    <string id="1IJouNaM" text="Тоді їдьте далі. До побачення."/>
     <string id="1IYP1wHc" text="{VALUE}% шансу раз на день покращити стосунки з відомою особою на 1 при вході в місто."/>
     <string id="1KWhhurv" text="Your tutor throws up his hands in the air at {CHILD.NAME}'s ability to lie {?CHILD.GENDER}her{?}his{\?} way out of trouble, but can't help but admire it a little."/>
     <string id="1l5dKk1c" text="Oh, thank you {PLAYER.NAME}. You will always be remembered by our people. Farewell.[if:convo_merry]"/>
@@ -832,7 +832,7 @@
     <string id="A61ppTa6" text="Do you know of anyone who might have a task for someone like me?"/>
     <string id="A6E74QyR" text="You are badly outnumbered. A rebellion should at least have a chance of success."/>
     <string id="a7fEPW5Y" text="Don't worry, I'll escort the caravan myself."/>
-    <string id="a7NrxcAD" text="Greetings, my {?PLAYER.GENDER}lady{?}lord{\?}. We're farmers from the village of {VILLAGE}. {VILLAGER_STATE}"/>
+    <string id="a7NrxcAD" text="Вітаємо вас, {?PLAYER.GENDER}пані{?}пане{?}. Ми селяни з села {VILLAGE}. {VILLAGER_STATE}"/>
     <string id="a869yxLt" text="{?IS_BATTANIA_OR_KHUZAIT}Lorekeeper{?}Scholar{\?}"/>
     <string id="A8dyXgLz" text="That's a pity."/>
     <string id="A8lvIDVw" text="Wise decision! Now move along![if:convo_angry] "/>
@@ -1053,7 +1053,7 @@
     <string id="b5InObbq" text="You accepted the headman's offer. The village's notables and villagers were happy with your decision and they gave you {PRODUCT_COUNT} {.%}{?(PRODUCT_COUNT &gt; 1)}{PLURAL(PRODUCT)}{?}{PRODUCT}{\?}{.%}."/>
     <string id="b5l18lo7" text="{VALUE}% шкоди та швидкості пересування піхоти вашого підрозділу."/>
     <string id="b5paUJjG" text="{NAME} is no more"/>
-    <string id="b5Ucatkb" text="Tell me about your journeys. What news of the markets?"/>
+    <string id="b5Ucatkb" text="Розкажіть про свої мандрівки. Які новини на ринках?"/>
     <string id="B5UMlqHc" text="I'll be honest... We don't want to die. Would you take us on as hired fighters? That way everyone gets what they want."/>
     <string id="b6BunI6y" text="Settlement Owner Changed"/>
     <string id="b6MgRYlM" text="Більшість членів ради виступили проти цього рішення."/>
@@ -1267,7 +1267,7 @@
     <string id="bx4MiPqN" text="Yes. I would be honored to be considered."/>
     <string id="bx6Jhhui" text="The artisan should make sure that the child knows the basics of smithing, fletching and pole-turning, and that men who work with their hands take pride in their work."/>
     <string id="bX841Jau" text="навчитися мистецтву зцілення."/>
-    <string id="BxazyNwY" text="We have {PRODUCTS}. We can let you have them for {TOTAL_PRICE}{GOLD_ICON}."/>
+    <string id="BxazyNwY" text="У нас є: {PRODUCTS}. Ми можемо продати їх вам за {TOTAL_PRICE}{GOLD_ICON}."/>
     <string id="bXdzsTdb" text="Yes... I am weary of fighting you. I could offer you a truce of forty days. If you keep your word and do not molest my lands and subjects, we may talk again..."/>
     <string id="bXN2fbcv" text="Your men treat the residents of {SETTLEMENT_NAME} as wayward subjects of the {SETTLEMENT_CULTURE_NAME} rather than foes, and treat them relatively well."/>
     <string id="BXw5MwX7" text="{DEFAULT_TEXT}Після успішної облоги {ARMY_LEADER.LINK} дозволяє своїм воїнам здійснити грабунок. {?ARMY_LEADER.GENDER}Вона{?}Він{\?} каже їм, що вони можуть забирати майно, але повинні зберегти мешканцям міста життя."/>
@@ -1882,7 +1882,7 @@
     <string id="FPdjh976" text="{VALUE}% шкоди їздовим тваринам від метальної зброї."/>
     <string id="FpleMw35" text="{VALUE}% штрафу при укладанні угоди з лордами вашого походження."/>
     <string id="FPPb7ur6" text="({INFLUENCE_AMOUNT}{INFLUENCE_ICON})"/>
-    <string id="FpUybbSk" text="Greetings. This caravan is owned by {MERCHANT.LINK}. We trade under the protection of {PROTECTOR.LINK}, master of {HOMETOWN}. How may we help you?[if:convo_normal]"/>
+    <string id="FpUybbSk" text="Вітаю. Цей караван належить {MERCHANT.LINK}{.v_dav}. Ми торгуємо під протекцією {PROTECTOR.LINK}{.v_rod}, господаря {HOMETOWN}{.v_rod}. Чим ми можемо вам допомогти?[if:convo_normal]"/>
     <string id="FPvgVbtN" text="Yes, yes. Goodbye."/>
     <string id="fQaPv0Xl" text="I will be staying here for a few days. Let me know if you need my services."/>
     <string id="FQkHkMhw" text="Славнозвісний командир"/>
@@ -2091,7 +2091,7 @@
     <string id="h9i9VXLd" text="You cannot enter an enemy lord's hall."/>
     <string id="H9Px95rR" text="Села приносять 0,2 впливу на день клану-власнику{newline}Міста отримують 1 безпеку, але втрачають 1 ополченця в день"/>
     <string id="H9tQfeBr" text="{VALUE}% плати за наймання та утримування соратників."/>
-    <string id="ha7EmrU9" text="Thank you for that information."/>
+    <string id="ha7EmrU9" text="Дякую за цю інформацію."/>
     <string id="HaAjWFrt" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що вміння розуміти мотиви людей і використання цього знання на свою користь є тим, що відрізняє звичайного воїна від короля."/>
     <string id="HAo6iIda" text="{HERO.NAME} не відповідає вимогам."/>
     <string id="HAtHptbV" text="In the end, I don't think we have that much in common."/>
@@ -3614,7 +3614,7 @@
     <string id="R3aVlXGu" text="You lost the battle against {MALE_LESSER_NOBLE_NAME} and failed to help {QUEST_GIVER.LINK} as promised."/>
     <string id="r3GvpY5n" text="Mercenaries receive influence like vassals for fighting, but it is exchanged at the end of each day for denars at the rate of {GOLD_AMOUNT}{GOLD_ICON} per influence point."/>
     <string id="r3pGLoKN" text="I accept oaths only from those I can trust to keep them, {PLAYER.NAME}."/>
-    <string id="r46NWboa" text="I'm going to market too. What kind of products do you have?"/>
+    <string id="r46NWboa" text="Я теж саме збираюся на ринок. Що у вас за продукція?"/>
     <string id="r4pLtP5V" text="You're right. We agreed on this price. Thank you for your efforts.[if:convo_nervous][ib:normal]"/>
     <string id="r5Netxy0" text="Ваш відносини з сільськими знатними особами погіршилися на {MAGNITUDE}."/>
     <string id="R5ObSaUN" text="Прогулятися по центру міста"/>
@@ -3906,7 +3906,7 @@
     <string id="SzIPvqLk" text="Of course not. If you don't wish to fight yourself - and I understand you might be quite busy - you could use your influence to convince one of the nobles of this realm to hold their next tournament in my honor.[ib:demure2][if:convo_merry]"/>
     <string id="T0feOigD" text="You decided to stop collecting revenues and leave the village. You told the villagers that they had paid enough, and they were grateful to you."/>
     <string id="T0LaDdAs" text="It is important that the child of the clan learns about the goods and their prices, that kind of understanding will be useful for all {?CHILD.GENDER}her{?}his{\?} life."/>
-    <string id="t0UGXPV4" text="I'm interested in trading. What kind of products do you have?"/>
+    <string id="t0UGXPV4" text="Мене цікавить торгівля. Які товари у вас є?"/>
     <string id="T1N2w4uK" text="{VALUE}% шансу подвійного успіху при переконанні."/>
     <string id="t1tNPPNf" text="I can go meet them and seal this deal myself."/>
     <string id="T3vJp4PG" text="Той, хто розуміє, як влаштовані ціни, може отримувати срібло просто з повітря."/>
@@ -3982,7 +3982,7 @@
     <string id="tLapkQqg" text="We won't forget this![if:convo_thinking][ib:aggressive]"/>
     <string id="TLcnbALt" text="Here are your {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} my {?QUEST_GIVER.GENDER}lady{?}lord{\?}."/>
     <string id="TLGvIdJB" text="Самолікування"/>
-    <string id="tlLDHAIu" text="Very well. A pleasure doing business with you.[rf:convo_relaxed_happy][ib:demure]"/>
+    <string id="tlLDHAIu" text="Дуже добре. Приємно мати з вами справу.[rf:convo_relaxed_happy][ib:demure]"/>
     <string id="tlNZIH3l" text="Опір до збиття з ніг: {a0}% від макс. здоров'я"/>
     <string id="TLuaPAIO" text="Податки: {A0}"/>
     <string id="tm9PiOMA" text="Special Weapon Order"/>
@@ -4525,7 +4525,7 @@
     <string id="XAdBVsXV" text="Clan members in an army"/>
     <string id="xADZi2bK" text="I'll go and find my men. I will remember your help..."/>
     <string id="xaNpQsjh" text="The child seems to never tire, running {?CHILD.GENDER}her{?}his{\?} caretakers ragged, and is rarely cranky."/>
-    <string id="XaPMUJV0" text="Whatever you have, I'm taking it. Surrender or die!"/>
+    <string id="XaPMUJV0" text="Що б у вас там не було, я це забираю. Здавайтеся або помрете!"/>
     <string id="XAvwP3Ce" text="Прорватися на допомогу захисникам"/>
     <string id="Xaw2CoCG" text="Приріст коней, мулів, корів і овець у селах хузаїтів підвищується на 25%."/>
     <string id="xAWvm25T" text="Effects settlement's loyalty."/>
