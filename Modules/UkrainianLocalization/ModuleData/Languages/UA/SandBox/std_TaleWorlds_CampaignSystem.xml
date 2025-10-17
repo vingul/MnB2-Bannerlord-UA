@@ -149,7 +149,7 @@
     <string id="1rbg3Hz2" text="The {FACTION_1} and {FACTION_2} are no longer enemies."/>
     <string id="1RBxhh4W" text="{QUEST_GIVER.LINK} is not avaliable for this quest anymore."/>
     <string id="1REltXXz" text="I'll help if I can."/>
-    <string id="1Resf6O4" text="I am {CONVERSATION_HERO.FIRSTNAME}, a merchant. I trade out of {SETTLEMENT_STRING}. {BUSINESS_STRING}"/>
+    <string id="1Resf6O4" text="Я {CONVERSATION_HERO.FIRSTNAME}, {?CONVERSATION_HERO.GENDER}торговка{?}торговець{\?}. Я торгую з {.S}{SETTLEMENT_STRING}{.v_oru}. {BUSINESS_STRING}"/>
     <string id="1s54uxsA" text="Sorry. I don't have any animals for you this time."/>
     <string id="1sbbbOyr" text="Excellent... I'm counting on you! The caravan will be leaving soon.[if:convo_normal][ib:hip]"/>
     <string id="1Tft1d4A" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Брила{.R_n10_ko}{?}{.m}Камінь{.R_n23_a_ke}{\?}"/>
@@ -4216,7 +4216,7 @@
     <string id="V4zyUiai" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я пішим воїнам вашого загону."/>
     <string id="V53EYEXx" text="{VALUE}% швидкості пересування в бою."/>
     <string id="v5HPLGXs" text="You can not transfer less than {LOWER_LIMIT} troops"/>
-    <string id="V5Kygicn" text="It was good to meet you. Come see me if you need anything."/>
+    <string id="V5Kygicn" text="Приємно було з вами познайомитися. Звертайтеся, якщо вам щось знадобиться."/>
     <string id="v5tPWFFu" text="Then, what is the purpose of this?"/>
     <string id="V5Za6d4h" text="Your troops have returned from their mission."/>
     <string id="v75k1FoT" text="Not yet. We need to make more preparations."/>
