@@ -870,7 +870,7 @@
     <string id="JbN0RwM2" text="You lost {INFLUENCE} influence for abandoning a defensive siege of your kingdom."/>
     <string id="jbQ3LYBl" text="{.m}імператор{.R_n20_a_ke_p}"/>
     <string id="JbTCDDb0" text="Bolt"/>
-    <string id="jCbYaCcg" text="Well met {PLAYER.LINK}. I am {CONVERSATION_CHARACTER.LINK}. Thanks for your help and I hope we meet again."/>
+    <string id="jCbYaCcg" text="Вітаю вас, {PLAYER.LINK}. Я {CONVERSATION_CHARACTER.LINK}. Дякую за допомогу і сподіваюся, що ми ще зустрінемося."/>
     <string id="jd4ULLGr" text="Активні завдання"/>
     <string id="JdNTRtpJ" text="Підтримуйте високий бойовий дух свого загону. Збирайте та очолюйте армії. Покращуйте своїх воїнів."/>
     <string id="Jelvod71" text="Capturing"/>
