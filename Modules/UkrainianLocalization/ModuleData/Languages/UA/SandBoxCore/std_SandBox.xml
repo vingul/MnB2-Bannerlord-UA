@@ -50,7 +50,7 @@
     <string id="2Lj0WkSF" text="{COMPANION.NAME} is now a {?COMPANION.GENDER}noblewoman{?}lord{\?} of the {KINGDOM}."/>
     <string id="2luygc8o" text="Mm. I suppose. Takes my mind off all these problems I have to deal with."/>
     <string id="2LW2jWuG" text="You should now have enough evidence to identify the spy. You might be able to find the tournament participants hanging out in the alleys with local thugs. Find and speak with them."/>
-    <string id="2mJjDTAZ" text="That sounds expensive."/>
+    <string id="2mJjDTAZ" text="Звучить дорого."/>
     <string id="2nFBTmao" text="Is there any other way to solve this other than asking around?"/>
     <string id="2OmrHVjp" text="{QUEST_GIVER.LINK} has lost the ownership of {QUEST_SETTLEMENT}. Your contract with {?QUEST_GIVER.GENDER}her{?}him{\?} has canceled."/>
     <string id="2P3UJ8be" text="You ask around the village if anyone saw {TARGET_HERO.NAME} or some suspicious characters with a young woman.\n\nVillagers say that they saw a young man and woman ride in early in the morning. They bought some supplies and trotted off towards {TARGET_VILLAGE}."/>
@@ -84,7 +84,7 @@
     <string id="4HokUcma" text="You will regret pushing [if:convo_very_stern]your nose into issues that do not concern you!"/>
     <string id="4IHRAmnA" text="All right. I am waiting for your runner."/>
     <string id="4KvAwfEZ" text="Give 10 War Horses"/>
-    <string id="4mhOs9Fb" text="Is there a way to form a caravan includes better troops?"/>
+    <string id="4mhOs9Fb" text="Чи можна сформувати караван з кращою охороною?"/>
     <string id="4mwSvCgG" text="Yes I will. Come now, I will take you with me to {TARGET_NOTABLE.NAME} to resolve this issue peacefully."/>
     <string id="4pkfkSbe" text="Sorry about the smell around here, {?PLAYER.GENDER}madame{?}sir{\?}. Tanning's like that, sorry to say. How can I help you?"/>
     <string id="4QfQBi2k" text="Alley fight won"/>
@@ -236,7 +236,7 @@
     <string id="ASOW1MuQ" text="Ваше поселення {SETTLEMENT} атакує {PARTY} з {.S}{FACTION}{.v_rod}!"/>
     <string id="asVE53ac" text="Daughter returns to {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}She{?}He{\?} is happy. Sends {?QUEST_GIVER.GENDER}her{?}his{\?} regards with a large pouch of {BASE_REWARD}{GOLD_ICON}."/>
     <string id="aSZvZRYC" text="A relative of {QUEST_GIVER.NAME} kills a relative of {TARGET_NOTABLE.NAME}. {QUEST_GIVER.NAME} offers to pay blood money for the crime but {TARGET_NOTABLE.NAME} wants revenge."/>
-    <string id="AuMLELpp" text="Okay then lets go with better troops, I am ready to pay {AMOUNT}{GOLD_ICON} to create a caravan."/>
+    <string id="AuMLELpp" text="Гаразд, тоді давайте візьмемо кращих воїнів, я готовий заплатити {AMOUNT}{GOLD_ICON} за створення каравану."/>
     <string id="av0bRae8" text="Who is imprisoned here?"/>
     <string id="avk9kNn1" text="Funny how the boundary stones on {NOTABLE.FIRSTNAME}'s land always seem a little bit closer every time you look at them."/>
     <string id="avVno3H8" text="Well, you can assign a companion of yours with a knack for this kind of game[if:convo_thinking] and enough muscles to back him up. Judging from what I have heard, a group of {NEEDED_MEN_COUNT} should be enough."/>
@@ -314,11 +314,11 @@
     <string id="CWbAoGRu" text="Yes, I don't care how you solve it. [if:convo_normal]Just solve it any way you like. I reckon {NEEDED_MEN_COUNT} led by someone who knows how to handle thugs could solve this in about {ALTERNATIVE_SOLUTION_DURATION} days. I'd send my own men but it could cause complications for us to go marching in wearing our clan colors in another lord's territory."/>
     <string id="cwqR0pp1" text="Greetings my {?PLAYER.GENDER}lady{?}lord{\?}. It's good to see you here. How can I help you?"/>
     <string id="CXw9a1i5" text="{QUEST_GIVER.LINK}, a {?QUEST_GIVER.GENDER}lady{?}lord{\?} from the {QUEST_GIVER_CLAN} clan, asked you to go to {SETTLEMENT} to free {?QUEST_GIVER.GENDER}her{?}his{\?} relative. The young man is currently held by {TARGET_HERO.LINK}, a local gang leader, because of his debts. {QUEST_GIVER.LINK} has suggested that you make an example of the gang so no one would dare to hold a nobleman again. {?QUEST_GIVER.GENDER}She{?}He{\?} said you can easily find the house in which the young nobleman is held in the town square."/>
-    <string id="cZptYTYd" text="Well.. There are many goods around the town that can bring good money if you trade them. A caravan you formed will do this for you. You need to pay at least {AMOUNT}{GOLD_ICON} to hire {NUMBER_OF_MEN} caravan guards to form a caravan and you need one companion to lead the caravan guards."/>
+    <string id="cZptYTYd" text="Ну.. У місті є багато товарів, які можуть принести вам непогані гроші, якщо ви їх зможете перепродати. Караван, який ви сформуєте, зробить це за вас. Щоб сформувати караван, вам потрібно заплатити щонайменше {AMOUNT}{GOLD_ICON}, щоб найняти {NUMBER_OF_MEN} охоронц{#GET_PLURAL_VALUE(NUMBER_OF_MEN)}я{#}ів{#}ів{\#} каравану, і вам потрібно надати одного свого соратника, щоб він очолив охоронців."/>
     <string id="D25oY3j1" text="Thank you {?PLAYER.GENDER}lady{?}sir{\?}. For your kindness and understanding. We won't forget this.[ib:demure][if:convo_happy]"/>
     <string id="d4t6oUCn" text="About your position in the clan..."/>
     <string id="d5a8xQos" text="You have failed to defeat the thugs that keep {QUEST_GIVER.LINK}'s relative captive. After your assault you learn that they move the boy to a more secure place. Now its impossible to find him. {QUEST_GIVER.LINK} will have to deal with {TARGET_HERO.LINK} himself now. {?QUEST_GIVER.GENDER}She{?}He{\?} won't be happy to hear this."/>
-    <string id="DaBzJkIz" text="I can increase quality of troops, but cost will proportionally increase, too. It will cost {AMOUNT}{GOLD_ICON}."/>
+    <string id="DaBzJkIz" text="Я можу підібрати кращих воїнів, але відповідно зросте і їх вартість. Це коштуватиме вам {AMOUNT}{GOLD_ICON}."/>
     <string id="dav5rmDd" text="{QUEST_GIVER.LINK}, a gang leader from {SETTLEMENT} has told you about a rival that is trying to get a foothold in {?QUEST_GIVER.GENDER}her{?}his{\?} town. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to wait {DAY_COUNT} days so that the other gang lets its guard down."/>
     <string id="DBTOhVl0" text="I'm glad you reconsidered, boss. Maybe it's not my place to say, but I think you should never let go of a good investment."/>
     <string id="dC6YhgPP" text="Ah. A good match, that."/>
@@ -458,7 +458,7 @@
     <string id="Hhd3KaKu" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. If your men can find my girl and bring her back to me, I will be so grateful.[if:convo_happy] I will pay you {BASE_REWARD_GOLD}{GOLD_ICON} for your trouble."/>
     <string id="HidEvGr4" text="Heal Player Party"/>
     <string id="hJ1SFkmq" text="You managed to find the spy but lost the duel. {QUEST_GIVER.LINK} is disappointed."/>
-    <string id="Hj25CLlZ" text="As you wish. Let me know if you change your mind."/>
+    <string id="Hj25CLlZ" text="Як бажаєте. Дайте мені знати, якщо передумаєте."/>
     <string id="hkNrC5d3" text="That was fun, but I've learned not to inflict too great a humiliation on those who carry a sword.[if:convo_merry] I'll take my winnings and enjoy them now. Good-bye to you!"/>
     <string id="HlrGpPkV" text="The {CLAN_NAME} changed from the {OLD_FACTION_NAME} to the {NEW_FACTION_NAME}."/>
     <string id="hM7LSuB1" text="Good to see you. But we still need to wait until after dusk. {HERO.LINK}'s men may be watching, so let's keep our distance from each other until night falls."/>
@@ -481,7 +481,7 @@
     <string id="icmr0jSa" text="This workshop belongs to {OWNER.LINK}. You need to talk to {?OWNER.GENDER}her{?}him{\?}."/>
     <string id="IdKG3IaS" text="Good to hear that."/>
     <string id="idPV1Csj" text="Yes... Why not? I have nothing too urgent right now."/>
-    <string id="IdvcaDMu" text="I'm willing to sell. But it will cost you {COST} {GOLD_ICON}. Are you willing to pay?"/>
+    <string id="IdvcaDMu" text="Я можу продати. Але це буде коштувати вам {COST} {GOLD_ICON}. Ви готові стільки заплатити?"/>
     <string id="IeihUvCD" text="Snare The Wealthy"/>
     <string id="IfeN8lYd" text="Coming to fight us, eh? Did {QUEST_GIVER.LINK} put you up to this?[ib:aggressive2][if:convo_confused_annoyed] Look, there's no need for bloodshed. This town is big enough for all of us. But... if bloodshed is what you want, we will be happy to provide."/>
     <string id="iHYAEEfv" text="SELECT AN HEIR"/>
@@ -543,7 +543,7 @@
     <string id="kAbebv72" text="I want you to go forage some food."/>
     <string id="kaVMFgBs" text="What now?"/>
     <string id="KAvwytDK" text="You didn't bring {DAUGHTER.NAME} to {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}she{?}he{\?} must be furious."/>
-    <string id="kB65SzbF" text="Yes."/>
+    <string id="kB65SzbF" text="Так."/>
     <string id="KbMew14D" text="Although the gang leader and the caravaneer joined their forces, you have successfully defeated them and kept the loot for yourself."/>
     <string id="kc6vCycY" text="What exactly do you want me to do?"/>
     <string id="kDItfaaN" text="I'll just have one more to keep me warm on the way home."/>
@@ -607,7 +607,7 @@
     <string id="LsDRCPp0" text="Your clan member {MOTHER.NAME} has given birth to {DELIVERED_CHILDREN}."/>
     <string id="ltbu3S63" text="Yes, you have heard correctly. I am looking for a capable [if:convo_astonished]leader with a good number of followers. You only need to escort the caravan until they reach {TARGET_SETTLEMENT}. A simple job, but the cargo is very important. I'm willing to pay {MERCHANT_REWARD} denars. And of course, if you betrayed me..."/>
     <string id="lUjCslGK" text="Hope you don't mind the smoke around here, {?PLAYER.GENDER}madame{?}sir{\?}. Got to keep the kilns hot. How can I help you?"/>
-    <string id="LuLttpc5" text="I wish to buy one of your workshops."/>
+    <string id="LuLttpc5" text="Я хочу купити одну з ваших майстерень."/>
     <string id="lustkZ7s" text="Perhaps {?QUEST_GIVER.GENDER}she{?}he{\?} made those plans because {?QUEST_GIVER.GENDER}she{?}he{\?} loves you."/>
     <string id="lVbQCibL" text="Yes. Take these troops with you."/>
     <string id="lVx35dWp" text="On second thought, let's keep this match friendly."/>
@@ -879,7 +879,7 @@
     <string id="TtlwXnVc" text="I am pleased to grant you the title of {CULTURE_SPECIFIC_TITLE} and the fiefdom of {SETTLEMENT_NAME}.. You richly deserve it."/>
     <string id="ttWBYlxS" text="So, what shall I do?"/>
     <string id="tuaQ5uU3" text="I guess the only way to free you from this pretty boy's spell is to kill him."/>
-    <string id="tuz8ZNT6" text="I wish to form a caravan in this town."/>
+    <string id="tuz8ZNT6" text="Я хочу організувати караван у цьому місті."/>
     <string id="tVb0nWxm" text="War is all about sacrifice. In {GAME_NAME} you must make sure that your opponent sacrifices more than you do. Every move can expose you or your opponent and must be carefully considered."/>
     <string id="tWzLqegB" text="Турнір завершено."/>
     <string id="TXO1ihiZ" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?}. I have often thought about that. If I had a fief, with revenues, and perhaps a title to go with it, I could marry well and pass my wealth down to my heirs, and of course raise troops to help defend the realm."/>
@@ -896,7 +896,7 @@
     <string id="udD7Y7mO" text="Thank you, my {?PLAYER.GENDER}lady{?}sir{\?}, for protecting me. I will go and tell {ISSUE_GIVER.LINK} of your success here."/>
     <string id="UEbesbKZ" text="Власне, я передум{?PLAYER.GENDER}ала{?}ав{\?}."/>
     <string id="UEY5aQ2l" text="I'm here to rob {TARGET_MERCHANT.NAME}, not be {?TARGET_MERCHANT.GENDER}her{?}his{\?} lackey. Now, cough up the goods or fight."/>
-    <string id="ug5E8FCZ" text="I wish to buy your {.%}{WORKSHOP_NAME}{.%}."/>
+    <string id="ug5E8FCZ" text="Я хочу купити у вас {._}{WORKSHOP_NAME}{.v_zna}{._}."/>
     <string id="UGTCe2qP" text="Relax. I've talked with your relative, {QUEST_GIVER.NAME}. I know all about your situation. I'm here to help."/>
     <string id="uhwoWUyR" text="Still haven't taken you to {HERO.LINK}...[ib:demure]"/>
     <string id="uJNvbag5" text="The walls of {SETTLEMENT} has been cracked."/>
@@ -1040,11 +1040,11 @@
     <string id="zJReEB8Z" text="Sitting in the marketplace all day one learns many things if one keeps one's ears open... But alas, I have heard nothing recently that might interest your worshipful self."/>
     <string id="zlFSIvD5" text="No, no. I know a trap when I see one. You win. Good-bye."/>
     <string id="zLnqZdIK" text="You don't have enough troops to assign this alley. (Needed at least {NEEDED_TROOP_NUMBER})"/>
-    <string id="znDzVxVJ" text="No."/>
+    <string id="znDzVxVJ" text="Ні."/>
     <string id="zNPzh5jO" text="Ah! Now that was as good a fight as any I've had. Here, take this purse, It is all yours as {QUEST_GIVER.LINK} has promised.[ib:hip2][if:convo_huge_smile]"/>
     <string id="zNqDEuAw" text="But I've promised to find you and return you to your {?QUEST_GIVER.GENDER}mother{?}father{\?}. {?QUEST_GIVER.GENDER}She{?}He{\?} would be devastated."/>
     <string id="ZO5RaXMW" text="Spare us from {?OWNER.GENDER}ladies{?}lords{\?} like {OWNER.LINK}, whose hearts are too tender to punish the thieves and rogues who terrorize honest folk."/>
-    <string id="zOp48Fsg" text="I accept these conditions and I am ready to pay {AMOUNT}{GOLD_ICON} to create a caravan."/>
+    <string id="zOp48Fsg" text="Я приймаю ці умови і готовий заплатити {AMOUNT}{GOLD_ICON} для створення каравану."/>
     <string id="ZpDQxmzJ" text="Family Feud"/>
     <string id="zRJ1bQFO" text="{ISSUE_GIVER.LINK}, a landowner from {ISSUE_GIVER_SETTLEMENT}, told you about an incident that is about to turn into an ugly feud. One of the youngsters killed another in an accident and the victim's family refused blood money as compensation and wants blood. You decided to leave {COMPANION.LINK} with some men for {RETURN_DAYS} days to let things cool down. They should return with the reward of {REWARD_GOLD}{GOLD_ICON} denars as promised by {ISSUE_GIVER.LINK} after {RETURN_DAYS} days."/>
     <string id="ZrMeSyPu" text="The {WEAPON} of {BESIEGER} hit some soldiers in {SETTLEMENT}!"/>
