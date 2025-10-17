@@ -54,58 +54,58 @@
     <string id="DXYVZbcz" text="{STR_SALUTATION}... {?LISTENER.GENDER}Готова{?}Готовий{\?} показати мені, на що {?LISTENER.GENDER}здатна{?}здатен{\?}?"/>
     <string id="Es1MRkbS" text="{STR_SALUTATION}... Це справді велика честь. Дозвольте представитися."/>
     <string id="F1KEe2XG" text="Будь ласка, коротко. У мене мало часу."/>
-    <string id="fQRGVkTL" text="Well, if it comes down to you and me, let's make it a fight that the bards will sing about, hey?"/>
-    <string id="G0qCtfK2" text="{STR_SALUTATION}... Such a pity we meet like this."/>
-    <string id="g9Gav4yj" text="{STR_SALUTATION}... So... A serpent has come to hiss in my ear."/>
-    <string id="GCTtfyGS" text="I don't know what we have to say to each other."/>
-    <string id="GgERkyDL" text="My lady..."/>
-    <string id="gGjqzb5j" text="What is it, stranger? Who're you?"/>
-    <string id="gLWgcDUN" text="Ah, the Heavens are kind. What kind of death do you want, dog?"/>
-    <string id="gMyAYyEX" text="{STR_SALUTATION}... It's been a while."/>
-    <string id="h6g4OQqT" text="Halt right there. Now then... Tell me your name, before we cross swords."/>
-    <string id="hAbpAkIw" text="{STR_SALUTATION}... I think your luck has run out."/>
-    <string id="hbvuSLB0" text="Well. Here we are. I once thought friendship was sacred, but all sacred things are profaned in the end. Don't think I won't kill you if I need to."/>
-    <string id="hW0ce7Nd" text="Welcome, stranger, to my little kingdom here. Who might you be?"/>
-    <string id="Ia4zfagK" text="{STR_SALUTATION}... It's an honor to meet you."/>
-    <string id="imbZKZIZ" text="{STR_SALUTATION}... It is my great honor to introduce myself to you."/>
-    <string id="iNYLG9P1" text="I am very angry with you. Too much time has gone by since last you visited."/>
-    <string id="IU3KjVbT" text="That's close enough. Who are you?"/>
-    <string id="j6p0K0s6" text="{STR_SALUTATION}. I'm yours to command."/>
-    <string id="jljaKTRo" text="{STR_SALUTATION}... I am a bit pressed for time right now. What is it?"/>
-    <string id="k8gI5Ix3" text="Your pardon - I did not catch your name."/>
-    <string id="KJsVOyUE" text="{STR_SALUTATION}... Such a delight to see you."/>
-    <string id="KnJoVOEk" text="{STR_SALUTATION}... I'm at your command."/>
-    <string id="Kp0Mc35d" text="Halt. Who're you?"/>
-    <string id="l03Kxell" text="Halt... Before we fight, I would know your name."/>
-    <string id="l0Bmbgqg" text="Come no closer. Before we come to blows, I would ask you your name."/>
-    <string id="laroTh3e" text="Do you have anything to say, before I give the order to attack?"/>
-    <string id="lbH0Fw9s" text="I've waited a long time for this day. Have a good look around you, for soon your eyes will have little to see but the inside of a raven's belly."/>
-    <string id="lK32NXY8" text="I trust you have been keeping well, doing honor to your name and cutting bloody swathes through your enemies."/>
-    <string id="LNhUaIoB" text="Right, you. Prepare to get what's coming to you."/>
-    <string id="LRpsEe3F" text="{STR_SALUTATION}... Good to see you."/>
-    <string id="LvafEVjz" text="{STR_SALUTATION}... I'm yours to command."/>
-    <string id="lvScVM9T" text="Please be brief. I am pressed for time."/>
+    <string id="fQRGVkTL" text="Що ж, якщо справа дійшла до битви між нами, то нехай це буде битва, про яку співатимуть барди, еге ж?"/>
+    <string id="G0qCtfK2" text="{STR_SALUTATION}... Шкода, що ми ось так зустрілися."/>
+    <string id="g9Gav4yj" text="{STR_SALUTATION}... Отож... {?LISTENER.GENDER}Змія приповзла{?}Змій приповз{\?} прошипіти мені щось на вухо."/>
+    <string id="GCTtfyGS" text="Я не знаю, що ми можемо сказати одне одному."/>
+    <string id="GgERkyDL" text="Моя пані..."/>
+    <string id="gGjqzb5j" text="Що сталося, {?LISTENER.GENDER}незнайомко{?}незнайомцю{\?}? Хто ти?"/>
+    <string id="gLWgcDUN" text="Ох, небеса сьогодні добрі. Якої смерті ти бажаєш, собацюро?"/>
+    <string id="gMyAYyEX" text="{STR_SALUTATION}... Давно не бачилися."/>
+    <string id="h6g4OQqT" text="Стій, де стоїш. А тепер... Назви своє ім'я, перш ніж ми схрестимо мечі."/>
+    <string id="hAbpAkIw" text="{STR_SALUTATION}... Здається, твоє везіння закінчилося."/>
+    <string id="hbvuSLB0" text="Що ж, ось і все. Колись я {?SPEAKER.GENDER}думала{?}думав{\?}, що дружба – це святе, але все святе врешті-решт паплюжиться. Не думай, що я не вб'ю тебе, якщо буде потрібно."/>
+    <string id="hW0ce7Nd" text="Ласкаво прошу, {?LISTENER.GENDER}незнайомко{?}незнайомцю{\?}, до мого маленького королівства. Хто ти {?LISTENER.GENDER}така{?}такий{\?}?"/>
+    <string id="Ia4zfagK" text="{STR_SALUTATION}... Для мене велика честь познайомитися з вами."/>
+    <string id="imbZKZIZ" text="{STR_SALUTATION}... Для мене велика честь представитися вам."/>
+    <string id="iNYLG9P1" text="Я дуже {?SPEAKER.GENDER}сердита{?}сердитий{\?} на тебе. Занадто багато часу минуло з твого останнього візиту."/>
+    <string id="IU3KjVbT" text="Ближче не треба. Хто ти?"/>
+    <string id="j6p0K0s6" text="{STR_SALUTATION}. Я у вашому розпорядженні."/>
+    <string id="jljaKTRo" text="{STR_SALUTATION}... У мене зараз трохи мало часу. У чому справа?"/>
+    <string id="k8gI5Ix3" text="Перепрошую, не розчув вашого імені."/>
+    <string id="KJsVOyUE" text="{STR_SALUTATION}... Як приємно вас бачити."/>
+    <string id="KnJoVOEk" text="{STR_SALUTATION}... Я у вашому розпорядженні."/>
+    <string id="Kp0Mc35d" text="Стійте. Хто ви?"/>
+    <string id="l03Kxell" text="Стій... Перед битвою я {?SPEAKER.GENDER}хотіла{?}хотів{\?} би дізнатися твоє ім'я."/>
+    <string id="l0Bmbgqg" text="Не підходь ближче. Перш ніж почнеться бій, я {?SPEAKER.GENDER}хотіла{?}хотів{\?} би дізнатися, як тебе звати."/>
+    <string id="laroTh3e" text="Хочеш щось сказати, перш ніж я віддам наказ про атаку?"/>
+    <string id="lbH0Fw9s" text="Я довго чекав цього дня. Уважно озирнись довкола, бо скоро твої очі не будуть бачити нічого, окрім воронячого дзьоба, що викльовує їх."/>
+    <string id="lK32NXY8" text="Вірю, що ти добре справляєшся зі своїми обов'язками, робиш честь своєму імені і прорубуєш собі криваві шляхи крізь товщу ворогів."/>
+    <string id="LNhUaIoB" text="Так, ти. Приготуйся отримати те, що заслужив."/>
+    <string id="LRpsEe3F" text="{STR_SALUTATION}... {?SPEAKER.GENDER}Рада{?}Радий{\?} тебе бачити."/>
+    <string id="LvafEVjz" text="{STR_SALUTATION}... Я до ваших послуг."/>
+    <string id="lvScVM9T" text="Будь ласка, коротко. У мене мало часу."/>
     <string id="mcNlccCF" text="Так? Не думаю, що ми знайомі. Мир тобі, незнайомцю."/>
-    <string id="mHjnRrLk" text="Well, I'll not deny it. It'll be a real pleasure to watch you writhing and bleeding in the dust."/>
-    <string id="mkFfE4Pm" text="That's close enough, now. Who are you?"/>
-    <string id="mru1p8Fz" text="{STR_SALUTATION}... Awaiting your orders, as always."/>
-    <string id="n5Va4JVo" text="Ah, good. Justice seems to have appointed me her executioner today. Are you partial to the sword, or the noose?"/>
-    <string id="nESnaBbx" text="My lady... You are lovely as ever."/>
-    <string id="nFPrHMdU" text="Eh. Wine here tastes like piss. Anyway, what do you want?"/>
-    <string id="nOMhLR63" text="{STR_SALUTATION}... You are lovely as ever."/>
-    <string id="Ny7o14yZ" text="Tell me your name. I always prefer to know whom I slay."/>
-    <string id="NZ9E0KVb" text="You know I don't care for you. What's it you want to say?"/>
-    <string id="nzSUfX5b" text="Prepare to reap a villain's reward, villain!"/>
-    <string id="oqSF8Ueu" text="Well now, stranger. Peace to you. What is your name?"/>
-    <string id="oYskGouF" text="{STR_SALUTATION}... My heart is glad to see you."/>
-    <string id="p1CHHIFb" text="Forgive me for what may seem an abundance of caution, but please keep your distance. Just beyond sword-length is fine. So, who might you be?"/>
-    <string id="P3o4r7cB" text="What do you want, stranger? Who are you?"/>
-    <string id="pbQjBNT3" text="{STR_SALUTATION}... May I introduce myself..."/>
-    <string id="PCLD3G3s" text="{STR_SALUTATION}... I'd wish you peace and prosperity, but of course I don't want that."/>
-    <string id="pf3LDFVp" text="Leave your sword in its scabbard for a moment longer, stranger. Who might you be?"/>
-    <string id="pff33rZl" text="{STR_SALUTATION}. I am at your service."/>
-    <string id="PiaaXapn" text="{STR_SALUTATION}... It's very good to see you."/>
-    <string id="PihQGbui" text="{STR_SALUTATION}... I take no joy in fighting you, but believe me I will do it if I need to."/>
+    <string id="mHjnRrLk" text="Що ж, не буду заперечувати. Буде справжнім задоволенням спостерігати, як ти корчишся і стікаєш кров'ю."/>
+    <string id="mkFfE4Pm" text="Все, ближче не наближайся. Хто ти?"/>
+    <string id="mru1p8Fz" text="{STR_SALUTATION}... Як завжди, чекаю на ваші накази."/>
+    <string id="n5Va4JVo" text="Oх, добре. Здається, правосуддя сьогодні мене призначило своїм катом. Ти віддаєш перевагу мечу чи зашморгу?"/>
+    <string id="nESnaBbx" text="Моя пані... Ви прекрасні, як завжди."/>
+    <string id="nFPrHMdU" text="Ех. Вино тут на смак як сеча. У будь-якому випадку, чого вам?"/>
+    <string id="nOMhLR63" text="{STR_SALUTATION}... Ви чарівні, як завжди."/>
+    <string id="Ny7o14yZ" text="Назвіть своє ім'я. Я завжди вважаю за краще знати, кого вбиваю."/>
+    <string id="NZ9E0KVb" text="Ти ж знаєш, що мені байдуже на тебе. То що ти хочеш сказати?"/>
+    <string id="nzSUfX5b" text="Готуйся отримати те, що заслужив, мерзотнику!"/>
+    <string id="oqSF8Ueu" text="Гаразд, {?LISTENER.GENDER}незнайомко{?}незнайомцю{\?}. Мир тобі. Як тебе звати?"/>
+    <string id="oYskGouF" text="{STR_SALUTATION}... Моє серце радіє, коли вас бачу."/>
+    <string id="p1CHHIFb" text="Вибач за надмірну обережність, але, будь ласка, тримай дистанцію. Не наближайся ближче довжини меча. Тож, хто ти {?LISTENER.GENDER}така{?}такий{\?}?"/>
+    <string id="P3o4r7cB" text="Чого тобі треба, {?LISTENER.GENDER}незнайомко{?}незнайомцю{\?}? Хто ти?"/>
+    <string id="pbQjBNT3" text="{STR_SALUTATION}... Дозвольте мені представитися..."/>
+    <string id="PCLD3G3s" text="{STR_SALUTATION}... Я б побажав тобі миру і процвітання, але, звичайно, я цього не хочу."/>
+    <string id="pf3LDFVp" text="Почекай, не виймай свого меча з піхов, {?LISTENER.GENDER}чужинко{?}чужинцю{\?}. Хто ти {?LISTENER.GENDER}така{?}такий{\?}?"/>
+    <string id="pff33rZl" text="{STR_SALUTATION}. Я до ваших послуг."/>
+    <string id="PiaaXapn" text="{STR_SALUTATION}... Дуже радий вас бачити."/>
+    <string id="PihQGbui" text="{STR_SALUTATION}... Я не в захваті від можливої битви між нами, але повірте, я зроблю це, якщо буде потрібно."/>
     <string id="pm786w3d" text="Such a pleasant surprise to see you. I hope my men can find some fetters of silver or gold, worthy of your rank, as it appears you may be gracing us with your presence tonight."/>
     <string id="PvxtpJaY" text="Yours is not a face I know. What is your name, stranger?"/>
     <string id="Q3kWez4P" text="Stop there. Who are you? It is better we know each other's names, even if we fight."/>
