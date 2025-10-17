@@ -101,7 +101,7 @@
     <string id="1bbsq6uw" text="We should award this fief to a new clan"/>
     <string id="1be7OEQB" text="{VALUE}% броні при пересуванні пішки."/>
     <string id="1BFk0wAV" text="{?CHILD.GENDER}перемогла{?}переміг{\?} ворога."/>
-    <string id="1bhjQFOe" text="I am {CONVERSATION_HERO.FIRSTNAME}. I own land around here. I speak for many of the people in this village."/>
+    <string id="1bhjQFOe" text="Я – {CONVERSATION_HERO.FIRSTNAME}. У мене тут є землі. Я говорю від імені багатьох людей у цьому селі."/>
     <string id="1bw2uw8H" text="Швидше за вітер"/>
     <string id="1cMS6415" text="Pay {FINE}{INFLUENCE_ICON}"/>
     <string id="1dS5OjLQ" text="{VALUE}% швидкості вивчення нових деталей при переплавленні."/>
@@ -2124,7 +2124,7 @@
     <string id="hfaw7Xx9" text="допомогу реміснику."/>
     <string id="hfbyHRu7" text="Farewell. If no one slits your throat out there, perhaps we shall meet again."/>
     <string id="HFkXIyCV" text="My family likes you..."/>
-    <string id="HfWBwR4v" text="I am {CONVERSATION_HERO.FIRSTNAME}, a merchant here in {SETTLEMENT_STRING}. {BUSINESS_STRING}"/>
+    <string id="HfWBwR4v" text="Я {CONVERSATION_HERO.FIRSTNAME}, {?CONVERSATION_HERO.GENDER}торговка{?}торговець{\?} тут у {.S}{SETTLEMENT_STRING}{.v_mis}. {BUSINESS_STRING}"/>
     <string id="HFZisEnI" text="I'm going to keep that herd for myself."/>
     <string id="HgdbSrq9" text="Things are all right, my {?HERO.GENDER}lady{?}lord{\?}. The merchants say that they are breaking even, for the most part. Some prices are high, but most of what the people need is available."/>
     <string id="hGheavqY" text="{?PLAYER_CHILD}Your{?}This{\?} child spends most of {?CHILD.GENDER}her{?}his{\?} free time fighting imaginary monsters with {?CHILD.GENDER}her{?}his{\?} wooden toy sword."/>
@@ -2766,7 +2766,7 @@
     <string id="LK4kNZkb" text="Enter the warehouse"/>
     <string id="Lk6ln3sR" text="We seem to have got separated but I have found you. Join me, as we need to continue your training."/>
     <string id="LKdrCaTO" text="{?CONVERSATION_NPC.GENDER}My lady{?}Sir{\?}, may I ask for some time to think about this?"/>
-    <string id="lkLNrscj" text="{.CS}{FIRSTNAME}{.CE} the {?FEMALE}{.f}Покоївка{.R_n10_ko}{?}{.m}Дворецький{.R_n2adj1}{\?}"/>
+    <string id="lkLNrscj" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Покоївка{.R_n10_ko}{?}{.m}Дворецький{.R_n2adj1}{\?}"/>
     <string id="lKWflUid" text="While you are waiting in {DEFENDER}, {ATTACKER} started an attack on it."/>
     <string id="Ll1EJHXF" text="Керувати замком"/>
     <string id="lLMlPcl4" text="Ви познайомилися з {HERO.NAME}{.v_oru}"/>
