@@ -1429,7 +1429,7 @@
     <string id="cwFyqrfv" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я воїнам за кожні 2 очки уміння понад 200."/>
     <string id="cwRkqIt4" text=" Королівства"/>
     <string id="cWyqiNrf" text="Примусова праця"/>
-    <string id="CX6JHwbB" text="Aye? What is it?"/>
+    <string id="CX6JHwbB" text="Так? У чому справа?"/>
     <string id="CxavIji0" text="many more"/>
     <string id="cXCbpPqS" text="{VALUE}% міцності таранам і облоговим вежам."/>
     <string id="CxKC5gqq" text="You have failed to reach round {ROUND_COUNT} in the tournament. "/>
@@ -3104,7 +3104,7 @@
     <string id="NT5fwUuJ" text="Fording"/>
     <string id="nT6EQGf9" text="This hero is currently solving an issue."/>
     <string id="NtCBRiLH" text="{VALUE}% швидкості зцілення при пересуванні по карті."/>
-    <string id="ntEBl43n" text="I am {CONVERSATION_HERO.FIRSTNAME}. I'm a craftsman, a working man. A lot of the other honest men here in {TOWN_NAME}, the ones that work with their hands, they like me to speak for them."/>
+    <string id="ntEBl43n" text="Я {CONVERSATION_HERO.FIRSTNAME}, ремісник і простий робітник. Багато людей тут, у {.S}{TOWN_NAME}{.v_mis}, які чесно заробляють собі на хліб своїми руками, хочуть, щоб саме я говорив від їхнього імені."/>
     <string id="nTETQEmy" text="Впливовий"/>
     <string id="nThmB3yB" text="Шлях меча"/>
     <string id="NTlbbrwB" text="If there will be a fight, then we will fight"/>
