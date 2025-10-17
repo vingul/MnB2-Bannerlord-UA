@@ -1020,7 +1020,7 @@
     <string id="m6A7RLby" text="Підступний"/>
     <string id="M6cWtObI" text="The following heroes can craft this weapon:"/>
     <string id="M6tfHhq7" text="You have voted and the ruler has decided on the outcome."/>
-    <string id="M9p0vPad" text="I know your name... {COMMENT_STRING_MAIN}"/>
+    <string id="M9p0vPad" text="Я знаю твоє ім'я... {COMMENT_STRING_MAIN}"/>
     <string id="m9vD3VlN" text="This party will NOT grow or shrink in size. It will try to keep it's size as it is."/>
     <string id="Ma0PyWAC" text="Raiding, attacking parties and sieging have a higher weight in decisions. The party will pursue enemies farther."/>
     <string id="ma49Ya6b" text="{.m}тридцятий{.R_adj}"/>
