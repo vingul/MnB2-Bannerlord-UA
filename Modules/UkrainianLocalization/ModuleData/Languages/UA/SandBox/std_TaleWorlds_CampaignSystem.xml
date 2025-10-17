@@ -277,7 +277,7 @@
     <string id="3gbgjJfZ" text="Candidly, what do you think of your liege, {FIRST_NAME}?"/>
     <string id="3GHIb7YX" text="Присяга на мечі"/>
     <string id="3GsZXXOi" text="+10% до виробництва в селах, прилеглих до замку."/>
-    <string id="3hEmXhaW" text="I'm {PLAYER.NAME}. Let's skip the pleasantries and get right to business."/>
+    <string id="3hEmXhaW" text="Я {PLAYER.NAME}. Опустимо люб'язності і перейдемо одразу до справи."/>
     <string id="3hffzsoK" text="Велична постать"/>
     <string id="3hFT34l1" text="{?CHILD.GENDER}Вона{?}Він{\?} допомагає місцевому лікарю, перев'язуючи і промиваючи рани, а коли лікар відсутній, виписує ліки."/>
     <string id="3hzSmrMw" text="Великий лідер"/>
@@ -1553,7 +1553,7 @@
     <string id="dnZekyZI" text="Directive from {QUEST_GIVER.LINK}: {DIRECTIVE}"/>
     <string id="dObod6IZ" text="дізнатися, що таке чесна праця."/>
     <string id="DOhOpmhV" text="Ви знайшли для {CHILD.NAME}{.v_rod} місце для стажування в інженера з облогових споруд. Навіть якщо це може бути дещо небезпечно, такий практичний досвід ніщо не замінить."/>
-    <string id="DOKcia5B" text="I'm {CONVERSATION_HERO.FIRSTNAME}. There's some who know me as {CONVERSATION_HERO.LINK}. That's a term of respect, by the way.[if:convo_mocking_revenge]"/>
+    <string id="DOKcia5B" text="Я – {CONVERSATION_HERO.FIRSTNAME}. Дехто знає мене як {CONVERSATION_HERO.LINK}. Це, до речі, прояв поваги.[if:convo_mocking_revenge]"/>
     <string id="DOmb81Mu" text="(Undefined hideout type)"/>
     <string id="dov3iRlt" text="{ENEMY_RULER.NAME} of the {ENEMY_KINGDOM_INFORMAL_NAME} is vile and dangerous. We must deal with {?ENEMY_RULER.GENDER}her{?}him{\?} before it is too late."/>
     <string id="dPD5zood" text="Щоденна зміна золота: {CHANGE}{GOLD_ICON}"/>
@@ -1709,7 +1709,7 @@
     <string id="Eo958e7R" text="{VALUE}% доходу від мит в підконтрольному поселенні."/>
     <string id="EOaOlh39" text="In due time. Let's not be too hasty."/>
     <string id="EOQcQa5l" text="Aftermath"/>
-    <string id="eOSJHbBD" text="I'm {CONVERSATION_HERO.FIRSTNAME}. I've lived all my life here, working the land, as do my kin. A lot of the people here in {VILLAGE_NAME}, the common farmers and craftsmen like me, they like me to speak for them."/>
+    <string id="eOSJHbBD" text="Я – {CONVERSATION_HERO.FIRSTNAME}. Я прожив тут усе своє життя, працюючи на землі, як і вся моя родина. Багато людей тут, у {.S}{VILLAGE_NAME}{.v_mis}, такі ж як я, прості фермери та ремісники, хочуть, щоб саме я говорив від їхнього імені."/>
     <string id="EP0gEG0L" text="виграти перегони."/>
     <string id="epcc2knY" text="Well, you get around, right? It wouldn't be hard for you to collect the {.%}{SELECTED_GOOD}{.%} we need. If you could bring, say {SELECTED_AMOUNT} {.%}{?SELECTED_AMOUNT &gt; 1}{PLURAL(SELECTED_GOOD)}{?}{SELECTED_GOOD}{\?}{.%} directly to me instead of selling to the merchants, I would gladly pay {REWARD_AMOUNT}{GOLD_ICON} for them. With this, the merchants would have to lower their prices.[if:convo_calm_friendly][ib:confident3]"/>
     <string id="ePD5Afvy" text="While you are past your prime, there is still enough time to go on that last big adventure for you. And you have all the experience you need to overcome anything!"/>
@@ -2274,7 +2274,7 @@
     <string id="IHXqZSnt" text="Yes, I am ready to accept your offer."/>
     <string id="iiH5gKzE" text="Голосування за {POLICY_NAME}{.v_zna}"/>
     <string id="iIlnWsBE" text="Keep safe, {PLAYER.NAME}. I hope to see you again soon."/>
-    <string id="iJd59BPZ" text="I'm {CONVERSATION_HERO.FIRSTNAME}. Ask around about me. You'll be told I keep the peace in the back alleys."/>
+    <string id="iJd59BPZ" text="Я – {CONVERSATION_HERO.FIRSTNAME}. Можеш порозпитувати тут про мене. Всі тобі скажуть, що саме я охороняю спокій у тутешніх провулках."/>
     <string id="IJdGTOAe" text="{.p}Народний{.R_adj} {.p}трибуна{.R_n10_p1}"/>
     <string id="IJihRdfF" text="Don't worry, we'll be ready for the fight."/>
     <string id="ijootCu7" text="Дуже легко зануритися лише в тонкощі метання каміння та зведення веж, проте {CHILD.NAME}{.v_dav} завжди було цікавіше зрозуміти, чому одні облоги ставали успішними, а інші — ні."/>
@@ -3067,7 +3067,7 @@
     <string id="nKw4eb22" text="{VALUE} боєприпас{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} для метальної зброї."/>
     <string id="nlCa3tW8" text="You seem like a reasonable man. What is your price?"/>
     <string id="NmGcIg3j" text="{VALUE}% опору до приголомшення під час ходьби пішки."/>
-    <string id="NmGJs7yB" text="My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}. May I ask your name?"/>
+    <string id="NmGJs7yB" text="Мене звати {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}пані{?}пане{\?}. Можу я дізнатися ваше ім'я?"/>
     <string id="nmJe4wN1" text="Швидке перегрупування"/>
     <string id="nMmYZ3xi" text="{HERO.NAME} is not available right now."/>
     <string id="nMn63bV1" text="I am {PLAYER.NAME}. All I ask is that you remember that name, and what I did.{newline}Tell me, what will you do now?"/>
@@ -3152,7 +3152,7 @@
     <string id="O4dWdKZd" text="Ach... So they say {LORD.LINK} got {?LORD.GENDER}his{?}her{\?} arse handed to {?LORD.GENDER}him{?}her{\?} by {OTHER_SIDE}. Grim times, friend."/>
     <string id="O4flV28Q" text="Тут немає полонених."/>
     <string id="O4iki0FD" text="Правитель отримує 5% податку з усіх поселень{newline}Міста втрачають 1 добробуту на день{newline}Кількість впливу, необхідного для оголошення війни, подвоюється для клану правителя"/>
-    <string id="O4KI2lgT" text="My name is {PLAYER.NAME}."/>
+    <string id="O4KI2lgT" text="Мене звати {PLAYER.NAME}."/>
     <string id="o57z0zB9" text="Шампур"/>
     <string id="o5AUljbW" text="{LORD.NAME} є членом {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod} з {.S}{FACTION_NAME}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="O5dgeoss" text="Значні запаси"/>
@@ -3199,7 +3199,7 @@
     <string id="Oi20UrO2" text="Our war with the {TARGET_SETTLEMENT_FACTION_INFORMAL_NAME} is going well enough. But there are some who say that we don't have enough to show for all the blood and silver we've spent. A clear victory at this stage would do a lot of good. I think I would like to see our banner flying from the towers of {TARGET_SETTLEMENT}.[ib:normal2][if:convo_thinking]"/>
     <string id="oI5H6Xo8" text="Don't think we won't fight you if you try and stop us.[if:convo_mocking_aristocratic]"/>
     <string id="oiLdjqwe" text="I am glad to hear that.[if:convo_nonchalant]"/>
-    <string id="oiMs17Oh" text="Very well... You know where to find me."/>
+    <string id="oiMs17Oh" text="Дуже добре... Ти знаєш, де мене можна знайти."/>
     <string id="OIwtLKN3" text="I am a {?PLAYER.GENDER}woman{?}man{\?} of my word. I will raise some money to pay you. Wait for my return {QUEST_GIVER.LINK}."/>
     <string id="oJ6lpXmp" text="But I have one with you, brigand! Give up now."/>
     <string id="OJ9QCJh8" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} досвіду в день всім воїнам, коли ви пересуваєтесь з перевантаженням."/>
@@ -3390,7 +3390,7 @@
     <string id="pSSDfAjR" text="Disguised in the garments of a poor pilgrim, you fool the guards and make your way into the town."/>
     <string id="PstO2f5I" text="Амбар"/>
     <string id="PSvarWWW" text="{VALUE} до бойового духу під час облоги підконтрольного поселення."/>
-    <string id="PtDgM4Xo" text="They know me as {PLAYER.NAME}. Mark it down, you shall be hearing of me a lot."/>
+    <string id="PtDgM4Xo" text="Мене знають як {PLAYER.NAME}. Запам'ятайте це ім'я, ви ще багато де про нього почуєте."/>
     <string id="PThYJE2U" text="Party Speed:"/>
     <string id="PTj1WtJx" text="The way we ran back there... It shames me to think of it. Next time, let us fight and die rather than let men call us cowards!"/>
     <string id="ptmYmT6B" text="{VALUE}% досвіду від боїв, яким ви ділитесь з воїнами вашого загону."/>
@@ -4416,7 +4416,7 @@
     <string id="wfb0FnbW" text="At last they've made peace with {ENEMY_NAME}. Good. I hope it lasts."/>
     <string id="WFFlp3Qi" text="Приклад для наслідування"/>
     <string id="wFWdhNCN" text="{VALUE}% штрафу до точності стрільби з арбалета при їзді верхи."/>
-    <string id="wFXj0bqj" text="My name is {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}madam{?}sir{\?}. Tell me about yourself."/>
+    <string id="wFXj0bqj" text="Мене звати {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}пані{?}пане{\?}. Розкажіть мені про себе."/>
     <string id="wGAmNQGE" text="У {CHARACTER.NAME} не так багато досвіду в цьому умінні, щоб я зміг {?CHARACTER.GENDER}їй{?}йому{\?} чимось допомогти. Може попрацюємо над чимось іншим?"/>
     <string id="wglTyBbx" text="Thank you, friend. Go in peace.[ib:normal][if:convo_approving]"/>
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement."/>
@@ -4490,7 +4490,7 @@
     <string id="WVobv24n" text="Heaven save us if {QUEST_GIVER.NAME} can't get {?QUEST_GIVER.GENDER}her{?}his{\?} hands on more grain."/>
     <string id="wvQbeHpp" text="{VALUE} болт{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} у кожному колчані."/>
     <string id="WvQDatMJ" text="I won't kid you, they're mean bastards, but that's good if you can manage them."/>
-    <string id="wVRwj2ff" text="I'm {CONVERSATION_HERO.FIRSTNAME}. Ask around about me. You'll learn I'm someone you don't want to mess with.[if:convo_stern]"/>
+    <string id="wVRwj2ff" text="Я – {CONVERSATION_HERO.FIRSTNAME}. Можеш порозпитувати тут про мене. Ти дізнаєшся, що я той, з ким краще не зв'язуватися.[if:convo_stern]"/>
     <string id="wVyqTlpS" text="Army Needs Supply"/>
     <string id="Ww3uU5e6" text="Юна зрілість"/>
     <string id="WWFnlL3O" text="{FACTION_LIEGE}'s followers"/>
@@ -4896,7 +4896,7 @@
     <string id="zBo78JQb" text="How are things doing here in {GOVERNOR_SETTLEMENT}?"/>
     <string id="zbPRul7h" text="Well.. I don't know you, but I'm very grateful."/>
     <string id="ZbvbsA4i" text="I can only hope that if they come to know my virtues, they will accept me."/>
-    <string id="zbWsjfbn" text="I'm {CONVERSATION_HERO.FIRSTNAME}. Ask around about me. Let's just say I've got a talent for solving people's problems, so to speak.[if:convo_bemused]"/>
+    <string id="zbWsjfbn" text="Я – {CONVERSATION_HERO.FIRSTNAME}. Можеш порозпитувати тут про мене. Скажімо так, я маю талант, так би мовити, розв'язувати проблеми людей.[if:convo_bemused]"/>
     <string id="zcf9M1Qh" text="Very well... You may go."/>
     <string id="Zckbdm4Z" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} забирає {.S}{SETTLEMENT}{.v_zna} у свою власність за повної підтримки своєї ради."/>
     <string id="ZCLVOXgM" text="Фруктові сади та городи за стінами дають їжу, поки немає облоги."/>
