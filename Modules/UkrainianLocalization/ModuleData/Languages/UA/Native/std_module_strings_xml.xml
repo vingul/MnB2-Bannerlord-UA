@@ -992,7 +992,7 @@
     <string id="LjUhEJxz" text="{.m}Караван{.R_n20_u} {.S}{OWNER.NAME}{.v_rod}"/>
     <string id="LJwKdMdw" text="Wait for your opponent to get into position"/>
     <string id="lKIHqkAV" text="{.m}сімнадцятий{.R_adj}"/>
-    <string id="LL6GkIfg" text="If you can beat {OPPONENT_COUNT_1} opponents before going down, you'll earn {PRIZE_1}{GOLD_ICON}. You'll get {PRIZE_2}{GOLD_ICON} for striking down at least {OPPONENT_COUNT_2} opponents, {PRIZE_3}{GOLD_ICON} if you can defeat {OPPONENT_COUNT_3} opponents, and {PRIZE_4}{GOLD_ICON} if you can survive long enough to beat {OPPONENT_COUNT_4} opponents. If you can manage to be the last fighter standing, you'll earn the great prize of the fights, {PRIZE_5}{GOLD_ICON}. Sounds good, eh?[if:convo_nonchalant]"/>
+    <string id="LL6GkIfg" text="Якщо переможеш {OPPONENT_COUNT_1} супротивник{#GET_PLURAL_VALUE(OPPONENT_COUNT_1)}а{#}ів{#}ів{\#} до того, як впадеш, то отримаєш {PRIZE_1}{GOLD_ICON}. За перемогу над щонайменше {OPPONENT_COUNT_2} супротивник{#GET_PLURAL_VALUE(OPPONENT_COUNT_2)}ом{#}ами{#}ами{\#} отримаєш {PRIZE_2}{GOLD_ICON}, над {OPPONENT_COUNT_3} супротивник{#GET_PLURAL_VALUE(OPPONENT_COUNT_3)}ом{#}ами{#}ами{\#} – {PRIZE_3}{GOLD_ICON}, над {OPPONENT_COUNT_4} супротивник{#GET_PLURAL_VALUE(OPPONENT_COUNT_4)}ом{#}ами{#}ами{\#} – {PRIZE_4}{GOLD_ICON}. Якщо тобі вдасться стати останнім бійцем, що залишився стояти на ногах, то отримаєш головний приз бою – {PRIZE_5}{GOLD_ICON}. Звучить непогано, правда?[if:convo_nonchalant]"/>
     <string id="Ll90uaxu" text="Успішні облоги"/>
     <string id="lNADu8JO" text="Ролі"/>
     <string id="lnKAqDVM" text="Defend key position"/>
