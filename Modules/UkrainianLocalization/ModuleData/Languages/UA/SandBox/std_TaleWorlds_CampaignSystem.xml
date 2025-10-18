@@ -863,7 +863,7 @@
     <string id="ABYGws1M" text="I'll bring you {NEEDED_AMOUNT} of those by myself."/>
     <string id="ac8PkfhG" text="Збільшує податкові надходження з регіону."/>
     <string id="aCA83avL" text="You have placed in the tournaments as {QUEST_GIVER.LINK} wished."/>
-    <string id="aCGgBilx" text="I would like help fine-tuning another skill."/>
+    <string id="aCGgBilx" text="Я хотів би, щоб мені допомогли покращити ще одне уміння."/>
     <string id="aCMZafK5" text="Бійка сталася через дрібну образу, і лише до першої крові. Але ви все одно відчуваєте полегшення, коли дізнаєтесь, що перша кров, про яку йшлося, належала іншій юній особі."/>
     <string id="aCO0Md8z" text="Коли під час патрулювання {?CHILD.GENDER}вона потрапила{?}він потрапив{\?} в засідку, {CHILD.NAME} завдяки своїй силі волі {?CHILD.GENDER}змогла{?}зміг{\?} самотужки відбитися від нападників."/>
     <string id="acOOsQaC" text="The food's running out. That's not fair to the men. We should take care that the food doesn't run out."/>
@@ -1609,7 +1609,7 @@
     <string id="dYO8piOM" text="Yes, my {?PLAYER.GENDER}lady{?}lord{\?}. It is good of you to ask. A group of deserters is camped out near here. They come every few weeks, demanding food and money. They've killed two villagers who resisted them.[if:convo_stern][ib:closed]"/>
     <string id="dyVvsBMs" text="{VALUE} до кількості необхідних успішних спроб для переконання персонажа з походженням, відмінного від вас."/>
     <string id="dYyFWmGB" text="{VALUE}% швидкості відновлення сіл, прилеглих до підконтрольного поселення."/>
-    <string id="Dz7E79QP" text="You have already helped enough. Thank you."/>
+    <string id="Dz7E79QP" text="Ви вже достатньо допомогли. Дякую."/>
     <string id="dZDFxUvU" text="{A0}"/>
     <string id="e0HktW6w" text="I fear I cannot accept such a mission at the moment."/>
     <string id="e1sSXEOh" text="This is excellent news. If you could bring the goods, it would be an immense help, and the merchants would have to lower their prices. Thank you.[if:convo_excited][ib:hip2]"/>
@@ -2320,7 +2320,7 @@
     <string id="Ir7BP5bD" text="The best smiths are those that understand how their tools are used. Your child will be tasked with sparring with the weapons and testing their edges. "/>
     <string id="iRarm6f7" text="We are not going anywhere friend. You're going to have to fight for your silver today."/>
     <string id="IRLB42FY" text="Зібрати Стяг Дракона!"/>
-    <string id="IsBVxopm" text="Excellent! Is there anything else I can help you with?"/>
+    <string id="IsBVxopm" text="Чудово! Чи можу я вам ще чимось допомогти?"/>
     <string id="isGIZ18i" text="The guards gave all your weapons back to you."/>
     <string id="IsHyjvSq" text="Останнє влучання"/>
     <string id="ISOHhXxW" text="Yes. I have brought your grain and wine as you requested."/>
@@ -4417,7 +4417,7 @@
     <string id="WFFlp3Qi" text="Приклад для наслідування"/>
     <string id="wFWdhNCN" text="{VALUE}% штрафу до точності стрільби з арбалета при їзді верхи."/>
     <string id="wFXj0bqj" text="Мене звати {PLAYER.NAME}, {?CONVERSATION_NPC.GENDER}пані{?}пане{\?}. Розкажіть мені про себе."/>
-    <string id="wGAmNQGE" text="У {CHARACTER.NAME} не так багато досвіду в цьому умінні, щоб я зміг {?CHARACTER.GENDER}їй{?}йому{\?} чимось допомогти. Може попрацюємо над чимось іншим?"/>
+    <string id="wGAmNQGE" text="У {CHARACTER.NAME}{.v_rod} не так багато досвіду в цьому умінні, щоб я зміг {?CHARACTER.GENDER}їй{?}йому{\?} чимось допомогти. Може попрацюємо над чимось іншим?"/>
     <string id="wglTyBbx" text="Thank you, friend. Go in peace.[ib:normal][if:convo_approving]"/>
     <string id="wgX2nL5Z" text="{SETTLEMENT} is no longer in control of enemy. There is no need to scout that settlement."/>
     <string id="WhHDg7ag" text="{.m}Загін{.R_n21_u_p} {MALE_LESSER_NOBLE_NAME}{.v_rod}"/>
