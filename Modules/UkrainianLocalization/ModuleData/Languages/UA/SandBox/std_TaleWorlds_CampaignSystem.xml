@@ -3063,7 +3063,7 @@
     <string id="NjMR2ypH" text="{VALUE}% швидкості зцілення під час відпочинку в поселеннях."/>
     <string id="NjPMRWbW" text="Укласти мир з {KINGDOM_NAME}{.v_oru}. Наше королівство буде отримувати {T} данини щодня."/>
     <string id="nJu03DL9" text="{VALUE}% покращення відносин, коли ви сплачуєте більше мінімальної суми при обміні."/>
-    <string id="NKTbhIoi" text="{VICTIM.LINK} was lost."/>
+    <string id="NKTbhIoi" text="{VICTIM.LINK} {?VICTIM.GENDER}загинула{?}загинув{\?}."/>
     <string id="nKw4eb22" text="{VALUE} боєприпас{#GET_PLURAL_VALUE(VALUE)}{#}и{#}ів{\#} для метальної зброї."/>
     <string id="nlCa3tW8" text="You seem like a reasonable man. What is your price?"/>
     <string id="NmGcIg3j" text="{VALUE}% опору до приголомшення під час ходьби пішки."/>
