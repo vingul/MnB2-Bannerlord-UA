@@ -135,7 +135,7 @@
     <string id="7k03GxZ1" text="It's great doing business with you. I'll order my men to release him immediately.[if:convo_mocking_teasing]"/>
     <string id="7kn4Jmdl" text="Ah, yes! We had such rhymes when I was young."/>
     <string id="7kqz1LlI" text="Prodigal son of {CLAN}"/>
-    <string id="7pH9MzS1" text="So you pay us to fight? What's in it for you?"/>
+    <string id="7pH9MzS1" text="То ти платиш нам за те, щоб ми билися? А що ти з цього маєш?"/>
     <string id="7qPda0SA" text="Yes... We do have a problem. One of my relatives fell victim to his temper during a quarrel and killed a man from {TARGET_VILLAGE}.[ib:normal2][if:convo_dismayed] We offered to pay blood money but the family of the deceased have stubbornly refused it. As it turns out, the deceased is kin to {TARGET_NOTABLE}, an elder of this region and now the men of {TARGET_VILLAGE} have sworn to kill my relative."/>
     <string id="7RyXSkEE" text="Wouldn't want to be the poor lovesick sap who ran off with {QUEST_GIVER.NAME}'s daughter."/>
     <string id="7tuyySmq" text="I'll start."/>
@@ -201,7 +201,7 @@
     <string id="AGnd7nDb" text="Worry not. The outlaws in these parts know my name well, and fear it."/>
     <string id="ah3WKIc8" text="I could use some more troops in my party. Have you found any volunteers?"/>
     <string id="AHg5k9q2" text="Welcome to {SETTLEMENT_NAME}. I think you'll find these are good, law-abiding folk, for the most part."/>
-    <string id="aHGbTpLp" text="Tell me how tournaments work."/>
+    <string id="aHGbTpLp" text="Розкажи, як працюють турніри."/>
     <string id="AjBYneFr" text="{CLAN_MEMBER.NAME} is in charge of the alley. {?CLAN_MEMBER.GENDER}She{?}He{\?} is currently traveling to the alley and will arrive after {HOURS} {?HOURS &gt; 1}hours{?}hour{\?}."/>
     <string id="ajSm2FEU" text="I know spies are hard to catch but I tasked this to you for a reason. [if:convo_stern]Do not let me down {PLAYER.NAME}."/>
     <string id="ak2EMWWR" text="You failed to bring the daughter back to her {?QUEST_GIVER.GENDER}mother{?}father{\?} as promised to {QUEST_GIVER.LINK}. {QUEST_GIVER.LINK} is furious"/>
@@ -443,7 +443,7 @@
     <string id="GwHPEgsv" text="You can't move. Chose one of the opponent's pawns to remove and make a move"/>
     <string id="GXk6f9ah" text="I've got a problem... [ib:confident][if:convo_undecided_closed]And {?TARGET_NOTABLE.GENDER}her{?}his{\?} name is {TARGET_NOTABLE.LINK}. {?TARGET_NOTABLE.GENDER}Her{?}His{\?} people have been coming around outside the walls, robbing the dice-players and the drinkers enjoying themselves under our protection. Me and my boys are eager to teach them a lesson but I figure some extra muscle wouldn't hurt."/>
     <string id="gYCSwLB2" text="Eh, what do you mean by that?[ib:closed][if:convo_confused_normal]"/>
-    <string id="H2aaMAe5" text="Tell me how the practice fights work."/>
+    <string id="H2aaMAe5" text="Розкажи, як влаштовані тренувальні бої."/>
     <string id="h2tMadtI" text="I've heard that story before. What did you lose?"/>
     <string id="H3fobmyO" text="Approach"/>
     <string id="H4EVfKAh" text="Gang leader needs help to beat the rival gang."/>
@@ -791,7 +791,7 @@
     <string id="qxY2ASqp" text="Take over the alley"/>
     <string id="QyGQanO7" text="There's no doubt that {NOTABLE.FIRSTNAME} is a stiff-necked old goat, but you can't say {?NOTABLE.GENDER}she{?}he{\?}'s not honest as the day is long."/>
     <string id="R0AbAxqX" text="Досягнення вимкнено через наявність неофіційних модулів."/>
-    <string id="R2HP4EiX" text="I don't have any more questions."/>
+    <string id="R2HP4EiX" text="У мене немає жодних питань."/>
     <string id="r7xdYj4q" text="Module Mismatch"/>
     <string id="RB4uQpPV" text="You're going to pay me a lot then, {REWARD}{GOLD_ICON} to be exact. But at that price, I agree."/>
     <string id="Rb7g1U2s" text="You have convinced {TARGET_HERO.LINK} to release {PRODIGAL_SON.LINK}. Soon after, {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} sends {?QUEST_GIVER.GENDER}her{?}his{\?} best regards and a sum of {REWARD}{GOLD_ICON} as a reward."/>
