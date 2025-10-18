@@ -81,7 +81,7 @@
     <string id="4C4WiTb2" text="{.m}Варяг{.R_n20_a_ke}"/>
     <string id="4cHMe6H2" text="Decorated Hauberk"/>
     <string id="4cU98rkg" text="Переплавлення"/>
-    <string id="4Dd2xgPm" text="Weight"/>
+    <string id="4Dd2xgPm" text="Вага"/>
     <string id="4eOHPops" text="Rugged Scale Armor"/>
     <string id="4f5xwzX0" text="Коли було необхідно організувати загін, щоб наздогнати конокрадів, ваша громада звернулася до вас, оскільки ви були очевидним вибором. Ви вистежили викрадачів, оточили їх, змусили здатися і повернути вкрадене."/>
     <string id="4gOGGbeQ" text="Створити битву"/>
@@ -804,7 +804,7 @@
     <string id="PUjDWe5j" text="Приналежність"/>
     <string id="PuRfbiW3" text="{.m}Ердуранд{.R_n20_a_ke}"/>
     <string id="PVgSGCYK" text="Nasal Helmet over Mail Coif"/>
-    <string id="pVkchhqX" text="{VICTIM.NAME} was lost."/>
+    <string id="pVkchhqX" text="{VICTIM.NAME} {?VICTIM.GENDER}загинула{?}загинув{\?}."/>
     <string id="Pya9aCTd" text="{.f}Ельтильда{.R_n10_ko}"/>
     <string id="PyeZ22FL" text="Bronze Cap with Cheek Guards"/>
     <string id="PyVqDLBu" text="Ваші батьки не дали вам багато грошей, але цього було досить, щоб ви змогли взяти кредит і побудувати невелику майстерню. Ви виплатили борг і продали свою справу, отримавши хороший прибуток."/>
