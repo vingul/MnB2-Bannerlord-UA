@@ -70,7 +70,7 @@
     <string id="2Jr3zWQz" text="Horses and Horse Harnesses"/>
     <string id="2Mic7nhz" text="Ніхто у вашому загоні не має достатнього рівня уміння «{SKILL}», щоб виконати це замовлення."/>
     <string id="2noOKM5N" text="Торгові зв'язки з поселенням"/>
-    <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} received as reward."/>
+    <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} отримано винагороди."/>
     <string id="2RIyK1bp" text="Weapons"/>
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} до впливу власника"/>
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (податок)"/>
