@@ -41,7 +41,7 @@
     <string id="1klXxZFS" text="I am lady of {TOWNS}."/>
     <string id="1Llb4gGw" text="Завершення"/>
     <string id="1m8zRjs8" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року клан {CLAN_NAME} приєднався до {.S}{KINGDOM_FORMALNAME}{.v_rod}."/>
-    <string id="1MStGeRa" text="Beaten opponent: {BEATEN_OPPONENT_COUNT}"/>
+    <string id="1MStGeRa" text="Переможених опонентів: {BEATEN_OPPONENT_COUNT}"/>
     <string id="1o1TyPib" text="До ліміту соратників"/>
     <string id="1PwQxaOu" text="Здається, підготовка до турніру йде повним ходом."/>
     <string id="1pxLpZ4r" text="Розсудливість:"/>
@@ -1157,7 +1157,7 @@
     <string id="OiCCv0EL" text="Село переживає важкі часи. Знаряддя праці заіржавілі та зламані. Чагарники та бур'яни потроху заполоняють поля."/>
     <string id="oiFt5bEV" text="Бонус від будівель"/>
     <string id="oiSW6MyB" text="Chest Armor"/>
-    <string id="OJmC1Ckc" text="Remaining opponent: {REMAINING_OPPONENT_COUNT}"/>
+    <string id="OJmC1Ckc" text="Залишилося опонентів: {REMAINING_OPPONENT_COUNT}"/>
     <string id="oKct1ecg" text="Дочка"/>
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
     <string id="OLKGQGHU" text="I am lord of {TOWNS}."/>
@@ -1223,7 +1223,7 @@
     <string id="PJEuE208" text="Ополчення:"/>
     <string id="pkyASW0A" text="Party / Payment Size Reach"/>
     <string id="pLZeP6L6" text="Assault walls{?IS_GENERAL_SIDE}{?} from {SIDE_STRING} side{\?}"/>
-    <string id="pm0yiOmv" text="Earned: {DENAR_AMOUNT}{GOLD_ICON}"/>
+    <string id="pm0yiOmv" text="Зароблено: {DENAR_AMOUNT}{GOLD_ICON}"/>
     <string id="pMb8Pe12" text="Невістка"/>
     <string id="PMnSk81U" text="So you intend to fight, little sheep? Let's see your horns then."/>
     <string id="PN4Edq9W" text="Melee Weapons III"/>
