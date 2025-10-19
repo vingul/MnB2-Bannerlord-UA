@@ -3193,7 +3193,7 @@
     <string id="Of7XnP5c" text="Голосувати за нового власника {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="OFMYfDPZ" text="{VALUE}% додаткового досвіду для воїнів дальнього бою у вашому загоні після кожної битви."/>
     <string id="ogdIceFH" text="You? No, that's forbidden."/>
-    <string id="OgkSLkFi" text="There is nobody in the lord's hall."/>
+    <string id="OgkSLkFi" text="У залі лорда нікого немає."/>
     <string id="ogsh3V6G" text="{QUEST_GIVER.LINK}, a headman from {QUEST_SETTLEMENT}, has told you about the hideout of some bandits who have recently been attacking local villagers. You told {?QUEST_GIVER.GENDER}her{?}him{\?} that you will take care of the situation yourself. {QUEST_GIVER.LINK} also marked the location of the hideout on your map."/>
     <string id="OHJYAaW5" text="The powers of Heaven and of the Earth have entrusted to you the guardianship of this sacred land..."/>
     <string id="Oi20UrO2" text="Our war with the {TARGET_SETTLEMENT_FACTION_INFORMAL_NAME} is going well enough. But there are some who say that we don't have enough to show for all the blood and silver we've spent. A clear victory at this stage would do a lot of good. I think I would like to see our banner flying from the towers of {TARGET_SETTLEMENT}.[ib:normal2][if:convo_thinking]"/>
