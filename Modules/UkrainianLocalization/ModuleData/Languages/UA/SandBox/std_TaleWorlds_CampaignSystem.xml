@@ -906,7 +906,7 @@
     <string id="aGvLxsub" text="You have successfully delivered {MOUNT_COUNT} {PLURAL(MOUNT_NAME)} to {QUEST_GIVER.LINK} as requested. You received {GOLD_REWARD}{GOLD_ICON} denars in return for your service."/>
     <string id="aHid0t6n" text="Give him some chance I'm sure he will prove himself soon."/>
     <string id="AhiGlNRG" text="{.CS}{FIRSTNAME}{.CE} {?NORTHERN}{?FEMALE}{.f}Торговка{.R_n10_ko} хутром{?}{.m}Торговець{.R_n22_a} хутром{\?}{?}{?FEMALE}{.f}Торговка{.R_n10_ko} спеціями{?}{.m}Торговець{.R_n22_a} спеціями{\?}{\?}"/>
-    <string id="aHjUgEur" text="I own {.%}{BUSINESS_LIST}{.%} here."/>
+    <string id="aHjUgEur" text="Я володію тут {.%}{.S}{BUSINESS_LIST}{.v_oru}{.%}."/>
     <string id="aHlcBLYB" text="Lose this tournament at 3rd round"/>
     <string id="ahpSGaow" text="You hear that your companion {NOTABLE.LINK}, who was separated from you after a battle, is currently in this settlement."/>
     <string id="AHtFRv5T" text="Ігнорування болю"/>
