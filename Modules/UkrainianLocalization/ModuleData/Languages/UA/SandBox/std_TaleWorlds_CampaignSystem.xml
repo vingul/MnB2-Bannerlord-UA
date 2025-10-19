@@ -948,7 +948,7 @@
     <string id="AndfZYIJ" text="Your companion managed to return all of the troops {ISSUE_GIVER.LINK} gave you to train. {?ISSUE_GIVER.GENDER}She{?}He{\?} sends you the following letter.\n\n“{?PLAYER.GENDER}Madam{?}Sir{\?}, Thank you for looking after my men. You honored our agreement, and you have my gratitude. Please accept this {GOLD}{GOLD_ICON}."/>
     <string id="ANhbaAhL" text="{VALUE} до відносин з торговцями, якщо на одну угоду витрачається 10'000 або більше динарів."/>
     <string id="anrenBiB" text="I am listening."/>
-    <string id="anTRftmb" text="Warehouse"/>
+    <string id="anTRftmb" text="Склад"/>
     <string id="aO2JSbSq" text="Загострене вістря"/>
     <string id="ao7gZafg" text="Very well. We will come with you."/>
     <string id="ao9bhAhf" text="You are not leading any troops"/>
@@ -2209,7 +2209,7 @@
     <string id="hzCTbbLP" text="You think you've caught a hare but instead you've caught a lion.[if:convo_furious][ib:warrior]"/>
     <string id="hzjmvPcB" text="And what about my duties as a mercenary?"/>
     <string id="I022Z9Ub" text="Heh. {QUEST_GIVER.NAME} got in deeper than {?QUEST_GIVER.GENDER}she{?}he{\?} could handle with those mercenaries."/>
-    <string id="i0h0LKa0" text="Our borders are far from those of the enemy. It is too arduous to pursue this war."/>
+    <string id="i0h0LKa0" text="Наші кордони далеко від кордонів ворога. Занадто важко вести цю війну."/>
     <string id="I0hqrQuD" text="{VALUE}% бонусу до шкоди від швидкості при використанні держакової зброї при їзді верхи."/>
     <string id="I0StkXlK" text="Do you have a need for fighters, {?PLAYER.GENDER}madam{?}sir{\?}? Me and {?PLURAL}{MERCENARY_COUNT} of my mates{?}one of my mates{\?} are looking for a master. You might call us mercenaries, like. We'll join you for {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="I0ZG4tIj" text="{TOWN_NAME} було захоплено вашими військами. Ви можете розмістити тут гарнізон для захисту від ворогів, які можуть спробувати його повернути."/>
@@ -2763,7 +2763,7 @@
     <string id="LjiYq9cH" text="I am sorry. I am not sure that I could ever love you."/>
     <string id="Ljs9ahMk" text="I know your intentions. I will not let you steal from those poor villagers!"/>
     <string id="LJsckbyF" text="{?PLAYER_CHILD}Your{?}This{\?} child spends hours exploring the edges of the estate, following animal tracks and looking for edible plants."/>
-    <string id="LK4kNZkb" text="Enter the warehouse"/>
+    <string id="LK4kNZkb" text="Увійти на склад"/>
     <string id="Lk6ln3sR" text="We seem to have got separated but I have found you. Join me, as we need to continue your training."/>
     <string id="LKdrCaTO" text="{?CONVERSATION_NPC.GENDER}My lady{?}Sir{\?}, may I ask for some time to think about this?"/>
     <string id="lkLNrscj" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Покоївка{.R_n10_ko}{?}{.m}Дворецький{.R_n2adj1}{\?}"/>
@@ -2965,7 +2965,7 @@
     <string id="mTHwgF8U" text="I am {CONVERSATION_HERO.FIRSTNAME}, {FACTION_DESCRIPTION}. I have come here to warn people that the time when the Heavens tolerate injustice -- those times are coming to an end."/>
     <string id="mTuIMcLA" text="All right. I will bring {SELECTED_AMOUNT} {.%}{?SELECTED_AMOUNT &gt; 1}{PLURAL(SELECTED_GOOD)}{?}{SELECTED_GOOD}{\?}{.%} to you."/>
     <string id="MTVhHmbb" text="{ISSUE_GIVER.LINK} told you that a group of deserters have been raiding their village regularly. You asked your companion {COMPANION.LINK} to take {TROOP_COUNT} men to stay with {ISSUE_GIVER.LINK} and defend the people of {ISSUE_SETTLEMENT}."/>
-    <string id="MTxuTZDA" text="I'll be here, your {?PLAYER.GENDER}ladyship{?}lordship{\?}."/>
+    <string id="MTxuTZDA" text="Я буду тут, ваша світлосте."/>
     <string id="mU45Th70" text="We're off to hunt them now."/>
     <string id="mu6Xl4RS" text="You cannot enter the tournament while disguised."/>
     <string id="MUaFiBva" text="{CHILD.NAME} {?CHILD.GENDER}прислухалась{?}прислухався{\?} до досвідчених інженерів і {?CHILD.GENDER}стала{?}став{\?} справжнім фахівцем у професії, де маленькі помилки можуть мати смертельні наслідки."/>
@@ -3965,7 +3965,7 @@
     <string id="throwingskillfocus" text="Фокусування"/>
     <string id="thugtrait" text="Thug"/>
     <string id="thxkhXmR" text="Very well. When next we meet, I can't promise things will go so peacefully."/>
-    <string id="THz06NQD" text="It is time to make peace"/>
+    <string id="THz06NQD" text="Настав час укласти мир"/>
     <string id="tI8aoxXC" text="{.CS}{FIRSTNAME}{.CE} {.f}Голка{.R_n10_ko}"/>
     <string id="Ti9auMiO" text="{VALUE} {#GET_PLURAL_VALUE(VALUE)}очко{#}очки{#}очків{\#} здоров'я."/>
     <string id="Tj8bGW4b" text="If a man and a woman respect each other, politics should not divide them."/>
