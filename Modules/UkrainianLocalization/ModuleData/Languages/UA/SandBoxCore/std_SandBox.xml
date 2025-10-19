@@ -1050,7 +1050,7 @@
     <string id="ZrMeSyPu" text="The {WEAPON} of {BESIEGER} hit some soldiers in {SETTLEMENT}!"/>
     <string id="zTF4bJm0" text="Yes, it's fine."/>
     <string id="ztiax0Sn" text="Say what you will about {?OWNER.GENDER}lady{?}lord{\?} {OWNER.LINK}... {?OWNER.GENDER}She{?}He{\?}'ll give the lowest wretch in the realm a fair hearing in {?OWNER.GENDER}her{?}his{\?} court. Can't deny that."/>
-    <string id="ZtULAKGb" text="Well then, we have a deal. I will instruct my workers that they are now working for you. Good luck!"/>
+    <string id="ZtULAKGb" text="Тоді домовилися. Я повідомлю своїх робітників, що вони тепер працюють на вас. Щасти вам!"/>
     <string id="zUKqWeUa" text="Come on, {PLAYER.NAME}. All this back-and-forth  is making me anxious. Let's finish this.[if:convo_nervous]"/>
     <string id="zv49qE35" text="Practice Fight"/>
     <string id="ZVbQemrz" text="My husband was wounded in the wars, and now can't pull a plow. So he lost his tenancy, and now I must beg in the marketplace."/>
