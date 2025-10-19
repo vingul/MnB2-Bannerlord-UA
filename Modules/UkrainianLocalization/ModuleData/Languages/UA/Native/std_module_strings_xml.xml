@@ -576,7 +576,7 @@
     <string id="Ej0QNsY9" text="{.m}п'ятнадцятий{.R_adj}"/>
     <string id="eJgaemO5" text="Зароблено на ставках: {BET} {GOLD_ICON}"/>
     <string id="ejhFyhyx" text="&lt;b&gt;Siege Tower&lt;/b&gt;&lt;br&gt;{NEWLINE}Brings the attackers to the same height as the wall and evens the odds against defenders."/>
-    <string id="ekQP9052" text="Steppe Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
+    <string id="ekQP9052" text="Битва в степу{newline}{newline}• Кавалерія отримує великий бонус.{newline}• Кінні лучники отримують великий бонус."/>
     <string id="eKwhGmbI" text="Після того, як цей воїн отримає ще {XP_AMOUNT} од, ще одного воїна можна буде покращити"/>
     <string id="EL7lZLXN" text="Can Knockdown"/>
     <string id="elhSbQfW" text="my kinsman {REFERING_HERO.LINK}"/>
@@ -1196,7 +1196,7 @@
     <string id="P8Z3zQyy" text="Safe"/>
     <string id="pa3E7810" text="Siege Preparations"/>
     <string id="PAa618xe" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are sallying out."/>
-    <string id="pAOtyE9u" text="Dune Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
+    <string id="pAOtyE9u" text="Битва серед дюн{newline}{newline}• Кавалерія отримує великий бонус.{newline}• Кінні лучники отримують великий бонус."/>
     <string id="pb4KfhxC" text="Your captains are ordering a tactical retreat!"/>
     <string id="pB5anEQq" text="Move to the starting position"/>
     <string id="pbdrFqb3" text="Заставити розпустити цю армію"/>
@@ -1325,7 +1325,7 @@
     <string id="RdsbyNE2" text="Розглянути можливість укладення миру, сплачуючи {TRIBUTE} данини/день (Підтримка: {SUPPORT}%)"/>
     <string id="REdb7vbQ" text="{?RULER.GENDER}Sultana{?}Sultan{\?} {RULER.NAME}"/>
     <string id="rFvEZJu7" text="{ITEM_NAME} додано до інвентарю {.S}{PLAYER.LINK}{.v_rod}."/>
-    <string id="rgmnL6sF" text="Desert Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
+    <string id="rgmnL6sF" text="Битва в пустелі{newline}{newline}• Кавалерія отримує великий бонус.{newline}• Кінні лучники отримують великий бонус."/>
     <string id="rGNrtXSx" text="You have arrived at {SETTLEMENT} to help defend the settlement from attackers."/>
     <string id="RGqPxabq" text="Влада"/>
     <string id="rHSjMjWX" text="Resolve Decision"/>
@@ -1610,7 +1610,7 @@
     <string id="xbh6Bmhf" text="Current support in kingdom"/>
     <string id="XBIPqxA2" text="Empty"/>
     <string id="XbMVn2JV" text="Pack Mount"/>
-    <string id="xD3ICb06" text="Snow Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
+    <string id="xD3ICb06" text="Битва в снігах{newline}{newline}• Кавалерія отримує великий бонус.{newline}• Кінні лучники отримують великий бонус."/>
     <string id="xD9xlbXt" text="prince"/>
     <string id="Xedhfj07" text="It would take {TRAVEL_DURATION} for {HERO_NAME} to arrive at your party. Do you want to proceed?"/>
     <string id="xEWwbGVK" text="Точність: "/>
@@ -1667,7 +1667,7 @@
     <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} (tariff)"/>
     <string id="yFl9N7wz" text="Взяти"/>
     <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a skirmish line."/>
-    <string id="YgcirtUD" text="Plains Battle{newline}{newline}• Cavalry gain large bonus.{newline}• Horse archers gain large bonus."/>
+    <string id="YgcirtUD" text="Битва на рівнині{newline}{newline}• Кавалерія отримує великий бонус.{newline}• Кінні лучники отримують великий бонус."/>
     <string id="ygY1oKQD" text="We are at your service, {?PLAYER.GENDER}madam{?}sir{\?}. Point us in the direction of those who need hurting, and we'll do the rest.[ib:convo_approving]"/>
     <string id="YhLweMrP" text="Armors"/>
     <string id="Yj0cQVLH" text="В атаку!"/>
