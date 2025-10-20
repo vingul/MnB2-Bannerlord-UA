@@ -3728,7 +3728,7 @@
     <string id="rsQhD7sC" text="You thought that the villagers have paid enough, so departed from the settlement"/>
     <string id="Rt2w61N8" text="Don't get involved in this. [if:convo_confused_normal][ib:hip]We've grazed our herds on these hillsides since our fathers' fathers' time. We don't care if one rich bastard gave a couple of bags of silver to another rich bastard. We don't care about title deeds or courts of law or any of that. Custom is custom, and we're not going anywhere!"/>
     <string id="rTbVn6sJ" text="{VALUE}% штрафу за бартер на предмети."/>
-    <string id="rtfoywJl" text="Declare war on the {KINGDOM_NAME}"/>
+    <string id="rtfoywJl" text="Оголошення війни {KINGDOM_NAME}{.v_dav}"/>
     <string id="RTNK5FSs" text="No, I don't want to shed your blood."/>
     <string id="rtP6vnmj" text="I'm not sure we're compatible."/>
     <string id="rtqD9cnu" text="Yeah, it's a rough world, but there are lots of opportunities to be seized right now if you're not afraid to get your hands a bit dirty."/>
