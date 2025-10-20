@@ -2500,7 +2500,7 @@
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
     <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod}, що підтримує {.S}{RULER}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
-    <string id="JuwBb2Yg" text="Disorganized"/>
+    <string id="JuwBb2Yg" text="Безлад"/>
     <string id="jvic7wfc" text="Bah... Parley's over.[if:idle_angry][ib:warrior] "/>
     <string id="jWavM9AD" text="You've been around in the world. You know that mercenaries aren't saints."/>
     <string id="JWjBnGST" text="I am afraid I won't be able to do this quest."/>
