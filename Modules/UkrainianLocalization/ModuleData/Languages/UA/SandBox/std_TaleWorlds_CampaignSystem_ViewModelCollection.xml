@@ -265,7 +265,7 @@
     <string id="o5G8A8ZH" text="Ваші динари"/>
     <string id="o79dIa3L" text="Міста, що належить {FACTION}{.v_dav}"/>
     <string id="ocSW4WA2" text="Critical Fail!"/>
-    <string id="ODEnkg0o" text="Clan Strength"/>
+    <string id="ODEnkg0o" text="Сила клану"/>
     <string id="OGbskMfz" text="Доступних частин:"/>
     <string id="OhNYkblK" text="Цей герой щойно втік від викрадачів і буде доступний через деякий час."/>
     <string id="OkWLI5C8" text="Размір:"/>
@@ -450,7 +450,7 @@
     <string id="zrhr4rDA" text="Ви впевнені, що хочете розпустити цю армію? Це призведе до погіршення відносин."/>
     <string id="ZUgoQ1Ws" text="Horse Type"/>
     <string id="zWaVxD6T" text="Швидкість загону"/>
-    <string id="zZlWRZjO" text="Wars"/>
+    <string id="zZlWRZjO" text="Війни"/>
     <string id="ZZmlYrgL" text="{FACTION}{.v_dav} не належить жодного замку"/>
   </strings>
 </base>
