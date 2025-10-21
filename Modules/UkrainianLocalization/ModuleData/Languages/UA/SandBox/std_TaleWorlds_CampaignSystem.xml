@@ -561,7 +561,7 @@
     <string id="6UKdUrPs" text="The men say the food's running out. We expect them to die for us if needed. Least we can do is let them die on a full belly."/>
     <string id="6vPCEaSR" text="Thank you, my {?PLAYER.GENDER}lady{?}lord{\?} that would be very good. Merchants will not like this but the hard-working artisans like me will be grateful to you for this."/>
     <string id="6Wc1XErN" text="Wait, wait... You're not going anywhere just yet."/>
-    <string id="6WP4OkKt" text="{VALUE}% щоденного шансу покращити стосунки з впливовими відомою особою у підконтрольному поселенні."/>
+    <string id="6WP4OkKt" text="{VALUE}% щоденного шансу покращити стосунки з впливовими відомими особами у підконтрольному поселенні."/>
     <string id="6wqJA77K" text="{VALUE}% швидкості виробництва у власних майстернях."/>
     <string id="6WUaFzlv" text="{?CHILD.GENDER}Вона сама викувала{?}Він сам викував{\?} меч — лезо, гарду та руків'я. Ремісник сказав, що він ніколи не бачив такої відданості і терпіння в такому юному віці."/>
     <string id="6XAvdeEE" text="{ARMY} has been disbanded since kingdom has been changed."/>
@@ -2593,7 +2593,7 @@
     <string id="KhUkmIrH" text="Deliver the herd to {TARGET_SETTLEMENT}"/>
     <string id="ki1CWgcP" text="Warning! You are too close to the caravan. Stay a bit farther away."/>
     <string id="kiJxwqVh" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Колісниця{.R_n10_ko}{?}{.m}Колісник{.R_n20_a}{\?}"/>
-    <string id="KiOBbxr3" text="Окрім рис характеру своїх батьків, у дитини також добре розвинуті {ATR_1} та {ATR_2}."/>
+    <string id="KiOBbxr3" text="Окрім рис характеру своїх батьків, у дитини також добре розвинуті {._}{ATR_1} та {._}{ATR_2}."/>
     <string id="KiUVswtx" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}Оксамит{?}{.m}Оксамит{.R_n20_ke}{\?}"/>
     <string id="kIVfA5cv" text="Панівний клан отримує 5% від поселення як податок за місто{newline}Виробництво в майстернях зменшено на 10%"/>
     <string id="kj3WQY1V" text="Maybe I should keep this to myself."/>
@@ -3574,7 +3574,7 @@
     <string id="QSPMKz2R" text="You are the chosen of the Sky, and I shall follow your banner as long as my breath remains..."/>
     <string id="qSy4Ns1N" text="There's someone who might meet your needs who is in here having a drink right now. Goes by the name of {INQUIRY_COMPANION.LINK}."/>
     <string id="qt5bkw8l" text="On your orders your troops sack the village, pillaging everything of any value, and then put the buildings to the torch. From the coins and valuables that are found, you get your share."/>
-    <string id="qTFKvGSg" text="Food Shortage"/>
+    <string id="qTFKvGSg" text="Нестача їжі"/>
     <string id="QtmPWQ5a" text="Some of my lads have gone missing. I've got a witness who says they'd gotten themselves dead drunk drinking with another band in these parts who turned out to be filthy bounty hunters. Now my boys are all trussed up, and these treacherous animals aim to turn them in for the bounty.[if:convo_annoyed][ib:closed]"/>
     <string id="QUeJ4gc3" text="Затягнути пояс"/>
     <string id="QuffbfeU" text="Дитина просить усіх дорослих, яких бачить, загадати їй одну з загадок, які так любить ваш народ, і не здається, поки її не розгадає."/>
@@ -3924,7 +3924,7 @@
     <string id="T9Tgi9is" text="animal"/>
     <string id="T9Viygs8" text="{VALUE}% швидкості будівництва за кожних 3 полонених."/>
     <string id="TaAHFZfd" text="Ви попросили керівника подорожі переконатися, що {?PLAYER_CHILD}ваша {?}{\?}дитина..."/>
-    <string id="taJOTFrb" text="Попри свій ніжний вік, дитина вже починає проявляти певні задатки у {ATR_1}{.v_mis} та {ATR_2}{.v_mis}."/>
+    <string id="taJOTFrb" text="Попри свій ніжний вік, дитина вже починає проявляти певні задатки у {._}{ATR_1}{.v_mis} та {._}{ATR_2}{.v_mis}."/>
     <string id="taKIDPxj" text="Посольства везуть подарунки, а це приваблює бандитів. Битви з ними зробили подорож набагато цікавішою, ніж {?CHILD.GENDER}вона очікувала{?}він очікував{\?}."/>
     <string id="TaouqUu7" text="{FIRSTNAME} of the Steps"/>
     <string id="TaucWWCB" text="Тримайся подалі"/>
