@@ -1040,7 +1040,7 @@
     <string id="MFLAvq4Z" text="There are bandits inside this place. Do you want to attack them?"/>
     <string id="MfnYoLdc" text="Expenses"/>
     <string id="MGv4Uabd" text="You bet {BET_AMOUNT} on yourself but you have been defeated."/>
-    <string id="mGWrSJLE" text="You cannot disband an army while it's in a map event."/>
+    <string id="mGWrSJLE" text="Ви не можете розпустити армію, поки вона бере участь у події на карті."/>
     <string id="mhAr3dfG" text="Розпочато завдання: {QUEST_TITLE}"/>
     <string id="MHJCuM3N" text="Halt! Your foreign feet on this sacred land offend our ancestors. What are we going to do about that?[rf:convo_mocking_revenge]"/>
     <string id="mieKgbp8" text="Обстрілів в день"/>
@@ -1090,7 +1090,7 @@
     <string id="NaorUInI" text="Understrength Parties"/>
     <string id="NarcUcZA" text="Назва фракції містить недопустимі символи."/>
     <string id="nbBgbwM2" text="В черзі: {NUMBER}"/>
-    <string id="NBv29XpJ" text="You cannot disband an army while you're in that army."/>
+    <string id="NBv29XpJ" text="Ви не можете розпустити армію, перебуваючи в цій армії."/>
     <string id="nbw71MCj" text="{BUILDING_NAME} building in {SETTLEMENT_NAME} is completed."/>
     <string id="nDNOn5o2" text="Equipment"/>
     <string id="ndXuPWYV" text="{NUM1}x{NUM2}"/>
@@ -1162,7 +1162,7 @@
     <string id="ol0rBSrb" text="{STR1}{newline}{STR2}"/>
     <string id="OLKGQGHU" text="I am lord of {TOWNS}."/>
     <string id="OLyjbawD" text="[More]"/>
-    <string id="OLZqZZF3" text="Якщо продовжите, {GOVERNOR.NAME} прибуде в {SETTLEMENT_NAME} через певний час ({TRAVEL_DURATION}), щоб стати новим намісником. Під час подорожі {GOVERNOR.NAME} буде {?GOVERNOR.GENDER}недоступна{?}недоступний{\?} і ви не зможете змінити намісника, поки {?GOVERNOR.GENDER}вона{?}він{\?} не прибуде в поселення. Ви впевнені?"/>
+    <string id="OLZqZZF3" text="Якщо продовжите, {GOVERNOR.NAME} прибуде в {SETTLEMENT_NAME}{.v_zna} через певний час ({TRAVEL_DURATION}), щоб стати новим намісником. Під час подорожі {GOVERNOR.NAME} буде {?GOVERNOR.GENDER}недоступна{?}недоступний{\?} і ви не зможете змінити намісника, поки {?GOVERNOR.GENDER}вона{?}він{\?} не прибуде в поселення. Ви впевнені?"/>
     <string id="ONGv27TH" text="Now out of my sight, you mangy cringing cur!"/>
     <string id="OnttNMRn" text="Shield IV"/>
     <string id="Ooqyo9RB" text="Пропустити"/>
@@ -1291,7 +1291,7 @@
     <string id="QmaVRAkx" text="You could not pay all wages, your party loses {reg1} morale."/>
     <string id="qMhCpq9k" text="Party Size Exceeded"/>
     <string id="Qn3DCH3d" text="Landowner"/>
-    <string id="qNgjr719" text="The force besieging {SETTLEMENT} has begun its assault!"/>
+    <string id="qNgjr719" text="Сили, що взяли в облогу {SETTLEMENT}{.v_zna}, розпочали штурм!"/>
     <string id="qnxJYAs7" text="Загін"/>
     <string id="qpmpTdla" text="Notable"/>
     <string id="qQLh6S2w" text="ОУ {CURRENTAMOUNT}/{TARGETAMOUNT}"/>
@@ -1722,7 +1722,7 @@
     <string id="ZEzxHLaH" text="Не можна вербувати полонених героїв"/>
     <string id="zg0q1aqD" text="You cannot disband a garrison party"/>
     <string id="Zg5Zmgui" text="We are returning from the market at {TOWN} back to our village."/>
-    <string id="ZhiB1EOM" text="Prisoner at {SETTLEMENT_NAME}"/>
+    <string id="ZhiB1EOM" text="У полоні в {SETTLEMENT_NAME}{.v_mis}"/>
     <string id="zkJPFtYn" text="Виконано завдання: {QUEST_TITLE}"/>
     <string id="ZlJIpfWg" text="Speed bonus: {SPEED_BONUS}%."/>
     <string id="ZMdOAbTd" text="Армія, що атакувала"/>
