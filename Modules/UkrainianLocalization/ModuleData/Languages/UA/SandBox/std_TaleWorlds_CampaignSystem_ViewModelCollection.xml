@@ -37,7 +37,7 @@
     <string id="5bzk75Ql" text="Атакує {._}{TARGET_PARTY}{.v_zna}."/>
     <string id="5dec16fa0be433ade3c4cb0074ef366d" text="Точність: "/>
     <string id="5dkPxmZG" text="Платня гарнізону"/>
-    <string id="5fa36d2798479803b4518a64beb4d732" text="Weapon Length: "/>
+    <string id="5fa36d2798479803b4518a64beb4d732" text="Довжина зброї: "/>
     <string id="63Ic1Ahe" text="Вартість: {UPGRADE_COST} (У вас немає)"/>
     <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop."/>
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: "/>
@@ -356,7 +356,7 @@
     <string id="SK8G9QpE" text="Вартість"/>
     <string id="Sls0KQVn" text="Elections"/>
     <string id="slzfQzl3" text="This hero is lost"/>
-    <string id="sqdzHOPe" text="Class"/>
+    <string id="sqdzHOPe" text="Клас"/>
     <string id="Srr4rOSq" text="Перемістити всіх полонених"/>
     <string id="sVsaWZjg" text="Перемістити всіх воїнів"/>
     <string id="sVZaIPoQ" text="Swing Speed"/>
@@ -438,7 +438,7 @@
     <string id="Z4GdqdgV" text="Item name cannot contain consecutive white spaces."/>
     <string id="z8h0BRAb" text="Keep all holdings"/>
     <string id="zawBaxl5" text="Distance : {DISTANCE}"/>
-    <string id="ZcybPatO" text="Weapon Length"/>
+    <string id="ZcybPatO" text="Довжина зброї"/>
     <string id="zduu7dpz" text="Тут нема полонених, доступних для вербування."/>
     <string id="Zemk86FK" text="Немає міста, завойованого {FACTION}{.v_oru}"/>
     <string id="zFDoDbNj" text="Кількість"/>
