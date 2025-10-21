@@ -236,7 +236,7 @@
     <string id="2ryLuN2i" text="Сім ветеранів"/>
     <string id="2Rzw16OX" text="If you can advance to win the tournament, I'm sure that will do us both honor.[ib:hip2][if:convo_relaxed_happy]"/>
     <string id="2s6cH2kE" text="Навіть найкращий мечник може доволі легко загинути, якщо його командир не розуміє різниці між необхідним ризиком і безрозсудною та невиправданою авантюрою."/>
-    <string id="2sQQh02s" text="{ATTRIBUTE1} and {ATTRIBUTE2} are increased by {NUMBER_AP}."/>
+    <string id="2sQQh02s" text="{ATTRIBUTE1} та {ATTRIBUTE2} збільшено на {NUMBER_AP}."/>
     <string id="2v0eQ755" text="Sorry, not interested."/>
     <string id="2vcfifbb" text="I yield"/>
     <string id="2WC42D5D" text="{VALUE}% швидкості побудови облогових знарядь ближнього бою."/>
@@ -3924,7 +3924,7 @@
     <string id="T9Tgi9is" text="animal"/>
     <string id="T9Viygs8" text="{VALUE}% швидкості будівництва за кожних 3 полонених."/>
     <string id="TaAHFZfd" text="Ви попросили керівника подорожі переконатися, що {?PLAYER_CHILD}ваша {?}{\?}дитина..."/>
-    <string id="taJOTFrb" text="Despite its tender age, the baby already starts to show some aptitude in {ATR_1} and {ATR_2}."/>
+    <string id="taJOTFrb" text="Попри свій ніжний вік, дитина вже починає проявляти певні задатки у {ATR_1}{.v_mis} та {ATR_2}{.v_mis}."/>
     <string id="taKIDPxj" text="Посольства везуть подарунки, а це приваблює бандитів. Битви з ними зробили подорож набагато цікавішою, ніж {?CHILD.GENDER}вона очікувала{?}він очікував{\?}."/>
     <string id="TaouqUu7" text="{FIRSTNAME} of the Steps"/>
     <string id="TaucWWCB" text="Тримайся подалі"/>
