@@ -2084,7 +2084,7 @@
     <string id="h5np5kcC" text="All right, all right... We don't want any trouble here, okay? Go on.[if:convo_contemptuous]"/>
     <string id="H6l9cm7I" text="I've been paying attention to your subtler methods, {?PLAYER.GENDER}my lady{?}lord{\?}, I've been observing that courage and strength in numbers is not enough to win most engagements. You have to be aware of the situation and seize the opportunities when they present themselves.[if:convo_calm_friendly][ib:hip]"/>
     <string id="H715sxmf" text="That is lower than what I had in mind. Let me think about it."/>
-    <string id="h7aX2GOw" text="This child is quite strong, grabbing whatever {?CHILD.GENDER}she{?}he{\?} likes climbing out of {?CHILD.GENDER}her{?}his{\?} cradle whenever {?CHILD.GENDER}her{?}his{\?} caretaker's back is turned."/>
+    <string id="h7aX2GOw" text="{?CHILD.GENDER}Дівчинка{?}Хлопчик{\?} досить {?CHILD.GENDER}сильна{?}сильний{\?}, хапає все, що {?CHILD.GENDER}їй{?}йому{\?} подобається, вилазить зі своєї колиски, щойно {?CHILD.GENDER}її{?}його{\?} няня відвертається."/>
     <string id="H7FpMR0O" text="I'm not buying them from you, thief. Bring them out now."/>
     <string id="H7NJ0QHQ" text="You see {?PLAYER_CHILD}your{?}the{\?} child endlessly re-arranging the pieces, inventing new rules and playing out stories in {?CHILD.GENDER}her{?}his{\?} head."/>
     <string id="h83ZU95t" text="Глибокий колчан"/>
@@ -2285,7 +2285,7 @@
     <string id="IKzqzPDS" text="Великодушність — це ваша відданість рідним і тим, хто вам служить, а також ваша вдячність тим, хто зробив вам послугу."/>
     <string id="il2khBNl" text="You just looted this party."/>
     <string id="IL3QWZ93" text="{QUEST_GIVER.LINK}, an artisan from {SETTLEMENT}, has told you about local merchant asking ridiculous amounts of money for the raw materials that {?QUEST_GIVER.GENDER}she{?}he{\?} needs to continue {?QUEST_GIVER.GENDER}her{?}his{\?} work. You said that you can bring {?QUEST_GIVER.GENDER}her{?}him{\?} {REQUESTED_AMOUNT} {.%}{?REQUESTED_AMOUNT &gt; 1}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}. {?QUEST_GIVER.GENDER}She{?}He{\?} is willing to pay {REWARD_AMOUNT}{GOLD_ICON} for these items."/>
-    <string id="Il7pDS8i" text="People remark on how much {?PLAYER_CHILD}your{?}the{\?} baby resembles {?CHILD.GENDER}her{?}his{\?} parents. {CHILD.NAME} definitely has {?PLAYER_IS_FATHER}your{?}{?CHILD.GENDER}her{?}his{\?} father's{\?}..."/>
+    <string id="Il7pDS8i" text="Люди відзначають, наскільки {?PLAYER_CHILD}ваша {?}{\?}дитина схожа на своїх батьків. {CHILD.NAME} безперечно успадкувала {?PLAYER_IS_FATHER}вашу{?}у свого батька{\?}..."/>
     <string id="IlRC9Drl" text="{.f}релігійний{.R_adj} {.f}секта{.R_n10}"/>
     <string id="IM05Jahy" text="{VALUE}% шкоди від дворучної зброї за кожне очко уміння вище 250."/>
     <string id="ImatoO4Y" text="{DURATION_IN_DAYS} required days to complete"/>
@@ -2862,7 +2862,7 @@
     <string id="m6RcG1bD" text="{VALUE}% бонусу до шкоди від швидкості воїнам вашого підрозділу."/>
     <string id="m72wpzG2" text="Go on, I'm listening."/>
     <string id="M7CcfbIx" text="End Raiding"/>
-    <string id="m7iBf6fQ" text="Pick an Attribute"/>
+    <string id="m7iBf6fQ" text="Виберіть характеристику"/>
     <string id="M7O3AItb" text="Forgive me. It's nothing."/>
     <string id="M8j6J8aN" text="Really? Very well, I'll send word to my lads that you intended to take our loot by force. They'll get things ready for you, have no fear. Just maybe not in the way you're hoping..."/>
     <string id="M8PXWpyV" text="Collected {ITEM}"/>
@@ -4538,7 +4538,7 @@
     <string id="xbvei0Cb" text="{.f}Феодальний{.R_adj} {.f}спадщина{.R_n10}"/>
     <string id="xbvgc8Sp" text="This solution will cost {INFLUENCE} influence."/>
     <string id="xbvQzR2B" text="Your men should be on their way."/>
-    <string id="xc4ossl0" text="Infancy"/>
+    <string id="xc4ossl0" text="Дитинство"/>
     <string id="xCjCHRcS" text="As you wish. I hereby declare your oaths to be null and void. You will no longer hold land or titles in my name, and you are released from your duties to my house. You are free, {PLAYER.NAME}."/>
     <string id="XCJGl82o" text="Do you think you can pull one over on me? Now hand over the weapons![if:convo_furious][ib:aggressive]"/>
     <string id="xCy5AXrz" text="I'll have your head on a pike for this, you bastard! Someday![if:convo_furious][ib:agressive]"/>
