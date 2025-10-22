@@ -908,7 +908,7 @@
     <string id="AhiGlNRG" text="{.CS}{FIRSTNAME}{.CE} {?NORTHERN}{?FEMALE}{.f}Торговка{.R_n10_ko} хутром{?}{.m}Торговець{.R_n22_a} хутром{\?}{?}{?FEMALE}{.f}Торговка{.R_n10_ko} спеціями{?}{.m}Торговець{.R_n22_a} спеціями{\?}{\?}"/>
     <string id="aHjUgEur" text="Я володію тут {.%}{.S}{BUSINESS_LIST}{.v_oru}{.%}."/>
     <string id="aHlcBLYB" text="Lose this tournament at 3rd round"/>
-    <string id="ahpSGaow" text="You hear that your companion {NOTABLE.LINK}, who was separated from you after a battle, is currently in this settlement."/>
+    <string id="ahpSGaow" text="Ви почули, що ваш соратник {NOTABLE.LINK}, який відокремився від вас після битви, зараз перебуває в цьому поселенні."/>
     <string id="AHtFRv5T" text="Ігнорування болю"/>
     <string id="ahydRFKe" text="There was someone who called {?INQUIRY_COMPANION.GENDER}herself{?}himself{\?} {INQUIRY_COMPANION.LINK}. Sounds like the kind of person who might interest you, no? {?INQUIRY_COMPANION.GENDER}She{?}He{\?} was headed for {COMPANION_SETTLEMENT}.[rb:positive]"/>
     <string id="aIaRIsw4" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Короста{.R_n10_ko}{?}{.m}Лишай{.R_n20_a}{\?}"/>
@@ -1598,7 +1598,7 @@
     <string id="dvEkfaab" text="визнавати простих людей королівства повноправними громадянами"/>
     <string id="dW09queg" text="I do not see it as being in my current interest to make peace."/>
     <string id="dwtIc9AG" text="Досвідчений коваль"/>
-    <string id="dx0hmeH6" text="Tracking"/>
+    <string id="dx0hmeH6" text="Відстеження"/>
     <string id="DXD3ag49" text="Well... I hope this delay is for a good reason.[ib:closed2][if:convo_thinking]"/>
     <string id="dxTSVT4C" text="Yes, that's sedition all right. Disperse now or face the consequences."/>
     <string id="dY2PzpIV" text="I'm not sure how much we have in common.."/>
@@ -2572,7 +2572,7 @@
     <string id="kD8yLgRv" text="Go on. But I have my eye on you."/>
     <string id="KdhnBhZ1" text="Yes, we are considering offers. These things are not rushed into."/>
     <string id="kDIi3bLN" text="The village needs someone to take a herd to {TARGET_SETTLEMENT}."/>
-    <string id="kDiN9iYw" text="{ATTACKER} is besieging the walls of {DEFENDER}"/>
+    <string id="kDiN9iYw" text="{ATTACKER} штурмує стіни {.S}{DEFENDER}{.v_rod}"/>
     <string id="KDOFexQb" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Свічкарка{.R_n10_ko}{?}{.m}Свічкар{.R_n24_a_ke}{\?}"/>
     <string id="KDtcsKUs" text="Подвійний бонус до бойового духу за різноманіття їжі у вашому загоні."/>
     <string id="kePH44eg" text="I am planning to sponsor my own caravans, and someone who could run them would be perfect."/>
