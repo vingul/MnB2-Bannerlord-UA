@@ -215,7 +215,7 @@
     <string id="AMlaYbJv" text="You don't have 1000 denars."/>
     <string id="aNZKqAAS" text="So what goes on here?"/>
     <string id="AozaGCru" text="{CLAN_NAME} і {KINGDOM_NAME} підписали контракт про наймання на службу."/>
-    <string id="ApG1xg7O" text="{PARTY_NAME} has left {ARMY_NAME}."/>
+    <string id="ApG1xg7O" text="{PARTY_NAME} покинув {.S}{._}{ARMY_NAME}{.v_zna}."/>
     <string id="aRDcoLX0" text="Now is not a good time, {PLAYER.NAME}. "/>
     <string id="arena_master_24" text="Тож чим ти хочеш зайнятися?"/>
     <string id="arena_master_25" text="Запишіть мене на турнір."/>
