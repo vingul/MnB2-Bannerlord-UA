@@ -46,7 +46,7 @@
     <string id="7l0LGKRk" text="Датою початку"/>
     <string id="7tBOCHm6" text="Колір емблеми:"/>
     <string id="7tKjfMSb" text="Провулки"/>
-    <string id="84oSzquz" text="Recently Escaped Captivity"/>
+    <string id="84oSzquz" text="Після нещодавньої втечі з полону"/>
     <string id="88WPmTKH" text="Get Input from the Warehouse"/>
     <string id="8BJDQe6o" text="Полонені, захоплені {FACTION}{.v_oru}"/>
     <string id="8BlMRMiR" text="Рівень коня"/>
@@ -165,7 +165,7 @@
     <string id="GwA9oUBC" text="Your skill focus determines the rate your skill increases with practice"/>
     <string id="h0xoKxxo" text="Item name should be between {MIN} and {MAX} characters."/>
     <string id="HAaElX8X" text="{PARTY_OWNERS_FACTION}"/>
-    <string id="heroRecovering" text="Recovering"/>
+    <string id="heroRecovering" text="Відновлюється"/>
     <string id="HfsUngkh" text="Recruitment is currently disabled."/>
     <string id="HFZdseH9" text="Лише правитель королівства може змінити його назву."/>
     <string id="HHTQVp52" text="Швидкість зцілення героїв"/>
@@ -255,7 +255,7 @@
     <string id="NHZ1jNIF" text="Below Requirements"/>
     <string id="nKQmaSDO" text="Немає замку, завойованого {FACTION}{.v_oru}"/>
     <string id="NkY3Kq9l" text="Item name cannot contain special characters."/>
-    <string id="NLFeyz7m" text="Recently Released From Captivity"/>
+    <string id="NLFeyz7m" text="Після нещодавнього звільнення з полону"/>
     <string id="no0chrAH" text="This workshop has not been running for {DAY} {?PLURAL_DAYS}days{?}day{\?} because the production has not been profitable"/>
     <string id="NRpbagbZ" text="Втікає до {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="nuK4Afnr" text="Party is not eligible to join the army."/>
