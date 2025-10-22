@@ -750,7 +750,7 @@
     <string id="H0o13D7a" text="Shops"/>
     <string id="H1emUb6k" text="Вік:"/>
     <string id="H4rAiNlf" text="You bet {BET_AMOUNT} on yourself and you won the fight. Here is your reward {REWARD_AMOUNT}{GOLD_ICON}."/>
-    <string id="h6AJXR2e" text="Are you sure to retreat your party?"/>
+    <string id="h6AJXR2e" text="Ви впевнені, що хочете, щоб ваш загін відступив?"/>
     <string id="h8Bcd7NE" text="{FACTION} Ruler Election"/>
     <string id="H9y9dLao" text="Щоб виграти більше, ви можете збільшити ставку. Кожного раунду коефіцієнти будуть мінятися, але ви не зможете поставити більше {MAX_AMOUNT}&lt;img src=&quot;General\Icons\Coin@2x&quot;&gt;."/>
     <string id="haax8kMa" text="{.f}Держаковий{.R_adj} {.f}зброя{.R_n10}"/>
@@ -1057,7 +1057,7 @@
     <string id="MpDMaBE9" text="Defy us, will you? We'll drink from your skull!"/>
     <string id="mPtUKcI3" text="The enemy is organizing. Consider a tactical retreat soon."/>
     <string id="MPZ40lEk" text="Naming Newborn"/>
-    <string id="MqsWixDp" text="Retreat!"/>
+    <string id="MqsWixDp" text="Відступити!"/>
     <string id="mSPDO0Fe" text="You are trapped by enemies. You are not in no condition to fight. Your only option is to surrender."/>
     <string id="MT4b8H9h" text="Unknown"/>
     <string id="mTTWkewD" text="Передати"/>
@@ -1514,7 +1514,7 @@
     <string id="v5bJd6mZ" text="+{BONUS_AMOUNT} до зміни добробуту"/>
     <string id="V7ESaOJU" text="Choose your banner"/>
     <string id="Vap6ahft" text="Men! {BEHAVIOUR_NAME_BEGIN}!"/>
-    <string id="VbeHEAsa" text="Retreat"/>
+    <string id="VbeHEAsa" text="Відступити"/>
     <string id="Vc9Mx6Jb" text="Завдання"/>
     <string id="vdK5SaJN" text="Mm. Pity.[ib:aggressive][if:convo_annoyed]"/>
     <string id="vdKLq8T5" text="Стіни{newline}Рівень {LEVEL}"/>
