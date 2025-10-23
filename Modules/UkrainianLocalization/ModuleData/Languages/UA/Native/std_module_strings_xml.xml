@@ -268,7 +268,7 @@
     <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})"/>
     <string id="9PLNQrWw" text="Ви чуєте мало скарг. Люди, здається, довіряють своїм правителям."/>
     <string id="9pwIt4aa" text="{.m}Віск{.R_n21_u}{@Plural}{.p}Ящик{.R_n20_p} воску{\@}"/>
-    <string id="9raxrECY" text="If you proceed, {LEADER.NAME} will be the new leader of this party. Are you sure?"/>
+    <string id="9raxrECY" text="Якщо продовжите, {LEADER.NAME} стане новим лідером цього загону. Ви впевнені?"/>
     <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are charging."/>
     <string id="9zpZRkYz" text="Прискорення проєкту додає +{BOOST} будівництву і коштує {COST} динар{#GET_PLURAL_VALUE(COST)}{#}и{#}ів{\#}/день."/>
     <string id="a0mJ0cVV" text="Споживання"/>
@@ -572,7 +572,7 @@
     <string id="eEmbb1MR" text="Виробництво"/>
     <string id="eHBvuPk6" text="двадцять {.m}шостий{.R_adj}"/>
     <string id="EHkzaZBi" text="Турнір в {SETTLEMENT_NAME}{.v_mis}"/>
-    <string id="ehsuyvdT" text="If you proceed, the party will be without a leader for {TRAVEL_DURATION} while your clan members travel. It will not be able to join any armies until its new leader arrives. Are you sure?"/>
+    <string id="ehsuyvdT" text="Якщо ви продовжите, поки члени вашого клану будуть подорожувати ({TRAVEL_DURATION}), загін залишиться без лідера. Загін не зможе приєднатися до жодної армії, поки не з'явиться новий лідер. Ви впевнені?"/>
     <string id="Ej0QNsY9" text="{.m}п'ятнадцятий{.R_adj}"/>
     <string id="eJgaemO5" text="Зароблено на ставках: {BET} {GOLD_ICON}"/>
     <string id="ejhFyhyx" text="&lt;b&gt;Siege Tower&lt;/b&gt;&lt;br&gt;{NEWLINE}Brings the attackers to the same height as the wall and evens the odds against defenders."/>
@@ -778,7 +778,7 @@
     <string id="hmlUJaDa" text="Well met indeed {PLAYER.LINK}. My name is {CONVERSATION_CHARACTER.LINK} and I am forever in your debt. If there is ever anything I can help you with, just let me know..."/>
     <string id="HNBAw1uO" text="{PARTY} has gained {AMOUNT_TO_ADD} renown. {CLAN}'s new renown is {NEW_RENOWN}."/>
     <string id="HNqy4Ctc" text="Cannot kick a companion who is solving an issue."/>
-    <string id="hoebgN2u" text="If you proceed, selected clan members will start traveling and they will not be available until they arrive {SETTLEMENT_NAME}. Are you sure?"/>
+    <string id="hoebgN2u" text="Якщо продовжите, вибрані члени клану почнуть подорож і будуть недоступні, поки не прибудуть до {SETTLEMENT_NAME}{.v_rod}. Ви впевнені?"/>
     <string id="homesettlement" text="Дім"/>
     <string id="hourabbr" text="h"/>
     <string id="HP9wMk1T" text="Can't access party screen right now!"/>
