@@ -803,7 +803,7 @@
     <string id="ribkM9dl" text="You already own another alley in the settlement."/>
     <string id="rjHQpVDZ" text="{QUEST_GIVER.LINK} a landowner from {QUEST_GIVER_SETTLEMENT}, told you about an incident that is about to turn into an ugly feud. One of the youngsters killed another during a quarrel and the victim's family refuses the blood money as compensation and wants blood."/>
     <string id="RJtCakaG" text="There is nobody inside to receive you right now."/>
-    <string id="RmtTsqcx" text="A new caravan is created for {HERO.NAME}."/>
+    <string id="RmtTsqcx" text="Створено новий караван для {HERO.NAME}{.v_rod}."/>
     <string id="RPgzaZeR" text="Ваша гра закінчиться."/>
     <string id="rqFKxm24" text="Greetings, friend. If you came for the games, the big fights, I'm afraid you're out of luck. There won't be games, or a 'tournament' as they say nowadays, any time soon."/>
     <string id="RsOmvdmU" text="We have come to talk! Just listen to us please![if:convo_shocked]"/>
