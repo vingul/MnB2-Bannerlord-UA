@@ -572,7 +572,7 @@
     <string id="eEmbb1MR" text="Виробництво"/>
     <string id="eHBvuPk6" text="двадцять {.m}шостий{.R_adj}"/>
     <string id="EHkzaZBi" text="Турнір в {SETTLEMENT_NAME}{.v_mis}"/>
-    <string id="ehsuyvdT" text="Якщо ви продовжите, поки члени вашого клану будуть подорожувати ({TRAVEL_DURATION}), загін залишиться без лідера. Загін не зможе приєднатися до жодної армії, поки не з'явиться новий лідер. Ви впевнені?"/>
+    <string id="ehsuyvdT" text="Якщо продовжите, загін залишиться без лідера ({TRAVEL_DURATION}), поки члени вашого клану будуть подорожувати. Загін не зможе приєднатися до жодної армії, поки не з'явиться новий лідер. Ви впевнені?"/>
     <string id="Ej0QNsY9" text="{.m}п'ятнадцятий{.R_adj}"/>
     <string id="eJgaemO5" text="Зароблено на ставках: {BET} {GOLD_ICON}"/>
     <string id="ejhFyhyx" text="&lt;b&gt;Siege Tower&lt;/b&gt;&lt;br&gt;{NEWLINE}Brings the attackers to the same height as the wall and evens the odds against defenders."/>
@@ -661,7 +661,7 @@
     <string id="FmIIQEQD" text="{HERO.NAME} has died."/>
     <string id="fMmlUHyz" text="Шкода від змаху: "/>
     <string id="forgeverb" text="Кувати"/>
-    <string id="FpI5JMZq" text="Transactions have been reset"/>
+    <string id="FpI5JMZq" text="Транзакції були скасовані"/>
     <string id="fpP2s7hX" text="+{BONUS_AMOUNT} приросту до зростання села."/>
     <string id="fQ2RLaOa" text="У клану немає жодних вотчин"/>
     <string id="fQAGU9GW" text="Великодушність:"/>
