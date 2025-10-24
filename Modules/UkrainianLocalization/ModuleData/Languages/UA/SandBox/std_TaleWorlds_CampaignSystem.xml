@@ -4365,7 +4365,7 @@
     <string id="W0Zu4iDz" text="Швидкість перезаряджання арбалета: +{a0}%"/>
     <string id="w1B71sNj" text="Ривок і удар"/>
     <string id="w1K8XDls" text="{VALUE}% шансу створити якісну зброю."/>
-    <string id="W1KJEvit" text="{newline}    Levels Lost: {BUILDINGS_LOST_LEVEL}"/>
+    <string id="W1KJEvit" text="{newline}    Втрачені рівні: {BUILDINGS_LOST_LEVEL}"/>
     <string id="w1rVTUIs" text="This seems like a simple errand. Would your offer still stand if I get someone else to do it for me?"/>
     <string id="w290a2DV" text="{.CS}{FIRSTNAME}{.CE} {?IMPERIAL}{?FEMALE}{.f}Маркітантка{.R_n10_ko}{?}{.m}Маркітант{.R_n20_a_ke}{\?}{?}{?FEMALE}{.f}Крамарка{.R_n10_ko}{?}{.m}Крамар{.R_n24_a}{\?}{\?}"/>
     <string id="W2vV5jzj" text="I'll go back to my family. I will remember your help..."/>
