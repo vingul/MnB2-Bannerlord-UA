@@ -395,7 +395,7 @@
     <string id="Voa0sinH" text="Необхідно: {NEEDED_EXP_AMOUNT} од (У вас є {CURRENT_EXP_AMOUNT})"/>
     <string id="vOojEcIf" text="You cannot assign a prisoner member as a new party leader"/>
     <string id="Vq8yavES" text="Вже в армії."/>
-    <string id="VtWa9Pmh" text="Raiding {TARGET_SETTLEMENT}."/>
+    <string id="VtWa9Pmh" text="Здійснює набіг на {TARGET_SETTLEMENT}{.v_zna}."/>
     <string id="VzCoqt8D" text="No sadle equipped. -10% penalty to mounted speed and maneuver."/>
     <string id="VZjxs5Dt" text="Власник: "/>
     <string id="w0slxNAl" text="If limit is lower than current wage, party will not recruit troops until wage is reduced to the limit. If limit is higher than current wage, party will keep recruiting."/>
