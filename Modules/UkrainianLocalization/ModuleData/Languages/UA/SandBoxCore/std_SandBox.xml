@@ -926,7 +926,7 @@
     <string id="VcfZdKcp" text="Don't worry, I will protect your relative."/>
     <string id="vctta154" text="Well {PLAYER.NAME}, it is certainly good to see you still retain your sense of humor.[if:convo_nervous][ib:normal2]"/>
     <string id="Vd22iVGE" text="Well {?PLAYER.GENDER}lady{?}sir{\?}, sorry to disappoint you, but our people have some self-respect."/>
-    <string id="VDfyzs5v" text="nephew"/>
+    <string id="VDfyzs5v" text="племінник"/>
     <string id="vGnY4KBO" text="I care very little for your threats. My business is with {TARGET_NOTABLE.LINK}."/>
     <string id="VGrHWxzf" text="This will be a massacre, not a duel, but I'm fine with that."/>
     <string id="VH27tpkT" text="It's quite the opportunity to make your name. You risk no more than your teeth, and didn't the Heavens give us thirty of those, just to have a few spare for grand opportunities like this?"/>
