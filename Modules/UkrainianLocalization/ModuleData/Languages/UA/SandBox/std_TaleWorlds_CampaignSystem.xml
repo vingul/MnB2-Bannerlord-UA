@@ -2171,7 +2171,7 @@
     <string id="hq13B7Ok" text="Yes.. You might be correct."/>
     <string id="HQ6hyVNH" text="Гаразд. Ось {TOTAL_PRICE}{GOLD_ICON}."/>
     <string id="HQGUoRTW" text="Правитель вважається напівбожеством і в його (чи її) присутності повинні виконуватися певні обряди, що підвищують його (чи її) авторитет."/>
-    <string id="HqJSNG3M" text="Our realm is currently doing well, but we stand to lose this wealth if we go on fighting."/>
+    <string id="HqJSNG3M" text="Наше королівство зараз процвітає, але ми ризикуємо втратити наше багатство, якщо продовжимо воювати."/>
     <string id="hr0TfX6o" text="{VALUE}% шкоди від одноручної зброї за кожне очко уміння понад 250."/>
     <string id="hR6Zo6pD" text="Oligarchic"/>
     <string id="hRCvgbQ5" text="{VALUE}% шкоди від дворучної зброї воїнів вашого підрозділу."/>
@@ -3604,7 +3604,7 @@
     <string id="qYSrlr4q" text="Maybe I should send one of my men to find the animals you need."/>
     <string id="QZ6IcCIm" text="I want everything you've got."/>
     <string id="qZpIdBib" text="Ви можете очистити дві одиниці заліза і отримати одну одиницю сталі та, як побічний продукт, одну одиницю чавуну."/>
-    <string id="R0bJS0pn" text="Make peace with the {OTHER_FACTION}"/>
+    <string id="R0bJS0pn" text="Укладення миру з {OTHER_FACTION}{.v_oru}"/>
     <string id="r0epmJJJ" text="{VALUE}% штрафу до точності для кінних військ у вашому загоні."/>
     <string id="R1MaIgOb" text="Militia Effect"/>
     <string id="R1W5Il2d" text="You can take your grievances to your lord, or to whoever sold the land. The law says a buyer has rights, and you need to clear out."/>
