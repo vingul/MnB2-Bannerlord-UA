@@ -1022,7 +1022,7 @@
     <string id="M6tfHhq7" text="Ви проголосували і правитель визначився з рішенням."/>
     <string id="M9p0vPad" text="Я знаю твоє ім'я... {COMMENT_STRING_MAIN}"/>
     <string id="m9vD3VlN" text="This party will NOT grow or shrink in size. It will try to keep it's size as it is."/>
-    <string id="Ma0PyWAC" text="Raiding, attacking parties and sieging have a higher weight in decisions. The party will pursue enemies farther."/>
+    <string id="Ma0PyWAC" text="Набіги, напади на загони та облоги мають більшу вагу в прийнятті рішень. Загін буде переслідувати ворогів довше."/>
     <string id="ma49Ya6b" text="{.m}тридцятий{.R_adj}"/>
     <string id="MaBSSg7I" text="Battering Ram"/>
     <string id="MacceKIX" text="{RELATION_TEXT} {.S}{BASE_HERO.NAME}{.v_rod}"/>
