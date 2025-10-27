@@ -7,7 +7,7 @@
     <string id="05fdfc6e238429753ef282f2ce97c1f8" text="Кількість: "/>
     <string id="08abd5af7774d311cadc3ed900b47754" text="Тип: "/>
     <string id="0mqdFC2x" text="Weapon Crafted!"/>
-    <string id="0Q4Xo2BQ" text="Select the Leader of the New Party"/>
+    <string id="0Q4Xo2BQ" text="Виберіть лідера нового загону"/>
     <string id="0rmpC7jf" text="The Garrison is Starving"/>
     <string id="0TauthlH" text="Never ({PERCENTAGE}%)"/>
     <string id="13wo3QQB" text="Secondary"/>
@@ -30,7 +30,7 @@
     <string id="3F0y3ugx" text="Success!"/>
     <string id="3sxtCWPe" text="Покидання королівства"/>
     <string id="43HYUImy" text="{SETTLEMENT}'s Siege"/>
-    <string id="4U9EnZt5" text="Critical Success!"/>
+    <string id="4U9EnZt5" text="Критичний успіх!"/>
     <string id="4uMWNDoi" text="Thrust Speed"/>
     <string id="4vZLpzPi" text="+1 Renown / Day"/>
     <string id="4Y8u4JKO" text="Ви не можете покинути королівство, перебуваючи у складі армії"/>
@@ -52,7 +52,7 @@
     <string id="8BlMRMiR" text="Рівень коня"/>
     <string id="8cad4a279770f269c4bb0dc7a357ee1e" text="Клас: "/>
     <string id="8fqFGxD9" text="Press {KEY} to compare with: {ITEM}"/>
-    <string id="8Jy9DnKk" text="Attached to {PARTY_NAME}"/>
+    <string id="8Jy9DnKk" text="Разом з {PARTY_NAME}{.v_oru}"/>
     <string id="8lCWWK9G" text="Здібності коваля"/>
     <string id="8N1EdPB3" text="You will earn {GOLD}{GOLD_ICON}"/>
     <string id="8szijlHj" text="Складність замовлення: {DIFFICULTY}"/>
@@ -112,7 +112,7 @@
     <string id="CnsIzaWo" text="Field Battle"/>
     <string id="CRi905Ao" text="У вашому загоні"/>
     <string id="cUUI8u2G" text="Витривалість коваля"/>
-    <string id="cZCOa00c" text="{SUPPORTER_RANK} Supporters ({NUM})"/>
+    <string id="cZCOa00c" text="Прибічники з рівнем &quot;{SUPPORTER_RANK}&quot; ({NUM})"/>
     <string id="d2K6gMsZ" text="Leave members. Need at least 1 companion."/>
     <string id="d8jrv3nA" text="Додати в закладки"/>
     <string id="DAmdTxuC" text="Army Manage"/>
@@ -128,7 +128,7 @@
     <string id="Dqydb21E" text=" {PARTY_SIZE}"/>
     <string id="DRJOxrRF" text="Воїнів в армії"/>
     <string id="dVqowrRz" text=" - {STAT} {REQUIREMENT}"/>
-    <string id="dWYm9GsC" text="Requires"/>
+    <string id="dWYm9GsC" text="Необхідно"/>
     <string id="eHVq6yDa" text="Item Properties"/>
     <string id="eIgC6YGp" text="Мита"/>
     <string id="eIGFuGOx" text="Give Settlement"/>
@@ -202,7 +202,7 @@
     <string id="J5u0uOKc" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} в поселення."/>
     <string id="J8ddrAOf" text="Ефекти намісника"/>
     <string id="j8uZBakZ" text="{PROPERTIES}"/>
-    <string id="jdbT6nc9" text="Each {SUPPORTER_RANK} supporter provides {INFLUENCE_BONUS} per day."/>
+    <string id="jdbT6nc9" text="Кожен {._}{SUPPORTER_RANK} прибічник забезпечує {INFLUENCE_BONUS} впливу на день."/>
     <string id="JIr3Jc7b" text="Relinquish all holdings"/>
     <string id="jQdBl4hf" text="Намісник в "/>
     <string id="JRKC4ed4" text="This workshop has not been producing for {DAY} {?PLURAL_DAYS}days{?}day{\?} due to lack of raw materials in the town market."/>
@@ -238,7 +238,7 @@
     <string id="McJjNM50" text="Вартість: {UPGRADE_COST}"/>
     <string id="mDFhzEMC" text="Макс. кількість здоров'я"/>
     <string id="mdvnjI72" text="Тут не можна покращувати війська."/>
-    <string id="Mfbc4rQR" text="Charge Damage"/>
+    <string id="Mfbc4rQR" text="Шкода при зіткненні"/>
     <string id="mg7id9om" text="Number of Consumable Items"/>
     <string id="mHVmrwRQ" text="Введіть своє ім'я"/>
     <string id="MIylzRc5" text="You can't perform this action while you are in a map event."/>
@@ -264,7 +264,7 @@
     <string id="nYYUQQm0" text="Swing Damage Factor "/>
     <string id="o5G8A8ZH" text="Ваші динари"/>
     <string id="o79dIa3L" text="Міста, що належить {FACTION}{.v_dav}"/>
-    <string id="ocSW4WA2" text="Critical Fail!"/>
+    <string id="ocSW4WA2" text="Критична невдача!"/>
     <string id="ODEnkg0o" text="Сила клану"/>
     <string id="OGbskMfz" text="Доступних частин:"/>
     <string id="OhNYkblK" text="Цей герой щойно втік від викрадачів і буде доступний через деякий час."/>
@@ -294,7 +294,7 @@
     <string id="pF0SqQxL" text="Apply Changes?"/>
     <string id="PJZ8QYgA" text="L-I : {BONUS}"/>
     <string id="pkbUiKFJ" text="Currently fighting an enemy."/>
-    <string id="pnFgwLYG" text="Current Wage"/>
+    <string id="pnFgwLYG" text="Поточна оплата"/>
     <string id="POjDNVW3" text="Forging"/>
     <string id="PpbopMjT" text="Перевести всіх основних полонених"/>
     <string id="PRE5RKpp" text="You must rest and spend time before you can do this action."/>
@@ -310,7 +310,7 @@
     <string id="QBB0KQ2Z" text="Середній бойовий дух загонів"/>
     <string id="qBq70qDq" text="Current Project"/>
     <string id="qbqimqMb" text="{GOVERNOR.NAME} на шляху до {SETTLEMENT_NAME}{.v_rod}, щоб стати новим намісником"/>
-    <string id="qdoJOH0j" text="Party Wage"/>
+    <string id="qdoJOH0j" text="Платня загону"/>
     <string id="qeclv74c" text="Податки"/>
     <string id="QeToaiLt" text="Swing Damage"/>
     <string id="QFfMd5q3" text="Наступна сторінка"/>
@@ -360,7 +360,7 @@
     <string id="Srr4rOSq" text="Перемістити всіх полонених"/>
     <string id="sVsaWZjg" text="Перемістити всіх воїнів"/>
     <string id="sVZaIPoQ" text="Swing Speed"/>
-    <string id="sWWxrafa" text="Current Limit"/>
+    <string id="sWWxrafa" text="Поточний ліміт"/>
     <string id="Syha8biz" text="Order Can Not Be Completed"/>
     <string id="SzuCFlNq" text="No item selected."/>
     <string id="t1lSXN9O" text="Your clan's standard carried into battle"/>
@@ -408,7 +408,7 @@
     <string id="WHRq5Dp0" text="Немає здібностей коваля"/>
     <string id="Wir2xZIg" text="Ви ще не розблокували деякі з вибраних частин."/>
     <string id="wMiLUTNY" text="Ви впевнені, що хочете переплавити цю зброю? Вона заблокована в інвентарі."/>
-    <string id="WySAapWO" text="Unlimited Wage"/>
+    <string id="WySAapWO" text="Необмежена платня"/>
     <string id="wZGj3qO1" text="Виберіть, що створювати"/>
     <string id="X6eG4Q5V" text="Warehouse Capacity"/>
     <string id="xaeXEj8J" text="Виберіть персонажа для роботи в кузні"/>
@@ -448,7 +448,7 @@
     <string id="zlcMGAbn" text="Попередня сторінка"/>
     <string id="zLFsnaqR" text="Нема намісника"/>
     <string id="zrhr4rDA" text="Ви впевнені, що хочете розпустити цю армію? Це призведе до погіршення відносин."/>
-    <string id="ZUgoQ1Ws" text="Horse Type"/>
+    <string id="ZUgoQ1Ws" text="Тип коня"/>
     <string id="zWaVxD6T" text="Швидкість загону"/>
     <string id="zZlWRZjO" text="Війни"/>
     <string id="ZZmlYrgL" text="{FACTION}{.v_dav} не належить жодного замку"/>
