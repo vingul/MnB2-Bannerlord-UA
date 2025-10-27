@@ -462,7 +462,7 @@
     <string id="G8FQ2exX" text="Plate Reinforced Gloves"/>
     <string id="g8qb3Ame" text="Thank you."/>
     <string id="g9VIbA9s" text="Сержант"/>
-    <string id="GD4aQgl7" text="Sheep{@Plural}sheep{\@}"/>
+    <string id="GD4aQgl7" text="{.f}Вівця{.R_n10}{@Plural}{.p}вівця{.R_n10_p1}{\@}"/>
     <string id="GeJobcre" text="{.m}Сінор{.R_n20_a_ke}"/>
     <string id="gENb9SSW" text="Вечір"/>
     <string id="GeNKQlHR" text="Особисті охоронці вождя"/>
@@ -989,7 +989,7 @@
     <string id="ugJfuabA" text="{.p}Кінний{.R_adj} {.p}лучник{.R_n20_p}"/>
     <string id="uGM8DWrm" text="Осідлати"/>
     <string id="Uh057UUb" text="{.m}Пулук{.R_n20_a}"/>
-    <string id="UI0q8rWw" text="Livestock"/>
+    <string id="UI0q8rWw" text="Худоба"/>
     <string id="UjL7jVYF" text="Morale"/>
     <string id="uLjRHv9p" text="{.f}Надея{.R_n10_ko}"/>
     <string id="uLpnmNkZ" text="Leather Cap"/>
@@ -1190,7 +1190,7 @@
     <string id="zAvb7WKe" text="Segmented Skullcap over Padded Coif"/>
     <string id="zBRB0P5M" text="Closed Decorated Goggled Helmet"/>
     <string id="zbsajPMp" text="Voulge"/>
-    <string id="ZbsGBv10" text="Hog"/>
+    <string id="ZbsGBv10" text="{.f}Свиня{.R_n10}{@Plural}{.p}Свиня{.R_n10_p2}{\@}"/>
     <string id="zCQaPTOK" text="Найманець"/>
     <string id="zEoHYEUS" text="Почекати тут деякий час"/>
     <string id="ZeU1fvdz" text="Grapeshot Stack"/>
