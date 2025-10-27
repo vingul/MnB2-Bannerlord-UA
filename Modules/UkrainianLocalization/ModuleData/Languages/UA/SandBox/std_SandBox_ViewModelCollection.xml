@@ -19,7 +19,7 @@
     <string id="B3W6fcQX" text="Введений текст не може перевищувати {MAX_LENGTH} символів."/>
     <string id="CiIWjF3f" text="+{PRISONERAMOUNT} пол."/>
     <string id="cp2XDjeq" text="Збереження..."/>
-    <string id="CqAhj27p" text="{ITEM_NAME}: {ITEM_NUMBER}"/>
+    <string id="CqAhj27p" text=" {ITEM_NAME}: {ITEM_NUMBER}"/>
     <string id="deleteaction" text="Видалити"/>
     <string id="DeXfSjgY" text="Не вдається створити новий файл збереження. Досягнуто ліміт збережень."/>
     <string id="eiWQoW9j" text="Ви отримали {A0} слави."/>
@@ -51,7 +51,7 @@
     <string id="PY00wRz4" text="Не вдалося видалити файл збереження."/>
     <string id="Q1HIlJxe" text="Перезаписати"/>
     <string id="QHV8aeEg" text="Видалити збереження"/>
-    <string id="qIeDZoSx" text="Придбано: {ITEMS}"/>
+    <string id="qIeDZoSx" text="Придбано:{ITEMS}"/>
     <string id="raD9MK3O" text="Складність"/>
     <string id="RoYPofhK" text="Пошкоджене збереження"/>
     <string id="Rtakaivj" text="Введений текст має містити принаймні один символ, що не є пробілом."/>
