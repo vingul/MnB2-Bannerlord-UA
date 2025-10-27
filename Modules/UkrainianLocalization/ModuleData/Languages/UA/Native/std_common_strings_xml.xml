@@ -13,7 +13,7 @@
     <string id="0CQgia2a" text="{.m}Кулхарн{.R_n20_u_ke}"/>
     <string id="0e17RZrZ" text="{.m}Арбалест{.R_n20_a_p}"/>
     <string id="0oGz5rVx" text="Гідність"/>
-    <string id="0rBsbw1T" text="No effect"/>
+    <string id="0rBsbw1T" text="Без ефекту"/>
     <string id="0SpLcthg" text="{.f}Булава{.R_n10_p1} горян з зубцями"/>
     <string id="0SsLGsXk" text="Long Padded Robe"/>
     <string id="0Suu1Q9q" text="Ваш батько був управителем у місцевого вельможі. Він доглядав за його володіннями, вирішував суперечки в селі та допомагав тренувати сільських рекрутів. Сам він бився в лицарських обладунках у кавалерійському загоні свого господаря."/>
@@ -972,7 +972,7 @@
     <string id="u1lTJoPO" text="{.m}Немос{.R_n20_a_ke}"/>
     <string id="u1Pkt4HC" text="{.p}Грабіжник{.R_n20_p_pz}"/>
     <string id="U4n0uSlg" text="Tight Head Scarf"/>
-    <string id="U7er3V9s" text="Items"/>
+    <string id="U7er3V9s" text="Предмети"/>
     <string id="U8QfF3Gw" text="Long Woolen Tunic"/>
     <string id="Ua6CNLBZ" text="Село"/>
     <string id="UaN2lfwi" text="Weaponsmith"/>
@@ -1035,7 +1035,7 @@
     <string id="vJOWy1QF" text="{.n}Хузаїтський{.R_adj} {.n}ханство{.R_n2n_p1}"/>
     <string id="VkRIefyW" text="Luxury Scale Armor"/>
     <string id="vl2tgsKa" text="{.m}Урхун{.R_n20_a_ke}"/>
-    <string id="vLjgcdgB" text="Snow"/>
+    <string id="vLjgcdgB" text="Сніг"/>
     <string id="VlXOgIX6" text="їздили з розвідниками."/>
     <string id="vmMqs3Ck" text="Знать"/>
     <string id="VN4ctHIU" text="Купити товари"/>
