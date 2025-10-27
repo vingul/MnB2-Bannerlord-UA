@@ -2285,7 +2285,7 @@
     <string id="IKzqzPDS" text="Великодушність — це ваша відданість рідним і тим, хто вам служить, а також ваша вдячність тим, хто зробив вам послугу."/>
     <string id="il2khBNl" text="You just looted this party."/>
     <string id="IL3QWZ93" text="{QUEST_GIVER.LINK}, an artisan from {SETTLEMENT}, has told you about local merchant asking ridiculous amounts of money for the raw materials that {?QUEST_GIVER.GENDER}she{?}he{\?} needs to continue {?QUEST_GIVER.GENDER}her{?}his{\?} work. You said that you can bring {?QUEST_GIVER.GENDER}her{?}him{\?} {REQUESTED_AMOUNT} {.%}{?REQUESTED_AMOUNT &gt; 1}{PLURAL(REQUESTED_GOOD)}{?}{REQUESTED_GOOD}{\?}{.%}. {?QUEST_GIVER.GENDER}She{?}He{\?} is willing to pay {REWARD_AMOUNT}{GOLD_ICON} for these items."/>
-    <string id="Il7pDS8i" text="Люди відзначають, наскільки {?PLAYER_CHILD}ваша {?}{\?}дитина схожа на своїх батьків. {CHILD.NAME} безперечно успадкувала {?PLAYER_IS_FATHER}вашу{?}у свого батька{\?}..."/>
+    <string id="Il7pDS8i" text="Люди відзначають, наскільки {?PLAYER_CHILD}ваша {?}{\?}дитина схожа на своїх батьків. {CHILD.NAME} безперечно {?CHILD.GENDER}успадкувала{?}успадкував{\?} {?PLAYER_IS_FATHER}вашу{?}у свого батька{\?}..."/>
     <string id="IlRC9Drl" text="{.f}релігійний{.R_adj} {.f}секта{.R_n10}"/>
     <string id="IM05Jahy" text="{VALUE}% шкоди від дворучної зброї за кожне очко уміння вище 250."/>
     <string id="ImatoO4Y" text="{DURATION_IN_DAYS} required days to complete"/>
