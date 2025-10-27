@@ -115,7 +115,7 @@
     <string id="4bq2mUf1" text="Можна створювати королівство"/>
     <string id="4BQaqqzg" text="Безпека:"/>
     <string id="4H1nDlBO" text="Тижнева платня"/>
-    <string id="4Hdcxk0a" text="Aggressive"/>
+    <string id="4Hdcxk0a" text="Агресія"/>
     <string id="4jLW7hag" text="Виключити з армії"/>
     <string id="4kKxsVzZ" text="Ваш провулок {.%}{ALLEY_NAME}{.%} у {.S}{TOWN}{.v_mis} захоплено."/>
     <string id="4KXvyxrK" text="Прилегле поселення"/>
@@ -279,7 +279,7 @@
     <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are fighting enemy inside the walls."/>
     <string id="A38xbjqm" text="Engage"/>
     <string id="a3hmB91k" text="Будуйте та використовуйте облогові знаряддя. Успішно використовуйте їх при нападі та обороні."/>
-    <string id="A3T5z4Mv" text="Defensive"/>
+    <string id="A3T5z4Mv" text="Оборона"/>
     <string id="a3uKkLez" text="{LORD.LINK} знаходиться в дорозі поблизу {.S}{SETTLEMENT_NAME}{.v_rod}"/>
     <string id="a47CpGXN" text="Співвідношення сил"/>
     <string id="a5j1v7tM" text="We've heard what happened to others who refused to join your cause. We've no desire to end up like them and no means to fight you. We'll wear your colors from now until it pleases you no more."/>
@@ -497,7 +497,7 @@
     <string id="CthDdsb6" text="Winner"/>
     <string id="cThSwxbP" text="Cannot execute non-hero prisoners"/>
     <string id="CVymZs3m" text="War Mount"/>
-    <string id="cXnQaNfe" text="There is no effect on decision making."/>
+    <string id="cXnQaNfe" text="Жодного впливу на прийняття рішень."/>
     <string id="CXUXk5ai" text="imperials"/>
     <string id="cyPGadJ6" text="Auto-Deploy"/>
     <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]"/>
@@ -1738,7 +1738,7 @@
     <string id="zqihwKAs" text="&lt;b&gt;Ballista&lt;/b&gt;{NEWLINE}Shoots bolts at deadly effect. Effective against soldiers."/>
     <string id="ZqWOb1jM" text="Ви перебуваєте за межами {SETTLEMENT_NAME}{.v_rod}. Ви не можете увійти, оскільки перебуваєте у розшуку в {.S}{FACTION_TERM}{.v_rod}."/>
     <string id="ZR2bAa1p" text="Light Cavalry"/>
-    <string id="zruLFJDG" text="Defending settlements has a higher weight in decisions. The party will also pursue enemies for a shorter distance."/>
+    <string id="zruLFJDG" text="Захист поселень має більшу вагу в прийнятті рішень. Загін також буде переслідувати ворогів на коротшу відстань."/>
     <string id="ztP8UKb8" text="Choose Infantry"/>
     <string id="ZuLa12aT" text="That's the spirit... We're a band of bastards that you really don't want to mess with.[rf:convo_bemused]"/>
     <string id="Zuq5mO5e" text="Говорити з лідером загону"/>
