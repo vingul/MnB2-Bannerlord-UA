@@ -410,7 +410,7 @@
     <string id="BkB9aOhw" text="Can't access banner window right now!"/>
     <string id="BKFcRo7f" text="Grandson"/>
     <string id="bkysJj7F" text="Siege Weapon"/>
-    <string id="Bl7UdJup" text="Nephew"/>
+    <string id="Bl7UdJup" text="Племінник"/>
     <string id="bLWyjOdS" text="Броня (тіло): "/>
     <string id="Bm4yZBWb" text="Ви перебуваєте у в'язниці в {SETTLEMENT_NAME}{.v_mis}."/>
     <string id="bMjtFIba" text="You arrived just in the nick of time! {PLAYER.LINK}. You have my deepest thanks!"/>
@@ -517,7 +517,7 @@
     <string id="DBU4VaIl" text="Bandit Faction"/>
     <string id="dc24lBcV" text="Melee Weapons IV"/>
     <string id="dcV0iOYB" text="Gather your troops and prepare for battle!"/>
-    <string id="dd7Owiys" text="Make Peace with {FACTION}"/>
+    <string id="dd7Owiys" text="Укладення миру з {FACTION}{.v_oru}"/>
     <string id="DdXZHifm" text="Підвищуючи {ATTRIBUTE_NAME}{.v_zna} ви полегшуєте підняття умінь, які пов'язані з цією характеристикою і підвищуєте ліміт їх вивчення."/>
     <string id="debCJDAZ" text="Ви не можете виконати цю дію під час взаємодії"/>
     <string id="depxBZNO" text="Leadership Skill Level Bonus"/>
@@ -1019,7 +1019,7 @@
     <string id="m2YKBbdI" text="Hello there, little lost sheep. We are wolves of the mountains, and we would like a moment of your time...[rf:convo_mocking_revenge]"/>
     <string id="m6A7RLby" text="Підступний"/>
     <string id="M6cWtObI" text="The following heroes can craft this weapon:"/>
-    <string id="M6tfHhq7" text="You have voted and the ruler has decided on the outcome."/>
+    <string id="M6tfHhq7" text="Ви проголосували і правитель визначився з рішенням."/>
     <string id="M9p0vPad" text="Я знаю твоє ім'я... {COMMENT_STRING_MAIN}"/>
     <string id="m9vD3VlN" text="This party will NOT grow or shrink in size. It will try to keep it's size as it is."/>
     <string id="Ma0PyWAC" text="Raiding, attacking parties and sieging have a higher weight in decisions. The party will pursue enemies farther."/>
