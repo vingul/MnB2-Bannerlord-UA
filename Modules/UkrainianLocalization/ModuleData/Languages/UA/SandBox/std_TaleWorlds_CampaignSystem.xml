@@ -4384,7 +4384,7 @@
     <string id="W7C30eri" text="Thank you, {?CONVERSATION_NPC.GENDER}madame{?}sir{\?}. It was an honour to serve you.."/>
     <string id="W7c3BfIX" text="Thus always spoke the tyrant to the oppressed! We can only pray that the Heavens help the just. Now stay out of my way.[if:convo_undecided_closed][ib:closed]"/>
     <string id="W7PaF7Lr" text="{VALUE}% шкоди від попадання в голову з арбалета."/>
-    <string id="w9olmhv0" text="It is time to declare war"/>
+    <string id="w9olmhv0" text="Настав час оголосити війну"/>
     <string id="W9pOfMAE" text="{VALUE}% торгового штрафу при продажу зброї, виготовленої в кузні."/>
     <string id="WaGKvsfc" text="Викинута зброя конвертується у досвід для воїнів."/>
     <string id="wAhXFoNH" text="You'll have to fight us first![rf:idle_angry][ib:aggressive]"/>
