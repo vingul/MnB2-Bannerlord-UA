@@ -199,7 +199,7 @@
     <string id="j12VrGKz" text="Army"/>
     <string id="j3iwQmoA" text="Кількість очок фокусу: {CURRENT_AMOUNT}"/>
     <string id="j4BdjLYp" text="Почати розмову з цим членом клану."/>
-    <string id="J5u0uOKc" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} в поселення."/>
+    <string id="J5u0uOKc" text="Втікає від {._}{TARGET_PARTY}{.v_rod} в поселення."/>
     <string id="J8ddrAOf" text="Ефекти намісника"/>
     <string id="j8uZBakZ" text="{PROPERTIES}"/>
     <string id="jdbT6nc9" text="Кожен {._}{SUPPORTER_RANK} прибічник забезпечує {INFLUENCE_BONUS} впливу на день."/>
@@ -328,7 +328,7 @@
     <string id="r0WIRUHo" text="Criminal Rating"/>
     <string id="R2AaCaPJ" text="Очікувані зміни"/>
     <string id="R4rTlKMU" text="Покращення військ наразі відключено."/>
-    <string id="R8vuwKaf" text="Втікає від загону {._}{TARGET_PARTY}{.v_rod} до союзників."/>
+    <string id="R8vuwKaf" text="Втікає від {._}{TARGET_PARTY}{.v_rod} до союзників."/>
     <string id="Ra17aK4e" text="Current Capital"/>
     <string id="Raa4j4rF" text="Необхідно: {UPGRADE_ITEM}"/>
     <string id="rba7kgwS" text="Прямує до {TARGET_SETTLEMENT}{.v_rod}."/>
