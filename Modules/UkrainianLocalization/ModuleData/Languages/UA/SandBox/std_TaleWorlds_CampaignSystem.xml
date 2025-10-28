@@ -545,7 +545,7 @@
     <string id="6OKW8Ba3" text="{ISSUE_GIVER.LINK}, a landowner from {ISSUE_GIVER_SETTLEMENT}, has told you about {?ISSUE_GIVER.GENDER}her{?}his{\?} problems with the herders of {TARGET_SETTLEMENT}. Apparently {?ISSUE_GIVER.GENDER}she{?}he{\?} purchased the right to use a pasture near the village. But some local herders refuse to clear out and are causing problems for {?ISSUE_GIVER.GENDER}her{?}his{\?} herdsmen. You have agreed to send {COMPANION.LINK} along with {NEEDED_MEN_COUNT} of your men to take care of the situation. You expect them to return in {RETURN_DAYS} days."/>
     <string id="6pCABUme" text="{?CHARACTER.GENDER}Вона загинула{?}Він загинув{\?} у бою в {YEAR} р. у віці {CHARACTER.AGE} рок{#GET_PLURAL_VALUE(CHARACTER.AGE)}у{#}ів{#}ів{\#}. {?CHARACTER.GENDER}Вона була{?}Він був{\?} {.S}{REPUTATION}{.v_oru}"/>
     <string id="6po3wjFa" text="Okay. I hope you will not regret this."/>
-    <string id="6PrmgKXa" text="{CHILD.NAME} is now old enough to play independently with the other children of the estate. You are particularly struck by how {?CHILD.GENDER}she{?}he{\?}..."/>
+    <string id="6PrmgKXa" text="{CHILD.NAME} тепер достатньо {?CHILD.GENDER}доросла{?}дорослий{\?}, щоб самостійно гратися з іншими дітьми з маєтку. Вас особливо вражає те, як {?CHILD.GENDER}вона{?}він{\?}..."/>
     <string id="6PSgX2BP" text="Денний мандрівник"/>
     <string id="6q8tY6Sz" text="Ви з теплотою згадуєте свої роки безтурботного життя. Ви хочете, щоб {CHILD.NAME} теж відчула життя так само, як ви."/>
     <string id="6qKJ6Uzr" text="I believe the goods have been delivered to you."/>
@@ -887,7 +887,7 @@
     <string id="AeTSNsRu" text="{VALUE}% приросту добробуту для кожного унікального проєкту в підконтрольному поселенні."/>
     <string id="AEVIa5sQ" text="So be it. See if you can hit {NUMBER_OF_TARGET_VILLAGE} villages. [if:convo_stern]They won't be able to ignore that, and it will put a dent in their revenues. I'll give you {BASE_REWARD}{GOLD_ICON} for doing that, and {EXTRA_REWARD}{GOLD_ICON} more for every extra one that you raid. Do you agree?"/>
     <string id="AewK9qME" text="Дохід від поселення"/>
-    <string id="aeWZRHy3" text="takes charge."/>
+    <string id="aeWZRHy3" text="бере на себе керування."/>
     <string id="aExKdXmx" text="We need {REQUESTED_ANIMAL_AMOUNT} {.%}{?(REQUESTED_ANIMAL_AMOUNT &gt; 1)}{PLURAL(SELECTED_ANIMAL)}{?}{SELECTED_ANIMAL}{\?}{.%}.[if:convo_normal][ib:demure] To be honest our village is poor and our coffers are empty. We can make payment only as meat - the meat of the old animals that we'll slaughter as soon as you bring us the new ones. We can offer {MEAT_AMOUNT} loads of meat, will you accept that, {?PLAYER.GENDER}madam{?}sir{\?}?"/>
     <string id="Af7zOV2l" text="{VALUE}% втрати точності під час руху."/>
     <string id="afaCdojS" text="Тренування"/>
@@ -989,7 +989,7 @@
     <string id="atk3PTae" text="Deserters are extorting from the villagers of {SETTLEMENT} and have killed several who resisted."/>
     <string id="aTPc7AkY" text="All right. But I can only hire {MERCENARY_COUNT} of you. Here is {GOLD_AMOUNT}{GOLD_ICON}"/>
     <string id="Au7VCWTa" text="Милосердя відображає вашу нелюбов до страждань і готовність допомагати незнайомим людям або навіть ворогам."/>
-    <string id="auCinAKs" text="never tires out."/>
+    <string id="auCinAKs" text="ніколи не втомлюється."/>
     <string id="auftprN9" text="дозволяти простому люду обирати посадовців, які представлятимуть їх інтереси"/>
     <string id="auIRGa2V" text="Каменярі"/>
     <string id="auIV2JoK" text="{ISSUE_GIVER.LINK} is looking for someone to craft special weapons for {?ISSUE_GIVER.GENDER}her{?}his{\?} men."/>
@@ -1907,7 +1907,7 @@
     <string id="Fv8CKNU2" text="I hope {QUEST_GIVER.NAME} knows what {?QUEST_GIVER.GENDER}she's{?}he's{\?} doing with that plan to get rid of the deserters."/>
     <string id="FViaQrbV" text="{QUEST_GIVER.LINK}, the {?QUEST_GIVER.GENDER}lady{?}lord{\?} of {QUEST_SETTLEMENT}, told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs more troops in {?QUEST_GIVER.GENDER}her{?}his{\?} garrison. {?QUEST_GIVER.GENDER}She{?}He{\?} is willing to pay {REWARD}{GOLD_ICON} for your services. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to deliver {NUMBER_OF_TROOP_TO_BE_RECRUITED} {TROOP_TYPE} troops to garrison commander in {QUEST_SETTLEMENT}."/>
     <string id="FVLymWqW" text="Вбивча точність"/>
-    <string id="fvutqQH6" text="always hits {?CHILD.GENDER}her{?}his{\?} mark."/>
+    <string id="fvutqQH6" text="завжди влучає у ціль."/>
     <string id="fW0XS9JC" text="{ELEMENT_NUMBER} {ELEMENT_CHAR_NAME}"/>
     <string id="FWHvvZFq" text="&quot;This is exactly what I wanted. Here is your money, you've earned it.&quot;"/>
     <string id="FwIgakj8" text="Допомогти {DEFENDER}{.v_dav}."/>
@@ -2075,7 +2075,7 @@
     <string id="gzYuWR28" text="Ви поранені і не в змозі очолити штурм."/>
     <string id="h0pBxG09" text="You can't recall a clan member while you are in a map event."/>
     <string id="h117Qj3E" text="Effects settlement's security."/>
-    <string id="h1GdWZjk" text="avoids chores."/>
+    <string id="h1GdWZjk" text="уникає хатніх справ."/>
     <string id="h2Wle7ZI" text="Well. That's a pity."/>
     <string id="H3B75sYi" text="A merchant asked you to follow a fake caravan that was sent out as a trap to destroy a particularly large and dangerous group of bandits."/>
     <string id="h3yEHb4U" text="Допомогти {ATTACKER}{.v_dav}."/>
@@ -2382,7 +2382,7 @@
     <string id="J7JaXZm8" text="{VALUE}% ефекту від форумів, ринків та фестивалів."/>
     <string id="J7oh7Vin" text="Дровокол"/>
     <string id="j7WWf8aM" text="I am still working on it."/>
-    <string id="J80YXzR2" text="is fascinated by riddles."/>
+    <string id="J80YXzR2" text="захоплюється загадками."/>
     <string id="J8brFxIW" text="As {?IS_FEMALE}queen{?}king{\?} you must decide if {CLAN_NAME} will be expelled from kingdom."/>
     <string id="J8qFgwal" text="Excellent. I'll tell the lads to join your party.[if:convo_relaxed_happy][ib:confident2]"/>
     <string id="j9KDLaDo" text="{VALUE}% розміру загонів селян із сіл, прилеглих до підконтрольного поселення."/>
@@ -2543,7 +2543,7 @@
     <string id="K8VhWN85" text="{VALUE}% шансу вибити з сідла ворожого вершника сильним попаданням з арбалета."/>
     <string id="k8W02aj9" text="I will assign a companion with {NEEDED_MEN_COUNT} of my men to deliver {ANIMAL_COUNT_TO_DELIVER} {.%}{?ANIMAL_COUNT_TO_DELIVER &gt; 1}{PLURAL(HERD_TYPE_TO_DELIVER)}{?}{HERD_TYPE_TO_DELIVER}{\?}{.%} safely."/>
     <string id="k96R57KM" text="We're just harmless traders..."/>
-    <string id="K9fcqr0K" text="Choose a Talent"/>
+    <string id="K9fcqr0K" text="Оберіть талант"/>
     <string id="K9Nb117q" text="Верхові розвідники"/>
     <string id="k9SksaXg" text="The mercenaries left your party, as you failed to get rid of them as you promised. Now the mercenaries have turned bandit and start to plunder countryside."/>
     <string id="k9WaJ396" text="{VALUE}% швидкості пересування по пустелях і дюнах."/>
@@ -3986,7 +3986,7 @@
     <string id="tlNZIH3l" text="Опір до збиття з ніг: {a0}% від макс. здоров'я"/>
     <string id="TLuaPAIO" text="Податки: {A0}"/>
     <string id="tm9PiOMA" text="Special Weapon Order"/>
-    <string id="tMkMi5C7" text="wins wrestling matches."/>
+    <string id="tMkMi5C7" text="перемагає в двобоях."/>
     <string id="tmqYGwMa" text="Excellent, {PLAYER.NAME}, excellent. I have every confidence in you.[if:idle_happy]"/>
     <string id="tMUla7vz" text="{?CHILD.GENDER}Вона худа, але сильна{?}Він худий, але сильний{\?} і може обігнати майже всіх своїх однолітків."/>
     <string id="TmYKKarv" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} уміння Дворучна зброя воїнам вашого підрозділу."/>
@@ -4046,7 +4046,7 @@
     <string id="TyB6y5bh" text="Сани"/>
     <string id="TyjDHQUv" text="Опір відкиданню: {a0}% від макс. здоров'я"/>
     <string id="TyultuzK" text="That's all I need to know. Thank you."/>
-    <string id="TyvEmZbC" text="{CHILD.NAME} is usually the one who decides what games {?CHILD.GENDER}her{?}his{\?} friends will play, and leads them on imaginary adventures around the estate."/>
+    <string id="TyvEmZbC" text="{CHILD.NAME} зазвичай вирішує, в які ігри гратимуть {?CHILD.GENDER}її{?}його{\?} друзі, і веде їх у вигадані пригоди по маєтку."/>
     <string id="tYVW8iQN" text="Говорити з лідером армії"/>
     <string id="tyzzUNN7" text="Ви доручили реміснику навчити вашу дитину основам керування майстернею."/>
     <string id="tza4micZ" text="one-handed axes"/>
