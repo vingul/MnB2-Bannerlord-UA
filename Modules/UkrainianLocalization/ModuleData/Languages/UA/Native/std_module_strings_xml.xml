@@ -903,7 +903,7 @@
     <string id="JTyC3Xra" text="Скупий"/>
     <string id="Ju9ZiFT2" text="Melee Weapons V"/>
     <string id="Jw4oiIM4" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {.S}{KING_NAME}{.v_zna} було проголошено {?IS_KING_MALE}Імператором{?}Імператрицею{\?} Кальрадії."/>
-    <string id="jxatfzXh" text="{.S}{.^}{DAY_OF_YEAR}, {YEAR} року став днем смерті{NAME}{.v_rod} від природних причин."/>
+    <string id="jxatfzXh" text="{.S}{.^}{DAY_OF_YEAR}, {YEAR} року став днем смерті {NAME}{.v_rod} від природних причин."/>
     <string id="K0mlQblA" text="Daily food consumption of army"/>
     <string id="K0XVOalL" text="Поточна ставка"/>
     <string id="K2G3XJwZ" text="Hotheaded"/>
