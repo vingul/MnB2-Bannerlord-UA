@@ -626,7 +626,7 @@
     <string id="ey5OcaGI" text="Can't be used with Shields"/>
     <string id="eyMU7X0e" text="Ви — лорд і голосуєте. Правитель проголосує в кінці і вирішить результат."/>
     <string id="EZLs7hLL" text="You! Stop! Give us your silver. We're not playing games.[if:convo_angry]"/>
-    <string id="EzrK2tnA" text="You cannot manage your army while in battle"/>
+    <string id="EzrK2tnA" text="Ви не можете керувати своєю армією під час бою"/>
     <string id="F3U9AtmF" text="{.m}дев'ятий{.R_adj}"/>
     <string id="F4RMyaR5" text="Ви зіткнулись з {._}{PARTY}{.v_oru}."/>
     <string id="F5UPr9jh" text="Взяти все"/>
@@ -1359,7 +1359,7 @@
     <string id="s1NEbhFL" text="В черзі"/>
     <string id="s2vaPUdG" text="Spear Brace"/>
     <string id="S3ymfdwB" text="Ви зробили зміни. Хочете їх застосувати?"/>
-    <string id="s5h0Yarn" text="Manage your army"/>
+    <string id="s5h0Yarn" text="Керувати своєю армією"/>
     <string id="s6ofDDii" text="Barricade"/>
     <string id="S9tmCkHz" text="This hero is clearing a common area."/>
     <string id="sa2TQu1G" text="This hero is busy with an issue or a quest."/>
