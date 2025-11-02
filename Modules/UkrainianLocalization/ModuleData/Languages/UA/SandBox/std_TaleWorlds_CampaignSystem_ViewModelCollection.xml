@@ -388,7 +388,7 @@
     <string id="UUaW0dba" text="Прямує до {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="v3OF6vBg" text="Матеріали"/>
     <string id="vdKiLwaf" text="Traveling"/>
-    <string id="Ve5jkJqf" text="Auto Offer"/>
+    <string id="Ve5jkJqf" text="Автоматична пропозиція"/>
     <string id="vggt7exj" text="Комплект {CURINDEX}/{COUNT}"/>
     <string id="vIPrZCZ1" text="You can abdicate leadership from the kingdom screen."/>
     <string id="vLaBJFGy" text=" {PARTY_MEMBER.LINK} ({PARTY_SIZE})"/>
