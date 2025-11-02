@@ -3751,7 +3751,7 @@
     <string id="rvqVuM5o" text="нагляд за вартою."/>
     <string id="RWMACSag" text="Витривалий коваль"/>
     <string id="rWnvnufw" text="That could work, if you have the money. But if you don't, I'm willing to take a chance on you. I reckon for {SELECTED_ITEM_COUNT} {.%}{?SELECTED_ITEM_COUNT &gt; 1}{PLURAL(SELECTED_ITEM)}{?}{SELECTED_ITEM}{\?}{.%} you can probably find a market nearby where buyers will pay you a total of {TOTAL_GOLD}{GOLD_ICON}. Here's my offer. I loan you the product. You sell it at whatever price you like, and bring me back {TOTAL_GOLD}{GOLD_ICON} denars. I have little doubt you could find a market where you could get a better price than this, and make a profit.[if:convo_innocent_smile][ib:confident]"/>
-    <string id="RwOzeGc3" text="Release {PRISONER.NAME}"/>
+    <string id="RwOzeGc3" text="Звільнити {PRISONER.NAME}{.v_zna}"/>
     <string id="RWxYalkR" text="Be warned, stranger. There's dozens more of us hiding in that wadi over there, just waiting for our signal."/>
     <string id="rXb91Rwi" text="{VALUE}% досвіду воїнам ближнього бою у вашому загоні після кожної битви."/>
     <string id="RxjuaDum" text="I am glad of that. Don't make me wait too long. Some men say they will pay a debt, and you never see them again.[if:convo_mocking_teasing][ib:confident2]"/>
