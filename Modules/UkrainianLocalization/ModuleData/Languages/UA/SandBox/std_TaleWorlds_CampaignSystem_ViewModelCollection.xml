@@ -284,7 +284,7 @@
     <string id="otaUtXMX" text="+{AMOUNT} relation chance with notables per day."/>
     <string id="oUhd9YhP" text="{PARTY_LEADERS_FACTION}"/>
     <string id="oUz16Nav" text="Reset Tutorial"/>
-    <string id="OyyJSyIX" text="{FACTION_1} сплачує {DENAR}{GOLD_ICON} в якості данини {.S}{FACTION_2}{.v_dav}"/>
+    <string id="OyyJSyIX" text="{FACTION_1} сплачує {DENAR}{GOLD_ICON} в якості данини фракції «{FACTION_2}»"/>
     <string id="P0To9aRW" text="Час у дорозі: {TRAVEL_TIME}"/>
     <string id="P1hk0m4o" text="Ім'я персонажу не повинно містити спеціальні символи"/>
     <string id="P5YtNXHR" text="{.m}Загін{.R_n21_u_p} {LEADER.NAME}{.v_rod}"/>
