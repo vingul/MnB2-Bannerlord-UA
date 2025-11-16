@@ -184,7 +184,7 @@
     <string id="bgwA4Pd8" text="2"/>
     <string id="bGZeJJAH" text="Нахилити камеру ліворуч (Проти годинникової стрілки)."/>
     <string id="bih4MD9a" text="Меню паузи"/>
-    <string id="bIuDbdVB" text="Enable {?IS_PLAYSTATION}Wireless {?}{\?}Controller Alternate Aiming"/>
+    <string id="bIuDbdVB" text="Увімкнути альтернативне наведення {?IS_PLAYSTATION}бездротового {?}{\?}контролера"/>
     <string id="BKeTUf9V" text="Перемістити камеру"/>
     <string id="Bl8cKwhL" text="Калібрування дисплею"/>
     <string id="bmpagYCb" text="Спорядити щит або замінити на наступний."/>
@@ -199,7 +199,7 @@
     <string id="Bw6fZdOh" text="Цей параметр вимкнено, оскільки динамічна роздільна здатність увімкнена."/>
     <string id="byOZcjuE" text="Мова озвучування"/>
     <string id="bYwwY9qh" text="Numpad 5"/>
-    <string id="c3I1AjcF" text="Включити вібрацію {?IS_PLAYSTATION}бездротового контролера {?}геймпаду{\?}"/>
+    <string id="c3I1AjcF" text="Увімкнути вібрацію {?IS_PLAYSTATION}бездротового {?}{\?}контролера"/>
     <string id="c49AY7yF" text="Мала (128)"/>
     <string id="C7zwur4k" text="Esc"/>
     <string id="cAkgnVr5" text="Num Lock"/>
@@ -274,7 +274,7 @@
     <string id="fpYTcwqI" text="F24"/>
     <string id="FqvJUBRn" text="Дуже низьк."/>
     <string id="fsI2wuHa" text="Звернутися до групи 2"/>
-    <string id="FwcM7taa" text="Change the sound output method to one most fitting for your speaker configuration."/>
+    <string id="FwcM7taa" text="Дозволяє поміняти спосіб виведення звуку на найоптимальніший для вашої конфігурації динаміків."/>
     <string id="G17kWzwi" text="Дуже великий (600)"/>
     <string id="G2e8xucc" text="Якщо ви не бачите картаті візерунки, спробуйте пересунути повзунки. {newline}Налаштуйте контрастність за допомогою повзунків так, щоб візерунки були ледь помітні."/>
     <string id="g4Iq82iw" text="Відкрити командний чат."/>
@@ -707,7 +707,7 @@
     <string id="wubDWOlh" text="Вибрати профіль"/>
     <string id="WVpVmbzC" text="Ці модулі нові в грі:"/>
     <string id="wWDHH5FK" text="Глибина різкості"/>
-    <string id="wXuZKLkk" text="Changes how you aim with ranged weapons. If enabled, {?IS_PLAYSTATION}L2 button{?}left trigger{\?} will aim the weapon and using {?IS_PLAYSTATION}R2 button{?}right trigger{\?} will fire the weapon."/>
+    <string id="wXuZKLkk" text="Змінює спосіб прицілювання з використанням зброї дальнього бою. Якщо ця функція увімкнена, {?IS_PLAYSTATION}кнопка L2{?}лівий тригер{\?} дозволить прицілитися, а {?IS_PLAYSTATION}кнопка R2{?}правий тригер{\?} дозволить вистрілити."/>
     <string id="wygub2sh" text="F15"/>
     <string id="wYicqUa9" text="Звичайна швидкість часу"/>
     <string id="X1nFnomy" text="Середній (400)"/>
