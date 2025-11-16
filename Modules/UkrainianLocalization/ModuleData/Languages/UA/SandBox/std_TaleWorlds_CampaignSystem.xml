@@ -2498,7 +2498,7 @@
     <string id="jU084S5S" text="{VALUE}% швидкості прицілювання з лука."/>
     <string id="jukOfT2Z" text="Зовнішні події також вплинули на підлітковий вік {CHILD.NAME}{.v_rod}. Ви вважаєте, що на {?CHILD.GENDER}її{?}його{\?} формування частково вплинули певні події. Зокрема {RANDOM_OUTCOME}. Ця подія покращила {?CHILD.GENDER}її{?}його{\?} уміння в {.S}{SKILL_1}{.v_mis} та {.S}{SKILL_2}{.v_mis}."/>
     <string id="jULnw6F1" text="Leave the village, telling the villagers that they are exempted from payment this year."/>
-    <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod}, що підтримує {.S}{RULER}{.v_rod}. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
+    <string id="JuPUG5wX" text="{LORD.NAME} є {.S}{TITLE}{.v_oru} {.S}{FACTION_NAME}{.v_rod} і главою {.S}{CLAN_NAME}{.v_rod}, {.S}{CLAN_DESCRIPTION}{.v_rod}, який підтримує {.S}{RULER}{.v_zna} в громадянській війні. {?LORD.GENDER}Вона{?}Він{\?} є {.S}{REPUTATION}{.v_oru}."/>
     <string id="JUpZuals" text="Вартість найму та підвищення верхових воїнів на 10% менша."/>
     <string id="JuwBb2Yg" text="Безлад"/>
     <string id="jvic7wfc" text="Bah... Parley's over.[if:idle_angry][ib:warrior] "/>
