@@ -56,7 +56,7 @@
     <string id="4aAvY4yO" text="Низьк."/>
     <string id="4e0ycN1Q" text="Слухати всім"/>
     <string id="4Gdng2Tt" text="Утримуйте для швидшого переміщення камери по карті кампанії."/>
-    <string id="4lZDJDb2" text="Set how much the sensitivity changes when the camera is zoomed in."/>
+    <string id="4lZDJDb2" text="Визначає, наскільки змінюється чутливість при наближенні камери."/>
     <string id="4NaOKslb" text="-"/>
     <string id="4Nw1hF2R" text="Штовхніть супротивника, щоб пробити його захист, якщо ви в цей момент не атакуєте і не захищаєтеся. Захищаючись, відштовхніть противника своєю зброєю."/>
     <string id="4Q9pzbqM" text="При увімкненні гра використовує можливості вібрації контролера."/>
@@ -369,7 +369,7 @@
     <string id="JAzv5xYY" text="Вмикає текстові повідомлення про заподіяну шкоду."/>
     <string id="jbLwdd6z" text="Навушники"/>
     <string id="jd9ZG2CI" text="R"/>
-    <string id="JDDANRcS" text="Zoom Sensitivity Modifier"/>
+    <string id="JDDANRcS" text="Зміна чутливості при наближенні"/>
     <string id="jgCb0sga" text="Вмикає приціл для далекобійної зброї."/>
     <string id="jIcGy6gI" text="{LEFT} : {RIGHT}"/>
     <string id="JKH8aiDE" text="Показ персонажа"/>
@@ -764,7 +764,7 @@
     <string id="YT6ljA5V" text="Переміститись вперед по карті"/>
     <string id="YTXLLaEN" text="Високорівневі"/>
     <string id="yV64UCaW" text="Наблизити"/>
-    <string id="YWIndpqk" text="Export Buffer Visualizations"/>
+    <string id="YWIndpqk" text="Експорт візуалізацій буфера"/>
     <string id="YZv1752W" text="D"/>
     <string id="yZvw7EQb" text="Відображення в екранному просторі"/>
     <string id="z5Kbb4pC" text="DLSS: Баланс"/>
