@@ -297,7 +297,7 @@
     <string id="ByxdPJzA" text="Fur Cap with Ear Flaps"/>
     <string id="bz5lXkHS" text="Sleeveless Padded Short Coat"/>
     <string id="bz7Glmsm" text="Уміння"/>
-    <string id="c2pdihCB" text="Caravans"/>
+    <string id="c2pdihCB" text="{.p}Караван{.R_n20_p}"/>
     <string id="C4n1rgBC" text="{.f}Сіджа{.R_n10_ko2}"/>
     <string id="C4qjBqLO" text="{.f}Стургія{.R_n10}"/>
     <string id="c7UNJSNi" text="Woven Leather Shoulders"/>
@@ -346,7 +346,7 @@
     <string id="d8DrtmwP" text="Visored Helmet over Mail Coif"/>
     <string id="D9JrTpwU" text="Curved Boots"/>
     <string id="dacwWKE2" text="Worn Kite Shield"/>
-    <string id="DaE0N37L" text="Відомі люди"/>
+    <string id="DaE0N37L" text="{.p}Відомий{.R_adj_z1} {.p}люди{.R_np3}"/>
     <string id="dB6cFDmz" text="/"/>
     <string id="DbavaIis" text="Iron Nasalhelm over Mail"/>
     <string id="Dc4ia4m9" text="Padded Cap"/>
@@ -1115,7 +1115,7 @@
     <string id="XH9f3yOX" text="Fur Waistcoat over Tunic"/>
     <string id="xILeUbY3" text="Admin Panel"/>
     <string id="XiwTesky" text="Silk Kaftan"/>
-    <string id="xj0MgUO0" text="Crime"/>
+    <string id="xj0MgUO0" text="{.p}Злочин{.R_n20_p}"/>
     <string id="XjMsnpgS" text="{.m}Тулаг{.R_n20_a}"/>
     <string id="XjT8S4ng" text="Біля {SETTLEMENT_NAME}{.v_rod}"/>
     <string id="XkL1Re8b" text="Studded Leather Coat"/>
