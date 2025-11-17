@@ -214,7 +214,7 @@
     <string id="agqzAXa9" text="Visored Helmet over Padded Coif"/>
     <string id="ahiBhAqU" text="Броня"/>
     <string id="Ai7qIb9I" text="Small Heater Shield"/>
-    <string id="aIkffnN6" text="Characters"/>
+    <string id="aIkffnN6" text="{.p}Персонаж{.R_n20_p_pz}"/>
     <string id="AK0lNDmN" text="Jeweled Plumed Battle Crown"/>
     <string id="alMmQrhK" text="Бойовий дух загону"/>
     <string id="ALWqXMiP" text="Так, я впевнен{?PLAYER.GENDER}а{?}ий{\?}."/>
@@ -252,14 +252,14 @@
     <string id="bAidg8fV" text="Huscarl Decorated Mail Shirt"/>
     <string id="BavVxSoC" text="Cheap Colored Clothes"/>
     <string id="BbhGL8XT" text="Brigandine Vest"/>
-    <string id="bC5aMfG0" text="Села"/>
+    <string id="bC5aMfG0" text="{.p}Село{.R_n2n_p2}"/>
     <string id="BCU6RezA" text="Ковалі"/>
     <string id="BCy1KpvR" text="{.m}Лакаліон{.R_n20_a_ke}"/>
     <string id="bDMmX9YI" text="{.m}Луїчан{.R_n20_a_ke}"/>
     <string id="bdpjqoGe" text="Segmented Cervelliere over Mail"/>
     <string id="beMSPAOG" text="Leather Studded Helm over Headcloth"/>
     <string id="bF7HmNGQ" text="Khuzait Khanate"/>
-    <string id="bfQLwMUp" text="Клани"/>
+    <string id="bfQLwMUp" text="{.p}Клан{.R_n20_p}"/>
     <string id="bgjiFSHZ" text="{.f}Баттанія{.R_n10}"/>
     <string id="bGyrPe8c" text="Production"/>
     <string id="bHbR5Mgy" text="{.m}Лосіс{.R_n20_a_ke}"/>
@@ -383,7 +383,7 @@
     <string id="E4WhEvu7" text="{.m}Сотеріс{.R_n20_a_ke}"/>
     <string id="e6csp4ha" text="{.p}Степовий{.R_adj} {.p}бандит{.R_n20_p}"/>
     <string id="eALf5d30" text="Thanks!"/>
-    <string id="ebbyLN2i" text="Міста"/>
+    <string id="ebbyLN2i" text="{.p}Місто{.R_n2n_p1}"/>
     <string id="ebHdQfbX" text="Spangenhelm with Padded Cloth"/>
     <string id="ecUwABe2" text="Desert"/>
     <string id="EEedqolz" text="Бедуїни"/>
@@ -519,7 +519,7 @@
     <string id="hunterhorse" text="Hunter"/>
     <string id="HVJ9ax8Z" text="Steppe Robe"/>
     <string id="HvjviTTW" text="Steel Cap with Cheek Guards"/>
-    <string id="hVZo7xdk" text="Замки"/>
+    <string id="hVZo7xdk" text="{.p}Замок{.R_n22_p}"/>
     <string id="hXB6gvD2" text="Cured Leather Lamellar Shirt "/>
     <string id="hXijcZyp" text="Roughcloth Shortcoat"/>
     <string id="hXl25avg" text="Ваша сім'я найняла вам приватного викладача, і ви повною мірою цим скористалися, жадібно читаючи книги по історії, математиці та філософії та обговорюючи прочитане зі своїм наставником та однокласниками."/>
@@ -542,7 +542,7 @@
     <string id="IK2IPJi1" text="{.f}Сіль{.R_n30}{@Plural}{.p}Мішок{.R_n22_p} солі{\@}"/>
     <string id="iLcfZ71B" text="{.n}Переконання{.R_n2n}"/>
     <string id="InGwtrWt" text="Quit"/>
-    <string id="inKr3PbA" text="Армії"/>
+    <string id="inKr3PbA" text="{.p}Армія{.R_n10_p1}"/>
     <string id="InN5ZZt3" text="Челядь поміщика"/>
     <string id="iOYRpw24" text="{.m}Ратагост{.R_n20_a_ke}"/>
     <string id="ipQP6aVi" text="Найманці"/>
@@ -588,7 +588,7 @@
     <string id="jlgjLDo7" text="Гарнізон"/>
     <string id="Jm3AiUo3" text="Simple Cape"/>
     <string id="joRHKCkm" text="Вашій родині був потрібен хтось надійний, хто б зміг провести караван до сусіднього міста. Ви організували припаси для походу, забезпечили постійну охорону від бандитів і безпечно доправили караван до місця призначення."/>
-    <string id="jpBpwgAs" text="Поселення"/>
+    <string id="jpBpwgAs" text="{.p}Поселення{.R_n2n_p1}"/>
     <string id="JPimShCw" text="Тип гри"/>
     <string id="JUSHAPnu" text="Ви були дуже прудким та пильно стежили за всім навколо. Зазвичай це давало вам можливість уникати будь-яких неприємностей, але ви також могли постояти за себе в бійці з іншими дітьми, якщо були загнані в кут."/>
     <string id="Jvf6K7TZ" text="Ваша родина належала до бідних мігрантів, які жили в нетрях, що виростали за стінами імперських міст, заробляючи гроші, як могли, на різноманітних випадкових підробітках. Інколи вони працювали і на місцевих бандитів, яких завжди було багато в Імперії, і ви рано познайомились з темною стороною життя."/>
@@ -884,7 +884,7 @@
     <string id="rUvnbDi2" text="{.m}Енкуріон{.R_n20_a_ke}"/>
     <string id="RuvSk3QT" text="Ви вирушали з місцевим мисливцем у дику місцевість, допомагаючи йому розставляти пастки та ловити дрібних тварин."/>
     <string id="RvKwdXWs" text="Commander"/>
-    <string id="RVPidk5a" text="Вплив"/>
+    <string id="RVPidk5a" text="{.m}Вплив{.R_n20_u}"/>
     <string id="Rvr1bcu8" text="Далі"/>
     <string id="rVUhYuvE" text="{.m}Сутеріос{.R_n20_a_ke}"/>
     <string id="RXDyumYz" text="Caped Leather Harness"/>
