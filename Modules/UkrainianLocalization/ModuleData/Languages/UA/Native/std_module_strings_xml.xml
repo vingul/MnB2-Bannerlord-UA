@@ -603,7 +603,7 @@
     <string id="eTyaQ1sG" text="Resume Campaign"/>
     <string id="eu25AFfI" text="Зараз неможливо відкрити вікно інвентарю!"/>
     <string id="EuEJ08Dg" text="Кількість здорових воїнів сторони захисту"/>
-    <string id="eufhFrnC" text="Селяни з {VILLAGE_NAME}{.v_rod}"/>
+    <string id="eufhFrnC" text="{.p}Селянин{.R_n20_pyn} з {.S}{VILLAGE_NAME}{.v_rod}"/>
     <string id="EuGCNdHG" text="Вийти з королівства"/>
     <string id="EUmwEtap" text="That was fine fighting, {PLAYER.LINK}. You took down {OPPONENT_COUNT} opponents. Of course you deserve a prize with that performance: {PRIZE}{GOLD_ICON}. Nice, eh?"/>
     <string id="eURzhtb0" text="Gathering around {PARTY_NAME}."/>
