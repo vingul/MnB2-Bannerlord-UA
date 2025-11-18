@@ -277,7 +277,7 @@
     <string id="BLZ4mdhb" text="Ваша сім'я була землеробами, яким заледве вистачало землі, щоб прогодувати себе та отримати невеликий прибуток. Однак, такі як вони були основою економіки королівства, а також складали кістяк її армії."/>
     <string id="bmHAYBwX" text="{.f}Катілла{.R_n10_ko}"/>
     <string id="BNnLbOkN" text="{.f}Адінея{.R_n10_ko}"/>
-    <string id="bNnQt4jN" text="Blacksmith"/>
+    <string id="bNnQt4jN" text="Коваль"/>
     <string id="BNuZ6nvd" text="{.f}Данірія{.R_n10_ko}"/>
     <string id="bqeWVVEE" text="Your actions have started a war with {QUEST_GIVER.LINK}'s faction. {?QUEST_GIVER.GENDER}She{?}He{\?} cancels your agreement and the quest is a failure."/>
     <string id="bQKbW8Tx" text="{.f}Тасіна{.R_n10_ko}"/>
@@ -363,7 +363,7 @@
     <string id="DoiwC1Qa" text="Mail Chausses"/>
     <string id="DOYS7dmq" text="Strapped Leather Bracers"/>
     <string id="dPQGxmJ7" text="Reinforced Mail Mittens"/>
-    <string id="dQBArrqh" text="Manage Alley"/>
+    <string id="dQBArrqh" text="Керування провулком"/>
     <string id="ds294zxi" text="Anything else?"/>
     <string id="dS4zm0UT" text="Studded Leather over Aketon"/>
     <string id="DsCkf6Pb" text="Підрісши, більшу частину свого часу ви почали проводити..."/>
