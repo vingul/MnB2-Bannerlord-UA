@@ -87,8 +87,8 @@
     <string id="4mhOs9Fb" text="Чи можна сформувати караван з кращою охороною?"/>
     <string id="4mwSvCgG" text="Yes I will. Come now, I will take you with me to {TARGET_NOTABLE.NAME} to resolve this issue peacefully."/>
     <string id="4pkfkSbe" text="Sorry about the smell around here, {?PLAYER.GENDER}madame{?}sir{\?}. Tanning's like that, sorry to say. How can I help you?"/>
-    <string id="4QfQBi2k" text="Alley fight won"/>
-    <string id="4QNycK7T" text="Go back"/>
+    <string id="4QfQBi2k" text="Перемога в битві на провулку"/>
+    <string id="4QNycK7T" text="Повернутися"/>
     <string id="4ry48jbg" text="I have a mission for you..."/>
     <string id="4Slck7UB" text="So, I heard from my {RANDOM_RELATIVE} that he took some {._}{PLURAL(ITEM_NAME)} over to {TOWN_NAME}, and made a profit of {PRICE_DIFF}{GOLD_ICON}."/>
     <string id="4upBpsnb" text="All right. I am in."/>
@@ -202,7 +202,7 @@
     <string id="ah3WKIc8" text="I could use some more troops in my party. Have you found any volunteers?"/>
     <string id="AHg5k9q2" text="Welcome to {SETTLEMENT_NAME}. I think you'll find these are good, law-abiding folk, for the most part."/>
     <string id="aHGbTpLp" text="Розкажи, як працюють турніри."/>
-    <string id="AjBYneFr" text="{CLAN_MEMBER.NAME} is in charge of the alley. {?CLAN_MEMBER.GENDER}She{?}He{\?} is currently traveling to the alley and will arrive after {HOURS} {?HOURS &gt; 1}hours{?}hour{\?}."/>
+    <string id="AjBYneFr" text="{CLAN_MEMBER.NAME} відповідає за цей провулок. {?CLAN_MEMBER.GENDER}Вона{?}Він{\?} зараз прямує до провулку і прибуде через {HOURS} годин{#GET_PLURAL_VALUE(HOURS)}у{#}и{#}{\#}."/>
     <string id="ajSm2FEU" text="I know spies are hard to catch but I tasked this to you for a reason. [if:convo_stern]Do not let me down {PLAYER.NAME}."/>
     <string id="ak2EMWWR" text="You failed to bring the daughter back to her {?QUEST_GIVER.GENDER}mother{?}father{\?} as promised to {QUEST_GIVER.LINK}. {QUEST_GIVER.LINK} is furious"/>
     <string id="aka03VdU" text="Meet {?QUEST_GIVER.GENDER}her{?}him{\?} now"/>
@@ -240,7 +240,7 @@
     <string id="av0bRae8" text="Who is imprisoned here?"/>
     <string id="avk9kNn1" text="Funny how the boundary stones on {NOTABLE.FIRSTNAME}'s land always seem a little bit closer every time you look at them."/>
     <string id="avVno3H8" text="Well, you can assign a companion of yours with a knack for this kind of game[if:convo_thinking] and enough muscles to back him up. Judging from what I have heard, a group of {NEEDED_MEN_COUNT} should be enough."/>
-    <string id="awjomtnJ" text="Are you sure?"/>
+    <string id="awjomtnJ" text="Ви впевнені?"/>
     <string id="awYMellZ" text="The spy is known to carry a sword."/>
     <string id="AwZhx2tT" text="I will be back."/>
     <string id="axLR9bQo" text="You have defeated the thugs that held {PRODIGAL_SON.LINK} as {QUEST_GIVER.LINK} has asked you to. {?QUEST_GIVER.GENDER}Lady{?}Lord{\?} {QUEST_GIVER.LINK} soon sends {?QUEST_GIVER.GENDER}her{?}his{\?} best regards and a sum of {REWARD}{GOLD_ICON} as a reward."/>
@@ -274,7 +274,7 @@
     <string id="bHRZhYzd" text="No! I won't go anywhere near them! They'll kill me![ib:closed2][if:convo_stern]"/>
     <string id="bi7ZhwNO" text="No, we are doing fine."/>
     <string id="biqYiCnr" text="My companion can handle it. Do not worry."/>
-    <string id="bl2aRW8f" text="{KEY} Sit"/>
+    <string id="bl2aRW8f" text="{KEY} Сісти"/>
     <string id="bLigh8Sd" text="Well, let's just say there's an idea I've been mulling over.[ib:confident2][if:convo_bemused] You may be able to help. Have you met {TARGET_MERCHANT.NAME}? {?TARGET_MERCHANT.GENDER}She{?}He{\?} is a very rich merchant. Very rich indeed. But not very honest… It's not right that someone without morals should have so much wealth, is it? I have a plan to redistribute it a bit."/>
     <string id="blqTMwQT" text="Follow me."/>
     <string id="BnoSOi3r" text="Actually..."/>
@@ -304,7 +304,7 @@
     <string id="ck36TZFP" text="400{GOLD_ICON}"/>
     <string id="CkaSSJz1" text="{NOTABLE.LINK}..."/>
     <string id="Ckou6bfg" text="Old skinflint {NOTABLE.FIRSTNAME} is my great-uncle's son, and not a blessed penny will {?NOTABLE.GENDER}she{?}he{\?} give me in hard times."/>
-    <string id="ClyaDhGU" text="Change the leader of the alley"/>
+    <string id="ClyaDhGU" text="Змінити керівника провулку"/>
     <string id="cPmV8S4e" text="Ми лишаємо арену відкритою для всіх, хто хоче потренуватися. Немає ні правил, ні команд. Всі б'ються один з одним, поки не залишиться тільки один боєць. Звучить весело, еге ж?[ib:confident2]"/>
     <string id="cpTMttNb" text="Is that so? Hey, caravan captain, whatever your name is… [if:convo_contemptuous]As long as we're all switching sides here, how about I join with you to defeat this miscreant who just betrayed both of us? Whichever of us comes out of this with the most men standing keeps your goods."/>
     <string id="cqe8FU8M" text="{?QUEST_GIVER.GENDER}She{?}He{\?} cares nothing about me! Only about {?QUEST_GIVER.GENDER}her{?}his{\?} reputation in our district."/>
@@ -346,7 +346,7 @@
     <string id="DUKbtlNb" text="{QUEST_GIVER.LINK} has finally sent a messenger telling you it's time to meet {?QUEST_GIVER.GENDER}her{?}him{\?} and join the fight."/>
     <string id="dUSfRYYH" text="Just a minute.."/>
     <string id="DUVqJifX" text="Yeah. I've seen one like that around the arena, asking all matter of outlandish questions. Middle-aged, normal head of hair, that's really all I can remember though.[if:convo_thinking]"/>
-    <string id="dWf6ztYu" text="You are in your alley by the {ALLEY_TYPE}, {FURTHER_INFO}"/>
+    <string id="dWf6ztYu" text="Ви знаходитесь на своєму провулку біля {ALLEY_TYPE}{.v_rod}, {FURTHER_INFO}"/>
     <string id="dwNquUNr" text="My father? Oh, thank god! I saw terrible things. [ib:nervous2][if:convo_shocked]They took my beloved one and slew many innocents without hesitation."/>
     <string id="dY3Vazug" text="I found a purse with {AMOUNT}{GOLD_ICON} a few paces away. I reckon it belongs to you."/>
     <string id="dyhZUHao" text="Well, I thought you were here to be sheared, [if:convo_shocked]but it looks like the sheep bites back. Very well, nicely played, here's your man's land back."/>
@@ -368,7 +368,7 @@
     <string id="EiiHoraV" text="Hard times... Hard times indeed."/>
     <string id="EIsQnfLP" text="Tell me how it's in my interest...[ib:closed][if:convo_nonchalant]"/>
     <string id="eKLH9fOb" text="May I be of service, {?PLAYER.GENDER}your ladyship{?}your lordship{\?}?"/>
-    <string id="ELfguvYD" text="Abandon the alley"/>
+    <string id="ELfguvYD" text="Покинути провулок"/>
     <string id="Emw9ut4A" text="Hard times... Can't find good help these days. Half of 'em are too hungry to work. The other half are thieves. Smart ones all left weeks ago.[rf:confused_annoyed]"/>
     <string id="EN3Zqyx5" text="A mouthy one, eh? At him, lads![ib:aggressive][if:convo_angry]"/>
     <string id="EnOOqaqf" text="I'll be sheep."/>
@@ -387,7 +387,7 @@
     <string id="F9Xjbchh" text="Thank you."/>
     <string id="fa8sla4i" text="Знищено {.S}{._}{SIEGE_ENGINE}{.v_zna} {.S}{BESIEGER_PARTY}{.v_rod}."/>
     <string id="fasAZDvM" text="We're on our way to {HERO.LINK}...[ib:demure]"/>
-    <string id="fcqdfY09" text="{CLAN_MEMBER.NAME} is in charge of the alley."/>
+    <string id="fcqdfY09" text="{CLAN_MEMBER.NAME} відповідає за цей провулок."/>
     <string id="fCrVeHP3" text="Ah! I was looking for this all day. How good of you to bring it back {?PLAYER.GENDER}madam{?}sir{\?}. Well, now that I know what an honest {?PLAYER.GENDER}lady{?}man{\?} you are, there can be no harm in letting you inside for a look. Go in.... Just so you know, though -- I'll be hanging onto the keys, in case you were thinking about undoing anyone's chains."/>
     <string id="FdwZlCCM" text="All of you can stop following me and return to what you were doing."/>
     <string id="FEcAwSfk" text="I will assign a companion with {NEEDED_MEN_COUNT} good men for {ALTERNATIVE_SOLUTION_DURATION} days."/>
@@ -463,12 +463,12 @@
     <string id="HlrGpPkV" text="The {CLAN_NAME} changed from the {OLD_FACTION_NAME} to the {NEW_FACTION_NAME}."/>
     <string id="hM7LSuB1" text="Good to see you. But we still need to wait until after dusk. {HERO.LINK}'s men may be watching, so let's keep our distance from each other until night falls."/>
     <string id="hmmoXy0E" text="Whose workshop is this?"/>
-    <string id="hnhKJYbx" text="You don't have any suitable clan members to assign this alley. ({ROGUERY_SKILL} skill {NEEDED_SKILL_LEVEL} or higher, {TRAIT_NAME} trait {MAX_TRAIT_AMOUNT} or lower)"/>
+    <string id="hnhKJYbx" text="У вас немає відповідних членів клану, яким можна було б доручити цю справу. (Уміння {ROGUERY_SKILL} повинно бути {NEEDED_SKILL_LEVEL} або вище, риса {TRAIT_NAME} повинна бути {MAX_TRAIT_AMOUNT} або нижче)"/>
     <string id="HtAr22re" text="Try to forget all about these and return to your father's house."/>
     <string id="htfLEQlf" text="Give me the keys to the cells -- now!"/>
     <string id="Hw4mTZxm" text="Sure, boss. Ask me anything."/>
     <string id="HzabMi4t" text="That was a fun game. Thank you."/>
-    <string id="i1sgAm0F" text="You have succeeded in defending your alley against the attack. You might want to leave some troops in order to compensate for your losses in the fight."/>
+    <string id="i1sgAm0F" text="Вам вдалося захистити свій провулок від нападу. Можливо, ви хочете залишити тут трохи воїнів, щоб компенсувати втрати в бою."/>
     <string id="i1sth9Ls" text="You were defeated by the rogue. He and {TARGET_HERO.NAME} ran off while you were unconscious. You failed to bring the daughter back to her {?QUEST_GIVER.GENDER}mother{?}father{\?} as promised to {QUEST_GIVER.LINK}. {?QUEST_GIVER.GENDER}She{?}He{\?} is furious."/>
     <string id="i4xzuOJE" text="Sure, I'll play at the hardest level."/>
     <string id="i5fNZrhh" text="Please, {?PLAYER.GENDER}lady{?}sir{\?}. I love him truly and I wish to spend the rest of my life with him.[ib:demure][if:convo_worried] I beg of you, please don't stand in our way."/>
@@ -487,7 +487,7 @@
     <string id="iHYAEEfv" text="SELECT AN HEIR"/>
     <string id="IKeZLbIK" text="No offense, captain, but if that's the case you need to get out more. [if:convo_mocking_teasing]Anyway, shall we go to it?"/>
     <string id="IkH0pVhC" text="I would be honored, my {?PLAYER.GENDER}lady{?}lord{\?}. But I can't take on any new responsibilities while leading this caravan. If you wish to relieve me of my duties, we can discuss this further."/>
-    <string id="ILnr9eCQ" text="Door is locked!"/>
+    <string id="ILnr9eCQ" text="Двері замкнені!"/>
     <string id="ILrYPvTV" text="You know, I think I'd prefer to take all the loot for myself."/>
     <string id="iLuezAbk" text="When there's no tournament, it's still worth coming by. A lot of fighters spend their time here practicing to keep in trim, and we'll award the winners a few coins for their troubles."/>
     <string id="Imes09et" text="Okay, then. We'll take that silver and buy some tools and and hire some workers with the proper skills."/>
@@ -514,7 +514,7 @@
     <string id="JgrG0uoO" text="Having the {TARGET_MERCHANT.LINK} by your side, you were successful in protecting the caravan."/>
     <string id="jGxotDqF" text="Best not sing that to every stranger you meet, child."/>
     <string id="JhbbB2dp" text="My {?PLAYER.GENDER}lady{?}lord{\?}, may I have a word please?"/>
-    <string id="jjEzdO0Y" text="Leave it empty"/>
+    <string id="jjEzdO0Y" text="Залишити порожнім"/>
     <string id="jjkOBPkY" text="Can't let down your guard around here. Too many bastards up to no good."/>
     <string id="JjtmptiD" text="More men have hair than not, but this is another tile in the mosaic."/>
     <string id="JjXETjYb" text="Thank you.[ib:demure][if:convo_thinking] I have to add, I'm ready to pay you {REWARD_GOLD}{GOLD_ICON} denars for your trouble. He is hiding somewhere nearby. Go talk to him, and tell him that you're here to sort things out."/>
@@ -690,7 +690,7 @@
     <string id="OCRafO5h" text="Bellows"/>
     <string id="oddzOnad" text="I'm hunting a spy. And now I have found him."/>
     <string id="OeKgpuAv" text="After your attack on the rival gang's alley, {QUEST_GIVER.LINK} decided to change {?QUEST_GIVER.GENDER}her{?}his{\?} plans, and doesn't need your assistance anymore. Quest is canceled."/>
-    <string id="OgTUrRlR" text="Chair"/>
+    <string id="OgTUrRlR" text="Стілець"/>
     <string id="oIA9lkpc" text="You have given birth to {DELIVERED_CHILDREN}."/>
     <string id="OIBiRTRP" text="{QUEST_GIVER.LINK} is waiting for you at {SETTLEMENT}."/>
     <string id="OiCCfAeC" text="{SETTLEMENT} захоплено. Розпочато голосування."/>
@@ -717,7 +717,7 @@
     <string id="OybG76Kf" text="Thank you for saving me, sir.[ib:normal][if:convo_astonished] I won't forget what you did here today."/>
     <string id="p1ETQbzg" text="Just checking on you."/>
     <string id="p3a44dQN" text="I would like to buy this workshop."/>
-    <string id="P5UbgK4c" text="{CLAN_MEMBER.NAME} was in charge of the alley. {?CLAN_MEMBER.GENDER}She{?}He{\?} is dead. Alley will be abandoned after {REMAINING_DAYS} {?REMAINING_DAYS&gt;1}days{?}day{\?} unless a new overseer is assigned."/>
+    <string id="P5UbgK4c" text="{CLAN_MEMBER.NAME} {?CLAN_MEMBER.GENDER}була відповідальною{?}був відповідальним{\?} за цей провулок. {?CLAN_MEMBER.GENDER}Вона померла{?}Він помер{\?}. Провулок буде покинутий через {REMAINING_DAYS} {#GET_PLURAL_VALUE(REMAINING_DAYS)}день{#}дні{#}днів{\#}, якщо не буде призначено нового наглядача."/>
     <string id="P7aRBg2h" text="Thank the heavens we have {?NOTABLE.GENDER}women{?}men{\?} like {NOTABLE.LINK} to help the poor in these hard times."/>
     <string id="P98iCLjl" text="Get out of my face, you vile beggar.[if:convo_angry]"/>
     <string id="P99OLPWU" text="Excuse me, {?PLAYER.GENDER}madam{?}sir{\?}, but I must shortly go about my business. Is there anything you need?"/>
@@ -777,7 +777,7 @@
     <string id="qPRl07mD" text="All right then. I'll try that."/>
     <string id="qQ71Ux7D" text=" Your army shared their food with your starving soldiers. You spent {INFLUENCE}{INFLUENCE_ICON}."/>
     <string id="QR0V8Ae5" text="Our lads are well hidden nearby,[ib:normal][if:convo_excited] waiting for the signal to go get those bastards. I won't forget this little favor you're doing me."/>
-    <string id="QrBCe41Z" text="Manage alley troops"/>
+    <string id="QrBCe41Z" text="Керувати воїнами в провулку"/>
     <string id="qsavxffL" text="I'll be attackers."/>
     <string id="qsg7pZOs" text="Дякую. Але мені потрібен деякий час, щоб залікувати свої рани."/>
     <string id="qsJxhNGZ" text="Safe travels {?PLAYER.GENDER}milady{?}sir{\?}."/>
@@ -788,7 +788,7 @@
     <string id="qWLq2y84" text="a stillborn baby"/>
     <string id="qxhMagyZ" text="I'm glad someone's on it.[if:convo_relaxed_happy] Just see that they do it quickly."/>
     <string id="QxIXbHai" text="I want to speak with a prisoner (Cheat)."/>
-    <string id="qxY2ASqp" text="Take over the alley"/>
+    <string id="qxY2ASqp" text="Захопити провулок"/>
     <string id="QyGQanO7" text="There's no doubt that {NOTABLE.FIRSTNAME} is a stiff-necked old goat, but you can't say {?NOTABLE.GENDER}she{?}he{\?}'s not honest as the day is long."/>
     <string id="R0AbAxqX" text="Досягнення вимкнено через наявність неофіційних модулів."/>
     <string id="R2HP4EiX" text="У мене немає жодних питань."/>
@@ -932,7 +932,7 @@
     <string id="VH27tpkT" text="It's quite the opportunity to make your name. You risk no more than your teeth, and didn't the Heavens give us thirty of those, just to have a few spare for grand opportunities like this?"/>
     <string id="vjk2q3OT" text="{?PLAYER.GENDER}Madam{?}Sir{\?}, {TARGET_NOTABLE.LINK}'s nephew murdered one of my kinsman, [ib:aggressive][if:convo_bared_teeth]and it is our right to take vengeance on the murderer. Custom gives us the right of vengeance. Everyone must know that we are willing to avenge our sons, or others will think little of killing them. Does it do us good to be a clan of old men and women, drowning in silver, if all our sons are slain? Please sir, allow us to take vengeance. We promise we won't let this turn into a senseless blood feud."/>
     <string id="vjOkDM6C" text="If you defend a murderer [ib:warrior][if:convo_furious]then you die like a murderer. Boys, kill them all!"/>
-    <string id="VkOtMe5a" text="Go to alley"/>
+    <string id="VkOtMe5a" text="Піти до провулку"/>
     <string id="vn13OyFV" text="one healthy and one stillborn baby"/>
     <string id="VO8qBWrv" text="Hey boss, come to check on the business?"/>
     <string id="VP6s1YFW" text="Many contenders have swords on their backs. Still this information might prove useful."/>
