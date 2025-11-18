@@ -3491,7 +3491,7 @@
     <string id="Qft5pfYr" text="You have been accused of a crime, and {QUEST_GIVER.LINK} has declared that you are no longer her champion."/>
     <string id="QGigAhFW" text="You have married with {YOUNG_HERO.LINK} who is the young noble you agreed to be his tutor. {QUEST_GIVER.LINK} no longer expects you to tutor {YOUNG_HERO.LINK} and wishes you a joyful marriage."/>
     <string id="QGj8zQIc" text="The hand of {MARRIAGE_CANDIDATE.NAME}."/>
-    <string id="QGlhXD4F" text="Виберіть супутника, який керуватиме цим провулком."/>
+    <string id="QGlhXD4F" text="Виберіть соратника, який керуватиме цим провулком."/>
     <string id="qGUrhBpI" text="After spending time observing the keep and eavesdropping on the guards, you conclude that there are no prisoners here who you can liberate."/>
     <string id="qh1Ot0F9" text="They have {STOLEN_GOODS_SIZE} {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%}. They're asking {REQUESTED_PRICE}{GOLD_ICON}. You know that this is the best price you can find anywhere in this district."/>
     <string id="Qh26ReAv" text="Look, I know that warriors like you can sometimes recruit bandits to your party. Some of those men might want to take their chances working for me. More comfortable in living in town, where there's always drink and women on hand, then roaming endlessly about the countryside, eh? For each one that signs up with me I'll give you a bounty, more if they have some experience.[if:convo_innocent_smile][ib:hip]"/>
