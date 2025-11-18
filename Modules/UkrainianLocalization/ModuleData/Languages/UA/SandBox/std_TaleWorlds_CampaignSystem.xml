@@ -708,7 +708,7 @@
     <string id="8mk6gwvh" text="Ви сказали {?CHILD.GENDER}їй{?}йому{\?}, що пильне око може помітити небезпеку здалеку, а тверда рука — запобігти їй ще до того, як вона наблизиться."/>
     <string id="8Mx8gMmw" text="One other small thing... I've had to take some money from some fairly dangerous people around here. I'll need {GOLD_AMOUNT}{GOLD_ICON} to get that beast off my back. Do you reckon you can pay me that?"/>
     <string id="8nGRa1pO" text="You're doing a good thing, {?PLAYER.GENDER}madame{?}sir{\?}. The poor people around here will remember you"/>
-    <string id="8NI4wrqU" text="This hero is currently assigned as a governor."/>
+    <string id="8NI4wrqU" text="Цей герой наразі призначений намісником."/>
     <string id="8nq0TbMZ" text="{?PLAYER.GENDER}Ma'am{?}Sir{\?}! I saw your party from a distance. I hope you don't mind me catching up to you. I am glad to see you safe - and, from the looks of it, in possession of some fine new goods. Please tell me, would they be mine?"/>
     <string id="8nS3QgD7" text="{QUEST_GIVER.LINK} is a {?QUEST_GIVER.GENDER}lady{?}lord{\?} who told you that {?QUEST_GIVER.GENDER}she{?}he{\?} wants to sell {?QUEST_GIVER.GENDER}her{?}his{\?} mercenaries to another lord's service. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you sell them for {?QUEST_GIVER.GENDER}her{?}him{\?} without causing any trouble."/>
     <string id="8nwZXNTk" text="About the task {QUEST_GIVER.LINK} gave me..."/>
@@ -1076,7 +1076,7 @@
     <string id="baeO5Zkk" text="{TITLE}... {GRIEVANCE_SHORT_DESCRIPTION}"/>
     <string id="bai3aiDB" text="як посланця."/>
     <string id="BaifRgT5" text="That's useful to know for when it comes time to discuss the exchange of dowries."/>
-    <string id="BaKOWJb6" text="This hero is pregnant."/>
+    <string id="BaKOWJb6" text="Цей герой вагітний."/>
     <string id="basevalue" text="База"/>
     <string id="baUFKAbd" text="Шкода від одноручної зброї: +{a0}%"/>
     <string id="bAVZloaC" text="{ARMY} has been disbanded since dismissal is requested."/>
@@ -1303,7 +1303,7 @@
     <string id="c7V0ayuX" text="{VALUE}% торгового штрафу в містах вашого королівства."/>
     <string id="c86V0dch" text="{VALUE}% шкоди від піхоти вашого підрозділу."/>
     <string id="C8LhGtUJ" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} характеристик до Контролю."/>
-    <string id="c9iu5lcc" text="This hero is currently busy."/>
+    <string id="c9iu5lcc" text="Цей герой зараз зайнятий."/>
     <string id="cAVxYAdw" text="Then you'd better bring your purse. I have got prisoners to sell."/>
     <string id="Cb0k9KM8" text="Штраф кавалерії за погоду"/>
     <string id="Cb5s9HlD" text="Бойові настанови"/>
@@ -1437,7 +1437,7 @@
     <string id="cxQGUbUD" text="I'm so grateful! You've kept my workshop running and my family fed. Please take this money and some extra to cover your costs.[if:convo_grateful][ib:normal2]"/>
     <string id="CymOFgzv" text="I gave an oath to {CURRENT_LIEGE.LINK} - but {?LORD.GENDER}her{?}his{\?} disregard for the common people of this realm does give me pause."/>
     <string id="cyQXm7VA" text="{?CHILD.GENDER}Молодій жінці{?}Молодому чоловікові{\?} було доручено подбати про те, щоб вони мали їжу, сідла, тварин, погоничів і охорону для подорожі."/>
-    <string id="CyrOuz4h" text="This hero is wounded."/>
+    <string id="CyrOuz4h" text="Цей герой поранений."/>
     <string id="CZ4y5NAf" text="Чиста інфраструктура"/>
     <string id="czCRxHZy" text="Вандал"/>
     <string id="cZjaGL9R" text="Що ще я можу для вас зробити?"/>
@@ -1858,7 +1858,7 @@
     <string id="FKtkmwtb" text="I don't know if you know much about the law here... Craftsmen like me are required to buy our raw materials from local merchants. The other side of the bargain is that they offer us reasonable prices. But they're not doing that! They've come together and agreed on a price that's just too high. They don't care if it ruins us - they can always sell the goods elsewhere.[ib:hip][if:convo_thinking]"/>
     <string id="flCA80Ex" text="{?CHILD.GENDER}тренувалась{?}тренувався{\?} дуже наполегливо."/>
     <string id="flctCQUT" text="How gallant. I hope some day I may be in a position to return the favor."/>
-    <string id="FLXzhZCo" text="Select companion"/>
+    <string id="FLXzhZCo" text="Вибрати соратника"/>
     <string id="fMekM2UH" text="{HIDEOUT_DESCRIPTION} You can not attack since your wounds do not allow you."/>
     <string id="fMIVxJU0" text="I am pleased to hear it, {PLAYER.NAME}. I hope you'll banish such unworthy thoughts from your mind from now on."/>
     <string id="FMJuPZlm" text="I'm not surrendering, so do what you must.[if:idle_angry][ib:warrior]"/>
@@ -3102,7 +3102,7 @@
     <string id="nSwkI97I" text="Стіна щитів"/>
     <string id="nt1ra97u" text="{.m}кочовий{.R_adj} {.m}клан{.R_n20_a}"/>
     <string id="NT5fwUuJ" text="Fording"/>
-    <string id="nT6EQGf9" text="This hero is currently solving an issue."/>
+    <string id="nT6EQGf9" text="Цей герой зараз вирішує проблему."/>
     <string id="NtCBRiLH" text="{VALUE}% швидкості зцілення при пересуванні по карті."/>
     <string id="ntEBl43n" text="Я {CONVERSATION_HERO.FIRSTNAME}, ремісник і простий робітник. Багато людей тут, у {.S}{TOWN_NAME}{.v_mis}, які чесно заробляють собі на хліб своїми руками, хочуть, щоб саме я говорив від їхнього імені."/>
     <string id="nTETQEmy" text="Впливовий"/>
@@ -3470,7 +3470,7 @@
     <string id="qcaaJLhx" text="Mercenary Contract"/>
     <string id="qCaIau4o" text="{VALUE}% шанс переконання."/>
     <string id="qcl3YTPh" text="Відвідати таверну"/>
-    <string id="qClVr2ka" text="This hero cannot lead a party."/>
+    <string id="qClVr2ka" text="Цей герой не може очолювати загін."/>
     <string id="QCuxL92I" text="Good day, {?PLAYER.GENDER}madam{?}sir{\?}. How can I help you?"/>
     <string id="QCzB8DDX" text="Ah excellent, these will come in handy."/>
     <string id="QdEGu0CW" text="A {?INQUIRY_COMPANION.GENDER}woman{?}man{\?} called {INQUIRY_COMPANION.LINK} has passed through here on his way to {COMPANION_SETTLEMENT}. You may catch up to {?INQUIRY_COMPANION.GENDER}her{?}him{\?} if you hurry.[rb:positive]"/>
@@ -3491,7 +3491,7 @@
     <string id="Qft5pfYr" text="You have been accused of a crime, and {QUEST_GIVER.LINK} has declared that you are no longer her champion."/>
     <string id="QGigAhFW" text="You have married with {YOUNG_HERO.LINK} who is the young noble you agreed to be his tutor. {QUEST_GIVER.LINK} no longer expects you to tutor {YOUNG_HERO.LINK} and wishes you a joyful marriage."/>
     <string id="QGj8zQIc" text="The hand of {MARRIAGE_CANDIDATE.NAME}."/>
-    <string id="QGlhXD4F" text="Select a companion to lead this alley."/>
+    <string id="QGlhXD4F" text="Виберіть супутника, який керуватиме цим провулком."/>
     <string id="qGUrhBpI" text="After spending time observing the keep and eavesdropping on the guards, you conclude that there are no prisoners here who you can liberate."/>
     <string id="qh1Ot0F9" text="They have {STOLEN_GOODS_SIZE} {.%}{?(STOLEN_GOODS_SIZE &gt; 1)}{PLURAL(STOLEN_GOOD)}{?}{STOLEN_GOOD}{\?}{.%}. They're asking {REQUESTED_PRICE}{GOLD_ICON}. You know that this is the best price you can find anywhere in this district."/>
     <string id="Qh26ReAv" text="Look, I know that warriors like you can sometimes recruit bandits to your party. Some of those men might want to take their chances working for me. More comfortable in living in town, where there's always drink and women on hand, then roaming endlessly about the countryside, eh? For each one that signs up with me I'll give you a bounty, more if they have some experience.[if:convo_innocent_smile][ib:hip]"/>
@@ -3501,7 +3501,7 @@
     <string id="QHG6LU1g" text="Ah yes, I've seen cruelty, degradation and degeneracy like you wouldn't believe. Fascinating stuff, all of it."/>
     <string id="qhL5o55i" text="Your party is starving. You lose {MORALE_PENALTY} morale."/>
     <string id="QHoCsSZX" text="What if their families can't pay?"/>
-    <string id="qhRC8XWU" text="This hero is currently prisoner."/>
+    <string id="qhRC8XWU" text="Цей герой наразі перебуває в полоні."/>
     <string id="QhyB7MX0" text="Your companion {COMPANION.LINK} and your men return with the news of their success. They dispersed the smugglers as promised to {QUEST_GIVER.LINK}."/>
     <string id="QHZeCDJy" text="Постійне місце, де проходять ярмарки. Громадяни можуть збиратися, випивати, танцювати і спілкуватися, підвищуючи щоденний моральний дух поселення."/>
     <string id="qi0wKvPX" text="You failed to catch up to the caravan before it was overwhelmed. {QUEST_GIVER.LINK} will be very upset about this."/>
@@ -4393,7 +4393,7 @@
     <string id="WaUuhxwv" text="Штраф від ваги зменшено на: {a0}%"/>
     <string id="way8jWK8" text="no risk of failure"/>
     <string id="wBBidWVw" text="What have we here? You can't enter the town with so many weapons. Hand them over! You can retrieve them when you leave.[if:convo_thinking][closed2]"/>
-    <string id="WBcw6Z9W" text="{HERO.NAME} is leading an alley."/>
+    <string id="WBcw6Z9W" text="{HERO.NAME} керує провулком."/>
     <string id="wBgpln4f" text="{VALUE} ліміту гарнізону в підконтрольному поселенні."/>
     <string id="wbLnJrJA" text="Ah, well. I can look elsewhere for help, I suppose."/>
     <string id="wbSXI6iq" text="Approach to the meeting point"/>
@@ -4409,7 +4409,7 @@
     <string id="WDRTZ8se" text="{newline} • Знищені міські проєкти: {LEVELS_LOST}{PROJECTS_DESTROYED}"/>
     <string id="we6jYdRD" text="Подвоєння приросту відносин при розв'язанні проблем ремісників."/>
     <string id="webjbgTa" text="дуже наполегливо {?CHILD.GENDER}тренувалась{?}тренувався{\?}."/>
-    <string id="WECWpVSw" text="This hero is currently traveling."/>
+    <string id="WECWpVSw" text="Цей герой зараз подорожує."/>
     <string id="WEkjz9tg" text="Ah! Yes... We are considering offers... Did you have someone in mind?"/>
     <string id="weW40mKG" text="Good to hear that! Safe journeys.[if:convo_relaxed_happy]"/>
     <string id="wF7uiYzy" text="Caravan Ambush"/>
