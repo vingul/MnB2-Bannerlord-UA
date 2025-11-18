@@ -734,7 +734,7 @@
     <string id="PLgOm8tV" text="The townsfolk told you that the spy is not bald."/>
     <string id="PlIYRSIz" text="All right my {?PLAYER.GENDER}lady{?}lord{\?}, they will be ready."/>
     <string id="pmuEeFV8" text="We are still arranging with your men how we'll spring this ambush. Do not worry. Everything will go smoothly."/>
-    <string id="po79q14T" text="You have failed to defend your alley against the attack, you have lost the ownership of it."/>
+    <string id="po79q14T" text="Ви не змогли захистити свій провулок від нападу і втратили контроль над ним."/>
     <string id="PP3LzCKk" text="As you wish, my {?PLAYER.GENDER}lady{?}lord{\?}."/>
     <string id="PRiOVcO9" text="Careful around here, {?PLAYER.GENDER}madame{?}sir{\?}. Don't want to get your hands caught in one of the presses. How can I help you?"/>
     <string id="prJBRboS" text="we look after the honest folk here. Make sure no one smashes up their shops. And if they want to give us a coin or two as a way of saying thanks, well, who'd mind?"/>
@@ -950,7 +950,7 @@
     <string id="w6WFuDn0" text="I am sorry, I don't have that much money."/>
     <string id="W7TD4yTc" text="You know, {TARGET_MERCHANT.NAME}'s man makes a good point. I'm guarding this caravan."/>
     <string id="WAa4yaTo" text="What do you want us to make?"/>
-    <string id="wAgfOHio" text="You have lost the ownership of the alley at {SETTLEMENT}."/>
+    <string id="wAgfOHio" text="Ви втратили контроль над провулком у {SETTLEMENT}{.v_mis}."/>
     <string id="wD1YDmmg" text="{PARTY_NAME} вступає до {.S}{ARMY_NAME}{.v_rod}."/>
     <string id="WD7vOalb" text="I'll be defenders."/>
     <string id="WDdlPUHw" text="Not if it's a duel. I challenge you. No true tournament fighter would refuse."/>
