@@ -75,7 +75,7 @@
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} до впливу власника"/>
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (податок)"/>
     <string id="2UCptBFi" text="the Sturgians"/>
-    <string id="2W2l9Kym" text="Ultimate Leader Perk Bonus"/>
+    <string id="2W2l9Kym" text="Бонус здібності Беззаперечний лідер"/>
     <string id="2wclahIJ" text="{.n}Метання{.R_n2n}"/>
     <string id="2WpbTaVJ" text="+{BONUS_AMOUNT}% до податків"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день {#}дні {#}днів {\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
