@@ -67,7 +67,7 @@
     <string id="a8nRxITn" text="Prisoner of {PARTY_NAME}"/>
     <string id="AcMayd1p" text="Втікає від {._}{TARGET_PARTY}{.v_rod}"/>
     <string id="aE4ZRbB6" text=" {HEALTH}%"/>
-    <string id="aFYwbosi" text="This hero is already leading a party."/>
+    <string id="aFYwbosi" text="Цей герой вже очолює загін."/>
     <string id="aGFxIvqx" text="Залишити супутника(ів)"/>
     <string id="aGJYQOef" text="Показати місцезнаходження героя на карті."/>
     <string id="ANV8UV5f" text="Відкликати цього учасника до свого загону."/>
@@ -144,7 +144,7 @@
     <string id="FBYFcrWo" text="Залишити в поселені"/>
     <string id="FdzsOvDq" text="This action is disabled while in a mission"/>
     <string id="fI7a7RoE" text="Місткість інвентарю"/>
-    <string id="FjJi1DJb" text="This hero is already a part of an another party."/>
+    <string id="FjJi1DJb" text="Цей герой вже є членом іншого загону."/>
     <string id="flxDkoMh" text="Етап завершено"/>
     <string id="fpE7BQ7f" text="У вас немає воїнів, яких можна було б покращити."/>
     <string id="fPoB2u5m" text="Ім'я персонажу має мати довжину від {MIN} до {MAX} символів"/>
@@ -191,7 +191,7 @@
     <string id="IQY9yykn" text="Продукти харчування"/>
     <string id="IRcy3pWJ" text="Name cannot be empty"/>
     <string id="iSZTOeYH" text="No army to disband."/>
-    <string id="it8oPzb1" text="Criminal Rating"/>
+    <string id="it8oPzb1" text="Кримінальний рейтинг"/>
     <string id="ITKb4cKv" text="{ITEM_NAME} is not equippable."/>
     <string id="iuKvbKJ7" text="Running"/>
     <string id="iXXTONWb" text=" ({PARTY_SIZE})"/>
@@ -212,7 +212,7 @@
     <string id="JYOcl7Ox" text="Ineffective!"/>
     <string id="K87pubLc" text="The option &quot;{DEPENDENT_OPTION}&quot; can be enabled by activating &quot;{MODULE_NAME}&quot; module."/>
     <string id="kjaACKUq" text="This action will cost {GOLD}{GOLD_ICON}"/>
-    <string id="KjuxDQfn" text="Alley leader is dead."/>
+    <string id="KjuxDQfn" text="Ватажок провулку мертвий."/>
     <string id="kMAQndom" text="Reset Changes?"/>
     <string id="kqeA8rjL" text="Ви дійсно бажаєте розпустити свою армію?"/>
     <string id="kQsXUvgO" text="You are not under a kingdom."/>
@@ -325,7 +325,7 @@
     <string id="QXBf26Rv" text="Unknown Behavior"/>
     <string id="QyVbwGLp" text="{PARTY_SIZE}"/>
     <string id="qZvNIVGV" text="There is no one available in your clan who can lead a party right now."/>
-    <string id="r0WIRUHo" text="Criminal Rating"/>
+    <string id="r0WIRUHo" text="Кримінальний рейтинг"/>
     <string id="R2AaCaPJ" text="Очікувані зміни"/>
     <string id="R4rTlKMU" text="Покращення військ наразі відключено."/>
     <string id="R8vuwKaf" text="Втікає від {._}{TARGET_PARTY}{.v_rod} до союзників."/>
