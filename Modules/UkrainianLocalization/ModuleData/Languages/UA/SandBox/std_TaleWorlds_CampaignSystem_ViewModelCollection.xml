@@ -13,7 +13,7 @@
     <string id="13wo3QQB" text="Secondary"/>
     <string id="154a34f8caccfc833238cc89d38861e8" text="Необхідно: "/>
     <string id="1CXlqb2U" text="Обрати:"/>
-    <string id="1l4kpBDK" text="Failed to Apply Changes"/>
+    <string id="1l4kpBDK" text="Помилка при застосуванні змін"/>
     <string id="1qm74K2t" text="Успішні набіги, здійснені {FACTION}{.v_oru}"/>
     <string id="1UbocG5B" text="Відмовитись від своїх прав і обов'язків стосовно цієї вотчини, повернувши її королівству."/>
     <string id="1xf8rHLH" text="У вас немає полонених, яких можна завербувати."/>
@@ -41,7 +41,7 @@
     <string id="63Ic1Ahe" text="Вартість: {UPGRADE_COST} (У вас немає)"/>
     <string id="68IlDbA2" text="You need to have {PERK_NAME} perk to upgrade a bandit troop to a normal troop."/>
     <string id="6adabc1f82216992571c3e22abc164d7" text="Ammo Limit: "/>
-    <string id="6DuCoCc2" text="You need to confirm your changes in order to engage in a conversation."/>
+    <string id="6DuCoCc2" text="Вам потрібно підтвердити внесені зміни, щоб розпочати розмову."/>
     <string id="74dc1908cb0b990e80fb977b5a0ef10d" text="Швидкість: "/>
     <string id="7l0LGKRk" text="Датою початку"/>
     <string id="7tBOCHm6" text="Колір емблеми:"/>
@@ -291,7 +291,7 @@
     <string id="p7raHA9x" text="Refinement"/>
     <string id="pBVbKYwo" text="You will lose the ownership of the alley and the troops in it. Are you sure?"/>
     <string id="Pdo7PpS3" text="{TASK_NAME} {CURRENT_PROGRESS}/{TARGET_PROGRESS}"/>
-    <string id="pF0SqQxL" text="Apply Changes?"/>
+    <string id="pF0SqQxL" text="Застосувати зміни?"/>
     <string id="PJZ8QYgA" text="L-I : {BONUS}"/>
     <string id="pkbUiKFJ" text="Currently fighting an enemy."/>
     <string id="pnFgwLYG" text="Поточна оплата"/>
@@ -352,7 +352,7 @@
     <string id="SFB2uYHa" text="Alley leader is traveling to the alley. ({LEFT_TIME} {?LEFT_TIME&gt;1}hours{?}hour{\?} left.)"/>
     <string id="sffGeQ1g" text="Gift"/>
     <string id="sFiU3Ss2" text="Клацніть, щоб скинути поворот камери"/>
-    <string id="sFseX1Ka" text="Could not apply changes."/>
+    <string id="sFseX1Ka" text="Не вдалося застосувати зміни."/>
     <string id="SK8G9QpE" text="Вартість"/>
     <string id="Sls0KQVn" text="Elections"/>
     <string id="slzfQzl3" text="This hero is lost"/>
@@ -413,7 +413,7 @@
     <string id="X6eG4Q5V" text="Warehouse Capacity"/>
     <string id="xaeXEj8J" text="Виберіть персонажа для роботи в кузні"/>
     <string id="XAL3t1bs" text="Прямує до заданої точки"/>
-    <string id="XgkFpSdq" text="Cannot apply changes. You need reset your changes in order to engage in a conversation."/>
+    <string id="XgkFpSdq" text="Неможливо застосувати зміни. Вам потрібно скинути внесені зміни, щоб розпочати розмову."/>
     <string id="XIioBPi0" text="No changes"/>
     <string id="Xmw93W6a" text="Not Enough Influence"/>
     <string id="XSQ0Y9gy" text="You need to be a part of a kingdom to create an army."/>
