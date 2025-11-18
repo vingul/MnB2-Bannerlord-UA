@@ -384,7 +384,7 @@
     <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Begum{?}Beg{\?}"/>
     <string id="bcmlu1ml" text="{?ASKED_LORD.GENDER}She{?}He{\?} is prisoner of {PRISON_PARTY_LEADER.LINK}."/>
     <string id="BD8Mi02a" text="{ASKED_LORD.LINK} is currently fugitive."/>
-    <string id="BdFaNDom" text="This hero is already an alley leader."/>
+    <string id="BdFaNDom" text="Цей герой вже керує провулком."/>
     <string id="bdFJgWp3" text="Defender Banner"/>
     <string id="Bdg4kSqC" text=" ({NUMBER_OF_MEN})"/>
     <string id="bdJtVxQp" text="Ви {?PAY_OR_GET}отримаєте{?}втратите{\?} {TRADE_AMOUNT}{INFLUENCE_ICON}"/>
@@ -1241,7 +1241,7 @@
     <string id="pSjnd6PX" text="You have lost the duel. Your army is disheartened by your defeat. Your party loses morale."/>
     <string id="PSN8IaIg" text="Shields"/>
     <string id="pSWt8NXH" text="Raiding {SETTLEMENT_NAME} ({RAIDING_PROCESS}%)"/>
-    <string id="pSz4xSqO" text="Hero's {SKILL_NAME} skill needs to be {MIN_SKILL_AMOUNT} or higher."/>
+    <string id="pSz4xSqO" text="Уміння {SKILL_NAME} цього героя має бути рівня {MIN_SKILL_AMOUNT} або вище."/>
     <string id="pT9TZehy" text="Camp"/>
     <string id="puwXJDa9" text="Добробут:"/>
     <string id="PVidxUQ8" text="Запаси їжі"/>
@@ -1362,7 +1362,7 @@
     <string id="s5h0Yarn" text="Керувати своєю армією"/>
     <string id="s6ofDDii" text="Barricade"/>
     <string id="S9tmCkHz" text="This hero is clearing a common area."/>
-    <string id="sa2TQu1G" text="This hero is busy with an issue or a quest."/>
+    <string id="sa2TQu1G" text="Цей герой зайнятий вирішенням проблеми або виконанням завдання."/>
     <string id="SBp4Ja1u" text="Доступні очки фокусу.{newline}Ви можете використовувати ці очки, щоб збільшити ліміт вивчення окремих умінь. Персонажі отримують {FOCUS_PER_LEVEL} {#GET_PLURAL_VALUE(FOCUS_PER_LEVEL)}очко{#}очки{#}очків{\#} фокусу при кожному підвищенні рівня."/>
     <string id="SCAehHN6" text="son"/>
     <string id="SdcpdfaV" text="Hey - you. What you got in your bags? What are you carrying?[if:convo_bared_teeth]"/>
@@ -1379,7 +1379,7 @@
     <string id="sJLUbnLl" text="Загальна сила"/>
     <string id="sKnYLPkn" text="{.m}король{.R_n20_a_p}"/>
     <string id="slKe6Gyc" text="Загальна кількість їжі в армії"/>
-    <string id="SLNKWIj5" text="Hero's {TRAIT_NAME} trait needs to be {MAX_TRAIT_AMOUNT} or lower."/>
+    <string id="SLNKWIj5" text="Риса {TRAIT_NAME} цього героя повинно бути {MAX_TRAIT_AMOUNT} або нижче."/>
     <string id="smeltverb" text="Переплавити"/>
     <string id="smithingverb" text="{.n}Ковальство{.R_n2n}"/>
     <string id="SMws1ws6" text="Large Shield"/>
@@ -1465,7 +1465,7 @@
     <string id="U8VHRdwF" text="Броня (ноги): "/>
     <string id="ua15BlYh" text="Скинути все"/>
     <string id="uAL3bCfN" text="Навантаження{newline}Загальна вага екіпірованої броні та зброї.{newline}Високий рівень навантаження зменшує вашу швидкість при пересуванні пішки."/>
-    <string id="UaV0JT87" text="This hero can not craft this item."/>
+    <string id="UaV0JT87" text="Цей герой не може створити цей предмет."/>
     <string id="Uaw5VF3D" text="Your opponent wants to forfeit. Do you accept your win? If you don't, you will continue playing."/>
     <string id="UaYsPbER" text="Unpaid wages"/>
     <string id="uB245vWg" text="Їжа:"/>
@@ -1484,7 +1484,7 @@
     <string id="uhcIXeba" text="Ви викидаєте предмети. Ви впевнені, що хочете це зробити?"/>
     <string id="uinDitbl" text="Ми повинні проломити стіни."/>
     <string id="UIqPXN62" text="Вражайте ворогів метальною зброєю."/>
-    <string id="UJ01br0b" text="This hero does not have required {SKILL} skill to complete this order."/>
+    <string id="UJ01br0b" text="Цей герой не має необхідного вміння {SKILL}, щоб виконати це замовлення."/>
     <string id="um1Z5swc" text="the lady {REFERING_HERO.LINK}"/>
     <string id="Umb8XsZH" text="Pierce"/>
     <string id="uN5gwV05" text="Deceased"/>
@@ -1497,7 +1497,7 @@
     <string id="UtQhRvS8" text="husband"/>
     <string id="Uu0wzNj3" text="Рівень клану: {TIER} "/>
     <string id="uUlO8l6M" text="Heard you got into a fight with some of the people working for {COMMON_AREA_OWNER}. Well, that's no business of mine."/>
-    <string id="uuwm0Kga" text="Door"/>
+    <string id="uuwm0Kga" text="Двері"/>
     <string id="uvIL0tP9" text="Дальність огляду"/>
     <string id="uwPByaQg" text="Begin Assault"/>
     <string id="UX7reJ3K" text="We must rush to defend our siege machines lest the enemy destroy them."/>
@@ -1641,7 +1641,7 @@
     <string id="Xx9EbSwG" text="Boot"/>
     <string id="XxLCJb0W" text="Чесний"/>
     <string id="xycMiCIq" text="Останнім часом я не помічаю жодної вигідної угоди."/>
-    <string id="XzggyCPW" text="This hero is busy."/>
+    <string id="XzggyCPW" text="Цей герой зайнятий."/>
     <string id="xZxbFuDI" text="The jackals will feed well tonight, then."/>
     <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are forming a defensive ring around ranged troops."/>
     <string id="y1uH6Og1" text="Horse Equipment IV"/>
