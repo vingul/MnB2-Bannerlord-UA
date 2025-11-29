@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
     <string id="03Q47XnC" text="Ну що ж. Я завжди хочу дізнатися трохи про людину, перш ніж її вбити. Не хочеш назвати мені своє справжнє ім'я?"/>
@@ -33,7 +33,6 @@
     <string id="AoBIFXZH" text="{STR_SALUTATION}... Так, так. Мені дуже цікаво дізнатися, що ви хочете мені сказати."/>
     <string id="aOkilS3H" text="Гаразд. То хто ж ви?"/>
     <string id="axO6JCWt" text="Будь ласка... Зупиніться там. Я {?SPEAKER.GENDER}хотіла{?}хотів{\?} би запитати, як вас звати."/>
-    <string id="ay0tHozl" text="Так? То хто ж ти тоді?"/>
     <string id="AYeRBAxA" text="Ну що ж. Не підходьте ближче. Вибачте, але обережність ніколи не буває зайвою. Я {?SPEAKER.GENDER}хотіла{?}хотів{\?} би запитати, як вас звати."/>
     <string id="aZeMzNXf" text="Так? Вам щось потрібно від мене? Хто ви?"/>
     <string id="B05S6Fw4" text="Хто ви і чого хочете?"/>
