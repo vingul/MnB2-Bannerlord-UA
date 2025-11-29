@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
     <string id="4bIP3dka" text="Conspiracy Longbowman"/>
     <string id="6c5L2D91" text="Conspiracy Warmonger"/>
     <string id="6IetyqbY" text="Conspiracy Mounted Fighter"/>
     <string id="8AHT9pt5" text="Тренер"/>
+    <string id="a2rhPaGB" text="{.m}Балдрон{.R_n20_a_ke}"/>
     <string id="adR3pIDp" text="Conspiracy Noble Horseman"/>
     <string id="agvI8ymJ" text="Conspiracy Wilder"/>
     <string id="BAgYPdXW" text="Conspiracy Fighter"/>
@@ -19,11 +20,12 @@
     <string id="GfHGXdpx" text="Conspiracy Raider"/>
     <string id="i8GS9pn9" text="Conspiracy Veteran Fighter"/>
     <string id="IMwAoSax" text="{.m}Грабіжник{.R_n20_a_p} Радагоса"/>
-    <string id="ixCSdUlD" text="Conpiracy Kern"/>
+    <string id="ixCSdUlD" text="Conspiracy Kern"/>
     <string id="j5Me8RDp" text="Conspiracy Trained Crossbowman"/>
     <string id="JbDdyuJ1" text="Conspiracy Caravan Master"/>
     <string id="JchFJ884" text="Conspiracy Packmaster"/>
     <string id="kfhY01a7" text="{.m}Воїн{.R_n20_a_ke_p} старости"/>
+    <string id="KtqB640w" text="Empire Peasant"/>
     <string id="LKPF1mjo" text="Conspiracy Warworn Crossbowman"/>
     <string id="loRgnHVa" text="Conspiracy Trained Huntsman"/>
     <string id="mau9JLzO" text="Conspiracy Hunt Leader"/>
@@ -36,6 +38,7 @@
     <string id="SLxnu4XO" text="{.m}Гальтер{.R_n20_a_ke}"/>
     <string id="uCmEaWOI" text="{.f}Істіана{.R_n10_ko}"/>
     <string id="USA8hlVX" text="Conspiracy Guardian"/>
+    <string id="V44d9fIP" text="{.f}Терра{.R_n10_ko}"/>
     <string id="VmFyP2Lp" text="Conspiracy Guardsman"/>
     <string id="XbsySjkl" text="Conspiracy Trained Spearman"/>
     <string id="XmUZ2QU2" text="Conspiracy Knight"/>
