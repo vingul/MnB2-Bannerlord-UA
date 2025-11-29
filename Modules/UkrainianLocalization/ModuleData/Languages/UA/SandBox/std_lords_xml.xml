@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
     <string id="03vNcoOt" text="{.f}Ділья{.R_n10_ko}"/>
@@ -50,7 +50,6 @@
     <string id="9iyfFTok" text="Сохатай"/>
     <string id="9lFmNG5c" text="{.f}Хада{.R_n10_ko}"/>
     <string id="9Pw7LDXY" text="{.m}Маріцій{.R_n20_a}"/>
-    <string id="a2rhPaGB" text="{.m}Балдрон{.R_n20_a_ke}"/>
     <string id="A3LSuoBu" text="Сеонаг"/>
     <string id="a4E2pVDA" text="{.m}Сервік{.R_n20_a}"/>
     <string id="AEA6qavG" text="{.f}Леонтія{.R_n10_ko}"/>
@@ -77,8 +76,6 @@
     <string id="brZGZw7D" text="{.f}Азіна{.R_n10_ko}"/>
     <string id="bujI7g96" text="{.f}Сільвіна{.R_n10_ko}"/>
     <string id="buvim3t7" text="{.f}Занува{.R_n10_ko}"/>
-    <string id="bVAPtfVG" text="Чамбуй"/>
-    <string id="BVNCWAai" text="{.m}Екаранд{.R_n20_a_ke}"/>
     <string id="bvY3HRvY" text="{.f}Валькава{.R_n10_ko}"/>
     <string id="BxABzWjH" text="{.f}Кателла{.R_n10_ko}"/>
     <string id="C1LIflK9" text="{.f}Річельда{.R_n10_ko}"/>
@@ -88,7 +85,6 @@
     <string id="CLqPbdiZ" text="{.m}Люкон{.R_n20_a_ke}"/>
     <string id="codK1ezX" text="{.m}Еледуран{.R_n20_a_ke}"/>
     <string id="cqu8MATS" text="{.f}Есачея{.R_n10_ko}"/>
-    <string id="CS4unEGi" text="Бітаг"/>
     <string id="CuH8aalQ" text="{.f}Валла{.R_n10_ko}"/>
     <string id="CwK8l7IX" text="{.f}Софалія{.R_n10_ko}"/>
     <string id="D2aRzMRF" text="{.m}Рат{.R_n20_a_ke}"/>
@@ -104,7 +100,6 @@
     <string id="DsduCz91" text="{.f}Саніт"/>
     <string id="DuTdWRbB" text="{.f}Фарзана{.R_n10_ko}"/>
     <string id="DVtqrS0T" text="{.m}Акрум{.R_n20_a_ke}"/>
-    <string id="e0iDOkUq" text="{.m}Гузукан{.R_n20_a_ke}"/>
     <string id="E5CKYEWf" text="{.f}Кіша{.R_n10_ko2}"/>
     <string id="e8NQzxiE" text="{.f}Люда{.R_n10_ko}"/>
     <string id="ebQiU2wT" text="Корейн"/>
@@ -129,7 +124,6 @@
     <string id="GFmOwx4L" text="Ідрун"/>
     <string id="GFV7bzME" text="{.f}Ікратія{.R_n10_ko}"/>
     <string id="Ggj9PWIU" text="{.f}Мінарвіна{.R_n10_ko}"/>
-    <string id="GJhRw7qb" text="{.m}Езос{.R_n20_a_ke}"/>
     <string id="GK1k9K4j" text="{.m}Фернхард{.R_n20_a_ke}"/>
     <string id="gnGxp46c" text="Вітуїн"/>
     <string id="gQ1JZ8ow" text="{.m}Ухай{.R_n20_a}"/>
@@ -153,7 +147,6 @@
     <string id="I72U5ttG" text="{.m}Гарій{.R_n20_a}"/>
     <string id="i7GvKab4" text="{.f}Аполанея{.R_n10_ko}"/>
     <string id="IbgH3J03" text="{.f}Вівіана{.R_n10_ko}"/>
-    <string id="IgSZcCW0" text="{.m}Каріт{.R_n20_a_ke}"/>
     <string id="ioDNXwba" text="Алвіт"/>
     <string id="iOZtAOgk" text="{.m}Таїс{.R_n20_a_ke}"/>
     <string id="it6GDDPw" text="Інгунде"/>
@@ -209,7 +202,6 @@
     <string id="MaeS2r7p" text="{.m}Тасинор{.R_n20_a_ke}"/>
     <string id="MBKTyzXQ" text="{.f}Рустіка{.R_n10_ko}"/>
     <string id="MbnZZE0G" text="Болат"/>
-    <string id="mbRvqDhY" text="{.m}Вашоркі"/>
     <string id="MlmPJ502" text="Манан"/>
     <string id="MOH80RNb" text="{.f}Хаджара{.R_n10_ko}"/>
     <string id="mpgkzY0Y" text="{.f}Гордіана{.R_n10_ko}"/>
@@ -267,7 +259,6 @@
     <string id="t31RboMa" text="{.f}Хафіса{.R_n10_ko}"/>
     <string id="TAGefbaW" text="{.m}Кануджан{.R_n20_a_ke}"/>
     <string id="TbluOCYP" text="{.m}Дагунік{.R_n20_a}"/>
-    <string id="TbQ9w13e" text="{.m}Фіарад{.R_n20_a_ke}"/>
     <string id="TfNSLFNF" text="{.f}Аніда{.R_n10_ko}"/>
     <string id="tRAl9AW2" text="{.f}Коматаса{.R_n10_ko}"/>
     <string id="txyVEr0U" text="{.m}Сатрос{.R_n20_a_ke}"/>
@@ -279,7 +270,6 @@
     <string id="uqGvaPxz" text="{.f}Ліліжа{.R_n10_ko2}"/>
     <string id="UTFGUeVQ" text="{.m}Зено"/>
     <string id="uxt1DnZM" text="{.m}Галик{.R_n20_a}"/>
-    <string id="V44d9fIP" text="{.f}Терра{.R_n10_ko}"/>
     <string id="v6CSTkR4" text="{.f}Хіласіана{.R_n10_ko}"/>
     <string id="VAAIYJqI" text="{.m}Талас{.R_n20_a_ke}"/>
     <string id="vDqbZTbb" text="{.f}Мела{.R_n10_ko}"/>
@@ -299,7 +289,6 @@
     <string id="x9LbvJYp" text="{.m}Німр{.R_n20_a_ke}"/>
     <string id="xfSKiKl1" text="{.m}Вінкантій{.R_n20_a}"/>
     <string id="XkNnlSwA" text="{.m}Джастіон{.R_n20_a_ke}"/>
-    <string id="Xs2Ffm4I" text="{.m}Хашан{.R_n20_a_ke}"/>
     <string id="XSfDaaFp" text="Адальтруд"/>
     <string id="xtEfnInH" text="{.m}Олек{.R_n20_a}"/>
     <string id="xViSxONn" text="{.m}Ульбос{.R_n20_a_ke}"/>
