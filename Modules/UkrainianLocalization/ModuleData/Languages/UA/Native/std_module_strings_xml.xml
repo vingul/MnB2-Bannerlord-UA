@@ -208,7 +208,7 @@
     <string id="7mRN2br0" text="Leadership of the formation has been given to {HERO_NAME}."/>
     <string id="7MSuWxaY" text="{CHILD.NAME} {?CHILD.GENDER}досягла{?}досяг{\?} віку {CHILD.AGE} рок{#GET_PLURAL_VALUE(CHILD.AGE)}у{#}ів{#}ів{\#}&#10; і {?CHILD.GENDER}їй{?}йому{\?} потрібна ваша настанова."/>
     <string id="7MWaMaez" text="Here's what we've got: {ITEM_LIST}. Take them, but let us live."/>
-    <string id="7oJ9gIeT" text="Trader does not have enough money."/>
+    <string id="7oJ9gIeT" text="У торговця недостатньо грошей."/>
     <string id="7pAZatbz" text="{?RULER.GENDER}Empress{?}Emperor{\?} {RULER.NAME}"/>
     <string id="7sUhWG0E" text="Шкода від випаду: "/>
     <string id="7sZMMYbe" text="Minor Faction"/>
@@ -1037,7 +1037,7 @@
     <string id="Mc8ojOGn" text="Вогнища"/>
     <string id="mDbaNQay" text="Ride forth and attempt to strike your opponent!"/>
     <string id="mds0myr4" text="{HERO.NAME} has lost {?PLAYER.GENDER}her{?}his{\?} {TRAIT_NAME} trait."/>
-    <string id="MeQmoYb4" text="You don't have a high enough relation to acquire this troop. {newline}You have {REL1}. You need {REL2}."/>
+    <string id="MeQmoYb4" text="У вас недостатній рівень відносин, щоб найняти цього воїна. {newline}Ви маєте {REL1}. Вам потрібно {REL2}."/>
     <string id="MFLAvq4Z" text="There are bandits inside this place. Do you want to attack them?"/>
     <string id="MfnYoLdc" text="Expenses"/>
     <string id="mG4oq1vb" text="Open Sea Battle{newline}{newline}• Heavy ships gain major bonus.{newline}• Light ships suffer major penalty.{newline}"/>
@@ -1726,7 +1726,7 @@
     <string id="ZaoZKcx9" text="Townsfolk"/>
     <string id="ZaseErqk" text="Can't retreat, there are enemies nearby!"/>
     <string id="zBC5cQic" text="Підтримка скасування"/>
-    <string id="ZdeswYbM" text="Trader doesn't have enough money! Are you sure?"/>
+    <string id="ZdeswYbM" text="У торговця недостатньо грошей! Ви впевнені?"/>
     <string id="ZdqbU2gw" text="Прийняти"/>
     <string id="zE6OFPRu" text="Податки з поселення"/>
     <string id="zEbvDH7V" text="Ви не можете підтримувати свій власний клан."/>
