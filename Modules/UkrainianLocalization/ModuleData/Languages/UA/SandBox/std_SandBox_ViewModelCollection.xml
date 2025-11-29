@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
-    <string id="0DMM0agr" text="Вплив на воїнів дальнього бою"/>
     <string id="1QAEyN2V" text="Cheat Used: {CHEAT}"/>
     <string id="1tiF5JhE" text="{TITLE} &gt; {SUBTITLE}"/>
     <string id="5zeL8sa9" text="Ви отримали {A0} впливу."/>
     <string id="6qYaQkDD" text="{COUNT} + {PRISONER_COUNT} п"/>
     <string id="7AI8jA0b" text="Необхідно ввести текст."/>
     <string id="7WdWK2Dt" text="Зберегти гру"/>
-    <string id="7yaDnyKb" text="Немає додаткового впливу від здібності."/>
-    <string id="9svpUWeo" text="Save version ({SAVE_VERSION}) is higher than the current version ({CURRENT_VERSION})."/>
+    <string id="AdgAJbAP" text="Return To The Map"/>
     <string id="aG6XMhA1" text="Збережений файл гри з такою назвою вже існує."/>
     <string id="Ahy035gM" text="Вартість будівництва"/>
+    <string id="ANoYN1yZ" text="You unlocked the {A0} figurehead."/>
     <string id="azJulvrp" text="{?IS_BETTING}Ви втратите {BET_AMOUNT}{GOLD_ICON}, якщо здастеся.{newline}{?}{\?}Ви дійсно хочете здатися?"/>
     <string id="B3W6fcQX" text="Введений текст не може перевищувати {MAX_LENGTH} символів."/>
     <string id="CiIWjF3f" text="+{PRISONERAMOUNT} пол."/>
@@ -28,6 +27,7 @@
     <string id="Fm0rjkH7" text="Ironman"/>
     <string id="GaOE4bdd" text="Пропустити всі раунди"/>
     <string id="gDKhs4lD" text="☠ {A0} загинув на полі бою."/>
+    <string id="GmjiZk9P" text="Call Troops"/>
     <string id="gZIOG0wl" text="Вплив на кінних лучників"/>
     <string id="GZWPHmAw" text="День: {DAY}"/>
     <string id="HH2mZq8J" text="Ви дійсно бажаєте видалити це збереження?"/>
@@ -36,8 +36,10 @@
     <string id="hYL3CFHX" text="Ви хочете перезаписати цю збережену гру?"/>
     <string id="hZrwUIaq" text="Здоров'я"/>
     <string id="IwhpeT8C" text="Рівень: {PLAYER_LEVEL}"/>
-    <string id="jCdZY3i4" text="{PERK_NAME} ({SKILL_LEVEL} - {SKILL})"/>
+    <string id="KdT0PM8Y" text="Sentry"/>
+    <string id="KgTFCWG8" text="You are suspicious"/>
     <string id="kXRdeawC" text="Текст не може містити спеціальні символи."/>
+    <string id="kXy4R7ca" text="You are about to lose the target."/>
     <string id="L9GnQvsq" text="Ставка: {BETTED_DENARS}"/>
     <string id="lPMYSSAa" text="Необхідні інструменти"/>
     <string id="M1AEHJ76" text="Зверніть увагу, що це збереження створено для сесії, в якій включений режим «Залізна воля». Для даної сесії не передбачено інших файлів збереження. Ви дійсно бажаєте видалити це збереження?"/>
@@ -47,22 +49,21 @@
     <string id="O9nwLrYp" text="+{WOUNDEDAMOUNT} ран."/>
     <string id="o9PIe7am" text="Пошкоджено"/>
     <string id="OYtysXzk" text="Cheats"/>
-    <string id="pgXuyHxH" text="Captain Perks"/>
     <string id="PY00wRz4" text="Не вдалося видалити файл збереження."/>
     <string id="Q1HIlJxe" text="Перезаписати"/>
     <string id="QHV8aeEg" text="Видалити збереження"/>
     <string id="qIeDZoSx" text="Придбано:{ITEMS}"/>
-    <string id="raD9MK3O" text="Складність"/>
+    <string id="R3Zn7x07" text="You must select an option"/>
     <string id="RoYPofhK" text="Пошкоджене збереження"/>
     <string id="Rtakaivj" text="Введений текст має містити принаймні один символ, що не є пробілом."/>
     <string id="SRjrhb0A" text="Кількість вотчин у володінні"/>
-    <string id="SSLUHH6j" text="Вплив на піхоту"/>
     <string id="str_save_text_ps4" text="Гра зберігається. Будь ласка, не вимикайте консоль."/>
     <string id="str_save_text_ps5" text="Гра зберігається. Будь ласка, не вимикайте консоль."/>
     <string id="TFJTOYea" text="Проблема вирішена"/>
     <string id="uncategorized_save" text="Без категорії"/>
     <string id="vjhkoUFS" text="Гра зберігається. Будь ласка, не вимикайте консоль."/>
     <string id="WAKz9xX8" text="Ви отримали {A0} бойового духу."/>
+    <string id="WcSky2KB" text="Stealth Area"/>
     <string id="WDlVhNuq" text="Назвіть файл збереження"/>
     <string id="X8i3jZn8" text="Вплив на кавалерію"/>
     <string id="xlEZ02Qw" text="При використанні функції «Зберегти як» на карті кампанії графіка персонажу вимикається."/>
