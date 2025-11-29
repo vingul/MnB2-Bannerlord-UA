@@ -12,6 +12,7 @@
   <LanguageFile xml_path="UA/SandBox/std_location_complex_templates_xml.xml" />
   <LanguageFile xml_path="UA/SandBox/std_lords_xml.xml" />
   <LanguageFile xml_path="UA/SandBox/std_module_strings_xml.xml" />
+  <LanguageFile xml_path="UA/SandBox/std_SandBox.xml" />
   <LanguageFile xml_path="UA/SandBox/std_SandBox_GauntletUI.xml" />
   <LanguageFile xml_path="UA/SandBox/std_SandBox_View.xml" />
   <LanguageFile xml_path="UA/SandBox/std_SandBox_ViewModelCollection.xml" />

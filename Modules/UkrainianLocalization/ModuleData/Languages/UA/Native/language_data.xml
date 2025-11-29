@@ -14,10 +14,6 @@
   <LanguageFile xml_path="UA/Native/std_photo_mode_strings_xml.xml" />
   <LanguageFile xml_path="UA/Native/std_siegeengines_xml.xml" />
   <LanguageFile xml_path="UA/Native/std_TaleWorlds_Core.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_GDK.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_GOG.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_PS.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_Steam.xml" />
   <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade.xml" />
   <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_GauntletUI.xml" />
   <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_View.xml" />
