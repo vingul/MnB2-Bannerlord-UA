@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="English"/>
+    <tag language="Українська"/>
   </tags>
   <strings>
     <string id="024kHRwG" text="{.m}Номанід{.R_n20_a_ke}"/>
@@ -619,186 +619,187 @@
     <string id="SWM5cmVP" text="Ензо"/>
     <string id="sWRKG0e1" text="{.m}Ільтас{.R_n20_a_ke}"/>
     <string id="swzCKty3" text="{.m}Карстен{.R_n20_a_ke}"/>
-    <string id="t0TXa7Fp" text="{.m}Вульдрат{.R_n20_a_ke}"/>
-    <string id="T1mpRVib" text="фен {.m}Морейн{.R_n20_a}"/>
-    <string id="T1xNyk3H" text="фен {.m}Брахар{.R_n20_a}"/>
-    <string id="t36SVqzP" text="{.m}Бустаміс{.R_n20_a_ke}"/>
-    <string id="t4OvAlBq" text="{.m}Нус{.R_n20_a_ke}"/>
-    <string id="t63KuB1X" text="{.m}Сухейн{.R_n20_a_ke}"/>
-    <string id="t6e4wphB" text="{.f}Вета{.R_n10_ko}"/>
-    <string id="T9bXZA0W" text="{.m}Цинак{.R_n20_a}"/>
-    <string id="Ta0zl7o1" text="{.m}Гутланс{.R_n20_a_ke}"/>
-    <string id="tCy0qwXp" text="{.f}Хікара{.R_n10_ko}"/>
-    <string id="tDaWbJlY" text="{.m}Оранаріт{.R_n20_a_ke}"/>
-    <string id="tGaIU6Jk" text="{.m}Ґунтерік{.R_n20_a}"/>
-    <string id="tGEChxdb" text="{.m}Ахановінг{.R_n20_a}"/>
-    <string id="tGhrpQ0D" text="{.f}Гірадія{.R_n10_ko}"/>
-    <string id="tgVJZ1Uc" text="{.m}Гекарон{.R_n20_a_ke}"/>
-    <string id="TIhFAZld" text="Бану {.m}Іджараз{.R_n20_a}"/>
-    <string id="TjvbLQRT" text="{.m}Дахан{.R_n20_a_ke}"/>
-    <string id="tKUIAmbV" text="{.m}Фйомановінг{.R_n20_a}"/>
-    <string id="TLZKQSb1" text="{.m}Іґан{.R_n20_a_ke}"/>
-    <string id="TN5MjMJU" text="{.f}Ріса{.R_n10_ko}"/>
-    <string id="TNI6qRbQ" text="{.m}Астретідес{.R_n20_a_ke}"/>
-    <string id="tOmtchNx" text="{.m}Танір{.R_n20_a_ke}"/>
-    <string id="tp3yvlYW" text="{.m}Темір{.R_n20_a_ke}"/>
-    <string id="tPG5uf4C" text="{.m}Бохіт{.R_n20_a_ke}"/>
-    <string id="tTmqewol" text="{.m}Іфрайн{.R_n20_a_ke}"/>
-    <string id="TUQlQWzb" text="{.m}Оріганд{.R_n20_a_ke}"/>
-    <string id="tW6wEhuR" text="{.m}Хіроберт{.R_n20_a_ke}"/>
-    <string id="TWykLiFB" text="{.m}Гвет{.R_n20_a_ke}"/>
-    <string id="txEVb6TR" text="фен {.m}Гвайтор{.R_n20_a}"/>
-    <string id="TxKnmzwT" text="{.m}Урієн{.R_n20_a_ke}"/>
-    <string id="u154THZL" text="{.m}Джалсют{.R_n20_a_ke}"/>
-    <string id="u3ZpGN5e" text="{.f}Юха{.R_n10_ko}"/>
-    <string id="U9kQ2sTU" text="{.m}Тасікс{.R_n20_a_ke}"/>
-    <string id="UAHJ2jTp" text="{.m}Махайл{.R_n20_a_ke}"/>
-    <string id="UaOynysV" text="{.f}Аґна{.R_n10_ko}"/>
-    <string id="uAS832LM" text="{.m}Ідвін{.R_n20_a_ke}"/>
-    <string id="Ub0awU1n" text="{.m}Евін{.R_n20_a_ke}"/>
-    <string id="UcteBSP6" text="Азі"/>
-    <string id="Ud1AMybr" text="Стургійці походять з північних лісів, на південь від крижаного Бяльского моря. Століттями вони жили ізольованим життям у темних лісах, а смертоносні зими стримували їхню популяцію. Але коли Імперія розширилася, охопивши весь Кальрадіанський континент, торговці вирушили до лісів у пошуках меду, болотяної руди, але найбільше – хутра. На берегах заток та озер, що з'єднували землі Стургії із зовнішнім світом, виросли великі міста, які приваблювали шукачів багатства з узбережжя, степів та північних земель. Князі та бояри цієї землі тепер почали звертати свої погляди назовні, створюючи собі імідж войовничим підходом до бізнесу та діловим підходом до війни."/>
-    <string id="UgA0uoFA" text="{.m}Табур{.R_n20_a_ke}"/>
-    <string id="UJTCzvOt" text="{.m}Елін{.R_n20_a_ke}"/>
-    <string id="UKcaINTn" text="Бану {.m}Хашал{.R_n20_a}"/>
-    <string id="ulBMajMY" text="{.m}Чечек{.R_n20_a}"/>
-    <string id="UlPJ9OYH" text="{.m}Нідр{.R_n20_a_ke}"/>
-    <string id="UlQWfDsU" text="фен {.m}Тейколар{.R_n20_a}"/>
-    <string id="ulua6Frr" text="{.m}Ортол{.R_n20_a_ke}"/>
-    <string id="USkaRPEQ" text="Самандрі"/>
-    <string id="UtfVuNN0" text="{.m}Вівейн{.R_n20_a_ke}"/>
-    <string id="uwalgjVy" text="Бану {.m}Діліс{.R_n20_a}"/>
-    <string id="uYbmhjI6" text="{.f}Раміра{.R_n10_ko}"/>
-    <string id="UYqwbjTP" text="{.m}Іскановінг{.R_n20_a}"/>
-    <string id="V3QHxJb1" text="{.m}Полмарк{.R_n20_a}"/>
-    <string id="v5bWtXj1" text="Племена, що живуть у великому трав'яному морі на схід від Імперії, мають багато назв: начагани, аркіти, хергіти, карахергіти. Сторонні, однак, зазвичай називають їх всіх одним словом – хузаїти, на честь клану, який протягом останніх двох поколінь перетворив їх на завойовницьку армію. Коли Урхун Великий прийняв капітуляцію торгових міст на краю степу, він наказав своїм нойонам відмовитися від мандрівного способу життя. Вони отримали уділи і гроші на будівництво фортець, а також їх заохочували перетворювати місцевих фермерів на орендарів їхніх земель. Проте племена Хузаїтської конфедерації досі зберігають багато кочових традицій, і фетрові юрти стоять поруч із вежами з глиняної цегли в поселеннях, які є напівселищами, напівтаборами."/>
-    <string id="v7tfA4y6" text="Сіяфан"/>
-    <string id="v9B50R0Q" text="{.m}Акаріон{.R_n20_a_ke}"/>
-    <string id="Va35TmQW" text="{.m}Ігруновінг{.R_n20_a}"/>
-    <string id="VaqB0x4K" text="{.f}Дранга{.R_n10_ko}"/>
-    <string id="vb2rv3OK" text="{.f}Уна{.R_n10_ko}"/>
-    <string id="vDGYMAmm" text="{.m}Дермот{.R_n20_a_ke}"/>
-    <string id="vdOWVAoz" text="{.m}Альтесіос{.R_n20_a_ke}"/>
-    <string id="VJbAdJe4" text="{.m}Пуріос{.R_n20_a_ke}"/>
-    <string id="vjeyAchh" text="{.f}Дераґунда{.R_n10_ko}"/>
-    <string id="vN0cSBD3" text="{.m}Шахор{.R_n20_a_ke}"/>
-    <string id="VN1D1Qps" text="{.m}Веланор{.R_n20_a_ke}"/>
-    <string id="VP9hqkxO" text="{.m}Едід{.R_n20_a_ke}"/>
-    <string id="Vp9n86Wy" text="{.m}Лежановінг{.R_n20_a}"/>
-    <string id="vPlwv7Vj" text="{.m}Мілох{.R_n20_a}"/>
-    <string id="vQMRjzmO" text="{.m}П'яс{.R_n20_a_ke}"/>
-    <string id="VQYTvnfW" text="{.m}Дюрольд{.R_n20_a_ke}"/>
-    <string id="VV6p47Ee" text="Бану {.m}Арумак{.R_n20_a}"/>
-    <string id="VVpv4El5" text="фен Сахта"/>
-    <string id="VVT3bMc2" text="{.m}Регбольд{.R_n20_a_ke}"/>
-    <string id="VWSA8EVV" text="{.m}Гвеннейн{.R_n20_a_ke}"/>
-    <string id="vYQ2SMEv" text="{.m}Сібан{.R_n20_a_ke}"/>
-    <string id="VYWtQe8r" text="{.m}Вармонд{.R_n20_a_ke}"/>
-    <string id="vz038vX7" text="{.f}Ахіта{.R_n10_ko}"/>
-    <string id="w1a9E7a9" text="{.m}Фіасін{.R_n20_a_ke}"/>
-    <string id="W1yur1cf" text="{.m}Хачин{.R_n20_a_ke}"/>
-    <string id="W1ZpjgQO" text="Равко"/>
-    <string id="w4u0LxQb" text="{.m}Лованідес{.R_n20_a_ke}"/>
-    <string id="W4VYqLYc" text="{.m}Верагід{.R_n20_a_ke}"/>
-    <string id="W6htECeI" text="{.m}Тавін{.R_n20_a_ke}"/>
-    <string id="W6UjOymF" text="{.f}Люсібальда{.R_n10_ko}"/>
-    <string id="w9fY8ab4" text="Арігун"/>
-    <string id="wCYpyCab" text="{.m}Сотільд{.R_n20_a_ke}"/>
-    <string id="wDRBoiTC" text="{.m}Ілісет{.R_n20_a_ke}"/>
-    <string id="wERVdmjj" text="{.m}Сульназ{.R_n20_a_ke}"/>
-    <string id="wf4cGf3B" text="{.m}Бовідор{.R_n20_a_ke}"/>
-    <string id="WFfbxYu5" text="Бану {.m}Зус{.R_n20_a}"/>
-    <string id="wlwVPqjP" text="{.m}Ульн{.R_n20_a_ke}"/>
-    <string id="WNb0Bw0e" text="{.m}Кавіл{.R_n20_a_ke}"/>
-    <string id="WNu6dKHe" text="Лліарі"/>
-    <string id="WP63fA7r" text="{.f}Алькірія{.R_n10_ko}"/>
-    <string id="WpTXwQw1" text="Вуоні"/>
-    <string id="wQJGxBJI" text="{.m}Гофталамос{.R_n20_a_ke}"/>
-    <string id="wRVVs7t4" text="Бану {.m}Сірсан{.R_n20_a}"/>
-    <string id="wsCMwqFw" text="{.m}Перібард{.R_n20_a_ke}"/>
-    <string id="WtIBqZr6" text="{.m}Вантер{.R_n20_a_ke}"/>
-    <string id="wuGPSje6" text="{.m}Гревет{.R_n20_a_ke}"/>
-    <string id="Wuiog2eu" text="{.m}Брігіс{.R_n20_a_ke}"/>
-    <string id="WuMGWUJ7" text="{.m}Аддієн{.R_n20_a_ke}"/>
-    <string id="wvLyCxZz" text="{.m}Ульвард{.R_n20_a_ke}"/>
-    <string id="wYPWlhme" text="{.f}Зандіна{.R_n10_ko}"/>
-    <string id="X0kKBzsW" text="Кальрадійці – один з народів Імперії, хоча сьогодні вони дали своє ім'я всьому континенту, на якому вони панують. Тисячу років тому це було нічим не примітне плем'я, що жило в гірській місцевості між південним морем і баттанськими лісами. Одна традиція відрізняла їх від сусідів – у кальрадійців не було королів. Їхні громадяни завжди виявляли великий інтерес до питання самоврядування, балансу між захистом свободи особистості та потребами держави. Можливо, саме тому вони мали невелику перевагу в нескінченних війнах між містами, трохи довше утримуючи армії в полі, трохи швидше оговтуючись від поразки. Деякі з їхніх сусідів об'єдналися з ними, інших завоювали. Врешті-решт кальрадійці утворили імперію, яка перетворилася на монархію в усьому, окрім назви. Їхніми лідерами стали вже не поважні общинні старійшини, а великі землевласники, розкидані по всьому континенту; ударною силою їхніх армій стала не легка піхота, а важкоозброєні катафрактарії зі свит багатіїв. Але вони все ще дуже серйозно ставляться до своїх громадянських обов'язків, вірячи, що їх ідеали можуть об'єднати континент у мирі, якщо тільки «варвари» за їхніми кордонами погодяться їм підкоритися."/>
-    <string id="x1mVOiYC" text="{.m}Леотольд{.R_n20_a_ke}"/>
-    <string id="X4ZS4q8L" text="{.f}Ясна{.R_n10_ko}"/>
-    <string id="XAF12HV0" text="{.f}Вікка{.R_n10_ko}"/>
-    <string id="xft6bgja" text="{.f}Аша{.R_n10_ko2}"/>
-    <string id="xg8habbc" text="{.m}Алагур{.R_n20_a_ke}"/>
-    <string id="XJZJIZ9Q" text="{.m}Чолоховінг{.R_n20_a}"/>
-    <string id="Xo1ZwCmu" text="{.m}Мор{.R_n20_a_ke}"/>
-    <string id="Xp0RHe1F" text="{.m}Вадіканд{.R_n20_a_ke}"/>
-    <string id="xp1wiXvW" text="{.m}Генальф{.R_n20_a_ke}"/>
-    <string id="xqC8yfah" text="Цідре"/>
-    <string id="XQfYxgti" text="{.m}Німановінг{.R_n20_a}"/>
-    <string id="xu0MkWUY" text="{.m}Ольгурнонд{.R_n20_a_ke}"/>
-    <string id="xUSeJEd6" text="{.m}Вахан{.R_n20_a_ke}"/>
-    <string id="XWqBgFzc" text="{.m}Форідес{.R_n20_a_ke}"/>
-    <string id="XxSD6GAu" text="{.m}Юн{.R_n20_a_ke}"/>
-    <string id="xyIDKleR" text="{.m}Саїд{.R_n20_a_ke}"/>
-    <string id="xyKumbJI" text="{.m}Каластідес{.R_n20_a_ke}"/>
-    <string id="Y49TwXg4" text="{.f}Сіонна{.R_n10_ko}"/>
-    <string id="y7rQ4USD" text="{.m}Перін{.R_n20_a_ke}"/>
-    <string id="Y9030sOS" text="{.f}Дарія{.R_n10_ko}"/>
-    <string id="Y9qYt71a" text="{.m}Баліковінг{.R_n20_a}"/>
-    <string id="YahyjyK5" text="{.f}Гудра{.R_n10_ko}"/>
-    <string id="ybDa8V4I" text="Адаліс"/>
-    <string id="yCfxqfdA" text="{.m}Бахар{.R_n20_a_ke}"/>
-    <string id="yckGOfLB" text="{.f}Іслена{.R_n10_ko}"/>
-    <string id="yd39Cman" text="{.f}Рува{.R_n10_ko}"/>
-    <string id="YdMwMdyf" text="{.m}Думат{.R_n20_a_ke}"/>
-    <string id="YEqDIbir" text="{.f}Оана{.R_n10_ko}"/>
-    <string id="YeQlI2Yj" text="{.m}Мізам{.R_n20_a_ke}"/>
-    <string id="yhCgI9ph" text="{.f}Магна{.R_n10_ko}"/>
-    <string id="yhfJVEe0" text="{.m}Феленос{.R_n20_a_ke}"/>
-    <string id="yhLbBk1D" text="{.m}Сорох{.R_n20_a}"/>
-    <string id="YIpKt79X" text="{.m}Кусур{.R_n20_a_ke}"/>
-    <string id="YiVqz8eW" text="{.m}Шальрік{.R_n20_a}"/>
-    <string id="YJ6JKs9O" text="{.m}Кьоріновінг{.R_n20_a}"/>
-    <string id="yJz9AxjY" text="{.f}Рінана{.R_n10_ko}"/>
-    <string id="Yl3c9WaM" text="{.m}Саластріс{.R_n20_a_ke}"/>
-    <string id="Yl4EsjBg" text="{.f}Друсабальда{.R_n10_ko}"/>
-    <string id="YlVmRzCI" text="Атафлед"/>
-    <string id="ynsUwp1h" text="{.m}Денек{.R_n20_a}"/>
-    <string id="yrYO33f8" text="Бану {.m}Карам{.R_n20_a}"/>
-    <string id="YRzakgRB" text="{.m}Бідаль{.R_n20_a}"/>
-    <string id="ystHsOQi" text="{.m}Вільмаранд{.R_n20_a_ke}"/>
-    <string id="YSwz9JUr" text="{.m}Ельтерт{.R_n20_a_ke}"/>
-    <string id="yToKqfa3" text="{.m}Шумсан{.R_n20_a_ke}"/>
-    <string id="yUuM8a0j" text="{.m}Борановінг{.R_n20_a}"/>
-    <string id="YVVCaQE5" text="{.f}Тера{.R_n10_ko}"/>
-    <string id="ywlfoIUX" text="{.m}Мертеон{.R_n20_a_ke}"/>
-    <string id="YwQbvO9O" text="{.f}Лулія{.R_n10_ko}"/>
-    <string id="YwwaCRSr" text="{.f}Баріша{.R_n10_ko2}"/>
-    <string id="Z261F0mj" text="{.m}Хамезан{.R_n20_a_ke}"/>
-    <string id="z2KE7glc" text="{.f}Тилея{.R_n10_ko}"/>
-    <string id="z2Oqk8aq" text="{.m}Мареговінг{.R_n20_a}"/>
-    <string id="z3rmbOSO" text="{.m}Гевін{.R_n20_a_ke}"/>
-    <string id="z5llJ2C0" text="{.m}Норогур{.R_n20_a_ke}"/>
-    <string id="Z5NIRUPc" text="{.f}Ідруна{.R_n10_ko}"/>
-    <string id="z6GIOwi9" text="{.m}Мальберт{.R_n20_a_ke}"/>
-    <string id="Z7GxyIaC" text="{.m}Борун{.R_n20_a_ke}"/>
-    <string id="zAC87rrQ" text="{.f}Тора{.R_n10_ko}"/>
-    <string id="zCaeJ7GC" text="{.m}Тул{.R_n20_a_ke}"/>
-    <string id="zcXPVYs5" text="{.f}Детейда{.R_n10_ko}"/>
-    <string id="zDhuJw7r" text="Таралун"/>
-    <string id="ZEwqRhHO" text="Бану {.m}Хунд{.R_n20_a}"/>
-    <string id="ZgGnqkki" text="{.m}Бенісет{.R_n20_a_ke}"/>
-    <string id="ZJjgZVHq" text="Ендрі"/>
-    <string id="zLl1UEYM" text="{.m}Жем{.R_n20_a_ke}"/>
-    <string id="Zm0Ee6sp" text="{.m}Азадун{.R_n20_a_ke}"/>
-    <string id="ZM8fmXGb" text="{.m}Бадульф{.R_n20_a_ke}"/>
-    <string id="ZNUooJ48" text="{.m}Тебеґун{.R_n20_a_ke}"/>
-    <string id="ZP7ONkec" text="{.m}Еген{.R_n20_a_ke}"/>
-    <string id="ZPHdPglH" text="{.f}Раксана{.R_n10_ko}"/>
-    <string id="zSL3MgNQ" text="{.m}Ільзар{.R_n20_a_ke}"/>
-    <string id="ZSraCpCs" text="{.m}Лахем{.R_n20_a_ke}"/>
-    <string id="zTEnQULc" text="{.m}Таргай{.R_n20_a}"/>
-    <string id="ZwOT9J49" text="{.m}Юджит{.R_n20_a_ke}"/>
-    <string id="zYAl76GW" text="{.m}Борітор{.R_n20_a_ke}"/>
-    <string id="zyoEpXek" text="{.m}Хумальгарт{.R_n20_a_ke}"/>
+    <string id="sYFaoW7G" text="Nord"/>
+    <string id="t0TXa7Fp" text="Vuldrat"/>
+    <string id="T1mpRVib" text="fen Morain"/>
+    <string id="T1xNyk3H" text="fen Brachar"/>
+    <string id="t36SVqzP" text="Bustamys"/>
+    <string id="t4OvAlBq" text="Nus"/>
+    <string id="t63KuB1X" text="Suthain"/>
+    <string id="t6e4wphB" text="Veta"/>
+    <string id="T9bXZA0W" text="Cynac"/>
+    <string id="Ta0zl7o1" text="Gutlans"/>
+    <string id="tCy0qwXp" text="Hikhara"/>
+    <string id="tDaWbJlY" text="Oranarit"/>
+    <string id="tGaIU6Jk" text="Gunteric"/>
+    <string id="tGEChxdb" text="Achanoving"/>
+    <string id="tGhrpQ0D" text="Hyradia"/>
+    <string id="tgVJZ1Uc" text="Hecaron"/>
+    <string id="TIhFAZld" text="Banu Ijaraz"/>
+    <string id="TjvbLQRT" text="Dachan"/>
+    <string id="tKUIAmbV" text="Fyomanoving"/>
+    <string id="TLZKQSb1" text="Egan"/>
+    <string id="TN5MjMJU" text="Risa"/>
+    <string id="TNI6qRbQ" text="Astrethides"/>
+    <string id="tOmtchNx" text="Tanir"/>
+    <string id="tp3yvlYW" text="Temyr"/>
+    <string id="tPG5uf4C" text="Bochit"/>
+    <string id="tTmqewol" text="Ifrain"/>
+    <string id="TUQlQWzb" text="Origand"/>
+    <string id="tW6wEhuR" text="Hirobert"/>
+    <string id="TWykLiFB" text="Gweth"/>
+    <string id="txEVb6TR" text="fen Gwaithor"/>
+    <string id="TxKnmzwT" text="Urien"/>
+    <string id="u154THZL" text="Jalsyut"/>
+    <string id="u3ZpGN5e" text="Yuha"/>
+    <string id="U9kQ2sTU" text="Tasyx"/>
+    <string id="UAHJ2jTp" text="Mahayl"/>
+    <string id="UaOynysV" text="Agna"/>
+    <string id="uAS832LM" text="Ydwin"/>
+    <string id="Ub0awU1n" text="Ewyn"/>
+    <string id="UcteBSP6" text="Asi"/>
+    <string id="Ud1AMybr" text="The Sturgians come from the northern woods, just south of the icy Byalic Sea. For centuries they lived an isolated existence in the dark forests, their numbers kept in check by the deadly winters. But as the Empire expanded to fill out the Calradian continent, traders ventured into the woods in search of honey, bog iron, and most of all fur. Great towns sprung up on the network of bays and lakes that joined the Sturgian lands to the outside world, attracting fortune-seekers from the coast, the steppes, and the Nordlands. The princes and boyars of this land have now begun to turn their eyes outward, earning themselves for a reputation for their warlike approach to business and their businesslike approach to war."/>
+    <string id="UgA0uoFA" text="Tabur"/>
+    <string id="UJTCzvOt" text="Elin"/>
+    <string id="UKcaINTn" text="Banu Khashal"/>
+    <string id="ulBMajMY" text="Chechek"/>
+    <string id="UlPJ9OYH" text="Nidr"/>
+    <string id="UlQWfDsU" text="fen Teicolar"/>
+    <string id="ulua6Frr" text="Orthol"/>
+    <string id="USkaRPEQ" text="Samandry"/>
+    <string id="UtfVuNN0" text="Vivein"/>
+    <string id="uwalgjVy" text="Banu Dilis"/>
+    <string id="uYbmhjI6" text="Rhamira"/>
+    <string id="UYqwbjTP" text="Iskanoving"/>
+    <string id="V3QHxJb1" text="Polmarc"/>
+    <string id="v5bWtXj1" text="The tribes that live in the great sea of grass east of the Empire have many names: Nachaghan, Arkits, Khergits, Karakhergits. Outsiders, however, usually refer to them collectively as the Khuzaits, after the clan that in the last two generations forged them into a conquering army. When Urkhun the Great accepted the surrender of the trading cities on the edge of the steppe, he ordered his noyans to give up their wandering lifestyle. They were given fiefs and money to build fortresses, and encouraged to turn local farmers into their tenants. Yet the tribes of the Khuzait confederacy still retain many of their nomadic traditions, and felt yurt tents stand next to mud-brick towers in settlements that are half-village, half-encampment."/>
+    <string id="v7tfA4y6" text="Siyafan"/>
+    <string id="v9B50R0Q" text="Acarion"/>
+    <string id="Va35TmQW" text="Igrunoving"/>
+    <string id="VaqB0x4K" text="Dranga"/>
+    <string id="vb2rv3OK" text="Una"/>
+    <string id="vDGYMAmm" text="Dermot"/>
+    <string id="vdOWVAoz" text="Altesios"/>
+    <string id="VJbAdJe4" text="Purios"/>
+    <string id="vjeyAchh" text="Deragunda"/>
+    <string id="vN0cSBD3" text="Shakhor"/>
+    <string id="VN1D1Qps" text="Velanor"/>
+    <string id="VP9hqkxO" text="Aedid"/>
+    <string id="Vp9n86Wy" text="Lezhanoving"/>
+    <string id="vPlwv7Vj" text="Miloch"/>
+    <string id="vQMRjzmO" text="Pyas"/>
+    <string id="VQYTvnfW" text="Durold"/>
+    <string id="VV6p47Ee" text="Banu Arumaq"/>
+    <string id="VVpv4El5" text="fen Sachta"/>
+    <string id="VVT3bMc2" text="Regbold"/>
+    <string id="VWSA8EVV" text="Gwennein"/>
+    <string id="vYQ2SMEv" text="Siban"/>
+    <string id="VYWtQe8r" text="Varmond"/>
+    <string id="vz038vX7" text="Achita"/>
+    <string id="w1a9E7a9" text="Fiasyn"/>
+    <string id="W1yur1cf" text="Khachin"/>
+    <string id="W1ZpjgQO" text="Rauko"/>
+    <string id="w4u0LxQb" text="Lovanides"/>
+    <string id="W4VYqLYc" text="Veraghid"/>
+    <string id="W6htECeI" text="Thavin"/>
+    <string id="W6UjOymF" text="Lucibalda"/>
+    <string id="w9fY8ab4" text="Arigun"/>
+    <string id="wCYpyCab" text="Sotild"/>
+    <string id="wDRBoiTC" text="Iliset"/>
+    <string id="wERVdmjj" text="Sulnaz"/>
+    <string id="wf4cGf3B" text="Bovidor"/>
+    <string id="WFfbxYu5" text="Banu Zus"/>
+    <string id="wlwVPqjP" text="Uln"/>
+    <string id="WNb0Bw0e" text="Kavyl"/>
+    <string id="WNu6dKHe" text="Lliari"/>
+    <string id="WP63fA7r" text="Alkirya"/>
+    <string id="WpTXwQw1" text="Vuoni"/>
+    <string id="wQJGxBJI" text="Hophtalamos"/>
+    <string id="wRVVs7t4" text="Banu Sirsan"/>
+    <string id="wsCMwqFw" text="Peribard"/>
+    <string id="WtIBqZr6" text="Vanther"/>
+    <string id="wuGPSje6" text="Greveth"/>
+    <string id="Wuiog2eu" text="Brigis"/>
+    <string id="WuMGWUJ7" text="Addien"/>
+    <string id="wvLyCxZz" text="Ulvard"/>
+    <string id="wYPWlhme" text="Zandina"/>
+    <string id="X0kKBzsW" text="The Calradians are the people of the Empire, though by now they have given their name to the entire continent which they dominate. A thousand years ago, they were an undistinguished tribe living in the hill country between the southern sea and the Battanian woods. One tradition set them apart from their neighbors - the Calradoi had no kings. Their citizenry has always taken an intense interest in the art of self-government, the balance between protecting the liberty of individuals and the needs of the state. Perhaps this is why they had a slight edge in the endless wars between one town and another, keeping armies in the field just a little longer, bouncing back just a little more quickly from a defeat. Some of their neighbors federated with them; others were overrun. Eventually the Calradians formed an empire, which evolved into a monarchy in all but name. Their leaders are no longer distinguished civic elders but great landholders scattered across the continent; the striking force of their armies is no longer citizen-infantry but heavily armored cataphracts in the retinues of the wealthy. But they still take their civic traditions very seriously, believing that the Calradian ideal can unite a continent in peace, if only the ”barbarians” beyond their borders would agree to submit to it."/>
+    <string id="x1mVOiYC" text="Leothold"/>
+    <string id="X4ZS4q8L" text="Yasna"/>
+    <string id="XAF12HV0" text="Vikka"/>
+    <string id="xft6bgja" text="Asha"/>
+    <string id="xg8habbc" text="Alagur"/>
+    <string id="XJZJIZ9Q" text="Cholokhoving"/>
+    <string id="Xo1ZwCmu" text="Mor"/>
+    <string id="Xp0RHe1F" text="Vadicand"/>
+    <string id="xp1wiXvW" text="Genalf"/>
+    <string id="xqC8yfah" text="Cidre"/>
+    <string id="XQfYxgti" text="Nimanoving"/>
+    <string id="xu0MkWUY" text="Olgurnond"/>
+    <string id="xUSeJEd6" text="Wahan"/>
+    <string id="XWqBgFzc" text="Phorides"/>
+    <string id="XxSD6GAu" text="Yun"/>
+    <string id="xyIDKleR" text="Saidh"/>
+    <string id="xyKumbJI" text="Calastides"/>
+    <string id="Y49TwXg4" text="Sionna"/>
+    <string id="y7rQ4USD" text="Perin"/>
+    <string id="Y9030sOS" text="Darya"/>
+    <string id="Y9qYt71a" text="Balikoving"/>
+    <string id="YahyjyK5" text="Gudra"/>
+    <string id="ybDa8V4I" text="Adalis"/>
+    <string id="yCfxqfdA" text="Bakhar"/>
+    <string id="yckGOfLB" text="Islena"/>
+    <string id="yd39Cman" text="Ruwa"/>
+    <string id="YdMwMdyf" text="Dumat"/>
+    <string id="YEqDIbir" text="Oana"/>
+    <string id="YeQlI2Yj" text="Mizam"/>
+    <string id="yhCgI9ph" text="Magna"/>
+    <string id="yhfJVEe0" text="Phelenos"/>
+    <string id="yhLbBk1D" text="Soroch"/>
+    <string id="YIpKt79X" text="Kusr"/>
+    <string id="YiVqz8eW" text="Chalric"/>
+    <string id="YJ6JKs9O" text="Kyorinoving"/>
+    <string id="yJz9AxjY" text="Rinana"/>
+    <string id="Yl3c9WaM" text="Salastrys"/>
+    <string id="Yl4EsjBg" text="Drusabalda"/>
+    <string id="YlVmRzCI" text="Athafled"/>
+    <string id="ynsUwp1h" text="Denek"/>
+    <string id="yrYO33f8" text="Banu Qaram"/>
+    <string id="YRzakgRB" text="Bidal"/>
+    <string id="ystHsOQi" text="Vilmarand"/>
+    <string id="YSwz9JUr" text="Elthert"/>
+    <string id="yToKqfa3" text="Shumsan"/>
+    <string id="yUuM8a0j" text="Boranoving"/>
+    <string id="YVVCaQE5" text="Thera"/>
+    <string id="ywlfoIUX" text="Merteon"/>
+    <string id="YwQbvO9O" text="Lulya"/>
+    <string id="YwwaCRSr" text="Barisha"/>
+    <string id="Z261F0mj" text="Hamezan"/>
+    <string id="z2KE7glc" text="Thylea"/>
+    <string id="z2Oqk8aq" text="Maregoving"/>
+    <string id="z3rmbOSO" text="Gavyn"/>
+    <string id="z5llJ2C0" text="Norogur"/>
+    <string id="Z5NIRUPc" text="Idruna"/>
+    <string id="z6GIOwi9" text="Malbert"/>
+    <string id="Z7GxyIaC" text="Borun"/>
+    <string id="zAC87rrQ" text="Tora"/>
+    <string id="zCaeJ7GC" text="Thul"/>
+    <string id="zcXPVYs5" text="Detheuda"/>
+    <string id="zDhuJw7r" text="Taralun"/>
+    <string id="ZEwqRhHO" text="Banu Hund"/>
+    <string id="ZgGnqkki" text="Beniseth"/>
+    <string id="ZJjgZVHq" text="Endry"/>
+    <string id="zLl1UEYM" text="Zhem"/>
+    <string id="Zm0Ee6sp" text="Azadun"/>
+    <string id="ZM8fmXGb" text="Badulf"/>
+    <string id="ZNUooJ48" text="Tebegun"/>
+    <string id="ZP7ONkec" text="Egen"/>
+    <string id="ZPHdPglH" text="Raksana"/>
+    <string id="zSL3MgNQ" text="Ilzar"/>
+    <string id="ZSraCpCs" text="Lakhem"/>
+    <string id="zTEnQULc" text="Targai"/>
+    <string id="ZwOT9J49" text="Yujit"/>
+    <string id="zYAl76GW" text="Borytor"/>
+    <string id="zyoEpXek" text="Humalgart"/>
   </strings>
 </base>
