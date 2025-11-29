@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="English"/>
+    <tag language="Українська"/>
   </tags>
   <strings>
     <string id="0Itt3bZM" text="Файл з налаштуванням прив'язок клавіш застарів. Прив'язки були повернуті до значень за замовчуванням."/>
@@ -10,89 +10,105 @@
     <string id="2AGvFYk9" text="Щоб почати завдання, вам потрібен хоча б один підрозділ класу {FORMATION_CLASS}."/>
     <string id="4gCU2ykB" text="Скинути всі клавіші до значень за замовчуванням"/>
     <string id="5Ixsvn3s" text="Показати/приховати таблицю результатів"/>
-    <string id="61isYVW0" text="Гравець {USER_NAME} не знайдений"/>
-    <string id="6syoutpV" text="Від гравця {WHISPER_TARGET}"/>
-    <string id="74PKmRWJ" text="Перевернути зачіску"/>
-    <string id="76VR5o8h" text="Перш ніж надіслати інше повідомлення, зачекайте {SECONDS} секунд."/>
-    <string id="7jhe9cT9" text="Щоб змінити тип цього підрозділу, потрібно мати ще принаймні один підрозділ цього типу."/>
-    <string id="7XtICVeZ" text="Поле зору"/>
-    <string id="82LuSDnd" text="Швидке переміщення курсору ліворуч"/>
-    <string id="9pCzjSTa" text="{PERCENTAGE}% of troop type"/>
+    <string id="5Xoilj6r" text="Shout"/>
+    <string id="61isYVW0" text="Player {USER_NAME} is not found"/>
+    <string id="6syoutpV" text="From {WHISPER_TARGET}"/>
+    <string id="74PKmRWJ" text="Flip Hair"/>
+    <string id="76VR5o8h" text="You must wait {SECONDS} seconds before sending another message."/>
+    <string id="7jhe9cT9" text="You need to have at least one more formation of this type to change this formation's type."/>
+    <string id="7XtICVeZ" text="Field of View"/>
+    <string id="82LuSDnd" text="Fast Cursor Move Left"/>
     <string id="ADKHovtz" text="Скинути розподіл"/>
-    <string id="atUHbDeM" text="Обертання камери на карті"/>
-    <string id="b1DHZsaH" text="Зараз не можливо віддати наказ."/>
-    <string id="bIcFZT6L" text="Тип брів"/>
-    <string id="bLPSaLNv" text="Швидке переміщення курсору праворуч"/>
+    <string id="ApD0xQXT" text="{STR1}: {STR2}"/>
+    <string id="atUHbDeM" text="Map Camera Rotate"/>
+    <string id="b1DHZsaH" text="Cannot issue order right now."/>
+    <string id="BANC61K5" text="Previous Character"/>
+    <string id="bIcFZT6L" text="Eyebrow Type"/>
+    <string id="bLPSaLNv" text="Fast Cursor Move Right"/>
     <string id="bsiRNJtk" text="{NAME}:"/>
-    <string id="CCBcdzGa" text="Це скине УСІ параметри цієї категорії до значень за замовчуванням. Ви не зможете скасувати цю дію. {newline} {newline}Ви впевнені?"/>
-    <string id="cDzWYQrz" text="Скинути до налаштувань за замовчуванням?"/>
-    <string id="cLJdeUWz" text="Зріст:"/>
-    <string id="D0TbQm4r" text="ПРОЛОМ"/>
-    <string id="d1tCz15N" text="Утримуйте, щоб кинути"/>
-    <string id="d5SNB0HV" text="Взяти {._}{ITEM_NAME}{.v_zna}"/>
-    <string id="Dhb2N5JD" text="Натисніть '{KEY}, щоб змінити канал"/>
-    <string id="DmaP2qaR" text="Тип шкіри"/>
-    <string id="DQvGNQ0g" text="Не залишилося жодної групи під командуванням."/>
-    <string id="DvnRkWQg" text="Перевести воїнів до {FORMATION_INDEX}"/>
-    <string id="eeJcVeQG" text="Завершення фокусування"/>
-    <string id="eGuQKRhb" text="Ви покидаєте цю область!"/>
-    <string id="EUAKPHek" text="Статура:"/>
-    <string id="f64QfbTO" text="Натисніть '{KEY}', щоб надіслати"/>
-    <string id="FRSGOfUJ" text="Увімкнути журнал бою"/>
-    <string id="FTXx0aRp" text="Вибір персонажу:"/>
-    <string id="G6hYIR5k" text="Тон голосу:"/>
-    <string id="gamepadActionKeybind" text="Дія"/>
-    <string id="gamepadMapKeybind" text="Карта"/>
-    <string id="gamevideo" text="Відео"/>
-    <string id="GMhOZGnb" text="Мертві не можуть віддавати накази."/>
-    <string id="hdGay8xc" text="Переміщення курсору по карті"/>
-    <string id="HEEZhL90" text="Натисніть, щоб екіпірувати"/>
-    <string id="hiKTvBgF" text="Ви впевнені, що хочете скинути внесені на цій вкладці зміни? Внесені вами зміни будуть втрачені."/>
-    <string id="i28Kjuay" text="Пересування персонажа"/>
-    <string id="i4Oo6aoM" text="Завантаження вмісту..."/>
-    <string id="j5pLIV91" text="Початок фокусування"/>
-    <string id="J9V9YhkY" text="Captain is mounted!"/>
-    <string id="jS5rrX8M" text="Нема змін для підтвердження."/>
-    <string id="l2CNxPXG" text="Тип зубів"/>
-    <string id="lCZMJt2k" text="Змінено налаштування відео"/>
-    <string id="LlrlE199" text="У вас ще є облогові машини, які можна розгорнути.\nВсе одно розпочати?"/>
-    <string id="LW8QCm22" text="Notice"/>
-    <string id="macpKFaG" text="Голос"/>
+    <string id="CCBcdzGa" text="This will reset ALL options of this category to their default states. You won't be able to undo this action. {newline} {newline}Are you sure?"/>
+    <string id="cDzWYQrz" text="Reset to default settings?"/>
+    <string id="cLJdeUWz" text="Height:"/>
+    <string id="cZNA5Z6l" text="Formation {NUMBER}"/>
+    <string id="D0TbQm4r" text="BREACHED"/>
+    <string id="d1tCz15N" text="Hold to Drop"/>
+    <string id="d5SNB0HV" text="Pick {ITEM_NAME}"/>
+    <string id="Dhb2N5JD" text="Press '{KEY}' to cycle through channels"/>
+    <string id="DmaP2qaR" text="Skin Type"/>
+    <string id="DQvGNQ0g" text="There isn't any unit under command."/>
+    <string id="DvnRkWQg" text="Transfer Troops To {FORMATION_INDEX}"/>
+    <string id="eeJcVeQG" text="Focus End"/>
+    <string id="eGuQKRhb" text="You are leaving the area!"/>
+    <string id="EmVbbIUc" text="Return"/>
+    <string id="EUAKPHek" text="Build:"/>
+    <string id="f64QfbTO" text="'{KEY}' to send"/>
+    <string id="fM9E7frB" text="Performance"/>
+    <string id="FRSGOfUJ" text="Toggle include Combat Log"/>
+    <string id="FTXx0aRp" text="Play as"/>
+    <string id="FvYhaE3z" text="Banner"/>
+    <string id="G6hYIR5k" text="Voice Pitch:"/>
+    <string id="gamepadActionKeybind" text="Action"/>
+    <string id="gamepadMapKeybind" text="Map"/>
+    <string id="gamevideo" text="Video"/>
+    <string id="GMhOZGnb" text="Cannot issue order while dead."/>
+    <string id="H1emUb6k" text="Age:"/>
+    <string id="hdGay8xc" text="Map Cursor Move"/>
+    <string id="HEEZhL90" text="Press to Equip"/>
+    <string id="HH7LDwlK" text="Toggle Fast Forward"/>
+    <string id="hiKTvBgF" text="Are you sure want to reset changes done in this tab? Your changes will be lost."/>
+    <string id="i0esOr2l" text="Commander is not mounted!"/>
+    <string id="i28Kjuay" text="Move Character"/>
+    <string id="i4Oo6aoM" text="Downloading Content..."/>
+    <string id="iPx4jep6" text="Exposure"/>
+    <string id="j5pLIV91" text="Focus Start"/>
+    <string id="jR237DSU" text="Commander is mounted!"/>
+    <string id="jS5rrX8M" text="There are no changes to apply."/>
+    <string id="KxH4VVU3" text="Taunt"/>
+    <string id="l2CNxPXG" text="Teeth Type"/>
+    <string id="lCZMJt2k" text="Video Options Have Been Changed"/>
+    <string id="LlrlE199" text="You can still deploy siege engines.\nBegin anyway?"/>
+    <string id="macpKFaG" text="Voice"/>
+    <string id="mAxXKaXp" text="Reset"/>
+    <string id="MceLT3Zg" text="Wireless Controller"/>
     <string id="meFS5F4V" text="-{DAMAGE}"/>
-    <string id="mPCrz4rs" text="Заблокувати зміни у відсотковому відношенні військ."/>
-    <string id="nEpZvaEl" text="Швидке переміщення курсору вниз"/>
-    <string id="ngyMTaqr" text="Призначити героєм"/>
-    <string id="Npqlj5Ln" text="Скасувати зміни"/>
-    <string id="NuMQvQxg" text="Крики"/>
-    <string id="ou5KJERr" text="Натисніть '{KEY}', щоб приховати"/>
-    <string id="oZc8oEAP" text="Скинути цю категорію до значень за замовчуванням"/>
-    <string id="peUP9ZZj" text="Ви впевнені? Внесені вами зміни будуть втрачені."/>
-    <string id="photomodefocus" text="Фокусування"/>
-    <string id="pK4EyTZC" text="Ви хочете зберегти ці налаштування?"/>
-    <string id="qmNeO8FG" text="Призначення клавіш"/>
-    <string id="qXxpITdc" text="Колір очей:"/>
-    <string id="QZd3VSmO" text="We have released the War Sails Expansion Pack for the game which includes ships, naval battles, and much more. It is available on the latest generation of platforms. The addition of the product page links on some platforms also requires us to update our ESRB rating information as follows:"/>
-    <string id="RVIKFCno" text="Скинути налаштування"/>
-    <string id="rx18kyZb" text="Журнал бою"/>
-    <string id="Sbb8YcJM" text="Зняти вибір з усіх вибраних героїв"/>
+    <string id="mPCrz4rs" text="Lock troop percentage from relative changes."/>
+    <string id="MssTzJJb" text="Assign as Commander"/>
+    <string id="mueocuFG" text="Show Indicators"/>
+    <string id="nEpZvaEl" text="Fast Cursor Move Down"/>
+    <string id="ngyMTaqr" text="Assign as Hero Troop"/>
+    <string id="Npqlj5Ln" text="Revert Changes"/>
+    <string id="NuMQvQxg" text="Shouts"/>
+    <string id="ou5KJERr" text="Press '{KEY}' to hide"/>
+    <string id="oZc8oEAP" text="Reset this category to default"/>
+    <string id="P3IWytsr" text="Formation is currently empty"/>
+    <string id="peUP9ZZj" text="Are you sure? You made some changes and they will be lost."/>
+    <string id="photomodefocus" text="Focus"/>
+    <string id="pK4EyTZC" text="Do you want to keep these settings?"/>
+    <string id="qmNeO8FG" text="Keybindings"/>
+    <string id="qnxJYAs7" text="Party"/>
+    <string id="qXxpITdc" text="Eye Color:"/>
+    <string id="RVIKFCno" text="Reset to Defaults"/>
+    <string id="rx18kyZb" text="Combat Log"/>
+    <string id="s6qslcQY" text="{PERCENTAGE} ({TROOP_COUNT}/{TOTAL_TROOP_COUNT})"/>
+    <string id="Sbb8YcJM" text="Deselect all selected heroes"/>
     <string id="scnSXrYC" text="Banner Bearers"/>
-    <string id="SfsnlbyK" text="Зміни застосовано."/>
-    <string id="SLY8z9fP" text="Всі підрозділи вибрано!"/>
-    <string id="SQpGQzTI" text="Контролер"/>
-    <string id="suyl7WWa" text="Стяг не обрано"/>
-    <string id="TGpbi44D" text="Take Control of Character"/>
-    <string id="trPyg7mr" text="Battle Morale"/>
-    <string id="TxphX8Uk" text="Розгортання"/>
-    <string id="U1rHNqOk" text="Натисніть '{KEY}', щоб скасувати"/>
-    <string id="u78WUP9W" text="Швидке переміщення курсору вверх"/>
-    <string id="ufjypmaX" text="Captain is not mounted!"/>
-    <string id="UhB1jlua" text="We have released the War Sails Expansion Pack for the game which includes ships, naval battles, and much more. The addition of the product page links on some platforms also requires us to update our ESRB rating information as follows:"/>
-    <string id="Uma907CV" text="We have released the War Sails Expansion Pack for the game which includes ships, naval battles, and much more. You can use the link on the main menu to go to the store page for more information and obtaining the expansion pack. The addition of the product page link also requires us to update our ESRB rating information as follows:"/>
-    <string id="VIdtkghu" text="The ESRB rating information has been updated to include the interactive element:{newline}In-Game Purchases"/>
-    <string id="VyMD4iRV" text="Герої"/>
-    <string id="YjbNtFcw" text="Це скине УСІ назначені клавіші до значень за замовчуванням. Ви не зможете скасувати цю дію. {newline} {newline}Ви впевнені?"/>
-    <string id="YwbymaBc" text="Вибрати всіх героїв"/>
-    <string id="zBld61ck" text="Вага:"/>
-    <string id="zjcZZgUY" text="Ефект стягу"/>
+    <string id="SfsnlbyK" text="Changes applied."/>
+    <string id="SLY8z9fP" text="All formations are selected!"/>
+    <string id="SQpGQzTI" text="Controller"/>
+    <string id="suyl7WWa" text="No banner equipped"/>
+    <string id="SYYOSOoa" text="Ready"/>
+    <string id="TxphX8Uk" text="Deployment"/>
+    <string id="U1rHNqOk" text="'{KEY}' to cancel"/>
+    <string id="u78WUP9W" text="Fast Cursor Move Up"/>
+    <string id="VyMD4iRV" text="Hero Troops"/>
+    <string id="wubDWOlh" text="Select Profile"/>
+    <string id="xTv4tCbZ" text="Everybody!! Listen to me"/>
+    <string id="YjbNtFcw" text="This will reset ALL keys to their default states. You won't be able to undo this action. {newline} {newline}Are you sure?"/>
+    <string id="yRIPADWl" text="{TROOP_COUNT}/{TOTAL_TROOP_COUNT}"/>
+    <string id="YwbymaBc" text="Select all heroes"/>
+    <string id="zBld61ck" text="Weight:"/>
+    <string id="ZixS1b4u" text="You're not leading this battle."/>
+    <string id="zjcZZgUY" text="Banner Effect"/>
+    <string id="znKxunbQ" text="Next Character"/>
   </strings>
 </base>
