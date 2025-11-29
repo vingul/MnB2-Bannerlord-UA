@@ -326,7 +326,7 @@
     <string id="3eOOT66E" text="One of your tenants has a proposal for you. He proposes to dig a channel known as a qanah into a hillside, where the water table is high, which will allow him to flood some low-lying ground and turn it into an oasis garden. The barren hillside is your property, though at present it yields no income of any kind."/>
     <string id="3FMvLhWV" text="I have every reason to believe you'll reach round {ROUND_COUNT}."/>
     <string id="3fvj2Eti" text="{?CHILD.GENDER}її{?}його{\?} витривалість."/>
-    <string id="3FwbFdbw" text="As you inspect your siege camp, you come across disgusting evidence that one or more of your men has contracted the bloody flux. It will pass from man to man as they share food and water, and you know what it can do to a besieging army if left unchecked."/>
+    <string id="3FwbFdbw" text="Оглядаючи облоговий табір, ви натрапляєте на огидні докази того, що один або декілька ваших людей захворіли на криваву діарею. Вона передається від людини до людини при спільному споживанні їжі та води, і ви знаєте, до чого це може призвести для облогового табору, якщо не вжити заходів."/>
     <string id="3gbgjJfZ" text="Candidly, what do you think of your liege, {FIRST_NAME}?"/>
     <string id="3GHIb7YX" text="Присяга на мечі"/>
     <string id="3GsZXXOi" text="+10% до виробництва в селах, прилеглих до замку."/>
@@ -3347,7 +3347,7 @@
     <string id="LE0NCSPP" text="Every warrior needs to know the basics. Polearms are used by warriors of all classes, from feudal levies and urban militias to elite lancers."/>
     <string id="leaowE4D" text="Шериф"/>
     <string id="lEcg67Qk" text="You have failed to take over {TARGET_SETTLEMENT} in time. {QUEST_GIVER.LINK} is disappointed that you have failed to take the fortress in time."/>
-    <string id="LEHxD9ik" text="Bloody Flux"/>
+    <string id="LEHxD9ik" text="Кривава діарея"/>
     <string id="lEi1hIIt" text="Ви можете підіймати предмети з землі, перебуваючи верхи."/>
     <string id="lEK7gx3G" text="I won't take you prisoner today."/>
     <string id="lekpGqEA" text="{VALUE}% шкоди їздовим тваринам від воїнів вашого підрозділу."/>
@@ -3617,7 +3617,7 @@
     <string id="mrNdB0Hh" text="You refused the {MERCHANT.LINK}'s request and kept the goods."/>
     <string id="mRrYn2qm" text="{PEACEMAKER_RULER.NAME} з {.S}{KINGDOM_CONSIDERING_PEACE}{.v_rod} {?PEACEMAKER_RULER.GENDER}вирішила{?}вирішив{\?} не укладати мир з {.S}{KINGDOM}{.v_oru} за повної підтримки своєї ради."/>
     <string id="mrtDAhtL" text="Повелитель звірів"/>
-    <string id="MSARXv6p" text="Identify the sick and make them camp outside your palisades, tending to themselves."/>
+    <string id="MSARXv6p" text="Знайти хворих і змусити їх отаборитися за межами ваших частоколів, щоб вони самі про себе дбали."/>
     <string id="msDCQIY7" text="Thank you, {?PLAYER.GENDER}madam{?}sir{\?}. [if:convo_grateful][ib:confident]In these hard times, people like you are a gift from Heaven… The village will never forget that you were willing to help. Good luck."/>
     <string id="mseUsbjg" text="{VALUE}% швидкості зниження кримінальної слави."/>
     <string id="msK9baMp" text="Kannic Splendors"/>
