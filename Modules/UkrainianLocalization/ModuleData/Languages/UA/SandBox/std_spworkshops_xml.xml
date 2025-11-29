@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
     <string id="7hx2Nlmd" text="{.f}Чинбарня{.R_n10}"/>
@@ -12,7 +12,6 @@
     <string id="cawbOcb1" text="Ми обробляємо сирі шкури вапном та іншими хімічними речовинами і перетворюємо їх на еластичну шкіру."/>
     <string id="cxrsASao" text="Рідкісна срібна руда перетворюється на ювелірні вироби, найвишуканіший товар з усіх предметів торгівлі."/>
     <string id="EBCKXbTa" text="{.n}Виробництво{.R_n2n_p1} оксамитових тканин"/>
-    <string id="Ej2aaOhh" text="Ми прядемо овечу вовну у пряжу, а потім плетемо з неї на ткацьких верстатах тканину. Це найпоширеніший тип тканини тут, особливо в холодніших регіонах."/>
     <string id="eS6nGak1" text="{.m}Ткач{.R_n20_a} вовни"/>
     <string id="GsaLzLfl" text="{.f}Броварня{.R_n10}"/>
     <string id="hn82dw2C" text="Ми солодимо, перемелюємо та ферментуємо зерно, щоб зварити пиво — найпопулярніший напій для простого люду, особливо на північних землях."/>
@@ -27,16 +26,17 @@
     <string id="qF9UGd2S" text="Ми подрібнюємо оливки, а потім вичавлюємо олію, яку використовують для приготування їжі, для запалювання ламп, для мила та для багатьох інших цілей."/>
     <string id="RLz2b53X" text="{?FEMALE}{.f}Швачка{.R_n10_ko}{?}{.m}Швець{.R_n24_a}{\?}"/>
     <string id="silversmithworker" text="{.m}Срібляр{.R_n24_a}"/>
-    <string id="silversmithworkshop" text="{.f}Срібляний{.R_adj} {.f}майстерня{.R_n10}"/>
+    <string id="silversmithworkshop" text="{.m}Срібляр{.R_n24_a}"/>
     <string id="Tj7ErPfn" text="{.f}Гончарня{.R_n10}"/>
     <string id="tK4IiP3J" text="{.n}Виробництво{.R_n2n_p1} лляних тканин"/>
     <string id="UiSes6XY" text="{.f}Столярня{.R_n10}"/>
     <string id="uy2mSmw3" text="{.f}Виноробня{.R_n10}"/>
     <string id="vDwDPFua" text="Ми піддаємо стебла льону тривалому процесу відокремлення волокон, а потім плетемо з них лляну тканину. Ця тканина легша за вовну і популярна влітку та в спекотних регіонах."/>
     <string id="VHLUHBaT" text="{.p}Ремісник{.R_n20_p_pz}"/>
+    <string id="w94Fl25I" text="Ми беремо вовну від овець, спочатку очищаємо та вичісуємо її. Потім змочуємо та пресуємо вовняні волокна, створюючи товсту, теплу повсть. Вона добре захищає від холоду та вологи."/>
     <string id="wCuAxt4m" text="{.m}Олійник{.R_n20_a}"/>
     <string id="wLTQpbIM" text="{.m}Гончар{.R_n24_a}"/>
-    <string id="xTeJPsMH" text="Ми розпилюємо дошки і обтесуємо жердини, а потім перетворюємо їх на зброю, щити та інструменти."/>
+    <string id="wUwYYcjM" text="Well, we take hardwood logs and split them into rough boards. Then, we smooth and shape them with planes and saws to make sturdy planks. Folk use them for all kinds of building, or to make ships."/>
     <string id="yI0RHP6R" text="Ми ліпимо горщики з глини, а потім випікаємо їх у печі. У горщиках люди зберігають майже все, і вони завжди користуються великим попитом."/>
   </strings>
 </base>
