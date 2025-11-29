@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
     <string id="1cnJtNTt" text="{KEY} Pull"/>
     <string id="1nKa4pQX" text="Rest of the game content has been downloaded."/>
     <string id="3PP01vFv" text="Keep away from that weapon."/>
-    <string id="4Skg9QhO" text="Trebuchet"/>
     <string id="5oozsaIb" text="{KEY} Open"/>
     <string id="5wx4BF5h" text="{KEY} Rotate"/>
-    <string id="6wZUG0ev" text="Ворота"/>
-    <string id="abbALYlp" text="Ballista"/>
-    <string id="aXjlMBiE" text="Siege Tower"/>
     <string id="BFhMw4bl" text="Rest of the game content has been downloaded. Do you want to return to the main menu?"/>
     <string id="bNYm3K6b" text="{KEY} Pick Up"/>
     <string id="bWi4aMO9" text="Arrow Barrel"/>
@@ -24,7 +20,6 @@
     <string id="f83FU4X6" text="Держакова зброя"/>
     <string id="F9AQxCax" text="Fork"/>
     <string id="FNLfNWH3" text="Кавалерія та кінні лучники"/>
-    <string id="G0AWk1rX" text="Ladder"/>
     <string id="gAfbULHM" text="Камера"/>
     <string id="gqQPSAQZ" text="{KEY} Залишити зону"/>
     <string id="ibC4xPoo" text="{KEY} Зарядити"/>
@@ -34,13 +29,11 @@
     <string id="kbNcm68J" text="{KEY} Lift"/>
     <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}"/>
     <string id="m9KoYCv5" text="Керування"/>
-    <string id="MaBSSg7I" text="Battering Ram"/>
     <string id="mBDj5uG5" text="Піхота та стрілецькі війська"/>
     <string id="MdQJxiGz" text="{KEY} Штовхати"/>
+    <string id="mUIew6a6" text="Climbing Net"/>
     <string id="MVOPbhNj" text="Передавати перевагу військам зі щитами"/>
     <string id="Na81xuXn" text="{KEY} Переозброїти"/>
-    <string id="NbpcDXtJ" text="Баліста"/>
-    <string id="PSN8IaIg" text="Shields"/>
     <string id="Q1Ga032B" text="Не віддавайте перевагу жодному виду військ."/>
     <string id="qaPgbwZv" text="Низький рівень"/>
     <string id="rwZAZSvX" text="{KEY} Move"/>
@@ -54,6 +47,7 @@
     <string id="WRMyiiYJ" text="Інтерфейс користувача"/>
     <string id="wY1qP2qj" text="{KEY} Обрати"/>
     <string id="XvSRoOzM" text="Recently Played Players"/>
+    <string id="ybGIoUvT" text="Ammunition Barrels"/>
     <string id="ys9baYiQ" text="Кампанія"/>
     <string id="zbpCRmuJ" text="Надавати перевагу воїнам нижчих рівнів"/>
   </strings>
