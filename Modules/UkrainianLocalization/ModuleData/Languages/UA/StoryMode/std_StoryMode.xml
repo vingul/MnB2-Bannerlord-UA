@@ -27,7 +27,7 @@
     <string id="3deb2lMd" text="Щоб відновити Імперію, потрібно захопити дві третини поселень імперців."/>
     <string id="3ee3I8WX" text="Also, this dagger... It's probably safest just to get to the headman as stealthily as you can, and then sneak back out. But if there's just no getting around one of them, you can take this and come up behind him, and that would make a lot less noise than a straight-out fight."/>
     <string id="3G64Ej64" text="Покупця? Частини стягу? Слухайте, від цілого стягу ви можете отримати щось набагато цінніше, ніж просто гроші. І з цим я зможу вам допомогти.[if:convo_astonished]"/>
-    <string id="3Io5vmOk" text="War Progress with the {FACTION}"/>
+    <string id="3Io5vmOk" text="Хід війни з {FACTION}{.v_oru}"/>
     <string id="3pEDvftb" text=" The conspiracy has collapsed. The defenders of their final stronghold send out a delegation under flag of truce and agree to surrender. Your men take possession of their fortress."/>
     <string id="3Pq58i2u" text="Виявлено базу змовників"/>
     <string id="3sI7nPbF" text="Hmm. I guess it's mostly a matter of waiting until their back is turned, then moving quickly from cover to cover."/>
@@ -172,7 +172,7 @@
     <string id="dbLb3krw" text="Вистежте банди {.S}{._}{RAIDER_NAME}{.v_rod}"/>
     <string id="dE2ufxte" text="Перш ніж ще щось робити... У нас мало їжі. На північ звідси є село. Там ми можемо купити провізії і отримати допомогу. Ти кращий вершник, ніж я, тож їдь вперед..."/>
     <string id="DfiACGay" text="Знищити грабіжників"/>
-    <string id="Dfmg8stq" text="Eliminate {FACTION}"/>
+    <string id="Dfmg8stq" text="Знищити {FACTION}{.v_zna}"/>
     <string id="Dgdopl1b" text="Як мені створити своє імперське королівство?"/>
     <string id="DhMge68x" text="Stealth Tutorial"/>
     <string id="DIKPGwj1" text="Радий бачити, що ти в безпеці. Усі живі?"/>
