@@ -1,173 +1,201 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
-    <string id="0FQcVmYK" text="На початку завдань в лігвах ворог не знатиме про ваше наближення.{newline}{newline}Відкрийте меню наказів за допомогою {HOLD_OPEN_ORDER_KEY} і накажіть своїм воїнам слідувати за вами за допомогою комбінацій клавіш {FIRST_ORDER_CATEGORY_KEY} і {SECOND_ORDER_CATEGORY_KEY} та намагайтеся нападати на окремі невеликі групи."/>
-    <string id="0FssY1wG" text="На верхній панелі знаходяться портрети важливих персонажів.{newline}{newline}Щоб почати з ними спілкуватися, наведіть курсор на їхній портрет натисніть {CONSOLE_ACTION_KEY}{newline}і виберіть в меню «Поговорити»."/>
-    <string id="0NPZA7Ub" text="Замовлення на виготовлення"/>
-    <string id="0yLZL3Vz" text="У меню вгорі праворуч показано важливих людей того поселення, в якому ви зараз знаходитесь.{newline}{newline}Щоб поговорити зі старостою, наведіть курсор на його портрет і натисніть {CONSOLE_ACTION_KEY}."/>
-    <string id="1GgxLyhx" text="Енциклопедія: королівства"/>
-    <string id="1jggMDRI" text="На цьому екрані ви можете створювати різну зброю для себе або щоб виконати замовлення від місцевих неігрових персонажів. Для цього вам потрібно використовувати сирі або очищені ресурси, які ви можете придбати або виготовити, переплавивши зброю, яку маєте при собі.{newline}{newline}Ви можете змінити тип зброї, яку ви створюєте, за допомогою підсвіченої кнопки."/>
-    <string id="1XkYGDEZ" text="Меню сортування дозволяє сортувати результати на основі різних критеріїв."/>
-    <string id="3hfKI636" text="Енциклопедія: клани"/>
-    <string id="3nilwlcM" text="Ви прибули до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}. Щоб оглянути поселення, увійдіть до нього, натиснувши виділену кнопку зліва."/>
-    <string id="3r0HfDMk" text="Щоб перемістити загін, необхідно навести вказівник на потрібне місце на карті і натиснути {CONSOLE_ACTION_KEY}. Це залишить позначку на карті, якщо тільки ви не навели курсор на недосяжну ділянку, таку як гори чи море.{newline}{newline}Вирушаємо до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}!"/>
-    <string id="3RqEmB15" text="Переміщення по Кальрадії"/>
-    <string id="3Y5dudW9" text="{.f}Альда{.R_n10_ko}"/>
-    <string id="3YkpC9Nf" text="Ви можете відфільтрувати предмети за допомогою кнопок вгорі. Відфільтруйте їх за типом «Інше»."/>
-    <string id="4JFfP1lt" text="Цивільне спорядження"/>
-    <string id="4kBdT24F" text="{.m}Натанос{.R_n20_a_ke}"/>
-    <string id="58IKj85P" text="Ви можете переміщувати персонаж:{newline}- Вперед за допомогою {FORWARD_KEY}{newline}- Назад за допомогою {BACKWARDS_KEY}{newline}- Ліворуч за допомогою {LEFT_KEY}{newline}- Праворуч за допомогою {RIGHT_KEY}{newline}{newline}А тепер спробуйте їх усі!"/>
-    <string id="5bYwdRFs" text="Дворучний меч"/>
-    <string id="5M48atXU" text="У вас зараз є активне завдання! Ви можете дізнатися більше про нього, натиснувши на журнал завдань в нижньому лівому кутку екрану."/>
-    <string id="5RSfkx7d" text="Щоб зібрати свою армію, може знадобитися деякий час."/>
-    <string id="6G8w1ZBv" text="Ви знайшли стяг! Стяги - це предмети, якими можна екіпірувати героїв і які дають значні бонуси підрозділам під їх командуванням. Щоб дізнатися які ефекти надає стяг, наведіть курсор на нього."/>
-    <string id="77YzJbA2" text="Енциклопедія містить актуальну інформацію про поселення, героїв, клани та фракції. Виберіть необхідну категорію, щоб переглянути її вміст."/>
-    <string id="7kjdE4s2" text="Стяги"/>
-    <string id="7xHMIZEP" text="Тренувальна мішень"/>
-    <string id="8UUV94Lq" text="Тренування дальнього бою"/>
-    <string id="8YvBapxl" text="{.m}Варік{.R_n20_a}"/>
-    <string id="9aymfBBG" text="Пошук соратників"/>
-    <string id="9Dpz9Emy" text="Ваш брат попросив вас найняти щонайменше 4 людей, перш ніж відправлятись на пошуки тих бандитів.{newline}{newline}Ви можете наймати воїнів в селах і містах, навівши курсор на пункт &quot;Найняти воїнів&quot; і натиснувши {CONSOLE_ACTION_KEY}."/>
-    <string id="9YqwNQPO" text="Далекобійна зброя (на коні)"/>
-    <string id="AtMSecCf" text="Сортувати"/>
-    <string id="atWs6mkm" text="Одноручний меч і щит"/>
-    <string id="axnDLcDA" text="Поговорити зі старостою"/>
-    <string id="b1suRGVY" text="Війська, які готові до покращення, позначені спеціальною іконкою{UPGRADE_ICON}.{newline}{newline}Загальна кількість військ, які можна покращити, показана всередині підсвіченої кнопки, у верхньому правому куті екрана.{newline}{newline}Відкрийте вікно, щоб покращити деяких зі своїх воїнів."/>
-    <string id="B5MNWr0J" text="Ласкаво просимо до Кальрадії!{newline}{newline}Ви можете досліджувати карту світу, переміщуючи камеру з допомогою {CONSOLE_MOVEMENT_KEY}. Повертати камеру можна за допомогою {CONSOLE_CAMERA_KEY}, а збільшувати і зменшувати масштаб за допомогою {MAP_ZOOM_OUT_KEY} і {MAP_ZOOM_IN_KEY}.{newline}{newline}Спробуйте."/>
-    <string id="B7WlM3CU" text="Купіть припаси у меню поселення зліва."/>
-    <string id="bfIEbq8b" text="Ви можете створити армію, додавши в неї воїнів зі списку ліворуч. Щоб підтвердити свій вибір, натисніть кнопку «Готово»."/>
-    <string id="BfQrnvpC" text="Створення армії"/>
-    <string id="BoQ0N23g" text="Перемогти тренера-новачка"/>
-    <string id="bqgthBbb" text="Якщо ви не є лідером однієї зі сторін у битві, то екран організації битви відкриється у скороченому вигляді. Це означає, що старші за вас лорди спочатку виберуть свої підрозділи. Потім ви призначите себе в один з цих підрозділів і будете ним керувати.{newline}{newline}Спробуйте призначити себе у доступний вам підрозділ."/>
-    <string id="BV5gL8SK" text="Якщо ви точно знаєте що або кого ви шукаєте, ви можете скористатися рядком пошуку і ввести запит. З його допомогою ви зможете знайти будь-яку особу, поселення та військо Кальрадії."/>
-    <string id="bZOVbBRG" text="Коли кількість очок уміння досягне необхідного порогу, стане доступною одна або кілька здібностей.{newline}{newline}Про це сповістить невеликий індикатор над кнопкою екрана персонажа.{newline}{newline}Клацніть на кнопку персонажа, щоб переглянути доступний вибір здібностей."/>
-    <string id="C8NDynaB" text="{.m}Ніасен{.R_n20_a_ke}"/>
-    <string id="CaCfbRJq" text="{.m}Ножон{.R_n20_a_ke}"/>
-    <string id="CONYULU6" text="{.m}Фазос{.R_n20_a_ke}"/>
-    <string id="CpKLau15" text="Ваш брат рекомендує вам придбати 2 мішки зерна.{newline}{newline}Це можна зробити, перенісши їх до свого інвентарю за допомогою маленької стрілки зліва"/>
-    <string id="cZsPNpCs" text="Купівля їжі"/>
-    <string id="d0LpBfis" text="Арбалет"/>
-    <string id="D0SoDPcr" text="Тренування ближнього бою (розширене)"/>
-    <string id="D4b6tzYx" text="Енциклопедія: війська"/>
-    <string id="ddoD208G" text="Відомі особи допомагають вам наймати більше і кращих воїнів (вищого рівня) залежно від ваших з ними стосунків.{newline}{newline}Клацніть на портреті будь-якого воїна, щоб перемістити його у свій загін."/>
-    <string id="dFpNRB1g" text="{.m}Ноганд{.R_n20_a_ke}"/>
-    <string id="dLXZaEI1" text="Купівля їжі"/>
-    <string id="DtKKtcws" text="Зверніть увагу, що швидкість вашого загону знизилася, тому що ви несете занадто багато вантажу.{newline}Вам слід зменшити кількість вантажу, щоб прискоритися.{newline}Ви також можете збільшити вантажопідйомність свого загону, найнявши більше воїнів або купивши коней і верблюдів."/>
-    <string id="e54212r1" text="У містах зустрічаються талановиті люди, які можуть вам допомогти.{newline}{newline}Цих потенційних соратників можна знайти у тавернах.{newline}{newline}Тому відправляйтеся до району таверн і шукайте там собі соратника."/>
-    <string id="E9f8YUbO" text="Ви отримуєте рівень щоразу, коли ваша загальна кількість очок умінь досягає потрібного значення. Підвищення рівня дає очки фокусу, які ви можете потратити.{newline}{newline}Якщо у вас є вільні очки фокусу, ви побачите це за допомогою маленького індикатора над кнопкою персонажа. Натисніть на цю кнопку, щоб переглянути свої уміння і підвищити фокус для одного з них."/>
-    <string id="EeC9zwta" text="Відомі особи допомагають вам наймати більше і кращих воїнів (вищого рівня) залежно від ваших з ними стосунків.{newline}{newline}Перемістіть курсор на портрет будь-якого воїна і натисніть {CONSOLE_ACTION_KEY}, щоб перемістити його у свій загін."/>
-    <string id="eFv4yeJY" text="Якщо у вас є принаймні 20 воїнів, то ви матимете можливість розробляти стратегію перед кожною битвою. Ви зможете призначати героїв капітанами підрозділів, розподіляти воїнів між підрозділами, вибирати, які види воїнів повинні входити в той чи інший підрозділ і інші можливості.{newline}{newline}Спробуйте призначити себе капітаном підрозділу, перетягнувши свій портрет вгорі в центрі в слот для капітанів одного з підрозділів."/>
-    <string id="elRQHiLR" text="Меч (на коні)"/>
-    <string id="EvAriC6s" text="Кожен персонаж у Калрадії має два набори спорядження. Персонажі використовують військове спорядження, коли очікують неприємностей. Ви можете перемикатися між наборами за допомогою кнопок над моделлю персонажа. Зверніть увагу, що більшість обладунків і зброї непридатні для використання з цивільним одягом, оскільки цивільний комплект використовується тоді, коли персонажу недоречно або заборонено бути озброєним."/>
-    <string id="f6xYa3c4" text="Ласкаво просимо до Кальрадії!{newline}{newline}Ви можете досліджувати карту світу, переміщуючи камеру клавішами {FORWARD_KEY}{BACKWARDS_KEY}{LEFT_KEY}{RIGHT_KEY}. Повертати камеру можна правою кнопкою миші, а збільшувати і зменшувати масштаб за допомогою коліщатка миші.{newline}{newline}Спробуйте."/>
-    <string id="FCMKJLrh" text="Ви можете наказати своїм людям атакувати, відкривши команди руху за допомогою {FIRST_ORDER_CATEGORY_KEY} і вибравши наказ іти атаку за допомогою {THIRD_ORDER_CATEGORY_KEY}."/>
-    <string id="GDPa0sQX" text="Відстежування дозволяє знаходити поселення на карті світу. Поки кнопка відстеження активна, вибрані поселення будуть підсвічені. Ви можете натиснути на точку біля назви поселення, щоб вимкнути для нього відстеження."/>
-    <string id="GhVXQrYF" text="Покращення воїнів"/>
-    <string id="GjGF4xbn" text="Щит"/>
-    <string id="gKzLAjXr" text="Зверніть увагу: згуртованість вашої армії впала до низького рівня і є велика ймовірність того, що ваша армія розбіжиться.{newline}Ви можете натиснути на кнопку управління армією, щоб підвищити її згуртованість."/>
-    <string id="gUvxp8mf" text="Лук"/>
-    <string id="HfZVK8gb" text="Так... Ми знайомі?"/>
-    <string id="HORKLD7t" text="За допомогою цієї панелі ви можете брати участь у процесі прийняття рішень у вашій фракції. Ви можете тратити вплив, щоб впливати на думки, але останнє слово завжди буде за правителем.{newline}{newline}Виберіть один з доступних варіантів рішення, щоб продовжити."/>
-    <string id="HOuIbabS" text="Дворучний меч"/>
-    <string id="HPe7HaZx" text="Викуп полонених"/>
-    <string id="hZ9eNwFZ" text="Здібності зазвичай стають доступними парами.{newline}{newline}Кожна з них надає різні бонуси, тож обирайте їх з розумом."/>
-    <string id="I1Cvs1zL" text="Деякі з ваших військ тепер мають достатньо досвіду для покращення.{newline}{newline}Щоб переглянути і покращити свої війська, натисніть на підсвічену кнопку загону."/>
-    <string id="IcBq2jSZ" text="Ейтін"/>
-    <string id="IjMel5eg" text="Ви можете продати всіх полонених одразу.{newline}{newline}Або ви можете звернутися до посередника та обговорити ціну кожного полоненого окремо."/>
-    <string id="iOLa5rjZ" text="Зерно зазвичай є найдешевшою їжею, яку можна купити.{newline}{newline}Інші види їжі можуть давати різні бонуси при споживанні.{newline}{newline}Купіть трохи їди."/>
-    <string id="iVbIg7hT" text="Перемогти тренера-ветерана"/>
-    <string id="JD7OlpIl" text="Щоб збільшити згуртованість на 10, натисніть {CONSOLE_ACTION_KEY}, коли курсор буде над кнопкою &quot;+&quot;. Майте на увазі, що це коштуватиме вам певної кількості впливу."/>
-    <string id="JDtbzwB0" text="{.m}Нусун{.R_n20_a_ke}"/>
-    <string id="JEhe0TvD" text="У вас є активний квест! Щоб дізнатися більше про нього, натисніть {CONSOLE_ACTION_KEY}, коли курсор буде над журналом квестів у лівому нижньому кутку екрана."/>
-    <string id="jLWPSiOR" text="Поговоріть зі старостою"/>
-    <string id="JoYrhCGB" text="Намагаєтесь знайти щось конкретне? Використовуйте фільтри на лівій панелі, щоб звузити результати."/>
-    <string id="jWvle1tC" text="Завершіть заїзд та влучте у якомога більше мішеней ({HIT} / {ALL})"/>
-    <string id="JXbP1ula" text="Ви можете керувати переміщенням персонажу за допомогою {CONSOLE_MOVEMENT_KEY}.{newline}{newline}А тепер спробуйте пересуватися в усі чотири сторони!"/>
-    <string id="k9QvIYaR" text="Щоб збільшити швидкість навчання будь-якого уміння, використовуються очки фокусу."/>
-    <string id="KbpiRMnO" text="Натисніть на кнопку &quot;Відвідати&quot;, щоб почати розмову."/>
-    <string id="kwW6v202" text="Вийти на позицію для стрільби"/>
-    <string id="L0tOoWpV" text="Піти до звичайного тренера"/>
-    <string id="L24eYhaX" text="Забратися на коня"/>
-    <string id="L2biDS8U" text="Відомі люди в містах розміщуватимуть замовлення на виготовлення зброї. Якщо ви виконаєте всі вимоги такого замовлення, то вони заплатять вам за цю зброю.{newline}{newline}Ви можете переглянути ці замовлення, натиснувши на виділену кнопку вгорі праворуч."/>
-    <string id="LA4oaC7b" text="У місіях в лігвах ворог початково не знає про ваше наближення.{newline}{newline}Накажіть своїм воїнам слідувати за вами за допомогою комбінацій клавіш {FIRST_ORDER_CATEGORY_KEY} та {SECOND_ORDER_CATEGORY_KEY} і намагайтеся нападати невеликі групи."/>
-    <string id="lfkwsa5f" text="Відстеження"/>
-    <string id="LGuJctoZ" text="Вдарити тренера ({HIT} / {ALL})"/>
-    <string id="lN1RQ260" text="Попадіть по мішенях ({HIT} / {ALL})"/>
-    <string id="lRPvkRJy" text="На початку бою ваші солдати будуть утримувати свої позиції. Ви можете наказати їм слідувати за вами, відкривши меню наказів за допомогою {HOLD_OPEN_ORDER_KEY}, далі - категорію наказів про рух за допомогою {FIRST_ORDER_CATEGORY_KEY} і в ній вибравши команду &quot;За мною&quot; за допомогою {SECOND_ORDER_CATEGORY_KEY}."/>
-    <string id="LS1whiyj" text="Меню вгорі праворуч показує важливих людей у поточному поселені, в якому ви знаходитесь.{newline}{newline}Натисніть на портрет старости, щоб поспілкуватися з ним."/>
-    <string id="m2uEbrkh" text="{.m}Найджун{.R_n20_a_ke}"/>
-    <string id="MCeCa7SE" text="Сторінки воїнів дозволяють вам побачити уміння та набори спорядження обраного воїна. Спробуйте дослідити дерева модернізації, щоб спланувати склад своєї армії заздалегідь."/>
-    <string id="mfugkRoz" text="Лігва та накази"/>
-    <string id="MgBazeaE" text="Альте"/>
-    <string id="MmFO0Erq" text="Щоб побачити де знаходиться староста, утримуйте {MISSION_INDICATORS_KEY}.{newline}{newline}Опинившись біля нього, натисніть {INTERACTION_KEY}, щоб поговорити з ним."/>
-    <string id="mo30kGdz" text="Призначення ролей"/>
-    <string id="MqeQco4z" text="Спис (на коні)"/>
-    <string id="mvYbXi4O" text="Ви можете наказати своїм солдатам наступати, відкривши меню наказів за допомогою {HOLD_OPEN_ORDER_KEY}, далі - категорію наказів про рух за допомогою {FIRST_ORDER_CATEGORY_KEY} і в ній вибравши команду &quot;В атаку&quot; за допомогою {THIRD_ORDER_CATEGORY_KEY}."/>
-    <string id="N8YVPdBw" text="Ви отримуєте рівень щоразу, коли ваша загальна кількість очок умінь досягає певного значення. Підвищення рівня дає очки фокусу.{newline}{newline}Якщо у вас є незадіяні очки фокусу, ви побачите маленький індикатор над кнопкою персонажа. Щоб переглянути свої уміння і потратити на них свої очки фокусу, наведіть курсор на кнопку персонажа і натисніть {CONSOLE_ACTION_KEY}."/>
-    <string id="NED1z7Pe" text="Щоб покинути поточну місію, утримуйте {LEAVE_MISSION_KEY}.{newline}{newline}Це поверне вас до меню поселення, де ви зможете придбати припаси і найняти рекрутів."/>
-    <string id="NWxC3CbS" text="{.m}Фодор{.R_n20_a_ke}"/>
-    <string id="o5ho2Txg" text="Згуртованість армії"/>
-    <string id="OA9bQ8QJ" text="{.f}Алея{.R_n10_ko_p1}"/>
-    <string id="odbkXZkz" text="Переміщення вашого загону здійснюється за допомогою клацання миші по карті. На місці клацання залишиться позначка, якщо тільки ви не клацнули на недосяжну ділянку, таку як гори чи море.{newline}{newline}Вирушаємо до {TUTORIAL_SETTLEMENT_NAME}{.v_rod}!"/>
-    <string id="oj7B1GOT" text="Відвідування поселень"/>
-    <string id="OJmYUcaU" text="Дворучний меч"/>
-    <string id="oKl1p2er" text="Ви можете прикликати інших лордів під свій стяг. Для цього наведіть курсор на виділену піктограму армії внизу праворуч і натисніть {CONSOLE_ACTION_KEY}."/>
-    <string id="okM9QUFA" text="Дротики"/>
-    <string id="oq3SvXCm" text="Деякі з ваших воїнів тепер мають достатньо досвіду для покращення.{newline}{newline}Щоб переглянути та покращити свої війська, наведіть курсор на підсвічену кнопку загону і натисніть {CONSOLE_ACTION_KEY}."/>
-    <string id="P7KbSBvr" text="Тренування бою на коні"/>
-    <string id="pAf5Mt3X" text="{.f}Алішка{.R_n10_ko}"/>
-    <string id="Ph2nk4Ms" text="На початку бою ваші солдати будуть утримувати свої позиції. Ви можете наказати їм наступати, відкривши меню наказів про рух за допомогою {FIRST_ORDER_CATEGORY_KEY} і в ній вибравши команду &quot;За мною&quot; за допомогою {SECOND_ORDER_CATEGORY_KEY}."/>
-    <string id="pKtXgb6b" text="Ви можете вибрати доступну здібність, натиснувши {CONSOLE_ACTION_KEY}, коли курсор буде на цій кнопці."/>
-    <string id="pow4wUAM" text="Нападаючи на села ви послаблюєте економіку фракції, яка ним володіє, порушуючи потік постачання між селом і пов'язаним з ним поселенням. Крім того, сторона, що здійснює набіг, отримає певні ресурси від грабунку."/>
-    <string id="q3mOBLFn" text="Вибір уміння для фокусу"/>
-    <string id="q65JaEBW" text="{.f}Аля{.R_n10_ko}"/>
-    <string id="q71nXdD4" text="Підійти до тренера"/>
-    <string id="QewGND2m" text="Облоги"/>
-    <string id="QHhdmvLj" text="Тренувальний бій"/>
-    <string id="qjMhakoM" text="Зверніть увагу, що згуртованість вашої армії впала до низького рівня, і є велика ймовірність того, що ваша армія розбіжиться.{newline}Щоб підвищити згуртованість армії, наведіть курсор на кнопку управління армією і натисніть {CONSOLE_ACTION_KEY}."/>
-    <string id="qNrWU4Or" text="Тренування ближнього бою"/>
-    <string id="QVChn4mG" text="Їжею також можна торгувати. Ви легко можете знайти товари для торгівлі за допомогою фільтру &quot;Інше&quot;."/>
-    <string id="rLEIuqZO" text="Після запеклої битви у вас може з'явитися вибір: взяти кількох полонених або завербувати тих, кого ви звільнили з полону ворога.{newline}{newline}Обидва варіанти виконуються шляхом перенесення воїнів на сторону свого загону за допомогою маленької кнопки зі стрілкою зліва."/>
-    <string id="rVaufuNb" text="Ви відкрили сторінку, на якій на цю мить доступно дуже мало інформації. Згодом, навідуючись в поселення та зустрічаючись з різними людьми, ця сторінка буде наповнитися більшою кількістю актуальної інформації."/>
-    <string id="Rvn8tGB0" text="Ваш брат попросив вас найняти щонайменше 4 людей, перш ніж відправлятись на пошуки тих бандитів.{newline}{newline}Ви можете наймати воїнів в селах і містах, натиснувши кнопку &quot;Найняти воїнів&quot;."/>
-    <string id="SbLp73Z3" text="Ви можете призначати ролі членам свого клану у вашому загоні. Вони даватимуть бонуси відповідно до їхніх умінь та здібностей.{newline}{newline}Щоб розпочати процес призначення ролей, натисніть на підсвічену область."/>
-    <string id="SJ5Yp3eI" text="Для покращення воїнів необхідні гроші та досвід, який здобувають ці воїни. Деякі воїни можуть мати два варіанти покращення і можуть потребувати додаткових предметів, такі як коні."/>
-    <string id="sYkqpuFx" text="Bannerlord має багато різних елементів, які впливають на світ Кальрадії. Ви завжди можете скористатися фільтрами, щоб дізнатися більше про концепції гри."/>
-    <string id="TVqGNr8b" text="Стежачи за кланами Кальрадії, ви більше дізнаєтесь як про союзників, так і про ворогів. Ви можете стежити за членами цих кланів, їх володіннями та рівнем їхньої могутності, після того, як їх зустрінете."/>
-    <string id="tZtrK3cs" text="Тренування стрільби верхи"/>
-    <string id="TZZaO7iI" text="Коли ваші очки умінь досягнуть певного порогу, стане доступним одна або кілька здібностей.{newline}{newline}Про це сповістить невеликий індикатор над кнопкою персонажа.{newline}{newline}Щоб переглянути варіанти доступних здібностей наведіть курсор на кнопку персонажа і натисніть {CONSOLE_ACTION_KEY}."/>
-    <string id="Uge82Njb" text="Ви вже вирішили, що робити?"/>
-    <string id="uW4htMut" text="Меч і щит"/>
-    <string id="uWEUYE1m" text="Ви можете обрати доступну здібність, натиснувши на її кнопку."/>
-    <string id="v3Ibi438" text="Щоб почати розмову, наведіть курсор на кнопку &quot;Відвідати&quot; і натисніть {CONSOLE_ACTION_KEY}."/>
-    <string id="vdEoBkpr" text="Ви постійно повинні слідкувати за запасом їжі. Якщо у вас закінчиться їжа, ваш загін втратить бойовий дух. Ваші війська можуть покинути вас через низький бойовий дух.{newline}{newline}На інформаційній панелі можна бачити свій запас їжі. Наведіть на неї курсор, щоб побачити, скільки їжі ваш загін споживає щодня. Оскільки вашому загону потрібна їжа, вирушайте на ринок, щоб придбати її."/>
-    <string id="VMcd4nma" text="Енциклопедія містить інформацію про всі міста, замки та села Кальрадії. Відвідавши або дізнавшись про них, ви зможете отримувати актуальну інформацію в енциклопедії."/>
-    <string id="VRLsCOQa" text="Королівське рішення"/>
-    <string id="VvpPbvpm" text="Ви можете прикликати інших лордів під свій стяг. Для цього клацніть на підсвічену іконку армії внизу праворуч."/>
-    <string id="VzE9aVBh" text="На верхній панелі ви можете побачити портрети важливих NPC.{newline}{newline} Клацніть на портрет і виберіть в меню &quot;Відвідати&quot;."/>
-    <string id="w4Ajm40u" text="{.m}Фарок{.R_n20_a}"/>
-    <string id="wbdzBBPp" text="Поверніться до важливої особи і дізнайтеся більше про завдання, навівши курсор на кнопку &quot;Відвідати&quot; та натиснувши {CONSOLE_ACTION_KEY}."/>
-    <string id="wgK6QxXm" text="Це ваша кримінальна слава у фракції, яка володіє поселенням. Ви отримуєте цю славу, грабуючи або нападаючи на підданих королівства. Гравцям з славою 30 або вище в нейтральному королівстві буде заборонено відвідувати його поселення, а на незалежного гравця з кримінальною славою 60 або вище нападуть відразу, як тільки побачать. Кримінальна слава з часом знижується.{newline}{newline}Більш детально про кримінальну славу ви можете дізнатися в енциклопедії."/>
-    <string id="wq9sNkMc" text="Залишити місію"/>
-    <string id="WTF4ZIe7" text="Джату"/>
-    <string id="wZPdOclh" text="Енциклопедія: Поселення"/>
-    <string id="x4xx1Zd6" text="Бойові команди"/>
-    <string id="xCHBC7S9" text="Натисніть на кнопку &quot;Відвідати&quot;, щоб повернутися до важливої особи і дізнайтеся більше про завдання, що стоїть перед вами."/>
-    <string id="xDyzNFic" text="Енциклопедія: Поняття"/>
-    <string id="xFWG6uZ8" text="Облоги є невід'ємною частиною війни в Кальрадії, оскільки це основний спосіб завоювання міст і замків."/>
-    <string id="xORASoex" text="Щоб збільшити згуртованість на 10, натисніть на кнопку &quot;+&quot;. Майте на увазі, що це коштуватиме вам певної кількості впливу."/>
-    <string id="Xr50xGhr" text=" ({TIME_SCORE} секунди)"/>
-    <string id="yF9agd1M" text="Туман війни"/>
-    <string id="yhTaDeLf" text="Ви можете створювати нові підрозділи, щоб розділяти своїх воїнів на менші групи для кращого контролю. Ви також можете визначити, який відсоток вибраного типу військ повинен починати бій у цих підрозділах, маніпулюючи повзунками всередині карток підрозділів.{newline}{newline}Спробуйте створити новий підрозділ, вибравши його тип і відрегулювавши вагу військ у підрозділі."/>
-    <string id="yrlPHYpa" text="Вибір покращення здібностей"/>
-    <string id="Z7zWkAV8" text="Ви можете отримати викуп за полонених у посередника.{newline}{newline}Його можна знайти в районі таверни."/>
-    <string id="z9eC5hjv" text="Спис і щит"/>
-    <string id="zF0xUaXd" text="Вивчайте королівства, щоб бути в курсі справ щодо вотчин, кланів і війн королівств Кальрадії."/>
-    <string id="zN9iNaIW" text="Набіг на село"/>
-    <string id="ZozwfwVl" text="Захистити себе ({HIT} / {ALL})"/>
-    <string id="ZW9OGfEt" text="Визволення та захоплення полонених"/>
+    <string id="04nPpqA2" text="Distraction"/>
+    <string id="0FQcVmYK" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Open the order menu with {HOLD_OPEN_ORDER_KEY} and order your troops to follow you with the {FIRST_ORDER_CATEGORY_KEY} and {SECOND_ORDER_CATEGORY_KEY} shortcuts and try to take them on in small groups."/>
+    <string id="0FssY1wG" text="You can see portraits of Important NPCs on the top bar.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on their portrait and choose talk from the menu."/>
+    <string id="0NPZA7Ub" text="Crafting orders"/>
+    <string id="0yLZL3Vz" text="The menu on the top right shows the important people in your current location.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on the headman's portrait to talk to him."/>
+    <string id="1GgxLyhx" text="Encyclopedia Kingdoms"/>
+    <string id="1jggMDRI" text="This screen allows you to craft different weapons for yourself or to fulfill orders for local non-player characters. To do this, you must use raw or refined resources that you can either purchase or manufacture by smelting weapons you carry.{newline}{newline}You can change the type of weapon that you are crafting through the highlighted button."/>
+    <string id="1XkYGDEZ" text="The sorting menu lets you sort your results based on different variables."/>
+    <string id="3dhvmJDp" text="Well... Looks like we've gotten your kin back to you, so my end of our deal is complete. I'll be making myself scarce now.[ib:hip][if:convo_uncomfortable_voice]"/>
+    <string id="3hfKI636" text="Encyclopedia Clans"/>
+    <string id="3nilwlcM" text="You have arrived at {TUTORIAL_SETTLEMENT_NAME}. To explore the location, you can enter the settlement by pressing the highlighted button on the left."/>
+    <string id="3r0HfDMk" text="Moving your party is done by hovering the indicator on the map and pressing {CONSOLE_ACTION_KEY}. This will leave a mark on the target location - unless you have hovered over an inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
+    <string id="3RqEmB15" text="Navigating Calradia"/>
+    <string id="3YkpC9Nf" text="You can filter Items through buttons at the top. Filter them to Misc."/>
+    <string id="40fvS57E" text="Darkness"/>
+    <string id="4kBdT24F" text="Nathanos"/>
+    <string id="58IKj85P" text="You can move your character:{newline}- Forwards with {FORWARD_KEY}{newline}- Backwards with {BACKWARDS_KEY}{newline}- Left with {LEFT_KEY}{newline}- Right with {RIGHT_KEY}{newline}{newline}Try them all now!"/>
+    <string id="5bYwdRFs" text="Sword Training"/>
+    <string id="5M48atXU" text="You have an active quest! You can learn more about it by clicking on the quest log on the lower left of your screen."/>
+    <string id="5RSfkx7d" text="Gathering of your army may take some time."/>
+    <string id="6G8w1ZBv" text="You've found a banner! Banners are items that can be equipped by heroes and they give significant bonuses to the formations those heroes lead. You can inspect and see the effect of the banner by hovering over the banner item."/>
+    <string id="77YzJbA2" text="Encyclopedia offers up-to-date information about settlements, heroes, clans, and factions. Select a category to see contents listed under the said category."/>
+    <string id="7kjdE4s2" text="Banners"/>
+    <string id="7xHMIZEP" text="Practice Target"/>
+    <string id="87daU1Hh" text="You can distract guards with noise. Try throwing one of the stones in your inventory to grab their attention."/>
+    <string id="8UUV94Lq" text="Ranged Training"/>
+    <string id="8YvBapxl" text="Varic"/>
+    <string id="9aymfBBG" text="Getting Companions"/>
+    <string id="9Dpz9Emy" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by pressing {CONSOLE_ACTION_KEY} while the cursor is on the &quot;Recruit Troops&quot; button."/>
+    <string id="9ePM7lia" text="If an enemy comes across a corpse, they will start investigating. You can avoid this by pressing {INTERACTION_KEY} to interact with the body to move it out of the way."/>
+    <string id="9Vw6P30y" text="You will deal additional damage when you hit an unaware enemy. Take out the remaining guard from behind."/>
+    <string id="9YqwNQPO" text="Mounted Ranged Training"/>
+    <string id="a5MGfVtc" text="Equipment Sets"/>
+    <string id="AebxolIj" text="Hold {CROUCH_KEY} and press {INTERACTION_KEY} to move slowly and reduce noise, making enemies less suspicious."/>
+    <string id="aJ8dQKU7" text="You are quieter and less visible when crouching. Try it now by pressing {CROUCH_KEY} and pass by the guard."/>
+    <string id="AtMSecCf" text="Sort"/>
+    <string id="atWs6mkm" text="One Handed Sword and Shield Training"/>
+    <string id="axnDLcDA" text="Talk to the headman"/>
+    <string id="b1suRGVY" text="Troops that are ready to upgrade are marked with a special icon{UPGRADE_ICON}.{newline}{newline}The total number of upgradeable troops is shown inside the highlighted button, at the top right corner of the screen.{newline}{newline}Open the popup to upgrade some of your troops."/>
+    <string id="B5MNWr0J" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with {CONSOLE_MOVEMENT_KEY}, panning your view with {CONSOLE_CAMERA_KEY} and zooming in and out with {MAP_ZOOM_OUT_KEY} and {MAP_ZOOM_IN_KEY}.{newline}{newline}Give it a try."/>
+    <string id="B7WlM3CU" text="You should purchase supplies from the settlement menu on the left."/>
+    <string id="bCqsjBDl" text="However we must be careful not to endanger their lives and it could be better to just buy them. We need to have our purses full for that though."/>
+    <string id="bfIEbq8b" text="You can create an army by adding members from the list on the left. To finalize your choices, press &quot;Done&quot;."/>
+    <string id="BfQrnvpC" text="Creating Army"/>
+    <string id="Bhi4lVXC" text="There is tall grass on the right of this passage. Use it to avoid the patrol."/>
+    <string id="BoQ0N23g" text="Defeat rookie trainer"/>
+    <string id="bqgthBbb" text="If you're not the encounter leader, the Order of Battle screen will open in a limited state. This means that lords senior to you will choose their formations first. You then assign yourself to a formation, and you will control that single formation.{newline}{newline}Try assigning yourself to an available formation."/>
+    <string id="BV5gL8SK" text="If you know what or who you are looking for you can use the search bar and type in. The search bar lists all the persons, settlements, and troops of the Calradia."/>
+    <string id="bZOVbBRG" text="When your skill points reach a required threshold, one or more perks will become available.{newline}{newline}This will be notified by a small indicator over the character screen button.{newline}{newline}Click on the character button to view available perk choices."/>
+    <string id="C5x8Ygbj" text="Stealth Kill"/>
+    <string id="C8NDynaB" text="Niasen"/>
+    <string id="CaCfbRJq" text="Nozhon"/>
+    <string id="CONYULU6" text="Phasos"/>
+    <string id="CpKLau15" text="Your brother recommends that you purchase 2 sacks of grain.{newline}{newline}You can do this by transferring them to your inventory with the little arrow on the left side"/>
+    <string id="cuzMV8pT" text="Every character in Calradia has three equipment sets for different purposes: Civilian, battle, and stealth. You can switch between their sets using the buttons over the character's model. Note that some equipment may be unusable in certain equipment sets, due to their intended environment."/>
+    <string id="cZsPNpCs" text="Buying Food"/>
+    <string id="d0LpBfis" text="Crossbow Training"/>
+    <string id="D0SoDPcr" text="Advanced Melee Training"/>
+    <string id="D4b6tzYx" text="Encyclopedia Units"/>
+    <string id="ddoD208G" text="Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Click on some troops to move them into your party."/>
+    <string id="dFpNRB1g" text="Nogand"/>
+    <string id="DjQuB0TU" text="You saved your brothers and sister, and you decided to let {RADAGOS.LINK} go..."/>
+    <string id="dLXZaEI1" text="Buying Foods"/>
+    <string id="DtKKtcws" text="Notice your party speed has dropped because you are carrying too much.{newline}You should reduce the amount of weight you carry to speed up.{newline}You can also increase your party's carrying capacity by recruiting more troops or buying horses and camels."/>
+    <string id="e54212r1" text="In towns, you can find talented individuals that can aid you.{newline}{newline}These potential companions can be found hanging out in taverns.{newline}{newline}Go to tavern district now to find a potential companion."/>
+    <string id="E9f8YUbO" text="You gain a level every time your total skill points total reaches a target value. Leveling up grants focus points to spend.{newline}{newline}If you have free focus points you will see it by a small indicator over the character screen button. Click on the button to review different skills and choose one to increase focus."/>
+    <string id="EeC9zwta" text="Notables help you recruit more and better (higher level) troops according to your relation with them.{newline}{newline}Move troops into your party by pressing {CONSOLE_ACTION_KEY} while the cursor is on their portraits."/>
+    <string id="eFv4yeJY" text="If you have at least 20 troops you'll have the option to draw up a strategy before every battle. You can assign heroes to be captains of formations, distribute your troops between formations and give preferences to which kinds of troops should be included in which formation, as well as some other options.{newline}{newline}Try assigning yourself as the captain of one of the formations by dragging your portrait at the center top to one of the formations' captain slots."/>
+    <string id="elRQHiLR" text="Mounted Sword Training"/>
+    <string id="epB0x816" text="{PLAYER_LITTLE_SISTER.NAME} is the little sister of {PLAYER.LINK}. She has been abducted by bandits, who intend to sell her into slavery."/>
+    <string id="eVgAY7ts" text="Good Heaven, I'll need a better description than that. My men have harvested dozens of little brats in this region. Quite good hunting grounds! Already sent most of them south to a slave market I know, though.[ib:hip][if:convo_snide_voice]"/>
+    <string id="f6xYa3c4" text="Welcome to Calradia!{newline}{newline}You can explore the world map by moving the camera with {FORWARD_KEY}{BACKWARDS_KEY}{LEFT_KEY}{RIGHT_KEY}, panning your view by right clicking and dragging your mouse and zooming in and out with the mouse wheel.{newline}{newline}Give it a try."/>
+    <string id="FCMKJLrh" text="You can tell your men to charge by opening the movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing charge with {THIRD_ORDER_CATEGORY_KEY}."/>
+    <string id="GDPa0sQX" text="Tracking allows you to find the settlements on the world map. As long as the track button is active location selected settlements will be highlighted. You can click the point near the settlement text to disable tracking."/>
+    <string id="GhVXQrYF" text="Upgrading Troops"/>
+    <string id="GjGF4xbn" text="Shield Training"/>
+    <string id="gKzLAjXr" text="Notice how your army cohesion has dropped to a low point, and it is more likely that your army will disperse.{newline}You can click on the army management button to boost your cohesion."/>
+    <string id="GNDrLQQ8" text="Hide the Body"/>
+    <string id="gUvxp8mf" text="Bow Training"/>
+    <string id="HfZVK8gb" text="Yes... Do I know you?"/>
+    <string id="HORKLD7t" text="You can participate in your faction's decision-making process through this panel. You can spend influence to sway opinions but the ruler will always have the last word.{newline}{newline}Select one of the available decision options to continue."/>
+    <string id="HOuIbabS" text="Two Handed Sword Training"/>
+    <string id="HPe7HaZx" text="Ransoming Prisoners"/>
+    <string id="HrdVRMgR" text="Perhaps by saving my brother and sister you earned your life back. Very well, go now."/>
+    <string id="hZ9eNwFZ" text="Perks usually become available in pairs.{newline}{newline}Each one grants different bonuses so choose wisely."/>
+    <string id="I1Cvs1zL" text="Some of your troops now have enough experience for an upgrade.{newline}{newline}To review and upgrade your troops click on the highlighted party screen button."/>
+    <string id="IcBq2jSZ" text="Aitheen"/>
+    <string id="IjMel5eg" text="You can sell off all prisoners at once.{newline}{newline}Or you can engage with the ransom broker to pick them individually."/>
+    <string id="iOLa5rjZ" text="Grain is usually the cheapest food you can buy.{newline}{newline}Other types of food may grant various bonuses when consumed.{newline}{newline}Buy some food now."/>
+    <string id="iVbIg7hT" text="Defeat veteran trainer"/>
+    <string id="j6bEqzmb" text="Oh, you'll need my help all right, if you want to get them back - alive, that is. "/>
+    <string id="JD7OlpIl" text="You can press {CONSOLE_ACTION_KEY} while the cursor is on the &quot;+&quot; button to add 10 cohesion. Be aware that boosting it costs some influence."/>
+    <string id="JDtbzwB0" text="Nusun"/>
+    <string id="JEhe0TvD" text="You have an active quest! You can learn more about it by pressing {CONSOLE_ACTION_KEY} while the cursor is on the quest log on the lower left of your screen."/>
+    <string id="jLWPSiOR" text="Speak to the Headman"/>
+    <string id="JoYrhCGB" text="Trying to find something specific? Use filters on the left bar to narrow out the results."/>
+    <string id="jWvle1tC" text="Finish the track and hit targets as many as you can ({HIT} / {ALL})"/>
+    <string id="JXbP1ula" text="You can move your character with {CONSOLE_MOVEMENT_KEY}.{newline}{newline}Try moving in four direction now!"/>
+    <string id="k9QvIYaR" text="Focus points are used to increase the learning rate at any skill."/>
+    <string id="KbpiRMnO" text="Click on the &quot;Visit&quot; button to start conversation."/>
+    <string id="L0tOoWpV" text="Go to normal trainer"/>
+    <string id="L24eYhaX" text="Mount the horse"/>
+    <string id="L2biDS8U" text="Notables in towns will post orders for new weapons. They'll have requirements for you to complete and they'll pay you for the ordered weapon.{newline}{newline}You can view these orders by clicking on the highlighted button, at the top right."/>
+    <string id="LA4oaC7b" text="Hideout missions begin with the enemy unaware of your approach.{newline}{newline}Order your troops to follow you with the {FIRST_ORDER_CATEGORY_KEY} and {SECOND_ORDER_CATEGORY_KEY} shortcuts and try to take them on in small groups."/>
+    <string id="lfkwsa5f" text="Track"/>
+    <string id="LGuJctoZ" text="Attack to trainer ({HIT} / {ALL})"/>
+    <string id="lJiEsNiQ" text="A few hours after you leave the training ground, you come across a wounded man lying under a tree. You share your water with him and try to dress his wounds as best as you can. He tells you he is a traveling doctor. To thank you for your help, he hands you a small bronze artifact which he says was once given to him in payment by a warrior who said only that it was related to 'Neretzes' Folly.' He suspects it might be of great value. You resolve to find out more."/>
+    <string id="lN1RQ260" text="Shoot targets ({HIT} / {ALL})"/>
+    <string id="lRPvkRJy" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to follow by opening the order menu with {HOLD_OPEN_ORDER_KEY} and movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Follow Me&quot; with {SECOND_ORDER_CATEGORY_KEY}."/>
+    <string id="LS1whiyj" text="The menu on the top right shows the important people in your current location.{newline}{newline}Click on the headman's portrait to talk to him."/>
+    <string id="m2uEbrkh" text="Najun"/>
+    <string id="MCeCa7SE" text="Troop pages allow you to see the skills and equipment sets of the selected troop. Try investigating upgrade trees to plan your army composition ahead of time."/>
+    <string id="mfugkRoz" text="Hideouts &amp; Orders"/>
+    <string id="MgBazeaE" text="Alte"/>
+    <string id="MmFO0Erq" text="You can hold {MISSION_INDICATORS_KEY} to see the location of the Headman.{newline}{newline}Once you are near him, press {INTERACTION_KEY} to speak with him."/>
+    <string id="mo30kGdz" text="Assign Roles"/>
+    <string id="MqeQco4z" text="Mounted Spear Training"/>
+    <string id="mvYbXi4O" text="You can tell your men to charge by opening the order menu with {HOLD_OPEN_ORDER_KEY} and movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Charge&quot; with {THIRD_ORDER_CATEGORY_KEY}."/>
+    <string id="mWMkslbn" text="He led us here. Where are my brothers and my sister?"/>
+    <string id="N8YVPdBw" text="You gain a level every time your total skill points total reaches a target value. Leveling up grants focus points to spend.{newline}{newline}If you have free focus points you will see it by a small indicator over the character screen button. Press {CONSOLE_ACTION_KEY} while the cursor is on the character button to review different skills and choose one to increase focus."/>
+    <string id="NED1z7Pe" text="To leave a mission, you can hold down {LEAVE_MISSION_KEY}.{newline}{newline}This will return you to the settlement menu where you can purchase supplies and hire recruits."/>
+    <string id="NWxC3CbS" text="Fodor"/>
+    <string id="o5ho2Txg" text="Army Cohesion"/>
+    <string id="OA9bQ8QJ" text="Alea"/>
+    <string id="odbkXZkz" text="Moving your party is done by clicking on the map. This will leave a mark on the target location - unless you have clicked on inaccessible areas such as mountains or sea.{newline}{newline}Let's set off to {TUTORIAL_SETTLEMENT_NAME}!"/>
+    <string id="oj7B1GOT" text="Entering Settlements"/>
+    <string id="OJmYUcaU" text="Two Handed Sword Training"/>
+    <string id="oKl1p2er" text="You can call other lords to your banner. Press {CONSOLE_ACTION_KEY} while the cursor is on the highlighted army icon on the lower right to do so."/>
+    <string id="okM9QUFA" text="Javelin Training"/>
+    <string id="oq3SvXCm" text="Some of your troops now have enough experience for an upgrade.{newline}{newline}To review and upgrade your troops press {CONSOLE_ACTION_KEY} while the cursor is on the highlighted party screen button."/>
+    <string id="p3Kia1OO" text="I'll take them to the nearest fortress immediately. They will be safe there."/>
+    <string id="P7KbSBvr" text="Mounted Training"/>
+    <string id="pAf5Mt3X" text="Alishka"/>
+    <string id="Ph2nk4Ms" text="At the beginning of a battle your soldiers will be holding their position. You can tell them to charge by opening the movement orders with {FIRST_ORDER_CATEGORY_KEY} and choosing &quot;Follow Me&quot; with {SECOND_ORDER_CATEGORY_KEY}."/>
+    <string id="pKtXgb6b" text="You can choose an available perk by pressing {CONSOLE_ACTION_KEY} while the cursor is on its button."/>
+    <string id="pow4wUAM" text="Raiding villages will weaken the economy of the owner's faction by disrupting the flow of supplies between the village and its bound settlement. Also, the raiding party will get some resources from raiding."/>
+    <string id="q3mOBLFn" text="Choosing Skill Focus"/>
+    <string id="q65JaEBW" text="Alya"/>
+    <string id="q71nXdD4" text="Go to trainer"/>
+    <string id="QewGND2m" text="Sieges"/>
+    <string id="QHhdmvLj" text="Combat Training"/>
+    <string id="qjMhakoM" text="Notice how your army cohesion has dropped to a low point, and it is more likely that your army will disperse.{newline}You can press {CONSOLE_ACTION_KEY} while the cursor is on the army management button to boost your cohesion."/>
+    <string id="qNrWU4Or" text="Melee Training"/>
+    <string id="QVChn4mG" text="Food items are also trade goods. You can find trade goods easily with the &quot;Miscellaneous&quot; filter."/>
+    <string id="rLEIuqZO" text="After a hard-fought battle, you may have the choice to take some prisoners or recruit those that you have freed from your enemy.{newline}{newline}Both options are done by transferring the troops to your party with the little arrow button on the left."/>
+    <string id="rVaufuNb" text="You have opened a page where your character has very little information. Arriving at settlements and meeting people of interest related to this page will reveal more and up to date information."/>
+    <string id="Rvn8tGB0" text="Your brother has asked you to hire at least 4 men before you set out to face the raiders.{newline}{newline}You can hire troops from villages and towns by clicking on the &quot;Recruit Troops&quot; button."/>
+    <string id="SbLp73Z3" text="You can assign roles to your clan members in your party. They'll give bonuses according to their skills and perks.{newline}{newline}You can start the assignment process through the higlighted area."/>
+    <string id="SJ5Yp3eI" text="Troop upgrades will cost you denars and troop experience. Some troops may have two possible upgrade paths and may require items such as horses."/>
+    <string id="suKqm5BB" text="You are less visible in dark areas."/>
+    <string id="sYkqpuFx" text="Bannerlord has many different elements that affect the world of Calradia. You can always use filters to learn more about the game concepts."/>
+    <string id="tIhdFeTC" text="Crouching"/>
+    <string id="TJbQO2Lm" text="See, my boys have some pretty specific instructions about what to do if there's a rescue attempt..."/>
+    <string id="TVqGNr8b" text="Keeping up with Clans of Caldraia allows you to follow up on allies and foes alike. You can check their members, fiefs, and power levels upon reveal."/>
+    <string id="tZtrK3cs" text="Horse Archery Training"/>
+    <string id="TZZaO7iI" text="When your skill points reach a required threshold, one or more perks will become available.{newline}{newline}This will be notified by a small indicator over the character screen button.{newline}{newline}Press {CONSOLE_ACTION_KEY} while the cursor is on the character button to view available perk choices."/>
+    <string id="Ufu46ImM" text="Press {WALK_MODE_KEY} to move slowly and reduce noise, making enemies less suspicious."/>
+    <string id="Uge82Njb" text="Have you decided what to do?"/>
+    <string id="uW4htMut" text="Sword and Shield Training"/>
+    <string id="uWEUYE1m" text="You can choose an available perk by clicking on its button."/>
+    <string id="v3Ibi438" text="Press {CONSOLE_ACTION_KEY} while the cursor is on the &quot;Visit&quot; button to start conversation."/>
+    <string id="vdEoBkpr" text="You must maintain food supplies at all times. If you run out of food, your party will lose morale. Your troops may desert you because of low morale.{newline}{newline}You can see your food reserve on the info bar. Hover over it to see how much food your party consumes each day. Since your party needs food, go to marketplace now to purchase some."/>
+    <string id="VMcd4nma" text="The Encyclopedia has information on all the towns, castles, and villages of Calradia. Once visited or revealed, you can track up-to-date information from the encyclopedia."/>
+    <string id="VRLsCOQa" text="Kingdom Decision"/>
+    <string id="VvpPbvpm" text="You can call other lords to your banner. Click on the highlighted army icon on the lower right to do so."/>
+    <string id="VzE9aVBh" text="You can see portraits of Important NPCs on the top bar.{newline}{newline}Click on the portrait and choose visit from the menu."/>
+    <string id="w4Ajm40u" text="Faroc"/>
+    <string id="w7IddF5x" text="Walk Slow"/>
+    <string id="wbdzBBPp" text="Return to the notable and learn more about the task ahead by pressing {CONSOLE_ACTION_KEY} while the cursor is on the &quot;Visit&quot; button."/>
+    <string id="wgK6QxXm" text="This is your crime rating with the faction that owns the settlement. You gain a rating by robbing or attacking a kingdom's subjects. Players with a rating of 30 or higher in a neutral kingdom will be barred from its settlements, while an independent player with a crime rating of 60 or higher will be attacked on sight. Crime rating will decay over time.{newline}{newline}You can get more details on crime rating from the encyclopedia."/>
+    <string id="wq9sNkMc" text="Leaving a Mission"/>
+    <string id="WTF4ZIe7" text="Jatu"/>
+    <string id="wZPdOclh" text="Encyclopedia Settlements"/>
+    <string id="X1TJNkBV" text="We found your little brother and sister. But my former partner {HIDEOUT_BOSS.LINK} betrayed me. We came into his camp to negotiate the kids' release, and he seized us right then and there.[if:convo_angry_voice]"/>
+    <string id="x4xx1Zd6" text="Battle Commands"/>
+    <string id="xachJ1hb" text="Yes, we are all fine. The little ones are scared but fine... We need to be quick and get the hell out of this place.[if:convo_calm_friendly][ib:confident]"/>
+    <string id="xCHBC7S9" text="Click on the &quot;Visit&quot; button to return to the notable and learn more about the task ahead."/>
+    <string id="xDyzNFic" text="Encyclopedia Concepts"/>
+    <string id="xFWG6uZ8" text="Sieges are an integral part of warfare in Calradia, as they are the main way to conquer towns and castles."/>
+    <string id="xORASoex" text="You can click on &quot;+&quot; button to add 10 cohesion. Be aware that boosting it costs some influence."/>
+    <string id="Xr50xGhr" text=" ({TIME_SCORE} seconds)"/>
+    <string id="yF9agd1M" text="Fog of War"/>
+    <string id="yhTaDeLf" text="You can create new formations to divide your troops into smaller groups to have finer control. You can also determine what percentage of the selected troop type should start the battle in these formations by manipulating the sliders inside the formation cards.{newline}{newline}Try creating a new formation by selecting its type and adjust a formation's troop weight."/>
+    <string id="yrlPHYpa" text="Choosing Perk Upgrades"/>
+    <string id="Z7zWkAV8" text="You can ransom your prisoners off to the ransom broker.{newline}{newline}You can find him in the tavern area."/>
+    <string id="z9eC5hjv" text="Spear and Shield Training"/>
+    <string id="ZdliFbrB" text="Tall Grass"/>
+    <string id="zF0xUaXd" text="Investigate kingdoms to keep up with the fiefs, clans, and wars of the kingdoms of the Calradia."/>
+    <string id="ZKTLAXo8" text="I have a better idea. We would have a better chance if we split up now. I'll take {RADAGOS.NAME} and go find the slaver market and look for a way to free the children.[if:convo_normal]"/>
+    <string id="zN9iNaIW" text="Raiding Village"/>
+    <string id="ZozwfwVl" text="Defend yourself ({HIT} / {ALL})"/>
+    <string id="ZpcV9MZE" text="You saved your brothers and sister, and you decided to execute {RADAGOS.LINK} because he caused the death of your parents."/>
+    <string id="ZW9OGfEt" text="Rescuing &amp; Taking Prisoners"/>
   </strings>
 </base>
