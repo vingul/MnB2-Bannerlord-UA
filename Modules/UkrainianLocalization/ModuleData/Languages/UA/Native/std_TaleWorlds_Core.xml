@@ -1,28 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
+    <string id="2GE0in0u" text="Requires Bow."/>
     <string id="2K0iVRkW" text="Здатність організувати загін і керувати логістикою. Це допоможе вам керувати маєтком або містом, а також може збільшити розмір загону, який ви очолюєте або в якому ви служите інтендантом."/>
-    <string id="2wclahIJ" text="{.n}Метання{.R_n2n}"/>
+    <string id="6Tw6BLXI" text="Requires Shield."/>
     <string id="81YLbLok" text="Досвід темної сторони людського життя. Ви можете розпізнати, коли охоронець хоче хабар, ви знаєте, як залякати когось, і маєте гарне уявлення про те, коли ви можете бути покараним, а коли - ні."/>
     <string id="97EmbcHQ" text="Здатність надихати. Ви можете наповнювати людей упевненістю і викликати ентузіазм і сміливість у великих загонах."/>
     <string id="Aj3zqQq4" text="Недоступно"/>
+    <string id="B9Gp7pIf" text="Can't be used with Bows."/>
+    <string id="bJMUTZ00" text="Can't be used with Shields."/>
     <string id="Bn7IsMpu" text="ІНТ"/>
     <string id="bVD9j0wI" text="Фізична підготовка, швидкість і баланс."/>
     <string id="controlskill" text="{.m}Контроль{.R_n20_u}"/>
     <string id="d2ApwXJr" text="ВИТ"/>
     <string id="EGeY1gfs" text="{.f}Харизма{.R_n10}"/>
+    <string id="EhK4Q6S4" text="Can't be used with Two Handed weapons."/>
     <string id="engineeringskill" text="{.f}Інженерія{.R_n10}"/>
-    <string id="eob9goyW" text=" and "/>
     <string id="eoLbkhsY" text="Майстерність ведення бою дворучною зброєю середньої довжини, такою як великі сокири та мечі."/>
+    <string id="F59nAr9s" text="Can't be used without a weapon."/>
     <string id="Ffwgecvr" text="{PLUS_OR_MINUS}{BONUSEFFECT}"/>
     <string id="FLf5J3su" text="Вміння поводитися з луком і достатня підготовка для влучної стрільби."/>
     <string id="FQOFDrAu" text="Ваша здатність оцінювати боєздатність військ. Це дозволяє вам с більшою ймовірністю передбачити, чи спрацює нестандартна тактика бою."/>
-    <string id="Gu0Wxxul" text="Штраф до точності воїнів дальнього бою вашого підрозділу: {BONUS_AMOUNT}%."/>
+    <string id="GHQMM8Df" text="Can't be used while mounted."/>
     <string id="H9Zamrao" text="Здатність контролювати коня, тримати рівновагу, коли він рухається раптово або несподівано, а також загальні знання про коней, в тому числі догляд за ними та розведення."/>
-    <string id="haax8kMa" text="{.f}Держаковий{.R_adj} {.f}зброя{.R_n10}"/>
     <string id="haV3nLYA" text="Вміння стріляти з арбалетів і обслуговувати їх."/>
     <string id="hbaMnpVR" text="Знання того, як потрібно проєктувати конструкції, які зможуть витримати великі навантаження без руйнування. Корисно як для будівництва фортець, так і обладнання для їх облоги."/>
     <string id="HsLfmEmb" text="{.n}Лідерство{.R_n2n}"/>
@@ -34,6 +37,7 @@
     <string id="JZM1mQvb" text="{.f}Хитрість{.R_n30}"/>
     <string id="K8rCOQUZ" text="Витривалість - це здатність тривалий час виконувати виснажливі дії."/>
     <string id="kfdxjIad" text=", "/>
+    <string id="kkzKtP78" text="Can't be used with Crossbows."/>
     <string id="kmBxaJZd" text="Знання того, як досліджувати дику місцевість на наявність життя. Ви можете йти по слідах, помічати рух у підліску, помічати ворога на іншому кінці долини за спалахом світла на вістрях списів або хмарі пилу."/>
     <string id="kvOavzcs" text="{.f}Витривалість{.R_n30}"/>
     <string id="LJ6Krlbr" text="{.f}Розвідка{.R_n10}"/>
@@ -42,6 +46,7 @@
     <string id="NwTpATW5" text="Уміння влучно і сильно метати зброю."/>
     <string id="p9i3zRm9" text="{.f}Верховий{.R_adj} {.f}їзда{.R_n10}"/>
     <string id="PHoxdReD" text="СОЦ"/>
+    <string id="PkFT0D9a" text="Decreased Charge Damage"/>
     <string id="skZS2UlW" text="{.f}Атлетика{.R_n10}"/>
     <string id="smithingskill" text="{.n}Ковальство{.R_n2n}"/>
     <string id="socialskill" text="{.f}Соціальність{.R_n30}"/>
@@ -56,6 +61,7 @@
     <string id="VajIVjkc" text="Здатність увійти в довіру до людини. Ви добре розбираєтеся в тому, що мотивує людей, і знаєте, якими аргументами схилити їх на свій бік."/>
     <string id="Ve8xoa3i" text="СИЛ"/>
     <string id="vx0OCvaj" text="Контроль - це здатність використовувати силу, не жертвуючи при цьому точністю. Необхідний для використання зброї дальнього бою."/>
+    <string id="wJbkXP98" text="Can't be used with One Handed weapons."/>
     <string id="XMDTt96y" text="Соціальність - це здатність розуміти мотиви людей та впливати на них."/>
     <string id="xWbkjccP" text="Знання про те, як кувати метал, підганяти руків'я до леза, виточити жердину, виготовити кольчугу та інші навички, корисні при виготовленні зброї та обладунків"/>
     <string id="yEkSSqIm" text="Майстерність володіння одноручною зброєю, зі щитом або без."/>
