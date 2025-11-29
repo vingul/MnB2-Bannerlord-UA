@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
-    <string id="05w8Tl7n" text="Steppe"/>
     <string id="0RRNliSj" text="Aserai Heat"/>
     <string id="2vhjwPaN" text="Countryside"/>
     <string id="4MiTBGqa" text="The Day Of The Nord"/>
