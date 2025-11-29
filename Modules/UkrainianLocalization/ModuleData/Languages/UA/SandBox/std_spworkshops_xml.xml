@@ -12,7 +12,6 @@
     <string id="cawbOcb1" text="Ми обробляємо сирі шкури вапном та іншими хімічними речовинами і перетворюємо їх на еластичну шкіру."/>
     <string id="cxrsASao" text="Рідкісна срібна руда перетворюється на ювелірні вироби, найвишуканіший товар з усіх предметів торгівлі."/>
     <string id="EBCKXbTa" text="{.n}Виробництво{.R_n2n_p1} оксамитових тканин"/>
-    <string id="Ej2aaOhh" text="We spin sheep's wool into yarn, then weave the yarn on looms into cloth. It's the most common type of fabric here, especially in the cooler regions."/>
     <string id="eS6nGak1" text="Wool Weaver"/>
     <string id="GsaLzLfl" text="Brewery"/>
     <string id="hn82dw2C" text="We malt, mash and ferment grain to brew beer, the most popular beverage for the common people, especially in the northern lands."/>
@@ -26,17 +25,18 @@
     <string id="pVjxlT1f" text="Brewer"/>
     <string id="qF9UGd2S" text="We crush olives and then drain the oil to be used for cooking, to light lamps, for soap, and for many other purposes."/>
     <string id="RLz2b53X" text="Clothier"/>
-    <string id="silversmithworker" text="{.m}Срібляр{.R_n24_a}"/>
-    <string id="silversmithworkshop" text="Silversmith"/>
+    <string id="silversmithworker" text="Silversmith"/>
+    <string id="silversmithworkshop" text="{.m}Срібляр{.R_n24_a}"/>
     <string id="Tj7ErPfn" text="Pottery Shop"/>
     <string id="tK4IiP3J" text="Linen Weavery"/>
     <string id="UiSes6XY" text="Wood Workshop"/>
     <string id="uy2mSmw3" text="Wine Press"/>
     <string id="vDwDPFua" text="We subject flax stalks to a lengthy process to separate the fibers, then weave them into linen. The fabric is lighter than wool and popular in summers and in hotter regions."/>
     <string id="VHLUHBaT" text="Artisans"/>
+    <string id="w94Fl25I" text="We take wool from sheep and first clean and card it. Then, we wet and press the wool fibers together, creating a thick, warm felt. It keeps out the cold and wet."/>
     <string id="wCuAxt4m" text="{.m}Олійник{.R_n20_a}"/>
     <string id="wLTQpbIM" text="{.m}Гончар{.R_n24_a}"/>
-    <string id="xTeJPsMH" text="We saw planks and turn polls, then fashion them into weapons, shields and tools."/>
+    <string id="wUwYYcjM" text="Well, we take hardwood logs and split them into rough boards. Then, we smooth and shape them with planes and saws to make sturdy planks. Folk use them for all kinds of building, or to make ships."/>
     <string id="yI0RHP6R" text="Ми ліпимо горщики з глини, а потім випікаємо їх у печі. У горщиках люди зберігають майже все, і вони завжди користуються великим попитом."/>
   </strings>
 </base>
