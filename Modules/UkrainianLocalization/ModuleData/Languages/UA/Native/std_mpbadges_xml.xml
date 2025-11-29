@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="English"/>
+    <tag language="Українська"/>
   </tags>
   <strings>
     <string id="0gi1kEIR" text="25 Captain Wins"/>
@@ -126,7 +126,6 @@
     <string id="gWfIlSn5" text="6K Captain Wins"/>
     <string id="H1ayK1dU" text="50 Captain Kills"/>
     <string id="H4Zlsiu1" text="Beta 250 Wins"/>
-    <string id="H7Zorkna" text="Can use Admin Panel on official servers."/>
     <string id="HDuvb5gA" text="5 Captain Wins"/>
     <string id="hfv9Irc4" text="Get 750 wins in Captain games."/>
     <string id="hiby7k7b" text="500 Skirmish Wins"/>
@@ -189,7 +188,6 @@
     <string id="oI8cKePA" text="Get 1 kill in Skirmish games."/>
     <string id="oJHTNWlw" text="Get 8000 wins in Captain games."/>
     <string id="OUfaVmEN" text="200 Hours"/>
-    <string id="OUSbYfU4" text="Official Server Admin"/>
     <string id="oxLBMh0W" text="Skirmish Kills"/>
     <string id="oZSZ3cJc" text="Get 300000 kills in Captain games."/>
     <string id="pYaOSh9v" text="Get 6000 wins in Captain games."/>
