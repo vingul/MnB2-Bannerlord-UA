@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська"/>
+    <tag language="English"/>
   </tags>
   <strings>
     <string id="25pNV9E3" text="Центр села"/>
@@ -9,10 +9,8 @@
     <string id="centertowncomplex" text="Центр"/>
     <string id="DO7Vk4iw" text="Таверна"/>
     <string id="e7i3UP8q" text="Дім"/>
-    <string id="mMU3H6HZ" text="Арена"/>
     <string id="O7lU6qaU" text="Внутрішній двір замку"/>
     <string id="QTKck7Uj" text="Зала лорда"/>
-    <string id="x04UGQDn" text="Підземелля"/>
     <string id="XkrL8Wok" text="Провулок"/>
   </strings>
 </base>
