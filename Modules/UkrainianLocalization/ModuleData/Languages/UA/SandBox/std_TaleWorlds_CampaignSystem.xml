@@ -342,7 +342,7 @@
     <string id="3j8pV58L" text="{ISSUE_GIVER.NAME} offers you a deal to fix {TOURNAMENT_COUNT} tournaments and share the profit from the bet winnings."/>
     <string id="3JfCwL31" text="You will have to fight us first![rf:idle_angry][ib:aggressive]"/>
     <string id="3JOd0l1N" text="{.CS}{FIRSTNAME}{.CE} {?FEMALE}{.f}Павучиха{.R_n10_ko}{?}{.m}Павук{.R_n20_a_ke}{\?}"/>
-    <string id="3K7NyOSr" text="{AMOUNT} of your {?AMOUNT &gt; 1}troops{?}troop{\?} gets wounded"/>
+    <string id="3K7NyOSr" text="{AMOUNT} {?AMOUNT &gt; 1}ваших воїнів будуть пораненими{?}ваш воїн буде пораненим{\?}"/>
     <string id="3K85XqUs" text="{CHANCE}% chance of {?AMOUNT &gt; 0}gaining{?}losing{\?} {ABS(AMOUNT)} influence"/>
     <string id="3KpgHPlo" text="The laws of {ISSUE_GIVER_SETTLEMENT} dictate that artisans sell their goods at a fixed rate to the merchants in town. And now they complain the price set by the merchants is not fair."/>
     <string id="3L8xN9uC" text="I believe it hasn't been long since we've last bartered."/>
@@ -3328,7 +3328,7 @@
     <string id="lbHswWdb" text="Hunting is all about being aware of your surroundings and tracking your prey. You felt that the same skills would serve a lord well in journeys across the wild."/>
     <string id="lbrOAvKj" text="Дальність виявлення +{a0}%"/>
     <string id="Lbs2bNlg" text="{KINGDOM} почне {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
-    <string id="lbS9uHyp" text="{AMOUNT}% of your {?AMOUNT &gt; 1}troops{?}troop{\?} gets wounded and each unit has {DEATH_CHANCE}% chance of dying"/>
+    <string id="lbS9uHyp" text="{AMOUNT}% ваших воїнів будуть пораненими й кожен з них має {DEATH_CHANCE}% шанс загинути"/>
     <string id="lbSsRg8w" text="Your men will resent any curbs on their celebrations, even for their own health. Warn them but take no other precautions."/>
     <string id="LbTETjZu" text="I want you to crush them. Go to {VILLAGE} and give them a lesson they won't forget.[ib:closed2][if:convo_grave]"/>
     <string id="LC2F84GR" text="None of the target settlements are in control of the enemy. Army Commander has canceled the mission."/>
@@ -3697,7 +3697,7 @@
     <string id="n5aT1Y7s" text="Майстер планування"/>
     <string id="n5BGNLrc" text="That sounds good. But I can't afford any more men right now."/>
     <string id="N5jFSdGR" text="{VALUE}% штрафу за перевантаження."/>
-    <string id="n5lPsPKq" text="{AMOUNT} of your troops {?AMOUNT &gt; 1}get{?}gets{\?} wounded and each unit has {DEATH_CHANCE}% chance of dying"/>
+    <string id="n5lPsPKq" text="{AMOUNT} {?AMOUNT &gt; 1}ваших воїнів будуть пораненими й кожен з них має {DEATH_CHANCE}% шанс загинути{?}ваш воїн буде пораненим й з імовірністю {DEATH_CHANCE}% загине{\?}"/>
     <string id="N62qjb8s" text="в якості {?CHILD.GENDER}помічниці{?}помічника{\?} торговця."/>
     <string id="N6DvC4hN" text="{FIRSTNAME} of the Mirror"/>
     <string id="n6gqNNJ0" text="Tell your men to help themselves."/>
@@ -4339,7 +4339,7 @@
     <string id="qmwv27To" text="{.CS}{FIRSTNAME}{.CE} {.f}Миша{.R_n10_ko2}"/>
     <string id="qN3x2usk" text="Vote on whether to call the {CALLED_KINGDOM} to war against the {KINGDOM_TO_CALL_TO_WAR_AGAINST} for {CALL_TO_WAR_COST}{GOLD_ICON}."/>
     <string id="QNaKmkt9" text="We're paid to guard this caravan. If you want to rob it, it's going to be over our dead bodies![rf: idle_angry][ib: aggressive]"/>
-    <string id="Qnb8wrL0" text="Treat your men but trust in strict preventative measures, like digging latrines outside camp and forcing your men to go far afield for water, that they are likely to resent."/>
+    <string id="Qnb8wrL0" text="Лікувати своїх людей, але запровадити суворі профілактичні заходи, такі як риття вигрібних ям за межами табору і примушувати своїх людей ходити за водою далеко, що, ймовірно, викличе у них обурення."/>
     <string id="qNgGoqmI" text="Спробувати втекти."/>
     <string id="qnqdEJOv" text="Ви спостерігали, як міська варта вправлялась в стрільбі та вдосконалювала свої навички оборони стін на випадок облоги."/>
     <string id="qNSOb7pJ" text="Once again, this is not something I'm happy with..."/>
@@ -5180,7 +5180,7 @@
     <string id="V8bxlnSl" text="Is there a way to form a trade convoy that includes better troops?"/>
     <string id="v8RwzwqD" text="Проколювач"/>
     <string id="V97vqbIb" text="{VALUE}% досвіду воїнам вашого загону після битви."/>
-    <string id="v9Ad4uGn" text="{AMOUNT}% of your {?AMOUNT &gt; 1}troops{?}troop{\?} gets wounded"/>
+    <string id="v9Ad4uGn" text="{AMOUNT}% ваших воїнів будуть пораненими"/>
     <string id="v9NohO6l" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} здоров'я іншим героям вашого загону."/>
     <string id="v9tQv4eN" text="I would like to propose an alliance between our families through marriage."/>
     <string id="va7rEVZn" text="{ISSUE_OWNER.NAME}, a landowner in {ISSUE_SETTLEMENT}, needs some of his watchmen and retainers to gain some real war experience. {?ISSUE_OWNER.GENDER}She{?}He{\?} wants you to take them with you on some fairly safe expeditions, such as hunting some bandits. "/>
@@ -5998,7 +5998,7 @@
     <string id="ZCWziaI4" text="Ignore the outbreak and continue marching"/>
     <string id="Zd3jBBun" text="Preemptive Work"/>
     <string id="zd9sawl9" text="You are already allied with the {KINGDOM_NAME}."/>
-    <string id="zdPb0vtU" text="Treat the sick and make no additional demands on your men, trusting in luck to see you through this."/>
+    <string id="zdPb0vtU" text="Лікувати хворих і не вимагати від своїх людей нічого додаткового, покладаючись на удачу, яка допоможе вам пройти через це."/>
     <string id="zDqwzpYf" text="Breach {AMOUNT} siege {?AMOUNT &gt; 1}walls{?}wall{\?}"/>
     <string id="zE3sKAb2" text="{.CS}{FIRSTNAME}{.CE} {.m}Токар{.R_n24_a_ku}"/>
     <string id="ZEj4Xrbo" text="You cannot sally out from port during an ongoing assault."/>
