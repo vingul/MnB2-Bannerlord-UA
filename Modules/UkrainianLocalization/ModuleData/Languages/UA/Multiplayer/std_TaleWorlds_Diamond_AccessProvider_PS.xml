@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Українська"/>
+  </tags>
+  <strings>
+    <string id="8BV4hDK6" text="System software update is required."/>
+    <string id="g56TVkLF" text="You are not allowed to play Multiplayer. Please check your content restriction settings."/>
+    <string id="i0QuqXWk" text="Користувач не знайдений."/>
+    <string id="kS9dxNIk" text="Сервіс платформи не працює."/>
+    <string id="oe39dfge" text="Проблема з'єднання."/>
+    <string id="PQbtrqBl" text="Потрібно оновити гру."/>
+    <string id="rYbxXReN" text="Користувач вийшов з системи."/>
+    <string id="Udt1Ua7r" text="Не вдалося перевірити наявність оновлень гри."/>
+  </strings>
+</base>
