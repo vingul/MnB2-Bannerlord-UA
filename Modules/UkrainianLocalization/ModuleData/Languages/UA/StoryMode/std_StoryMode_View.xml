@@ -4,8 +4,8 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="75nwCTEn" text="Clan Screen is disabled during Tutorial."/>
-    <string id="sf_menu_storymode_new_game" text="New Campaign"/>
-    <string id="WFNLizqL" text="You've supported a kingdom through main story line. Leaving this kingdom will fail your quest.{newline}{newline}Are you sure?"/>
+    <string id="75nwCTEn" text="Вікно Клану недоступне на час навчання."/>
+    <string id="sf_menu_storymode_new_game" text="Нова кампанія"/>
+    <string id="WFNLizqL" text="Ви підтримували королівство протягом основної сюжетної лінії. Покинувши це королівство, ви провалите своє завдання.{newline}{newline}Ви впевнені?"/>
   </strings>
 </base>
