@@ -1,11 +1,15 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData id="Українська" name="Українська" subtitle_extension="ua" supported_iso="ua,ukr,ua-ua" text_processor="CustomTextProcessor.UkrainianTextProcessor, CustomTextProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" under_development="false">
-  <LanguageFile xml_path="UA/Multiplayer/std_common_strings_xml.xml" />
-  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_DedicatedCustomServer_ClientHelper.xml" />
-  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Diamond.xml" />
-  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Diamond_Server.xml" />
-  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer.xml" />
-  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer_GauntletUI.xml" />
-  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer_GDK.xml" />
-  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer_ViewModelCollection.xml" />
+  <LanguageFile xml_path="UA/Multiplayer/std_common_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_Diamond_AccessProvider_GDK.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_Diamond_AccessProvider_GOG.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_Diamond_AccessProvider_PS.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_Diamond_AccessProvider_Steam.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_DedicatedCustomServer_ClientHelper.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Diamond.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Diamond_Server.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer_GauntletUI.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer_GDK.xml"/>
+  <LanguageFile xml_path="UA/Multiplayer/std_TaleWorlds_MountAndBlade_Multiplayer_ViewModelCollection.xml"/>
 </LanguageData>
