@@ -1,12 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData id="Українська" name="Українська" subtitle_extension="ua" supported_iso="ua,ukr,ua-ua" text_processor="CustomTextProcessor.UkrainianTextProcessor, CustomTextProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" under_development="false">
-  <LanguageFile xml_path="UA/StoryMode/std_module_strings_xml.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_StoryMode.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_StoryMode_GauntletUI.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_StoryMode_View.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_StoryMode_ViewModelCollection.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_story_mode_characters_xml.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_story_mode_items_xml.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_story_mode_location_complex_templates_xml.xml" />
-  <LanguageFile xml_path="UA/StoryMode/std_story_mode_settlements_xml.xml" />
+  <LanguageFile xml_path="UA/StoryMode/std_module_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/StoryMode/std_StoryMode.xml"/>
+  <LanguageFile xml_path="UA/StoryMode/std_StoryMode_GauntletUI.xml"/>
+  <LanguageFile xml_path="UA/StoryMode/std_StoryMode_View.xml"/>
+  <LanguageFile xml_path="UA/StoryMode/std_story_mode_characters_xml.xml"/>
+  <LanguageFile xml_path="UA/StoryMode/std_story_mode_items_xml.xml"/>
 </LanguageData>
