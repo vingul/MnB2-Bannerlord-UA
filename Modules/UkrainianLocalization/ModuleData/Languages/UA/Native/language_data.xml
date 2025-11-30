@@ -1,29 +1,25 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData id="Українська" name="Українська" subtitle_extension="ua" supported_iso="ua,ukr,ua-ua" text_processor="CustomTextProcessor.UkrainianTextProcessor, CustomTextProcessor, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" under_development="false">
-  <LanguageFile xml_path="UA/Native/std_common_strings_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_crafting_pieces_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_global_strings_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_item_modifiers_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_module_strings_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_mpbadges_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_mpcharacters_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_mpclassdivisions_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_mpitems_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_multiplayer_strings_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_native_strings_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_photo_mode_strings_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_siegeengines_xml.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Core.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_GDK.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_GOG.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_PS.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Diamond_AccessProvider_Steam.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_GauntletUI.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_View.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_ViewModelCollection.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_PlatformService_Epic.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_PlatformService_GDK.xml" />
-  <LanguageFile xml_path="UA/Native/std_TaleWorlds_PlatformService_PS.xml" />
-  <LanguageFile xml_path="UA/Native/ua_functions.xml" />
+  <LanguageFile xml_path="UA/Native/std_common_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_crafting_pieces_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_global_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_item_modifiers_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_module_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_mpbadges_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_mpcharacters_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_mpclassdivisions_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_mpitems_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_multiplayer_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_native_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_photo_mode_strings_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_siegeengines_xml.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_Core.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_GauntletUI.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_View.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_MountAndBlade_ViewModelCollection.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_PlatformService_Epic.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_PlatformService_GDK.xml"/>
+  <LanguageFile xml_path="UA/Native/std_TaleWorlds_PlatformService_PS.xml"/>
+  <LanguageFile xml_path="UA/Native/ua_functions.xml"/>
 </LanguageData>
