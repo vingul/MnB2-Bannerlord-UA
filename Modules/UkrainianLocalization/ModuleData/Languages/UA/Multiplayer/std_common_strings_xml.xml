@@ -1,13 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
   <tags>
-    <tag language="Українська" />
+    <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="aGGq9lJT" text="Change Culture" />
-    <string id="dismissnotification" text="Dismiss" />
-    <string id="InUAmnX4" text="You are kicked due to friendly damage" />
-    <string id="ivKntfNA" text="Already requested to join, waiting for server response" />
-    <string id="Tauk2JzA" text="Version mismatch, Server Version: {SERVERVERSION} - Your Version: {CLIENTVERSION}." />
+    <string id="aGGq9lJT" text="Not yet, but I will soon."/>
+    <string id="dismissnotification" text="{HERO.NAME} is currently sailing."/>
+    <string id="InUAmnX4" text="Maybe..."/>
+    <string id="ivKntfNA" text="An alley without a leader"/>
+    <string id="kwo09aDm" text="Blocked"/>
+    <string id="TrY4VS1R" text="Завантажити"/>
   </strings>
 </base>
