@@ -4,8 +4,8 @@ files:
     content_segmentation: 0
     translatable_elements:
       - '/base/strings/string[@text]'
-  - source: /Original/DedicatedCustomServerHelper/std_*.xml
-    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/DedicatedCustomServerHelper/%file_name%.%file_extension%
+  - source: /Original/Multiplayer/std_*.xml
+    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/Multiplayer/%file_name%.%file_extension%
     content_segmentation: 0
     translatable_elements:
       - '/base/strings/string[@text]'
@@ -29,3 +29,32 @@ files:
     content_segmentation: 0
     translatable_elements:
       - '/base/strings/string[@text]'
+  - source: /Original/CustomBattle/language_data.xml
+    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/CustomBattle/language_data.xml
+    translatable_elements:
+      - '/LanguageData[@id]'
+  - source: /Original/Multiplayer/language_data.xml
+    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/Multiplayer/language_data.xml
+    content_segmentation: 0
+    translatable_elements:
+      - '/LanguageData[@id]'
+  - source: /Original/Native/language_data.xml
+    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/Native/language_data.xml
+    content_segmentation: 0
+    translatable_elements:
+      - '/LanguageData[@id]'
+  - source: /Original/SandBox/language_data.xml
+    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/SandBox/language_data.xml
+    content_segmentation: 0
+    translatable_elements:
+      - '/LanguageData[@id]'
+  - source: /Original/SandBoxCore/language_data.xml
+    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/SandBoxCore/language_data.xml
+    content_segmentation: 0
+    translatable_elements:
+      - '/LanguageData[@id]'
+  - source: /Original/StoryMode/language_data.xml
+    translation: /Modules/UkrainianLocalization/ModuleData/Languages/%two_letters_code%/StoryMode/language_data.xml
+    content_segmentation: 0
+    translatable_elements:
+      - '/LanguageData[@id]'
