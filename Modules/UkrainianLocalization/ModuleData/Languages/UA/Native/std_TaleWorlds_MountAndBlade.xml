@@ -13,42 +13,42 @@
     <string id="bNYm3K6b" text="{KEY} Pick Up"/>
     <string id="bWi4aMO9" text="Arrow Barrel"/>
     <string id="CaSafuAH" text="Content Download Complete"/>
-    <string id="DRNDtkP2" text="Give preference to troops at higher tiers"/>
+    <string id="DRNDtkP2" text="Надавати перевагу воїнам вищих рівнів"/>
     <string id="DWWa3aIb" text="Give preference to troops with Thrown Weapons"/>
-    <string id="DzAkCzwd" text="High Tier"/>
+    <string id="DzAkCzwd" text="Високий рівень"/>
     <string id="Ea3K1PVR" text="Thrown Weapons"/>
-    <string id="f83FU4X6" text="Polearms"/>
+    <string id="f83FU4X6" text="Держакова зброя"/>
     <string id="F9AQxCax" text="Fork"/>
-    <string id="FNLfNWH3" text="Cavalry and Horse Archer"/>
-    <string id="gAfbULHM" text="Camera"/>
-    <string id="gqQPSAQZ" text="{KEY} Leave Area"/>
-    <string id="ibC4xPoo" text="{KEY} Load Ammo"/>
+    <string id="FNLfNWH3" text="Кавалерія та кінні лучники"/>
+    <string id="gAfbULHM" text="Камера"/>
+    <string id="gqQPSAQZ" text="{KEY} Залишити зону"/>
+    <string id="ibC4xPoo" text="{KEY} Зарядити"/>
     <string id="jfcceEoE" text="{PILE_TYPE} Pile"/>
-    <string id="Jw0GMgzv" text="Heavy Armors"/>
+    <string id="Jw0GMgzv" text="Важкі обладунки"/>
     <string id="K3Cr70PY" text="Give preference to troops with Polearms"/>
     <string id="kbNcm68J" text="{KEY} Lift"/>
     <string id="L91XKoMD" text="{TEAM_LEADER}: {PLAYER_NAME}, {BEHAVIOR}"/>
-    <string id="m9KoYCv5" text="Controls"/>
-    <string id="mBDj5uG5" text="Infantry and Ranged"/>
-    <string id="MdQJxiGz" text="{KEY} Push"/>
+    <string id="m9KoYCv5" text="Керування"/>
+    <string id="mBDj5uG5" text="Піхота та стрілецькі війська"/>
+    <string id="MdQJxiGz" text="{KEY} Штовхати"/>
     <string id="mUIew6a6" text="Climbing Net"/>
-    <string id="MVOPbhNj" text="Give preference to troops with Shields"/>
-    <string id="Na81xuXn" text="{KEY} Rearm"/>
-    <string id="Q1Ga032B" text="Don't give preference to any type of troop."/>
-    <string id="qaPgbwZv" text="Low Tier"/>
+    <string id="MVOPbhNj" text="Передавати перевагу військам зі щитами"/>
+    <string id="Na81xuXn" text="{KEY} Переозброїти"/>
+    <string id="Q1Ga032B" text="Не віддавайте перевагу жодному виду військ."/>
+    <string id="qaPgbwZv" text="Низький рівень"/>
     <string id="rwZAZSvX" text="{KEY} Move"/>
-    <string id="sRTd3RI5" text="Graphics"/>
+    <string id="sRTd3RI5" text="Графіка"/>
     <string id="TJj71hPO" text="{KEY} Close"/>
     <string id="ush8OHIw" text="Give preference to troops with Heavy Armors"/>
-    <string id="uZ6q4Qs2" text="Visuals"/>
+    <string id="uZ6q4Qs2" text="Візуальні ефекти"/>
     <string id="v5EqMSlD" text="Can't change arena preference while in duel."/>
-    <string id="vDMe8SCV" text="Resolution Scaling"/>
-    <string id="w7Yrbi5t" text="Unset"/>
-    <string id="WRMyiiYJ" text="User Interface"/>
-    <string id="wY1qP2qj" text="{KEY} Select"/>
+    <string id="vDMe8SCV" text="Масштабування"/>
+    <string id="w7Yrbi5t" text="Не задано"/>
+    <string id="WRMyiiYJ" text="Інтерфейс користувача"/>
+    <string id="wY1qP2qj" text="{KEY} Обрати"/>
     <string id="XvSRoOzM" text="Recently Played Players"/>
     <string id="ybGIoUvT" text="Ammunition Barrels"/>
-    <string id="ys9baYiQ" text="Campaign"/>
-    <string id="zbpCRmuJ" text="Give preference to troops at lower tiers"/>
+    <string id="ys9baYiQ" text="Кампанія"/>
+    <string id="zbpCRmuJ" text="Надавати перевагу воїнам нижчих рівнів"/>
   </strings>
 </base>
