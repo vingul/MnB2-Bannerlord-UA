@@ -324,7 +324,7 @@
     <string id="W8r7A7qH" text="Half Scaled Barding"/>
     <string id="Wj98Otmo" text="Steppe Charger{@Plural}Steppe Chargers{\@}"/>
     <string id="yy7RvQKN" text="Bo staff"/>
-    <string id="ZgVVPGTb" text="Grapes{@Plural}sacks of grapes{\@}"/>
+    <string id="ZgVVPGTb" text="{.m}Виноград{.R_n20}{@Plural}{.p}Ящик{.R_n20_p} винограду{\@}"/>
     <string id="ZJYVpjuR" text="Camel Saddle with Heavy Load"/>
     <string id="zPbDZ9VA" text="Bedouin Common Saddle"/>
     <string id="18ZFPXsO" text="Huscarl Plated Boots"/>
