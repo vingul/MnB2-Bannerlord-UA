@@ -9,8 +9,8 @@
     <string id="centertowncomplex" text="Центр"/>
     <string id="DO7Vk4iw" text="Таверна"/>
     <string id="e7i3UP8q" text="Дім"/>
-    <string id="O7lU6qaU" text="Castle Courtyard"/>
-    <string id="QTKck7Uj" text="Lords Hall"/>
-    <string id="XkrL8Wok" text="Alley"/>
+    <string id="O7lU6qaU" text="Внутрішній двір замку"/>
+    <string id="QTKck7Uj" text="Зала лорда"/>
+    <string id="XkrL8Wok" text="Провулок"/>
   </strings>
 </base>
