@@ -5,15 +5,15 @@
   </tags>
   <strings>
     <string id="0s52GQJt" text="Рівень сцени"/>
-    <string id="AiNXIt5N" text="Dual Breached"/>
-    <string id="AmfIfeIc" text="Choose Attacker Siege Machines"/>
-    <string id="bKg8Mmwb" text="Player Type"/>
-    <string id="dsMeB3vi" text="Solid"/>
-    <string id="EcKMGoFv" text="Sallyout"/>
-    <string id="Kvxo2jzJ" text="Single Breached"/>
-    <string id="MVOWsP48" text="Select a Melee Machine"/>
+    <string id="AiNXIt5N" text="Пролом у двох місцях"/>
+    <string id="AmfIfeIc" text="Облогові машини атаки:"/>
+    <string id="bKg8Mmwb" text="Тип гравця"/>
+    <string id="dsMeB3vi" text="Без ушкоджень"/>
+    <string id="EcKMGoFv" text="Вилазка"/>
+    <string id="Kvxo2jzJ" text="Пролом"/>
+    <string id="MVOWsP48" text="Машина ближнього бою"/>
     <string id="RZyk1LZy" text="Land Custom Battle"/>
-    <string id="SLZzfNPr" text="Select a Ranged Machine"/>
-    <string id="UoiSWe87" text="Choose Defender Siege Machines"/>
+    <string id="SLZzfNPr" text="Машина дальнього бою"/>
+    <string id="UoiSWe87" text="Облогові машини захисту:"/>
   </strings>
 </base>
