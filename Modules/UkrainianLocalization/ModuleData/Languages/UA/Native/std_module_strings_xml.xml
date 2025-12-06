@@ -151,7 +151,7 @@
     <string id="5lDYh7wJ" text="Після запеклої битви у вас може з'явитися вибір: взяти кількох полонених або завербувати тих, кого ви звільнили з полону ворога.{newline}{newline}Обидва варіанти виконуються шляхом перенесення воїнів на сторону свого загону за допомогою маленької кнопки зі стрілкою зліва."/>
     <string id="5lT70YJY" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року до вас дійшли чутки про укладання таємного пакту між ворогуючими імперськими фракціями про об'єднання своїх сил проти ворогів імперії."/>
     <string id="5pGjYBFn" text="Отримано данини"/>
-    <string id="5QN7SFNW" text="Ви можете призначати ролі членам свого клану у вашому загоні. Вони даватимуть бонуси відповідно до їхніх умінь та здібностей.{newline}{newline}Щоб розпочати процес призначення ролей, натисніть на підсвічену область."/>
+    <string id="5QN7SFNW" text="III"/>
     <string id="5S1zPgTm" text="imperial"/>
     <string id="5SQaiYXi" text="FOUL! No hitting your opponent's horse. You have been disqualified!"/>
     <string id="5T7nyzda" text="I am glad to hear that. Killing is thirsty work for us too."/>
