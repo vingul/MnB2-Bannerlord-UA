@@ -5,10 +5,10 @@
   </tags>
   <strings>
     <string id="aGGq9lJT" text="Змінити походження"/>
-    <string id="dismissnotification" text="{HERO.NAME} is currently sailing."/>
-    <string id="InUAmnX4" text="Maybe..."/>
-    <string id="ivKntfNA" text="An alley without a leader"/>
-    <string id="kwo09aDm" text="Blocked"/>
-    <string id="TrY4VS1R" text="Завантажити"/>
+    <string id="dismissnotification" text="Dismiss"/>
+    <string id="InUAmnX4" text="You are kicked due to friendly damage"/>
+    <string id="ivKntfNA" text="Already requested to join, waiting for server response"/>
+    <string id="kwo09aDm" text="Apply and Start Mission"/>
+    <string id="TrY4VS1R" text="Please select valid values for options."/>
   </strings>
 </base>
