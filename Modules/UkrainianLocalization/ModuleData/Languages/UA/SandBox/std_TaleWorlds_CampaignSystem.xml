@@ -194,7 +194,7 @@
     <string id="1V9GeKr8" text="Fah...I don't need more men. Thank you."/>
     <string id="1vnaskLR" text="It was a pleasure to work with you, chief. Farewell...[if:convo_nonchalant][ib:normal2]"/>
     <string id="1vQul57Y" text="Караван заблукав і саме {CHILD.NAME} {?CHILD.GENDER}помітила{?}помітив{\?} орієнтири, які повернули його на правильний шлях."/>
-    <string id="1vYgkaaK" text="Гідність - це ваша репутація за дотримання взятих на себе зобов'язань, таких як дотримання свого слова і дотримання законів."/>
+    <string id="1vYgkaaK" text="Гідність – це ваша репутація за дотримання взятих на себе зобов'язань, таких як дотримання свого слова і дотримання законів."/>
     <string id="1WxrzNXx" text="He'll be delighted. I'll tell him to join you as soon as possible."/>
     <string id="1X5mtfDn" text="Surrendering bandit parties can be recruited."/>
     <string id="1XuYGQcT" text="{ISSUE_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}her{?}his{\?} local smith needs {REQUESTED_ITEM} to forge more tools. You asked your companion {COMPANION.LINK} to help the local smith and craft {REQUESTED_ITEM_COUNT} {?(REQUESTED_ITEM_COUNT &gt; 1)}{PLURAL(REQUESTED_ITEM)}{?}{REQUESTED_ITEM}{\?} for the village. Your companion will rejoin your party in {RETURN_DAYS} days."/>
@@ -5050,7 +5050,7 @@
     <string id="UGda4FDZ" text="{CHILD.NAME} {?CHILD.GENDER}знайшла{?}знайшов{\?} сезонну роботу у ремісника, тримаючи в таємниці своє високе походження."/>
     <string id="UgfmaQgx" text="Leave {DEFENDER}"/>
     <string id="ugHO6Sa6" text="I need more {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?}, specifically, we need {MOUNT_COUNT} and they need to be {PLURAL(MOUNT_NAME)}, because we know how to use them and how they fit our needs. Bring them to me and a bag of {REWARD}{GOLD_ICON} will be right in your pocket.[if:convo_undecided_closed]"/>
-    <string id="Ugm9nO49" text="Доблесть - це ваша репутація, коли ви ризикуєте життям, задля здобуття слави, багатства чи просування своїх інтересів."/>
+    <string id="Ugm9nO49" text="Доблесть – це ваша репутація, коли ви ризикуєте життям, задля здобуття слави, багатства чи просування своїх інтересів."/>
     <string id="ugMAk9nb" text="Lack of common enemies"/>
     <string id="UgRGBWhn" text="{VALUE} до безпеки на день під час очікування у місті."/>
     <string id="UHCKXapl" text="The metalworkers' guild asked for them. Don't worry, they'll be melted into scrap."/>
