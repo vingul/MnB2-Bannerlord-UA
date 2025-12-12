@@ -4,7 +4,7 @@
     <tag language="Українська"/>
   </tags>
   <strings>
-    <string id="02E0oSJm" text="Distraction"/>
+    <string id="02E0oSJm" text="FOUL! Your opponent was fighting outside the joust. {?OPPONENT_GENDER}He{?}She{\?} has been disqualified!"/>
     <string id="04GuLxE1" text="Ви не можете змінити лідера свого загону або розпустити його"/>
     <string id="07b4Wy0h" text="Choose Cavalry"/>
     <string id="082FNWAD" text="Риси"/>
@@ -71,10 +71,10 @@
     <string id="2noOKM5N" text="Торгові зв'язки з поселенням"/>
     <string id="2qjkY4yu" text="Trade Agreement"/>
     <string id="2RFda5ph" text="{GOLD_AMOUNT}{GOLD_ICON} отримано винагороди."/>
-    <string id="2RIyK1bp" text="Якщо у вас є принаймні 20 воїнів, то ви матимете можливість розробляти стратегію перед кожною битвою. Ви зможете призначати героїв капітанами підрозділів, розподіляти воїнів між підрозділами, вибирати, які види воїнів повинні входити в той чи інший підрозділ і інші можливості.{newline}{newline}Спробуйте призначити себе капітаном підрозділу, перетягнувши свій портрет вгорі в центрі в слот для капітанів одного з підрозділів."/>
+    <string id="2RIyK1bp" text="Weapons"/>
     <string id="2Sal30D2" text="+{BONUS_AMOUNT} до впливу власника"/>
     <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (податок)"/>
-    <string id="2UCptBFi" text="О Господи, ти можеш описати мені їх краще? Мої люди вполювали десятки цих малих виродків у цьому районі. Досить непогані мисливські угіддя, я тобі скажу! Хоча знаєш, більшість з них я вже відправив на ринок рабів на півдні.[ib:hip][if:convo_snide_voice]"/>
+    <string id="2UCptBFi" text="the Sturgians"/>
     <string id="2W2l9Kym" text="Бонус здібності Беззаперечний лідер"/>
     <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} {#GET_PLURAL_VALUE(DAY_VALUE)}день {#}дні {#}днів {\#}{\?}{?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} {#GET_PLURAL_VALUE(HOUR_VALUE)}година{#}години{#}годин{\#}{\?}"/>
     <string id="300TAI7u" text="Продати все"/>
@@ -127,7 +127,7 @@
     <string id="4qaunexe" text="Increase caravan visit rate."/>
     <string id="4QAwbFcQ" text="Лігва поруч"/>
     <string id="4RIMHAHW" text="Your men grab a few nearby lads as unwilling recruits, but some of the others pick up arms. If you persist, there will be a fight."/>
-    <string id="4rRsmX8i" text="{.f}Алея{.R_n10_ko_p1}"/>
+    <string id="4rRsmX8i" text="Good. Sometimes it's better to shear the sheep than eat them."/>
     <string id="4tdVrFtU" text="тридцять {.m}перший{.R_adj}"/>
     <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} and {?}{\?}{TROOP_NAMES_END} are leading battle."/>
     <string id="4WD0kJSR" text="Arrr.. You'd best not be toying with us."/>
@@ -138,17 +138,17 @@
     <string id="59PSpyu8" text="Прилегле поселення: {SETTLEMENT_LINK}"/>
     <string id="5a4cY5az" text="Ви не можете виконати цю дію, перебуваючи в облозі."/>
     <string id="5aElrlUt" text="Платня найманцям"/>
-    <string id="5bqmaciE" text="Ви можете вибрати доступну здібність, натиснувши {CONSOLE_ACTION_KEY}, коли курсор буде на цій кнопці."/>
+    <string id="5bqmaciE" text="{ARMY_MEMBER} to be at army"/>
     <string id="5cGXHF1a" text="Сьогодні"/>
     <string id="5CYdyMzj" text="Залишилось"/>
-    <string id="5DBDy2si" text="{.f}Аля{.R_n10_ko}"/>
+    <string id="5DBDy2si" text="You trapped enemies."/>
     <string id="5eH0lCEO" text="Пропустити поточний урок навчального посібника"/>
     <string id="5H0cDmm1" text="Отримайте ще {SKILL_LEVEL_FOR_LEVEL_UP} {#GET_PLURAL_VALUE(SKILL_LEVEL_FOR_LEVEL_UP)}очко{#}очки{#}очків{\#} умінь, щоб підняти рівень персонажу.&#10;"/>
-    <string id="5IOct2ob" text="Тренувальний бій"/>
-    <string id="5jVYwNCQ" text="Зверніть увагу, що згуртованість вашої армії впала до низького рівня, і є велика ймовірність того, що ваша армія розбіжиться.{newline}Щоб підвищити згуртованість армії, наведіть курсор на кнопку управління армією і натисніть {CONSOLE_ACTION_KEY}."/>
+    <string id="5IOct2ob" text="Order Requirement"/>
+    <string id="5jVYwNCQ" text="Unpaid Wages"/>
     <string id="5k4dxUEJ" text="Воїни"/>
-    <string id="5kS1qjZL" text="Їжею також можна торгувати. Ви легко можете знайти товари для торгівлі за допомогою фільтру &quot;Інше&quot;."/>
-    <string id="5lDYh7wJ" text="Після запеклої битви у вас може з'явитися вибір: взяти кількох полонених або завербувати тих, кого ви звільнили з полону ворога.{newline}{newline}Обидва варіанти виконуються шляхом перенесення воїнів на сторону свого загону за допомогою маленької кнопки зі стрілкою зліва."/>
+    <string id="5kS1qjZL" text="There is already an unresolved decision on this settlement."/>
+    <string id="5lDYh7wJ" text="You've constructed a barrier against your opponent, but have fewer pawns left. You lost the game!"/>
     <string id="5lT70YJY" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року до вас дійшли чутки про укладання таємного пакту між ворогуючими імперськими фракціями про об'єднання своїх сил проти ворогів імперії."/>
     <string id="5pGjYBFn" text="Отримано данини"/>
     <string id="5QN7SFNW" text="III"/>
