@@ -512,7 +512,7 @@
     <string id="5ATpHJag" text="{VALUE}% швидкості підготовки облогового табору."/>
     <string id="5aVPqukr" text="{VALUE}% безпеки, яку забезпечують війська гарнізону підконтрольного поселення."/>
     <string id="5AvvGkk4" text="I'm sure what you did was an honest mistake, but there are laws. Hand over the contraband to me, and this will be the end of it."/>
-    <string id="5BabRyaa" text="Villages grain production is increased by 10%."/>
+    <string id="5BabRyaa" text="Виробництво зерна в селах збільшено на 10%."/>
     <string id="5bBAOHmC" text="{RULER.NAME} з {.S}{KINGDOM}{.v_rod} забирає {.S}{SETTLEMENT}{.v_zna} у свою власність, хоча думки в {?RULER.GENDER}її{?}його{\?} раді розділилися порівну."/>
     <string id="5bbvuAFf" text="What are you offering?"/>
     <string id="5BEGa9ZS" text="Виберіть уміння"/>
@@ -3395,7 +3395,7 @@
     <string id="LlTtwQpZ" text="Vote for signing a trade agreement with {KINGDOM}"/>
     <string id="llVFTH6n" text="Yes. It's a good problem to have, though. As you may know, I deal in {PLURAL(SELECTED_ITEM)}. Our herds have increased this year, and we can no longer make a profit on the local market. I cannot however organize a drive to a new market. So, I propose a very simple deal.[if:convo_innocent_smile][ib:confident]"/>
     <string id="lm37mXGH" text="Let your men return and sack the town while it is still defenseless"/>
-    <string id="Lmjm5Q9D" text="Armies are gathered with 50% less influence."/>
+    <string id="Lmjm5Q9D" text="Для збору армії витрачається на 50% менше впливу."/>
     <string id="lmJYF6pQ" text="Tell me how I can help."/>
     <string id="LmTii9E2" text="It was a pleasure doing business with you. If only everyone was as honest as you.[if:convo_happy][ib:confident3]"/>
     <string id="LN09ZLXZ" text="Взяти участь у турнірі"/>
