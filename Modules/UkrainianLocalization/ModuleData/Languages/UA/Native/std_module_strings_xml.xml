@@ -10,7 +10,7 @@
     <string id="082FNWAD" text="Риси"/>
     <string id="09ooh9I3" text="Pawns travel toward the opponent's home-tile. Upon reaching the last tile, they will move back towards their own home-tile. Enemy pawns can be captured along the way."/>
     <string id="0amC7X1h" text="Оголошення війни"/>
-    <string id="0DiBS84d" text="Милосердний"/>
+    <string id="0DiBS84d" text="{.m}Милосердний{.R_adj_z1}"/>
     <string id="0g7MZCAK" text="Дохід з майстерень"/>
     <string id="0GZ19XHb" text="Harness"/>
     <string id="0hCHIcVk" text="Skirmish on mount"/>
@@ -63,7 +63,7 @@
     <string id="2CgZVkDj" text="{.m}архонт{.R_n20_a_ke_p}"/>
     <string id="2ER5aj0R" text="Sling Stones"/>
     <string id="2EzfAklA" text="You gave {COUNT} {ITEM} to {HERO.NAME}."/>
-    <string id="2gpFPuZZ" text="Жорстокий"/>
+    <string id="2gpFPuZZ" text="{.m}Жорстокий{.R_adj_z1}"/>
     <string id="2Ja8KYVg" text="Offensive"/>
     <string id="2JnLh6F0" text="Deceitful"/>
     <string id="2Jr3zWQz" text="Horses and Horse Harnesses"/>
@@ -311,7 +311,7 @@
     <string id="aGNfjmsz" text="&lt;b&gt;Ladder&lt;/b&gt;"/>
     <string id="aGSMGMfn" text="Милосердя:"/>
     <string id="agYpWI9u" text="Success Chance"/>
-    <string id="aH4KnzBu" text="Обережний"/>
+    <string id="aH4KnzBu" text="{.m}Обережний{.R_adj_z1}"/>
     <string id="AhcKMabs" text="Raided villages"/>
     <string id="aHKwty74" text="Cancel Action"/>
     <string id="aHu7bgbx" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {HERO_NAME} {?HERO_NAME.GENDER}досягла{?}досяг{\?} повноліття."/>
@@ -454,7 +454,7 @@
     <string id="CaeFx54J" text="Influence Gained: + {INFLUENCE} {INFLUENCE_ICON}"/>
     <string id="caFEBWSY" text="Your opponent has bested you. You've lost."/>
     <string id="cAgI2lPn" text="Намісник {SETTLEMENT_NAME}{.v_rod}"/>
-    <string id="calculatinglevel3trait" text="Розсудливий"/>
+    <string id="calculatinglevel3trait" text="{.m}Розсудливий{.R_adj_z1}"/>
     <string id="caPP57v9" text="Move to Reserve"/>
     <string id="CaW72yB3" text="Загальна вартість"/>
     <string id="cBNSgpZN" text="Ви отримаєте &lt;a style=&quot;IncreaseStyle&quot; &gt;&lt;b&gt;{AMOUNT}&lt;/b&gt;&lt;/a&gt; до відносин з {.S}{CLAN_NAME}{.v_oru}"/>
@@ -681,7 +681,7 @@
     <string id="FxoVjLvl" text="Щити і зброя дальнього бою"/>
     <string id="FxPzcyLN" text="{SUPPORTERNAME} is supporting {CANDIDATENAME}"/>
     <string id="FZBqNCvd" text="nobody"/>
-    <string id="g0gDsalr" text="Імпульсивний"/>
+    <string id="g0gDsalr" text="{.m}Імпульсивний{.R_adj_z1}"/>
     <string id="g1KLcfxT" text="Село процвітає. Повні мішки зерна, здорові тварини та навантажені вози свідчать про багаті врожаї."/>
     <string id="G4XXubLg" text="{.f}еміра{.R_n10_ko_p1}"/>
     <string id="G5yvspkZ" text="Can't retreat, duel is ongoing!"/>
@@ -804,7 +804,7 @@
     <string id="I4BbOX46" text="Ви перебуваєте в армії {ARMY_LEADER}{.v_rod}."/>
     <string id="i4g81l3E" text="Відношення: {NUM}"/>
     <string id="i5ROjI8K" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року ви знайшли артефакт, про який згадував Тактеос."/>
-    <string id="I8xMpWxO" text="Сміливий"/>
+    <string id="I8xMpWxO" text="{.m}Сміливий{.R_adj_z1}"/>
     <string id="IbGNaL0H" text="{HERO.LINK}   Level: {LEVEL}"/>
     <string id="IbkODMHV" text="Знаходьте сліди та лігва. Подорожуйте по складній місцевості. (Розвідник)"/>
     <string id="iBtZMoPG" text="{PRISONER_LORD.LINK} of the {PRISONER_FACTION_LINK} has been taken prisoner by the {CAPTOR_FACTION}."/>
@@ -823,7 +823,7 @@
     <string id="ihVHfUFT" text="Formation"/>
     <string id="iIBqTcKx" text="Attacks can knock down opponents"/>
     <string id="iisvVbDI" text="Купити все"/>
-    <string id="IiyN5krb" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE}){newline}{TRAIT_DESCRIPTION}"/>
+    <string id="IiyN5krb" text="{TRAIT_NAME}{.f} ({TRAIT} {TRAIT_VALUE}){newline}{TRAIT_DESCRIPTION}"/>
     <string id="ikgIt1df" text="+{BONUS_AMOUNT_PERCENT}% tax income from bound village hearts per day"/>
     <string id="iKUXVaFf" text="Influence cost: {reg0}"/>
     <string id="iKzyJHiD" text="Sorry, I don't know of any good trading tips at present."/>
@@ -900,7 +900,7 @@
     <string id="JSokBXER" text="Heavy Infantry"/>
     <string id="jSXE0Gbj" text="Селян тут небагато і вони налякані, вони швидко розбігаються, коли бачать вас. Село у вашій повній владі."/>
     <string id="jtN3ayKE" text="Основна продукція"/>
-    <string id="JTyC3Xra" text="Скупий"/>
+    <string id="JTyC3Xra" text="{.m}Скупий{.R_adj_z1}"/>
     <string id="Ju9ZiFT2" text="Melee Weapons V"/>
     <string id="jvexRWHX" text="{PRISONER_LORD.LINK} has been taken prisoner by {CAPTURER_LORD.LINK} of the {CAPTURER_FACTION_LINK}."/>
     <string id="Jw4oiIM4" text="{.S}{.^}{DAY_OF_YEAR}{.v_rod}, {YEAR} року {.S}{KING_NAME}{.v_zna} було проголошено {?IS_KING_MALE}Імператором{?}Імператрицею{\?} Кальрадії."/>
@@ -1020,7 +1020,7 @@
     <string id="lznqF0oO" text="Disbanding"/>
     <string id="M2b5mtAE" text="Companion of"/>
     <string id="m2YKBbdI" text="Hello there, little lost sheep. We are wolves of the mountains, and we would like a moment of your time...[rf:convo_mocking_revenge]"/>
-    <string id="m6A7RLby" text="Підступний"/>
+    <string id="m6A7RLby" text="{.m}Підступний{.R_adj_z1}"/>
     <string id="M6cWtObI" text="The following heroes can craft this weapon:"/>
     <string id="M6tfHhq7" text="Ви проголосували і правитель визначився з рішенням."/>
     <string id="M9p0vPad" text="Я знаю твоє ім'я... {COMMENT_STRING_MAIN}"/>
@@ -1451,7 +1451,7 @@
     <string id="tributeIncome" text="Дохід від данини"/>
     <string id="troopclassname" text="{FORMATION_CLASS}"/>
     <string id="trRLa9pi" text="Ви зіткнулися з {._}{PARTY}{.v_oru}. Битва з ним призведе до війни з {.S}{KINGDOM}{.v_oru}."/>
-    <string id="Tsn6bCft" text="Великодушний"/>
+    <string id="Tsn6bCft" text="{.m}Великодушний{.R_adj_z1}"/>
     <string id="TSw4tD02" text="Really? I suppose I'll be getting my hands dirty today, then.[ib:aggressive][if:convo_bared_teeth]"/>
     <string id="TSWen983" text="Активне завдання"/>
     <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} і {TROOP_NAMES_END} використовують{?}{TROOP_NAMES_END} використовує{\?} облогові машини."/>
@@ -1653,7 +1653,7 @@
     <string id="xwWUDia6" text="Ставка"/>
     <string id="xWydBJyS" text="Rebels in {SETTLEMENT} have risen against their lord, {RULER}."/>
     <string id="Xx9EbSwG" text="Boot"/>
-    <string id="XxLCJb0W" text="Чесний"/>
+    <string id="XxLCJb0W" text="{.m}Чесний{.R_adj_z1}"/>
     <string id="xycMiCIq" text="Останнім часом я не помічаю жодної вигідної угоди."/>
     <string id="XzggyCPW" text="Цей герой зайнятий."/>
     <string id="xZxbFuDI" text="The jackals will feed well tonight, then."/>
