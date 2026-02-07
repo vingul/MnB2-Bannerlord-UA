@@ -1397,7 +1397,7 @@
     <string id="BifGz0h4" text="Patrolling."/>
     <string id="bigS7KHi" text="Чудова форма"/>
     <string id="bioyMrUD" text="You are just a bunch of hunters. You don't stand a chance against us!"/>
-    <string id="biqBLGwa" text="You told the artisan to make sure that {?PLAYER_CHILD}your{?}the{\?} child works hard, and that {?CHILD.GENDER}she{?}he{\?} swings the hammer for hours in the blazing heat of the forge. It tempers the soul, you believe."/>
+    <string id="biqBLGwa" text="Ви сказали ремісникові, щоб він подбав про те, щоб {?PLAYER_CHILD}ваша {?}{\?}дитина старанно працювала і годинами розмахувала молотком у спекотній кузні. Ви вірите, що це загартує {?CHILD.GENDER}її{?}його{\?} душу."/>
     <string id="bIS4kqmf" text="Підкорювач фортець"/>
     <string id="bItEf0WN" text="You need to be the {?PLAYER.GENDER}lady{?}lord{\?} of this settlement."/>
     <string id="bIWDtytH" text="the {ETHNIC_TERM}"/>
