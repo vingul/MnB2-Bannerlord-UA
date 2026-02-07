@@ -165,7 +165,7 @@
     <string id="1NtZ4BJh" text="{QUEST_GIVER.LINK}: Thank you. My lords see the conquest of {TARGET_SETTLEMENT} was a stepping stone toward further victories. {?QUEST_GIVER.GENDER}She{?}He{\?} is grateful for your service. Because you didn't lead the army, {?QUEST_GIVER.GENDER}she{?}he{\?} gave you {LESSER_REWARD}{GOLD_ICON} denars."/>
     <string id="1o8vgwTf" text="{RULER.NAME} of the {KINGDOM} has decided to sign a trade agreement with the {OTHER_KINGDOM} despite the opposition of {?RULER.GENDER}her{?}his{\?} council."/>
     <string id="1OKEl18y" text="This is for {COMPANION.NAME}"/>
-    <string id="1oPRugXl" text="Trick knife throws and swift evasions can entertain a marketplace crowd, but are useful on the battlefield as well. "/>
+    <string id="1oPRugXl" text="Вправні кидки ножами та швидкі ухиляння від ударів можуть розважити натовп на ринку, але також корисні на полі бою. "/>
     <string id="1OQubYTT" text="Пропозиція шлюбу"/>
     <string id="1OU1ZkaZ" text="{SALUTATION_BY_PLAYER}, I wish to be more than a mercenary. Is there a way I could pledge myself as a vassal?"/>
     <string id="1PC4D2fx" text="{VALUE}% шкоди від швидкості при використанні дворучної зброї пішки."/>
@@ -948,7 +948,7 @@
     <string id="9ks4u5cH" text="Сільський знахар відправляв вас у гори на пошуки лікарських рослин. Ви дізналися, які трави загоюють рани або збивають температуру, і як їх знайти."/>
     <string id="9LwYa3Tv" text="Ah, yes. My efforts are currently focused on this campaign, so it's best we discuss your proposal at a later time."/>
     <string id="9lygvooT" text="{.f}Девальвація{.R_n10} валюти"/>
-    <string id="9m5M3Yf9" text="Some nobles may consider it vulgar and common, but the art of acrobatics is demanding and often has very practical applications."/>
+    <string id="9m5M3Yf9" text="Деякі аристократи можуть вважати акробатику вульгарним і примітивним мистецтвом, але насправді це дуже складне уміння і часто має цілком практичне застосування."/>
     <string id="9mBy0qNW" text="Мені треба йти."/>
     <string id="9mGtDERC" text="{CHANCE}% chance of increasing reputation for being {TRAIT}"/>
     <string id="9mHMjIqd" text="Refuse, knowing that separate rituals will breed suspicion among the different cultures in your ranks"/>
@@ -2334,7 +2334,7 @@
     <string id="fwQtClVo" text="I will deal with {?TARGET_HERO.GENDER}her{?}him{\?} right away! "/>
     <string id="FwtFtpwp" text="How?"/>
     <string id="FX0GjiNa" text="{VALUE}% швидкості до військових проєктів у підконтрольному поселенні."/>
-    <string id="fxDr44K4" text="A silvered tongue gets you far. You want {CHILD.NAME} to learn how to ferret out people's motivations, flatter their egos, and convince them that their interests are aligned."/>
+    <string id="fxDr44K4" text="Ви хочете, щоб {CHILD.NAME} {?CHILD.GENDER}навчилася{?}навчився{\?} розпізнавати мотиви людей, загравати з їхнім его і переконувати їх в тому, що ваші інтереси збігаються."/>
     <string id="fxEka7Bm" text="Дати хабар {AMOUNT}{GOLD_ICON}, щоб увійти"/>
     <string id="fxfInKgI" text="Wolf down the food yourself and smack your lips, telling the men that they are lucky to have such fine rations."/>
     <string id="fxGdAlI2" text="Ви можете очистити дві одиниці високоякісної сталі і отримати одну одиницю тамаскінової сталі{newline} і, як побічний продукт, одну одиницю чавуну."/>
