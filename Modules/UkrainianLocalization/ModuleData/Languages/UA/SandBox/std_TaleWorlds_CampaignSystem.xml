@@ -1290,7 +1290,7 @@
     <string id="b6Zc1yre" text="I don't think you can help me. You'd need a bit of influence..."/>
     <string id="b7APCGY2" text="Поговорити з кимось іншим"/>
     <string id="B7HwvV6L" text="Повноцінний відпочинок"/>
-    <string id="B7JVLc4u" text="Choose a Tutor"/>
+    <string id="B7JVLc4u" text="Виберіть вчителя"/>
     <string id="B7rEq40B" text="{LORD_INTRODUCTION_STRING} {TOWN_INFO_STRING}"/>
     <string id="b7UHp4J9" text="Leave the siege"/>
     <string id="B818zx3W" text="Your clan is at war with factions with which the {KINGDOM} is at peace."/>
@@ -1723,7 +1723,7 @@
     <string id="CTqO5MBf" text="{VALUE}% шкоди від одноручної зброї."/>
     <string id="CtsdrQ9N" text="Назва фракції не повинна містити декілька пропусків підряд"/>
     <string id="cu2cLT5r" text="Крізь дерева ви помічаєте галявину в лісі, на якій, схоже, видніються обриси табору."/>
-    <string id="CU3u0c02" text="Childhood"/>
+    <string id="CU3u0c02" text="Дитинство"/>
     <string id="CU9g49fo" text="Забезпечує зрошення, збільшуючи темпи зростання у прилеглих селах."/>
     <string id="cUaUTwx5" text="Потрійна шкода щитам від кавалерійського списа."/>
     <string id="CuFvVPNt" text="I have a proposal that may benefit us both."/>
@@ -3483,7 +3483,7 @@
     <string id="lyxa5jbH" text="Effect of tribute paying to the declared"/>
     <string id="lZj61xTm" text="You don't know who you're messing with. There are scores of our brothers hiding in the woods, just waiting for our signal to pepper you with arrows."/>
     <string id="lzK4PmYL" text="Rob the entertainers. No doubt their wealth is ill-gotten, and to whom will they complain?"/>
-    <string id="lZSu0iOo" text="{CHILD.NAME} is now at an age when it is customary to assign a well-born child a tutor. You decided to entrust {?CHILD.GENDER}her{?}him{\?} to your... "/>
+    <string id="lZSu0iOo" text="{CHILD.NAME} зараз у віці, коли зазвичай дітям з хороших сімей призначають вчителя. Ви вирішили, що для цієї ролі найкраще підійде ваш... "/>
     <string id="M04V0cmt" text="{VALUE}% розходу впливу при призові загонів до армії."/>
     <string id="M06TjiMd" text="What's that?"/>
     <string id="M0Gpl0dH" text="In Settlement"/>
@@ -4745,7 +4745,7 @@
     <string id="ssljPTUr" text="Весела компанія"/>
     <string id="SSm1kkaB" text="{VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} характеристик до Контролю піхоті, {VALUE} очк{#GET_PLURAL_VALUE(VALUE)}о{#}и{#}ів{\#} характеристик до Сили лучникам вашого підрозділу."/>
     <string id="St6NxphR" text="Be my guest, who would you like to talk to?"/>
-    <string id="stewardprofession" text="Steward"/>
+    <string id="stewardprofession" text="{.m}Розпорядник{.R_n20_a}"/>
     <string id="sTfr1C8H" text="Thank you. But if the storms come before you find them, well, that would be bad for us.[ib:nervous2][if:convo_nervous]"/>
     <string id="sTgjLrPX" text="Crouched speed +{a0}%"/>
     <string id="STLwVkdO" text="Accept the Sisters' help"/>
