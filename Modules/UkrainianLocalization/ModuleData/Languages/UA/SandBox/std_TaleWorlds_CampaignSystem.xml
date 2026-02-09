@@ -3325,7 +3325,7 @@
     <string id="LAxaYQzv" text="{VALUE}% штрафу точності при повороті."/>
     <string id="lay7hKUK" text="I insist that my {?PLAYER.GENDER}wife{?}husband{\?} conduct {?PLAYER.GENDER}herself{?}himself{\?} according to the highest standards."/>
     <string id="lbGa4ihC" text="Могутній удар"/>
-    <string id="lbHswWdb" text="Суть полювання полягає в уважному стеженні за довкіллям і вмінні вистежити свою здобич. Ви відчували, що ті самі навички стануть у нагоді і лорду під час подорожей дикою місцевістю."/>
+    <string id="lbHswWdb" text="Суть полювання полягає в уважному спостережені за довкіллям і вмінні вистежити свою здобич. Ви відчували, що ті самі навички стануть у нагоді і знатній особі під час подорожей дикою місцевістю."/>
     <string id="lbrOAvKj" text="Дальність виявлення +{a0}%"/>
     <string id="Lbs2bNlg" text="{KINGDOM} почне {POLICY_DESCRIPTION} ({POLICY}). {POLICY_SUPPORT}"/>
     <string id="lbS9uHyp" text="{AMOUNT}% ваших воїнів будуть пораненими й кожен з них має {DEATH_CHANCE}% шанс загинути"/>
