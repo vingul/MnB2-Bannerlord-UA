@@ -2485,7 +2485,7 @@
     <string id="GQ96SX4M" text="{QUEST_GIVER.LINK} told you that {?QUEST_GIVER.GENDER}she{?}he{\?} needs {?MOUNT_TYPE_IS_CAMEL}camels{?}horses{\?} for {?QUEST_GIVER.GENDER}her{?}his{\?} party. {?QUEST_GIVER.GENDER}She{?}He{\?} asked you to bring {MOUNT_COUNT} {PLURAL(MOUNT_NAME)} to {?QUEST_GIVER.GENDER}her{?}him{\?} or one of {?QUEST_GIVER.GENDER}her{?}his{\?} garrison commanders. {?QUEST_GIVER.GENDER}She{?}He{\?} will pay you {REWARD_GOLD}{GOLD_ICON} denars when the task is done."/>
     <string id="gqboke7l" text="{VALUE} до максимуму загонів в клані."/>
     <string id="gQigaCkD" text="One of your {RECRUIT} fell asleep on guard. He was new to your company and not popular, and your men are angry. He put their lives at risk, and they demand he be turned over to them to face the ancient Calradic penalty - to run the gauntlet of men with sticks who will beat him, an ordeal that frequently ends in death."/>
-    <string id="gqUtaPRM" text="Мисливець організовує полювання та стежить за браконьєрами та злодіями. Ваша дитина повинна навчитися володіти мисливськими луками та арбалетами, а також основам розвідки та вистежування."/>
+    <string id="gqUtaPRM" text="Мисливець організовує полювання та патрулює місцевість, щоб виявляти браконьєрів та злодіїв. Ваша дитина повинна навчитися володіти луками та арбалетами, а також основам розвідки та вистежування."/>
     <string id="GQWArgN4" text="{?AMOUNT &gt;= 1}Get{?}Lose{\?} {ABS(AMOUNT)} {?AMOUNT &gt; 1}{PLURAL(ITEM)}{?}{ITEM}{\?}"/>
     <string id="gR0ksbaQ" text="Get your things. I'd like you to rejoin the party."/>
     <string id="grgnisK4" text="Зустрічний вогонь"/>
